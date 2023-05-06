@@ -1,0 +1,16 @@
+{
+  "name": "data_lokasi_indonesia",
+  "version": "1.0.0",
+  "description": "Data lokasi di Indonesia yang di ambil dari scrape nomor.net",
+  "main": "index.js",
+  "author": "DavidArl",
+  "scripts": {
+    "scrape": "node src/index.js",
+    "validate": "node src/validation.js"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "loading-cli": "^1.1.0",
+    "puppeteer": "^20.1.0"
+  }
+}
