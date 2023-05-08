@@ -106,10 +106,15 @@ function env(name, defaultValue = null) {
     return Number(val)
 }
 
+function slugable(text) {
+    return text.toLowerCase().replace(/[^a-zA-Z0-9]+/g, '-');
+}
+
 module.exports = {
     sleep,
     argsExist,
     saveToFile,
+    slugable,
     loading,
     scrapeLoading,
     makeArray,

@@ -16,31 +16,36 @@ async function scrapeDataKecamatan(pages, info) {
         const dataKab = dataListKabupaten.pop()
         if (dataKab === undefined) return true
 
-        await page.goto(dataKab.detail_link);
-        const resultDataKec = await page.$eval('body table table:nth-child(2) table:nth-child(4) > tbody', (tbody) => {
-            return Object.values(tbody.childNodes).map(tr => {
-                const td = tr.querySelectorAll('td')
-                if(isNaN(td[0].innerText)) return null
-                return {
-                    no: td[0].innerText,
-                    name: td[1].innerText,
-                    detail_link: td[1].firstElementChild.href,
-                    kodepos: td[2].innerText.split(':')[1].trim().split(' - '),
-                    desa: {
-                        href: td[3].firstElementChild.href,
-                        jumlah: td[3].innerText
-                    },
-                    pulau: td[4].firstElementChild ? {
-                        href: td[4].firstElementChild.href,
-                        jumlah: td[4].innerText
-                    } : null,
-                    kode: td[5].innerText,
-                }
-            }).filter(d => d !== null)
-        })
-
-        saveToFile('kecamatans/kab_'+dataKab.kode, resultDataKec)
-        load.add(resultDataKec.length)
+        if(fs.existsSync(__dirname + '/../data/kecamatans/kab_'+dataKab.kode+'.json')) {
+            const resultDataKec = require('../data/kecamatans/kab_'+dataKab.kode+'.json')
+            load.add(resultDataKec.length)
+        } else {
+            await page.goto(dataKab.detail_link);
+            const resultDataKec = await page.$eval('body table table:nth-child(2) table:nth-child(4) > tbody', (tbody) => {
+                return Object.values(tbody.childNodes).map(tr => {
+                    const td = tr.querySelectorAll('td')
+                    if(isNaN(td[0].innerText)) return null
+                    return {
+                        no: td[0].innerText,
+                        name: td[1].innerText,
+                        detail_link: td[1].firstElementChild.href,
+                        kodepos: td[2].innerText.split(':')[1].trim().split(' - '),
+                        desa: {
+                            href: td[3].firstElementChild.href,
+                            jumlah: td[3].innerText
+                        },
+                        pulau: td[4].firstElementChild ? {
+                            href: td[4].firstElementChild.href,
+                            jumlah: td[4].innerText
+                        } : null,
+                        kode: td[5].innerText,
+                    }
+                }).filter(d => d !== null)
+            })
+    
+            saveToFile('kecamatans/kab_'+dataKab.kode, resultDataKec)
+            load.add(resultDataKec.length)
+        }
 
         if(dataListKabupaten.length) return doScrape(page, dataListKabupaten)
         return true
