@@ -10,6 +10,7 @@
   },
   "license": "MIT",
   "dependencies": {
+    "dotenv": "^16.0.3",
     "loading-cli": "^1.1.0",
     "puppeteer": "^20.1.0"
   }

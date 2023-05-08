@@ -1,3 +1,4 @@
+require('dotenv').config()
 const fs = require('fs');
 const path = require('path');
 const loadingCli =  require('loading-cli');
@@ -92,6 +93,17 @@ class Loading {
     }
 }
 
+/**
+ * 
+ * @param {string} name
+ * @param {any} defaultValue 
+ */
+function env(name, defaultValue = null) {
+    const val = process.env[name] || defaultValue
+    if (isNaN(val)) return val
+    return Number(val)
+}
+
 module.exports = {
     sleep,
     argsExist,
@@ -99,5 +111,6 @@ module.exports = {
     loading,
     scrapeLoading,
     makeArray,
-    random
+    random,
+    env
 }

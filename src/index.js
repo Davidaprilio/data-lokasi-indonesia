@@ -1,5 +1,5 @@
 const puppeteer = require('puppeteer');
-const { argsExist, makeArray, loading } = require('./utils');
+const { argsExist, makeArray, loading, env } = require('./utils');
 const scrapeDataProvinsi = require('./provinsi');
 const scrapeDataKabupaten = require('./kabupaten');
 const scrapeDataKecamatan = require('./kecamatan');
@@ -51,11 +51,11 @@ async function start() {
 
     if (isWith.provinsi) await scrapeDataProvinsi(pages, info)
 
-    if (isWith.kabupaten) await scrapeDataKabupaten(await usePage(10), info)
+    if (isWith.kabupaten) await scrapeDataKabupaten(await usePage(env('PAGES_KABUPATEN', 10)), info)
 
-    if (isWith.kecamatan) await scrapeDataKecamatan(await usePage(40), info)
+    if (isWith.kecamatan) await scrapeDataKecamatan(await usePage(env('PAGES_KECAMATAN', 30)), info)
 
-    if (isWith.desa) await scrapeDataDesa(await usePage(70), info)
+    if (isWith.desa) await scrapeDataDesa(await usePage(env('PAGES_DESA', 60)), info)
 
     await browser.close();
 }
