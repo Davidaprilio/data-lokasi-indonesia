@@ -1,5 +1,5 @@
 const { Page } = require("puppeteer");
-const { saveToFile, scrapeLoading } = require('./utils');
+const { saveToFile, scrapeLoading, slugable } = require('./utils');
 const fs = require('fs');
 
 /** @param {Page[]} pages */
@@ -7,12 +7,13 @@ async function scrapeDataKabupaten(pages, info) {
     const load = scrapeLoading('Kabupaten', info.data.kota_kab)
     const dataProvinsi = require('../data/provinsi_detail.json');
 
+    /** @param {dataProvinsi} dataProvinsi */
     async function doScrape(page, dataProvinsi) {
         const data = dataProvinsi.pop()
         if (data === undefined) return true
-
-        if(fs.existsSync(__dirname + '/../data/kabupatens/prov_'+data.provinsi.kode+'.json')) {
-            const dataKabupaten = require('../data/kabupatens/prov_'+data.provinsi.kode+'.json')
+        const filename = `${data.provinsi.kode}_${slugable(data.provinsi.name)}`
+        if(fs.existsSync(__dirname + '/../data/kabupatens/prov_'+filename+'.json')) {
+            const dataKabupaten = require('../data/kabupatens/prov_'+filename+'.json')
             load.add(dataKabupaten.length)
         } else {
             await page.goto(data.provinsi.href+'&perhal=100');
@@ -43,7 +44,7 @@ async function scrapeDataKabupaten(pages, info) {
                     }
                 }).filter(d => d !== null)
             })
-            saveToFile('kabupatens/prov_'+data.provinsi.kode, dataKabupaten)
+            saveToFile('kabupatens/prov_'+filename, dataKabupaten)
             load.add(dataKabupaten.length)
         }
 

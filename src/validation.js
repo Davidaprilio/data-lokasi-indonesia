@@ -1,6 +1,6 @@
-const { loading } = require('./utils')
+const { loading, slugable } = require('./utils')
 const listProvinsi = require('../data/provinsi_detail.json')
-const listKabupatenType = require('../data/kabupatens/prov_11.json')
+const listKabupatenType = require('../data/kabupatens/prov_11_aceh-nad-.json')
 const listKecamatanType = require('../data/kecamatans/kab_11.01.json')
 const listDesaType = require('../data/desa/kec_11.01.01.json')
 
@@ -11,7 +11,7 @@ function validation(provinsi) {
     /** @type {listKabupatenType} */
     let listKabupaten = {}
     try {
-        listKabupaten = require(`../data/kabupatens/prov_${provinsi.provinsi.kode}.json`)
+        listKabupaten = require(`../data/kabupatens/prov_${provinsi.provinsi.kode}_${slugable(provinsi.provinsi.name)}.json`)
     } catch (error) {
         return load.fail(
             `${provinsi.provinsi.name} - tidak ada data kabupaten`
