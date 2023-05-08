@@ -22,7 +22,8 @@ if (isNotSelectedAll) {
 
 async function start() {
     const browser = await puppeteer.launch({
-        headless: 'new'
+        headless: env('HEADLESS', 'new'),
+        waitUntil: 'load',
     });
     const pages = await browser.pages()
     

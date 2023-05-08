@@ -100,6 +100,8 @@ class Loading {
  */
 function env(name, defaultValue = null) {
     const val = process.env[name] || defaultValue
+    if (val === 'true') return true
+    if (val === 'false') return false
     if (isNaN(val)) return val
     return Number(val)
 }
