@@ -1,0 +1,285 @@
+[
+    {
+        "no": "1",
+        "name": "Bagor",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Nganjuk&jobs=Bagor",
+        "kodepos": [
+            "64461"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Nganjuk&jobs=Bagor",
+            "jumlah": "21"
+        },
+        "pulau": null,
+        "kode": "35.18.14"
+    },
+    {
+        "no": "2",
+        "name": "Baron",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Nganjuk&jobs=Baron",
+        "kodepos": [
+            "64394"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Nganjuk&jobs=Baron",
+            "jumlah": "11"
+        },
+        "pulau": null,
+        "kode": "35.18.10"
+    },
+    {
+        "no": "3",
+        "name": "Berbek",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Nganjuk&jobs=Berbek",
+        "kodepos": [
+            "64473"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Nganjuk&jobs=Berbek",
+            "jumlah": "19"
+        },
+        "pulau": null,
+        "kode": "35.18.03"
+    },
+    {
+        "no": "4",
+        "name": "Gondang",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Nganjuk&jobs=Gondang",
+        "kodepos": [
+            "64451"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Nganjuk&jobs=Gondang",
+            "jumlah": "17"
+        },
+        "pulau": null,
+        "kode": "35.18.17"
+    },
+    {
+        "no": "5",
+        "name": "Jatikalen",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Nganjuk&jobs=Jatikalen",
+        "kodepos": [
+            "64392"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Nganjuk&jobs=Jatikalen",
+            "jumlah": "11"
+        },
+        "pulau": null,
+        "kode": "35.18.20"
+    },
+    {
+        "no": "6",
+        "name": "Kertosono",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Nganjuk&jobs=Kertosono",
+        "kodepos": [
+            "64311",
+            "64315"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Nganjuk&jobs=Kertosono",
+            "jumlah": "14"
+        },
+        "pulau": null,
+        "kode": "35.18.08"
+    },
+    {
+        "no": "7",
+        "name": "Lengkong",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Nganjuk&jobs=Lengkong",
+        "kodepos": [
+            "64393"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Nganjuk&jobs=Lengkong",
+            "jumlah": "16"
+        },
+        "pulau": null,
+        "kode": "35.18.19"
+    },
+    {
+        "no": "8",
+        "name": "Loceret",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Nganjuk&jobs=Loceret",
+        "kodepos": [
+            "64471"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Nganjuk&jobs=Loceret",
+            "jumlah": "22"
+        },
+        "pulau": null,
+        "kode": "35.18.04"
+    },
+    {
+        "no": "9",
+        "name": "Nganjuk",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Nganjuk&jobs=Nganjuk",
+        "kodepos": [
+            "64411",
+            "64419"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Nganjuk&jobs=Nganjuk",
+            "jumlah": "15"
+        },
+        "pulau": null,
+        "kode": "35.18.13"
+    },
+    {
+        "no": "10",
+        "name": "Ngetos",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Nganjuk&jobs=Ngetos",
+        "kodepos": [
+            "64474"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Nganjuk&jobs=Ngetos",
+            "jumlah": "9"
+        },
+        "pulau": null,
+        "kode": "35.18.02"
+    },
+    {
+        "no": "11",
+        "name": "Ngluyu",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Nganjuk&jobs=Ngluyu",
+        "kodepos": [
+            "64452"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Nganjuk&jobs=Ngluyu",
+            "jumlah": "6"
+        },
+        "pulau": null,
+        "kode": "35.18.18"
+    },
+    {
+        "no": "12",
+        "name": "Ngronggot",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Nganjuk&jobs=Ngronggot",
+        "kodepos": [
+            "64395"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Nganjuk&jobs=Ngronggot",
+            "jumlah": "13"
+        },
+        "pulau": null,
+        "kode": "35.18.07"
+    },
+    {
+        "no": "13",
+        "name": "Pace",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Nganjuk&jobs=Pace",
+        "kodepos": [
+            "64451",
+            "64472"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Nganjuk&jobs=Pace",
+            "jumlah": "18"
+        },
+        "pulau": null,
+        "kode": "35.18.05"
+    },
+    {
+        "no": "14",
+        "name": "Patianrowo",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Nganjuk&jobs=Patianrowo",
+        "kodepos": [
+            "64391"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Nganjuk&jobs=Patianrowo",
+            "jumlah": "11"
+        },
+        "pulau": null,
+        "kode": "35.18.09"
+    },
+    {
+        "no": "15",
+        "name": "Prambon",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Nganjuk&jobs=Prambon",
+        "kodepos": [
+            "64484"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Nganjuk&jobs=Prambon",
+            "jumlah": "14"
+        },
+        "pulau": null,
+        "kode": "35.18.06"
+    },
+    {
+        "no": "16",
+        "name": "Rejoso",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Nganjuk&jobs=Rejoso",
+        "kodepos": [
+            "64453"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Nganjuk&jobs=Rejoso",
+            "jumlah": "24"
+        },
+        "pulau": null,
+        "kode": "35.18.16"
+    },
+    {
+        "no": "17",
+        "name": "Sawahan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Nganjuk&jobs=Sawahan",
+        "kodepos": [
+            "64475"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Nganjuk&jobs=Sawahan",
+            "jumlah": "9"
+        },
+        "pulau": null,
+        "kode": "35.18.01"
+    },
+    {
+        "no": "18",
+        "name": "Sukomoro",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Nganjuk&jobs=Sukomoro",
+        "kodepos": [
+            "64481"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Nganjuk&jobs=Sukomoro",
+            "jumlah": "12"
+        },
+        "pulau": null,
+        "kode": "35.18.12"
+    },
+    {
+        "no": "19",
+        "name": "Tanjunganom",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Nganjuk&jobs=Tanjunganom",
+        "kodepos": [
+            "64482"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Nganjuk&jobs=Tanjunganom",
+            "jumlah": "16"
+        },
+        "pulau": null,
+        "kode": "35.18.11"
+    },
+    {
+        "no": "20",
+        "name": "Wilangan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Nganjuk&jobs=Wilangan",
+        "kodepos": [
+            "64462"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Nganjuk&jobs=Wilangan",
+            "jumlah": "6"
+        },
+        "pulau": null,
+        "kode": "35.18.15"
+    }
+]

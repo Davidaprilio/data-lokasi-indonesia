@@ -1,0 +1,88 @@
+[
+    {
+        "no": "1",
+        "name": "Cipocok Jaya",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Serang&jobs=Cipocok%20Jaya",
+        "kodepos": [
+            "42121",
+            "42128"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Serang&jobs=Cipocok%20Jaya",
+            "jumlah": "8"
+        },
+        "pulau": null,
+        "kode": "36.73.05"
+    },
+    {
+        "no": "2",
+        "name": "Curug",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Serang&jobs=Curug",
+        "kodepos": [
+            "42171"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Serang&jobs=Curug",
+            "jumlah": "10"
+        },
+        "pulau": null,
+        "kode": "36.73.04"
+    },
+    {
+        "no": "3",
+        "name": "Kasemen",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Serang&jobs=Kasemen",
+        "kodepos": [
+            "42191"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Serang&jobs=Kasemen",
+            "jumlah": "10"
+        },
+        "pulau": null,
+        "kode": "36.73.02"
+    },
+    {
+        "no": "4",
+        "name": "Serang",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Serang&jobs=Serang",
+        "kodepos": [
+            "42111",
+            "42119"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Serang&jobs=Serang",
+            "jumlah": "12"
+        },
+        "pulau": null,
+        "kode": "36.73.01"
+    },
+    {
+        "no": "5",
+        "name": "Taktakan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Serang&jobs=Taktakan",
+        "kodepos": [
+            "42162"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Serang&jobs=Taktakan",
+            "jumlah": "12"
+        },
+        "pulau": null,
+        "kode": "36.73.06"
+    },
+    {
+        "no": "6",
+        "name": "Walantaka",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Serang&jobs=Walantaka",
+        "kodepos": [
+            "42183"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Serang&jobs=Walantaka",
+            "jumlah": "14"
+        },
+        "pulau": null,
+        "kode": "36.73.03"
+    }
+]

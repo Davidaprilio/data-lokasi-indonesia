@@ -1,0 +1,44 @@
+[
+    {
+        "no": "1",
+        "kodepos": "20154",
+        "name": "Babura",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Medan%20Baru-Kota-Medan&jobs=Babura",
+        "kode": "12.71.17.1002"
+    },
+    {
+        "no": "2",
+        "kodepos": "20153",
+        "name": "Darat",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Medan%20Baru-Kota-Medan&jobs=Darat",
+        "kode": "12.71.17.1004"
+    },
+    {
+        "no": "3",
+        "kodepos": "20154",
+        "name": "Merdeka",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Medan%20Baru-Kota-Medan&jobs=Merdeka",
+        "kode": "12.71.17.1003"
+    },
+    {
+        "no": "4",
+        "kodepos": "20155",
+        "name": "Padang Bulan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Medan%20Baru-Kota-Medan&jobs=Padang%20Bulan",
+        "kode": "12.71.17.1005"
+    },
+    {
+        "no": "5",
+        "kodepos": "20153",
+        "name": "Petisah Hulu",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Medan%20Baru-Kota-Medan&jobs=Petisah%20Hulu",
+        "kode": "12.71.17.1001"
+    },
+    {
+        "no": "6",
+        "kodepos": "20156",
+        "name": "Titi Rantai/Rante",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Medan%20Baru-Kota-Medan&jobs=Titi%20Rantai/Rante",
+        "kode": "12.71.17.1006"
+    }
+]

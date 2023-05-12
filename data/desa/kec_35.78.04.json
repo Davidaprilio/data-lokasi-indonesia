@@ -1,0 +1,44 @@
+[
+    {
+        "no": "1",
+        "kodepos": "60241",
+        "name": "Darmo",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Wonokromo-Kota-Surabaya&jobs=Darmo",
+        "kode": "35.78.04.1005"
+    },
+    {
+        "no": "2",
+        "kodepos": "60244",
+        "name": "Jagir",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Wonokromo-Kota-Surabaya&jobs=Jagir",
+        "kode": "35.78.04.1002"
+    },
+    {
+        "no": "3",
+        "kodepos": "60246",
+        "name": "Ngagel",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Wonokromo-Kota-Surabaya&jobs=Ngagel",
+        "kode": "35.78.04.1003"
+    },
+    {
+        "no": "4",
+        "kodepos": "60245",
+        "name": "Ngagel Rejo (Ngagelrejo)",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Wonokromo-Kota-Surabaya&jobs=Ngagel%20Rejo%20(Ngagelrejo)",
+        "kode": "35.78.04.1004"
+    },
+    {
+        "no": "5",
+        "kodepos": "60242",
+        "name": "Sawunggaling",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Wonokromo-Kota-Surabaya&jobs=Sawunggaling",
+        "kode": "35.78.04.1006"
+    },
+    {
+        "no": "6",
+        "kodepos": "60243",
+        "name": "Wonokromo",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Wonokromo-Kota-Surabaya&jobs=Wonokromo",
+        "kode": "35.78.04.1001"
+    }
+]

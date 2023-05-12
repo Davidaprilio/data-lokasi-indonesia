@@ -1,0 +1,339 @@
+[
+    {
+        "no": "1",
+        "name": "Ampibabo",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Parigi%20Moutong&jobs=Ampibabo",
+        "kodepos": [
+            "94474"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Parigi%20Moutong&jobs=Ampibabo",
+            "jumlah": "19"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Parigi%20Moutong&jobs=Ampibabo",
+            "jumlah": "2"
+        },
+        "kode": "72.08.02"
+    },
+    {
+        "no": "2",
+        "name": "Balinggi",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Parigi%20Moutong&jobs=Balinggi",
+        "kodepos": [
+            "94473"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Parigi%20Moutong&jobs=Balinggi",
+            "jumlah": "9"
+        },
+        "pulau": null,
+        "kode": "72.08.15"
+    },
+    {
+        "no": "3",
+        "name": "Bolano",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Parigi%20Moutong&jobs=Bolano",
+        "kodepos": [
+            "94479"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Parigi%20Moutong&jobs=Bolano",
+            "jumlah": "13"
+        },
+        "pulau": null,
+        "kode": "72.08.21"
+    },
+    {
+        "no": "4",
+        "name": "Bolano Lambunu",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Parigi%20Moutong&jobs=Bolano%20Lambunu",
+        "kodepos": [
+            "94480"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Parigi%20Moutong&jobs=Bolano%20Lambunu",
+            "jumlah": "14"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Parigi%20Moutong&jobs=Bolano%20Lambunu",
+            "jumlah": "1"
+        },
+        "kode": "72.08.07"
+    },
+    {
+        "no": "5",
+        "name": "Kasimbar",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Parigi%20Moutong&jobs=Kasimbar",
+        "kodepos": [
+            "94464"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Parigi%20Moutong&jobs=Kasimbar",
+            "jumlah": "18"
+        },
+        "pulau": null,
+        "kode": "72.08.08"
+    },
+    {
+        "no": "6",
+        "name": "Mepanga",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Parigi%20Moutong&jobs=Mepanga",
+        "kodepos": [
+            "94476"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Parigi%20Moutong&jobs=Mepanga",
+            "jumlah": "18"
+        },
+        "pulau": null,
+        "kode": "72.08.12"
+    },
+    {
+        "no": "7",
+        "name": "Moutong",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Parigi%20Moutong&jobs=Moutong",
+        "kodepos": [
+            "94481"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Parigi%20Moutong&jobs=Moutong",
+            "jumlah": "20"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Parigi%20Moutong&jobs=Moutong",
+            "jumlah": "7"
+        },
+        "kode": "72.08.04"
+    },
+    {
+        "no": "8",
+        "name": "Ongka Malino",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Parigi%20Moutong&jobs=Ongka%20Malino",
+        "kodepos": [
+            "94482"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Parigi%20Moutong&jobs=Ongka%20Malino",
+            "jumlah": "17"
+        },
+        "pulau": null,
+        "kode": "72.08.22"
+    },
+    {
+        "no": "9",
+        "name": "Palasa",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Parigi%20Moutong&jobs=Palasa",
+        "kodepos": [
+            "94477"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Parigi%20Moutong&jobs=Palasa",
+            "jumlah": "11"
+        },
+        "pulau": null,
+        "kode": "72.08.18"
+    },
+    {
+        "no": "10",
+        "name": "Parigi",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Parigi%20Moutong&jobs=Parigi",
+        "kodepos": [
+            "94471"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Parigi%20Moutong&jobs=Parigi",
+            "jumlah": "11"
+        },
+        "pulau": null,
+        "kode": "72.08.01"
+    },
+    {
+        "no": "11",
+        "name": "Parigi Barat",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Parigi%20Moutong&jobs=Parigi%20Barat",
+        "kodepos": [
+            "94460"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Parigi%20Moutong&jobs=Parigi%20Barat",
+            "jumlah": "6"
+        },
+        "pulau": null,
+        "kode": "72.08.16"
+    },
+    {
+        "no": "12",
+        "name": "Parigi Selatan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Parigi%20Moutong&jobs=Parigi%20Selatan",
+        "kodepos": [
+            "94461"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Parigi%20Moutong&jobs=Parigi%20Selatan",
+            "jumlah": "10"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Parigi%20Moutong&jobs=Parigi%20Selatan",
+            "jumlah": "1"
+        },
+        "kode": "72.08.11"
+    },
+    {
+        "no": "13",
+        "name": "Parigi Tengah",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Parigi%20Moutong&jobs=Parigi%20Tengah",
+        "kodepos": [
+            "94462"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Parigi%20Moutong&jobs=Parigi%20Tengah",
+            "jumlah": "6"
+        },
+        "pulau": null,
+        "kode": "72.08.20"
+    },
+    {
+        "no": "14",
+        "name": "Parigi Utara",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Parigi%20Moutong&jobs=Parigi%20Utara",
+        "kodepos": [
+            "94463"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Parigi%20Moutong&jobs=Parigi%20Utara",
+            "jumlah": "5"
+        },
+        "pulau": null,
+        "kode": "72.08.19"
+    },
+    {
+        "no": "15",
+        "name": "Sausu",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Parigi%20Moutong&jobs=Sausu",
+        "kodepos": [
+            "94472"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Parigi%20Moutong&jobs=Sausu",
+            "jumlah": "10"
+        },
+        "pulau": null,
+        "kode": "72.08.06"
+    },
+    {
+        "no": "16",
+        "name": "Sidoan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Parigi%20Moutong&jobs=Sidoan",
+        "kodepos": [
+            "94475"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Parigi%20Moutong&jobs=Sidoan",
+            "jumlah": "11"
+        },
+        "pulau": null,
+        "kode": "72.08.23"
+    },
+    {
+        "no": "17",
+        "name": "Siniu",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Parigi%20Moutong&jobs=Siniu",
+        "kodepos": [
+            "94467"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Parigi%20Moutong&jobs=Siniu",
+            "jumlah": "9"
+        },
+        "pulau": null,
+        "kode": "72.08.17"
+    },
+    {
+        "no": "18",
+        "name": "Taopa",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Parigi%20Moutong&jobs=Taopa",
+        "kodepos": [
+            "94483"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Parigi%20Moutong&jobs=Taopa",
+            "jumlah": "11"
+        },
+        "pulau": null,
+        "kode": "72.08.14"
+    },
+    {
+        "no": "19",
+        "name": "Tinombo",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Parigi%20Moutong&jobs=Tinombo",
+        "kodepos": [
+            "94465"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Parigi%20Moutong&jobs=Tinombo",
+            "jumlah": "15"
+        },
+        "pulau": null,
+        "kode": "72.08.03"
+    },
+    {
+        "no": "20",
+        "name": "Tinombo Selatan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Parigi%20Moutong&jobs=Tinombo%20Selatan",
+        "kodepos": [
+            "94468"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Parigi%20Moutong&jobs=Tinombo%20Selatan",
+            "jumlah": "20"
+        },
+        "pulau": null,
+        "kode": "72.08.10"
+    },
+    {
+        "no": "21",
+        "name": "Tomini",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Parigi%20Moutong&jobs=Tomini",
+        "kodepos": [
+            "94478"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Parigi%20Moutong&jobs=Tomini",
+            "jumlah": "14"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Parigi%20Moutong&jobs=Tomini",
+            "jumlah": "10"
+        },
+        "kode": "72.08.05"
+    },
+    {
+        "no": "22",
+        "name": "Toribulu",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Parigi%20Moutong&jobs=Toribulu",
+        "kodepos": [
+            "94466"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Parigi%20Moutong&jobs=Toribulu",
+            "jumlah": "9"
+        },
+        "pulau": null,
+        "kode": "72.08.13"
+    },
+    {
+        "no": "23",
+        "name": "Torue",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Parigi%20Moutong&jobs=Torue",
+        "kodepos": [
+            "94470"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Parigi%20Moutong&jobs=Torue",
+            "jumlah": "7"
+        },
+        "pulau": null,
+        "kode": "72.08.09"
+    }
+]

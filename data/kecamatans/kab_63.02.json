@@ -1,0 +1,337 @@
+[
+    {
+        "no": "1",
+        "name": "Hampang",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kotabaru&jobs=Hampang",
+        "kodepos": [
+            "72163"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kotabaru&jobs=Hampang",
+            "jumlah": "9"
+        },
+        "pulau": null,
+        "kode": "63.02.14"
+    },
+    {
+        "no": "2",
+        "name": "Kelumpang Barat",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kotabaru&jobs=Kelumpang%20Barat",
+        "kodepos": [
+            "72164",
+            "72167"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kotabaru&jobs=Kelumpang%20Barat",
+            "jumlah": "6"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kotabaru&jobs=Kelumpang%20Barat",
+            "jumlah": "17"
+        },
+        "kode": "63.02.18"
+    },
+    {
+        "no": "3",
+        "name": "Kelumpang Hilir",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kotabaru&jobs=Kelumpang%20Hilir",
+        "kodepos": [
+            "72161"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kotabaru&jobs=Kelumpang%20Hilir",
+            "jumlah": "9"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kotabaru&jobs=Kelumpang%20Hilir",
+            "jumlah": "2"
+        },
+        "kode": "63.02.17"
+    },
+    {
+        "no": "4",
+        "name": "Kelumpang Hulu",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kotabaru&jobs=Kelumpang%20Hulu",
+        "kodepos": [
+            "72162"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kotabaru&jobs=Kelumpang%20Hulu",
+            "jumlah": "10"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kotabaru&jobs=Kelumpang%20Hulu",
+            "jumlah": "5"
+        },
+        "kode": "63.02.08"
+    },
+    {
+        "no": "5",
+        "name": "Kelumpang Selatan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kotabaru&jobs=Kelumpang%20Selatan",
+        "kodepos": [
+            "72160"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kotabaru&jobs=Kelumpang%20Selatan",
+            "jumlah": "9"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kotabaru&jobs=Kelumpang%20Selatan",
+            "jumlah": "4"
+        },
+        "kode": "63.02.07"
+    },
+    {
+        "no": "6",
+        "name": "Kelumpang Tengah",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kotabaru&jobs=Kelumpang%20Tengah",
+        "kodepos": [
+            "72164"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kotabaru&jobs=Kelumpang%20Tengah",
+            "jumlah": "13"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kotabaru&jobs=Kelumpang%20Tengah",
+            "jumlah": "5"
+        },
+        "kode": "63.02.09"
+    },
+    {
+        "no": "7",
+        "name": "Kelumpang Utara",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kotabaru&jobs=Kelumpang%20Utara",
+        "kodepos": [
+            "72165"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kotabaru&jobs=Kelumpang%20Utara",
+            "jumlah": "7"
+        },
+        "pulau": null,
+        "kode": "63.02.10"
+    },
+    {
+        "no": "8",
+        "name": "Pamukan Barat",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kotabaru&jobs=Pamukan%20Barat",
+        "kodepos": [
+            "72169"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kotabaru&jobs=Pamukan%20Barat",
+            "jumlah": "5"
+        },
+        "pulau": null,
+        "kode": "63.02.19"
+    },
+    {
+        "no": "9",
+        "name": "Pamukan Selatan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kotabaru&jobs=Pamukan%20Selatan",
+        "kodepos": [
+            "72168"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kotabaru&jobs=Pamukan%20Selatan",
+            "jumlah": "11"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kotabaru&jobs=Pamukan%20Selatan",
+            "jumlah": "1"
+        },
+        "kode": "63.02.11"
+    },
+    {
+        "no": "10",
+        "name": "Pamukan Utara",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kotabaru&jobs=Pamukan%20Utara",
+        "kodepos": [
+            "72169"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kotabaru&jobs=Pamukan%20Utara",
+            "jumlah": "13"
+        },
+        "pulau": null,
+        "kode": "63.02.13"
+    },
+    {
+        "no": "11",
+        "name": "Pulau Laut / Pulaulaut Barat",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kotabaru&jobs=Pulau%20Laut%20/%20Pulaulaut%20Barat",
+        "kodepos": [
+            "72153"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kotabaru&jobs=Pulau%20Laut%20/%20Pulaulaut%20Barat",
+            "jumlah": "11"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kotabaru&jobs=Pulau%20Laut%20/%20Pulaulaut%20Barat",
+            "jumlah": "5"
+        },
+        "kode": "63.02.02"
+    },
+    {
+        "no": "12",
+        "name": "Pulau Laut / Pulaulaut Kepulauan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kotabaru&jobs=Pulau%20Laut%20/%20Pulaulaut%20Kepulauan",
+        "kodepos": [
+            "72154"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kotabaru&jobs=Pulau%20Laut%20/%20Pulaulaut%20Kepulauan",
+            "jumlah": "9"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kotabaru&jobs=Pulau%20Laut%20/%20Pulaulaut%20Kepulauan",
+            "jumlah": "10"
+        },
+        "kode": "63.02.20"
+    },
+    {
+        "no": "13",
+        "name": "Pulau Laut / Pulaulaut Selatan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kotabaru&jobs=Pulau%20Laut%20/%20Pulaulaut%20Selatan",
+        "kodepos": [
+            "72157"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kotabaru&jobs=Pulau%20Laut%20/%20Pulaulaut%20Selatan",
+            "jumlah": "8"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kotabaru&jobs=Pulau%20Laut%20/%20Pulaulaut%20Selatan",
+            "jumlah": "8"
+        },
+        "kode": "63.02.03"
+    },
+    {
+        "no": "14",
+        "name": "Pulau Laut / Pulaulaut Tanjung Selayar",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kotabaru&jobs=Pulau%20Laut%20/%20Pulaulaut%20Tanjung%20Selayar",
+        "kodepos": [
+            "72151"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kotabaru&jobs=Pulau%20Laut%20/%20Pulaulaut%20Tanjung%20Selayar",
+            "jumlah": "10"
+        },
+        "pulau": null,
+        "kode": "63.02.21"
+    },
+    {
+        "no": "15",
+        "name": "Pulau Laut / Pulaulaut Tengah",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kotabaru&jobs=Pulau%20Laut%20/%20Pulaulaut%20Tengah",
+        "kodepos": [
+            "72156"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kotabaru&jobs=Pulau%20Laut%20/%20Pulaulaut%20Tengah",
+            "jumlah": "7"
+        },
+        "pulau": null,
+        "kode": "63.02.16"
+    },
+    {
+        "no": "16",
+        "name": "Pulau Laut / Pulaulaut Timur",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kotabaru&jobs=Pulau%20Laut%20/%20Pulaulaut%20Timur",
+        "kodepos": [
+            "72152"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kotabaru&jobs=Pulau%20Laut%20/%20Pulaulaut%20Timur",
+            "jumlah": "14"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kotabaru&jobs=Pulau%20Laut%20/%20Pulaulaut%20Timur",
+            "jumlah": "4"
+        },
+        "kode": "63.02.04"
+    },
+    {
+        "no": "17",
+        "name": "Pulau Laut / Pulaulaut Utara",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kotabaru&jobs=Pulau%20Laut%20/%20Pulaulaut%20Utara",
+        "kodepos": [
+            "72111",
+            "72117"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kotabaru&jobs=Pulau%20Laut%20/%20Pulaulaut%20Utara",
+            "jumlah": "21"
+        },
+        "pulau": null,
+        "kode": "63.02.06"
+    },
+    {
+        "no": "18",
+        "name": "Pulau Sebuku (Pulausebuku)",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kotabaru&jobs=Pulau%20Sebuku%20(Pulausebuku)",
+        "kodepos": [
+            "72155"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kotabaru&jobs=Pulau%20Sebuku%20(Pulausebuku)",
+            "jumlah": "8"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kotabaru&jobs=Pulau%20Sebuku%20(Pulausebuku)",
+            "jumlah": "8"
+        },
+        "kode": "63.02.05"
+    },
+    {
+        "no": "19",
+        "name": "Pulau Sembilan (Pulausembilan)",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kotabaru&jobs=Pulau%20Sembilan%20(Pulausembilan)",
+        "kodepos": [
+            "72181"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kotabaru&jobs=Pulau%20Sembilan%20(Pulausembilan)",
+            "jumlah": "5"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kotabaru&jobs=Pulau%20Sembilan%20(Pulausembilan)",
+            "jumlah": "19"
+        },
+        "kode": "63.02.01"
+    },
+    {
+        "no": "20",
+        "name": "Sampanahan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kotabaru&jobs=Sampanahan",
+        "kodepos": [
+            "72166"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kotabaru&jobs=Sampanahan",
+            "jumlah": "10"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kotabaru&jobs=Sampanahan",
+            "jumlah": "8"
+        },
+        "kode": "63.02.12"
+    },
+    {
+        "no": "21",
+        "name": "Sungai Durian (Sungaidurian)",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kotabaru&jobs=Sungai%20Durian%20(Sungaidurian)",
+        "kodepos": [
+            "72167"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kotabaru&jobs=Sungai%20Durian%20(Sungaidurian)",
+            "jumlah": "7"
+        },
+        "pulau": null,
+        "kode": "63.02.15"
+    }
+]

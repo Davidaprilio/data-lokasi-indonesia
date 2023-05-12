@@ -1,0 +1,228 @@
+[
+    {
+        "no": "1",
+        "name": "Indralaya",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Ogan%20Ilir&jobs=Indralaya",
+        "kodepos": [
+            "30814",
+            "30862"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Ogan%20Ilir&jobs=Indralaya",
+            "jumlah": "20"
+        },
+        "pulau": null,
+        "kode": "16.10.04"
+    },
+    {
+        "no": "2",
+        "name": "Indralaya Selatan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Ogan%20Ilir&jobs=Indralaya%20Selatan",
+        "kodepos": [
+            "30862"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Ogan%20Ilir&jobs=Indralaya%20Selatan",
+            "jumlah": "14"
+        },
+        "pulau": null,
+        "kode": "16.10.08"
+    },
+    {
+        "no": "3",
+        "name": "Indralaya Utara",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Ogan%20Ilir&jobs=Indralaya%20Utara",
+        "kodepos": [
+            "30812",
+            "30862"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Ogan%20Ilir&jobs=Indralaya%20Utara",
+            "jumlah": "16"
+        },
+        "pulau": null,
+        "kode": "16.10.07"
+    },
+    {
+        "no": "4",
+        "name": "Kandis",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Ogan%20Ilir&jobs=Kandis",
+        "kodepos": [
+            "30867"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Ogan%20Ilir&jobs=Kandis",
+            "jumlah": "12"
+        },
+        "pulau": null,
+        "kode": "16.10.13"
+    },
+    {
+        "no": "5",
+        "name": "Lubuk Keliat",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Ogan%20Ilir&jobs=Lubuk%20Keliat",
+        "kodepos": [
+            "30868"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Ogan%20Ilir&jobs=Lubuk%20Keliat",
+            "jumlah": "10"
+        },
+        "pulau": null,
+        "kode": "16.10.15"
+    },
+    {
+        "no": "6",
+        "name": "Muara Kuang",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Ogan%20Ilir&jobs=Muara%20Kuang",
+        "kodepos": [
+            "30865"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Ogan%20Ilir&jobs=Muara%20Kuang",
+            "jumlah": "14"
+        },
+        "pulau": null,
+        "kode": "16.10.01"
+    },
+    {
+        "no": "7",
+        "name": "Payaraman",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Ogan%20Ilir&jobs=Payaraman",
+        "kodepos": [
+            "30664"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Ogan%20Ilir&jobs=Payaraman",
+            "jumlah": "13"
+        },
+        "pulau": null,
+        "kode": "16.10.16"
+    },
+    {
+        "no": "8",
+        "name": "Pemulutan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Ogan%20Ilir&jobs=Pemulutan",
+        "kodepos": [
+            "30653"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Ogan%20Ilir&jobs=Pemulutan",
+            "jumlah": "25"
+        },
+        "pulau": null,
+        "kode": "16.10.05"
+    },
+    {
+        "no": "9",
+        "name": "Pemulutan Barat",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Ogan%20Ilir&jobs=Pemulutan%20Barat",
+        "kodepos": [
+            "30653"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Ogan%20Ilir&jobs=Pemulutan%20Barat",
+            "jumlah": "11"
+        },
+        "pulau": null,
+        "kode": "16.10.10"
+    },
+    {
+        "no": "10",
+        "name": "Pemulutan Selatan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Ogan%20Ilir&jobs=Pemulutan%20Selatan",
+        "kodepos": [
+            "30653"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Ogan%20Ilir&jobs=Pemulutan%20Selatan",
+            "jumlah": "15"
+        },
+        "pulau": null,
+        "kode": "16.10.09"
+    },
+    {
+        "no": "11",
+        "name": "Rambang Kuang",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Ogan%20Ilir&jobs=Rambang%20Kuang",
+        "kodepos": [
+            "30869"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Ogan%20Ilir&jobs=Rambang%20Kuang",
+            "jumlah": "13"
+        },
+        "pulau": null,
+        "kode": "16.10.14"
+    },
+    {
+        "no": "12",
+        "name": "Rantau Alai",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Ogan%20Ilir&jobs=Rantau%20Alai",
+        "kodepos": [
+            "30866"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Ogan%20Ilir&jobs=Rantau%20Alai",
+            "jumlah": "13"
+        },
+        "pulau": null,
+        "kode": "16.10.06"
+    },
+    {
+        "no": "13",
+        "name": "Rantau Panjang",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Ogan%20Ilir&jobs=Rantau%20Panjang",
+        "kodepos": [
+            "30661"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Ogan%20Ilir&jobs=Rantau%20Panjang",
+            "jumlah": "12"
+        },
+        "pulau": null,
+        "kode": "16.10.11"
+    },
+    {
+        "no": "14",
+        "name": "Sungai Pinang",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Ogan%20Ilir&jobs=Sungai%20Pinang",
+        "kodepos": [
+            "30662"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Ogan%20Ilir&jobs=Sungai%20Pinang",
+            "jumlah": "13"
+        },
+        "pulau": null,
+        "kode": "16.10.12"
+    },
+    {
+        "no": "15",
+        "name": "Tanjung Batu",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Ogan%20Ilir&jobs=Tanjung%20Batu",
+        "kodepos": [
+            "30665"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Ogan%20Ilir&jobs=Tanjung%20Batu",
+            "jumlah": "21"
+        },
+        "pulau": null,
+        "kode": "16.10.02"
+    },
+    {
+        "no": "16",
+        "name": "Tanjung Raja",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Ogan%20Ilir&jobs=Tanjung%20Raja",
+        "kodepos": [
+            "30663"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Ogan%20Ilir&jobs=Tanjung%20Raja",
+            "jumlah": "19"
+        },
+        "pulau": null,
+        "kode": "16.10.03"
+    }
+]

@@ -1,0 +1,101 @@
+[
+    {
+        "no": "1",
+        "name": "Belitang",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Sekadau&jobs=Belitang",
+        "kodepos": [
+            "79588"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Sekadau&jobs=Belitang",
+            "jumlah": "7"
+        },
+        "pulau": null,
+        "kode": "61.09.07"
+    },
+    {
+        "no": "2",
+        "name": "Belitang Hilir",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Sekadau&jobs=Belitang%20Hilir",
+        "kodepos": [
+            "79586"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Sekadau&jobs=Belitang%20Hilir",
+            "jumlah": "9"
+        },
+        "pulau": null,
+        "kode": "61.09.05"
+    },
+    {
+        "no": "3",
+        "name": "Belitang Hulu",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Sekadau&jobs=Belitang%20Hulu",
+        "kodepos": [
+            "79587"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Sekadau&jobs=Belitang%20Hulu",
+            "jumlah": "13"
+        },
+        "pulau": null,
+        "kode": "61.09.06"
+    },
+    {
+        "no": "4",
+        "name": "Nanga Mahap",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Sekadau&jobs=Nanga%20Mahap",
+        "kodepos": [
+            "79585"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Sekadau&jobs=Nanga%20Mahap",
+            "jumlah": "13"
+        },
+        "pulau": null,
+        "kode": "61.09.04"
+    },
+    {
+        "no": "5",
+        "name": "Nanga Taman",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Sekadau&jobs=Nanga%20Taman",
+        "kodepos": [
+            "79584"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Sekadau&jobs=Nanga%20Taman",
+            "jumlah": "13"
+        },
+        "pulau": null,
+        "kode": "61.09.03"
+    },
+    {
+        "no": "6",
+        "name": "Sekadau Hilir",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Sekadau&jobs=Sekadau%20Hilir",
+        "kodepos": [
+            "79511",
+            "79582"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Sekadau&jobs=Sekadau%20Hilir",
+            "jumlah": "17"
+        },
+        "pulau": null,
+        "kode": "61.09.01"
+    },
+    {
+        "no": "7",
+        "name": "Sekadau Hulu",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Sekadau&jobs=Sekadau%20Hulu",
+        "kodepos": [
+            "79583"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Sekadau&jobs=Sekadau%20Hulu",
+            "jumlah": "15"
+        },
+        "pulau": null,
+        "kode": "61.09.02"
+    }
+]

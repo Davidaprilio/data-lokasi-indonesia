@@ -1,0 +1,160 @@
+[
+    {
+        "no": "1",
+        "name": "Bajuin",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tanah%20Laut&jobs=Bajuin",
+        "kodepos": [
+            "70815"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tanah%20Laut&jobs=Bajuin",
+            "jumlah": "9"
+        },
+        "pulau": null,
+        "kode": "63.01.10"
+    },
+    {
+        "no": "2",
+        "name": "Bati-Bati",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tanah%20Laut&jobs=Bati-Bati",
+        "kodepos": [
+            "70852"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tanah%20Laut&jobs=Bati-Bati",
+            "jumlah": "14"
+        },
+        "pulau": null,
+        "kode": "63.01.05"
+    },
+    {
+        "no": "3",
+        "name": "Batu Ampar",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tanah%20Laut&jobs=Batu%20Ampar",
+        "kodepos": [
+            "70882"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tanah%20Laut&jobs=Batu%20Ampar",
+            "jumlah": "14"
+        },
+        "pulau": null,
+        "kode": "63.01.09"
+    },
+    {
+        "no": "4",
+        "name": "Bumi Makmur",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tanah%20Laut&jobs=Bumi%20Makmur",
+        "kodepos": [
+            "70853"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tanah%20Laut&jobs=Bumi%20Makmur",
+            "jumlah": "11"
+        },
+        "pulau": null,
+        "kode": "63.01.11"
+    },
+    {
+        "no": "5",
+        "name": "Jorong",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tanah%20Laut&jobs=Jorong",
+        "kodepos": [
+            "70881"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tanah%20Laut&jobs=Jorong",
+            "jumlah": "11"
+        },
+        "pulau": null,
+        "kode": "63.01.02"
+    },
+    {
+        "no": "6",
+        "name": "Kintap",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tanah%20Laut&jobs=Kintap",
+        "kodepos": [
+            "70883"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tanah%20Laut&jobs=Kintap",
+            "jumlah": "14"
+        },
+        "pulau": null,
+        "kode": "63.01.07"
+    },
+    {
+        "no": "7",
+        "name": "Kurau",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tanah%20Laut&jobs=Kurau",
+        "kodepos": [
+            "70851"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tanah%20Laut&jobs=Kurau",
+            "jumlah": "11"
+        },
+        "pulau": null,
+        "kode": "63.01.04"
+    },
+    {
+        "no": "8",
+        "name": "Panyipatan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tanah%20Laut&jobs=Panyipatan",
+        "kodepos": [
+            "70871"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tanah%20Laut&jobs=Panyipatan",
+            "jumlah": "10"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tanah%20Laut&jobs=Panyipatan",
+            "jumlah": "1"
+        },
+        "kode": "63.01.06"
+    },
+    {
+        "no": "9",
+        "name": "Pelaihari",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tanah%20Laut&jobs=Pelaihari",
+        "kodepos": [
+            "70812",
+            "70815"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tanah%20Laut&jobs=Pelaihari",
+            "jumlah": "20"
+        },
+        "pulau": null,
+        "kode": "63.01.03"
+    },
+    {
+        "no": "10",
+        "name": "Takisung",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tanah%20Laut&jobs=Takisung",
+        "kodepos": [
+            "70861"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tanah%20Laut&jobs=Takisung",
+            "jumlah": "12"
+        },
+        "pulau": null,
+        "kode": "63.01.01"
+    },
+    {
+        "no": "11",
+        "name": "Tambang Ulang",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tanah%20Laut&jobs=Tambang%20Ulang",
+        "kodepos": [
+            "70854"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tanah%20Laut&jobs=Tambang%20Ulang",
+            "jumlah": "9"
+        },
+        "pulau": null,
+        "kode": "63.01.08"
+    }
+]

@@ -1,0 +1,226 @@
+[
+    {
+        "no": "1",
+        "type": "Kabupaten",
+        "name": "Bima",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Bima",
+        "kodepos": [
+            "84111",
+            "84191"
+        ],
+        "kecamatan": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Bima",
+            "jumlah": "18"
+        },
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kab.&jobs=Bima",
+            "jumlah": "191"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kab.&jobs=Bima",
+            "jumlah": "91"
+        },
+        "kode": "52.06"
+    },
+    {
+        "no": "2",
+        "type": "Kota",
+        "name": "Bima",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kota&jobs=Bima",
+        "kodepos": [
+            "84111",
+            "84119"
+        ],
+        "kecamatan": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kota&jobs=Bima",
+            "jumlah": "5"
+        },
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kota&jobs=Bima",
+            "jumlah": "41"
+        },
+        "pulau": null,
+        "kode": "52.72"
+    },
+    {
+        "no": "3",
+        "type": "Kabupaten",
+        "name": "Dompu",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Dompu",
+        "kodepos": [
+            "84211",
+            "84272"
+        ],
+        "kecamatan": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Dompu",
+            "jumlah": "8"
+        },
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kab.&jobs=Dompu",
+            "jumlah": "81"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kab.&jobs=Dompu",
+            "jumlah": "23"
+        },
+        "kode": "52.05"
+    },
+    {
+        "no": "4",
+        "type": "Kabupaten",
+        "name": "Lombok Barat",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Lombok%20Barat",
+        "kodepos": [
+            "83351",
+            "83371"
+        ],
+        "kecamatan": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Lombok%20Barat",
+            "jumlah": "10"
+        },
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kab.&jobs=Lombok%20Barat",
+            "jumlah": "122"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kab.&jobs=Lombok%20Barat",
+            "jumlah": "124"
+        },
+        "kode": "52.01"
+    },
+    {
+        "no": "5",
+        "type": "Kabupaten",
+        "name": "Lombok Tengah",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Lombok%20Tengah",
+        "kodepos": [
+            "83511",
+            "83582"
+        ],
+        "kecamatan": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Lombok%20Tengah",
+            "jumlah": "12"
+        },
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kab.&jobs=Lombok%20Tengah",
+            "jumlah": "139"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kab.&jobs=Lombok%20Tengah",
+            "jumlah": "24"
+        },
+        "kode": "52.02"
+    },
+    {
+        "no": "6",
+        "type": "Kabupaten",
+        "name": "Lombok Timur",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Lombok%20Timur",
+        "kodepos": [
+            "83611",
+            "83674"
+        ],
+        "kecamatan": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Lombok%20Timur",
+            "jumlah": "21"
+        },
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kab.&jobs=Lombok%20Timur",
+            "jumlah": "254"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kab.&jobs=Lombok%20Timur",
+            "jumlah": "44"
+        },
+        "kode": "52.03"
+    },
+    {
+        "no": "7",
+        "type": "Kabupaten",
+        "name": "Lombok Utara",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Lombok%20Utara",
+        "kodepos": [
+            "83350",
+            "83356"
+        ],
+        "kecamatan": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Lombok%20Utara",
+            "jumlah": "5"
+        },
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kab.&jobs=Lombok%20Utara",
+            "jumlah": "43"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kab.&jobs=Lombok%20Utara",
+            "jumlah": "3"
+        },
+        "kode": "52.08"
+    },
+    {
+        "no": "8",
+        "type": "Kota",
+        "name": "Mataram",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kota&jobs=Mataram",
+        "kodepos": [
+            "83115",
+            "83511"
+        ],
+        "kecamatan": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kota&jobs=Mataram",
+            "jumlah": "6"
+        },
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kota&jobs=Mataram",
+            "jumlah": "50"
+        },
+        "pulau": null,
+        "kode": "52.71"
+    },
+    {
+        "no": "9",
+        "type": "Kabupaten",
+        "name": "Sumbawa",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Sumbawa",
+        "kodepos": [
+            "84310",
+            "84388"
+        ],
+        "kecamatan": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Sumbawa",
+            "jumlah": "24"
+        },
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kab.&jobs=Sumbawa",
+            "jumlah": "165"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kab.&jobs=Sumbawa",
+            "jumlah": "65"
+        },
+        "kode": "52.04"
+    },
+    {
+        "no": "10",
+        "type": "Kabupaten",
+        "name": "Sumbawa Barat",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Sumbawa%20Barat",
+        "kodepos": [
+            "84452",
+            "84459"
+        ],
+        "kecamatan": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Sumbawa%20Barat",
+            "jumlah": "8"
+        },
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kab.&jobs=Sumbawa%20Barat",
+            "jumlah": "64"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kab.&jobs=Sumbawa%20Barat",
+            "jumlah": "16"
+        },
+        "kode": "52.07"
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "no": "1",
+        "name": "Padang Panjang Barat",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Padang%20Panjang&jobs=Padang%20Panjang%20Barat",
+        "kodepos": [
+            "27111",
+            "27118"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Padang%20Panjang&jobs=Padang%20Panjang%20Barat",
+            "jumlah": "8"
+        },
+        "pulau": null,
+        "kode": "13.74.02"
+    },
+    {
+        "no": "2",
+        "name": "Padang Panjang Timur",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Padang%20Panjang&jobs=Padang%20Panjang%20Timur",
+        "kodepos": [
+            "27121",
+            "27128"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Padang%20Panjang&jobs=Padang%20Panjang%20Timur",
+            "jumlah": "8"
+        },
+        "pulau": null,
+        "kode": "13.74.01"
+    }
+]

@@ -1,0 +1,354 @@
+[
+    {
+        "no": "1",
+        "name": "Aek Kuasan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Asahan&jobs=Aek%20Kuasan",
+        "kodepos": [
+            "21273"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Asahan&jobs=Aek%20Kuasan",
+            "jumlah": "7"
+        },
+        "pulau": null,
+        "kode": "12.09.18"
+    },
+    {
+        "no": "2",
+        "name": "Aek Ledong",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Asahan&jobs=Aek%20Ledong",
+        "kodepos": [
+            "21277"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Asahan&jobs=Aek%20Ledong",
+            "jumlah": "7"
+        },
+        "pulau": null,
+        "kode": "12.09.32"
+    },
+    {
+        "no": "3",
+        "name": "Aek Songsongan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Asahan&jobs=Aek%20Songsongan",
+        "kodepos": [
+            "21274"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Asahan&jobs=Aek%20Songsongan",
+            "jumlah": "9"
+        },
+        "pulau": null,
+        "kode": "12.09.21"
+    },
+    {
+        "no": "4",
+        "name": "Air Batu",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Asahan&jobs=Air%20Batu",
+        "kodepos": [
+            "21272"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Asahan&jobs=Air%20Batu",
+            "jumlah": "12"
+        },
+        "pulau": null,
+        "kode": "12.09.13"
+    },
+    {
+        "no": "5",
+        "name": "Air Joman",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Asahan&jobs=Air%20Joman",
+        "kodepos": [
+            "21263"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Asahan&jobs=Air%20Joman",
+            "jumlah": "7"
+        },
+        "pulau": null,
+        "kode": "12.09.09"
+    },
+    {
+        "no": "6",
+        "name": "Bandar Pasir Mandoge",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Asahan&jobs=Bandar%20Pasir%20Mandoge",
+        "kodepos": [
+            "21262"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Asahan&jobs=Bandar%20Pasir%20Mandoge",
+            "jumlah": "9"
+        },
+        "pulau": null,
+        "kode": "12.09.17"
+    },
+    {
+        "no": "7",
+        "name": "Bandar Pulau",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Asahan&jobs=Bandar%20Pulau",
+        "kodepos": [
+            "21275"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Asahan&jobs=Bandar%20Pulau",
+            "jumlah": "10"
+        },
+        "pulau": null,
+        "kode": "12.09.15"
+    },
+    {
+        "no": "8",
+        "name": "Buntu Pane",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Asahan&jobs=Buntu%20Pane",
+        "kodepos": [
+            "21261"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Asahan&jobs=Buntu%20Pane",
+            "jumlah": "9"
+        },
+        "pulau": null,
+        "kode": "12.09.16"
+    },
+    {
+        "no": "9",
+        "name": "Kota Kisaran Barat",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Asahan&jobs=Kota%20Kisaran%20Barat",
+        "kodepos": [
+            "21211",
+            "21218"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Asahan&jobs=Kota%20Kisaran%20Barat",
+            "jumlah": "13"
+        },
+        "pulau": null,
+        "kode": "12.09.19"
+    },
+    {
+        "no": "10",
+        "name": "Kota Kisaran Timur",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Asahan&jobs=Kota%20Kisaran%20Timur",
+        "kodepos": [
+            "21219",
+            "21229"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Asahan&jobs=Kota%20Kisaran%20Timur",
+            "jumlah": "12"
+        },
+        "pulau": null,
+        "kode": "12.09.20"
+    },
+    {
+        "no": "11",
+        "name": "Meranti",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Asahan&jobs=Meranti",
+        "kodepos": [
+            "21264"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Asahan&jobs=Meranti",
+            "jumlah": "7"
+        },
+        "pulau": null,
+        "kode": "12.09.08"
+    },
+    {
+        "no": "12",
+        "name": "Pulau Rakyat",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Asahan&jobs=Pulau%20Rakyat",
+        "kodepos": [
+            "21278"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Asahan&jobs=Pulau%20Rakyat",
+            "jumlah": "12"
+        },
+        "pulau": null,
+        "kode": "12.09.14"
+    },
+    {
+        "no": "13",
+        "name": "Pulo Bandring",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Asahan&jobs=Pulo%20Bandring",
+        "kodepos": [
+            "21265"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Asahan&jobs=Pulo%20Bandring",
+            "jumlah": "10"
+        },
+        "pulau": null,
+        "kode": "12.09.30"
+    },
+    {
+        "no": "14",
+        "name": "Rahunig (Rahuning)",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Asahan&jobs=Rahunig%20(Rahuning)",
+        "kodepos": [
+            "21276"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Asahan&jobs=Rahunig%20(Rahuning)",
+            "jumlah": "7"
+        },
+        "pulau": null,
+        "kode": "12.09.22"
+    },
+    {
+        "no": "15",
+        "name": "Rawang Panca Arga",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Asahan&jobs=Rawang%20Panca%20Arga",
+        "kodepos": [
+            "21266"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Asahan&jobs=Rawang%20Panca%20Arga",
+            "jumlah": "7"
+        },
+        "pulau": null,
+        "kode": "12.09.29"
+    },
+    {
+        "no": "16",
+        "name": "Sei Dadap",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Asahan&jobs=Sei%20Dadap",
+        "kodepos": [
+            "21279"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Asahan&jobs=Sei%20Dadap",
+            "jumlah": "10"
+        },
+        "pulau": null,
+        "kode": "12.09.23"
+    },
+    {
+        "no": "17",
+        "name": "Sei Kepayang",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Asahan&jobs=Sei%20Kepayang",
+        "kodepos": [
+            "21381"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Asahan&jobs=Sei%20Kepayang",
+            "jumlah": "6"
+        },
+        "pulau": null,
+        "kode": "12.09.11"
+    },
+    {
+        "no": "18",
+        "name": "Sei Kepayang Barat",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Asahan&jobs=Sei%20Kepayang%20Barat",
+        "kodepos": [
+            "21382"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Asahan&jobs=Sei%20Kepayang%20Barat",
+            "jumlah": "6"
+        },
+        "pulau": null,
+        "kode": "12.09.24"
+    },
+    {
+        "no": "19",
+        "name": "Sei Kepayang Timur",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Asahan&jobs=Sei%20Kepayang%20Timur",
+        "kodepos": [
+            "21383"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Asahan&jobs=Sei%20Kepayang%20Timur",
+            "jumlah": "5"
+        },
+        "pulau": null,
+        "kode": "12.09.25"
+    },
+    {
+        "no": "20",
+        "name": "Setia Janji",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Asahan&jobs=Setia%20Janji",
+        "kodepos": [
+            "21260"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Asahan&jobs=Setia%20Janji",
+            "jumlah": "5"
+        },
+        "pulau": null,
+        "kode": "12.09.27"
+    },
+    {
+        "no": "21",
+        "name": "Silau Laut",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Asahan&jobs=Silau%20Laut",
+        "kodepos": [
+            "21267"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Asahan&jobs=Silau%20Laut",
+            "jumlah": "5"
+        },
+        "pulau": null,
+        "kode": "12.09.28"
+    },
+    {
+        "no": "22",
+        "name": "Simpang Empat",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Asahan&jobs=Simpang%20Empat",
+        "kodepos": [
+            "21271"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Asahan&jobs=Simpang%20Empat",
+            "jumlah": "8"
+        },
+        "pulau": null,
+        "kode": "12.09.12"
+    },
+    {
+        "no": "23",
+        "name": "Tanjung Balai",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Asahan&jobs=Tanjung%20Balai",
+        "kodepos": [
+            "21352"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Asahan&jobs=Tanjung%20Balai",
+            "jumlah": "8"
+        },
+        "pulau": null,
+        "kode": "12.09.10"
+    },
+    {
+        "no": "24",
+        "name": "Teluk Dalam",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Asahan&jobs=Teluk%20Dalam",
+        "kodepos": [
+            "21270"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Asahan&jobs=Teluk%20Dalam",
+            "jumlah": "6"
+        },
+        "pulau": null,
+        "kode": "12.09.31"
+    },
+    {
+        "no": "25",
+        "name": "Tinggi Raja",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Asahan&jobs=Tinggi%20Raja",
+        "kodepos": [
+            "21261"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Asahan&jobs=Tinggi%20Raja",
+            "jumlah": "7"
+        },
+        "pulau": null,
+        "kode": "12.09.26"
+    }
+]

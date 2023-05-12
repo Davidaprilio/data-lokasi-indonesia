@@ -1,0 +1,125 @@
+[
+    {
+        "no": "1",
+        "name": "Dompu",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Dompu&jobs=Dompu",
+        "kodepos": [
+            "84211",
+            "84219"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Dompu&jobs=Dompu",
+            "jumlah": "15"
+        },
+        "pulau": null,
+        "kode": "52.05.01"
+    },
+    {
+        "no": "2",
+        "name": "Hu'u",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Dompu&jobs=Hu%27u",
+        "kodepos": [
+            "84271"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Dompu&jobs=Hu%27u",
+            "jumlah": "8"
+        },
+        "pulau": null,
+        "kode": "52.05.03"
+    },
+    {
+        "no": "3",
+        "name": "Kempo",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Dompu&jobs=Kempo",
+        "kodepos": [
+            "84261"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Dompu&jobs=Kempo",
+            "jumlah": "8"
+        },
+        "pulau": null,
+        "kode": "52.05.02"
+    },
+    {
+        "no": "4",
+        "name": "Kilo",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Dompu&jobs=Kilo",
+        "kodepos": [
+            "84252"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Dompu&jobs=Kilo",
+            "jumlah": "6"
+        },
+        "pulau": null,
+        "kode": "52.05.04"
+    },
+    {
+        "no": "5",
+        "name": "Manggalewa",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Dompu&jobs=Manggalewa",
+        "kodepos": [
+            "84253"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Dompu&jobs=Manggalewa",
+            "jumlah": "12"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Dompu&jobs=Manggalewa",
+            "jumlah": "10"
+        },
+        "kode": "52.05.07"
+    },
+    {
+        "no": "6",
+        "name": "Pajo",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Dompu&jobs=Pajo",
+        "kodepos": [
+            "84272"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Dompu&jobs=Pajo",
+            "jumlah": "6"
+        },
+        "pulau": null,
+        "kode": "52.05.08"
+    },
+    {
+        "no": "7",
+        "name": "Pekat",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Dompu&jobs=Pekat",
+        "kodepos": [
+            "84260"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Dompu&jobs=Pekat",
+            "jumlah": "12"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Dompu&jobs=Pekat",
+            "jumlah": "1"
+        },
+        "kode": "52.05.06"
+    },
+    {
+        "no": "8",
+        "name": "Woja",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Dompu&jobs=Woja",
+        "kodepos": [
+            "84219",
+            "84251"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Dompu&jobs=Woja",
+            "jumlah": "14"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Dompu&jobs=Woja",
+            "jumlah": "1"
+        },
+        "kode": "52.05.05"
+    }
+]

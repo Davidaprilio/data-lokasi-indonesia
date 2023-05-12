@@ -1,0 +1,219 @@
+[
+    {
+        "no": "1",
+        "name": "Balai",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Sanggau&jobs=Balai",
+        "kodepos": [
+            "78563"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Sanggau&jobs=Balai",
+            "jumlah": "12"
+        },
+        "pulau": null,
+        "kode": "61.03.12"
+    },
+    {
+        "no": "2",
+        "name": "Beduai (Beduwai)",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Sanggau&jobs=Beduai%20(Beduwai)",
+        "kodepos": [
+            "78555"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Sanggau&jobs=Beduai%20(Beduwai)",
+            "jumlah": "5"
+        },
+        "pulau": null,
+        "kode": "61.03.06"
+    },
+    {
+        "no": "3",
+        "name": "Bonti",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Sanggau&jobs=Bonti",
+        "kodepos": [
+            "78552"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Sanggau&jobs=Bonti",
+            "jumlah": "9"
+        },
+        "pulau": null,
+        "kode": "61.03.05"
+    },
+    {
+        "no": "4",
+        "name": "Entikong",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Sanggau&jobs=Entikong",
+        "kodepos": [
+            "78557"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Sanggau&jobs=Entikong",
+            "jumlah": "5"
+        },
+        "pulau": null,
+        "kode": "61.03.21"
+    },
+    {
+        "no": "5",
+        "name": "Jangkang",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Sanggau&jobs=Jangkang",
+        "kodepos": [
+            "78591"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Sanggau&jobs=Jangkang",
+            "jumlah": "11"
+        },
+        "pulau": null,
+        "kode": "61.03.04"
+    },
+    {
+        "no": "6",
+        "name": "Kapuas (Sanggau Kapuas)",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Sanggau&jobs=Kapuas%20(Sanggau%20Kapuas)",
+        "kodepos": [
+            "78511",
+            "78516"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Sanggau&jobs=Kapuas%20(Sanggau%20Kapuas)",
+            "jumlah": "26"
+        },
+        "pulau": null,
+        "kode": "61.03.01"
+    },
+    {
+        "no": "7",
+        "name": "Kembayan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Sanggau&jobs=Kembayan",
+        "kodepos": [
+            "78553"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Sanggau&jobs=Kembayan",
+            "jumlah": "11"
+        },
+        "pulau": null,
+        "kode": "61.03.08"
+    },
+    {
+        "no": "8",
+        "name": "Meliau",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Sanggau&jobs=Meliau",
+        "kodepos": [
+            "78571"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Sanggau&jobs=Meliau",
+            "jumlah": "19"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Sanggau&jobs=Meliau",
+            "jumlah": "2"
+        },
+        "kode": "61.03.20"
+    },
+    {
+        "no": "9",
+        "name": "Mukok",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Sanggau&jobs=Mukok",
+        "kodepos": [
+            "78581"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Sanggau&jobs=Mukok",
+            "jumlah": "9"
+        },
+        "pulau": null,
+        "kode": "61.03.02"
+    },
+    {
+        "no": "10",
+        "name": "Noyan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Sanggau&jobs=Noyan",
+        "kodepos": [
+            "78554"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Sanggau&jobs=Noyan",
+            "jumlah": "5"
+        },
+        "pulau": null,
+        "kode": "61.03.03"
+    },
+    {
+        "no": "11",
+        "name": "Parindu",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Sanggau&jobs=Parindu",
+        "kodepos": [
+            "78561"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Sanggau&jobs=Parindu",
+            "jumlah": "14"
+        },
+        "pulau": null,
+        "kode": "61.03.09"
+    },
+    {
+        "no": "12",
+        "name": "Sekayam",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Sanggau&jobs=Sekayam",
+        "kodepos": [
+            "78556"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Sanggau&jobs=Sekayam",
+            "jumlah": "10"
+        },
+        "pulau": null,
+        "kode": "61.03.07"
+    },
+    {
+        "no": "13",
+        "name": "Tayan Hilir",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Sanggau&jobs=Tayan%20Hilir",
+        "kodepos": [
+            "78564"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Sanggau&jobs=Tayan%20Hilir",
+            "jumlah": "15"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Sanggau&jobs=Tayan%20Hilir",
+            "jumlah": "2"
+        },
+        "kode": "61.03.11"
+    },
+    {
+        "no": "14",
+        "name": "Tayan Hulu",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Sanggau&jobs=Tayan%20Hulu",
+        "kodepos": [
+            "78562"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Sanggau&jobs=Tayan%20Hulu",
+            "jumlah": "11"
+        },
+        "pulau": null,
+        "kode": "61.03.10"
+    },
+    {
+        "no": "15",
+        "name": "Toba",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Sanggau&jobs=Toba",
+        "kodepos": [
+            "78572"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Sanggau&jobs=Toba",
+            "jumlah": "7"
+        },
+        "pulau": null,
+        "kode": "61.03.13"
+    }
+]

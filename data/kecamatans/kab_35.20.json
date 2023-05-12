@@ -1,0 +1,258 @@
+[
+    {
+        "no": "1",
+        "name": "Barat",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Magetan&jobs=Barat",
+        "kodepos": [
+            "63137",
+            "63395"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Magetan&jobs=Barat",
+            "jumlah": "14"
+        },
+        "pulau": null,
+        "kode": "35.20.12"
+    },
+    {
+        "no": "2",
+        "name": "Bendo",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Magetan&jobs=Bendo",
+        "kodepos": [
+            "63384"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Magetan&jobs=Bendo",
+            "jumlah": "16"
+        },
+        "pulau": null,
+        "kode": "35.20.10"
+    },
+    {
+        "no": "3",
+        "name": "Karangrejo",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Magetan&jobs=Karangrejo",
+        "kodepos": [
+            "63395"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Magetan&jobs=Karangrejo",
+            "jumlah": "13"
+        },
+        "pulau": null,
+        "kode": "35.20.13"
+    },
+    {
+        "no": "4",
+        "name": "Karas",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Magetan&jobs=Karas",
+        "kodepos": [
+            "63393"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Magetan&jobs=Karas",
+            "jumlah": "11"
+        },
+        "pulau": null,
+        "kode": "35.20.14"
+    },
+    {
+        "no": "5",
+        "name": "Kartoharjo (Kertoharjo)",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Magetan&jobs=Kartoharjo%20(Kertoharjo)",
+        "kodepos": [
+            "63394"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Magetan&jobs=Kartoharjo%20(Kertoharjo)",
+            "jumlah": "12"
+        },
+        "pulau": null,
+        "kode": "35.20.15"
+    },
+    {
+        "no": "6",
+        "name": "Kawedanan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Magetan&jobs=Kawedanan",
+        "kodepos": [
+            "63382"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Magetan&jobs=Kawedanan",
+            "jumlah": "20"
+        },
+        "pulau": null,
+        "kode": "35.20.05"
+    },
+    {
+        "no": "7",
+        "name": "Lembeyan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Magetan&jobs=Lembeyan",
+        "kodepos": [
+            "63372"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Magetan&jobs=Lembeyan",
+            "jumlah": "10"
+        },
+        "pulau": null,
+        "kode": "35.20.03"
+    },
+    {
+        "no": "8",
+        "name": "Magetan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Magetan&jobs=Magetan",
+        "kodepos": [
+            "63311",
+            "63319"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Magetan&jobs=Magetan",
+            "jumlah": "14"
+        },
+        "pulau": null,
+        "kode": "35.20.06"
+    },
+    {
+        "no": "9",
+        "name": "Maospati",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Magetan&jobs=Maospati",
+        "kodepos": [
+            "63392"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Magetan&jobs=Maospati",
+            "jumlah": "15"
+        },
+        "pulau": null,
+        "kode": "35.20.11"
+    },
+    {
+        "no": "10",
+        "name": "Ngariboyo",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Magetan&jobs=Ngariboyo",
+        "kodepos": [
+            "63351",
+            "63361"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Magetan&jobs=Ngariboyo",
+            "jumlah": "12"
+        },
+        "pulau": null,
+        "kode": "35.20.16"
+    },
+    {
+        "no": "11",
+        "name": "Nguntoronadi",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Magetan&jobs=Nguntoronadi",
+        "kodepos": [
+            "63383"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Magetan&jobs=Nguntoronadi",
+            "jumlah": "9"
+        },
+        "pulau": null,
+        "kode": "35.20.17"
+    },
+    {
+        "no": "12",
+        "name": "Panekan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Magetan&jobs=Panekan",
+        "kodepos": [
+            "63352"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Magetan&jobs=Panekan",
+            "jumlah": "17"
+        },
+        "pulau": null,
+        "kode": "35.20.08"
+    },
+    {
+        "no": "13",
+        "name": "Parang",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Magetan&jobs=Parang",
+        "kodepos": [
+            "63371"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Magetan&jobs=Parang",
+            "jumlah": "13"
+        },
+        "pulau": null,
+        "kode": "35.20.02"
+    },
+    {
+        "no": "14",
+        "name": "Plaosan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Magetan&jobs=Plaosan",
+        "kodepos": [
+            "63361"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Magetan&jobs=Plaosan",
+            "jumlah": "15"
+        },
+        "pulau": null,
+        "kode": "35.20.07"
+    },
+    {
+        "no": "15",
+        "name": "Poncol",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Magetan&jobs=Poncol",
+        "kodepos": [
+            "63362"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Magetan&jobs=Poncol",
+            "jumlah": "8"
+        },
+        "pulau": null,
+        "kode": "35.20.01"
+    },
+    {
+        "no": "16",
+        "name": "Sidorejo",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Magetan&jobs=Sidorejo",
+        "kodepos": [
+            "63319",
+            "63361"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Magetan&jobs=Sidorejo",
+            "jumlah": "10"
+        },
+        "pulau": null,
+        "kode": "35.20.18"
+    },
+    {
+        "no": "17",
+        "name": "Sukomoro",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Magetan&jobs=Sukomoro",
+        "kodepos": [
+            "63391"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Magetan&jobs=Sukomoro",
+            "jumlah": "14"
+        },
+        "pulau": null,
+        "kode": "35.20.09"
+    },
+    {
+        "no": "18",
+        "name": "Takeran",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Magetan&jobs=Takeran",
+        "kodepos": [
+            "63381"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Magetan&jobs=Takeran",
+            "jumlah": "12"
+        },
+        "pulau": null,
+        "kode": "35.20.04"
+    }
+]

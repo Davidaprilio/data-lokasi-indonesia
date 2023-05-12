@@ -1,0 +1,261 @@
+[
+    {
+        "no": "1",
+        "name": "Galela",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Halmahera%20Utara&jobs=Galela",
+        "kodepos": [
+            "97761"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Halmahera%20Utara&jobs=Galela",
+            "jumlah": "7"
+        },
+        "pulau": null,
+        "kode": "82.03.04"
+    },
+    {
+        "no": "2",
+        "name": "Galela Barat",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Halmahera%20Utara&jobs=Galela%20Barat",
+        "kodepos": [
+            "97761"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Halmahera%20Utara&jobs=Galela%20Barat",
+            "jumlah": "9"
+        },
+        "pulau": null,
+        "kode": "82.03.14"
+    },
+    {
+        "no": "3",
+        "name": "Galela Selatan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Halmahera%20Utara&jobs=Galela%20Selatan",
+        "kodepos": [
+            "97769"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Halmahera%20Utara&jobs=Galela%20Selatan",
+            "jumlah": "7"
+        },
+        "pulau": null,
+        "kode": "82.03.16"
+    },
+    {
+        "no": "4",
+        "name": "Galela Utara",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Halmahera%20Utara&jobs=Galela%20Utara",
+        "kodepos": [
+            "97769"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Halmahera%20Utara&jobs=Galela%20Utara",
+            "jumlah": "12"
+        },
+        "pulau": null,
+        "kode": "82.03.15"
+    },
+    {
+        "no": "5",
+        "name": "Kao",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Halmahera%20Utara&jobs=Kao",
+        "kodepos": [
+            "97764"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Halmahera%20Utara&jobs=Kao",
+            "jumlah": "14"
+        },
+        "pulau": null,
+        "kode": "82.03.07"
+    },
+    {
+        "no": "6",
+        "name": "Kao Barat",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Halmahera%20Utara&jobs=Kao%20Barat",
+        "kodepos": [
+            "97764"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Halmahera%20Utara&jobs=Kao%20Barat",
+            "jumlah": "21"
+        },
+        "pulau": null,
+        "kode": "82.03.21"
+    },
+    {
+        "no": "7",
+        "name": "Kao Teluk",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Halmahera%20Utara&jobs=Kao%20Teluk",
+        "kodepos": [
+            "97765"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Halmahera%20Utara&jobs=Kao%20Teluk",
+            "jumlah": "11"
+        },
+        "pulau": null,
+        "kode": "82.03.22"
+    },
+    {
+        "no": "8",
+        "name": "Kao Utara",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Halmahera%20Utara&jobs=Kao%20Utara",
+        "kodepos": [
+            "97764"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Halmahera%20Utara&jobs=Kao%20Utara",
+            "jumlah": "12"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Halmahera%20Utara&jobs=Kao%20Utara",
+            "jumlah": "1"
+        },
+        "kode": "82.03.20"
+    },
+    {
+        "no": "9",
+        "name": "Loloda Kepulauan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Halmahera%20Utara&jobs=Loloda%20Kepulauan",
+        "kodepos": [
+            "97763"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Halmahera%20Utara&jobs=Loloda%20Kepulauan",
+            "jumlah": "10"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Halmahera%20Utara&jobs=Loloda%20Kepulauan",
+            "jumlah": "57"
+        },
+        "kode": "82.03.19"
+    },
+    {
+        "no": "10",
+        "name": "Loloda Utara",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Halmahera%20Utara&jobs=Loloda%20Utara",
+        "kodepos": [
+            "97763"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Halmahera%20Utara&jobs=Loloda%20Utara",
+            "jumlah": "18"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Halmahera%20Utara&jobs=Loloda%20Utara",
+            "jumlah": "1"
+        },
+        "kode": "82.03.09"
+    },
+    {
+        "no": "11",
+        "name": "Malifut",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Halmahera%20Utara&jobs=Malifut",
+        "kodepos": [
+            "97766"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Halmahera%20Utara&jobs=Malifut",
+            "jumlah": "22"
+        },
+        "pulau": null,
+        "kode": "82.03.08"
+    },
+    {
+        "no": "12",
+        "name": "Tobelo",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Halmahera%20Utara&jobs=Tobelo",
+        "kodepos": [
+            "97762"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Halmahera%20Utara&jobs=Tobelo",
+            "jumlah": "10"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Halmahera%20Utara&jobs=Tobelo",
+            "jumlah": "7"
+        },
+        "kode": "82.03.05"
+    },
+    {
+        "no": "13",
+        "name": "Tobelo Barat",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Halmahera%20Utara&jobs=Tobelo%20Barat",
+        "kodepos": [
+            "97762"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Halmahera%20Utara&jobs=Tobelo%20Barat",
+            "jumlah": "5"
+        },
+        "pulau": null,
+        "kode": "82.03.13"
+    },
+    {
+        "no": "14",
+        "name": "Tobelo Selatan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Halmahera%20Utara&jobs=Tobelo%20Selatan",
+        "kodepos": [
+            "97768"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Halmahera%20Utara&jobs=Tobelo%20Selatan",
+            "jumlah": "13"
+        },
+        "pulau": null,
+        "kode": "82.03.06"
+    },
+    {
+        "no": "15",
+        "name": "Tobelo Tengah",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Halmahera%20Utara&jobs=Tobelo%20Tengah",
+        "kodepos": [
+            "97768"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Halmahera%20Utara&jobs=Tobelo%20Tengah",
+            "jumlah": "9"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Halmahera%20Utara&jobs=Tobelo%20Tengah",
+            "jumlah": "6"
+        },
+        "kode": "82.03.11"
+    },
+    {
+        "no": "16",
+        "name": "Tobelo Timur",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Halmahera%20Utara&jobs=Tobelo%20Timur",
+        "kodepos": [
+            "97767"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Halmahera%20Utara&jobs=Tobelo%20Timur",
+            "jumlah": "6"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Halmahera%20Utara&jobs=Tobelo%20Timur",
+            "jumlah": "6"
+        },
+        "kode": "82.03.12"
+    },
+    {
+        "no": "17",
+        "name": "Tobelo Utara",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Halmahera%20Utara&jobs=Tobelo%20Utara",
+        "kodepos": [
+            "97767"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Halmahera%20Utara&jobs=Tobelo%20Utara",
+            "jumlah": "10"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Halmahera%20Utara&jobs=Tobelo%20Utara",
+            "jumlah": "3"
+        },
+        "kode": "82.03.10"
+    }
+]

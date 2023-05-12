@@ -1,0 +1,280 @@
+[
+    {
+        "no": "1",
+        "name": "Airu",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Jayapura&jobs=Airu",
+        "kodepos": [
+            "99363"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Jayapura&jobs=Airu",
+            "jumlah": "6"
+        },
+        "pulau": null,
+        "kode": "91.03.16"
+    },
+    {
+        "no": "2",
+        "name": "Demta",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Jayapura&jobs=Demta",
+        "kodepos": [
+            "99354"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Jayapura&jobs=Demta",
+            "jumlah": "7"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Jayapura&jobs=Demta",
+            "jumlah": "7"
+        },
+        "kode": "91.03.10"
+    },
+    {
+        "no": "3",
+        "name": "Depapre",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Jayapura&jobs=Depapre",
+        "kodepos": [
+            "99353"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Jayapura&jobs=Depapre",
+            "jumlah": "8"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Jayapura&jobs=Depapre",
+            "jumlah": "4"
+        },
+        "kode": "91.03.03"
+    },
+    {
+        "no": "4",
+        "name": "Ebungfao (Ebungfau / Ebungfa)",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Jayapura&jobs=Ebungfao%20(Ebungfau%20/%20Ebungfa)",
+        "kodepos": [
+            "99351"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Jayapura&jobs=Ebungfao%20(Ebungfau%20/%20Ebungfa)",
+            "jumlah": "5"
+        },
+        "pulau": null,
+        "kode": "91.03.12"
+    },
+    {
+        "no": "5",
+        "name": "Gresi Selatan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Jayapura&jobs=Gresi%20Selatan",
+        "kodepos": [
+            "99357"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Jayapura&jobs=Gresi%20Selatan",
+            "jumlah": "4"
+        },
+        "pulau": null,
+        "kode": "91.03.18"
+    },
+    {
+        "no": "6",
+        "name": "Kaureh",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Jayapura&jobs=Kaureh",
+        "kodepos": [
+            "99364"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Jayapura&jobs=Kaureh",
+            "jumlah": "5"
+        },
+        "pulau": null,
+        "kode": "91.03.11"
+    },
+    {
+        "no": "7",
+        "name": "Kemtuk",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Jayapura&jobs=Kemtuk",
+        "kodepos": [
+            "99366"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Jayapura&jobs=Kemtuk",
+            "jumlah": "12"
+        },
+        "pulau": null,
+        "kode": "91.03.05"
+    },
+    {
+        "no": "8",
+        "name": "Kemtuk Gresi",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Jayapura&jobs=Kemtuk%20Gresi",
+        "kodepos": [
+            "99367"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Jayapura&jobs=Kemtuk%20Gresi",
+            "jumlah": "12"
+        },
+        "pulau": null,
+        "kode": "91.03.06"
+    },
+    {
+        "no": "9",
+        "name": "Nambluong",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Jayapura&jobs=Nambluong",
+        "kodepos": [
+            "99360"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Jayapura&jobs=Nambluong",
+            "jumlah": "9"
+        },
+        "pulau": null,
+        "kode": "91.03.14"
+    },
+    {
+        "no": "10",
+        "name": "Nimbokrang",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Jayapura&jobs=Nimbokrang",
+        "kodepos": [
+            "99362"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Jayapura&jobs=Nimbokrang",
+            "jumlah": "9"
+        },
+        "pulau": null,
+        "kode": "91.03.08"
+    },
+    {
+        "no": "11",
+        "name": "Nimboran",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Jayapura&jobs=Nimboran",
+        "kodepos": [
+            "99361"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Jayapura&jobs=Nimboran",
+            "jumlah": "14"
+        },
+        "pulau": null,
+        "kode": "91.03.07"
+    },
+    {
+        "no": "12",
+        "name": "Raveni Rara (Ravenirara)",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Jayapura&jobs=Raveni%20Rara%20(Ravenirara)",
+        "kodepos": [
+            "99350"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Jayapura&jobs=Raveni%20Rara%20(Ravenirara)",
+            "jumlah": "4"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Jayapura&jobs=Raveni%20Rara%20(Ravenirara)",
+            "jumlah": "3"
+        },
+        "kode": "91.03.17"
+    },
+    {
+        "no": "13",
+        "name": "Sentani",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Jayapura&jobs=Sentani",
+        "kodepos": [
+            "99352"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Jayapura&jobs=Sentani",
+            "jumlah": "10"
+        },
+        "pulau": null,
+        "kode": "91.03.01"
+    },
+    {
+        "no": "14",
+        "name": "Sentani Barat",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Jayapura&jobs=Sentani%20Barat",
+        "kodepos": [
+            "99358"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Jayapura&jobs=Sentani%20Barat",
+            "jumlah": "5"
+        },
+        "pulau": null,
+        "kode": "91.03.04"
+    },
+    {
+        "no": "15",
+        "name": "Sentani Timur",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Jayapura&jobs=Sentani%20Timur",
+        "kodepos": [
+            "99359"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Jayapura&jobs=Sentani%20Timur",
+            "jumlah": "7"
+        },
+        "pulau": null,
+        "kode": "91.03.02"
+    },
+    {
+        "no": "16",
+        "name": "Unurum Guay",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Jayapura&jobs=Unurum%20Guay",
+        "kodepos": [
+            "99356"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Jayapura&jobs=Unurum%20Guay",
+            "jumlah": "6"
+        },
+        "pulau": null,
+        "kode": "91.03.09"
+    },
+    {
+        "no": "17",
+        "name": "Waibu",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Jayapura&jobs=Waibu",
+        "kodepos": [
+            "99368"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Jayapura&jobs=Waibu",
+            "jumlah": "7"
+        },
+        "pulau": null,
+        "kode": "91.03.13"
+    },
+    {
+        "no": "18",
+        "name": "Yapsi",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Jayapura&jobs=Yapsi",
+        "kodepos": [
+            "99365"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Jayapura&jobs=Yapsi",
+            "jumlah": "9"
+        },
+        "pulau": null,
+        "kode": "91.03.15"
+    },
+    {
+        "no": "19",
+        "name": "Yokari",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Jayapura&jobs=Yokari",
+        "kodepos": [
+            "99355"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Jayapura&jobs=Yokari",
+            "jumlah": "5"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Jayapura&jobs=Yokari",
+            "jumlah": "2"
+        },
+        "kode": "91.03.19"
+    }
+]

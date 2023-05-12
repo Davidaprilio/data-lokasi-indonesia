@@ -1,0 +1,87 @@
+[
+    {
+        "no": "1",
+        "name": "Kota Waikabubak",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Sumba%20Barat&jobs=Kota%20Waikabubak",
+        "kodepos": [
+            "87211",
+            "87217"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Sumba%20Barat&jobs=Kota%20Waikabubak",
+            "jumlah": "13"
+        },
+        "pulau": null,
+        "kode": "53.12.15"
+    },
+    {
+        "no": "2",
+        "name": "Laboya Barat (Lamboya Barat)",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Sumba%20Barat&jobs=Laboya%20Barat%20(Lamboya%20Barat)",
+        "kodepos": [
+            "87270"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Sumba%20Barat&jobs=Laboya%20Barat%20(Lamboya%20Barat)",
+            "jumlah": "4"
+        },
+        "pulau": null,
+        "kode": "53.12.18"
+    },
+    {
+        "no": "3",
+        "name": "Lamboya",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Sumba%20Barat&jobs=Lamboya",
+        "kodepos": [
+            "87271"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Sumba%20Barat&jobs=Lamboya",
+            "jumlah": "11"
+        },
+        "pulau": null,
+        "kode": "53.12.12"
+    },
+    {
+        "no": "4",
+        "name": "Loli",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Sumba%20Barat&jobs=Loli",
+        "kodepos": [
+            "87284"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Sumba%20Barat&jobs=Loli",
+            "jumlah": "14"
+        },
+        "pulau": null,
+        "kode": "53.12.10"
+    },
+    {
+        "no": "5",
+        "name": "Tana Righu",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Sumba%20Barat&jobs=Tana%20Righu",
+        "kodepos": [
+            "87257"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Sumba%20Barat&jobs=Tana%20Righu",
+            "jumlah": "18"
+        },
+        "pulau": null,
+        "kode": "53.12.04"
+    },
+    {
+        "no": "6",
+        "name": "Wanokaka",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Sumba%20Barat&jobs=Wanokaka",
+        "kodepos": [
+            "87272"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Sumba%20Barat&jobs=Wanokaka",
+            "jumlah": "14"
+        },
+        "pulau": null,
+        "kode": "53.12.11"
+    }
+]

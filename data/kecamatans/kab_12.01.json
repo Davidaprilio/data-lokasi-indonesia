@@ -1,0 +1,306 @@
+[
+    {
+        "no": "1",
+        "name": "Andam Dewi",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tapanuli%20Tengah&jobs=Andam%20Dewi",
+        "kodepos": [
+            "22651"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tapanuli%20Tengah&jobs=Andam%20Dewi",
+            "jumlah": "14"
+        },
+        "pulau": null,
+        "kode": "12.01.12"
+    },
+    {
+        "no": "2",
+        "name": "Badiri",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tapanuli%20Tengah&jobs=Badiri",
+        "kodepos": [
+            "22654"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tapanuli%20Tengah&jobs=Badiri",
+            "jumlah": "9"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tapanuli%20Tengah&jobs=Badiri",
+            "jumlah": "3"
+        },
+        "kode": "12.01.15"
+    },
+    {
+        "no": "3",
+        "name": "Barus",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tapanuli%20Tengah&jobs=Barus",
+        "kodepos": [
+            "22564"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tapanuli%20Tengah&jobs=Barus",
+            "jumlah": "13"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tapanuli%20Tengah&jobs=Barus",
+            "jumlah": "2"
+        },
+        "kode": "12.01.01"
+    },
+    {
+        "no": "4",
+        "name": "Barus Utara",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tapanuli%20Tengah&jobs=Barus%20Utara",
+        "kodepos": [
+            "22567"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tapanuli%20Tengah&jobs=Barus%20Utara",
+            "jumlah": "6"
+        },
+        "pulau": null,
+        "kode": "12.01.17"
+    },
+    {
+        "no": "5",
+        "name": "Kolang",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tapanuli%20Tengah&jobs=Kolang",
+        "kodepos": [
+            "22562"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tapanuli%20Tengah&jobs=Kolang",
+            "jumlah": "14"
+        },
+        "pulau": null,
+        "kode": "12.01.06"
+    },
+    {
+        "no": "6",
+        "name": "Lumut",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tapanuli%20Tengah&jobs=Lumut",
+        "kodepos": [
+            "22652"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tapanuli%20Tengah&jobs=Lumut",
+            "jumlah": "6"
+        },
+        "pulau": null,
+        "kode": "12.01.19"
+    },
+    {
+        "no": "7",
+        "name": "Manduamas",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tapanuli%20Tengah&jobs=Manduamas",
+        "kodepos": [
+            "22565"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tapanuli%20Tengah&jobs=Manduamas",
+            "jumlah": "20"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tapanuli%20Tengah&jobs=Manduamas",
+            "jumlah": "4"
+        },
+        "kode": "12.01.05"
+    },
+    {
+        "no": "8",
+        "name": "Pandan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tapanuli%20Tengah&jobs=Pandan",
+        "kodepos": [
+            "22611",
+            "22616"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tapanuli%20Tengah&jobs=Pandan",
+            "jumlah": "22"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tapanuli%20Tengah&jobs=Pandan",
+            "jumlah": "1"
+        },
+        "kode": "12.01.03"
+    },
+    {
+        "no": "9",
+        "name": "Pasaribu Tobing",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tapanuli%20Tengah&jobs=Pasaribu%20Tobing",
+        "kodepos": [
+            "22563"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tapanuli%20Tengah&jobs=Pasaribu%20Tobing",
+            "jumlah": "9"
+        },
+        "pulau": null,
+        "kode": "12.01.16"
+    },
+    {
+        "no": "10",
+        "name": "Pinangsori",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tapanuli%20Tengah&jobs=Pinangsori",
+        "kodepos": [
+            "22653"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tapanuli%20Tengah&jobs=Pinangsori",
+            "jumlah": "10"
+        },
+        "pulau": null,
+        "kode": "12.01.04"
+    },
+    {
+        "no": "11",
+        "name": "Sarudik",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tapanuli%20Tengah&jobs=Sarudik",
+        "kodepos": [
+            "22611",
+            "22616"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tapanuli%20Tengah&jobs=Sarudik",
+            "jumlah": "5"
+        },
+        "pulau": null,
+        "kode": "12.01.20"
+    },
+    {
+        "no": "12",
+        "name": "Sibabangun",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tapanuli%20Tengah&jobs=Sibabangun",
+        "kodepos": [
+            "22655"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tapanuli%20Tengah&jobs=Sibabangun",
+            "jumlah": "7"
+        },
+        "pulau": null,
+        "kode": "12.01.08"
+    },
+    {
+        "no": "13",
+        "name": "Sirandorung",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tapanuli%20Tengah&jobs=Sirandorung",
+        "kodepos": [
+            "22566"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tapanuli%20Tengah&jobs=Sirandorung",
+            "jumlah": "8"
+        },
+        "pulau": null,
+        "kode": "12.01.11"
+    },
+    {
+        "no": "14",
+        "name": "Sitahuis",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tapanuli%20Tengah&jobs=Sitahuis",
+        "kodepos": [
+            "22611"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tapanuli%20Tengah&jobs=Sitahuis",
+            "jumlah": "6"
+        },
+        "pulau": null,
+        "kode": "12.01.13"
+    },
+    {
+        "no": "15",
+        "name": "Sorkam",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tapanuli%20Tengah&jobs=Sorkam",
+        "kodepos": [
+            "22560"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tapanuli%20Tengah&jobs=Sorkam",
+            "jumlah": "21"
+        },
+        "pulau": null,
+        "kode": "12.01.02"
+    },
+    {
+        "no": "16",
+        "name": "Sorkam Barat",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tapanuli%20Tengah&jobs=Sorkam%20Barat",
+        "kodepos": [
+            "22561"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tapanuli%20Tengah&jobs=Sorkam%20Barat",
+            "jumlah": "12"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tapanuli%20Tengah&jobs=Sorkam%20Barat",
+            "jumlah": "1"
+        },
+        "kode": "12.01.10"
+    },
+    {
+        "no": "17",
+        "name": "Sosorgadong (Sosor Gadong)",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tapanuli%20Tengah&jobs=Sosorgadong%20(Sosor%20Gadong)",
+        "kodepos": [
+            "22568"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tapanuli%20Tengah&jobs=Sosorgadong%20(Sosor%20Gadong)",
+            "jumlah": "9"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tapanuli%20Tengah&jobs=Sosorgadong%20(Sosor%20Gadong)",
+            "jumlah": "1"
+        },
+        "kode": "12.01.09"
+    },
+    {
+        "no": "18",
+        "name": "Suka Bangun",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tapanuli%20Tengah&jobs=Suka%20Bangun",
+        "kodepos": [
+            "22656"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tapanuli%20Tengah&jobs=Suka%20Bangun",
+            "jumlah": "6"
+        },
+        "pulau": null,
+        "kode": "12.01.18"
+    },
+    {
+        "no": "19",
+        "name": "Tapian Nauli",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tapanuli%20Tengah&jobs=Tapian%20Nauli",
+        "kodepos": [
+            "22618"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tapanuli%20Tengah&jobs=Tapian%20Nauli",
+            "jumlah": "9"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tapanuli%20Tengah&jobs=Tapian%20Nauli",
+            "jumlah": "19"
+        },
+        "kode": "12.01.07"
+    },
+    {
+        "no": "20",
+        "name": "Tukka",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tapanuli%20Tengah&jobs=Tukka",
+        "kodepos": [
+            "22617",
+            "22618"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tapanuli%20Tengah&jobs=Tukka",
+            "jumlah": "9"
+        },
+        "pulau": null,
+        "kode": "12.01.14"
+    }
+]

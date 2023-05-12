@@ -1,0 +1,37 @@
+[
+    {
+        "no": "1",
+        "kodepos": "20152",
+        "name": "Anggrung",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Medan%20Polonia-Kota-Medan&jobs=Anggrung",
+        "kode": "12.71.16.1005"
+    },
+    {
+        "no": "2",
+        "kodepos": "20152",
+        "name": "Madras Hulu",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Medan%20Polonia-Kota-Medan&jobs=Madras%20Hulu",
+        "kode": "12.71.16.1001"
+    },
+    {
+        "no": "3",
+        "kodepos": "20157",
+        "name": "Polonia",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Medan%20Polonia-Kota-Medan&jobs=Polonia",
+        "kode": "12.71.16.1002"
+    },
+    {
+        "no": "4",
+        "kodepos": "20157",
+        "name": "Sari Rejo",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Medan%20Polonia-Kota-Medan&jobs=Sari%20Rejo",
+        "kode": "12.71.16.1003"
+    },
+    {
+        "no": "5",
+        "kodepos": "20157",
+        "name": "Suka Damai",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Medan%20Polonia-Kota-Medan&jobs=Suka%20Damai",
+        "kode": "12.71.16.1004"
+    }
+]

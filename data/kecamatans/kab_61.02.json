@@ -1,0 +1,130 @@
+[
+    {
+        "no": "1",
+        "name": "Anjongan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Mempawah&jobs=Anjongan",
+        "kodepos": [
+            "78353"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Mempawah&jobs=Anjongan",
+            "jumlah": "5"
+        },
+        "pulau": null,
+        "kode": "61.02.16"
+    },
+    {
+        "no": "2",
+        "name": "Mempawah Hilir",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Mempawah&jobs=Mempawah%20Hilir",
+        "kodepos": [
+            "78911",
+            "78919"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Mempawah&jobs=Mempawah%20Hilir",
+            "jumlah": "8"
+        },
+        "pulau": null,
+        "kode": "61.02.01"
+    },
+    {
+        "no": "3",
+        "name": "Mempawah Timur",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Mempawah&jobs=Mempawah%20Timur",
+        "kodepos": [
+            "78915",
+            "78919"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Mempawah&jobs=Mempawah%20Timur",
+            "jumlah": "8"
+        },
+        "pulau": null,
+        "kode": "61.02.18"
+    },
+    {
+        "no": "4",
+        "name": "Sadaniang",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Mempawah&jobs=Sadaniang",
+        "kodepos": [
+            "78361"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Mempawah&jobs=Sadaniang",
+            "jumlah": "6"
+        },
+        "pulau": null,
+        "kode": "61.02.17"
+    },
+    {
+        "no": "5",
+        "name": "Segedong",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Mempawah&jobs=Segedong",
+        "kodepos": [
+            "78351"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Mempawah&jobs=Segedong",
+            "jumlah": "6"
+        },
+        "pulau": null,
+        "kode": "61.02.15"
+    },
+    {
+        "no": "6",
+        "name": "Sei/Sungai Kunyit",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Mempawah&jobs=Sei/Sungai%20Kunyit",
+        "kodepos": [
+            "78371"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Mempawah&jobs=Sei/Sungai%20Kunyit",
+            "jumlah": "12"
+        },
+        "pulau": null,
+        "kode": "61.02.12"
+    },
+    {
+        "no": "7",
+        "name": "Sei/Sungai Pinyuh",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Mempawah&jobs=Sei/Sungai%20Pinyuh",
+        "kodepos": [
+            "78354"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Mempawah&jobs=Sei/Sungai%20Pinyuh",
+            "jumlah": "9"
+        },
+        "pulau": null,
+        "kode": "61.02.07"
+    },
+    {
+        "no": "8",
+        "name": "Siantan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Mempawah&jobs=Siantan",
+        "kodepos": [
+            "78352"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Mempawah&jobs=Siantan",
+            "jumlah": "5"
+        },
+        "pulau": null,
+        "kode": "61.02.08"
+    },
+    {
+        "no": "9",
+        "name": "Toho",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Mempawah&jobs=Toho",
+        "kodepos": [
+            "78360"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Mempawah&jobs=Toho",
+            "jumlah": "8"
+        },
+        "pulau": null,
+        "kode": "61.02.06"
+    }
+]

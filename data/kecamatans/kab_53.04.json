@@ -1,0 +1,174 @@
+[
+    {
+        "no": "1",
+        "name": "Atambua Barat",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Belu&jobs=Atambua%20Barat",
+        "kodepos": [
+            "85713",
+            "85718"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Belu&jobs=Atambua%20Barat",
+            "jumlah": "4"
+        },
+        "pulau": null,
+        "kode": "53.04.21"
+    },
+    {
+        "no": "2",
+        "name": "Atambua Selatan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Belu&jobs=Atambua%20Selatan",
+        "kodepos": [
+            "85716",
+            "85718"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Belu&jobs=Atambua%20Selatan",
+            "jumlah": "4"
+        },
+        "pulau": null,
+        "kode": "53.04.22"
+    },
+    {
+        "no": "3",
+        "name": "Kakuluk Mesak",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Belu&jobs=Kakuluk%20Mesak",
+        "kodepos": [
+            "85752"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Belu&jobs=Kakuluk%20Mesak",
+            "jumlah": "6"
+        },
+        "pulau": null,
+        "kode": "53.04.05"
+    },
+    {
+        "no": "4",
+        "name": "Kota Atambua (Atambua Kota)",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Belu&jobs=Kota%20Atambua%20(Atambua%20Kota)",
+        "kodepos": [
+            "85711",
+            "85718"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Belu&jobs=Kota%20Atambua%20(Atambua%20Kota)",
+            "jumlah": "4"
+        },
+        "pulau": null,
+        "kode": "53.04.12"
+    },
+    {
+        "no": "5",
+        "name": "Lamaknen",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Belu&jobs=Lamaknen",
+        "kodepos": [
+            "85772"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Belu&jobs=Lamaknen",
+            "jumlah": "9"
+        },
+        "pulau": null,
+        "kode": "53.04.01"
+    },
+    {
+        "no": "6",
+        "name": "Lamaknen Selatan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Belu&jobs=Lamaknen%20Selatan",
+        "kodepos": [
+            "85770"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Belu&jobs=Lamaknen%20Selatan",
+            "jumlah": "8"
+        },
+        "pulau": null,
+        "kode": "53.04.18"
+    },
+    {
+        "no": "7",
+        "name": "Lasiolat",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Belu&jobs=Lasiolat",
+        "kodepos": [
+            "85771"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Belu&jobs=Lasiolat",
+            "jumlah": "7"
+        },
+        "pulau": null,
+        "kode": "53.04.17"
+    },
+    {
+        "no": "8",
+        "name": "Nanaet Duabesi",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Belu&jobs=Nanaet%20Duabesi",
+        "kodepos": [
+            "85751"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Belu&jobs=Nanaet%20Duabesi",
+            "jumlah": "4"
+        },
+        "pulau": null,
+        "kode": "53.04.23"
+    },
+    {
+        "no": "9",
+        "name": "Raihat",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Belu&jobs=Raihat",
+        "kodepos": [
+            "85773"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Belu&jobs=Raihat",
+            "jumlah": "6"
+        },
+        "pulau": null,
+        "kode": "53.04.03"
+    },
+    {
+        "no": "10",
+        "name": "Raimanuk",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Belu&jobs=Raimanuk",
+        "kodepos": [
+            "85760"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Belu&jobs=Raimanuk",
+            "jumlah": "9"
+        },
+        "pulau": null,
+        "kode": "53.04.13"
+    },
+    {
+        "no": "11",
+        "name": "Tasifeto Barat",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Belu&jobs=Tasifeto%20Barat",
+        "kodepos": [
+            "85753"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Belu&jobs=Tasifeto%20Barat",
+            "jumlah": "8"
+        },
+        "pulau": null,
+        "kode": "53.04.04"
+    },
+    {
+        "no": "12",
+        "name": "Tasifeto Timur",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Belu&jobs=Tasifeto%20Timur",
+        "kodepos": [
+            "85711",
+            "85771"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Belu&jobs=Tasifeto%20Timur",
+            "jumlah": "12"
+        },
+        "pulau": null,
+        "kode": "53.04.02"
+    }
+]

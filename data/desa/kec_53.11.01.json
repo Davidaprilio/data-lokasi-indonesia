@@ -1,0 +1,51 @@
+[
+    {
+        "no": "1",
+        "kodepos": "87112",
+        "name": "Hambala",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Kota%20Waingapu-Kab.-Sumba%20Timur&jobs=Hambala",
+        "kode": "53.11.01.1002"
+    },
+    {
+        "no": "2",
+        "kodepos": "87111",
+        "name": "Kamalaputi",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Kota%20Waingapu-Kab.-Sumba%20Timur&jobs=Kamalaputi",
+        "kode": "53.11.01.1004"
+    },
+    {
+        "no": "3",
+        "kodepos": "87116",
+        "name": "Kambajawa",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Kota%20Waingapu-Kab.-Sumba%20Timur&jobs=Kambajawa",
+        "kode": "53.11.01.1001"
+    },
+    {
+        "no": "4",
+        "kodepos": "87116",
+        "name": "Lukukamaru",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Kota%20Waingapu-Kab.-Sumba%20Timur&jobs=Lukukamaru",
+        "kode": "53.11.01.2012"
+    },
+    {
+        "no": "5",
+        "kodepos": "87116",
+        "name": "Matawai",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Kota%20Waingapu-Kab.-Sumba%20Timur&jobs=Matawai",
+        "kode": "53.11.01.1003"
+    },
+    {
+        "no": "6",
+        "kodepos": "87116",
+        "name": "Mbatakapidu (Mbata Kapidu)",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Kota%20Waingapu-Kab.-Sumba%20Timur&jobs=Mbatakapidu%20(Mbata%20Kapidu)",
+        "kode": "53.11.01.2013"
+    },
+    {
+        "no": "7",
+        "kodepos": "87116",
+        "name": "Pambotandjara (Pambola Njara / Pambotanjara)",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Kota%20Waingapu-Kab.-Sumba%20Timur&jobs=Pambotandjara%20(Pambola%20Njara%20/%20Pambotanjara)",
+        "kode": "53.11.01.2014"
+    }
+]

@@ -1,0 +1,450 @@
+[
+    {
+        "no": "1",
+        "name": "Alama",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Nduga&jobs=Alama",
+        "kodepos": [
+            "99901"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Nduga&jobs=Alama",
+            "jumlah": "4"
+        },
+        "pulau": null,
+        "kode": "95.08.15"
+    },
+    {
+        "no": "2",
+        "name": "Dal",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Nduga&jobs=Dal",
+        "kodepos": [
+            "99902"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Nduga&jobs=Dal",
+            "jumlah": "6"
+        },
+        "pulau": null,
+        "kode": "95.08.18"
+    },
+    {
+        "no": "3",
+        "name": "Embetpen",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Nduga&jobs=Embetpen",
+        "kodepos": [
+            "99920"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Nduga&jobs=Embetpen",
+            "jumlah": "5"
+        },
+        "pulau": null,
+        "kode": "95.08.24"
+    },
+    {
+        "no": "4",
+        "name": "Gearek",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Nduga&jobs=Gearek",
+        "kodepos": [
+            "99921"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Nduga&jobs=Gearek",
+            "jumlah": "7"
+        },
+        "pulau": null,
+        "kode": "95.08.08"
+    },
+    {
+        "no": "5",
+        "name": "Geselma (Geselema)",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Nduga&jobs=Geselma%20(Geselema)",
+        "kodepos": [
+            "99903"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Nduga&jobs=Geselma%20(Geselema)",
+            "jumlah": "3"
+        },
+        "pulau": null,
+        "kode": "95.08.05"
+    },
+    {
+        "no": "6",
+        "name": "Inikgal",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Nduga&jobs=Inikgal",
+        "kodepos": [
+            "99904"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Nduga&jobs=Inikgal",
+            "jumlah": "8"
+        },
+        "pulau": null,
+        "kode": "95.08.20"
+    },
+    {
+        "no": "7",
+        "name": "Iniye",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Nduga&jobs=Iniye",
+        "kodepos": [
+            "99905"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Nduga&jobs=Iniye",
+            "jumlah": "6"
+        },
+        "pulau": null,
+        "kode": "95.08.21"
+    },
+    {
+        "no": "8",
+        "name": "Kegayem",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Nduga&jobs=Kegayem",
+        "kodepos": [
+            "99906"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Nduga&jobs=Kegayem",
+            "jumlah": "13"
+        },
+        "pulau": null,
+        "kode": "95.08.10"
+    },
+    {
+        "no": "9",
+        "name": "Kenyam",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Nduga&jobs=Kenyam",
+        "kodepos": [
+            "99922"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Nduga&jobs=Kenyam",
+            "jumlah": "9"
+        },
+        "pulau": null,
+        "kode": "95.08.01"
+    },
+    {
+        "no": "10",
+        "name": "Kilmid",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Nduga&jobs=Kilmid",
+        "kodepos": [
+            "99907"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Nduga&jobs=Kilmid",
+            "jumlah": "4"
+        },
+        "pulau": null,
+        "kode": "95.08.14"
+    },
+    {
+        "no": "11",
+        "name": "Kora",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Nduga&jobs=Kora",
+        "kodepos": [
+            "99923"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Nduga&jobs=Kora",
+            "jumlah": "5"
+        },
+        "pulau": null,
+        "kode": "95.08.25"
+    },
+    {
+        "no": "12",
+        "name": "Koroptak",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Nduga&jobs=Koroptak",
+        "kodepos": [
+            "99908"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Nduga&jobs=Koroptak",
+            "jumlah": "6"
+        },
+        "pulau": null,
+        "kode": "95.08.09"
+    },
+    {
+        "no": "13",
+        "name": "Krepkuri",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Nduga&jobs=Krepkuri",
+        "kodepos": [
+            "99924"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Nduga&jobs=Krepkuri",
+            "jumlah": "6"
+        },
+        "pulau": null,
+        "kode": "95.08.31"
+    },
+    {
+        "no": "14",
+        "name": "Mam",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Nduga&jobs=Mam",
+        "kodepos": [
+            "99941"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Nduga&jobs=Mam",
+            "jumlah": "14"
+        },
+        "pulau": null,
+        "kode": "95.08.17"
+    },
+    {
+        "no": "15",
+        "name": "Mapenduma",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Nduga&jobs=Mapenduma",
+        "kodepos": [
+            "99909"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Nduga&jobs=Mapenduma",
+            "jumlah": "10"
+        },
+        "pulau": null,
+        "kode": "95.08.02"
+    },
+    {
+        "no": "16",
+        "name": "Mbua Tengah",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Nduga&jobs=Mbua%20Tengah",
+        "kodepos": [
+            "99925"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Nduga&jobs=Mbua%20Tengah",
+            "jumlah": "9"
+        },
+        "pulau": null,
+        "kode": "95.08.23"
+    },
+    {
+        "no": "17",
+        "name": "Mbulmu Yalma",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Nduga&jobs=Mbulmu%20Yalma",
+        "kodepos": [
+            "99911"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Nduga&jobs=Mbulmu%20Yalma",
+            "jumlah": "7"
+        },
+        "pulau": null,
+        "kode": "95.08.22"
+    },
+    {
+        "no": "18",
+        "name": "Mbuwa (Mbua / Mbuga)",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Nduga&jobs=Mbuwa%20(Mbua%20/%20Mbuga)",
+        "kodepos": [
+            "99910"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Nduga&jobs=Mbuwa%20(Mbua%20/%20Mbuga)",
+            "jumlah": "6"
+        },
+        "pulau": null,
+        "kode": "95.08.07"
+    },
+    {
+        "no": "19",
+        "name": "Mebarok",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Nduga&jobs=Mebarok",
+        "kodepos": [
+            "99912"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Nduga&jobs=Mebarok",
+            "jumlah": "14"
+        },
+        "pulau": null,
+        "kode": "95.08.12"
+    },
+    {
+        "no": "20",
+        "name": "Moba",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Nduga&jobs=Moba",
+        "kodepos": [
+            "99926"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Nduga&jobs=Moba",
+            "jumlah": "8"
+        },
+        "pulau": null,
+        "kode": "95.08.28"
+    },
+    {
+        "no": "21",
+        "name": "Mugi",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Nduga&jobs=Mugi",
+        "kodepos": [
+            "99913"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Nduga&jobs=Mugi",
+            "jumlah": "18"
+        },
+        "pulau": null,
+        "kode": "95.08.06"
+    },
+    {
+        "no": "22",
+        "name": "Nenggeagin",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Nduga&jobs=Nenggeagin",
+        "kodepos": [
+            "99914"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Nduga&jobs=Nenggeagin",
+            "jumlah": "5"
+        },
+        "pulau": null,
+        "kode": "95.08.30"
+    },
+    {
+        "no": "23",
+        "name": "Nirkuri",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Nduga&jobs=Nirkuri",
+        "kodepos": [
+            "99915"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Nduga&jobs=Nirkuri",
+            "jumlah": "10"
+        },
+        "pulau": null,
+        "kode": "95.08.19"
+    },
+    {
+        "no": "24",
+        "name": "Paro",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Nduga&jobs=Paro",
+        "kodepos": [
+            "99916"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Nduga&jobs=Paro",
+            "jumlah": "5"
+        },
+        "pulau": null,
+        "kode": "95.08.11"
+    },
+    {
+        "no": "25",
+        "name": "Pasir Putih",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Nduga&jobs=Pasir%20Putih",
+        "kodepos": [
+            "99927"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Nduga&jobs=Pasir%20Putih",
+            "jumlah": "4"
+        },
+        "pulau": null,
+        "kode": "95.08.32"
+    },
+    {
+        "no": "26",
+        "name": "Pija",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Nduga&jobs=Pija",
+        "kodepos": [
+            "99928"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Nduga&jobs=Pija",
+            "jumlah": "5"
+        },
+        "pulau": null,
+        "kode": "95.08.27"
+    },
+    {
+        "no": "27",
+        "name": "Wosak",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Nduga&jobs=Wosak",
+        "kodepos": [
+            "99929"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Nduga&jobs=Wosak",
+            "jumlah": "5"
+        },
+        "pulau": null,
+        "kode": "95.08.04"
+    },
+    {
+        "no": "28",
+        "name": "Wusi",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Nduga&jobs=Wusi",
+        "kodepos": [
+            "99930"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Nduga&jobs=Wusi",
+            "jumlah": "4"
+        },
+        "pulau": null,
+        "kode": "95.08.26"
+    },
+    {
+        "no": "29",
+        "name": "Wutpaga",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Nduga&jobs=Wutpaga",
+        "kodepos": [
+            "99917"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Nduga&jobs=Wutpaga",
+            "jumlah": "6"
+        },
+        "pulau": null,
+        "kode": "95.08.29"
+    },
+    {
+        "no": "30",
+        "name": "Yal",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Nduga&jobs=Yal",
+        "kodepos": [
+            "99942"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Nduga&jobs=Yal",
+            "jumlah": "20"
+        },
+        "pulau": null,
+        "kode": "95.08.16"
+    },
+    {
+        "no": "31",
+        "name": "Yenggelo",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Nduga&jobs=Yenggelo",
+        "kodepos": [
+            "99918"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Nduga&jobs=Yenggelo",
+            "jumlah": "4"
+        },
+        "pulau": null,
+        "kode": "95.08.13"
+    },
+    {
+        "no": "32",
+        "name": "Yigi",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Nduga&jobs=Yigi",
+        "kodepos": [
+            "99919"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Nduga&jobs=Yigi",
+            "jumlah": "12"
+        },
+        "pulau": null,
+        "kode": "95.08.03"
+    }
+]

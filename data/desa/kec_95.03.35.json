@@ -1,0 +1,37 @@
+[
+    {
+        "no": "1",
+        "kodepos": "99752",
+        "name": "Aksal",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Dirwemna%20(Diruwena)-Kab.-Yahukimo&jobs=Aksal",
+        "kode": "95.03.35.2002"
+    },
+    {
+        "no": "2",
+        "kodepos": "99752",
+        "name": "Dirwemna",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Dirwemna%20(Diruwena)-Kab.-Yahukimo&jobs=Dirwemna",
+        "kode": "95.03.35.2001"
+    },
+    {
+        "no": "3",
+        "kodepos": "99752",
+        "name": "Dolsen",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Dirwemna%20(Diruwena)-Kab.-Yahukimo&jobs=Dolsen",
+        "kode": "95.03.35.2003"
+    },
+    {
+        "no": "4",
+        "kodepos": "99752",
+        "name": "Salengkomo",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Dirwemna%20(Diruwena)-Kab.-Yahukimo&jobs=Salengkomo",
+        "kode": "95.03.35.2004"
+    },
+    {
+        "no": "5",
+        "kodepos": "99752",
+        "name": "Silion",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Dirwemna%20(Diruwena)-Kab.-Yahukimo&jobs=Silion",
+        "kode": "95.03.35.2005"
+    }
+]

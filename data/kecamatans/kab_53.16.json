@@ -1,0 +1,106 @@
+[
+    {
+        "no": "1",
+        "name": "Aesesa",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Nagekeo&jobs=Aesesa",
+        "kodepos": [
+            "86472"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Nagekeo&jobs=Aesesa",
+            "jumlah": "18"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Nagekeo&jobs=Aesesa",
+            "jumlah": "1"
+        },
+        "kode": "53.16.01"
+    },
+    {
+        "no": "2",
+        "name": "Aesesa Selatan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Nagekeo&jobs=Aesesa%20Selatan",
+        "kodepos": [
+            "86470"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Nagekeo&jobs=Aesesa%20Selatan",
+            "jumlah": "7"
+        },
+        "pulau": null,
+        "kode": "53.16.07"
+    },
+    {
+        "no": "3",
+        "name": "Boawae",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Nagekeo&jobs=Boawae",
+        "kodepos": [
+            "86462"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Nagekeo&jobs=Boawae",
+            "jumlah": "27"
+        },
+        "pulau": null,
+        "kode": "53.16.03"
+    },
+    {
+        "no": "4",
+        "name": "Keo Tengah",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Nagekeo&jobs=Keo%20Tengah",
+        "kodepos": [
+            "86464"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Nagekeo&jobs=Keo%20Tengah",
+            "jumlah": "16"
+        },
+        "pulau": null,
+        "kode": "53.16.06"
+    },
+    {
+        "no": "5",
+        "name": "Mauponggo",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Nagekeo&jobs=Mauponggo",
+        "kodepos": [
+            "86463"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Nagekeo&jobs=Mauponggo",
+            "jumlah": "21"
+        },
+        "pulau": null,
+        "kode": "53.16.04"
+    },
+    {
+        "no": "6",
+        "name": "Nangaroro",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Nagekeo&jobs=Nangaroro",
+        "kodepos": [
+            "86465"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Nagekeo&jobs=Nangaroro",
+            "jumlah": "19"
+        },
+        "pulau": null,
+        "kode": "53.16.02"
+    },
+    {
+        "no": "7",
+        "name": "Wolowae",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Nagekeo&jobs=Wolowae",
+        "kodepos": [
+            "86471"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Nagekeo&jobs=Wolowae",
+            "jumlah": "5"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Nagekeo&jobs=Wolowae",
+            "jumlah": "1"
+        },
+        "kode": "53.16.05"
+    }
+]

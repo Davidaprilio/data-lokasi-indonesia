@@ -1,0 +1,186 @@
+[
+    {
+        "no": "1",
+        "name": "Baturaja Barat",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Ogan%20Komering%20Ulu&jobs=Baturaja%20Barat",
+        "kodepos": [
+            "32121",
+            "32126"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Ogan%20Komering%20Ulu&jobs=Baturaja%20Barat",
+            "jumlah": "12"
+        },
+        "pulau": null,
+        "kode": "16.01.13"
+    },
+    {
+        "no": "2",
+        "name": "Baturaja Timur",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Ogan%20Komering%20Ulu&jobs=Baturaja%20Timur",
+        "kodepos": [
+            "32111",
+            "32117"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Ogan%20Komering%20Ulu&jobs=Baturaja%20Timur",
+            "jumlah": "13"
+        },
+        "pulau": null,
+        "kode": "16.01.14"
+    },
+    {
+        "no": "3",
+        "name": "Kedaton Peninjauan Raya",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Ogan%20Komering%20Ulu&jobs=Kedaton%20Peninjauan%20Raya",
+        "kodepos": [
+            "32193"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Ogan%20Komering%20Ulu&jobs=Kedaton%20Peninjauan%20Raya",
+            "jumlah": "8"
+        },
+        "pulau": null,
+        "kode": "16.01.32"
+    },
+    {
+        "no": "4",
+        "name": "Lengkiti",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Ogan%20Komering%20Ulu&jobs=Lengkiti",
+        "kodepos": [
+            "32158"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Ogan%20Komering%20Ulu&jobs=Lengkiti",
+            "jumlah": "22"
+        },
+        "pulau": null,
+        "kode": "16.01.28"
+    },
+    {
+        "no": "5",
+        "name": "Lubuk Batang",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Ogan%20Komering%20Ulu&jobs=Lubuk%20Batang",
+        "kodepos": [
+            "32192"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Ogan%20Komering%20Ulu&jobs=Lubuk%20Batang",
+            "jumlah": "15"
+        },
+        "pulau": null,
+        "kode": "16.01.22"
+    },
+    {
+        "no": "6",
+        "name": "Lubuk Raja",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Ogan%20Komering%20Ulu&jobs=Lubuk%20Raja",
+        "kodepos": [
+            "32152"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Ogan%20Komering%20Ulu&jobs=Lubuk%20Raja",
+            "jumlah": "7"
+        },
+        "pulau": null,
+        "kode": "16.01.30"
+    },
+    {
+        "no": "7",
+        "name": "Muara Jaya",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Ogan%20Komering%20Ulu&jobs=Muara%20Jaya",
+        "kodepos": [
+            "32155"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Ogan%20Komering%20Ulu&jobs=Muara%20Jaya",
+            "jumlah": "7"
+        },
+        "pulau": null,
+        "kode": "16.01.31"
+    },
+    {
+        "no": "8",
+        "name": "Pengandonan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Ogan%20Komering%20Ulu&jobs=Pengandonan",
+        "kodepos": [
+            "32154"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Ogan%20Komering%20Ulu&jobs=Pengandonan",
+            "jumlah": "12"
+        },
+        "pulau": null,
+        "kode": "16.01.08"
+    },
+    {
+        "no": "9",
+        "name": "Peninjauan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Ogan%20Komering%20Ulu&jobs=Peninjauan",
+        "kodepos": [
+            "32191"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Ogan%20Komering%20Ulu&jobs=Peninjauan",
+            "jumlah": "16"
+        },
+        "pulau": null,
+        "kode": "16.01.09"
+    },
+    {
+        "no": "10",
+        "name": "Semidang Aji",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Ogan%20Komering%20Ulu&jobs=Semidang%20Aji",
+        "kodepos": [
+            "32156"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Ogan%20Komering%20Ulu&jobs=Semidang%20Aji",
+            "jumlah": "21"
+        },
+        "pulau": null,
+        "kode": "16.01.21"
+    },
+    {
+        "no": "11",
+        "name": "Sinar Peninjauan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Ogan%20Komering%20Ulu&jobs=Sinar%20Peninjauan",
+        "kodepos": [
+            "32159"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Ogan%20Komering%20Ulu&jobs=Sinar%20Peninjauan",
+            "jumlah": "6"
+        },
+        "pulau": null,
+        "kode": "16.01.29"
+    },
+    {
+        "no": "12",
+        "name": "Sosoh Buay Rayap",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Ogan%20Komering%20Ulu&jobs=Sosoh%20Buay%20Rayap",
+        "kodepos": [
+            "32151"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Ogan%20Komering%20Ulu&jobs=Sosoh%20Buay%20Rayap",
+            "jumlah": "11"
+        },
+        "pulau": null,
+        "kode": "16.01.07"
+    },
+    {
+        "no": "13",
+        "name": "Ulu Ogan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Ogan%20Komering%20Ulu&jobs=Ulu%20Ogan",
+        "kodepos": [
+            "32157"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Ogan%20Komering%20Ulu&jobs=Ulu%20Ogan",
+            "jumlah": "7"
+        },
+        "pulau": null,
+        "kode": "16.01.20"
+    }
+]

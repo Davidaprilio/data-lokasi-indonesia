@@ -1,0 +1,132 @@
+[
+    {
+        "no": "1",
+        "name": "Bulupoddo",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Sinjai&jobs=Bulupoddo",
+        "kodepos": [
+            "92654"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Sinjai&jobs=Bulupoddo",
+            "jumlah": "7"
+        },
+        "pulau": null,
+        "kode": "73.07.06"
+    },
+    {
+        "no": "2",
+        "name": "Pulau Sembilan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Sinjai&jobs=Pulau%20Sembilan",
+        "kodepos": [
+            "92616"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Sinjai&jobs=Pulau%20Sembilan",
+            "jumlah": "4"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Sinjai&jobs=Pulau%20Sembilan",
+            "jumlah": "9"
+        },
+        "kode": "73.07.09"
+    },
+    {
+        "no": "3",
+        "name": "Sinjai Barat",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Sinjai&jobs=Sinjai%20Barat",
+        "kodepos": [
+            "92653"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Sinjai&jobs=Sinjai%20Barat",
+            "jumlah": "9"
+        },
+        "pulau": null,
+        "kode": "73.07.01"
+    },
+    {
+        "no": "4",
+        "name": "Sinjai Borong",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Sinjai&jobs=Sinjai%20Borong",
+        "kodepos": [
+            "92662"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Sinjai&jobs=Sinjai%20Borong",
+            "jumlah": "8"
+        },
+        "pulau": null,
+        "kode": "73.07.07"
+    },
+    {
+        "no": "5",
+        "name": "Sinjai Selatan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Sinjai&jobs=Sinjai%20Selatan",
+        "kodepos": [
+            "92661"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Sinjai&jobs=Sinjai%20Selatan",
+            "jumlah": "11"
+        },
+        "pulau": null,
+        "kode": "73.07.02"
+    },
+    {
+        "no": "6",
+        "name": "Sinjai Tengah",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Sinjai&jobs=Sinjai%20Tengah",
+        "kodepos": [
+            "92652"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Sinjai&jobs=Sinjai%20Tengah",
+            "jumlah": "11"
+        },
+        "pulau": null,
+        "kode": "73.07.04"
+    },
+    {
+        "no": "7",
+        "name": "Sinjai Timur",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Sinjai&jobs=Sinjai%20Timur",
+        "kodepos": [
+            "92671"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Sinjai&jobs=Sinjai%20Timur",
+            "jumlah": "13"
+        },
+        "pulau": null,
+        "kode": "73.07.03"
+    },
+    {
+        "no": "8",
+        "name": "Sinjai Utara",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Sinjai&jobs=Sinjai%20Utara",
+        "kodepos": [
+            "92611",
+            "92616"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Sinjai&jobs=Sinjai%20Utara",
+            "jumlah": "6"
+        },
+        "pulau": null,
+        "kode": "73.07.05"
+    },
+    {
+        "no": "9",
+        "name": "Tellu Limpoe",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Sinjai&jobs=Tellu%20Limpoe",
+        "kodepos": [
+            "92681"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Sinjai&jobs=Tellu%20Limpoe",
+            "jumlah": "11"
+        },
+        "pulau": null,
+        "kode": "73.07.08"
+    }
+]

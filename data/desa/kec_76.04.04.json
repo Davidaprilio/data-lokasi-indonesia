@@ -1,0 +1,65 @@
+[
+    {
+        "no": "1",
+        "kodepos": "91314",
+        "name": "Darma",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Polewali-Kab.-Polewali%20Mandar&jobs=Darma",
+        "kode": "76.04.04.1009"
+    },
+    {
+        "no": "2",
+        "kodepos": "91313",
+        "name": "Lantora",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Polewali-Kab.-Polewali%20Mandar&jobs=Lantora",
+        "kode": "76.04.04.1004"
+    },
+    {
+        "no": "3",
+        "kodepos": "91315",
+        "name": "Madate (Madatte)",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Polewali-Kab.-Polewali%20Mandar&jobs=Madate%20(Madatte)",
+        "kode": "76.04.04.1007"
+    },
+    {
+        "no": "4",
+        "kodepos": "91311",
+        "name": "Manding",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Polewali-Kab.-Polewali%20Mandar&jobs=Manding",
+        "kode": "76.04.04.1008"
+    },
+    {
+        "no": "5",
+        "kodepos": "91311",
+        "name": "Pekkabata",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Polewali-Kab.-Polewali%20Mandar&jobs=Pekkabata",
+        "kode": "76.04.04.1006"
+    },
+    {
+        "no": "6",
+        "kodepos": "91311",
+        "name": "Polewali",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Polewali-Kab.-Polewali%20Mandar&jobs=Polewali",
+        "kode": "76.04.04.1001"
+    },
+    {
+        "no": "7",
+        "kodepos": "91315",
+        "name": "Sulewatang",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Polewali-Kab.-Polewali%20Mandar&jobs=Sulewatang",
+        "kode": "76.04.04.1003"
+    },
+    {
+        "no": "8",
+        "kodepos": "91311",
+        "name": "Takatidung",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Polewali-Kab.-Polewali%20Mandar&jobs=Takatidung",
+        "kode": "76.04.04.1005"
+    },
+    {
+        "no": "9",
+        "kodepos": "91315",
+        "name": "Wattang",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Polewali-Kab.-Polewali%20Mandar&jobs=Wattang",
+        "kode": "76.04.04.1002"
+    }
+]

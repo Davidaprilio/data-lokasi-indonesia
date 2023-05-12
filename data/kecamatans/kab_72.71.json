@@ -1,0 +1,122 @@
+[
+    {
+        "no": "1",
+        "name": "Mantikulore",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Palu&jobs=Mantikulore",
+        "kodepos": [
+            "94111",
+            "94234"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Palu&jobs=Mantikulore",
+            "jumlah": "8"
+        },
+        "pulau": null,
+        "kode": "72.71.08"
+    },
+    {
+        "no": "2",
+        "name": "Palu Barat",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Palu&jobs=Palu%20Barat",
+        "kodepos": [
+            "94221",
+            "94226"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Palu&jobs=Palu%20Barat",
+            "jumlah": "6"
+        },
+        "pulau": null,
+        "kode": "72.71.02"
+    },
+    {
+        "no": "3",
+        "name": "Palu Selatan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Palu&jobs=Palu%20Selatan",
+        "kodepos": [
+            "94231",
+            "94236"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Palu&jobs=Palu%20Selatan",
+            "jumlah": "5"
+        },
+        "pulau": null,
+        "kode": "72.71.03"
+    },
+    {
+        "no": "4",
+        "name": "Palu Timur",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Palu&jobs=Palu%20Timur",
+        "kodepos": [
+            "94111",
+            "94235"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Palu&jobs=Palu%20Timur",
+            "jumlah": "5"
+        },
+        "pulau": null,
+        "kode": "72.71.01"
+    },
+    {
+        "no": "5",
+        "name": "Palu Utara",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Palu&jobs=Palu%20Utara",
+        "kodepos": [
+            "94145",
+            "94148"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Palu&jobs=Palu%20Utara",
+            "jumlah": "5"
+        },
+        "pulau": null,
+        "kode": "72.71.04"
+    },
+    {
+        "no": "6",
+        "name": "Tatanga",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Palu&jobs=Tatanga",
+        "kodepos": [
+            "94221",
+            "94239"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Palu&jobs=Tatanga",
+            "jumlah": "6"
+        },
+        "pulau": null,
+        "kode": "72.71.06"
+    },
+    {
+        "no": "7",
+        "name": "Tawaeli",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Palu&jobs=Tawaeli",
+        "kodepos": [
+            "94141",
+            "94143"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Palu&jobs=Tawaeli",
+            "jumlah": "5"
+        },
+        "pulau": null,
+        "kode": "72.71.07"
+    },
+    {
+        "no": "8",
+        "name": "Ulujadi",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Palu&jobs=Ulujadi",
+        "kodepos": [
+            "94226",
+            "94229"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Palu&jobs=Ulujadi",
+            "jumlah": "6"
+        },
+        "pulau": null,
+        "kode": "72.71.05"
+    }
+]

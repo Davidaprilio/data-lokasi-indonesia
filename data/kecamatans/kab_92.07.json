@@ -1,0 +1,205 @@
+[
+    {
+        "no": "1",
+        "name": "Kuri Wamesa",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Teluk%20Wondama&jobs=Kuri%20Wamesa",
+        "kodepos": [
+            "98341"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Teluk%20Wondama&jobs=Kuri%20Wamesa",
+            "jumlah": "6"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Teluk%20Wondama&jobs=Kuri%20Wamesa",
+            "jumlah": "22"
+        },
+        "kode": "92.07.09"
+    },
+    {
+        "no": "2",
+        "name": "Naikere",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Teluk%20Wondama&jobs=Naikere",
+        "kodepos": [
+            "98342"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Teluk%20Wondama&jobs=Naikere",
+            "jumlah": "6"
+        },
+        "pulau": null,
+        "kode": "92.07.07"
+    },
+    {
+        "no": "3",
+        "name": "Nikiwar",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Teluk%20Wondama&jobs=Nikiwar",
+        "kodepos": [
+            "98331"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Teluk%20Wondama&jobs=Nikiwar",
+            "jumlah": "5"
+        },
+        "pulau": null,
+        "kode": "92.07.12"
+    },
+    {
+        "no": "4",
+        "name": "Rasiei",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Teluk%20Wondama&jobs=Rasiei",
+        "kodepos": [
+            "98343"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Teluk%20Wondama&jobs=Rasiei",
+            "jumlah": "9"
+        },
+        "pulau": null,
+        "kode": "92.07.08"
+    },
+    {
+        "no": "5",
+        "name": "Roon",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Teluk%20Wondama&jobs=Roon",
+        "kodepos": [
+            "98344"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Teluk%20Wondama&jobs=Roon",
+            "jumlah": "7"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Teluk%20Wondama&jobs=Roon",
+            "jumlah": "21"
+        },
+        "kode": "92.07.10"
+    },
+    {
+        "no": "6",
+        "name": "Roswar",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Teluk%20Wondama&jobs=Roswar",
+        "kodepos": [
+            "98332"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Teluk%20Wondama&jobs=Roswar",
+            "jumlah": "3"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Teluk%20Wondama&jobs=Roswar",
+            "jumlah": "6"
+        },
+        "kode": "92.07.11"
+    },
+    {
+        "no": "7",
+        "name": "Rumberpon",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Teluk%20Wondama&jobs=Rumberpon",
+        "kodepos": [
+            "98333"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Teluk%20Wondama&jobs=Rumberpon",
+            "jumlah": "7"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Teluk%20Wondama&jobs=Rumberpon",
+            "jumlah": "91"
+        },
+        "kode": "92.07.06"
+    },
+    {
+        "no": "8",
+        "name": "Soug Jaya",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Teluk%20Wondama&jobs=Soug%20Jaya",
+        "kodepos": [
+            "98334"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Teluk%20Wondama&jobs=Soug%20Jaya",
+            "jumlah": "5"
+        },
+        "pulau": null,
+        "kode": "92.07.13"
+    },
+    {
+        "no": "9",
+        "name": "Teluk Duairi",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Teluk%20Wondama&jobs=Teluk%20Duairi",
+        "kodepos": [
+            "98345"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Teluk%20Wondama&jobs=Teluk%20Duairi",
+            "jumlah": "4"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Teluk%20Wondama&jobs=Teluk%20Duairi",
+            "jumlah": "3"
+        },
+        "kode": "92.07.03"
+    },
+    {
+        "no": "10",
+        "name": "Wamesa",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Teluk%20Wondama&jobs=Wamesa",
+        "kodepos": [
+            "98335"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Teluk%20Wondama&jobs=Wamesa",
+            "jumlah": "5"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Teluk%20Wondama&jobs=Wamesa",
+            "jumlah": "4"
+        },
+        "kode": "92.07.05"
+    },
+    {
+        "no": "11",
+        "name": "Wasior",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Teluk%20Wondama&jobs=Wasior",
+        "kodepos": [
+            "98346"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Teluk%20Wondama&jobs=Wasior",
+            "jumlah": "10"
+        },
+        "pulau": null,
+        "kode": "92.07.01"
+    },
+    {
+        "no": "12",
+        "name": "Windesi",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Teluk%20Wondama&jobs=Windesi",
+        "kodepos": [
+            "98336"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Teluk%20Wondama&jobs=Windesi",
+            "jumlah": "5"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Teluk%20Wondama&jobs=Windesi",
+            "jumlah": "37"
+        },
+        "kode": "92.07.02"
+    },
+    {
+        "no": "13",
+        "name": "Wondiboy",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Teluk%20Wondama&jobs=Wondiboy",
+        "kodepos": [
+            "98347"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Teluk%20Wondama&jobs=Wondiboy",
+            "jumlah": "4"
+        },
+        "pulau": null,
+        "kode": "92.07.04"
+    }
+]

@@ -1,0 +1,92 @@
+[
+    {
+        "no": "1",
+        "name": "Bogor Barat",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Bogor&jobs=Bogor%20Barat",
+        "kodepos": [
+            "16111",
+            "16119"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Bogor&jobs=Bogor%20Barat",
+            "jumlah": "16"
+        },
+        "pulau": null,
+        "kode": "32.71.04"
+    },
+    {
+        "no": "2",
+        "name": "Bogor Selatan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Bogor&jobs=Bogor%20Selatan",
+        "kodepos": [
+            "16131",
+            "16139"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Bogor&jobs=Bogor%20Selatan",
+            "jumlah": "16"
+        },
+        "pulau": null,
+        "kode": "32.71.01"
+    },
+    {
+        "no": "3",
+        "name": "Bogor Tengah",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Bogor&jobs=Bogor%20Tengah",
+        "kodepos": [
+            "16121",
+            "16129"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Bogor&jobs=Bogor%20Tengah",
+            "jumlah": "11"
+        },
+        "pulau": null,
+        "kode": "32.71.03"
+    },
+    {
+        "no": "4",
+        "name": "Bogor Timur",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Bogor&jobs=Bogor%20Timur",
+        "kodepos": [
+            "16141",
+            "16146"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Bogor&jobs=Bogor%20Timur",
+            "jumlah": "6"
+        },
+        "pulau": null,
+        "kode": "32.71.02"
+    },
+    {
+        "no": "5",
+        "name": "Bogor Utara",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Bogor&jobs=Bogor%20Utara",
+        "kodepos": [
+            "16151",
+            "16158"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Bogor&jobs=Bogor%20Utara",
+            "jumlah": "8"
+        },
+        "pulau": null,
+        "kode": "32.71.05"
+    },
+    {
+        "no": "6",
+        "name": "Tanah Sareal (Tanah Sereal)",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Bogor&jobs=Tanah%20Sareal%20(Tanah%20Sereal)",
+        "kodepos": [
+            "16161",
+            "16169"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Bogor&jobs=Tanah%20Sareal%20(Tanah%20Sereal)",
+            "jumlah": "11"
+        },
+        "pulau": null,
+        "kode": "32.71.06"
+    }
+]

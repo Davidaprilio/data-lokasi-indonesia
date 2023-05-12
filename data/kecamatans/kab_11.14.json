@@ -1,0 +1,140 @@
+[
+    {
+        "no": "1",
+        "name": "Darul Hikmah",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Aceh%20Jaya&jobs=Darul%20Hikmah",
+        "kodepos": [
+            "23656"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Aceh%20Jaya&jobs=Darul%20Hikmah",
+            "jumlah": "19"
+        },
+        "pulau": null,
+        "kode": "11.14.08"
+    },
+    {
+        "no": "2",
+        "name": "Indra Jaya",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Aceh%20Jaya&jobs=Indra%20Jaya",
+        "kodepos": [
+            "23657"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Aceh%20Jaya&jobs=Indra%20Jaya",
+            "jumlah": "14"
+        },
+        "pulau": null,
+        "kode": "11.14.07"
+    },
+    {
+        "no": "3",
+        "name": "Jaya",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Aceh%20Jaya&jobs=Jaya",
+        "kodepos": [
+            "23658"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Aceh%20Jaya&jobs=Jaya",
+            "jumlah": "34"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Aceh%20Jaya&jobs=Jaya",
+            "jumlah": "3"
+        },
+        "kode": "11.14.05"
+    },
+    {
+        "no": "4",
+        "name": "Krueng Sabee",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Aceh%20Jaya&jobs=Krueng%20Sabee",
+        "kodepos": [
+            "23654"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Aceh%20Jaya&jobs=Krueng%20Sabee",
+            "jumlah": "17"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Aceh%20Jaya&jobs=Krueng%20Sabee",
+            "jumlah": "1"
+        },
+        "kode": "11.14.02"
+    },
+    {
+        "no": "5",
+        "name": "Panga (Keude Panga)",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Aceh%20Jaya&jobs=Panga%20(Keude%20Panga)",
+        "kodepos": [
+            "23653"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Aceh%20Jaya&jobs=Panga%20(Keude%20Panga)",
+            "jumlah": "20"
+        },
+        "pulau": null,
+        "kode": "11.14.06"
+    },
+    {
+        "no": "6",
+        "name": "Pasie Raya",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Aceh%20Jaya&jobs=Pasie%20Raya",
+        "kodepos": [
+            "23653"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Aceh%20Jaya&jobs=Pasie%20Raya",
+            "jumlah": "14"
+        },
+        "pulau": null,
+        "kode": "11.14.09"
+    },
+    {
+        "no": "7",
+        "name": "Sampoiniet",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Aceh%20Jaya&jobs=Sampoiniet",
+        "kodepos": [
+            "23659"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Aceh%20Jaya&jobs=Sampoiniet",
+            "jumlah": "19"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Aceh%20Jaya&jobs=Sampoiniet",
+            "jumlah": "3"
+        },
+        "kode": "11.14.04"
+    },
+    {
+        "no": "8",
+        "name": "Setia Bhakti (Setia Bakti)",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Aceh%20Jaya&jobs=Setia%20Bhakti%20(Setia%20Bakti)",
+        "kodepos": [
+            "23655"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Aceh%20Jaya&jobs=Setia%20Bhakti%20(Setia%20Bakti)",
+            "jumlah": "13"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Aceh%20Jaya&jobs=Setia%20Bhakti%20(Setia%20Bakti)",
+            "jumlah": "1"
+        },
+        "kode": "11.14.03"
+    },
+    {
+        "no": "9",
+        "name": "Teunom",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Aceh%20Jaya&jobs=Teunom",
+        "kodepos": [
+            "23653"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Aceh%20Jaya&jobs=Teunom",
+            "jumlah": "22"
+        },
+        "pulau": null,
+        "kode": "11.14.01"
+    }
+]

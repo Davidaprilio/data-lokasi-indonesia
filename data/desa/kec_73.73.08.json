@@ -1,0 +1,30 @@
+[
+    {
+        "no": "1",
+        "kodepos": "91925",
+        "name": "Kambo",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Mungkajang-Kota-Palopo&jobs=Kambo",
+        "kode": "73.73.08.1004"
+    },
+    {
+        "no": "2",
+        "kodepos": "91921",
+        "name": "Latuppa",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Mungkajang-Kota-Palopo&jobs=Latuppa",
+        "kode": "73.73.08.1003"
+    },
+    {
+        "no": "3",
+        "kodepos": "91921",
+        "name": "Mungkajang",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Mungkajang-Kota-Palopo&jobs=Mungkajang",
+        "kode": "73.73.08.1001"
+    },
+    {
+        "no": "4",
+        "kodepos": "91924",
+        "name": "Murante",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Mungkajang-Kota-Palopo&jobs=Murante",
+        "kode": "73.73.08.1002"
+    }
+]

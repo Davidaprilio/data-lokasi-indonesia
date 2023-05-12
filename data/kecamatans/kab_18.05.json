@@ -1,0 +1,214 @@
+[
+    {
+        "no": "1",
+        "name": "Banjar Agung",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tulang%20Bawang&jobs=Banjar%20Agung",
+        "kodepos": [
+            "34682"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tulang%20Bawang&jobs=Banjar%20Agung",
+            "jumlah": "11"
+        },
+        "pulau": null,
+        "kode": "18.05.08"
+    },
+    {
+        "no": "2",
+        "name": "Banjar Baru",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tulang%20Bawang&jobs=Banjar%20Baru",
+        "kodepos": [
+            "34685"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tulang%20Bawang&jobs=Banjar%20Baru",
+            "jumlah": "10"
+        },
+        "pulau": null,
+        "kode": "18.05.29"
+    },
+    {
+        "no": "3",
+        "name": "Banjar Margo",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tulang%20Bawang&jobs=Banjar%20Margo",
+        "kodepos": [
+            "34684"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tulang%20Bawang&jobs=Banjar%20Margo",
+            "jumlah": "12"
+        },
+        "pulau": null,
+        "kode": "18.05.20"
+    },
+    {
+        "no": "4",
+        "name": "Dente Teladas",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tulang%20Bawang&jobs=Dente%20Teladas",
+        "kodepos": [
+            "34596"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tulang%20Bawang&jobs=Dente%20Teladas",
+            "jumlah": "12"
+        },
+        "pulau": null,
+        "kode": "18.05.25"
+    },
+    {
+        "no": "5",
+        "name": "Gedung Aji",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tulang%20Bawang&jobs=Gedung%20Aji",
+        "kodepos": [
+            "34681"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tulang%20Bawang&jobs=Gedung%20Aji",
+            "jumlah": "10"
+        },
+        "pulau": null,
+        "kode": "18.05.06"
+    },
+    {
+        "no": "6",
+        "name": "Gedung Aji Baru",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tulang%20Bawang&jobs=Gedung%20Aji%20Baru",
+        "kodepos": [
+            "34595"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tulang%20Bawang&jobs=Gedung%20Aji%20Baru",
+            "jumlah": "9"
+        },
+        "pulau": null,
+        "kode": "18.05.27"
+    },
+    {
+        "no": "7",
+        "name": "Gedung Meneng",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tulang%20Bawang&jobs=Gedung%20Meneng",
+        "kodepos": [
+            "34597"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tulang%20Bawang&jobs=Gedung%20Meneng",
+            "jumlah": "11"
+        },
+        "pulau": null,
+        "kode": "18.05.11"
+    },
+    {
+        "no": "8",
+        "name": "Menggala",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tulang%20Bawang&jobs=Menggala",
+        "kodepos": [
+            "34611",
+            "34614"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tulang%20Bawang&jobs=Menggala",
+            "jumlah": "9"
+        },
+        "pulau": null,
+        "kode": "18.05.02"
+    },
+    {
+        "no": "9",
+        "name": "Menggala Timur",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tulang%20Bawang&jobs=Menggala%20Timur",
+        "kodepos": [
+            "34615",
+            "34619"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tulang%20Bawang&jobs=Menggala%20Timur",
+            "jumlah": "10"
+        },
+        "pulau": null,
+        "kode": "18.05.30"
+    },
+    {
+        "no": "10",
+        "name": "Meraksa Aji",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tulang%20Bawang&jobs=Meraksa%20Aji",
+        "kodepos": [
+            "34680"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tulang%20Bawang&jobs=Meraksa%20Aji",
+            "jumlah": "8"
+        },
+        "pulau": null,
+        "kode": "18.05.26"
+    },
+    {
+        "no": "11",
+        "name": "Penawar Aji",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tulang%20Bawang&jobs=Penawar%20Aji",
+        "kodepos": [
+            "34592"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tulang%20Bawang&jobs=Penawar%20Aji",
+            "jumlah": "9"
+        },
+        "pulau": null,
+        "kode": "18.05.23"
+    },
+    {
+        "no": "12",
+        "name": "Penawar Tama",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tulang%20Bawang&jobs=Penawar%20Tama",
+        "kodepos": [
+            "34593"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tulang%20Bawang&jobs=Penawar%20Tama",
+            "jumlah": "14"
+        },
+        "pulau": null,
+        "kode": "18.05.13"
+    },
+    {
+        "no": "13",
+        "name": "Rawa Jitu Selatan (Rawajitu Selatan)",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tulang%20Bawang&jobs=Rawa%20Jitu%20Selatan%20(Rawajitu%20Selatan)",
+        "kodepos": [
+            "34591"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tulang%20Bawang&jobs=Rawa%20Jitu%20Selatan%20(Rawajitu%20Selatan)",
+            "jumlah": "9"
+        },
+        "pulau": null,
+        "kode": "18.05.12"
+    },
+    {
+        "no": "14",
+        "name": "Rawa Jitu Timur (Rawajitu Timur)",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tulang%20Bawang&jobs=Rawa%20Jitu%20Timur%20(Rawajitu%20Timur)",
+        "kodepos": [
+            "34590"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tulang%20Bawang&jobs=Rawa%20Jitu%20Timur%20(Rawajitu%20Timur)",
+            "jumlah": "8"
+        },
+        "pulau": null,
+        "kode": "18.05.18"
+    },
+    {
+        "no": "15",
+        "name": "Rawa Pitu",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tulang%20Bawang&jobs=Rawa%20Pitu",
+        "kodepos": [
+            "34594"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tulang%20Bawang&jobs=Rawa%20Pitu",
+            "jumlah": "9"
+        },
+        "pulau": null,
+        "kode": "18.05.22"
+    }
+]

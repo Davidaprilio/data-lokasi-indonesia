@@ -1,0 +1,315 @@
+[
+    {
+        "no": "1",
+        "name": "Ampel",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Boyolali&jobs=Ampel",
+        "kodepos": [
+            "57316",
+            "57352"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Boyolali&jobs=Ampel",
+            "jumlah": "10"
+        },
+        "pulau": null,
+        "kode": "33.09.02"
+    },
+    {
+        "no": "2",
+        "name": "Andong",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Boyolali&jobs=Andong",
+        "kodepos": [
+            "57384"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Boyolali&jobs=Andong",
+            "jumlah": "16"
+        },
+        "pulau": null,
+        "kode": "33.09.16"
+    },
+    {
+        "no": "3",
+        "name": "Banyudono",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Boyolali&jobs=Banyudono",
+        "kodepos": [
+            "57373"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Boyolali&jobs=Banyudono",
+            "jumlah": "15"
+        },
+        "pulau": null,
+        "kode": "33.09.09"
+    },
+    {
+        "no": "4",
+        "name": "Boyolali",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Boyolali&jobs=Boyolali",
+        "kodepos": [
+            "57311",
+            "57316"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Boyolali&jobs=Boyolali",
+            "jumlah": "9"
+        },
+        "pulau": null,
+        "kode": "33.09.05"
+    },
+    {
+        "no": "5",
+        "name": "Cepogo",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Boyolali&jobs=Cepogo",
+        "kodepos": [
+            "57362"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Boyolali&jobs=Cepogo",
+            "jumlah": "15"
+        },
+        "pulau": null,
+        "kode": "33.09.03"
+    },
+    {
+        "no": "6",
+        "name": "Gladagsari",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Boyolali&jobs=Gladagsari",
+        "kodepos": [
+            "57316",
+            "57352"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Boyolali&jobs=Gladagsari",
+            "jumlah": "10"
+        },
+        "pulau": null,
+        "kode": "33.09.20"
+    },
+    {
+        "no": "7",
+        "name": "Juwangi",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Boyolali&jobs=Juwangi",
+        "kodepos": [
+            "57391"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Boyolali&jobs=Juwangi",
+            "jumlah": "10"
+        },
+        "pulau": null,
+        "kode": "33.09.19"
+    },
+    {
+        "no": "8",
+        "name": "Karanggede",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Boyolali&jobs=Karanggede",
+        "kodepos": [
+            "57311",
+            "57381"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Boyolali&jobs=Karanggede",
+            "jumlah": "16"
+        },
+        "pulau": null,
+        "kode": "33.09.14"
+    },
+    {
+        "no": "9",
+        "name": "Kemusu",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Boyolali&jobs=Kemusu",
+        "kodepos": [
+            "57383"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Boyolali&jobs=Kemusu",
+            "jumlah": "13"
+        },
+        "pulau": null,
+        "kode": "33.09.17"
+    },
+    {
+        "no": "10",
+        "name": "Klego",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Boyolali&jobs=Klego",
+        "kodepos": [
+            "57385"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Boyolali&jobs=Klego",
+            "jumlah": "13"
+        },
+        "pulau": null,
+        "kode": "33.09.15"
+    },
+    {
+        "no": "11",
+        "name": "Mojosongo",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Boyolali&jobs=Mojosongo",
+        "kodepos": [
+            "57321",
+            "57323"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Boyolali&jobs=Mojosongo",
+            "jumlah": "13"
+        },
+        "pulau": null,
+        "kode": "33.09.06"
+    },
+    {
+        "no": "12",
+        "name": "Musuk",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Boyolali&jobs=Musuk",
+        "kodepos": [
+            "57331"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Boyolali&jobs=Musuk",
+            "jumlah": "10"
+        },
+        "pulau": null,
+        "kode": "33.09.04"
+    },
+    {
+        "no": "13",
+        "name": "Ngemplak",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Boyolali&jobs=Ngemplak",
+        "kodepos": [
+            "57375"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Boyolali&jobs=Ngemplak",
+            "jumlah": "12"
+        },
+        "pulau": null,
+        "kode": "33.09.11"
+    },
+    {
+        "no": "14",
+        "name": "Nogosari",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Boyolali&jobs=Nogosari",
+        "kodepos": [
+            "57378"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Boyolali&jobs=Nogosari",
+            "jumlah": "13"
+        },
+        "pulau": null,
+        "kode": "33.09.12"
+    },
+    {
+        "no": "15",
+        "name": "Sambi",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Boyolali&jobs=Sambi",
+        "kodepos": [
+            "57376"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Boyolali&jobs=Sambi",
+            "jumlah": "16"
+        },
+        "pulau": null,
+        "kode": "33.09.10"
+    },
+    {
+        "no": "16",
+        "name": "Sawit",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Boyolali&jobs=Sawit",
+        "kodepos": [
+            "57374"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Boyolali&jobs=Sawit",
+            "jumlah": "12"
+        },
+        "pulau": null,
+        "kode": "33.09.08"
+    },
+    {
+        "no": "17",
+        "name": "Selo",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Boyolali&jobs=Selo",
+        "kodepos": [
+            "57363"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Boyolali&jobs=Selo",
+            "jumlah": "10"
+        },
+        "pulau": null,
+        "kode": "33.09.01"
+    },
+    {
+        "no": "18",
+        "name": "Simo",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Boyolali&jobs=Simo",
+        "kodepos": [
+            "57377"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Boyolali&jobs=Simo",
+            "jumlah": "13"
+        },
+        "pulau": null,
+        "kode": "33.09.13"
+    },
+    {
+        "no": "19",
+        "name": "Tamansari",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Boyolali&jobs=Tamansari",
+        "kodepos": [
+            "57331"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Boyolali&jobs=Tamansari",
+            "jumlah": "10"
+        },
+        "pulau": null,
+        "kode": "33.09.21"
+    },
+    {
+        "no": "20",
+        "name": "Teras",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Boyolali&jobs=Teras",
+        "kodepos": [
+            "57372"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Boyolali&jobs=Teras",
+            "jumlah": "13"
+        },
+        "pulau": null,
+        "kode": "33.09.07"
+    },
+    {
+        "no": "21",
+        "name": "Wonosamodro",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Boyolali&jobs=Wonosamodro",
+        "kodepos": [
+            "57382"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Boyolali&jobs=Wonosamodro",
+            "jumlah": "10"
+        },
+        "pulau": null,
+        "kode": "33.09.22"
+    },
+    {
+        "no": "22",
+        "name": "Wonosegoro",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Boyolali&jobs=Wonosegoro",
+        "kodepos": [
+            "57382"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Boyolali&jobs=Wonosegoro",
+            "jumlah": "8"
+        },
+        "pulau": null,
+        "kode": "33.09.18"
+    }
+]

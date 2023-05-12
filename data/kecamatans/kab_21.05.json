@@ -1,0 +1,146 @@
+[
+    {
+        "no": "1",
+        "name": "Jemaja",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kepulauan%20Anambas&jobs=Jemaja",
+        "kodepos": [
+            "29792"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kepulauan%20Anambas&jobs=Jemaja",
+            "jumlah": "6"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kepulauan%20Anambas&jobs=Jemaja",
+            "jumlah": "33"
+        },
+        "kode": "21.05.06"
+    },
+    {
+        "no": "2",
+        "name": "Jemaja Barat",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kepulauan%20Anambas&jobs=Jemaja%20Barat",
+        "kodepos": [
+            "29792"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kepulauan%20Anambas&jobs=Jemaja%20Barat",
+            "jumlah": "3"
+        },
+        "pulau": null,
+        "kode": "21.05.09"
+    },
+    {
+        "no": "3",
+        "name": "Jemaja Timur",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kepulauan%20Anambas&jobs=Jemaja%20Timur",
+        "kodepos": [
+            "29793"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kepulauan%20Anambas&jobs=Jemaja%20Timur",
+            "jumlah": "4"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kepulauan%20Anambas&jobs=Jemaja%20Timur",
+            "jumlah": "10"
+        },
+        "kode": "21.05.05"
+    },
+    {
+        "no": "4",
+        "name": "Palmatak",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kepulauan%20Anambas&jobs=Palmatak",
+        "kodepos": [
+            "29796"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kepulauan%20Anambas&jobs=Palmatak",
+            "jumlah": "12"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kepulauan%20Anambas&jobs=Palmatak",
+            "jumlah": "63"
+        },
+        "kode": "21.05.02"
+    },
+    {
+        "no": "5",
+        "name": "Siantan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kepulauan%20Anambas&jobs=Siantan",
+        "kodepos": [
+            "29791"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kepulauan%20Anambas&jobs=Siantan",
+            "jumlah": "7"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kepulauan%20Anambas&jobs=Siantan",
+            "jumlah": "3"
+        },
+        "kode": "21.05.01"
+    },
+    {
+        "no": "6",
+        "name": "Siantan Selatan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kepulauan%20Anambas&jobs=Siantan%20Selatan",
+        "kodepos": [
+            "29790"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kepulauan%20Anambas&jobs=Siantan%20Selatan",
+            "jumlah": "7"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kepulauan%20Anambas&jobs=Siantan%20Selatan",
+            "jumlah": "57"
+        },
+        "kode": "21.05.04"
+    },
+    {
+        "no": "7",
+        "name": "Siantan Tengah",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kepulauan%20Anambas&jobs=Siantan%20Tengah",
+        "kodepos": [
+            "29795"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kepulauan%20Anambas&jobs=Siantan%20Tengah",
+            "jumlah": "6"
+        },
+        "pulau": null,
+        "kode": "21.05.07"
+    },
+    {
+        "no": "8",
+        "name": "Siantan Timur",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kepulauan%20Anambas&jobs=Siantan%20Timur",
+        "kodepos": [
+            "29794"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kepulauan%20Anambas&jobs=Siantan%20Timur",
+            "jumlah": "6"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kepulauan%20Anambas&jobs=Siantan%20Timur",
+            "jumlah": "65"
+        },
+        "kode": "21.05.03"
+    },
+    {
+        "no": "9",
+        "name": "Siantan Utara",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kepulauan%20Anambas&jobs=Siantan%20Utara",
+        "kodepos": [
+            "29796"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kepulauan%20Anambas&jobs=Siantan%20Utara",
+            "jumlah": "3"
+        },
+        "pulau": null,
+        "kode": "21.05.08"
+    }
+]

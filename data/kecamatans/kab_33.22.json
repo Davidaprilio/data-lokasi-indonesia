@@ -1,0 +1,282 @@
+[
+    {
+        "no": "1",
+        "name": "Ambarawa",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Semarang&jobs=Ambarawa",
+        "kodepos": [
+            "50611",
+            "50614"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Semarang&jobs=Ambarawa",
+            "jumlah": "10"
+        },
+        "pulau": null,
+        "kode": "33.22.10"
+    },
+    {
+        "no": "2",
+        "name": "Bancak",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Semarang&jobs=Bancak",
+        "kodepos": [
+            "50125",
+            "50182"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Semarang&jobs=Bancak",
+            "jumlah": "9"
+        },
+        "pulau": null,
+        "kode": "33.22.16"
+    },
+    {
+        "no": "3",
+        "name": "Bandungan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Semarang&jobs=Bandungan",
+        "kodepos": [
+            "50614",
+            "50663"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Semarang&jobs=Bandungan",
+            "jumlah": "10"
+        },
+        "pulau": null,
+        "kode": "33.22.20"
+    },
+    {
+        "no": "4",
+        "name": "Banyubiru",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Semarang&jobs=Banyubiru",
+        "kodepos": [
+            "50664"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Semarang&jobs=Banyubiru",
+            "jumlah": "10"
+        },
+        "pulau": null,
+        "kode": "33.22.07"
+    },
+    {
+        "no": "5",
+        "name": "Bawen",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Semarang&jobs=Bawen",
+        "kodepos": [
+            "50661"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Semarang&jobs=Bawen",
+            "jumlah": "9"
+        },
+        "pulau": null,
+        "kode": "33.22.11"
+    },
+    {
+        "no": "6",
+        "name": "Bergas",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Semarang&jobs=Bergas",
+        "kodepos": [
+            "50187",
+            "50552"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Semarang&jobs=Bergas",
+            "jumlah": "13"
+        },
+        "pulau": null,
+        "kode": "33.22.13"
+    },
+    {
+        "no": "7",
+        "name": "Bringin",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Semarang&jobs=Bringin",
+        "kodepos": [
+            "50218",
+            "50772"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Semarang&jobs=Bringin",
+            "jumlah": "16"
+        },
+        "pulau": null,
+        "kode": "33.22.12"
+    },
+    {
+        "no": "8",
+        "name": "Getasan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Semarang&jobs=Getasan",
+        "kodepos": [
+            "50774"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Semarang&jobs=Getasan",
+            "jumlah": "13"
+        },
+        "pulau": null,
+        "kode": "33.22.01"
+    },
+    {
+        "no": "9",
+        "name": "Jambu",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Semarang&jobs=Jambu",
+        "kodepos": [
+            "50271",
+            "50663"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Semarang&jobs=Jambu",
+            "jumlah": "10"
+        },
+        "pulau": null,
+        "kode": "33.22.08"
+    },
+    {
+        "no": "10",
+        "name": "Kaliwungu",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Semarang&jobs=Kaliwungu",
+        "kodepos": [
+            "50221",
+            "50229"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Semarang&jobs=Kaliwungu",
+            "jumlah": "11"
+        },
+        "pulau": null,
+        "kode": "33.22.17"
+    },
+    {
+        "no": "11",
+        "name": "Pabelan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Semarang&jobs=Pabelan",
+        "kodepos": [
+            "50771"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Semarang&jobs=Pabelan",
+            "jumlah": "17"
+        },
+        "pulau": null,
+        "kode": "33.22.05"
+    },
+    {
+        "no": "12",
+        "name": "Pringapus",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Semarang&jobs=Pringapus",
+        "kodepos": [
+            "50212",
+            "50552"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Semarang&jobs=Pringapus",
+            "jumlah": "9"
+        },
+        "pulau": null,
+        "kode": "33.22.15"
+    },
+    {
+        "no": "13",
+        "name": "Sumowono",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Semarang&jobs=Sumowono",
+        "kodepos": [
+            "50123",
+            "50662"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Semarang&jobs=Sumowono",
+            "jumlah": "16"
+        },
+        "pulau": null,
+        "kode": "33.22.09"
+    },
+    {
+        "no": "14",
+        "name": "Suruh",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Semarang&jobs=Suruh",
+        "kodepos": [
+            "50186",
+            "50776"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Semarang&jobs=Suruh",
+            "jumlah": "17"
+        },
+        "pulau": null,
+        "kode": "33.22.04"
+    },
+    {
+        "no": "15",
+        "name": "Susukan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Semarang&jobs=Susukan",
+        "kodepos": [
+            "50777"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Semarang&jobs=Susukan",
+            "jumlah": "13"
+        },
+        "pulau": null,
+        "kode": "33.22.03"
+    },
+    {
+        "no": "16",
+        "name": "Tengaran",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Semarang&jobs=Tengaran",
+        "kodepos": [
+            "50225",
+            "50775"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Semarang&jobs=Tengaran",
+            "jumlah": "15"
+        },
+        "pulau": null,
+        "kode": "33.22.02"
+    },
+    {
+        "no": "17",
+        "name": "Tuntang",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Semarang&jobs=Tuntang",
+        "kodepos": [
+            "50131",
+            "50773"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Semarang&jobs=Tuntang",
+            "jumlah": "16"
+        },
+        "pulau": null,
+        "kode": "33.22.06"
+    },
+    {
+        "no": "18",
+        "name": "Ungaran Barat",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Semarang&jobs=Ungaran%20Barat",
+        "kodepos": [
+            "50511",
+            "50551"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Semarang&jobs=Ungaran%20Barat",
+            "jumlah": "11"
+        },
+        "pulau": null,
+        "kode": "33.22.18"
+    },
+    {
+        "no": "19",
+        "name": "Ungaran Timur",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Semarang&jobs=Ungaran%20Timur",
+        "kodepos": [
+            "50514",
+            "50519"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Semarang&jobs=Ungaran%20Timur",
+            "jumlah": "10"
+        },
+        "pulau": null,
+        "kode": "33.22.19"
+    }
+]

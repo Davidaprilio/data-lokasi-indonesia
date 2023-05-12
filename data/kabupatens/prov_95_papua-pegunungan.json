@@ -1,0 +1,162 @@
+[
+    {
+        "no": "1",
+        "type": "Kabupaten",
+        "name": "Jayawijaya",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Jayawijaya",
+        "kodepos": [
+            "99501",
+            "99555"
+        ],
+        "kecamatan": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Jayawijaya",
+            "jumlah": "40"
+        },
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kab.&jobs=Jayawijaya",
+            "jumlah": "332"
+        },
+        "pulau": null,
+        "kode": "95.01"
+    },
+    {
+        "no": "2",
+        "type": "Kabupaten",
+        "name": "Lanny Jaya",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Lanny%20Jaya",
+        "kodepos": [
+            "99561",
+            "99599"
+        ],
+        "kecamatan": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Lanny%20Jaya",
+            "jumlah": "39"
+        },
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kab.&jobs=Lanny%20Jaya",
+            "jumlah": "355"
+        },
+        "pulau": null,
+        "kode": "95.07"
+    },
+    {
+        "no": "3",
+        "type": "Kabupaten",
+        "name": "Mamberamo Tengah",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Mamberamo%20Tengah",
+        "kodepos": [
+            "99071",
+            "99075"
+        ],
+        "kecamatan": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Mamberamo%20Tengah",
+            "jumlah": "5"
+        },
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kab.&jobs=Mamberamo%20Tengah",
+            "jumlah": "59"
+        },
+        "pulau": null,
+        "kode": "95.05"
+    },
+    {
+        "no": "4",
+        "type": "Kabupaten",
+        "name": "Nduga",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Nduga",
+        "kodepos": [
+            "99901",
+            "99942"
+        ],
+        "kecamatan": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Nduga",
+            "jumlah": "32"
+        },
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kab.&jobs=Nduga",
+            "jumlah": "248"
+        },
+        "pulau": null,
+        "kode": "95.08"
+    },
+    {
+        "no": "5",
+        "type": "Kabupaten",
+        "name": "Pegunungan Bintang",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Pegunungan%20Bintang",
+        "kodepos": [
+            "99401",
+            "99454"
+        ],
+        "kecamatan": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Pegunungan%20Bintang",
+            "jumlah": "34"
+        },
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kab.&jobs=Pegunungan%20Bintang",
+            "jumlah": "277"
+        },
+        "pulau": null,
+        "kode": "95.02"
+    },
+    {
+        "no": "6",
+        "type": "Kabupaten",
+        "name": "Tolikara",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Tolikara",
+        "kodepos": [
+            "99011",
+            "99064"
+        ],
+        "kecamatan": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Tolikara",
+            "jumlah": "46"
+        },
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kab.&jobs=Tolikara",
+            "jumlah": "545"
+        },
+        "pulau": null,
+        "kode": "95.04"
+    },
+    {
+        "no": "7",
+        "type": "Kabupaten",
+        "name": "Yahukimo",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Yahukimo",
+        "kodepos": [
+            "99701",
+            "99765"
+        ],
+        "kecamatan": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Yahukimo",
+            "jumlah": "51"
+        },
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kab.&jobs=Yahukimo",
+            "jumlah": "511"
+        },
+        "pulau": null,
+        "kode": "95.03"
+    },
+    {
+        "no": "8",
+        "type": "Kabupaten",
+        "name": "Yalimo",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Yalimo",
+        "kodepos": [
+            "99081",
+            "99085"
+        ],
+        "kecamatan": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Yalimo",
+            "jumlah": "5"
+        },
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kab.&jobs=Yalimo",
+            "jumlah": "300"
+        },
+        "pulau": null,
+        "kode": "95.06"
+    }
+]

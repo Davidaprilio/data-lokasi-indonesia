@@ -1,0 +1,77 @@
+[
+    {
+        "no": "1",
+        "name": "Singkawang Barat",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Singkawang&jobs=Singkawang%20Barat",
+        "kodepos": [
+            "79121",
+            "79124"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Singkawang&jobs=Singkawang%20Barat",
+            "jumlah": "4"
+        },
+        "pulau": null,
+        "kode": "61.72.02"
+    },
+    {
+        "no": "2",
+        "name": "Singkawang Selatan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Singkawang&jobs=Singkawang%20Selatan",
+        "kodepos": [
+            "79163"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Singkawang&jobs=Singkawang%20Selatan",
+            "jumlah": "4"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kota-Singkawang&jobs=Singkawang%20Selatan",
+            "jumlah": "1"
+        },
+        "kode": "61.72.05"
+    },
+    {
+        "no": "3",
+        "name": "Singkawang Tengah",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Singkawang&jobs=Singkawang%20Tengah",
+        "kodepos": [
+            "79111",
+            "79116"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Singkawang&jobs=Singkawang%20Tengah",
+            "jumlah": "6"
+        },
+        "pulau": null,
+        "kode": "61.72.01"
+    },
+    {
+        "no": "4",
+        "name": "Singkawang Timur",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Singkawang&jobs=Singkawang%20Timur",
+        "kodepos": [
+            "79251"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Singkawang&jobs=Singkawang%20Timur",
+            "jumlah": "5"
+        },
+        "pulau": null,
+        "kode": "61.72.03"
+    },
+    {
+        "no": "5",
+        "name": "Singkawang Utara",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Singkawang&jobs=Singkawang%20Utara",
+        "kodepos": [
+            "79151"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Singkawang&jobs=Singkawang%20Utara",
+            "jumlah": "7"
+        },
+        "pulau": null,
+        "kode": "61.72.04"
+    }
+]

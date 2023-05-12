@@ -1,0 +1,30 @@
+[
+    {
+        "no": "1",
+        "kodepos": "10530",
+        "name": "Galur",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Johar%20Baru-Kota-Jakarta%20Pusat&jobs=Galur",
+        "kode": "31.71.08.1003"
+    },
+    {
+        "no": "2",
+        "kodepos": "10560",
+        "name": "Johar Baru",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Johar%20Baru-Kota-Jakarta%20Pusat&jobs=Johar%20Baru",
+        "kode": "31.71.08.1001"
+    },
+    {
+        "no": "3",
+        "kodepos": "10550",
+        "name": "Kampung Rawa",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Johar%20Baru-Kota-Jakarta%20Pusat&jobs=Kampung%20Rawa",
+        "kode": "31.71.08.1002"
+    },
+    {
+        "no": "4",
+        "kodepos": "10540",
+        "name": "Tanah Tinggi",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Johar%20Baru-Kota-Jakarta%20Pusat&jobs=Tanah%20Tinggi",
+        "kode": "31.71.08.1004"
+    }
+]

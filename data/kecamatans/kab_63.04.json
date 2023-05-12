@@ -1,0 +1,251 @@
+[
+    {
+        "no": "1",
+        "name": "Alalak",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Barito%20Kuala&jobs=Alalak",
+        "kodepos": [
+            "70582"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Barito%20Kuala&jobs=Alalak",
+            "jumlah": "18"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Barito%20Kuala&jobs=Alalak",
+            "jumlah": "2"
+        },
+        "kode": "63.04.05"
+    },
+    {
+        "no": "2",
+        "name": "Anjir Muara",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Barito%20Kuala&jobs=Anjir%20Muara",
+        "kodepos": [
+            "70564"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Barito%20Kuala&jobs=Anjir%20Muara",
+            "jumlah": "15"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Barito%20Kuala&jobs=Anjir%20Muara",
+            "jumlah": "1"
+        },
+        "kode": "63.04.04"
+    },
+    {
+        "no": "3",
+        "name": "Anjir Pasar",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Barito%20Kuala&jobs=Anjir%20Pasar",
+        "kodepos": [
+            "70565"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Barito%20Kuala&jobs=Anjir%20Pasar",
+            "jumlah": "15"
+        },
+        "pulau": null,
+        "kode": "63.04.03"
+    },
+    {
+        "no": "4",
+        "name": "Bakumpai",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Barito%20Kuala&jobs=Bakumpai",
+        "kodepos": [
+            "70512",
+            "70513"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Barito%20Kuala&jobs=Bakumpai",
+            "jumlah": "9"
+        },
+        "pulau": null,
+        "kode": "63.04.10"
+    },
+    {
+        "no": "5",
+        "name": "Barambai",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Barito%20Kuala&jobs=Barambai",
+        "kodepos": [
+            "70562"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Barito%20Kuala&jobs=Barambai",
+            "jumlah": "11"
+        },
+        "pulau": null,
+        "kode": "63.04.14"
+    },
+    {
+        "no": "6",
+        "name": "Belawang",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Barito%20Kuala&jobs=Belawang",
+        "kodepos": [
+            "70563"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Barito%20Kuala&jobs=Belawang",
+            "jumlah": "13"
+        },
+        "pulau": null,
+        "kode": "63.04.08"
+    },
+    {
+        "no": "7",
+        "name": "Cerbon",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Barito%20Kuala&jobs=Cerbon",
+        "kodepos": [
+            "70571"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Barito%20Kuala&jobs=Cerbon",
+            "jumlah": "8"
+        },
+        "pulau": null,
+        "kode": "63.04.09"
+    },
+    {
+        "no": "8",
+        "name": "Jejangkit",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Barito%20Kuala&jobs=Jejangkit",
+        "kodepos": [
+            "70581"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Barito%20Kuala&jobs=Jejangkit",
+            "jumlah": "7"
+        },
+        "pulau": null,
+        "kode": "63.04.17"
+    },
+    {
+        "no": "9",
+        "name": "Kuripan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Barito%20Kuala&jobs=Kuripan",
+        "kodepos": [
+            "70552"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Barito%20Kuala&jobs=Kuripan",
+            "jumlah": "9"
+        },
+        "pulau": null,
+        "kode": "63.04.11"
+    },
+    {
+        "no": "10",
+        "name": "Mandastana",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Barito%20Kuala&jobs=Mandastana",
+        "kodepos": [
+            "70580"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Barito%20Kuala&jobs=Mandastana",
+            "jumlah": "14"
+        },
+        "pulau": null,
+        "kode": "63.04.06"
+    },
+    {
+        "no": "11",
+        "name": "Marabahan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Barito%20Kuala&jobs=Marabahan",
+        "kodepos": [
+            "70511",
+            "70513"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Barito%20Kuala&jobs=Marabahan",
+            "jumlah": "10"
+        },
+        "pulau": null,
+        "kode": "63.04.15"
+    },
+    {
+        "no": "12",
+        "name": "Mekarsari (Mekar Sari)",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Barito%20Kuala&jobs=Mekarsari%20(Mekar%20Sari)",
+        "kodepos": [
+            "70568"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Barito%20Kuala&jobs=Mekarsari%20(Mekar%20Sari)",
+            "jumlah": "9"
+        },
+        "pulau": null,
+        "kode": "63.04.13"
+    },
+    {
+        "no": "13",
+        "name": "Rantau Badauh",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Barito%20Kuala&jobs=Rantau%20Badauh",
+        "kodepos": [
+            "70561"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Barito%20Kuala&jobs=Rantau%20Badauh",
+            "jumlah": "9"
+        },
+        "pulau": null,
+        "kode": "63.04.07"
+    },
+    {
+        "no": "14",
+        "name": "Tabukan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Barito%20Kuala&jobs=Tabukan",
+        "kodepos": [
+            "70553"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Barito%20Kuala&jobs=Tabukan",
+            "jumlah": "11"
+        },
+        "pulau": null,
+        "kode": "63.04.12"
+    },
+    {
+        "no": "15",
+        "name": "Tabunganen",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Barito%20Kuala&jobs=Tabunganen",
+        "kodepos": [
+            "70567"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Barito%20Kuala&jobs=Tabunganen",
+            "jumlah": "14"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Barito%20Kuala&jobs=Tabunganen",
+            "jumlah": "3"
+        },
+        "kode": "63.04.01"
+    },
+    {
+        "no": "16",
+        "name": "Tamban",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Barito%20Kuala&jobs=Tamban",
+        "kodepos": [
+            "70566"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Barito%20Kuala&jobs=Tamban",
+            "jumlah": "16"
+        },
+        "pulau": null,
+        "kode": "63.04.02"
+    },
+    {
+        "no": "17",
+        "name": "Wanaraya",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Barito%20Kuala&jobs=Wanaraya",
+        "kodepos": [
+            "70560"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Barito%20Kuala&jobs=Wanaraya",
+            "jumlah": "13"
+        },
+        "pulau": null,
+        "kode": "63.04.16"
+    }
+]

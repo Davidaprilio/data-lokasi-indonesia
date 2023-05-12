@@ -1,0 +1,37 @@
+[
+    {
+        "no": "1",
+        "kodepos": "53222",
+        "name": "Donan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Cilacap%20Tengah-Kab.-Cilacap&jobs=Donan",
+        "kode": "33.01.22.1004"
+    },
+    {
+        "no": "2",
+        "kodepos": "53224",
+        "name": "Gunungsimping",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Cilacap%20Tengah-Kab.-Cilacap&jobs=Gunungsimping",
+        "kode": "33.01.22.1002"
+    },
+    {
+        "no": "3",
+        "kodepos": "53225",
+        "name": "Kutawaru",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Cilacap%20Tengah-Kab.-Cilacap&jobs=Kutawaru",
+        "kode": "33.01.22.1005"
+    },
+    {
+        "no": "4",
+        "kodepos": "53221",
+        "name": "Lomanis",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Cilacap%20Tengah-Kab.-Cilacap&jobs=Lomanis",
+        "kode": "33.01.22.1001"
+    },
+    {
+        "no": "5",
+        "kodepos": "53223",
+        "name": "Sidanegara",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Cilacap%20Tengah-Kab.-Cilacap&jobs=Sidanegara",
+        "kode": "33.01.22.1003"
+    }
+]

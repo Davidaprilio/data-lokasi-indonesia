@@ -1,0 +1,228 @@
+[
+    {
+        "no": "1",
+        "name": "Banjarejo",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Blora&jobs=Banjarejo",
+        "kodepos": [
+            "58253"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Blora&jobs=Banjarejo",
+            "jumlah": "20"
+        },
+        "pulau": null,
+        "kode": "33.16.11"
+    },
+    {
+        "no": "2",
+        "name": "Blora (Blora kota)",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Blora&jobs=Blora%20(Blora%20kota)",
+        "kodepos": [
+            "58211",
+            "58219"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Blora&jobs=Blora%20(Blora%20kota)",
+            "jumlah": "28"
+        },
+        "pulau": null,
+        "kode": "33.16.09"
+    },
+    {
+        "no": "3",
+        "name": "Bogorejo",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Blora&jobs=Bogorejo",
+        "kodepos": [
+            "58262"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Blora&jobs=Bogorejo",
+            "jumlah": "14"
+        },
+        "pulau": null,
+        "kode": "33.16.15"
+    },
+    {
+        "no": "4",
+        "name": "Cepu",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Blora&jobs=Cepu",
+        "kodepos": [
+            "58311",
+            "58315"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Blora&jobs=Cepu",
+            "jumlah": "17"
+        },
+        "pulau": null,
+        "kode": "33.16.05"
+    },
+    {
+        "no": "5",
+        "name": "Japah",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Blora&jobs=Japah",
+        "kodepos": [
+            "58257"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Blora&jobs=Japah",
+            "jumlah": "18"
+        },
+        "pulau": null,
+        "kode": "33.16.16"
+    },
+    {
+        "no": "6",
+        "name": "Jati",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Blora&jobs=Jati",
+        "kodepos": [
+            "58384"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Blora&jobs=Jati",
+            "jumlah": "12"
+        },
+        "pulau": null,
+        "kode": "33.16.01"
+    },
+    {
+        "no": "7",
+        "name": "Jepon",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Blora&jobs=Jepon",
+        "kodepos": [
+            "58261"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Blora&jobs=Jepon",
+            "jumlah": "25"
+        },
+        "pulau": null,
+        "kode": "33.16.08"
+    },
+    {
+        "no": "8",
+        "name": "Jiken",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Blora&jobs=Jiken",
+        "kodepos": [
+            "58372"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Blora&jobs=Jiken",
+            "jumlah": "11"
+        },
+        "pulau": null,
+        "kode": "33.16.07"
+    },
+    {
+        "no": "9",
+        "name": "Kedungtuban",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Blora&jobs=Kedungtuban",
+        "kodepos": [
+            "58381"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Blora&jobs=Kedungtuban",
+            "jumlah": "17"
+        },
+        "pulau": null,
+        "kode": "33.16.04"
+    },
+    {
+        "no": "10",
+        "name": "Kradenan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Blora&jobs=Kradenan",
+        "kodepos": [
+            "58383"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Blora&jobs=Kradenan",
+            "jumlah": "10"
+        },
+        "pulau": null,
+        "kode": "33.16.03"
+    },
+    {
+        "no": "11",
+        "name": "Kunduran",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Blora&jobs=Kunduran",
+        "kodepos": [
+            "58255"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Blora&jobs=Kunduran",
+            "jumlah": "26"
+        },
+        "pulau": null,
+        "kode": "33.16.13"
+    },
+    {
+        "no": "12",
+        "name": "Ngawen",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Blora&jobs=Ngawen",
+        "kodepos": [
+            "58254"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Blora&jobs=Ngawen",
+            "jumlah": "29"
+        },
+        "pulau": null,
+        "kode": "33.16.12"
+    },
+    {
+        "no": "13",
+        "name": "Randublatung",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Blora&jobs=Randublatung",
+        "kodepos": [
+            "58382"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Blora&jobs=Randublatung",
+            "jumlah": "18"
+        },
+        "pulau": null,
+        "kode": "33.16.02"
+    },
+    {
+        "no": "14",
+        "name": "Sambong",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Blora&jobs=Sambong",
+        "kodepos": [
+            "58371"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Blora&jobs=Sambong",
+            "jumlah": "10"
+        },
+        "pulau": null,
+        "kode": "33.16.06"
+    },
+    {
+        "no": "15",
+        "name": "Todanan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Blora&jobs=Todanan",
+        "kodepos": [
+            "58256"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Blora&jobs=Todanan",
+            "jumlah": "25"
+        },
+        "pulau": null,
+        "kode": "33.16.14"
+    },
+    {
+        "no": "16",
+        "name": "Tunjungan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Blora&jobs=Tunjungan",
+        "kodepos": [
+            "58252"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Blora&jobs=Tunjungan",
+            "jumlah": "15"
+        },
+        "pulau": null,
+        "kode": "33.16.10"
+    }
+]

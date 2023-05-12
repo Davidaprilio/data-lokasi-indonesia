@@ -1,0 +1,92 @@
+[
+    {
+        "no": "1",
+        "name": "Cilincing",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Jakarta%20Utara&jobs=Cilincing",
+        "kodepos": [
+            "14110",
+            "14150"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Jakarta%20Utara&jobs=Cilincing",
+            "jumlah": "7"
+        },
+        "pulau": null,
+        "kode": "31.72.04"
+    },
+    {
+        "no": "2",
+        "name": "Kelapa Gading",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Jakarta%20Utara&jobs=Kelapa%20Gading",
+        "kodepos": [
+            "14240",
+            "14250"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Jakarta%20Utara&jobs=Kelapa%20Gading",
+            "jumlah": "3"
+        },
+        "pulau": null,
+        "kode": "31.72.06"
+    },
+    {
+        "no": "3",
+        "name": "Koja",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Jakarta%20Utara&jobs=Koja",
+        "kodepos": [
+            "14210",
+            "14270"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Jakarta%20Utara&jobs=Koja",
+            "jumlah": "6"
+        },
+        "pulau": null,
+        "kode": "31.72.03"
+    },
+    {
+        "no": "4",
+        "name": "Pademangan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Jakarta%20Utara&jobs=Pademangan",
+        "kodepos": [
+            "14410",
+            "14430"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Jakarta%20Utara&jobs=Pademangan",
+            "jumlah": "3"
+        },
+        "pulau": null,
+        "kode": "31.72.05"
+    },
+    {
+        "no": "5",
+        "name": "Penjaringan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Jakarta%20Utara&jobs=Penjaringan",
+        "kodepos": [
+            "14440",
+            "14470"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Jakarta%20Utara&jobs=Penjaringan",
+            "jumlah": "5"
+        },
+        "pulau": null,
+        "kode": "31.72.01"
+    },
+    {
+        "no": "6",
+        "name": "Tanjung Priok",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Jakarta%20Utara&jobs=Tanjung%20Priok",
+        "kodepos": [
+            "14360",
+            "14370"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Jakarta%20Utara&jobs=Tanjung%20Priok",
+            "jumlah": "7"
+        },
+        "pulau": null,
+        "kode": "31.72.02"
+    }
+]

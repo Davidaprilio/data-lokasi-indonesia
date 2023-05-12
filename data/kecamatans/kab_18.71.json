@@ -1,0 +1,304 @@
+[
+    {
+        "no": "1",
+        "name": "Bumi Waras",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Bandar%20Lampung&jobs=Bumi%20Waras",
+        "kodepos": [
+            "35224",
+            "35228"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Bandar%20Lampung&jobs=Bumi%20Waras",
+            "jumlah": "5"
+        },
+        "pulau": null,
+        "kode": "18.71.20"
+    },
+    {
+        "no": "2",
+        "name": "Enggal",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Bandar%20Lampung&jobs=Enggal",
+        "kodepos": [
+            "35111",
+            "35127"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Bandar%20Lampung&jobs=Enggal",
+            "jumlah": "6"
+        },
+        "pulau": null,
+        "kode": "18.71.17"
+    },
+    {
+        "no": "3",
+        "name": "Kedamaian",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Bandar%20Lampung&jobs=Kedamaian",
+        "kodepos": [
+            "35122",
+            "35133"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Bandar%20Lampung&jobs=Kedamaian",
+            "jumlah": "7"
+        },
+        "pulau": null,
+        "kode": "18.71.18"
+    },
+    {
+        "no": "4",
+        "name": "Kedaton",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Bandar%20Lampung&jobs=Kedaton",
+        "kodepos": [
+            "35141",
+            "35148"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Bandar%20Lampung&jobs=Kedaton",
+            "jumlah": "7"
+        },
+        "pulau": null,
+        "kode": "18.71.01"
+    },
+    {
+        "no": "5",
+        "name": "Kemiling",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Bandar%20Lampung&jobs=Kemiling",
+        "kodepos": [
+            "35153",
+            "35158"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Bandar%20Lampung&jobs=Kemiling",
+            "jumlah": "9"
+        },
+        "pulau": null,
+        "kode": "18.71.13"
+    },
+    {
+        "no": "6",
+        "name": "Labuhan Ratu",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Bandar%20Lampung&jobs=Labuhan%20Ratu",
+        "kodepos": [
+            "35142",
+            "35149"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Bandar%20Lampung&jobs=Labuhan%20Ratu",
+            "jumlah": "6"
+        },
+        "pulau": null,
+        "kode": "18.71.14"
+    },
+    {
+        "no": "7",
+        "name": "Langkapura",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Bandar%20Lampung&jobs=Langkapura",
+        "kodepos": [
+            "35152",
+            "35157"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Bandar%20Lampung&jobs=Langkapura",
+            "jumlah": "5"
+        },
+        "pulau": null,
+        "kode": "18.71.16"
+    },
+    {
+        "no": "8",
+        "name": "Panjang",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Bandar%20Lampung&jobs=Panjang",
+        "kodepos": [
+            "35241",
+            "35246"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Bandar%20Lampung&jobs=Panjang",
+            "jumlah": "8"
+        },
+        "pulau": null,
+        "kode": "18.71.04"
+    },
+    {
+        "no": "9",
+        "name": "Rajabasa",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Bandar%20Lampung&jobs=Rajabasa",
+        "kodepos": [
+            "35144",
+            "35145"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Bandar%20Lampung&jobs=Rajabasa",
+            "jumlah": "7"
+        },
+        "pulau": null,
+        "kode": "18.71.10"
+    },
+    {
+        "no": "10",
+        "name": "Sukabumi",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Bandar%20Lampung&jobs=Sukabumi",
+        "kodepos": [
+            "35122",
+            "35245"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Bandar%20Lampung&jobs=Sukabumi",
+            "jumlah": "7"
+        },
+        "pulau": null,
+        "kode": "18.71.12"
+    },
+    {
+        "no": "11",
+        "name": "Sukarame",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Bandar%20Lampung&jobs=Sukarame",
+        "kodepos": [
+            "35131"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Bandar%20Lampung&jobs=Sukarame",
+            "jumlah": "6"
+        },
+        "pulau": null,
+        "kode": "18.71.02"
+    },
+    {
+        "no": "12",
+        "name": "Tanjung Senang",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Bandar%20Lampung&jobs=Tanjung%20Senang",
+        "kodepos": [
+            "35141",
+            "35143"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Bandar%20Lampung&jobs=Tanjung%20Senang",
+            "jumlah": "5"
+        },
+        "pulau": null,
+        "kode": "18.71.11"
+    },
+    {
+        "no": "13",
+        "name": "Tanjungkarang Barat (Tanjung Karang Barat)",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Bandar%20Lampung&jobs=Tanjungkarang%20Barat%20(Tanjung%20Karang%20Barat)",
+        "kodepos": [
+            "35151",
+            "35159"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Bandar%20Lampung&jobs=Tanjungkarang%20Barat%20(Tanjung%20Karang%20Barat)",
+            "jumlah": "7"
+        },
+        "pulau": null,
+        "kode": "18.71.03"
+    },
+    {
+        "no": "14",
+        "name": "Tanjungkarang Pusat (Tanjung Karang Pusat)",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Bandar%20Lampung&jobs=Tanjungkarang%20Pusat%20(Tanjung%20Karang%20Pusat)",
+        "kodepos": [
+            "35111",
+            "35119"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Bandar%20Lampung&jobs=Tanjungkarang%20Pusat%20(Tanjung%20Karang%20Pusat)",
+            "jumlah": "7"
+        },
+        "pulau": null,
+        "kode": "18.71.06"
+    },
+    {
+        "no": "15",
+        "name": "Tanjungkarang Timur (Tanjung Karang Timur)",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Bandar%20Lampung&jobs=Tanjungkarang%20Timur%20(Tanjung%20Karang%20Timur)",
+        "kodepos": [
+            "35121",
+            "35126"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Bandar%20Lampung&jobs=Tanjungkarang%20Timur%20(Tanjung%20Karang%20Timur)",
+            "jumlah": "5"
+        },
+        "pulau": null,
+        "kode": "18.71.05"
+    },
+    {
+        "no": "16",
+        "name": "Telukbetung Barat",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Bandar%20Lampung&jobs=Telukbetung%20Barat",
+        "kodepos": [
+            "35232",
+            "35239"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Bandar%20Lampung&jobs=Telukbetung%20Barat",
+            "jumlah": "5"
+        },
+        "pulau": null,
+        "kode": "18.71.08"
+    },
+    {
+        "no": "17",
+        "name": "Telukbetung Selatan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Bandar%20Lampung&jobs=Telukbetung%20Selatan",
+        "kodepos": [
+            "35211",
+            "35229"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Bandar%20Lampung&jobs=Telukbetung%20Selatan",
+            "jumlah": "6"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kota-Bandar%20Lampung&jobs=Telukbetung%20Selatan",
+            "jumlah": "2"
+        },
+        "kode": "18.71.07"
+    },
+    {
+        "no": "18",
+        "name": "Telukbetung Timur",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Bandar%20Lampung&jobs=Telukbetung%20Timur",
+        "kodepos": [
+            "35231",
+            "35237"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Bandar%20Lampung&jobs=Telukbetung%20Timur",
+            "jumlah": "6"
+        },
+        "pulau": null,
+        "kode": "18.71.19"
+    },
+    {
+        "no": "19",
+        "name": "Telukbetung Utara",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Bandar%20Lampung&jobs=Telukbetung%20Utara",
+        "kodepos": [
+            "35211",
+            "35215"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Bandar%20Lampung&jobs=Telukbetung%20Utara",
+            "jumlah": "6"
+        },
+        "pulau": null,
+        "kode": "18.71.09"
+    },
+    {
+        "no": "20",
+        "name": "Way Halim",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Bandar%20Lampung&jobs=Way%20Halim",
+        "kodepos": [
+            "35123",
+            "35141"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Bandar%20Lampung&jobs=Way%20Halim",
+            "jumlah": "6"
+        },
+        "pulau": null,
+        "kode": "18.71.15"
+    }
+]

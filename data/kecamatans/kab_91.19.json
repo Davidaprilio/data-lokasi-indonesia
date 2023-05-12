@@ -1,0 +1,87 @@
+[
+    {
+        "no": "1",
+        "name": "Kepulauan Aruri",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Supiori&jobs=Kepulauan%20Aruri",
+        "kodepos": [
+            "98571"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Supiori&jobs=Kepulauan%20Aruri",
+            "jumlah": "9"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Supiori&jobs=Kepulauan%20Aruri",
+            "jumlah": "83"
+        },
+        "kode": "91.19.04"
+    },
+    {
+        "no": "2",
+        "name": "Supiori Barat",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Supiori&jobs=Supiori%20Barat",
+        "kodepos": [
+            "98581"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Supiori&jobs=Supiori%20Barat",
+            "jumlah": "7"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Supiori&jobs=Supiori%20Barat",
+            "jumlah": "20"
+        },
+        "kode": "91.19.05"
+    },
+    {
+        "no": "3",
+        "name": "Supiori Selatan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Supiori&jobs=Supiori%20Selatan",
+        "kodepos": [
+            "98572"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Supiori&jobs=Supiori%20Selatan",
+            "jumlah": "7"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Supiori&jobs=Supiori%20Selatan",
+            "jumlah": "12"
+        },
+        "kode": "91.19.01"
+    },
+    {
+        "no": "4",
+        "name": "Supiori Timur",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Supiori&jobs=Supiori%20Timur",
+        "kodepos": [
+            "98573"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Supiori&jobs=Supiori%20Timur",
+            "jumlah": "10"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Supiori&jobs=Supiori%20Timur",
+            "jumlah": "3"
+        },
+        "kode": "91.19.03"
+    },
+    {
+        "no": "5",
+        "name": "Supiori Utara",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Supiori&jobs=Supiori%20Utara",
+        "kodepos": [
+            "98582"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Supiori&jobs=Supiori%20Utara",
+            "jumlah": "5"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Supiori&jobs=Supiori%20Utara",
+            "jumlah": "1"
+        },
+        "kode": "91.19.02"
+    }
+]

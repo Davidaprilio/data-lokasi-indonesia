@@ -1,0 +1,200 @@
+[
+    {
+        "no": "1",
+        "name": "Belawa",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Wajo&jobs=Belawa",
+        "kodepos": [
+            "90913",
+            "90953"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Wajo&jobs=Belawa",
+            "jumlah": "9"
+        },
+        "pulau": null,
+        "kode": "73.13.07"
+    },
+    {
+        "no": "2",
+        "name": "Bola",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Wajo&jobs=Bola",
+        "kodepos": [
+            "90984"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Wajo&jobs=Bola",
+            "jumlah": "11"
+        },
+        "pulau": null,
+        "kode": "73.13.11"
+    },
+    {
+        "no": "3",
+        "name": "Gilireng",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Wajo&jobs=Gilireng",
+        "kodepos": [
+            "90954"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Wajo&jobs=Gilireng",
+            "jumlah": "9"
+        },
+        "pulau": null,
+        "kode": "73.13.13"
+    },
+    {
+        "no": "4",
+        "name": "Keera",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Wajo&jobs=Keera",
+        "kodepos": [
+            "90993"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Wajo&jobs=Keera",
+            "jumlah": "10"
+        },
+        "pulau": null,
+        "kode": "73.13.14"
+    },
+    {
+        "no": "5",
+        "name": "Majauleng",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Wajo&jobs=Majauleng",
+        "kodepos": [
+            "90991"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Wajo&jobs=Majauleng",
+            "jumlah": "18"
+        },
+        "pulau": null,
+        "kode": "73.13.05"
+    },
+    {
+        "no": "6",
+        "name": "Maniangpajo",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Wajo&jobs=Maniangpajo",
+        "kodepos": [
+            "90952"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Wajo&jobs=Maniangpajo",
+            "jumlah": "8"
+        },
+        "pulau": null,
+        "kode": "73.13.09"
+    },
+    {
+        "no": "7",
+        "name": "Pammana",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Wajo&jobs=Pammana",
+        "kodepos": [
+            "90971"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Wajo&jobs=Pammana",
+            "jumlah": "16"
+        },
+        "pulau": null,
+        "kode": "73.13.02"
+    },
+    {
+        "no": "8",
+        "name": "Penrang",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Wajo&jobs=Penrang",
+        "kodepos": [
+            "90983"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Wajo&jobs=Penrang",
+            "jumlah": "10"
+        },
+        "pulau": null,
+        "kode": "73.13.12"
+    },
+    {
+        "no": "9",
+        "name": "Pitumpanua",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Wajo&jobs=Pitumpanua",
+        "kodepos": [
+            "90992"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Wajo&jobs=Pitumpanua",
+            "jumlah": "27"
+        },
+        "pulau": null,
+        "kode": "73.13.10"
+    },
+    {
+        "no": "10",
+        "name": "Sabangparu",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Wajo&jobs=Sabangparu",
+        "kodepos": [
+            "90961"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Wajo&jobs=Sabangparu",
+            "jumlah": "15"
+        },
+        "pulau": null,
+        "kode": "73.13.01"
+    },
+    {
+        "no": "11",
+        "name": "Sajoanging",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Wajo&jobs=Sajoanging",
+        "kodepos": [
+            "90982"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Wajo&jobs=Sajoanging",
+            "jumlah": "9"
+        },
+        "pulau": null,
+        "kode": "73.13.04"
+    },
+    {
+        "no": "12",
+        "name": "Takkalalla",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Wajo&jobs=Takkalalla",
+        "kodepos": [
+            "90981"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Wajo&jobs=Takkalalla",
+            "jumlah": "13"
+        },
+        "pulau": null,
+        "kode": "73.13.03"
+    },
+    {
+        "no": "13",
+        "name": "Tanasitolo",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Wajo&jobs=Tanasitolo",
+        "kodepos": [
+            "90951"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Wajo&jobs=Tanasitolo",
+            "jumlah": "19"
+        },
+        "pulau": null,
+        "kode": "73.13.08"
+    },
+    {
+        "no": "14",
+        "name": "Tempe",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Wajo&jobs=Tempe",
+        "kodepos": [
+            "90911",
+            "90918"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Wajo&jobs=Tempe",
+            "jumlah": "16"
+        },
+        "pulau": null,
+        "kode": "73.13.06"
+    }
+]

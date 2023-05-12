@@ -1,0 +1,156 @@
+[
+    {
+        "no": "1",
+        "name": "Bangkunat (Bengkunat)",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pesisir%20Barat&jobs=Bangkunat%20(Bengkunat)",
+        "kodepos": [
+            "34887"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pesisir%20Barat&jobs=Bangkunat%20(Bengkunat)",
+            "jumlah": "14"
+        },
+        "pulau": null,
+        "kode": "18.13.11"
+    },
+    {
+        "no": "2",
+        "name": "Karya Penggawa",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pesisir%20Barat&jobs=Karya%20Penggawa",
+        "kodepos": [
+            "34878"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pesisir%20Barat&jobs=Karya%20Penggawa",
+            "jumlah": "12"
+        },
+        "pulau": null,
+        "kode": "18.13.05"
+    },
+    {
+        "no": "3",
+        "name": "Krui Selatan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pesisir%20Barat&jobs=Krui%20Selatan",
+        "kodepos": [
+            "34874"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pesisir%20Barat&jobs=Krui%20Selatan",
+            "jumlah": "10"
+        },
+        "pulau": null,
+        "kode": "18.13.08"
+    },
+    {
+        "no": "4",
+        "name": "Lemong",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pesisir%20Barat&jobs=Lemong",
+        "kodepos": [
+            "34877"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pesisir%20Barat&jobs=Lemong",
+            "jumlah": "13"
+        },
+        "pulau": null,
+        "kode": "18.13.03"
+    },
+    {
+        "no": "5",
+        "name": "Ngambur",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pesisir%20Barat&jobs=Ngambur",
+        "kodepos": [
+            "34883"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pesisir%20Barat&jobs=Ngambur",
+            "jumlah": "9"
+        },
+        "pulau": null,
+        "kode": "18.13.09"
+    },
+    {
+        "no": "6",
+        "name": "Ngaras (Bengkunat Belimbing)",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pesisir%20Barat&jobs=Ngaras%20(Bengkunat%20Belimbing)",
+        "kodepos": [
+            "34888"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pesisir%20Barat&jobs=Ngaras%20(Bengkunat%20Belimbing)",
+            "jumlah": "9"
+        },
+        "pulau": null,
+        "kode": "18.13.10"
+    },
+    {
+        "no": "7",
+        "name": "Pesisir Selatan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pesisir%20Barat&jobs=Pesisir%20Selatan",
+        "kodepos": [
+            "34875"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pesisir%20Barat&jobs=Pesisir%20Selatan",
+            "jumlah": "15"
+        },
+        "pulau": null,
+        "kode": "18.13.02"
+    },
+    {
+        "no": "8",
+        "name": "Pesisir Tengah",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pesisir%20Barat&jobs=Pesisir%20Tengah",
+        "kodepos": [
+            "34894"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pesisir%20Barat&jobs=Pesisir%20Tengah",
+            "jumlah": "8"
+        },
+        "pulau": null,
+        "kode": "18.13.01"
+    },
+    {
+        "no": "9",
+        "name": "Pesisir Utara",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pesisir%20Barat&jobs=Pesisir%20Utara",
+        "kodepos": [
+            "34876"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pesisir%20Barat&jobs=Pesisir%20Utara",
+            "jumlah": "12"
+        },
+        "pulau": null,
+        "kode": "18.13.04"
+    },
+    {
+        "no": "10",
+        "name": "Pulaupisang (Pulau Pisang)",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pesisir%20Barat&jobs=Pulaupisang%20(Pulau%20Pisang)",
+        "kodepos": [
+            "34896"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pesisir%20Barat&jobs=Pulaupisang%20(Pulau%20Pisang)",
+            "jumlah": "6"
+        },
+        "pulau": null,
+        "kode": "18.13.06"
+    },
+    {
+        "no": "11",
+        "name": "Way Krui",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pesisir%20Barat&jobs=Way%20Krui",
+        "kodepos": [
+            "34898"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pesisir%20Barat&jobs=Way%20Krui",
+            "jumlah": "10"
+        },
+        "pulau": null,
+        "kode": "18.13.07"
+    }
+]

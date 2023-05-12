@@ -1,0 +1,239 @@
+[
+    {
+        "no": "1",
+        "name": "Bunguran Barat",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Natuna&jobs=Bunguran%20Barat",
+        "kodepos": [
+            "29782"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Natuna&jobs=Bunguran%20Barat",
+            "jumlah": "5"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Natuna&jobs=Bunguran%20Barat",
+            "jumlah": "15"
+        },
+        "kode": "21.03.05"
+    },
+    {
+        "no": "2",
+        "name": "Bunguran Batubi",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Natuna&jobs=Bunguran%20Batubi",
+        "kodepos": [
+            "29787"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Natuna&jobs=Bunguran%20Batubi",
+            "jumlah": "5"
+        },
+        "pulau": null,
+        "kode": "21.03.20"
+    },
+    {
+        "no": "3",
+        "name": "Bunguran Selatan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Natuna&jobs=Bunguran%20Selatan",
+        "kodepos": [
+            "29783"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Natuna&jobs=Bunguran%20Selatan",
+            "jumlah": "4"
+        },
+        "pulau": null,
+        "kode": "21.03.18"
+    },
+    {
+        "no": "4",
+        "name": "Bunguran Tengah",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Natuna&jobs=Bunguran%20Tengah",
+        "kodepos": [
+            "29778"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Natuna&jobs=Bunguran%20Tengah",
+            "jumlah": "3"
+        },
+        "pulau": null,
+        "kode": "21.03.16"
+    },
+    {
+        "no": "5",
+        "name": "Bunguran Timur",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Natuna&jobs=Bunguran%20Timur",
+        "kodepos": [
+            "29777"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Natuna&jobs=Bunguran%20Timur",
+            "jumlah": "7"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Natuna&jobs=Bunguran%20Timur",
+            "jumlah": "17"
+        },
+        "kode": "21.03.07"
+    },
+    {
+        "no": "6",
+        "name": "Bunguran Timur Laut",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Natuna&jobs=Bunguran%20Timur%20Laut",
+        "kodepos": [
+            "29776"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Natuna&jobs=Bunguran%20Timur%20Laut",
+            "jumlah": "7"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Natuna&jobs=Bunguran%20Timur%20Laut",
+            "jumlah": "9"
+        },
+        "kode": "21.03.15"
+    },
+    {
+        "no": "7",
+        "name": "Bunguran Utara",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Natuna&jobs=Bunguran%20Utara",
+        "kodepos": [
+            "29775"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Natuna&jobs=Bunguran%20Utara",
+            "jumlah": "8"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Natuna&jobs=Bunguran%20Utara",
+            "jumlah": "15"
+        },
+        "kode": "21.03.08"
+    },
+    {
+        "no": "8",
+        "name": "Midai",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Natuna&jobs=Midai",
+        "kodepos": [
+            "29784"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Natuna&jobs=Midai",
+            "jumlah": "3"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Natuna&jobs=Midai",
+            "jumlah": "2"
+        },
+        "kode": "21.03.04"
+    },
+    {
+        "no": "9",
+        "name": "Pulau Laut",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Natuna&jobs=Pulau%20Laut",
+        "kodepos": [
+            "29789"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Natuna&jobs=Pulau%20Laut",
+            "jumlah": "3"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Natuna&jobs=Pulau%20Laut",
+            "jumlah": "8"
+        },
+        "kode": "21.03.10"
+    },
+    {
+        "no": "10",
+        "name": "Pulau Tiga",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Natuna&jobs=Pulau%20Tiga",
+        "kodepos": [
+            "29788"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Natuna&jobs=Pulau%20Tiga",
+            "jumlah": "6"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Natuna&jobs=Pulau%20Tiga",
+            "jumlah": "20"
+        },
+        "kode": "21.03.11"
+    },
+    {
+        "no": "11",
+        "name": "Pulau Tiga Barat",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Natuna&jobs=Pulau%20Tiga%20Barat",
+        "kodepos": [
+            "29786"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Natuna&jobs=Pulau%20Tiga%20Barat",
+            "jumlah": "4"
+        },
+        "pulau": null,
+        "kode": "21.03.21"
+    },
+    {
+        "no": "12",
+        "name": "Serasan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Natuna&jobs=Serasan",
+        "kodepos": [
+            "29781"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Natuna&jobs=Serasan",
+            "jumlah": "7"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Natuna&jobs=Serasan",
+            "jumlah": "42"
+        },
+        "kode": "21.03.06"
+    },
+    {
+        "no": "13",
+        "name": "Serasan Timur",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Natuna&jobs=Serasan%20Timur",
+        "kodepos": [
+            "29780"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Natuna&jobs=Serasan%20Timur",
+            "jumlah": "4"
+        },
+        "pulau": null,
+        "kode": "21.03.19"
+    },
+    {
+        "no": "14",
+        "name": "Suak Midai",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Natuna&jobs=Suak%20Midai",
+        "kodepos": [
+            "29785"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Natuna&jobs=Suak%20Midai",
+            "jumlah": "3"
+        },
+        "pulau": null,
+        "kode": "21.03.22"
+    },
+    {
+        "no": "15",
+        "name": "Subi",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Natuna&jobs=Subi",
+        "kodepos": [
+            "29779"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Natuna&jobs=Subi",
+            "jumlah": "8"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Natuna&jobs=Subi",
+            "jumlah": "21"
+        },
+        "kode": "21.03.09"
+    }
+]

@@ -1,0 +1,197 @@
+[
+    {
+        "no": "1",
+        "name": "Batuceper",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Tangerang&jobs=Batuceper",
+        "kodepos": [
+            "15121",
+            "15122"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Tangerang&jobs=Batuceper",
+            "jumlah": "7"
+        },
+        "pulau": null,
+        "kode": "36.71.03"
+    },
+    {
+        "no": "2",
+        "name": "Benda",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Tangerang&jobs=Benda",
+        "kodepos": [
+            "15123",
+            "15126"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Tangerang&jobs=Benda",
+            "jumlah": "5"
+        },
+        "pulau": null,
+        "kode": "36.71.04"
+    },
+    {
+        "no": "3",
+        "name": "Cibodas",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Tangerang&jobs=Cibodas",
+        "kodepos": [
+            "15134",
+            "15139"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Tangerang&jobs=Cibodas",
+            "jumlah": "6"
+        },
+        "pulau": null,
+        "kode": "36.71.09"
+    },
+    {
+        "no": "4",
+        "name": "Ciledug",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Tangerang&jobs=Ciledug",
+        "kodepos": [
+            "15151",
+            "15153"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Tangerang&jobs=Ciledug",
+            "jumlah": "8"
+        },
+        "pulau": null,
+        "kode": "36.71.06"
+    },
+    {
+        "no": "5",
+        "name": "Cipondoh",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Tangerang&jobs=Cipondoh",
+        "kodepos": [
+            "15141",
+            "15148"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Tangerang&jobs=Cipondoh",
+            "jumlah": "10"
+        },
+        "pulau": null,
+        "kode": "36.71.05"
+    },
+    {
+        "no": "6",
+        "name": "Jatiuwung",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Tangerang&jobs=Jatiuwung",
+        "kodepos": [
+            "15133",
+            "15137"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Tangerang&jobs=Jatiuwung",
+            "jumlah": "6"
+        },
+        "pulau": null,
+        "kode": "36.71.02"
+    },
+    {
+        "no": "7",
+        "name": "Karang Tengah",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Tangerang&jobs=Karang%20Tengah",
+        "kodepos": [
+            "15157",
+            "15159"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Tangerang&jobs=Karang%20Tengah",
+            "jumlah": "7"
+        },
+        "pulau": null,
+        "kode": "36.71.12"
+    },
+    {
+        "no": "8",
+        "name": "Karawaci",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Tangerang&jobs=Karawaci",
+        "kodepos": [
+            "15112",
+            "15116"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Tangerang&jobs=Karawaci",
+            "jumlah": "16"
+        },
+        "pulau": null,
+        "kode": "36.71.07"
+    },
+    {
+        "no": "9",
+        "name": "Larangan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Tangerang&jobs=Larangan",
+        "kodepos": [
+            "15154",
+            "15156"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Tangerang&jobs=Larangan",
+            "jumlah": "8"
+        },
+        "pulau": null,
+        "kode": "36.71.13"
+    },
+    {
+        "no": "10",
+        "name": "Neglasari",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Tangerang&jobs=Neglasari",
+        "kodepos": [
+            "15121",
+            "15129"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Tangerang&jobs=Neglasari",
+            "jumlah": "7"
+        },
+        "pulau": null,
+        "kode": "36.71.10"
+    },
+    {
+        "no": "11",
+        "name": "Periuk",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Tangerang&jobs=Periuk",
+        "kodepos": [
+            "15131",
+            "15133"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Tangerang&jobs=Periuk",
+            "jumlah": "5"
+        },
+        "pulau": null,
+        "kode": "36.71.08"
+    },
+    {
+        "no": "12",
+        "name": "Pinang (Penang)",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Tangerang&jobs=Pinang%20(Penang)",
+        "kodepos": [
+            "15142",
+            "15145"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Tangerang&jobs=Pinang%20(Penang)",
+            "jumlah": "11"
+        },
+        "pulau": null,
+        "kode": "36.71.11"
+    },
+    {
+        "no": "13",
+        "name": "Tangerang",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Tangerang&jobs=Tangerang",
+        "kodepos": [
+            "15111",
+            "15119"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Tangerang&jobs=Tangerang",
+            "jumlah": "8"
+        },
+        "pulau": null,
+        "kode": "36.71.01"
+    }
+]

@@ -1,0 +1,115 @@
+[
+    {
+        "no": "1",
+        "name": "Bajubang",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Batanghari&jobs=Bajubang",
+        "kodepos": [
+            "36615"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Batanghari&jobs=Bajubang",
+            "jumlah": "10"
+        },
+        "pulau": null,
+        "kode": "15.04.07"
+    },
+    {
+        "no": "2",
+        "name": "Batin XXIV",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Batanghari&jobs=Batin%20XXIV",
+        "kodepos": [
+            "36656"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Batanghari&jobs=Batin%20XXIV",
+            "jumlah": "17"
+        },
+        "pulau": null,
+        "kode": "15.04.04"
+    },
+    {
+        "no": "3",
+        "name": "Maro Sebo Ilir",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Batanghari&jobs=Maro%20Sebo%20Ilir",
+        "kodepos": [
+            "36655"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Batanghari&jobs=Maro%20Sebo%20Ilir",
+            "jumlah": "8"
+        },
+        "pulau": null,
+        "kode": "15.04.08"
+    },
+    {
+        "no": "4",
+        "name": "Maro Sebo Ulu",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Batanghari&jobs=Maro%20Sebo%20Ulu",
+        "kodepos": [
+            "36652"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Batanghari&jobs=Maro%20Sebo%20Ulu",
+            "jumlah": "17"
+        },
+        "pulau": null,
+        "kode": "15.04.06"
+    },
+    {
+        "no": "5",
+        "name": "Mersam",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Batanghari&jobs=Mersam",
+        "kodepos": [
+            "36654"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Batanghari&jobs=Mersam",
+            "jumlah": "18"
+        },
+        "pulau": null,
+        "kode": "15.04.01"
+    },
+    {
+        "no": "6",
+        "name": "Muara Bulian",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Batanghari&jobs=Muara%20Bulian",
+        "kodepos": [
+            "36611",
+            "36614"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Batanghari&jobs=Muara%20Bulian",
+            "jumlah": "21"
+        },
+        "pulau": null,
+        "kode": "15.04.03"
+    },
+    {
+        "no": "7",
+        "name": "Muara Tembesi",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Batanghari&jobs=Muara%20Tembesi",
+        "kodepos": [
+            "36653"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Batanghari&jobs=Muara%20Tembesi",
+            "jumlah": "14"
+        },
+        "pulau": null,
+        "kode": "15.04.02"
+    },
+    {
+        "no": "8",
+        "name": "Pemayung",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Batanghari&jobs=Pemayung",
+        "kodepos": [
+            "36657"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Batanghari&jobs=Pemayung",
+            "jumlah": "19"
+        },
+        "pulau": null,
+        "kode": "15.04.05"
+    }
+]

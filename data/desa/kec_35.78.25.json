@@ -1,0 +1,30 @@
+[
+    {
+        "no": "1",
+        "kodepos": "60294",
+        "name": "Gunung Anyar",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Gunung%20Anyar%20(Gununganyar)-Kota-Surabaya&jobs=Gunung%20Anyar",
+        "kode": "35.78.25.1001"
+    },
+    {
+        "no": "2",
+        "kodepos": "60294",
+        "name": "Gunung Anyar Tambak",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Gunung%20Anyar%20(Gununganyar)-Kota-Surabaya&jobs=Gunung%20Anyar%20Tambak",
+        "kode": "35.78.25.1004"
+    },
+    {
+        "no": "3",
+        "kodepos": "60293",
+        "name": "Rungkut Menanggal",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Gunung%20Anyar%20(Gununganyar)-Kota-Surabaya&jobs=Rungkut%20Menanggal",
+        "kode": "35.78.25.1003"
+    },
+    {
+        "no": "4",
+        "kodepos": "60293",
+        "name": "Rungkut Tengah",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Gunung%20Anyar%20(Gununganyar)-Kota-Surabaya&jobs=Rungkut%20Tengah",
+        "kode": "35.78.25.1002"
+    }
+]

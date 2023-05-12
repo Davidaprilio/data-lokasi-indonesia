@@ -1,0 +1,370 @@
+[
+    {
+        "no": "1",
+        "name": "Bayat",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Klaten&jobs=Bayat",
+        "kodepos": [
+            "57462"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Klaten&jobs=Bayat",
+            "jumlah": "18"
+        },
+        "pulau": null,
+        "kode": "33.10.04"
+    },
+    {
+        "no": "2",
+        "name": "Cawas",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Klaten&jobs=Cawas",
+        "kodepos": [
+            "57463"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Klaten&jobs=Cawas",
+            "jumlah": "20"
+        },
+        "pulau": null,
+        "kode": "33.10.05"
+    },
+    {
+        "no": "3",
+        "name": "Ceper",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Klaten&jobs=Ceper",
+        "kodepos": [
+            "57465"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Klaten&jobs=Ceper",
+            "jumlah": "18"
+        },
+        "pulau": null,
+        "kode": "33.10.11"
+    },
+    {
+        "no": "4",
+        "name": "Delanggu",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Klaten&jobs=Delanggu",
+        "kodepos": [
+            "57471"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Klaten&jobs=Delanggu",
+            "jumlah": "16"
+        },
+        "pulau": null,
+        "kode": "33.10.16"
+    },
+    {
+        "no": "5",
+        "name": "Gantiwarno",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Klaten&jobs=Gantiwarno",
+        "kodepos": [
+            "57455"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Klaten&jobs=Gantiwarno",
+            "jumlah": "16"
+        },
+        "pulau": null,
+        "kode": "33.10.02"
+    },
+    {
+        "no": "6",
+        "name": "Jatinom",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Klaten&jobs=Jatinom",
+        "kodepos": [
+            "57481"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Klaten&jobs=Jatinom",
+            "jumlah": "18"
+        },
+        "pulau": null,
+        "kode": "33.10.20"
+    },
+    {
+        "no": "7",
+        "name": "Jogonalan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Klaten&jobs=Jogonalan",
+        "kodepos": [
+            "57452"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Klaten&jobs=Jogonalan",
+            "jumlah": "18"
+        },
+        "pulau": null,
+        "kode": "33.10.08"
+    },
+    {
+        "no": "8",
+        "name": "Juwiring",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Klaten&jobs=Juwiring",
+        "kodepos": [
+            "57472"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Klaten&jobs=Juwiring",
+            "jumlah": "19"
+        },
+        "pulau": null,
+        "kode": "33.10.14"
+    },
+    {
+        "no": "9",
+        "name": "Kalikotes",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Klaten&jobs=Kalikotes",
+        "kodepos": [
+            "57451"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Klaten&jobs=Kalikotes",
+            "jumlah": "7"
+        },
+        "pulau": null,
+        "kode": "33.10.23"
+    },
+    {
+        "no": "10",
+        "name": "Karanganom",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Klaten&jobs=Karanganom",
+        "kodepos": [
+            "57475"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Klaten&jobs=Karanganom",
+            "jumlah": "19"
+        },
+        "pulau": null,
+        "kode": "33.10.18"
+    },
+    {
+        "no": "11",
+        "name": "Karangdowo",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Klaten&jobs=Karangdowo",
+        "kodepos": [
+            "57464"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Klaten&jobs=Karangdowo",
+            "jumlah": "19"
+        },
+        "pulau": null,
+        "kode": "33.10.13"
+    },
+    {
+        "no": "12",
+        "name": "Karangnongko",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Klaten&jobs=Karangnongko",
+        "kodepos": [
+            "57483"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Klaten&jobs=Karangnongko",
+            "jumlah": "14"
+        },
+        "pulau": null,
+        "kode": "33.10.10"
+    },
+    {
+        "no": "13",
+        "name": "Kebonarum",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Klaten&jobs=Kebonarum",
+        "kodepos": [
+            "57486"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Klaten&jobs=Kebonarum",
+            "jumlah": "7"
+        },
+        "pulau": null,
+        "kode": "33.10.07"
+    },
+    {
+        "no": "14",
+        "name": "Kemalang",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Klaten&jobs=Kemalang",
+        "kodepos": [
+            "57484"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Klaten&jobs=Kemalang",
+            "jumlah": "13"
+        },
+        "pulau": null,
+        "kode": "33.10.21"
+    },
+    {
+        "no": "15",
+        "name": "Klaten Selatan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Klaten&jobs=Klaten%20Selatan",
+        "kodepos": [
+            "57421",
+            "57426"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Klaten&jobs=Klaten%20Selatan",
+            "jumlah": "12"
+        },
+        "pulau": null,
+        "kode": "33.10.26"
+    },
+    {
+        "no": "16",
+        "name": "Klaten Tengah",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Klaten&jobs=Klaten%20Tengah",
+        "kodepos": [
+            "57411",
+            "57419"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Klaten&jobs=Klaten%20Tengah",
+            "jumlah": "9"
+        },
+        "pulau": null,
+        "kode": "33.10.25"
+    },
+    {
+        "no": "17",
+        "name": "Klaten Utara",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Klaten&jobs=Klaten%20Utara",
+        "kodepos": [
+            "57432",
+            "57438"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Klaten&jobs=Klaten%20Utara",
+            "jumlah": "8"
+        },
+        "pulau": null,
+        "kode": "33.10.24"
+    },
+    {
+        "no": "18",
+        "name": "Manisrenggo",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Klaten&jobs=Manisrenggo",
+        "kodepos": [
+            "57485"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Klaten&jobs=Manisrenggo",
+            "jumlah": "16"
+        },
+        "pulau": null,
+        "kode": "33.10.09"
+    },
+    {
+        "no": "19",
+        "name": "Ngawen",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Klaten&jobs=Ngawen",
+        "kodepos": [
+            "57466"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Klaten&jobs=Ngawen",
+            "jumlah": "13"
+        },
+        "pulau": null,
+        "kode": "33.10.22"
+    },
+    {
+        "no": "20",
+        "name": "Pedan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Klaten&jobs=Pedan",
+        "kodepos": [
+            "57468"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Klaten&jobs=Pedan",
+            "jumlah": "14"
+        },
+        "pulau": null,
+        "kode": "33.10.12"
+    },
+    {
+        "no": "21",
+        "name": "Polanharjo",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Klaten&jobs=Polanharjo",
+        "kodepos": [
+            "57474"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Klaten&jobs=Polanharjo",
+            "jumlah": "18"
+        },
+        "pulau": null,
+        "kode": "33.10.17"
+    },
+    {
+        "no": "22",
+        "name": "Prambanan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Klaten&jobs=Prambanan",
+        "kodepos": [
+            "57454"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Klaten&jobs=Prambanan",
+            "jumlah": "16"
+        },
+        "pulau": null,
+        "kode": "33.10.01"
+    },
+    {
+        "no": "23",
+        "name": "Trucuk",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Klaten&jobs=Trucuk",
+        "kodepos": [
+            "57467",
+            "57473"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Klaten&jobs=Trucuk",
+            "jumlah": "18"
+        },
+        "pulau": null,
+        "kode": "33.10.06"
+    },
+    {
+        "no": "24",
+        "name": "Tulung",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Klaten&jobs=Tulung",
+        "kodepos": [
+            "57482"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Klaten&jobs=Tulung",
+            "jumlah": "18"
+        },
+        "pulau": null,
+        "kode": "33.10.19"
+    },
+    {
+        "no": "25",
+        "name": "Wedi",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Klaten&jobs=Wedi",
+        "kodepos": [
+            "57461"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Klaten&jobs=Wedi",
+            "jumlah": "19"
+        },
+        "pulau": null,
+        "kode": "33.10.03"
+    },
+    {
+        "no": "26",
+        "name": "Wonosari",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Klaten&jobs=Wonosari",
+        "kodepos": [
+            "57473"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Klaten&jobs=Wonosari",
+            "jumlah": "18"
+        },
+        "pulau": null,
+        "kode": "33.10.15"
+    }
+]

@@ -1,0 +1,118 @@
+[
+    {
+        "no": "1",
+        "name": "Hamparan Rawang",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Sungai%20Penuh&jobs=Hamparan%20Rawang",
+        "kodepos": [
+            "37151"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Sungai%20Penuh&jobs=Hamparan%20Rawang",
+            "jumlah": "13"
+        },
+        "pulau": null,
+        "kode": "15.72.03"
+    },
+    {
+        "no": "2",
+        "name": "Koto Baru",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Sungai%20Penuh&jobs=Koto%20Baru",
+        "kodepos": [
+            "37152"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Sungai%20Penuh&jobs=Koto%20Baru",
+            "jumlah": "6"
+        },
+        "pulau": null,
+        "kode": "15.72.07"
+    },
+    {
+        "no": "3",
+        "name": "Kumun Debai",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Sungai%20Penuh&jobs=Kumun%20Debai",
+        "kodepos": [
+            "37111"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Sungai%20Penuh&jobs=Kumun%20Debai",
+            "jumlah": "9"
+        },
+        "pulau": null,
+        "kode": "15.72.05"
+    },
+    {
+        "no": "4",
+        "name": "Pesisir Bukit",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Sungai%20Penuh&jobs=Pesisir%20Bukit",
+        "kodepos": [
+            "37111",
+            "37152"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Sungai%20Penuh&jobs=Pesisir%20Bukit",
+            "jumlah": "9"
+        },
+        "pulau": null,
+        "kode": "15.72.02"
+    },
+    {
+        "no": "5",
+        "name": "Pondok Tinggi",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Sungai%20Penuh&jobs=Pondok%20Tinggi",
+        "kodepos": [
+            "37111",
+            "37114"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Sungai%20Penuh&jobs=Pondok%20Tinggi",
+            "jumlah": "8"
+        },
+        "pulau": null,
+        "kode": "15.72.06"
+    },
+    {
+        "no": "6",
+        "name": "Sungai Bungkal",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Sungai%20Penuh&jobs=Sungai%20Bungkal",
+        "kodepos": [
+            "37111",
+            "37112"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Sungai%20Penuh&jobs=Sungai%20Bungkal",
+            "jumlah": "6"
+        },
+        "pulau": null,
+        "kode": "15.72.08"
+    },
+    {
+        "no": "7",
+        "name": "Sungai Penuh",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Sungai%20Penuh&jobs=Sungai%20Penuh",
+        "kodepos": [
+            "37111",
+            "37114"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Sungai%20Penuh&jobs=Sungai%20Penuh",
+            "jumlah": "5"
+        },
+        "pulau": null,
+        "kode": "15.72.01"
+    },
+    {
+        "no": "8",
+        "name": "Tanah Kampung",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Sungai%20Penuh&jobs=Tanah%20Kampung",
+        "kodepos": [
+            "37121"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Sungai%20Penuh&jobs=Tanah%20Kampung",
+            "jumlah": "13"
+        },
+        "pulau": null,
+        "kode": "15.72.04"
+    }
+]

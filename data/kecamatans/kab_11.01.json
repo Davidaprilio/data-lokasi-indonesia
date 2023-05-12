@@ -1,0 +1,264 @@
+[
+    {
+        "no": "1",
+        "name": "Bakongan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Aceh%20Selatan&jobs=Bakongan",
+        "kodepos": [
+            "23773"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Aceh%20Selatan&jobs=Bakongan",
+            "jumlah": "7"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Aceh%20Selatan&jobs=Bakongan",
+            "jumlah": "1"
+        },
+        "kode": "11.01.01"
+    },
+    {
+        "no": "2",
+        "name": "Bakongan Timur",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Aceh%20Selatan&jobs=Bakongan%20Timur",
+        "kodepos": [
+            "23777"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Aceh%20Selatan&jobs=Bakongan%20Timur",
+            "jumlah": "7"
+        },
+        "pulau": null,
+        "kode": "11.01.15"
+    },
+    {
+        "no": "3",
+        "name": "Kluet Selatan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Aceh%20Selatan&jobs=Kluet%20Selatan",
+        "kodepos": [
+            "23772"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Aceh%20Selatan&jobs=Kluet%20Selatan",
+            "jumlah": "17"
+        },
+        "pulau": null,
+        "kode": "11.01.03"
+    },
+    {
+        "no": "4",
+        "name": "Kluet Tengah",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Aceh%20Selatan&jobs=Kluet%20Tengah",
+        "kodepos": [
+            "23770"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Aceh%20Selatan&jobs=Kluet%20Tengah",
+            "jumlah": "13"
+        },
+        "pulau": null,
+        "kode": "11.01.13"
+    },
+    {
+        "no": "5",
+        "name": "Kluet Timur",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Aceh%20Selatan&jobs=Kluet%20Timur",
+        "kodepos": [
+            "23779"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Aceh%20Selatan&jobs=Kluet%20Timur",
+            "jumlah": "9"
+        },
+        "pulau": null,
+        "kode": "11.01.14"
+    },
+    {
+        "no": "6",
+        "name": "Kluet Utara",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Aceh%20Selatan&jobs=Kluet%20Utara",
+        "kodepos": [
+            "23771"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Aceh%20Selatan&jobs=Kluet%20Utara",
+            "jumlah": "21"
+        },
+        "pulau": null,
+        "kode": "11.01.02"
+    },
+    {
+        "no": "7",
+        "name": "Kota Bahagia",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Aceh%20Selatan&jobs=Kota%20Bahagia",
+        "kodepos": [
+            "23778"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Aceh%20Selatan&jobs=Kota%20Bahagia",
+            "jumlah": "10"
+        },
+        "pulau": null,
+        "kode": "11.01.17"
+    },
+    {
+        "no": "8",
+        "name": "Labuhan Haji",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Aceh%20Selatan&jobs=Labuhan%20Haji",
+        "kodepos": [
+            "23761"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Aceh%20Selatan&jobs=Labuhan%20Haji",
+            "jumlah": "16"
+        },
+        "pulau": null,
+        "kode": "11.01.04"
+    },
+    {
+        "no": "9",
+        "name": "Labuhan Haji Barat",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Aceh%20Selatan&jobs=Labuhan%20Haji%20Barat",
+        "kodepos": [
+            "23757"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Aceh%20Selatan&jobs=Labuhan%20Haji%20Barat",
+            "jumlah": "15"
+        },
+        "pulau": null,
+        "kode": "11.01.12"
+    },
+    {
+        "no": "10",
+        "name": "Labuhan Haji Timur",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Aceh%20Selatan&jobs=Labuhan%20Haji%20Timur",
+        "kodepos": [
+            "23758"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Aceh%20Selatan&jobs=Labuhan%20Haji%20Timur",
+            "jumlah": "12"
+        },
+        "pulau": null,
+        "kode": "11.01.11"
+    },
+    {
+        "no": "11",
+        "name": "Meukek",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Aceh%20Selatan&jobs=Meukek",
+        "kodepos": [
+            "23754"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Aceh%20Selatan&jobs=Meukek",
+            "jumlah": "23"
+        },
+        "pulau": null,
+        "kode": "11.01.05"
+    },
+    {
+        "no": "12",
+        "name": "Pasi Raja (Pasie Raja)",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Aceh%20Selatan&jobs=Pasi%20Raja%20(Pasie%20Raja)",
+        "kodepos": [
+            "23755"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Aceh%20Selatan&jobs=Pasi%20Raja%20(Pasie%20Raja)",
+            "jumlah": "21"
+        },
+        "pulau": null,
+        "kode": "11.01.10"
+    },
+    {
+        "no": "13",
+        "name": "Samadua (Sama Dua)",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Aceh%20Selatan&jobs=Samadua%20(Sama%20Dua)",
+        "kodepos": [
+            "23752"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Aceh%20Selatan&jobs=Samadua%20(Sama%20Dua)",
+            "jumlah": "28"
+        },
+        "pulau": null,
+        "kode": "11.01.06"
+    },
+    {
+        "no": "14",
+        "name": "Sawang",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Aceh%20Selatan&jobs=Sawang",
+        "kodepos": [
+            "23753"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Aceh%20Selatan&jobs=Sawang",
+            "jumlah": "15"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Aceh%20Selatan&jobs=Sawang",
+            "jumlah": "1"
+        },
+        "kode": "11.01.07"
+    },
+    {
+        "no": "15",
+        "name": "Tapaktuan (Tapak Tuan)",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Aceh%20Selatan&jobs=Tapaktuan%20(Tapak%20Tuan)",
+        "kodepos": [
+            "23711",
+            "23718"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Aceh%20Selatan&jobs=Tapaktuan%20(Tapak%20Tuan)",
+            "jumlah": "16"
+        },
+        "pulau": null,
+        "kode": "11.01.08"
+    },
+    {
+        "no": "16",
+        "name": "Trumon",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Aceh%20Selatan&jobs=Trumon",
+        "kodepos": [
+            "23774"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Aceh%20Selatan&jobs=Trumon",
+            "jumlah": "12"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Aceh%20Selatan&jobs=Trumon",
+            "jumlah": "1"
+        },
+        "kode": "11.01.09"
+    },
+    {
+        "no": "17",
+        "name": "Trumon Tengah",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Aceh%20Selatan&jobs=Trumon%20Tengah",
+        "kodepos": [
+            "23775"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Aceh%20Selatan&jobs=Trumon%20Tengah",
+            "jumlah": "10"
+        },
+        "pulau": null,
+        "kode": "11.01.18"
+    },
+    {
+        "no": "18",
+        "name": "Trumon Timur",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Aceh%20Selatan&jobs=Trumon%20Timur",
+        "kodepos": [
+            "23776"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Aceh%20Selatan&jobs=Trumon%20Timur",
+            "jumlah": "8"
+        },
+        "pulau": null,
+        "kode": "11.01.16"
+    }
+]

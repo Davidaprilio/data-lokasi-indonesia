@@ -1,0 +1,44 @@
+[
+    {
+        "no": "1",
+        "kodepos": "99960",
+        "name": "Hoya",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Hoya-Kab.-Mimika&jobs=Hoya",
+        "kode": "94.04.14.2001"
+    },
+    {
+        "no": "2",
+        "kodepos": "99960",
+        "name": "Jawa",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Hoya-Kab.-Mimika&jobs=Jawa",
+        "kode": "94.04.14.2006"
+    },
+    {
+        "no": "3",
+        "kodepos": "99960",
+        "name": "Jinonin",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Hoya-Kab.-Mimika&jobs=Jinonin",
+        "kode": "94.04.14.2003"
+    },
+    {
+        "no": "4",
+        "kodepos": "99960",
+        "name": "Kulama Ogom",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Hoya-Kab.-Mimika&jobs=Kulama%20Ogom",
+        "kode": "94.04.14.2004"
+    },
+    {
+        "no": "5",
+        "kodepos": "99960",
+        "name": "Mamontoga",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Hoya-Kab.-Mimika&jobs=Mamontoga",
+        "kode": "94.04.14.2002"
+    },
+    {
+        "no": "6",
+        "kodepos": "99960",
+        "name": "Puti (Puti Semula)",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Hoya-Kab.-Mimika&jobs=Puti%20(Puti%20Semula)",
+        "kode": "94.04.14.2005"
+    }
+]

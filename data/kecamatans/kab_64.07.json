@@ -1,0 +1,231 @@
+[
+    {
+        "no": "1",
+        "name": "Barong Tongkok",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kutai%20Barat&jobs=Barong%20Tongkok",
+        "kodepos": [
+            "75776"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kutai%20Barat&jobs=Barong%20Tongkok",
+            "jumlah": "21"
+        },
+        "pulau": null,
+        "kode": "64.07.07"
+    },
+    {
+        "no": "2",
+        "name": "Bentian Besar",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kutai%20Barat&jobs=Bentian%20Besar",
+        "kodepos": [
+            "75778"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kutai%20Barat&jobs=Bentian%20Besar",
+            "jumlah": "9"
+        },
+        "pulau": null,
+        "kode": "64.07.14"
+    },
+    {
+        "no": "3",
+        "name": "Bongan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kutai%20Barat&jobs=Bongan",
+        "kodepos": [
+            "75772"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kutai%20Barat&jobs=Bongan",
+            "jumlah": "16"
+        },
+        "pulau": null,
+        "kode": "64.07.12"
+    },
+    {
+        "no": "4",
+        "name": "Damai",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kutai%20Barat&jobs=Damai",
+        "kodepos": [
+            "75777"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kutai%20Barat&jobs=Damai",
+            "jumlah": "17"
+        },
+        "pulau": null,
+        "kode": "64.07.08"
+    },
+    {
+        "no": "5",
+        "name": "Jempang",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kutai%20Barat&jobs=Jempang",
+        "kodepos": [
+            "75773"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kutai%20Barat&jobs=Jempang",
+            "jumlah": "12"
+        },
+        "pulau": null,
+        "kode": "64.07.11"
+    },
+    {
+        "no": "6",
+        "name": "Linggang Bigung",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kutai%20Barat&jobs=Linggang%20Bigung",
+        "kodepos": [
+            "75576"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kutai%20Barat&jobs=Linggang%20Bigung",
+            "jumlah": "11"
+        },
+        "pulau": null,
+        "kode": "64.07.15"
+    },
+    {
+        "no": "7",
+        "name": "Long Iram",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kutai%20Barat&jobs=Long%20Iram",
+        "kodepos": [
+            "75766"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kutai%20Barat&jobs=Long%20Iram",
+            "jumlah": "11"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kutai%20Barat&jobs=Long%20Iram",
+            "jumlah": "1"
+        },
+        "kode": "64.07.05"
+    },
+    {
+        "no": "8",
+        "name": "Melak",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kutai%20Barat&jobs=Melak",
+        "kodepos": [
+            "75765"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kutai%20Barat&jobs=Melak",
+            "jumlah": "6"
+        },
+        "pulau": null,
+        "kode": "64.07.06"
+    },
+    {
+        "no": "9",
+        "name": "Mook Manaar Bulatn",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kutai%20Barat&jobs=Mook%20Manaar%20Bulatn",
+        "kodepos": [
+            "75765",
+            "75774"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kutai%20Barat&jobs=Mook%20Manaar%20Bulatn",
+            "jumlah": "16"
+        },
+        "pulau": null,
+        "kode": "64.07.18"
+    },
+    {
+        "no": "10",
+        "name": "Muara Lawa",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kutai%20Barat&jobs=Muara%20Lawa",
+        "kodepos": [
+            "75775"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kutai%20Barat&jobs=Muara%20Lawa",
+            "jumlah": "8"
+        },
+        "pulau": null,
+        "kode": "64.07.09"
+    },
+    {
+        "no": "11",
+        "name": "Muara Pahu",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kutai%20Barat&jobs=Muara%20Pahu",
+        "kodepos": [
+            "75774"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kutai%20Barat&jobs=Muara%20Pahu",
+            "jumlah": "12"
+        },
+        "pulau": null,
+        "kode": "64.07.10"
+    },
+    {
+        "no": "12",
+        "name": "Nyuatan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kutai%20Barat&jobs=Nyuatan",
+        "kodepos": [
+            "75776",
+            "75777"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kutai%20Barat&jobs=Nyuatan",
+            "jumlah": "10"
+        },
+        "pulau": null,
+        "kode": "64.07.16"
+    },
+    {
+        "no": "13",
+        "name": "Penyinggahan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kutai%20Barat&jobs=Penyinggahan",
+        "kodepos": [
+            "75763"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kutai%20Barat&jobs=Penyinggahan",
+            "jumlah": "6"
+        },
+        "pulau": null,
+        "kode": "64.07.13"
+    },
+    {
+        "no": "14",
+        "name": "Sekolaq Darat",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kutai%20Barat&jobs=Sekolaq%20Darat",
+        "kodepos": [
+            "75764"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kutai%20Barat&jobs=Sekolaq%20Darat",
+            "jumlah": "8"
+        },
+        "pulau": null,
+        "kode": "64.07.20"
+    },
+    {
+        "no": "15",
+        "name": "Siluq Ngurai",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kutai%20Barat&jobs=Siluq%20Ngurai",
+        "kodepos": [
+            "75771"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kutai%20Barat&jobs=Siluq%20Ngurai",
+            "jumlah": "16"
+        },
+        "pulau": null,
+        "kode": "64.07.17"
+    },
+    {
+        "no": "16",
+        "name": "Tering",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kutai%20Barat&jobs=Tering",
+        "kodepos": [
+            "75760"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kutai%20Barat&jobs=Tering",
+            "jumlah": "15"
+        },
+        "pulau": null,
+        "kode": "64.07.19"
+    }
+]

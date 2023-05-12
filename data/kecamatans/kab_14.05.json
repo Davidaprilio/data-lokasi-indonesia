@@ -1,0 +1,182 @@
+[
+    {
+        "no": "1",
+        "name": "Bandar Petalangan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pelalawan&jobs=Bandar%20Petalangan",
+        "kodepos": [
+            "28384"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pelalawan&jobs=Bandar%20Petalangan",
+            "jumlah": "11"
+        },
+        "pulau": null,
+        "kode": "14.05.12"
+    },
+    {
+        "no": "2",
+        "name": "Bandar Sei Kijang",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pelalawan&jobs=Bandar%20Sei%20Kijang",
+        "kodepos": [
+            "28383"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pelalawan&jobs=Bandar%20Sei%20Kijang",
+            "jumlah": "5"
+        },
+        "pulau": null,
+        "kode": "14.05.11"
+    },
+    {
+        "no": "3",
+        "name": "Bunut",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pelalawan&jobs=Bunut",
+        "kodepos": [
+            "28386"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pelalawan&jobs=Bunut",
+            "jumlah": "10"
+        },
+        "pulau": null,
+        "kode": "14.05.08"
+    },
+    {
+        "no": "4",
+        "name": "Kerumutan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pelalawan&jobs=Kerumutan",
+        "kodepos": [
+            "28352"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pelalawan&jobs=Kerumutan",
+            "jumlah": "10"
+        },
+        "pulau": null,
+        "kode": "14.05.07"
+    },
+    {
+        "no": "5",
+        "name": "Kuala Kampar",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pelalawan&jobs=Kuala%20Kampar",
+        "kodepos": [
+            "28385"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pelalawan&jobs=Kuala%20Kampar",
+            "jumlah": "10"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pelalawan&jobs=Kuala%20Kampar",
+            "jumlah": "9"
+        },
+        "kode": "14.05.10"
+    },
+    {
+        "no": "6",
+        "name": "Langgam",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pelalawan&jobs=Langgam",
+        "kodepos": [
+            "28380"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pelalawan&jobs=Langgam",
+            "jumlah": "8"
+        },
+        "pulau": null,
+        "kode": "14.05.05"
+    },
+    {
+        "no": "7",
+        "name": "Pangkalan Kerinci",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pelalawan&jobs=Pangkalan%20Kerinci",
+        "kodepos": [
+            "28381"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pelalawan&jobs=Pangkalan%20Kerinci",
+            "jumlah": "7"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pelalawan&jobs=Pangkalan%20Kerinci",
+            "jumlah": "2"
+        },
+        "kode": "14.05.02"
+    },
+    {
+        "no": "8",
+        "name": "Pangkalan Kuras",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pelalawan&jobs=Pangkalan%20Kuras",
+        "kodepos": [
+            "28382"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pelalawan&jobs=Pangkalan%20Kuras",
+            "jumlah": "17"
+        },
+        "pulau": null,
+        "kode": "14.05.03"
+    },
+    {
+        "no": "9",
+        "name": "Pangkalan Lesung",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pelalawan&jobs=Pangkalan%20Lesung",
+        "kodepos": [
+            "28387"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pelalawan&jobs=Pangkalan%20Lesung",
+            "jumlah": "10"
+        },
+        "pulau": null,
+        "kode": "14.05.04"
+    },
+    {
+        "no": "10",
+        "name": "Pelalawan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pelalawan&jobs=Pelalawan",
+        "kodepos": [
+            "28353"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pelalawan&jobs=Pelalawan",
+            "jumlah": "9"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pelalawan&jobs=Pelalawan",
+            "jumlah": "9"
+        },
+        "kode": "14.05.06"
+    },
+    {
+        "no": "11",
+        "name": "Teluk Meranti",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pelalawan&jobs=Teluk%20Meranti",
+        "kodepos": [
+            "28354"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pelalawan&jobs=Teluk%20Meranti",
+            "jumlah": "9"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pelalawan&jobs=Teluk%20Meranti",
+            "jumlah": "8"
+        },
+        "kode": "14.05.09"
+    },
+    {
+        "no": "12",
+        "name": "Ukui",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pelalawan&jobs=Ukui",
+        "kodepos": [
+            "28388"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pelalawan&jobs=Ukui",
+            "jumlah": "12"
+        },
+        "pulau": null,
+        "kode": "14.05.01"
+    }
+]

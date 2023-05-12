@@ -1,0 +1,47 @@
+[
+    {
+        "no": "1",
+        "name": "Kranggan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Mojokerto&jobs=Kranggan",
+        "kodepos": [
+            "61311",
+            "61322"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Mojokerto&jobs=Kranggan",
+            "jumlah": "6"
+        },
+        "pulau": null,
+        "kode": "35.76.03"
+    },
+    {
+        "no": "2",
+        "name": "Magersari",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Mojokerto&jobs=Magersari",
+        "kodepos": [
+            "61314",
+            "61319"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Mojokerto&jobs=Magersari",
+            "jumlah": "6"
+        },
+        "pulau": null,
+        "kode": "35.76.02"
+    },
+    {
+        "no": "3",
+        "name": "Prajuritkulon (Prajurit Kulon)",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Mojokerto&jobs=Prajuritkulon%20(Prajurit%20Kulon)",
+        "kodepos": [
+            "61323",
+            "61328"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Mojokerto&jobs=Prajuritkulon%20(Prajurit%20Kulon)",
+            "jumlah": "6"
+        },
+        "pulau": null,
+        "kode": "35.76.01"
+    }
+]

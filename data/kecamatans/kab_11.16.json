@@ -1,0 +1,179 @@
+[
+    {
+        "no": "1",
+        "name": "Banda Mulia",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Aceh%20Tamiang&jobs=Banda%20Mulia",
+        "kodepos": [
+            "24472"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Aceh%20Tamiang&jobs=Banda%20Mulia",
+            "jumlah": "10"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Aceh%20Tamiang&jobs=Banda%20Mulia",
+            "jumlah": "1"
+        },
+        "kode": "11.16.09"
+    },
+    {
+        "no": "2",
+        "name": "Bandar Pusaka",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Aceh%20Tamiang&jobs=Bandar%20Pusaka",
+        "kodepos": [
+            "24478"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Aceh%20Tamiang&jobs=Bandar%20Pusaka",
+            "jumlah": "15"
+        },
+        "pulau": null,
+        "kode": "11.16.10"
+    },
+    {
+        "no": "3",
+        "name": "Bendahara",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Aceh%20Tamiang&jobs=Bendahara",
+        "kodepos": [
+            "24470"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Aceh%20Tamiang&jobs=Bendahara",
+            "jumlah": "33"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Aceh%20Tamiang&jobs=Bendahara",
+            "jumlah": "4"
+        },
+        "kode": "11.16.02"
+    },
+    {
+        "no": "4",
+        "name": "Karang Baru",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Aceh%20Tamiang&jobs=Karang%20Baru",
+        "kodepos": [
+            "24476"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Aceh%20Tamiang&jobs=Karang%20Baru",
+            "jumlah": "31"
+        },
+        "pulau": null,
+        "kode": "11.16.03"
+    },
+    {
+        "no": "5",
+        "name": "Kejuruan Muda",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Aceh%20Tamiang&jobs=Kejuruan%20Muda",
+        "kodepos": [
+            "24477"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Aceh%20Tamiang&jobs=Kejuruan%20Muda",
+            "jumlah": "15"
+        },
+        "pulau": null,
+        "kode": "11.16.06"
+    },
+    {
+        "no": "6",
+        "name": "Kota Kualasinpang (Kota Kuala Simpang)",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Aceh%20Tamiang&jobs=Kota%20Kualasinpang%20(Kota%20Kuala%20Simpang)",
+        "kodepos": [
+            "24475"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Aceh%20Tamiang&jobs=Kota%20Kualasinpang%20(Kota%20Kuala%20Simpang)",
+            "jumlah": "5"
+        },
+        "pulau": null,
+        "kode": "11.16.05"
+    },
+    {
+        "no": "7",
+        "name": "Manyak Payed",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Aceh%20Tamiang&jobs=Manyak%20Payed",
+        "kodepos": [
+            "24471"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Aceh%20Tamiang&jobs=Manyak%20Payed",
+            "jumlah": "36"
+        },
+        "pulau": null,
+        "kode": "11.16.01"
+    },
+    {
+        "no": "8",
+        "name": "Rantau",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Aceh%20Tamiang&jobs=Rantau",
+        "kodepos": [
+            "24474"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Aceh%20Tamiang&jobs=Rantau",
+            "jumlah": "16"
+        },
+        "pulau": null,
+        "kode": "11.16.08"
+    },
+    {
+        "no": "9",
+        "name": "Sekerak",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Aceh%20Tamiang&jobs=Sekerak",
+        "kodepos": [
+            "24476"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Aceh%20Tamiang&jobs=Sekerak",
+            "jumlah": "14"
+        },
+        "pulau": null,
+        "kode": "11.16.12"
+    },
+    {
+        "no": "10",
+        "name": "Seruway",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Aceh%20Tamiang&jobs=Seruway",
+        "kodepos": [
+            "24473"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Aceh%20Tamiang&jobs=Seruway",
+            "jumlah": "24"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Aceh%20Tamiang&jobs=Seruway",
+            "jumlah": "3"
+        },
+        "kode": "11.16.04"
+    },
+    {
+        "no": "11",
+        "name": "Tamiang Hulu",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Aceh%20Tamiang&jobs=Tamiang%20Hulu",
+        "kodepos": [
+            "24479"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Aceh%20Tamiang&jobs=Tamiang%20Hulu",
+            "jumlah": "9"
+        },
+        "pulau": null,
+        "kode": "11.16.07"
+    },
+    {
+        "no": "12",
+        "name": "Tenggulun",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Aceh%20Tamiang&jobs=Tenggulun",
+        "kodepos": [
+            "24477"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Aceh%20Tamiang&jobs=Tenggulun",
+            "jumlah": "5"
+        },
+        "pulau": null,
+        "kode": "11.16.11"
+    }
+]

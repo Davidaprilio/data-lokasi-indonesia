@@ -1,0 +1,44 @@
+[
+    {
+        "no": "1",
+        "kodepos": "27321",
+        "name": "Kampung Jawa",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Tanjung%20Harapan-Kota-Solok&jobs=Kampung%20Jawa",
+        "kode": "13.72.02.1005"
+    },
+    {
+        "no": "2",
+        "kodepos": "27323",
+        "name": "Koto Panjang",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Tanjung%20Harapan-Kota-Solok&jobs=Koto%20Panjang",
+        "kode": "13.72.02.1001"
+    },
+    {
+        "no": "3",
+        "kodepos": "27325",
+        "name": "Laing",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Tanjung%20Harapan-Kota-Solok&jobs=Laing",
+        "kode": "13.72.02.1006"
+    },
+    {
+        "no": "4",
+        "kodepos": "27326",
+        "name": "Nan Balimo",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Tanjung%20Harapan-Kota-Solok&jobs=Nan%20Balimo",
+        "kode": "13.72.02.1004"
+    },
+    {
+        "no": "5",
+        "kodepos": "27322",
+        "name": "Pasar Pandan Air Mati",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Tanjung%20Harapan-Kota-Solok&jobs=Pasar%20Pandan%20Air%20Mati",
+        "kode": "13.72.02.1002"
+    },
+    {
+        "no": "6",
+        "kodepos": "27324",
+        "name": "Tanjung Paku",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Tanjung%20Harapan-Kota-Solok&jobs=Tanjung%20Paku",
+        "kode": "13.72.02.1003"
+    }
+]

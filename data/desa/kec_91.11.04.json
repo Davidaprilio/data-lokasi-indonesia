@@ -1,0 +1,44 @@
+[
+    {
+        "no": "1",
+        "kodepos": "99462",
+        "name": "Dubu",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Web-Kab.-Keerom&jobs=Dubu",
+        "kode": "91.11.04.2001"
+    },
+    {
+        "no": "2",
+        "kodepos": "99462",
+        "name": "Embi",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Web-Kab.-Keerom&jobs=Embi",
+        "kode": "91.11.04.2005"
+    },
+    {
+        "no": "3",
+        "kodepos": "99462",
+        "name": "Semografi",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Web-Kab.-Keerom&jobs=Semografi",
+        "kode": "91.11.04.2003"
+    },
+    {
+        "no": "4",
+        "kodepos": "99462",
+        "name": "Tatakra",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Web-Kab.-Keerom&jobs=Tatakra",
+        "kode": "91.11.04.2017"
+    },
+    {
+        "no": "5",
+        "kodepos": "99462",
+        "name": "Umuraf (Umuaf)",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Web-Kab.-Keerom&jobs=Umuraf%20(Umuaf)",
+        "kode": "91.11.04.2002"
+    },
+    {
+        "no": "6",
+        "kodepos": "99462",
+        "name": "Yamraf Dua",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Web-Kab.-Keerom&jobs=Yamraf%20Dua",
+        "kode": "91.11.04.2015"
+    }
+]

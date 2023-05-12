@@ -1,0 +1,37 @@
+[
+    {
+        "no": "1",
+        "kodepos": "75251",
+        "name": "Jawa",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Sanga-Sanga-Kab.-Kutai%20Kartanegara&jobs=Jawa",
+        "kode": "64.02.15.1001"
+    },
+    {
+        "no": "2",
+        "kodepos": "75256",
+        "name": "Pendingin",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Sanga-Sanga-Kab.-Kutai%20Kartanegara&jobs=Pendingin",
+        "kode": "64.02.15.1002"
+    },
+    {
+        "no": "3",
+        "kodepos": "75254",
+        "name": "Sanga-Sanga Dalam",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Sanga-Sanga-Kab.-Kutai%20Kartanegara&jobs=Sanga-Sanga%20Dalam",
+        "kode": "64.02.15.1003"
+    },
+    {
+        "no": "4",
+        "kodepos": "75251",
+        "name": "Sanga-Sanga Muara",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Sanga-Sanga-Kab.-Kutai%20Kartanegara&jobs=Sanga-Sanga%20Muara",
+        "kode": "64.02.15.1005"
+    },
+    {
+        "no": "5",
+        "kodepos": "75251",
+        "name": "Sari Jaya (Sarijaya)",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Sanga-Sanga-Kab.-Kutai%20Kartanegara&jobs=Sari%20Jaya%20(Sarijaya)",
+        "kode": "64.02.15.1004"
+    }
+]

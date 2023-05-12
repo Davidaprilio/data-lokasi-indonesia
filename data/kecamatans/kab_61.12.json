@@ -1,0 +1,148 @@
+[
+    {
+        "no": "1",
+        "name": "Batu Ampar",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kubu%20Raya&jobs=Batu%20Ampar",
+        "kodepos": [
+            "78385"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kubu%20Raya&jobs=Batu%20Ampar",
+            "jumlah": "15"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kubu%20Raya&jobs=Batu%20Ampar",
+            "jumlah": "10"
+        },
+        "kode": "61.12.05"
+    },
+    {
+        "no": "2",
+        "name": "Kuala Mandor B",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kubu%20Raya&jobs=Kuala%20Mandor%20B",
+        "kodepos": [
+            "78355"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kubu%20Raya&jobs=Kuala%20Mandor%20B",
+            "jumlah": "5"
+        },
+        "pulau": null,
+        "kode": "61.12.02"
+    },
+    {
+        "no": "3",
+        "name": "Kubu",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kubu%20Raya&jobs=Kubu",
+        "kodepos": [
+            "78384"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kubu%20Raya&jobs=Kubu",
+            "jumlah": "20"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kubu%20Raya&jobs=Kubu",
+            "jumlah": "7"
+        },
+        "kode": "61.12.06"
+    },
+    {
+        "no": "4",
+        "name": "Rasau Jaya",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kubu%20Raya&jobs=Rasau%20Jaya",
+        "kodepos": [
+            "78381",
+            "78382"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kubu%20Raya&jobs=Rasau%20Jaya",
+            "jumlah": "6"
+        },
+        "pulau": null,
+        "kode": "61.12.07"
+    },
+    {
+        "no": "5",
+        "name": "Sungai Ambawang",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kubu%20Raya&jobs=Sungai%20Ambawang",
+        "kodepos": [
+            "78393"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kubu%20Raya&jobs=Sungai%20Ambawang",
+            "jumlah": "14"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kubu%20Raya&jobs=Sungai%20Ambawang",
+            "jumlah": "1"
+        },
+        "kode": "61.12.03"
+    },
+    {
+        "no": "6",
+        "name": "Sungai Kakap",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kubu%20Raya&jobs=Sungai%20Kakap",
+        "kodepos": [
+            "78380"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kubu%20Raya&jobs=Sungai%20Kakap",
+            "jumlah": "13"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kubu%20Raya&jobs=Sungai%20Kakap",
+            "jumlah": "8"
+        },
+        "kode": "61.12.09"
+    },
+    {
+        "no": "7",
+        "name": "Sungai Raya",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kubu%20Raya&jobs=Sungai%20Raya",
+        "kodepos": [
+            "78234",
+            "78391"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kubu%20Raya&jobs=Sungai%20Raya",
+            "jumlah": "20"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kubu%20Raya&jobs=Sungai%20Raya",
+            "jumlah": "9"
+        },
+        "kode": "61.12.01"
+    },
+    {
+        "no": "8",
+        "name": "Teluk Pakedai",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kubu%20Raya&jobs=Teluk%20Pakedai",
+        "kodepos": [
+            "78383"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kubu%20Raya&jobs=Teluk%20Pakedai",
+            "jumlah": "14"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kubu%20Raya&jobs=Teluk%20Pakedai",
+            "jumlah": "1"
+        },
+        "kode": "61.12.08"
+    },
+    {
+        "no": "9",
+        "name": "Terentang",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kubu%20Raya&jobs=Terentang",
+        "kodepos": [
+            "78392"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kubu%20Raya&jobs=Terentang",
+            "jumlah": "10"
+        },
+        "pulau": null,
+        "kode": "61.12.04"
+    }
+]

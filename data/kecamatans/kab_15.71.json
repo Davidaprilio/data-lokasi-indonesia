@@ -1,0 +1,167 @@
+[
+    {
+        "no": "1",
+        "name": "Alam Barajo",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Jambi&jobs=Alam%20Barajo",
+        "kodepos": [
+            "36125",
+            "36129"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Jambi&jobs=Alam%20Barajo",
+            "jumlah": "5"
+        },
+        "pulau": null,
+        "kode": "15.71.09"
+    },
+    {
+        "no": "2",
+        "name": "Danau Sipin",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Jambi&jobs=Danau%20Sipin",
+        "kodepos": [
+            "36121",
+            "36129"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Jambi&jobs=Danau%20Sipin",
+            "jumlah": "5"
+        },
+        "pulau": null,
+        "kode": "15.71.10"
+    },
+    {
+        "no": "3",
+        "name": "Danau Teluk",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Jambi&jobs=Danau%20Teluk",
+        "kodepos": [
+            "36261",
+            "36265"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Jambi&jobs=Danau%20Teluk",
+            "jumlah": "5"
+        },
+        "pulau": null,
+        "kode": "15.71.06"
+    },
+    {
+        "no": "4",
+        "name": "Jambi Selatan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Jambi&jobs=Jambi%20Selatan",
+        "kodepos": [
+            "36131",
+            "36139"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Jambi&jobs=Jambi%20Selatan",
+            "jumlah": "5"
+        },
+        "pulau": null,
+        "kode": "15.71.02"
+    },
+    {
+        "no": "5",
+        "name": "Jambi Timur",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Jambi&jobs=Jambi%20Timur",
+        "kodepos": [
+            "36141",
+            "36149"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Jambi&jobs=Jambi%20Timur",
+            "jumlah": "9"
+        },
+        "pulau": null,
+        "kode": "15.71.03"
+    },
+    {
+        "no": "6",
+        "name": "Jelutung",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Jambi&jobs=Jelutung",
+        "kodepos": [
+            "36133",
+            "36137"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Jambi&jobs=Jelutung",
+            "jumlah": "7"
+        },
+        "pulau": null,
+        "kode": "15.71.08"
+    },
+    {
+        "no": "7",
+        "name": "Kota Baru",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Jambi&jobs=Kota%20Baru",
+        "kodepos": [
+            "36126",
+            "36128"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Jambi&jobs=Kota%20Baru",
+            "jumlah": "5"
+        },
+        "pulau": null,
+        "kode": "15.71.07"
+    },
+    {
+        "no": "8",
+        "name": "Paal Merah",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Jambi&jobs=Paal%20Merah",
+        "kodepos": [
+            "36139",
+            "36148"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Jambi&jobs=Paal%20Merah",
+            "jumlah": "5"
+        },
+        "pulau": null,
+        "kode": "15.71.11"
+    },
+    {
+        "no": "9",
+        "name": "Pasar Jambi",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Jambi&jobs=Pasar%20Jambi",
+        "kodepos": [
+            "36111",
+            "36134"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Jambi&jobs=Pasar%20Jambi",
+            "jumlah": "4"
+        },
+        "pulau": null,
+        "kode": "15.71.04"
+    },
+    {
+        "no": "10",
+        "name": "Pelayangan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Jambi&jobs=Pelayangan",
+        "kodepos": [
+            "36251",
+            "36256"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Jambi&jobs=Pelayangan",
+            "jumlah": "6"
+        },
+        "pulau": null,
+        "kode": "15.71.05"
+    },
+    {
+        "no": "11",
+        "name": "Telanaipura",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Jambi&jobs=Telanaipura",
+        "kodepos": [
+            "36122",
+            "36129"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Jambi&jobs=Telanaipura",
+            "jumlah": "6"
+        },
+        "pulau": null,
+        "kode": "15.71.01"
+    }
+]

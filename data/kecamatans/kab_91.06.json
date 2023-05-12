@@ -1,0 +1,305 @@
+[
+    {
+        "no": "1",
+        "name": "Aimando Padaido",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Biak%20Numfor&jobs=Aimando%20Padaido",
+        "kodepos": [
+            "98555"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Biak%20Numfor&jobs=Aimando%20Padaido",
+            "jumlah": "13"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Biak%20Numfor&jobs=Aimando%20Padaido",
+            "jumlah": "14"
+        },
+        "kode": "91.06.19"
+    },
+    {
+        "no": "2",
+        "name": "Andey",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Biak%20Numfor&jobs=Andey",
+        "kodepos": [
+            "98543"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Biak%20Numfor&jobs=Andey",
+            "jumlah": "11"
+        },
+        "pulau": null,
+        "kode": "91.06.14"
+    },
+    {
+        "no": "3",
+        "name": "Biak Barat",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Biak%20Numfor&jobs=Biak%20Barat",
+        "kodepos": [
+            "98545"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Biak%20Numfor&jobs=Biak%20Barat",
+            "jumlah": "22"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Biak%20Numfor&jobs=Biak%20Barat",
+            "jumlah": "10"
+        },
+        "kode": "91.06.08"
+    },
+    {
+        "no": "4",
+        "name": "Biak Kota",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Biak%20Numfor&jobs=Biak%20Kota",
+        "kodepos": [
+            "98511",
+            "98534"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Biak%20Numfor&jobs=Biak%20Kota",
+            "jumlah": "22"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Biak%20Numfor&jobs=Biak%20Kota",
+            "jumlah": "2"
+        },
+        "kode": "91.06.01"
+    },
+    {
+        "no": "5",
+        "name": "Biak Timur",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Biak%20Numfor&jobs=Biak%20Timur",
+        "kodepos": [
+            "98541"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Biak%20Numfor&jobs=Biak%20Timur",
+            "jumlah": "26"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Biak%20Numfor&jobs=Biak%20Timur",
+            "jumlah": "3"
+        },
+        "kode": "91.06.03"
+    },
+    {
+        "no": "6",
+        "name": "Biak Utara",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Biak%20Numfor&jobs=Biak%20Utara",
+        "kodepos": [
+            "98544"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Biak%20Numfor&jobs=Biak%20Utara",
+            "jumlah": "16"
+        },
+        "pulau": null,
+        "kode": "91.06.02"
+    },
+    {
+        "no": "7",
+        "name": "Bondifuar",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Biak%20Numfor&jobs=Bondifuar",
+        "kodepos": [
+            "98554"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Biak%20Numfor&jobs=Bondifuar",
+            "jumlah": "5"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Biak%20Numfor&jobs=Bondifuar",
+            "jumlah": "2"
+        },
+        "kode": "91.06.21"
+    },
+    {
+        "no": "8",
+        "name": "Bruyadori",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Biak%20Numfor&jobs=Bruyadori",
+        "kodepos": [
+            "98561"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Biak%20Numfor&jobs=Bruyadori",
+            "jumlah": "10"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Biak%20Numfor&jobs=Bruyadori",
+            "jumlah": "22"
+        },
+        "kode": "91.06.16"
+    },
+    {
+        "no": "9",
+        "name": "Numfor Barat",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Biak%20Numfor&jobs=Numfor%20Barat",
+        "kodepos": [
+            "98564"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Biak%20Numfor&jobs=Numfor%20Barat",
+            "jumlah": "12"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Biak%20Numfor&jobs=Numfor%20Barat",
+            "jumlah": "7"
+        },
+        "kode": "91.06.04"
+    },
+    {
+        "no": "10",
+        "name": "Numfor Timur",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Biak%20Numfor&jobs=Numfor%20Timur",
+        "kodepos": [
+            "98562"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Biak%20Numfor&jobs=Numfor%20Timur",
+            "jumlah": "9"
+        },
+        "pulau": null,
+        "kode": "91.06.05"
+    },
+    {
+        "no": "11",
+        "name": "Oridek",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Biak%20Numfor&jobs=Oridek",
+        "kodepos": [
+            "98542"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Biak%20Numfor&jobs=Oridek",
+            "jumlah": "14"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Biak%20Numfor&jobs=Oridek",
+            "jumlah": "7"
+        },
+        "kode": "91.06.20"
+    },
+    {
+        "no": "12",
+        "name": "Orkeri",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Biak%20Numfor&jobs=Orkeri",
+        "kodepos": [
+            "98565"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Biak%20Numfor&jobs=Orkeri",
+            "jumlah": "9"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Biak%20Numfor&jobs=Orkeri",
+            "jumlah": "2"
+        },
+        "kode": "91.06.17"
+    },
+    {
+        "no": "13",
+        "name": "Padaido",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Biak%20Numfor&jobs=Padaido",
+        "kodepos": [
+            "98556"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Biak%20Numfor&jobs=Padaido",
+            "jumlah": "11"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Biak%20Numfor&jobs=Padaido",
+            "jumlah": "31"
+        },
+        "kode": "91.06.10"
+    },
+    {
+        "no": "14",
+        "name": "Poiru",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Biak%20Numfor&jobs=Poiru",
+        "kodepos": [
+            "98563"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Biak%20Numfor&jobs=Poiru",
+            "jumlah": "9"
+        },
+        "pulau": null,
+        "kode": "91.06.18"
+    },
+    {
+        "no": "15",
+        "name": "Samofa",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Biak%20Numfor&jobs=Samofa",
+        "kodepos": [
+            "98551"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Biak%20Numfor&jobs=Samofa",
+            "jumlah": "17"
+        },
+        "pulau": null,
+        "kode": "91.06.12"
+    },
+    {
+        "no": "16",
+        "name": "Swandiwe",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Biak%20Numfor&jobs=Swandiwe",
+        "kodepos": [
+            "98546"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Biak%20Numfor&jobs=Swandiwe",
+            "jumlah": "15"
+        },
+        "pulau": null,
+        "kode": "91.06.15"
+    },
+    {
+        "no": "17",
+        "name": "Warsa",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Biak%20Numfor&jobs=Warsa",
+        "kodepos": [
+            "98553"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Biak%20Numfor&jobs=Warsa",
+            "jumlah": "20"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Biak%20Numfor&jobs=Warsa",
+            "jumlah": "1"
+        },
+        "kode": "91.06.09"
+    },
+    {
+        "no": "18",
+        "name": "Yawosi",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Biak%20Numfor&jobs=Yawosi",
+        "kodepos": [
+            "98552"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Biak%20Numfor&jobs=Yawosi",
+            "jumlah": "8"
+        },
+        "pulau": null,
+        "kode": "91.06.13"
+    },
+    {
+        "no": "19",
+        "name": "Yendidori",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Biak%20Numfor&jobs=Yendidori",
+        "kodepos": [
+            "98547"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Biak%20Numfor&jobs=Yendidori",
+            "jumlah": "19"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Biak%20Numfor&jobs=Yendidori",
+            "jumlah": "4"
+        },
+        "kode": "91.06.11"
+    }
+]

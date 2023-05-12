@@ -1,0 +1,117 @@
+[
+    {
+        "no": "1",
+        "name": "Benuki",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Mamberamo%20Raya&jobs=Benuki",
+        "kodepos": [
+            "98683"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Mamberamo%20Raya&jobs=Benuki",
+            "jumlah": "8"
+        },
+        "pulau": null,
+        "kode": "91.20.07"
+    },
+    {
+        "no": "2",
+        "name": "Mamberamo Hilir",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Mamberamo%20Raya&jobs=Mamberamo%20Hilir",
+        "kodepos": [
+            "98691"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Mamberamo%20Raya&jobs=Mamberamo%20Hilir",
+            "jumlah": "7"
+        },
+        "pulau": null,
+        "kode": "91.20.05"
+    },
+    {
+        "no": "3",
+        "name": "Mamberamo Hulu",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Mamberamo%20Raya&jobs=Mamberamo%20Hulu",
+        "kodepos": [
+            "98694"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Mamberamo%20Raya&jobs=Mamberamo%20Hulu",
+            "jumlah": "8"
+        },
+        "pulau": null,
+        "kode": "91.20.02"
+    },
+    {
+        "no": "4",
+        "name": "Mamberamo Tengah",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Mamberamo%20Raya&jobs=Mamberamo%20Tengah",
+        "kodepos": [
+            "98692"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Mamberamo%20Raya&jobs=Mamberamo%20Tengah",
+            "jumlah": "11"
+        },
+        "pulau": null,
+        "kode": "91.20.01"
+    },
+    {
+        "no": "5",
+        "name": "Mamberamo Tengah Timur",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Mamberamo%20Raya&jobs=Mamberamo%20Tengah%20Timur",
+        "kodepos": [
+            "98693"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Mamberamo%20Raya&jobs=Mamberamo%20Tengah%20Timur",
+            "jumlah": "7"
+        },
+        "pulau": null,
+        "kode": "91.20.04"
+    },
+    {
+        "no": "6",
+        "name": "Rufaer",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Mamberamo%20Raya&jobs=Rufaer",
+        "kodepos": [
+            "98695"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Mamberamo%20Raya&jobs=Rufaer",
+            "jumlah": "6"
+        },
+        "pulau": null,
+        "kode": "91.20.03"
+    },
+    {
+        "no": "7",
+        "name": "Sawai",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Mamberamo%20Raya&jobs=Sawai",
+        "kodepos": [
+            "98682"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Mamberamo%20Raya&jobs=Sawai",
+            "jumlah": "6"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Mamberamo%20Raya&jobs=Sawai",
+            "jumlah": "2"
+        },
+        "kode": "91.20.08"
+    },
+    {
+        "no": "8",
+        "name": "Waropen Atas",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Mamberamo%20Raya&jobs=Waropen%20Atas",
+        "kodepos": [
+            "98681"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Mamberamo%20Raya&jobs=Waropen%20Atas",
+            "jumlah": "7"
+        },
+        "pulau": null,
+        "kode": "91.20.06"
+    }
+]

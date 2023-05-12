@@ -1,0 +1,44 @@
+[
+    {
+        "no": "1",
+        "kodepos": "16421",
+        "name": "Beji",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Beji-Kota-Depok&jobs=Beji",
+        "kode": "32.76.06.1001"
+    },
+    {
+        "no": "2",
+        "kodepos": "16422",
+        "name": "Beji Timur",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Beji-Kota-Depok&jobs=Beji%20Timur",
+        "kode": "32.76.06.1006"
+    },
+    {
+        "no": "3",
+        "kodepos": "16423",
+        "name": "Kemiri Muka",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Beji-Kota-Depok&jobs=Kemiri%20Muka",
+        "kode": "32.76.06.1004"
+    },
+    {
+        "no": "4",
+        "kodepos": "16425",
+        "name": "Kukusan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Beji-Kota-Depok&jobs=Kukusan",
+        "kode": "32.76.06.1002"
+    },
+    {
+        "no": "5",
+        "kodepos": "16424",
+        "name": "Pondok Cina",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Beji-Kota-Depok&jobs=Pondok%20Cina",
+        "kode": "32.76.06.1005"
+    },
+    {
+        "no": "6",
+        "kodepos": "16426",
+        "name": "Tanah Baru",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Beji-Kota-Depok&jobs=Tanah%20Baru",
+        "kode": "32.76.06.1003"
+    }
+]

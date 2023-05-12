@@ -1,0 +1,37 @@
+[
+    {
+        "no": "1",
+        "kodepos": "31121",
+        "name": "Anak Petai",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Prabumulih%20Utara-Kota-Prabumulih&jobs=Anak%20Petai",
+        "kode": "16.74.05.1005"
+    },
+    {
+        "no": "2",
+        "kodepos": "31125",
+        "name": "Mangga Besar",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Prabumulih%20Utara-Kota-Prabumulih&jobs=Mangga%20Besar",
+        "kode": "16.74.05.1004"
+    },
+    {
+        "no": "3",
+        "kodepos": "31121",
+        "name": "Pasar Prabumulih I (Pasar Prabumulih)",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Prabumulih%20Utara-Kota-Prabumulih&jobs=Pasar%20Prabumulih%20I%20(Pasar%20Prabumulih)",
+        "kode": "16.74.05.1001"
+    },
+    {
+        "no": "4",
+        "kodepos": "31121",
+        "name": "Pasar Prabumulih II",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Prabumulih%20Utara-Kota-Prabumulih&jobs=Pasar%20Prabumulih%20II",
+        "kode": "16.74.05.1002"
+    },
+    {
+        "no": "5",
+        "kodepos": "31126",
+        "name": "Wonosari",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Prabumulih%20Utara-Kota-Prabumulih&jobs=Wonosari",
+        "kode": "16.74.05.1003"
+    }
+]

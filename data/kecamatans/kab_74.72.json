@@ -1,0 +1,124 @@
+[
+    {
+        "no": "1",
+        "name": "Batupoaro",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Bau%20Bau&jobs=Batupoaro",
+        "kodepos": [
+            "93728"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Bau%20Bau&jobs=Batupoaro",
+            "jumlah": "6"
+        },
+        "pulau": null,
+        "kode": "74.72.08"
+    },
+    {
+        "no": "2",
+        "name": "Betoambari",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Bau%20Bau&jobs=Betoambari",
+        "kodepos": [
+            "93721",
+            "93725"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Bau%20Bau&jobs=Betoambari",
+            "jumlah": "5"
+        },
+        "pulau": null,
+        "kode": "74.72.01"
+    },
+    {
+        "no": "3",
+        "name": "Bungi",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Bau%20Bau&jobs=Bungi",
+        "kodepos": [
+            "93732"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Bau%20Bau&jobs=Bungi",
+            "jumlah": "5"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kota-Bau%20Bau&jobs=Bungi",
+            "jumlah": "2"
+        },
+        "kode": "74.72.04"
+    },
+    {
+        "no": "4",
+        "name": "Kokalukuna",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Bau%20Bau&jobs=Kokalukuna",
+        "kodepos": [
+            "93711",
+            "93719"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Bau%20Bau&jobs=Kokalukuna",
+            "jumlah": "6"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kota-Bau%20Bau&jobs=Kokalukuna",
+            "jumlah": "1"
+        },
+        "kode": "74.72.05"
+    },
+    {
+        "no": "5",
+        "name": "Lea-Lea",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Bau%20Bau&jobs=Lea-Lea",
+        "kodepos": [
+            "93733"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Bau%20Bau&jobs=Lea-Lea",
+            "jumlah": "5"
+        },
+        "pulau": null,
+        "kode": "74.72.07"
+    },
+    {
+        "no": "6",
+        "name": "Murhum",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Bau%20Bau&jobs=Murhum",
+        "kodepos": [
+            "93721",
+            "93727"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Bau%20Bau&jobs=Murhum",
+            "jumlah": "5"
+        },
+        "pulau": null,
+        "kode": "74.72.06"
+    },
+    {
+        "no": "7",
+        "name": "Sorawolio (Sora Walio / Sorowalio)",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Bau%20Bau&jobs=Sorawolio%20(Sora%20Walio%20/%20Sorowalio)",
+        "kodepos": [
+            "93731"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Bau%20Bau&jobs=Sorawolio%20(Sora%20Walio%20/%20Sorowalio)",
+            "jumlah": "4"
+        },
+        "pulau": null,
+        "kode": "74.72.03"
+    },
+    {
+        "no": "8",
+        "name": "Wolio",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Bau%20Bau&jobs=Wolio",
+        "kodepos": [
+            "93711",
+            "93717"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Bau%20Bau&jobs=Wolio",
+            "jumlah": "7"
+        },
+        "pulau": null,
+        "kode": "74.72.02"
+    }
+]

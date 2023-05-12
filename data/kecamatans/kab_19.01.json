@@ -1,0 +1,131 @@
+[
+    {
+        "no": "1",
+        "name": "Bakam",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Bangka&jobs=Bakam",
+        "kodepos": [
+            "33252"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Bangka&jobs=Bakam",
+            "jumlah": "9"
+        },
+        "pulau": null,
+        "kode": "19.01.06"
+    },
+    {
+        "no": "2",
+        "name": "Belinyu",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Bangka&jobs=Belinyu",
+        "kodepos": [
+            "33253"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Bangka&jobs=Belinyu",
+            "jumlah": "12"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Bangka&jobs=Belinyu",
+            "jumlah": "20"
+        },
+        "kode": "19.01.02"
+    },
+    {
+        "no": "3",
+        "name": "Mendo Barat",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Bangka&jobs=Mendo%20Barat",
+        "kodepos": [
+            "33173"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Bangka&jobs=Mendo%20Barat",
+            "jumlah": "15"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Bangka&jobs=Mendo%20Barat",
+            "jumlah": "5"
+        },
+        "kode": "19.01.04"
+    },
+    {
+        "no": "4",
+        "name": "Merawang",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Bangka&jobs=Merawang",
+        "kodepos": [
+            "33172"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Bangka&jobs=Merawang",
+            "jumlah": "10"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Bangka&jobs=Merawang",
+            "jumlah": "1"
+        },
+        "kode": "19.01.03"
+    },
+    {
+        "no": "5",
+        "name": "Pemali",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Bangka&jobs=Pemali",
+        "kodepos": [
+            "33251",
+            "33255"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Bangka&jobs=Pemali",
+            "jumlah": "6"
+        },
+        "pulau": null,
+        "kode": "19.01.05"
+    },
+    {
+        "no": "6",
+        "name": "Puding Besar",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Bangka&jobs=Puding%20Besar",
+        "kodepos": [
+            "33179"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Bangka&jobs=Puding%20Besar",
+            "jumlah": "7"
+        },
+        "pulau": null,
+        "kode": "19.01.08"
+    },
+    {
+        "no": "7",
+        "name": "Riau Silip",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Bangka&jobs=Riau%20Silip",
+        "kodepos": [
+            "33254"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Bangka&jobs=Riau%20Silip",
+            "jumlah": "9"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Bangka&jobs=Riau%20Silip",
+            "jumlah": "12"
+        },
+        "kode": "19.01.07"
+    },
+    {
+        "no": "8",
+        "name": "Sungailiat (Sungai Liat)",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Bangka&jobs=Sungailiat%20(Sungai%20Liat)",
+        "kodepos": [
+            "33211",
+            "33215"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Bangka&jobs=Sungailiat%20(Sungai%20Liat)",
+            "jumlah": "13"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Bangka&jobs=Sungailiat%20(Sungai%20Liat)",
+            "jumlah": "5"
+        },
+        "kode": "19.01.01"
+    }
+]

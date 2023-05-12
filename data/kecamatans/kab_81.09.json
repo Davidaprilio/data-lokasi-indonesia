@@ -1,0 +1,101 @@
+[
+    {
+        "no": "1",
+        "name": "Ambalau",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Buru%20Selatan&jobs=Ambalau",
+        "kodepos": [
+            "97546"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Buru%20Selatan&jobs=Ambalau",
+            "jumlah": "7"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Buru%20Selatan&jobs=Ambalau",
+            "jumlah": "1"
+        },
+        "kode": "81.09.03"
+    },
+    {
+        "no": "2",
+        "name": "Fena Fafan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Buru%20Selatan&jobs=Fena%20Fafan",
+        "kodepos": [
+            "97542"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Buru%20Selatan&jobs=Fena%20Fafan",
+            "jumlah": "10"
+        },
+        "pulau": null,
+        "kode": "81.09.06"
+    },
+    {
+        "no": "3",
+        "name": "Kepala Madan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Buru%20Selatan&jobs=Kepala%20Madan",
+        "kodepos": [
+            "97541"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Buru%20Selatan&jobs=Kepala%20Madan",
+            "jumlah": "15"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Buru%20Selatan&jobs=Kepala%20Madan",
+            "jumlah": "3"
+        },
+        "kode": "81.09.04"
+    },
+    {
+        "no": "4",
+        "name": "Leksula",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Buru%20Selatan&jobs=Leksula",
+        "kodepos": [
+            "97543"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Buru%20Selatan&jobs=Leksula",
+            "jumlah": "19"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Buru%20Selatan&jobs=Leksula",
+            "jumlah": "8"
+        },
+        "kode": "81.09.05"
+    },
+    {
+        "no": "5",
+        "name": "Namrole",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Buru%20Selatan&jobs=Namrole",
+        "kodepos": [
+            "97544"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Buru%20Selatan&jobs=Namrole",
+            "jumlah": "17"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Buru%20Selatan&jobs=Namrole",
+            "jumlah": "4"
+        },
+        "kode": "81.09.01"
+    },
+    {
+        "no": "6",
+        "name": "Waesama",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Buru%20Selatan&jobs=Waesama",
+        "kodepos": [
+            "97545"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Buru%20Selatan&jobs=Waesama",
+            "jumlah": "11"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Buru%20Selatan&jobs=Waesama",
+            "jumlah": "3"
+        },
+        "kode": "81.09.02"
+    }
+]

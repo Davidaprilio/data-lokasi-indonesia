@@ -1,0 +1,548 @@
+[
+    {
+        "no": "1",
+        "name": "Awina",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Lanny%20Jaya&jobs=Awina",
+        "kodepos": [
+            "99572"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Lanny%20Jaya&jobs=Awina",
+            "jumlah": "9"
+        },
+        "pulau": null,
+        "kode": "95.07.21"
+    },
+    {
+        "no": "2",
+        "name": "Ayumnati",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Lanny%20Jaya&jobs=Ayumnati",
+        "kodepos": [
+            "99573"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Lanny%20Jaya&jobs=Ayumnati",
+            "jumlah": "9"
+        },
+        "pulau": null,
+        "kode": "95.07.22"
+    },
+    {
+        "no": "3",
+        "name": "Balingga",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Lanny%20Jaya&jobs=Balingga",
+        "kodepos": [
+            "99583"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Lanny%20Jaya&jobs=Balingga",
+            "jumlah": "10"
+        },
+        "pulau": null,
+        "kode": "95.07.07"
+    },
+    {
+        "no": "4",
+        "name": "Balingga Barat",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Lanny%20Jaya&jobs=Balingga%20Barat",
+        "kodepos": [
+            "99584"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Lanny%20Jaya&jobs=Balingga%20Barat",
+            "jumlah": "8"
+        },
+        "pulau": null,
+        "kode": "95.07.26"
+    },
+    {
+        "no": "5",
+        "name": "Bruwa",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Lanny%20Jaya&jobs=Bruwa",
+        "kodepos": [
+            "99585"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Lanny%20Jaya&jobs=Bruwa",
+            "jumlah": "9"
+        },
+        "pulau": null,
+        "kode": "95.07.25"
+    },
+    {
+        "no": "6",
+        "name": "Buguk Gona",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Lanny%20Jaya&jobs=Buguk%20Gona",
+        "kodepos": [
+            "99574"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Lanny%20Jaya&jobs=Buguk%20Gona",
+            "jumlah": "13"
+        },
+        "pulau": null,
+        "kode": "95.07.38"
+    },
+    {
+        "no": "7",
+        "name": "Dimba",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Lanny%20Jaya&jobs=Dimba",
+        "kodepos": [
+            "99575"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Lanny%20Jaya&jobs=Dimba",
+            "jumlah": "8"
+        },
+        "pulau": null,
+        "kode": "95.07.05"
+    },
+    {
+        "no": "8",
+        "name": "Gamelia",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Lanny%20Jaya&jobs=Gamelia",
+        "kodepos": [
+            "99566"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Lanny%20Jaya&jobs=Gamelia",
+            "jumlah": "8"
+        },
+        "pulau": null,
+        "kode": "95.07.04"
+    },
+    {
+        "no": "9",
+        "name": "Gelok Beam",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Lanny%20Jaya&jobs=Gelok%20Beam",
+        "kodepos": [
+            "99561"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Lanny%20Jaya&jobs=Gelok%20Beam",
+            "jumlah": "9"
+        },
+        "pulau": null,
+        "kode": "95.07.29"
+    },
+    {
+        "no": "10",
+        "name": "Goa Balim",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Lanny%20Jaya&jobs=Goa%20Balim",
+        "kodepos": [
+            "99586"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Lanny%20Jaya&jobs=Goa%20Balim",
+            "jumlah": "7"
+        },
+        "pulau": null,
+        "kode": "95.07.24"
+    },
+    {
+        "no": "11",
+        "name": "Gollo",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Lanny%20Jaya&jobs=Gollo",
+        "kodepos": [
+            "99576"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Lanny%20Jaya&jobs=Gollo",
+            "jumlah": "11"
+        },
+        "pulau": null,
+        "kode": "95.07.20"
+    },
+    {
+        "no": "12",
+        "name": "Guna",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Lanny%20Jaya&jobs=Guna",
+        "kodepos": [
+            "99567"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Lanny%20Jaya&jobs=Guna",
+            "jumlah": "7"
+        },
+        "pulau": null,
+        "kode": "95.07.34"
+    },
+    {
+        "no": "13",
+        "name": "Gupura",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Lanny%20Jaya&jobs=Gupura",
+        "kodepos": [
+            "99562"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Lanny%20Jaya&jobs=Gupura",
+            "jumlah": "12"
+        },
+        "pulau": null,
+        "kode": "95.07.27"
+    },
+    {
+        "no": "14",
+        "name": "Karu",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Lanny%20Jaya&jobs=Karu",
+        "kodepos": [
+            "99568"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Lanny%20Jaya&jobs=Karu",
+            "jumlah": "8"
+        },
+        "pulau": null,
+        "kode": "95.07.32"
+    },
+    {
+        "no": "15",
+        "name": "Kelulome",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Lanny%20Jaya&jobs=Kelulome",
+        "kodepos": [
+            "99577"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Lanny%20Jaya&jobs=Kelulome",
+            "jumlah": "10"
+        },
+        "pulau": null,
+        "kode": "95.07.35"
+    },
+    {
+        "no": "16",
+        "name": "Kolawa",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Lanny%20Jaya&jobs=Kolawa",
+        "kodepos": [
+            "99563"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Lanny%20Jaya&jobs=Kolawa",
+            "jumlah": "10"
+        },
+        "pulau": null,
+        "kode": "95.07.28"
+    },
+    {
+        "no": "17",
+        "name": "Kuly Lanny",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Lanny%20Jaya&jobs=Kuly%20Lanny",
+        "kodepos": [
+            "99564"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Lanny%20Jaya&jobs=Kuly%20Lanny",
+            "jumlah": "8"
+        },
+        "pulau": null,
+        "kode": "95.07.30"
+    },
+    {
+        "no": "18",
+        "name": "Kuyawage",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Lanny%20Jaya&jobs=Kuyawage",
+        "kodepos": [
+            "99587"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Lanny%20Jaya&jobs=Kuyawage",
+            "jumlah": "8"
+        },
+        "pulau": null,
+        "kode": "95.07.09"
+    },
+    {
+        "no": "19",
+        "name": "Lannyna",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Lanny%20Jaya&jobs=Lannyna",
+        "kodepos": [
+            "99578"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Lanny%20Jaya&jobs=Lannyna",
+            "jumlah": "11"
+        },
+        "pulau": null,
+        "kode": "95.07.31"
+    },
+    {
+        "no": "20",
+        "name": "Makki",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Lanny%20Jaya&jobs=Makki",
+        "kodepos": [
+            "99565"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Lanny%20Jaya&jobs=Makki",
+            "jumlah": "8"
+        },
+        "pulau": null,
+        "kode": "95.07.03"
+    },
+    {
+        "no": "21",
+        "name": "Melagi",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Lanny%20Jaya&jobs=Melagi",
+        "kodepos": [
+            "99588"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Lanny%20Jaya&jobs=Melagi",
+            "jumlah": "8"
+        },
+        "pulau": null,
+        "kode": "95.07.39"
+    },
+    {
+        "no": "22",
+        "name": "Melagineri",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Lanny%20Jaya&jobs=Melagineri",
+        "kodepos": [
+            "99589"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Lanny%20Jaya&jobs=Melagineri",
+            "jumlah": "8"
+        },
+        "pulau": null,
+        "kode": "95.07.06"
+    },
+    {
+        "no": "23",
+        "name": "Milimbo",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Lanny%20Jaya&jobs=Milimbo",
+        "kodepos": [
+            "99579"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Lanny%20Jaya&jobs=Milimbo",
+            "jumlah": "8"
+        },
+        "pulau": null,
+        "kode": "95.07.18"
+    },
+    {
+        "no": "24",
+        "name": "Mokoni",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Lanny%20Jaya&jobs=Mokoni",
+        "kodepos": [
+            "99590"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Lanny%20Jaya&jobs=Mokoni",
+            "jumlah": "9"
+        },
+        "pulau": null,
+        "kode": "95.07.16"
+    },
+    {
+        "no": "25",
+        "name": "Muara",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Lanny%20Jaya&jobs=Muara",
+        "kodepos": [
+            "99569"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Lanny%20Jaya&jobs=Muara",
+            "jumlah": "10"
+        },
+        "pulau": null,
+        "kode": "95.07.37"
+    },
+    {
+        "no": "26",
+        "name": "Nikogwe",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Lanny%20Jaya&jobs=Nikogwe",
+        "kodepos": [
+            "99580"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Lanny%20Jaya&jobs=Nikogwe",
+            "jumlah": "9"
+        },
+        "pulau": null,
+        "kode": "95.07.36"
+    },
+    {
+        "no": "27",
+        "name": "Niname",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Lanny%20Jaya&jobs=Niname",
+        "kodepos": [
+            "99591"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Lanny%20Jaya&jobs=Niname",
+            "jumlah": "7"
+        },
+        "pulau": null,
+        "kode": "95.07.11"
+    },
+    {
+        "no": "28",
+        "name": "Nogi",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Lanny%20Jaya&jobs=Nogi",
+        "kodepos": [
+            "99592"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Lanny%20Jaya&jobs=Nogi",
+            "jumlah": "8"
+        },
+        "pulau": null,
+        "kode": "95.07.12"
+    },
+    {
+        "no": "29",
+        "name": "Pirime",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Lanny%20Jaya&jobs=Pirime",
+        "kodepos": [
+            "99581"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Lanny%20Jaya&jobs=Pirime",
+            "jumlah": "8"
+        },
+        "pulau": null,
+        "kode": "95.07.02"
+    },
+    {
+        "no": "30",
+        "name": "Poga",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Lanny%20Jaya&jobs=Poga",
+        "kodepos": [
+            "99570"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Lanny%20Jaya&jobs=Poga",
+            "jumlah": "13"
+        },
+        "pulau": null,
+        "kode": "95.07.10"
+    },
+    {
+        "no": "31",
+        "name": "Tiom",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Lanny%20Jaya&jobs=Tiom",
+        "kodepos": [
+            "99593"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Lanny%20Jaya&jobs=Tiom",
+            "jumlah": "11"
+        },
+        "pulau": null,
+        "kode": "95.07.01"
+    },
+    {
+        "no": "32",
+        "name": "Tiom Ollo",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Lanny%20Jaya&jobs=Tiom%20Ollo",
+        "kodepos": [
+            "99594"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Lanny%20Jaya&jobs=Tiom%20Ollo",
+            "jumlah": "10"
+        },
+        "pulau": null,
+        "kode": "95.07.14"
+    },
+    {
+        "no": "33",
+        "name": "Tiomneri",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Lanny%20Jaya&jobs=Tiomneri",
+        "kodepos": [
+            "99595"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Lanny%20Jaya&jobs=Tiomneri",
+            "jumlah": "9"
+        },
+        "pulau": null,
+        "kode": "95.07.08"
+    },
+    {
+        "no": "34",
+        "name": "Wano Barat",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Lanny%20Jaya&jobs=Wano%20Barat",
+        "kodepos": [
+            "99596"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Lanny%20Jaya&jobs=Wano%20Barat",
+            "jumlah": "11"
+        },
+        "pulau": null,
+        "kode": "95.07.23"
+    },
+    {
+        "no": "35",
+        "name": "Wereka",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Lanny%20Jaya&jobs=Wereka",
+        "kodepos": [
+            "99597"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Lanny%20Jaya&jobs=Wereka",
+            "jumlah": "9"
+        },
+        "pulau": null,
+        "kode": "95.07.17"
+    },
+    {
+        "no": "36",
+        "name": "Wiringgambut",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Lanny%20Jaya&jobs=Wiringgambut",
+        "kodepos": [
+            "99582"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Lanny%20Jaya&jobs=Wiringgambut",
+            "jumlah": "10"
+        },
+        "pulau": null,
+        "kode": "95.07.19"
+    },
+    {
+        "no": "37",
+        "name": "Yiginua",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Lanny%20Jaya&jobs=Yiginua",
+        "kodepos": [
+            "99598"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Lanny%20Jaya&jobs=Yiginua",
+            "jumlah": "7"
+        },
+        "pulau": null,
+        "kode": "95.07.13"
+    },
+    {
+        "no": "38",
+        "name": "Yiluk",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Lanny%20Jaya&jobs=Yiluk",
+        "kodepos": [
+            "99571"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Lanny%20Jaya&jobs=Yiluk",
+            "jumlah": "8"
+        },
+        "pulau": null,
+        "kode": "95.07.33"
+    },
+    {
+        "no": "39",
+        "name": "Yugungwi",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Lanny%20Jaya&jobs=Yugungwi",
+        "kodepos": [
+            "99599"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Lanny%20Jaya&jobs=Yugungwi",
+            "jumlah": "9"
+        },
+        "pulau": null,
+        "kode": "95.07.15"
+    }
+]

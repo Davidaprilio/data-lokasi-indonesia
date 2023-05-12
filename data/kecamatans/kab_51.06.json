@@ -1,0 +1,59 @@
+[
+    {
+        "no": "1",
+        "name": "Bangli",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Bangli&jobs=Bangli",
+        "kodepos": [
+            "80611",
+            "80614"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Bangli&jobs=Bangli",
+            "jumlah": "9"
+        },
+        "pulau": null,
+        "kode": "51.06.02"
+    },
+    {
+        "no": "2",
+        "name": "Kintamani",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Bangli&jobs=Kintamani",
+        "kodepos": [
+            "80652"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Bangli&jobs=Kintamani",
+            "jumlah": "48"
+        },
+        "pulau": null,
+        "kode": "51.06.04"
+    },
+    {
+        "no": "3",
+        "name": "Susut",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Bangli&jobs=Susut",
+        "kodepos": [
+            "80661"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Bangli&jobs=Susut",
+            "jumlah": "9"
+        },
+        "pulau": null,
+        "kode": "51.06.01"
+    },
+    {
+        "no": "4",
+        "name": "Tembuku",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Bangli&jobs=Tembuku",
+        "kodepos": [
+            "80671"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Bangli&jobs=Tembuku",
+            "jumlah": "6"
+        },
+        "pulau": null,
+        "kode": "51.06.03"
+    }
+]

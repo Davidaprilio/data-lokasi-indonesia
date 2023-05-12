@@ -1,0 +1,37 @@
+[
+    {
+        "no": "1",
+        "kodepos": "22511",
+        "name": "Angin Nauli",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Sibolga%20Utara-Kota-Sibolga&jobs=Angin%20Nauli",
+        "kode": "12.73.01.1002"
+    },
+    {
+        "no": "2",
+        "kodepos": "22514",
+        "name": "Huta Barangan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Sibolga%20Utara-Kota-Sibolga&jobs=Huta%20Barangan",
+        "kode": "12.73.01.1001"
+    },
+    {
+        "no": "3",
+        "kodepos": "22512",
+        "name": "Huta Tonga Tonga",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Sibolga%20Utara-Kota-Sibolga&jobs=Huta%20Tonga%20Tonga",
+        "kode": "12.73.01.1003"
+    },
+    {
+        "no": "4",
+        "kodepos": "22513",
+        "name": "Sibolga Ilir",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Sibolga%20Utara-Kota-Sibolga&jobs=Sibolga%20Ilir",
+        "kode": "12.73.01.1004"
+    },
+    {
+        "no": "5",
+        "kodepos": "22513",
+        "name": "Simare-Mare (Simaremare)",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Sibolga%20Utara-Kota-Sibolga&jobs=Simare-Mare%20(Simaremare)",
+        "kode": "12.73.01.1005"
+    }
+]

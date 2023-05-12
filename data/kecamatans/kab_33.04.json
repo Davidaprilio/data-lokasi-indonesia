@@ -1,0 +1,283 @@
+[
+    {
+        "no": "1",
+        "name": "Banjarmangu",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Banjarnegara&jobs=Banjarmangu",
+        "kodepos": [
+            "53452"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Banjarnegara&jobs=Banjarmangu",
+            "jumlah": "17"
+        },
+        "pulau": null,
+        "kode": "33.04.09"
+    },
+    {
+        "no": "2",
+        "name": "Banjarnegara",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Banjarnegara&jobs=Banjarnegara",
+        "kodepos": [
+            "53411",
+            "53418"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Banjarnegara&jobs=Banjarnegara",
+            "jumlah": "13"
+        },
+        "pulau": null,
+        "kode": "33.04.06"
+    },
+    {
+        "no": "3",
+        "name": "Batur",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Banjarnegara&jobs=Batur",
+        "kodepos": [
+            "53456"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Banjarnegara&jobs=Batur",
+            "jumlah": "8"
+        },
+        "pulau": null,
+        "kode": "33.04.16"
+    },
+    {
+        "no": "4",
+        "name": "Bawang",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Banjarnegara&jobs=Bawang",
+        "kodepos": [
+            "53471"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Banjarnegara&jobs=Bawang",
+            "jumlah": "18"
+        },
+        "pulau": null,
+        "kode": "33.04.05"
+    },
+    {
+        "no": "5",
+        "name": "Kalibening",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Banjarnegara&jobs=Kalibening",
+        "kodepos": [
+            "53458"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Banjarnegara&jobs=Kalibening",
+            "jumlah": "16"
+        },
+        "pulau": null,
+        "kode": "33.04.18"
+    },
+    {
+        "no": "6",
+        "name": "Karangkobar",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Banjarnegara&jobs=Karangkobar",
+        "kodepos": [
+            "53453"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Banjarnegara&jobs=Karangkobar",
+            "jumlah": "13"
+        },
+        "pulau": null,
+        "kode": "33.04.13"
+    },
+    {
+        "no": "7",
+        "name": "Madukara",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Banjarnegara&jobs=Madukara",
+        "kodepos": [
+            "53482"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Banjarnegara&jobs=Madukara",
+            "jumlah": "20"
+        },
+        "pulau": null,
+        "kode": "33.04.08"
+    },
+    {
+        "no": "8",
+        "name": "Mandiraja",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Banjarnegara&jobs=Mandiraja",
+        "kodepos": [
+            "53473"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Banjarnegara&jobs=Mandiraja",
+            "jumlah": "16"
+        },
+        "pulau": null,
+        "kode": "33.04.03"
+    },
+    {
+        "no": "9",
+        "name": "Pagedongan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Banjarnegara&jobs=Pagedongan",
+        "kodepos": [
+            "53418"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Banjarnegara&jobs=Pagedongan",
+            "jumlah": "9"
+        },
+        "pulau": null,
+        "kode": "33.04.20"
+    },
+    {
+        "no": "10",
+        "name": "Pagentan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Banjarnegara&jobs=Pagentan",
+        "kodepos": [
+            "53455"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Banjarnegara&jobs=Pagentan",
+            "jumlah": "16"
+        },
+        "pulau": null,
+        "kode": "33.04.14"
+    },
+    {
+        "no": "11",
+        "name": "Pandanarum",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Banjarnegara&jobs=Pandanarum",
+        "kodepos": [
+            "53459"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Banjarnegara&jobs=Pandanarum",
+            "jumlah": "8"
+        },
+        "pulau": null,
+        "kode": "33.04.19"
+    },
+    {
+        "no": "12",
+        "name": "Pejawaran",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Banjarnegara&jobs=Pejawaran",
+        "kodepos": [
+            "53454"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Banjarnegara&jobs=Pejawaran",
+            "jumlah": "17"
+        },
+        "pulau": null,
+        "kode": "33.04.15"
+    },
+    {
+        "no": "13",
+        "name": "Punggelan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Banjarnegara&jobs=Punggelan",
+        "kodepos": [
+            "53462"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Banjarnegara&jobs=Punggelan",
+            "jumlah": "17"
+        },
+        "pulau": null,
+        "kode": "33.04.12"
+    },
+    {
+        "no": "14",
+        "name": "Purwanegara (Purwonegoro)",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Banjarnegara&jobs=Purwanegara%20(Purwonegoro)",
+        "kodepos": [
+            "53472"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Banjarnegara&jobs=Purwanegara%20(Purwonegoro)",
+            "jumlah": "13"
+        },
+        "pulau": null,
+        "kode": "33.04.04"
+    },
+    {
+        "no": "15",
+        "name": "Purworeja Klampok (Purworejo Klampok)",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Banjarnegara&jobs=Purworeja%20Klampok%20(Purworejo%20Klampok)",
+        "kodepos": [
+            "53474"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Banjarnegara&jobs=Purworeja%20Klampok%20(Purworejo%20Klampok)",
+            "jumlah": "8"
+        },
+        "pulau": null,
+        "kode": "33.04.02"
+    },
+    {
+        "no": "16",
+        "name": "Rakit",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Banjarnegara&jobs=Rakit",
+        "kodepos": [
+            "53463"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Banjarnegara&jobs=Rakit",
+            "jumlah": "11"
+        },
+        "pulau": null,
+        "kode": "33.04.11"
+    },
+    {
+        "no": "17",
+        "name": "Sigaluh",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Banjarnegara&jobs=Sigaluh",
+        "kodepos": [
+            "53481"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Banjarnegara&jobs=Sigaluh",
+            "jumlah": "15"
+        },
+        "pulau": null,
+        "kode": "33.04.07"
+    },
+    {
+        "no": "18",
+        "name": "Susukan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Banjarnegara&jobs=Susukan",
+        "kodepos": [
+            "53475"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Banjarnegara&jobs=Susukan",
+            "jumlah": "15"
+        },
+        "pulau": null,
+        "kode": "33.04.01"
+    },
+    {
+        "no": "19",
+        "name": "Wanadadi (Wonodadi)",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Banjarnegara&jobs=Wanadadi%20(Wonodadi)",
+        "kodepos": [
+            "53461"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Banjarnegara&jobs=Wanadadi%20(Wonodadi)",
+            "jumlah": "11"
+        },
+        "pulau": null,
+        "kode": "33.04.10"
+    },
+    {
+        "no": "20",
+        "name": "Wanayasa",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Banjarnegara&jobs=Wanayasa",
+        "kodepos": [
+            "53457"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Banjarnegara&jobs=Wanayasa",
+            "jumlah": "17"
+        },
+        "pulau": null,
+        "kode": "33.04.17"
+    }
+]

@@ -1,0 +1,78 @@
+[
+    {
+        "no": "1",
+        "name": "Langsa Barat",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Langsa&jobs=Langsa%20Barat",
+        "kodepos": [
+            "24410",
+            "24414"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Langsa&jobs=Langsa%20Barat",
+            "jumlah": "13"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kota-Langsa&jobs=Langsa%20Barat",
+            "jumlah": "1"
+        },
+        "kode": "11.74.02"
+    },
+    {
+        "no": "2",
+        "name": "Langsa Baro",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Langsa&jobs=Langsa%20Baro",
+        "kodepos": [
+            "24415"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Langsa&jobs=Langsa%20Baro",
+            "jumlah": "12"
+        },
+        "pulau": null,
+        "kode": "11.74.05"
+    },
+    {
+        "no": "3",
+        "name": "Langsa Kota",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Langsa&jobs=Langsa%20Kota",
+        "kodepos": [
+            "24410",
+            "24414"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Langsa&jobs=Langsa%20Kota",
+            "jumlah": "10"
+        },
+        "pulau": null,
+        "kode": "11.74.03"
+    },
+    {
+        "no": "4",
+        "name": "Langsa Lama",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Langsa&jobs=Langsa%20Lama",
+        "kodepos": [
+            "24411",
+            "24416"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Langsa&jobs=Langsa%20Lama",
+            "jumlah": "15"
+        },
+        "pulau": null,
+        "kode": "11.74.04"
+    },
+    {
+        "no": "5",
+        "name": "Langsa Timur",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Langsa&jobs=Langsa%20Timur",
+        "kodepos": [
+            "24411"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Langsa&jobs=Langsa%20Timur",
+            "jumlah": "16"
+        },
+        "pulau": null,
+        "kode": "11.74.01"
+    }
+]

@@ -1,0 +1,366 @@
+[
+    {
+        "no": "1",
+        "name": "Dagai",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Puncak%20Jaya&jobs=Dagai",
+        "kodepos": [
+            "98941"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Puncak%20Jaya&jobs=Dagai",
+            "jumlah": "10"
+        },
+        "pulau": null,
+        "kode": "94.02.33"
+    },
+    {
+        "no": "2",
+        "name": "Dokome",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Puncak%20Jaya&jobs=Dokome",
+        "kodepos": [
+            "98924"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Puncak%20Jaya&jobs=Dokome",
+            "jumlah": "9"
+        },
+        "pulau": null,
+        "kode": "94.02.25"
+    },
+    {
+        "no": "3",
+        "name": "Fawi",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Puncak%20Jaya&jobs=Fawi",
+        "kodepos": [
+            "98942"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Puncak%20Jaya&jobs=Fawi",
+            "jumlah": "9"
+        },
+        "pulau": null,
+        "kode": "94.02.06"
+    },
+    {
+        "no": "4",
+        "name": "Gubume",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Puncak%20Jaya&jobs=Gubume",
+        "kodepos": [
+            "98931"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Puncak%20Jaya&jobs=Gubume",
+            "jumlah": "17"
+        },
+        "pulau": null,
+        "kode": "94.02.31"
+    },
+    {
+        "no": "5",
+        "name": "Gurage",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Puncak%20Jaya&jobs=Gurage",
+        "kodepos": [
+            "98911"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Puncak%20Jaya&jobs=Gurage",
+            "jumlah": "11"
+        },
+        "pulau": null,
+        "kode": "94.02.18"
+    },
+    {
+        "no": "6",
+        "name": "Ilamburawi",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Puncak%20Jaya&jobs=Ilamburawi",
+        "kodepos": [
+            "98912"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Puncak%20Jaya&jobs=Ilamburawi",
+            "jumlah": "5"
+        },
+        "pulau": null,
+        "kode": "94.02.21"
+    },
+    {
+        "no": "7",
+        "name": "Ilu",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Puncak%20Jaya&jobs=Ilu",
+        "kodepos": [
+            "98935"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Puncak%20Jaya&jobs=Ilu",
+            "jumlah": "21"
+        },
+        "pulau": null,
+        "kode": "94.02.03"
+    },
+    {
+        "no": "8",
+        "name": "Irimuli",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Puncak%20Jaya&jobs=Irimuli",
+        "kodepos": [
+            "98913"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Puncak%20Jaya&jobs=Irimuli",
+            "jumlah": "9"
+        },
+        "pulau": null,
+        "kode": "94.02.19"
+    },
+    {
+        "no": "9",
+        "name": "Kalome",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Puncak%20Jaya&jobs=Kalome",
+        "kodepos": [
+            "98921"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Puncak%20Jaya&jobs=Kalome",
+            "jumlah": "16"
+        },
+        "pulau": null,
+        "kode": "94.02.26"
+    },
+    {
+        "no": "10",
+        "name": "Kiyage",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Puncak%20Jaya&jobs=Kiyage",
+        "kodepos": [
+            "98943"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Puncak%20Jaya&jobs=Kiyage",
+            "jumlah": "8"
+        },
+        "pulau": null,
+        "kode": "94.02.34"
+    },
+    {
+        "no": "11",
+        "name": "Lumo",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Puncak%20Jaya&jobs=Lumo",
+        "kodepos": [
+            "98944"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Puncak%20Jaya&jobs=Lumo",
+            "jumlah": "9"
+        },
+        "pulau": null,
+        "kode": "94.02.23"
+    },
+    {
+        "no": "12",
+        "name": "Mewoluk",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Puncak%20Jaya&jobs=Mewoluk",
+        "kodepos": [
+            "98945"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Puncak%20Jaya&jobs=Mewoluk",
+            "jumlah": "8"
+        },
+        "pulau": null,
+        "kode": "94.02.07"
+    },
+    {
+        "no": "13",
+        "name": "Molanikime",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Puncak%20Jaya&jobs=Molanikime",
+        "kodepos": [
+            "98946"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Puncak%20Jaya&jobs=Molanikime",
+            "jumlah": "5"
+        },
+        "pulau": null,
+        "kode": "94.02.24"
+    },
+    {
+        "no": "14",
+        "name": "Muara",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Puncak%20Jaya&jobs=Muara",
+        "kodepos": [
+            "98914"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Puncak%20Jaya&jobs=Muara",
+            "jumlah": "8"
+        },
+        "pulau": null,
+        "kode": "94.02.20"
+    },
+    {
+        "no": "15",
+        "name": "Mulia",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Puncak%20Jaya&jobs=Mulia",
+        "kodepos": [
+            "98915"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Puncak%20Jaya&jobs=Mulia",
+            "jumlah": "11"
+        },
+        "pulau": null,
+        "kode": "94.02.01"
+    },
+    {
+        "no": "16",
+        "name": "Nioga",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Puncak%20Jaya&jobs=Nioga",
+        "kodepos": [
+            "98932"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Puncak%20Jaya&jobs=Nioga",
+            "jumlah": "11"
+        },
+        "pulau": null,
+        "kode": "94.02.30"
+    },
+    {
+        "no": "17",
+        "name": "Nume",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Puncak%20Jaya&jobs=Nume",
+        "kodepos": [
+            "98933"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Puncak%20Jaya&jobs=Nume",
+            "jumlah": "13"
+        },
+        "pulau": null,
+        "kode": "94.02.10"
+    },
+    {
+        "no": "18",
+        "name": "Pagaleme",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Puncak%20Jaya&jobs=Pagaleme",
+        "kodepos": [
+            "98916"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Puncak%20Jaya&jobs=Pagaleme",
+            "jumlah": "5"
+        },
+        "pulau": null,
+        "kode": "94.02.17"
+    },
+    {
+        "no": "19",
+        "name": "Taganombak",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Puncak%20Jaya&jobs=Taganombak",
+        "kodepos": [
+            "98934"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Puncak%20Jaya&jobs=Taganombak",
+            "jumlah": "10"
+        },
+        "pulau": null,
+        "kode": "94.02.32"
+    },
+    {
+        "no": "20",
+        "name": "Tingginambut",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Puncak%20Jaya&jobs=Tingginambut",
+        "kodepos": [
+            "98922"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Puncak%20Jaya&jobs=Tingginambut",
+            "jumlah": "22"
+        },
+        "pulau": null,
+        "kode": "94.02.12"
+    },
+    {
+        "no": "21",
+        "name": "Torere",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Puncak%20Jaya&jobs=Torere",
+        "kodepos": [
+            "98926"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Puncak%20Jaya&jobs=Torere",
+            "jumlah": "13"
+        },
+        "pulau": null,
+        "kode": "94.02.11"
+    },
+    {
+        "no": "22",
+        "name": "Waegi",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Puncak%20Jaya&jobs=Waegi",
+        "kodepos": [
+            "98936"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Puncak%20Jaya&jobs=Waegi",
+            "jumlah": "19"
+        },
+        "pulau": null,
+        "kode": "94.02.29"
+    },
+    {
+        "no": "23",
+        "name": "Wanwi",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Puncak%20Jaya&jobs=Wanwi",
+        "kodepos": [
+            "98923"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Puncak%20Jaya&jobs=Wanwi",
+            "jumlah": "17"
+        },
+        "pulau": null,
+        "kode": "94.02.27"
+    },
+    {
+        "no": "24",
+        "name": "Yambi",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Puncak%20Jaya&jobs=Yambi",
+        "kodepos": [
+            "98917"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Puncak%20Jaya&jobs=Yambi",
+            "jumlah": "9"
+        },
+        "pulau": null,
+        "kode": "94.02.22"
+    },
+    {
+        "no": "25",
+        "name": "Yamo",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Puncak%20Jaya&jobs=Yamo",
+        "kodepos": [
+            "98925"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Puncak%20Jaya&jobs=Yamo",
+            "jumlah": "14"
+        },
+        "pulau": null,
+        "kode": "94.02.08"
+    },
+    {
+        "no": "26",
+        "name": "Yamoneri",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Puncak%20Jaya&jobs=Yamoneri",
+        "kodepos": [
+            "98937"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Puncak%20Jaya&jobs=Yamoneri",
+            "jumlah": "16"
+        },
+        "pulau": null,
+        "kode": "94.02.28"
+    }
+]

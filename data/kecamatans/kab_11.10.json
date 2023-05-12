@@ -1,0 +1,162 @@
+[
+    {
+        "no": "1",
+        "name": "Danau Paris",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Aceh%20Singkil&jobs=Danau%20Paris",
+        "kodepos": [
+            "24784"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Aceh%20Singkil&jobs=Danau%20Paris",
+            "jumlah": "6"
+        },
+        "pulau": null,
+        "kode": "11.10.11"
+    },
+    {
+        "no": "2",
+        "name": "Gunung Meriah (Mariah)",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Aceh%20Singkil&jobs=Gunung%20Meriah%20(Mariah)",
+        "kodepos": [
+            "24793"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Aceh%20Singkil&jobs=Gunung%20Meriah%20(Mariah)",
+            "jumlah": "25"
+        },
+        "pulau": null,
+        "kode": "11.10.06"
+    },
+    {
+        "no": "3",
+        "name": "Kota Baharu",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Aceh%20Singkil&jobs=Kota%20Baharu",
+        "kodepos": [
+            "24792"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Aceh%20Singkil&jobs=Kota%20Baharu",
+            "jumlah": "9"
+        },
+        "pulau": null,
+        "kode": "11.10.09"
+    },
+    {
+        "no": "4",
+        "name": "Kuala Baru",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Aceh%20Singkil&jobs=Kuala%20Baru",
+        "kodepos": [
+            "24789"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Aceh%20Singkil&jobs=Kuala%20Baru",
+            "jumlah": "4"
+        },
+        "pulau": null,
+        "kode": "11.10.14"
+    },
+    {
+        "no": "5",
+        "name": "Pulau Banyak",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Aceh%20Singkil&jobs=Pulau%20Banyak",
+        "kodepos": [
+            "24791"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Aceh%20Singkil&jobs=Pulau%20Banyak",
+            "jumlah": "3"
+        },
+        "pulau": null,
+        "kode": "11.10.01"
+    },
+    {
+        "no": "6",
+        "name": "Pulau Banyak Barat",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Aceh%20Singkil&jobs=Pulau%20Banyak%20Barat",
+        "kodepos": [
+            "24790"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Aceh%20Singkil&jobs=Pulau%20Banyak%20Barat",
+            "jumlah": "4"
+        },
+        "pulau": null,
+        "kode": "11.10.16"
+    },
+    {
+        "no": "7",
+        "name": "Simpang Kanan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Aceh%20Singkil&jobs=Simpang%20Kanan",
+        "kodepos": [
+            "24794"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Aceh%20Singkil&jobs=Simpang%20Kanan",
+            "jumlah": "25"
+        },
+        "pulau": null,
+        "kode": "11.10.02"
+    },
+    {
+        "no": "8",
+        "name": "Singkil",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Aceh%20Singkil&jobs=Singkil",
+        "kodepos": [
+            "24785"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Aceh%20Singkil&jobs=Singkil",
+            "jumlah": "16"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Aceh%20Singkil&jobs=Singkil",
+            "jumlah": "1"
+        },
+        "kode": "11.10.04"
+    },
+    {
+        "no": "9",
+        "name": "Singkil Utara",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Aceh%20Singkil&jobs=Singkil%20Utara",
+        "kodepos": [
+            "24791"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Aceh%20Singkil&jobs=Singkil%20Utara",
+            "jumlah": "7"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Aceh%20Singkil&jobs=Singkil%20Utara",
+            "jumlah": "1"
+        },
+        "kode": "11.10.10"
+    },
+    {
+        "no": "10",
+        "name": "Singkohor",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Aceh%20Singkil&jobs=Singkohor",
+        "kodepos": [
+            "24788"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Aceh%20Singkil&jobs=Singkohor",
+            "jumlah": "6"
+        },
+        "pulau": null,
+        "kode": "11.10.13"
+    },
+    {
+        "no": "11",
+        "name": "Suro Makmur",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Aceh%20Singkil&jobs=Suro%20Makmur",
+        "kodepos": [
+            "24787"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Aceh%20Singkil&jobs=Suro%20Makmur",
+            "jumlah": "11"
+        },
+        "pulau": null,
+        "kode": "11.10.12"
+    }
+]

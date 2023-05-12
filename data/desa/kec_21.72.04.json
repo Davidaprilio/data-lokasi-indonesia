@@ -1,0 +1,37 @@
+[
+    {
+        "no": "1",
+        "kodepos": "29124",
+        "name": "Dompak",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Bukit%20Bestari-Kota-Tanjung%20Pinang&jobs=Dompak",
+        "kode": "21.72.04.1002"
+    },
+    {
+        "no": "2",
+        "kodepos": "29124",
+        "name": "Sei Jang",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Bukit%20Bestari-Kota-Tanjung%20Pinang&jobs=Sei%20Jang",
+        "kode": "21.72.04.1004"
+    },
+    {
+        "no": "3",
+        "kodepos": "29124",
+        "name": "Tanjung Ayun Sakti",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Bukit%20Bestari-Kota-Tanjung%20Pinang&jobs=Tanjung%20Ayun%20Sakti",
+        "kode": "21.72.04.1003"
+    },
+    {
+        "no": "4",
+        "kodepos": "29122",
+        "name": "Tanjung Pinang Timur",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Bukit%20Bestari-Kota-Tanjung%20Pinang&jobs=Tanjung%20Pinang%20Timur",
+        "kode": "21.72.04.1001"
+    },
+    {
+        "no": "5",
+        "kodepos": "29122",
+        "name": "Tanjung Unggat",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Bukit%20Bestari-Kota-Tanjung%20Pinang&jobs=Tanjung%20Unggat",
+        "kode": "21.72.04.1005"
+    }
+]

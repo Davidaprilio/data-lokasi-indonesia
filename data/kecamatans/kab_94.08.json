@@ -1,0 +1,72 @@
+[
+    {
+        "no": "1",
+        "name": "Bowobado",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Deiyai&jobs=Bowobado",
+        "kodepos": [
+            "98751"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Deiyai&jobs=Bowobado",
+            "jumlah": "6"
+        },
+        "pulau": null,
+        "kode": "94.08.03"
+    },
+    {
+        "no": "2",
+        "name": "Kapiraya",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Deiyai&jobs=Kapiraya",
+        "kodepos": [
+            "98752"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Deiyai&jobs=Kapiraya",
+            "jumlah": "5"
+        },
+        "pulau": null,
+        "kode": "94.08.05"
+    },
+    {
+        "no": "3",
+        "name": "Tigi",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Deiyai&jobs=Tigi",
+        "kodepos": [
+            "98764"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Deiyai&jobs=Tigi",
+            "jumlah": "20"
+        },
+        "pulau": null,
+        "kode": "94.08.01"
+    },
+    {
+        "no": "4",
+        "name": "Tigi Barat",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Deiyai&jobs=Tigi%20Barat",
+        "kodepos": [
+            "98761"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Deiyai&jobs=Tigi%20Barat",
+            "jumlah": "22"
+        },
+        "pulau": null,
+        "kode": "94.08.04"
+    },
+    {
+        "no": "5",
+        "name": "Tigi Timur",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Deiyai&jobs=Tigi%20Timur",
+        "kodepos": [
+            "98771"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Deiyai&jobs=Tigi%20Timur",
+            "jumlah": "14"
+        },
+        "pulau": null,
+        "kode": "94.08.02"
+    }
+]

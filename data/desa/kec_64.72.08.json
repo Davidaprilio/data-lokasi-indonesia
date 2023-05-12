@@ -1,0 +1,37 @@
+[
+    {
+        "no": "1",
+        "kodepos": "75119",
+        "name": "Bandara",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Sungai%20Pinang-Kota-Samarinda&jobs=Bandara",
+        "kode": "64.72.08.1005"
+    },
+    {
+        "no": "2",
+        "kodepos": "75119",
+        "name": "Gunung Lingai",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Sungai%20Pinang-Kota-Samarinda&jobs=Gunung%20Lingai",
+        "kode": "64.72.08.1003"
+    },
+    {
+        "no": "3",
+        "kodepos": "75119",
+        "name": "Mugirejo",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Sungai%20Pinang-Kota-Samarinda&jobs=Mugirejo",
+        "kode": "64.72.08.1004"
+    },
+    {
+        "no": "4",
+        "kodepos": "75117",
+        "name": "Sei/Sungai Pinang Dalam",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Sungai%20Pinang-Kota-Samarinda&jobs=Sei/Sungai%20Pinang%20Dalam",
+        "kode": "64.72.08.1002"
+    },
+    {
+        "no": "5",
+        "kodepos": "75119",
+        "name": "Temindung Permai",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Sungai%20Pinang-Kota-Samarinda&jobs=Temindung%20Permai",
+        "kode": "64.72.08.1001"
+    }
+]

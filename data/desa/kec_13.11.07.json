@@ -1,0 +1,30 @@
+[
+    {
+        "no": "1",
+        "kodepos": "27777",
+        "name": "Sungai Kunyit",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Sangir%20Balai%20Janggo-Kab.-Solok%20Selatan&jobs=Sungai%20Kunyit",
+        "kode": "13.11.07.2001"
+    },
+    {
+        "no": "2",
+        "kodepos": "27777",
+        "name": "Sungai Kunyit Barat",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Sangir%20Balai%20Janggo-Kab.-Solok%20Selatan&jobs=Sungai%20Kunyit%20Barat",
+        "kode": "13.11.07.2003"
+    },
+    {
+        "no": "3",
+        "kodepos": "27777",
+        "name": "Talao Sungai Kunyit",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Sangir%20Balai%20Janggo-Kab.-Solok%20Selatan&jobs=Talao%20Sungai%20Kunyit",
+        "kode": "13.11.07.2002"
+    },
+    {
+        "no": "4",
+        "kodepos": "27777",
+        "name": "Talunan Maju",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Sangir%20Balai%20Janggo-Kab.-Solok%20Selatan&jobs=Talunan%20Maju",
+        "kode": "13.11.07.2004"
+    }
+]

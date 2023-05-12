@@ -1,0 +1,157 @@
+[
+    {
+        "no": "1",
+        "name": "Angkinang",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Hulu%20Sungai%20Selatan&jobs=Angkinang",
+        "kodepos": [
+            "71291"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Hulu%20Sungai%20Selatan&jobs=Angkinang",
+            "jumlah": "11"
+        },
+        "pulau": null,
+        "kode": "63.06.04"
+    },
+    {
+        "no": "2",
+        "name": "Daha Barat",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Hulu%20Sungai%20Selatan&jobs=Daha%20Barat",
+        "kodepos": [
+            "71252"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Hulu%20Sungai%20Selatan&jobs=Daha%20Barat",
+            "jumlah": "7"
+        },
+        "pulau": null,
+        "kode": "63.06.11"
+    },
+    {
+        "no": "3",
+        "name": "Daha Selatan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Hulu%20Sungai%20Selatan&jobs=Daha%20Selatan",
+        "kodepos": [
+            "71251"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Hulu%20Sungai%20Selatan&jobs=Daha%20Selatan",
+            "jumlah": "16"
+        },
+        "pulau": null,
+        "kode": "63.06.07"
+    },
+    {
+        "no": "4",
+        "name": "Daha Utara",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Hulu%20Sungai%20Selatan&jobs=Daha%20Utara",
+        "kodepos": [
+            "71253"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Hulu%20Sungai%20Selatan&jobs=Daha%20Utara",
+            "jumlah": "19"
+        },
+        "pulau": null,
+        "kode": "63.06.08"
+    },
+    {
+        "no": "5",
+        "name": "Kalumpang (Kelumpang)",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Hulu%20Sungai%20Selatan&jobs=Kalumpang%20(Kelumpang)",
+        "kodepos": [
+            "71262"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Hulu%20Sungai%20Selatan&jobs=Kalumpang%20(Kelumpang)",
+            "jumlah": "9"
+        },
+        "pulau": null,
+        "kode": "63.06.09"
+    },
+    {
+        "no": "6",
+        "name": "Kandangan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Hulu%20Sungai%20Selatan&jobs=Kandangan",
+        "kodepos": [
+            "71211",
+            "71217"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Hulu%20Sungai%20Selatan&jobs=Kandangan",
+            "jumlah": "18"
+        },
+        "pulau": null,
+        "kode": "63.06.05"
+    },
+    {
+        "no": "7",
+        "name": "Loksado",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Hulu%20Sungai%20Selatan&jobs=Loksado",
+        "kodepos": [
+            "71282"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Hulu%20Sungai%20Selatan&jobs=Loksado",
+            "jumlah": "11"
+        },
+        "pulau": null,
+        "kode": "63.06.10"
+    },
+    {
+        "no": "8",
+        "name": "Padang Batung",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Hulu%20Sungai%20Selatan&jobs=Padang%20Batung",
+        "kodepos": [
+            "71281"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Hulu%20Sungai%20Selatan&jobs=Padang%20Batung",
+            "jumlah": "17"
+        },
+        "pulau": null,
+        "kode": "63.06.02"
+    },
+    {
+        "no": "9",
+        "name": "Simpur",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Hulu%20Sungai%20Selatan&jobs=Simpur",
+        "kodepos": [
+            "71261"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Hulu%20Sungai%20Selatan&jobs=Simpur",
+            "jumlah": "11"
+        },
+        "pulau": null,
+        "kode": "63.06.06"
+    },
+    {
+        "no": "10",
+        "name": "Sungai Raya",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Hulu%20Sungai%20Selatan&jobs=Sungai%20Raya",
+        "kodepos": [
+            "71271"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Hulu%20Sungai%20Selatan&jobs=Sungai%20Raya",
+            "jumlah": "18"
+        },
+        "pulau": null,
+        "kode": "63.06.01"
+    },
+    {
+        "no": "11",
+        "name": "Telaga Langsat",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Hulu%20Sungai%20Selatan&jobs=Telaga%20Langsat",
+        "kodepos": [
+            "71292"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Hulu%20Sungai%20Selatan&jobs=Telaga%20Langsat",
+            "jumlah": "11"
+        },
+        "pulau": null,
+        "kode": "63.06.03"
+    }
+]

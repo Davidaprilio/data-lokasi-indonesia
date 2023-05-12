@@ -1,0 +1,446 @@
+[
+    {
+        "no": "1",
+        "name": "Arjasari",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Bandung&jobs=Arjasari",
+        "kodepos": [
+            "40379"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Bandung&jobs=Arjasari",
+            "jumlah": "11"
+        },
+        "pulau": null,
+        "kode": "32.04.16"
+    },
+    {
+        "no": "2",
+        "name": "Baleendah",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Bandung&jobs=Baleendah",
+        "kodepos": [
+            "40258",
+            "40375"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Bandung&jobs=Baleendah",
+            "jumlah": "8"
+        },
+        "pulau": null,
+        "kode": "32.04.32"
+    },
+    {
+        "no": "3",
+        "name": "Banjaran",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Bandung&jobs=Banjaran",
+        "kodepos": [
+            "40377"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Bandung&jobs=Banjaran",
+            "jumlah": "11"
+        },
+        "pulau": null,
+        "kode": "32.04.13"
+    },
+    {
+        "no": "4",
+        "name": "Bojongsoang",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Bandung&jobs=Bojongsoang",
+        "kodepos": [
+            "40287",
+            "40288"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Bandung&jobs=Bojongsoang",
+            "jumlah": "6"
+        },
+        "pulau": null,
+        "kode": "32.04.08"
+    },
+    {
+        "no": "5",
+        "name": "Cangkuang",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Bandung&jobs=Cangkuang",
+        "kodepos": [
+            "40238"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Bandung&jobs=Cangkuang",
+            "jumlah": "7"
+        },
+        "pulau": null,
+        "kode": "32.04.44"
+    },
+    {
+        "no": "6",
+        "name": "Cicalengka",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Bandung&jobs=Cicalengka",
+        "kodepos": [
+            "40395"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Bandung&jobs=Cicalengka",
+            "jumlah": "12"
+        },
+        "pulau": null,
+        "kode": "32.04.25"
+    },
+    {
+        "no": "7",
+        "name": "Cikancung",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Bandung&jobs=Cikancung",
+        "kodepos": [
+            "40396"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Bandung&jobs=Cikancung",
+            "jumlah": "9"
+        },
+        "pulau": null,
+        "kode": "32.04.27"
+    },
+    {
+        "no": "8",
+        "name": "Cilengkrang",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Bandung&jobs=Cilengkrang",
+        "kodepos": [
+            "40615",
+            "40619"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Bandung&jobs=Cilengkrang",
+            "jumlah": "6"
+        },
+        "pulau": null,
+        "kode": "32.04.07"
+    },
+    {
+        "no": "9",
+        "name": "Cileunyi",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Bandung&jobs=Cileunyi",
+        "kodepos": [
+            "40621",
+            "40626"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Bandung&jobs=Cileunyi",
+            "jumlah": "6"
+        },
+        "pulau": null,
+        "kode": "32.04.05"
+    },
+    {
+        "no": "10",
+        "name": "Cimaung",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Bandung&jobs=Cimaung",
+        "kodepos": [
+            "40374",
+            "40375"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Bandung&jobs=Cimaung",
+            "jumlah": "10"
+        },
+        "pulau": null,
+        "kode": "32.04.17"
+    },
+    {
+        "no": "11",
+        "name": "Cimenyan (Cimeunyan)",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Bandung&jobs=Cimenyan%20(Cimeunyan)",
+        "kodepos": [
+            "40191",
+            "40198"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Bandung&jobs=Cimenyan%20(Cimeunyan)",
+            "jumlah": "9"
+        },
+        "pulau": null,
+        "kode": "32.04.06"
+    },
+    {
+        "no": "12",
+        "name": "Ciparay",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Bandung&jobs=Ciparay",
+        "kodepos": [
+            "40381"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Bandung&jobs=Ciparay",
+            "jumlah": "14"
+        },
+        "pulau": null,
+        "kode": "32.04.29"
+    },
+    {
+        "no": "13",
+        "name": "Ciwidey",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Bandung&jobs=Ciwidey",
+        "kodepos": [
+            "40973"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Bandung&jobs=Ciwidey",
+            "jumlah": "7"
+        },
+        "pulau": null,
+        "kode": "32.04.39"
+    },
+    {
+        "no": "14",
+        "name": "Dayeuhkolot",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Bandung&jobs=Dayeuhkolot",
+        "kodepos": [
+            "40238",
+            "40267"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Bandung&jobs=Dayeuhkolot",
+            "jumlah": "6"
+        },
+        "pulau": null,
+        "kode": "32.04.12"
+    },
+    {
+        "no": "15",
+        "name": "Ibun",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Bandung&jobs=Ibun",
+        "kodepos": [
+            "40384"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Bandung&jobs=Ibun",
+            "jumlah": "12"
+        },
+        "pulau": null,
+        "kode": "32.04.36"
+    },
+    {
+        "no": "16",
+        "name": "Katapang",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Bandung&jobs=Katapang",
+        "kodepos": [
+            "40921"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Bandung&jobs=Katapang",
+            "jumlah": "7"
+        },
+        "pulau": null,
+        "kode": "32.04.11"
+    },
+    {
+        "no": "17",
+        "name": "Kertasari",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Bandung&jobs=Kertasari",
+        "kodepos": [
+            "40386"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Bandung&jobs=Kertasari",
+            "jumlah": "8"
+        },
+        "pulau": null,
+        "kode": "32.04.31"
+    },
+    {
+        "no": "18",
+        "name": "Kutawaringin",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Bandung&jobs=Kutawaringin",
+        "kodepos": [
+            "40911"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Bandung&jobs=Kutawaringin",
+            "jumlah": "11"
+        },
+        "pulau": null,
+        "kode": "32.04.46"
+    },
+    {
+        "no": "19",
+        "name": "Majalaya",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Bandung&jobs=Majalaya",
+        "kodepos": [
+            "40382"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Bandung&jobs=Majalaya",
+            "jumlah": "11"
+        },
+        "pulau": null,
+        "kode": "32.04.33"
+    },
+    {
+        "no": "20",
+        "name": "Margaasih",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Bandung&jobs=Margaasih",
+        "kodepos": [
+            "40214",
+            "40218"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Bandung&jobs=Margaasih",
+            "jumlah": "6"
+        },
+        "pulau": null,
+        "kode": "32.04.10"
+    },
+    {
+        "no": "21",
+        "name": "Margahayu",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Bandung&jobs=Margahayu",
+        "kodepos": [
+            "40225",
+            "40229"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Bandung&jobs=Margahayu",
+            "jumlah": "5"
+        },
+        "pulau": null,
+        "kode": "32.04.09"
+    },
+    {
+        "no": "22",
+        "name": "Nagreg",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Bandung&jobs=Nagreg",
+        "kodepos": [
+            "40215"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Bandung&jobs=Nagreg",
+            "jumlah": "8"
+        },
+        "pulau": null,
+        "kode": "32.04.26"
+    },
+    {
+        "no": "23",
+        "name": "Pacet",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Bandung&jobs=Pacet",
+        "kodepos": [
+            "40385"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Bandung&jobs=Pacet",
+            "jumlah": "13"
+        },
+        "pulau": null,
+        "kode": "32.04.30"
+    },
+    {
+        "no": "24",
+        "name": "Pameungpeuk",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Bandung&jobs=Pameungpeuk",
+        "kodepos": [
+            "40376"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Bandung&jobs=Pameungpeuk",
+            "jumlah": "6"
+        },
+        "pulau": null,
+        "kode": "32.04.14"
+    },
+    {
+        "no": "25",
+        "name": "Pangalengan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Bandung&jobs=Pangalengan",
+        "kodepos": [
+            "40378"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Bandung&jobs=Pangalengan",
+            "jumlah": "13"
+        },
+        "pulau": null,
+        "kode": "32.04.15"
+    },
+    {
+        "no": "26",
+        "name": "Paseh",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Bandung&jobs=Paseh",
+        "kodepos": [
+            "40383"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Bandung&jobs=Paseh",
+            "jumlah": "12"
+        },
+        "pulau": null,
+        "kode": "32.04.35"
+    },
+    {
+        "no": "27",
+        "name": "Pasirjambu",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Bandung&jobs=Pasirjambu",
+        "kodepos": [
+            "40972"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Bandung&jobs=Pasirjambu",
+            "jumlah": "10"
+        },
+        "pulau": null,
+        "kode": "32.04.38"
+    },
+    {
+        "no": "28",
+        "name": "Rancabali (Ranca Bali)",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Bandung&jobs=Rancabali%20(Ranca%20Bali)",
+        "kodepos": [
+            "40974"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Bandung&jobs=Rancabali%20(Ranca%20Bali)",
+            "jumlah": "5"
+        },
+        "pulau": null,
+        "kode": "32.04.40"
+    },
+    {
+        "no": "29",
+        "name": "Rancaekek",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Bandung&jobs=Rancaekek",
+        "kodepos": [
+            "40394"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Bandung&jobs=Rancaekek",
+            "jumlah": "14"
+        },
+        "pulau": null,
+        "kode": "32.04.28"
+    },
+    {
+        "no": "30",
+        "name": "Solokanjeruk (Solokan Jeruk)",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Bandung&jobs=Solokanjeruk%20(Solokan%20Jeruk)",
+        "kodepos": [
+            "40375"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Bandung&jobs=Solokanjeruk%20(Solokan%20Jeruk)",
+            "jumlah": "7"
+        },
+        "pulau": null,
+        "kode": "32.04.34"
+    },
+    {
+        "no": "31",
+        "name": "Soreang",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Bandung&jobs=Soreang",
+        "kodepos": [
+            "40911",
+            "40915"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Bandung&jobs=Soreang",
+            "jumlah": "10"
+        },
+        "pulau": null,
+        "kode": "32.04.37"
+    }
+]

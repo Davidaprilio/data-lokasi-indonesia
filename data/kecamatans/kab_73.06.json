@@ -1,0 +1,255 @@
+[
+    {
+        "no": "1",
+        "name": "Bajeng",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Gowa&jobs=Bajeng",
+        "kodepos": [
+            "92152"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Gowa&jobs=Bajeng",
+            "jumlah": "14"
+        },
+        "pulau": null,
+        "kode": "73.06.02"
+    },
+    {
+        "no": "2",
+        "name": "Bajeng Barat",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Gowa&jobs=Bajeng%20Barat",
+        "kodepos": [
+            "92151"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Gowa&jobs=Bajeng%20Barat",
+            "jumlah": "7"
+        },
+        "pulau": null,
+        "kode": "73.06.18"
+    },
+    {
+        "no": "3",
+        "name": "Barombong",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Gowa&jobs=Barombong",
+        "kodepos": [
+            "90225"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Gowa&jobs=Barombong",
+            "jumlah": "7"
+        },
+        "pulau": null,
+        "kode": "73.06.12"
+    },
+    {
+        "no": "4",
+        "name": "Biringbulu",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Gowa&jobs=Biringbulu",
+        "kodepos": [
+            "90244"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Gowa&jobs=Biringbulu",
+            "jumlah": "11"
+        },
+        "pulau": null,
+        "kode": "73.06.11"
+    },
+    {
+        "no": "5",
+        "name": "Bontolempangang",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Gowa&jobs=Bontolempangang",
+        "kodepos": [
+            "92176"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Gowa&jobs=Bontolempangang",
+            "jumlah": "8"
+        },
+        "pulau": null,
+        "kode": "73.06.15"
+    },
+    {
+        "no": "6",
+        "name": "Bontomarannu",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Gowa&jobs=Bontomarannu",
+        "kodepos": [
+            "92171"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Gowa&jobs=Bontomarannu",
+            "jumlah": "9"
+        },
+        "pulau": null,
+        "kode": "73.06.06"
+    },
+    {
+        "no": "7",
+        "name": "Bontonompo",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Gowa&jobs=Bontonompo",
+        "kodepos": [
+            "92153"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Gowa&jobs=Bontonompo",
+            "jumlah": "14"
+        },
+        "pulau": null,
+        "kode": "73.06.01"
+    },
+    {
+        "no": "8",
+        "name": "Bontonompo Selatan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Gowa&jobs=Bontonompo%20Selatan",
+        "kodepos": [
+            "92154"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Gowa&jobs=Bontonompo%20Selatan",
+            "jumlah": "9"
+        },
+        "pulau": null,
+        "kode": "73.06.16"
+    },
+    {
+        "no": "9",
+        "name": "Bungaya",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Gowa&jobs=Bungaya",
+        "kodepos": [
+            "92177"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Gowa&jobs=Bungaya",
+            "jumlah": "7"
+        },
+        "pulau": null,
+        "kode": "73.06.09"
+    },
+    {
+        "no": "10",
+        "name": "Manuju",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Gowa&jobs=Manuju",
+        "kodepos": [
+            "92173"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Gowa&jobs=Manuju",
+            "jumlah": "7"
+        },
+        "pulau": null,
+        "kode": "73.06.14"
+    },
+    {
+        "no": "11",
+        "name": "Palangga (Pallangga)",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Gowa&jobs=Palangga%20(Pallangga)",
+        "kodepos": [
+            "92161"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Gowa&jobs=Palangga%20(Pallangga)",
+            "jumlah": "16"
+        },
+        "pulau": null,
+        "kode": "73.06.07"
+    },
+    {
+        "no": "12",
+        "name": "Parangloe",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Gowa&jobs=Parangloe",
+        "kodepos": [
+            "92179"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Gowa&jobs=Parangloe",
+            "jumlah": "7"
+        },
+        "pulau": null,
+        "kode": "73.06.05"
+    },
+    {
+        "no": "13",
+        "name": "Parigi",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Gowa&jobs=Parigi",
+        "kodepos": [
+            "92174"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Gowa&jobs=Parigi",
+            "jumlah": "5"
+        },
+        "pulau": null,
+        "kode": "73.06.17"
+    },
+    {
+        "no": "14",
+        "name": "Pattalasang (Pattallassang)",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Gowa&jobs=Pattalasang%20(Pattallassang)",
+        "kodepos": [
+            "92172"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Gowa&jobs=Pattalasang%20(Pattallassang)",
+            "jumlah": "8"
+        },
+        "pulau": null,
+        "kode": "73.06.13"
+    },
+    {
+        "no": "15",
+        "name": "Somba Opu (Upu)",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Gowa&jobs=Somba%20Opu%20(Upu)",
+        "kodepos": [
+            "92111",
+            "92119"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Gowa&jobs=Somba%20Opu%20(Upu)",
+            "jumlah": "14"
+        },
+        "pulau": null,
+        "kode": "73.06.08"
+    },
+    {
+        "no": "16",
+        "name": "Tinggimoncong",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Gowa&jobs=Tinggimoncong",
+        "kodepos": [
+            "92178"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Gowa&jobs=Tinggimoncong",
+            "jumlah": "7"
+        },
+        "pulau": null,
+        "kode": "73.06.04"
+    },
+    {
+        "no": "17",
+        "name": "Tombolopao (Tombolo Pao)",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Gowa&jobs=Tombolopao%20(Tombolo%20Pao)",
+        "kodepos": [
+            "92170"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Gowa&jobs=Tombolopao%20(Tombolo%20Pao)",
+            "jumlah": "9"
+        },
+        "pulau": null,
+        "kode": "73.06.10"
+    },
+    {
+        "no": "18",
+        "name": "Tompobullu (Tompobulu)",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Gowa&jobs=Tompobullu%20(Tompobulu)",
+        "kodepos": [
+            "92175"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Gowa&jobs=Tompobullu%20(Tompobulu)",
+            "jumlah": "8"
+        },
+        "pulau": null,
+        "kode": "73.06.03"
+    }
+]

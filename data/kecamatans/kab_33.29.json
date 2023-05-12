@@ -1,0 +1,242 @@
+[
+    {
+        "no": "1",
+        "name": "Banjarharjo",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Brebes&jobs=Banjarharjo",
+        "kodepos": [
+            "52265"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Brebes&jobs=Banjarharjo",
+            "jumlah": "25"
+        },
+        "pulau": null,
+        "kode": "33.29.17"
+    },
+    {
+        "no": "2",
+        "name": "Bantarkawung",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Brebes&jobs=Bantarkawung",
+        "kodepos": [
+            "52274"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Brebes&jobs=Bantarkawung",
+            "jumlah": "18"
+        },
+        "pulau": null,
+        "kode": "33.29.02"
+    },
+    {
+        "no": "3",
+        "name": "Brebes",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Brebes&jobs=Brebes",
+        "kodepos": [
+            "52211",
+            "52219"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Brebes&jobs=Brebes",
+            "jumlah": "23"
+        },
+        "pulau": null,
+        "kode": "33.29.09"
+    },
+    {
+        "no": "4",
+        "name": "Bulakamba",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Brebes&jobs=Bulakamba",
+        "kodepos": [
+            "52253"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Brebes&jobs=Bulakamba",
+            "jumlah": "19"
+        },
+        "pulau": null,
+        "kode": "33.29.14"
+    },
+    {
+        "no": "5",
+        "name": "Bumiayu",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Brebes&jobs=Bumiayu",
+        "kodepos": [
+            "52273"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Brebes&jobs=Bumiayu",
+            "jumlah": "15"
+        },
+        "pulau": null,
+        "kode": "33.29.03"
+    },
+    {
+        "no": "6",
+        "name": "Jatibarang",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Brebes&jobs=Jatibarang",
+        "kodepos": [
+            "52261"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Brebes&jobs=Jatibarang",
+            "jumlah": "22"
+        },
+        "pulau": null,
+        "kode": "33.29.07"
+    },
+    {
+        "no": "7",
+        "name": "Kersana",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Brebes&jobs=Kersana",
+        "kodepos": [
+            "52264"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Brebes&jobs=Kersana",
+            "jumlah": "13"
+        },
+        "pulau": null,
+        "kode": "33.29.11"
+    },
+    {
+        "no": "8",
+        "name": "Ketanggungan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Brebes&jobs=Ketanggungan",
+        "kodepos": [
+            "52263"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Brebes&jobs=Ketanggungan",
+            "jumlah": "21"
+        },
+        "pulau": null,
+        "kode": "33.29.16"
+    },
+    {
+        "no": "9",
+        "name": "Larangan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Brebes&jobs=Larangan",
+        "kodepos": [
+            "52262"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Brebes&jobs=Larangan",
+            "jumlah": "11"
+        },
+        "pulau": null,
+        "kode": "33.29.15"
+    },
+    {
+        "no": "10",
+        "name": "Losari",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Brebes&jobs=Losari",
+        "kodepos": [
+            "52255"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Brebes&jobs=Losari",
+            "jumlah": "22"
+        },
+        "pulau": null,
+        "kode": "33.29.12"
+    },
+    {
+        "no": "11",
+        "name": "Paguyangan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Brebes&jobs=Paguyangan",
+        "kodepos": [
+            "52276"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Brebes&jobs=Paguyangan",
+            "jumlah": "12"
+        },
+        "pulau": null,
+        "kode": "33.29.04"
+    },
+    {
+        "no": "12",
+        "name": "Salem",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Brebes&jobs=Salem",
+        "kodepos": [
+            "52275"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Brebes&jobs=Salem",
+            "jumlah": "21"
+        },
+        "pulau": null,
+        "kode": "33.29.01"
+    },
+    {
+        "no": "13",
+        "name": "Sirampog",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Brebes&jobs=Sirampog",
+        "kodepos": [
+            "52272"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Brebes&jobs=Sirampog",
+            "jumlah": "13"
+        },
+        "pulau": null,
+        "kode": "33.29.05"
+    },
+    {
+        "no": "14",
+        "name": "Songgom",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Brebes&jobs=Songgom",
+        "kodepos": [
+            "52266"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Brebes&jobs=Songgom",
+            "jumlah": "10"
+        },
+        "pulau": null,
+        "kode": "33.29.10"
+    },
+    {
+        "no": "15",
+        "name": "Tanjung",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Brebes&jobs=Tanjung",
+        "kodepos": [
+            "52254"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Brebes&jobs=Tanjung",
+            "jumlah": "18"
+        },
+        "pulau": null,
+        "kode": "33.29.13"
+    },
+    {
+        "no": "16",
+        "name": "Tonjong",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Brebes&jobs=Tonjong",
+        "kodepos": [
+            "52271"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Brebes&jobs=Tonjong",
+            "jumlah": "14"
+        },
+        "pulau": null,
+        "kode": "33.29.06"
+    },
+    {
+        "no": "17",
+        "name": "Wanasari",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Brebes&jobs=Wanasari",
+        "kodepos": [
+            "52221",
+            "52252"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Brebes&jobs=Wanasari",
+            "jumlah": "20"
+        },
+        "pulau": null,
+        "kode": "33.29.08"
+    }
+]

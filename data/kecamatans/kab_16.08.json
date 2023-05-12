@@ -1,0 +1,283 @@
+[
+    {
+        "no": "1",
+        "name": "Belitang",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Ogan%20Komering%20Ulu%20Timur&jobs=Belitang",
+        "kodepos": [
+            "32382"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Ogan%20Komering%20Ulu%20Timur&jobs=Belitang",
+            "jumlah": "23"
+        },
+        "pulau": null,
+        "kode": "16.08.03"
+    },
+    {
+        "no": "2",
+        "name": "Belitang II",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Ogan%20Komering%20Ulu%20Timur&jobs=Belitang%20II",
+        "kodepos": [
+            "32383"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Ogan%20Komering%20Ulu%20Timur&jobs=Belitang%20II",
+            "jumlah": "24"
+        },
+        "pulau": null,
+        "kode": "16.08.09"
+    },
+    {
+        "no": "3",
+        "name": "Belitang III",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Ogan%20Komering%20Ulu%20Timur&jobs=Belitang%20III",
+        "kodepos": [
+            "32385"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Ogan%20Komering%20Ulu%20Timur&jobs=Belitang%20III",
+            "jumlah": "20"
+        },
+        "pulau": null,
+        "kode": "16.08.10"
+    },
+    {
+        "no": "4",
+        "name": "Belitang Jaya",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Ogan%20Komering%20Ulu%20Timur&jobs=Belitang%20Jaya",
+        "kodepos": [
+            "32380"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Ogan%20Komering%20Ulu%20Timur&jobs=Belitang%20Jaya",
+            "jumlah": "13"
+        },
+        "pulau": null,
+        "kode": "16.08.17"
+    },
+    {
+        "no": "5",
+        "name": "Belitang Madang Raya",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Ogan%20Komering%20Ulu%20Timur&jobs=Belitang%20Madang%20Raya",
+        "kodepos": [
+            "32363"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Ogan%20Komering%20Ulu%20Timur&jobs=Belitang%20Madang%20Raya",
+            "jumlah": "16"
+        },
+        "pulau": null,
+        "kode": "16.08.18"
+    },
+    {
+        "no": "6",
+        "name": "Belitang Mulya",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Ogan%20Komering%20Ulu%20Timur&jobs=Belitang%20Mulya",
+        "kodepos": [
+            "32388"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Ogan%20Komering%20Ulu%20Timur&jobs=Belitang%20Mulya",
+            "jumlah": "12"
+        },
+        "pulau": null,
+        "kode": "16.08.19"
+    },
+    {
+        "no": "7",
+        "name": "Buay Madang",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Ogan%20Komering%20Ulu%20Timur&jobs=Buay%20Madang",
+        "kodepos": [
+            "32361"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Ogan%20Komering%20Ulu%20Timur&jobs=Buay%20Madang",
+            "jumlah": "17"
+        },
+        "pulau": null,
+        "kode": "16.08.02"
+    },
+    {
+        "no": "8",
+        "name": "Buay Madang Timur",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Ogan%20Komering%20Ulu%20Timur&jobs=Buay%20Madang%20Timur",
+        "kodepos": [
+            "32360"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Ogan%20Komering%20Ulu%20Timur&jobs=Buay%20Madang%20Timur",
+            "jumlah": "30"
+        },
+        "pulau": null,
+        "kode": "16.08.12"
+    },
+    {
+        "no": "9",
+        "name": "Buay Pemuka Bangsa Raja",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Ogan%20Komering%20Ulu%20Timur&jobs=Buay%20Pemuka%20Bangsa%20Raja",
+        "kodepos": [
+            "32364"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Ogan%20Komering%20Ulu%20Timur&jobs=Buay%20Pemuka%20Bangsa%20Raja",
+            "jumlah": "7"
+        },
+        "pulau": null,
+        "kode": "16.08.20"
+    },
+    {
+        "no": "10",
+        "name": "Buay Pemuka Peliung",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Ogan%20Komering%20Ulu%20Timur&jobs=Buay%20Pemuka%20Peliung",
+        "kodepos": [
+            "32367"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Ogan%20Komering%20Ulu%20Timur&jobs=Buay%20Pemuka%20Peliung",
+            "jumlah": "13"
+        },
+        "pulau": null,
+        "kode": "16.08.05"
+    },
+    {
+        "no": "11",
+        "name": "Bunga Mayang",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Ogan%20Komering%20Ulu%20Timur&jobs=Bunga%20Mayang",
+        "kodepos": [
+            "32387"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Ogan%20Komering%20Ulu%20Timur&jobs=Bunga%20Mayang",
+            "jumlah": "8"
+        },
+        "pulau": null,
+        "kode": "16.08.11"
+    },
+    {
+        "no": "12",
+        "name": "Cempaka",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Ogan%20Komering%20Ulu%20Timur&jobs=Cempaka",
+        "kodepos": [
+            "32384"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Ogan%20Komering%20Ulu%20Timur&jobs=Cempaka",
+            "jumlah": "13"
+        },
+        "pulau": null,
+        "kode": "16.08.04"
+    },
+    {
+        "no": "13",
+        "name": "Jayapura",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Ogan%20Komering%20Ulu%20Timur&jobs=Jayapura",
+        "kodepos": [
+            "32381"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Ogan%20Komering%20Ulu%20Timur&jobs=Jayapura",
+            "jumlah": "8"
+        },
+        "pulau": null,
+        "kode": "16.08.16"
+    },
+    {
+        "no": "14",
+        "name": "Madang Suku I",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Ogan%20Komering%20Ulu%20Timur&jobs=Madang%20Suku%20I",
+        "kodepos": [
+            "32362"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Ogan%20Komering%20Ulu%20Timur&jobs=Madang%20Suku%20I",
+            "jumlah": "13"
+        },
+        "pulau": null,
+        "kode": "16.08.07"
+    },
+    {
+        "no": "15",
+        "name": "Madang Suku II",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Ogan%20Komering%20Ulu%20Timur&jobs=Madang%20Suku%20II",
+        "kodepos": [
+            "32366"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Ogan%20Komering%20Ulu%20Timur&jobs=Madang%20Suku%20II",
+            "jumlah": "19"
+        },
+        "pulau": null,
+        "kode": "16.08.06"
+    },
+    {
+        "no": "16",
+        "name": "Madang Suku III",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Ogan%20Komering%20Ulu%20Timur&jobs=Madang%20Suku%20III",
+        "kodepos": [
+            "32365"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Ogan%20Komering%20Ulu%20Timur&jobs=Madang%20Suku%20III",
+            "jumlah": "10"
+        },
+        "pulau": null,
+        "kode": "16.08.13"
+    },
+    {
+        "no": "17",
+        "name": "Martapura",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Ogan%20Komering%20Ulu%20Timur&jobs=Martapura",
+        "kodepos": [
+            "32311",
+            "32319"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Ogan%20Komering%20Ulu%20Timur&jobs=Martapura",
+            "jumlah": "16"
+        },
+        "pulau": null,
+        "kode": "16.08.01"
+    },
+    {
+        "no": "18",
+        "name": "Semendawai Barat",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Ogan%20Komering%20Ulu%20Timur&jobs=Semendawai%20Barat",
+        "kodepos": [
+            "32184"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Ogan%20Komering%20Ulu%20Timur&jobs=Semendawai%20Barat",
+            "jumlah": "12"
+        },
+        "pulau": null,
+        "kode": "16.08.14"
+    },
+    {
+        "no": "19",
+        "name": "Semendawai Suku III",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Ogan%20Komering%20Ulu%20Timur&jobs=Semendawai%20Suku%20III",
+        "kodepos": [
+            "32386"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Ogan%20Komering%20Ulu%20Timur&jobs=Semendawai%20Suku%20III",
+            "jumlah": "19"
+        },
+        "pulau": null,
+        "kode": "16.08.08"
+    },
+    {
+        "no": "20",
+        "name": "Semendawai Timur",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Ogan%20Komering%20Ulu%20Timur&jobs=Semendawai%20Timur",
+        "kodepos": [
+            "32185"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Ogan%20Komering%20Ulu%20Timur&jobs=Semendawai%20Timur",
+            "jumlah": "19"
+        },
+        "pulau": null,
+        "kode": "16.08.15"
+    }
+]

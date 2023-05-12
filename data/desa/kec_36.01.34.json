@@ -1,0 +1,37 @@
+[
+    {
+        "no": "1",
+        "kodepos": "42214",
+        "name": "Cilaja",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Majasari-Kab.-Pandeglang&jobs=Cilaja",
+        "kode": "36.01.34.1005"
+    },
+    {
+        "no": "2",
+        "kodepos": "42211",
+        "name": "Karaton",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Majasari-Kab.-Pandeglang&jobs=Karaton",
+        "kode": "36.01.34.1002"
+    },
+    {
+        "no": "3",
+        "kodepos": "42215",
+        "name": "Pagerbatu",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Majasari-Kab.-Pandeglang&jobs=Pagerbatu",
+        "kode": "36.01.34.1004"
+    },
+    {
+        "no": "4",
+        "kodepos": "42216",
+        "name": "Saruni",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Majasari-Kab.-Pandeglang&jobs=Saruni",
+        "kode": "36.01.34.1003"
+    },
+    {
+        "no": "5",
+        "kodepos": "42217",
+        "name": "Sukaratu",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Majasari-Kab.-Pandeglang&jobs=Sukaratu",
+        "kode": "36.01.34.1001"
+    }
+]

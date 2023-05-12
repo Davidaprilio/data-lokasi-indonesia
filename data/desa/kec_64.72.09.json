@@ -1,0 +1,37 @@
+[
+    {
+        "no": "1",
+        "kodepos": "75121",
+        "name": "Bugis",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Samarinda%20Kota-Kota-Samarinda&jobs=Bugis",
+        "kode": "64.72.09.1004"
+    },
+    {
+        "no": "2",
+        "kodepos": "75113",
+        "name": "Karang Mumus",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Samarinda%20Kota-Kota-Samarinda&jobs=Karang%20Mumus",
+        "kode": "64.72.09.1001"
+    },
+    {
+        "no": "3",
+        "kodepos": "75111",
+        "name": "Pasar Pagi",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Samarinda%20Kota-Kota-Samarinda&jobs=Pasar%20Pagi",
+        "kode": "64.72.09.1003"
+    },
+    {
+        "no": "4",
+        "kodepos": "75112",
+        "name": "Pelabuhan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Samarinda%20Kota-Kota-Samarinda&jobs=Pelabuhan",
+        "kode": "64.72.09.1002"
+    },
+    {
+        "no": "5",
+        "kodepos": "75117",
+        "name": "Sungai Pinang Luar",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Samarinda%20Kota-Kota-Samarinda&jobs=Sungai%20Pinang%20Luar",
+        "kode": "64.72.09.1005"
+    }
+]

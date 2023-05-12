@@ -1,0 +1,158 @@
+[
+    {
+        "no": "1",
+        "name": "Bang Haji",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Bengkulu%20Tengah&jobs=Bang%20Haji",
+        "kodepos": [
+            "38372"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Bengkulu%20Tengah&jobs=Bang%20Haji",
+            "jumlah": "12"
+        },
+        "pulau": null,
+        "kode": "17.09.10"
+    },
+    {
+        "no": "2",
+        "name": "Karang Tinggi",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Bengkulu%20Tengah&jobs=Karang%20Tinggi",
+        "kodepos": [
+            "38382"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Bengkulu%20Tengah&jobs=Karang%20Tinggi",
+            "jumlah": "13"
+        },
+        "pulau": null,
+        "kode": "17.09.01"
+    },
+    {
+        "no": "3",
+        "name": "Merigi Kelindang",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Bengkulu%20Tengah&jobs=Merigi%20Kelindang",
+        "kodepos": [
+            "38386"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Bengkulu%20Tengah&jobs=Merigi%20Kelindang",
+            "jumlah": "13"
+        },
+        "pulau": null,
+        "kode": "17.09.07"
+    },
+    {
+        "no": "4",
+        "name": "Merigi Sakti",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Bengkulu%20Tengah&jobs=Merigi%20Sakti",
+        "kodepos": [
+            "38383"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Bengkulu%20Tengah&jobs=Merigi%20Sakti",
+            "jumlah": "15"
+        },
+        "pulau": null,
+        "kode": "17.09.08"
+    },
+    {
+        "no": "5",
+        "name": "Pagar Jati",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Bengkulu%20Tengah&jobs=Pagar%20Jati",
+        "kodepos": [
+            "38381"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Bengkulu%20Tengah&jobs=Pagar%20Jati",
+            "jumlah": "14"
+        },
+        "pulau": null,
+        "kode": "17.09.05"
+    },
+    {
+        "no": "6",
+        "name": "Pematang Tiga",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Bengkulu%20Tengah&jobs=Pematang%20Tiga",
+        "kodepos": [
+            "38370"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Bengkulu%20Tengah&jobs=Pematang%20Tiga",
+            "jumlah": "13"
+        },
+        "pulau": null,
+        "kode": "17.09.04"
+    },
+    {
+        "no": "7",
+        "name": "Pondok Kelapa",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Bengkulu%20Tengah&jobs=Pondok%20Kelapa",
+        "kodepos": [
+            "38371"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Bengkulu%20Tengah&jobs=Pondok%20Kelapa",
+            "jumlah": "17"
+        },
+        "pulau": null,
+        "kode": "17.09.03"
+    },
+    {
+        "no": "8",
+        "name": "Pondok Kubang",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Bengkulu%20Tengah&jobs=Pondok%20Kubang",
+        "kodepos": [
+            "38375",
+            "38378"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Bengkulu%20Tengah&jobs=Pondok%20Kubang",
+            "jumlah": "12"
+        },
+        "pulau": null,
+        "kode": "17.09.09"
+    },
+    {
+        "no": "9",
+        "name": "Semidang Lagan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Bengkulu%20Tengah&jobs=Semidang%20Lagan",
+        "kodepos": [
+            "38382",
+            "38388"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Bengkulu%20Tengah&jobs=Semidang%20Lagan",
+            "jumlah": "11"
+        },
+        "pulau": null,
+        "kode": "17.09.11"
+    },
+    {
+        "no": "10",
+        "name": "Taba Penanjung",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Bengkulu%20Tengah&jobs=Taba%20Penanjung",
+        "kodepos": [
+            "38388"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Bengkulu%20Tengah&jobs=Taba%20Penanjung",
+            "jumlah": "13"
+        },
+        "pulau": null,
+        "kode": "17.09.06"
+    },
+    {
+        "no": "11",
+        "name": "Talang Empat",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Bengkulu%20Tengah&jobs=Talang%20Empat",
+        "kodepos": [
+            "38385"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Bengkulu%20Tengah&jobs=Talang%20Empat",
+            "jumlah": "10"
+        },
+        "pulau": null,
+        "kode": "17.09.02"
+    }
+]

@@ -1,0 +1,72 @@
+[
+    {
+        "no": "1",
+        "name": "Budong-Budong",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Mamuju%20Tengah&jobs=Budong-Budong",
+        "kodepos": [
+            "91461"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Mamuju%20Tengah&jobs=Budong-Budong",
+            "jumlah": "11"
+        },
+        "pulau": null,
+        "kode": "76.06.03"
+    },
+    {
+        "no": "2",
+        "name": "Karossa",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Mamuju%20Tengah&jobs=Karossa",
+        "kodepos": [
+            "91460"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Mamuju%20Tengah&jobs=Karossa",
+            "jumlah": "11"
+        },
+        "pulau": null,
+        "kode": "76.06.05"
+    },
+    {
+        "no": "3",
+        "name": "Pangale",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Mamuju%20Tengah&jobs=Pangale",
+        "kodepos": [
+            "91462"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Mamuju%20Tengah&jobs=Pangale",
+            "jumlah": "9"
+        },
+        "pulau": null,
+        "kode": "76.06.02"
+    },
+    {
+        "no": "4",
+        "name": "Tobadak",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Mamuju%20Tengah&jobs=Tobadak",
+        "kodepos": [
+            "91463"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Mamuju%20Tengah&jobs=Tobadak",
+            "jumlah": "8"
+        },
+        "pulau": null,
+        "kode": "76.06.01"
+    },
+    {
+        "no": "5",
+        "name": "Topoyo",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Mamuju%20Tengah&jobs=Topoyo",
+        "kodepos": [
+            "91464"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Mamuju%20Tengah&jobs=Topoyo",
+            "jumlah": "15"
+        },
+        "pulau": null,
+        "kode": "76.06.04"
+    }
+]

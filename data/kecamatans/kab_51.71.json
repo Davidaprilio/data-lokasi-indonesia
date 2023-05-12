@@ -1,0 +1,62 @@
+[
+    {
+        "no": "1",
+        "name": "Denpasar Barat",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Denpasar&jobs=Denpasar%20Barat",
+        "kodepos": [
+            "80112",
+            "80119"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Denpasar&jobs=Denpasar%20Barat",
+            "jumlah": "11"
+        },
+        "pulau": null,
+        "kode": "51.71.03"
+    },
+    {
+        "no": "2",
+        "name": "Denpasar Selatan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Denpasar&jobs=Denpasar%20Selatan",
+        "kodepos": [
+            "80221",
+            "80229"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Denpasar&jobs=Denpasar%20Selatan",
+            "jumlah": "10"
+        },
+        "pulau": null,
+        "kode": "51.71.01"
+    },
+    {
+        "no": "3",
+        "name": "Denpasar Timur",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Denpasar&jobs=Denpasar%20Timur",
+        "kodepos": [
+            "80232",
+            "80239"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Denpasar&jobs=Denpasar%20Timur",
+            "jumlah": "11"
+        },
+        "pulau": null,
+        "kode": "51.71.02"
+    },
+    {
+        "no": "4",
+        "name": "Denpasar Utara",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Denpasar&jobs=Denpasar%20Utara",
+        "kodepos": [
+            "80111",
+            "80239"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Denpasar&jobs=Denpasar%20Utara",
+            "jumlah": "11"
+        },
+        "pulau": null,
+        "kode": "51.71.04"
+    }
+]

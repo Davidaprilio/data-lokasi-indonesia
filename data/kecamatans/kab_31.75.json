@@ -1,0 +1,152 @@
+[
+    {
+        "no": "1",
+        "name": "Cakung",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Jakarta%20Timur&jobs=Cakung",
+        "kodepos": [
+            "13910",
+            "13960"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Jakarta%20Timur&jobs=Cakung",
+            "jumlah": "7"
+        },
+        "pulau": null,
+        "kode": "31.75.06"
+    },
+    {
+        "no": "2",
+        "name": "Cipayung",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Jakarta%20Timur&jobs=Cipayung",
+        "kodepos": [
+            "13840",
+            "13890"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Jakarta%20Timur&jobs=Cipayung",
+            "jumlah": "8"
+        },
+        "pulau": null,
+        "kode": "31.75.10"
+    },
+    {
+        "no": "3",
+        "name": "Ciracas",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Jakarta%20Timur&jobs=Ciracas",
+        "kodepos": [
+            "13720",
+            "13830"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Jakarta%20Timur&jobs=Ciracas",
+            "jumlah": "5"
+        },
+        "pulau": null,
+        "kode": "31.75.09"
+    },
+    {
+        "no": "4",
+        "name": "Duren Sawit",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Jakarta%20Timur&jobs=Duren%20Sawit",
+        "kodepos": [
+            "13430",
+            "13470"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Jakarta%20Timur&jobs=Duren%20Sawit",
+            "jumlah": "7"
+        },
+        "pulau": null,
+        "kode": "31.75.07"
+    },
+    {
+        "no": "5",
+        "name": "Jatinegara",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Jakarta%20Timur&jobs=Jatinegara",
+        "kodepos": [
+            "13310",
+            "13420"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Jakarta%20Timur&jobs=Jatinegara",
+            "jumlah": "8"
+        },
+        "pulau": null,
+        "kode": "31.75.03"
+    },
+    {
+        "no": "6",
+        "name": "Kramatjati (Kramat Jati)",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Jakarta%20Timur&jobs=Kramatjati%20(Kramat%20Jati)",
+        "kodepos": [
+            "13510",
+            "13640"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Jakarta%20Timur&jobs=Kramatjati%20(Kramat%20Jati)",
+            "jumlah": "7"
+        },
+        "pulau": null,
+        "kode": "31.75.04"
+    },
+    {
+        "no": "7",
+        "name": "Makasar",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Jakarta%20Timur&jobs=Makasar",
+        "kodepos": [
+            "13560",
+            "13650"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Jakarta%20Timur&jobs=Makasar",
+            "jumlah": "5"
+        },
+        "pulau": null,
+        "kode": "31.75.08"
+    },
+    {
+        "no": "8",
+        "name": "Matraman",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Jakarta%20Timur&jobs=Matraman",
+        "kodepos": [
+            "13110",
+            "13150"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Jakarta%20Timur&jobs=Matraman",
+            "jumlah": "6"
+        },
+        "pulau": null,
+        "kode": "31.75.01"
+    },
+    {
+        "no": "9",
+        "name": "Pasar Rebo",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Jakarta%20Timur&jobs=Pasar%20Rebo",
+        "kodepos": [
+            "13710",
+            "13790"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Jakarta%20Timur&jobs=Pasar%20Rebo",
+            "jumlah": "5"
+        },
+        "pulau": null,
+        "kode": "31.75.05"
+    },
+    {
+        "no": "10",
+        "name": "Pulogadung (Pulo Gadung)",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Jakarta%20Timur&jobs=Pulogadung%20(Pulo%20Gadung)",
+        "kodepos": [
+            "13210",
+            "13260"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Jakarta%20Timur&jobs=Pulogadung%20(Pulo%20Gadung)",
+            "jumlah": "7"
+        },
+        "pulau": null,
+        "kode": "31.75.02"
+    }
+]

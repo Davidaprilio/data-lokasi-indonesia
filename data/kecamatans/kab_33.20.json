@@ -1,0 +1,237 @@
+[
+    {
+        "no": "1",
+        "name": "Bangsri",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Jepara&jobs=Bangsri",
+        "kodepos": [
+            "59453"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Jepara&jobs=Bangsri",
+            "jumlah": "12"
+        },
+        "pulau": null,
+        "kode": "33.20.08"
+    },
+    {
+        "no": "2",
+        "name": "Batealit",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Jepara&jobs=Batealit",
+        "kodepos": [
+            "59461"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Jepara&jobs=Batealit",
+            "jumlah": "11"
+        },
+        "pulau": null,
+        "kode": "33.20.05"
+    },
+    {
+        "no": "3",
+        "name": "Donorojo",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Jepara&jobs=Donorojo",
+        "kodepos": [
+            "59454"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Jepara&jobs=Donorojo",
+            "jumlah": "8"
+        },
+        "pulau": null,
+        "kode": "33.20.16"
+    },
+    {
+        "no": "4",
+        "name": "Jepara",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Jepara&jobs=Jepara",
+        "kodepos": [
+            "59411",
+            "59432"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Jepara&jobs=Jepara",
+            "jumlah": "16"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Jepara&jobs=Jepara",
+            "jumlah": "1"
+        },
+        "kode": "33.20.06"
+    },
+    {
+        "no": "5",
+        "name": "Kalinyamatan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Jepara&jobs=Kalinyamatan",
+        "kodepos": [
+            "59462"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Jepara&jobs=Kalinyamatan",
+            "jumlah": "12"
+        },
+        "pulau": null,
+        "kode": "33.20.13"
+    },
+    {
+        "no": "6",
+        "name": "Karimun Jawa (Karimunjawa)",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Jepara&jobs=Karimun%20Jawa%20(Karimunjawa)",
+        "kodepos": [
+            "59455"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Jepara&jobs=Karimun%20Jawa%20(Karimunjawa)",
+            "jumlah": "4"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Jepara&jobs=Karimun%20Jawa%20(Karimunjawa)",
+            "jumlah": "26"
+        },
+        "kode": "33.20.10"
+    },
+    {
+        "no": "7",
+        "name": "Kedung",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Jepara&jobs=Kedung",
+        "kodepos": [
+            "59463"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Jepara&jobs=Kedung",
+            "jumlah": "18"
+        },
+        "pulau": null,
+        "kode": "33.20.01"
+    },
+    {
+        "no": "8",
+        "name": "Keling",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Jepara&jobs=Keling",
+        "kodepos": [
+            "59456"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Jepara&jobs=Keling",
+            "jumlah": "12"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Jepara&jobs=Keling",
+            "jumlah": "2"
+        },
+        "kode": "33.20.09"
+    },
+    {
+        "no": "9",
+        "name": "Kembang",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Jepara&jobs=Kembang",
+        "kodepos": [
+            "59457"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Jepara&jobs=Kembang",
+            "jumlah": "11"
+        },
+        "pulau": null,
+        "kode": "33.20.14"
+    },
+    {
+        "no": "10",
+        "name": "Mayong",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Jepara&jobs=Mayong",
+        "kodepos": [
+            "59465"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Jepara&jobs=Mayong",
+            "jumlah": "18"
+        },
+        "pulau": null,
+        "kode": "33.20.04"
+    },
+    {
+        "no": "11",
+        "name": "Mlonggo",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Jepara&jobs=Mlonggo",
+        "kodepos": [
+            "59452"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Jepara&jobs=Mlonggo",
+            "jumlah": "8"
+        },
+        "pulau": null,
+        "kode": "33.20.07"
+    },
+    {
+        "no": "12",
+        "name": "Nalumsari",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Jepara&jobs=Nalumsari",
+        "kodepos": [
+            "59466"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Jepara&jobs=Nalumsari",
+            "jumlah": "15"
+        },
+        "pulau": null,
+        "kode": "33.20.12"
+    },
+    {
+        "no": "13",
+        "name": "Pakis Aji",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Jepara&jobs=Pakis%20Aji",
+        "kodepos": [
+            "59450"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Jepara&jobs=Pakis%20Aji",
+            "jumlah": "8"
+        },
+        "pulau": null,
+        "kode": "33.20.15"
+    },
+    {
+        "no": "14",
+        "name": "Pecangaan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Jepara&jobs=Pecangaan",
+        "kodepos": [
+            "59460"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Jepara&jobs=Pecangaan",
+            "jumlah": "12"
+        },
+        "pulau": null,
+        "kode": "33.20.02"
+    },
+    {
+        "no": "15",
+        "name": "Tahunan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Jepara&jobs=Tahunan",
+        "kodepos": [
+            "59421",
+            "59451"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Jepara&jobs=Tahunan",
+            "jumlah": "15"
+        },
+        "pulau": null,
+        "kode": "33.20.11"
+    },
+    {
+        "no": "16",
+        "name": "Welahan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Jepara&jobs=Welahan",
+        "kodepos": [
+            "59464"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Jepara&jobs=Welahan",
+            "jumlah": "15"
+        },
+        "pulau": null,
+        "kode": "33.20.03"
+    }
+]

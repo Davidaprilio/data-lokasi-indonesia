@@ -1,0 +1,291 @@
+[
+    {
+        "no": "1",
+        "name": "Air Naningan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tanggamus&jobs=Air%20Naningan",
+        "kodepos": [
+            "35679"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tanggamus&jobs=Air%20Naningan",
+            "jumlah": "10"
+        },
+        "pulau": null,
+        "kode": "18.06.26"
+    },
+    {
+        "no": "2",
+        "name": "Bandar Negeri Semuong",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tanggamus&jobs=Bandar%20Negeri%20Semuong",
+        "kodepos": [
+            "35686"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tanggamus&jobs=Bandar%20Negeri%20Semuong",
+            "jumlah": "11"
+        },
+        "pulau": null,
+        "kode": "18.06.25"
+    },
+    {
+        "no": "3",
+        "name": "Bulok",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tanggamus&jobs=Bulok",
+        "kodepos": [
+            "35682"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tanggamus&jobs=Bulok",
+            "jumlah": "10"
+        },
+        "pulau": null,
+        "kode": "18.06.27"
+    },
+    {
+        "no": "4",
+        "name": "Cukuh Balak",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tanggamus&jobs=Cukuh%20Balak",
+        "kodepos": [
+            "35683"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tanggamus&jobs=Cukuh%20Balak",
+            "jumlah": "20"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tanggamus&jobs=Cukuh%20Balak",
+            "jumlah": "4"
+        },
+        "kode": "18.06.09"
+    },
+    {
+        "no": "5",
+        "name": "Gisting",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tanggamus&jobs=Gisting",
+        "kodepos": [
+            "35378"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tanggamus&jobs=Gisting",
+            "jumlah": "9"
+        },
+        "pulau": null,
+        "kode": "18.06.20"
+    },
+    {
+        "no": "6",
+        "name": "Gunung Alip",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tanggamus&jobs=Gunung%20Alip",
+        "kodepos": [
+            "35379"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tanggamus&jobs=Gunung%20Alip",
+            "jumlah": "12"
+        },
+        "pulau": null,
+        "kode": "18.06.21"
+    },
+    {
+        "no": "7",
+        "name": "Klumbayan (Kelumbayan)",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tanggamus&jobs=Klumbayan%20(Kelumbayan)",
+        "kodepos": [
+            "35388"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tanggamus&jobs=Klumbayan%20(Kelumbayan)",
+            "jumlah": "8"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tanggamus&jobs=Klumbayan%20(Kelumbayan)",
+            "jumlah": "24"
+        },
+        "kode": "18.06.17"
+    },
+    {
+        "no": "8",
+        "name": "Klumbayan Barat (Kelumbayan Barat)",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tanggamus&jobs=Klumbayan%20Barat%20(Kelumbayan%20Barat)",
+        "kodepos": [
+            "35389"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tanggamus&jobs=Klumbayan%20Barat%20(Kelumbayan%20Barat)",
+            "jumlah": "6"
+        },
+        "pulau": null,
+        "kode": "18.06.28"
+    },
+    {
+        "no": "9",
+        "name": "Kota Agung (Kota Agung Pusat)",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tanggamus&jobs=Kota%20Agung%20(Kota%20Agung%20Pusat)",
+        "kodepos": [
+            "35381"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tanggamus&jobs=Kota%20Agung%20(Kota%20Agung%20Pusat)",
+            "jumlah": "16"
+        },
+        "pulau": null,
+        "kode": "18.06.01"
+    },
+    {
+        "no": "10",
+        "name": "Kota Agung Barat",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tanggamus&jobs=Kota%20Agung%20Barat",
+        "kodepos": [
+            "35384"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tanggamus&jobs=Kota%20Agung%20Barat",
+            "jumlah": "16"
+        },
+        "pulau": null,
+        "kode": "18.06.18"
+    },
+    {
+        "no": "11",
+        "name": "Kota Agung Timur",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tanggamus&jobs=Kota%20Agung%20Timur",
+        "kodepos": [
+            "35383"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tanggamus&jobs=Kota%20Agung%20Timur",
+            "jumlah": "12"
+        },
+        "pulau": null,
+        "kode": "18.06.19"
+    },
+    {
+        "no": "12",
+        "name": "Limau",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tanggamus&jobs=Limau",
+        "kodepos": [
+            "35613"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tanggamus&jobs=Limau",
+            "jumlah": "11"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tanggamus&jobs=Limau",
+            "jumlah": "1"
+        },
+        "kode": "18.06.24"
+    },
+    {
+        "no": "13",
+        "name": "Pematang Sawa",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tanggamus&jobs=Pematang%20Sawa",
+        "kodepos": [
+            "35382"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tanggamus&jobs=Pematang%20Sawa",
+            "jumlah": "14"
+        },
+        "pulau": null,
+        "kode": "18.06.16"
+    },
+    {
+        "no": "14",
+        "name": "Pugung",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tanggamus&jobs=Pugung",
+        "kodepos": [
+            "35675"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tanggamus&jobs=Pugung",
+            "jumlah": "27"
+        },
+        "pulau": null,
+        "kode": "18.06.11"
+    },
+    {
+        "no": "15",
+        "name": "Pulau Panggung",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tanggamus&jobs=Pulau%20Panggung",
+        "kodepos": [
+            "35678"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tanggamus&jobs=Pulau%20Panggung",
+            "jumlah": "21"
+        },
+        "pulau": null,
+        "kode": "18.06.04"
+    },
+    {
+        "no": "16",
+        "name": "Semaka",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tanggamus&jobs=Semaka",
+        "kodepos": [
+            "35386"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tanggamus&jobs=Semaka",
+            "jumlah": "22"
+        },
+        "pulau": null,
+        "kode": "18.06.12"
+    },
+    {
+        "no": "17",
+        "name": "Sumber Rejo (Sumberejo)",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tanggamus&jobs=Sumber%20Rejo%20(Sumberejo)",
+        "kodepos": [
+            "35374"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tanggamus&jobs=Sumber%20Rejo%20(Sumberejo)",
+            "jumlah": "13"
+        },
+        "pulau": null,
+        "kode": "18.06.13"
+    },
+    {
+        "no": "18",
+        "name": "Talang Padang",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tanggamus&jobs=Talang%20Padang",
+        "kodepos": [
+            "35377"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tanggamus&jobs=Talang%20Padang",
+            "jumlah": "20"
+        },
+        "pulau": null,
+        "kode": "18.06.02"
+    },
+    {
+        "no": "19",
+        "name": "Ulu Belu (Ulubelu)",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tanggamus&jobs=Ulu%20Belu%20(Ulubelu)",
+        "kodepos": [
+            "35387"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tanggamus&jobs=Ulu%20Belu%20(Ulubelu)",
+            "jumlah": "16"
+        },
+        "pulau": null,
+        "kode": "18.06.15"
+    },
+    {
+        "no": "20",
+        "name": "Wonosobo",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tanggamus&jobs=Wonosobo",
+        "kodepos": [
+            "35685"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tanggamus&jobs=Wonosobo",
+            "jumlah": "28"
+        },
+        "pulau": null,
+        "kode": "18.06.03"
+    }
+]

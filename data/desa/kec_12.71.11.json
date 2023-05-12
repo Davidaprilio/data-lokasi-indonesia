@@ -1,0 +1,44 @@
+[
+    {
+        "no": "1",
+        "kodepos": "20144",
+        "name": "Gedung Johor",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Medan%20Johor-Kota-Medan&jobs=Gedung%20Johor",
+        "kode": "12.71.11.1005"
+    },
+    {
+        "no": "2",
+        "kodepos": "20145",
+        "name": "Kedai Durian",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Medan%20Johor-Kota-Medan&jobs=Kedai%20Durian",
+        "kode": "12.71.11.1003"
+    },
+    {
+        "no": "3",
+        "kodepos": "20142",
+        "name": "Kwala Bekala",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Medan%20Johor-Kota-Medan&jobs=Kwala%20Bekala",
+        "kode": "12.71.11.1006"
+    },
+    {
+        "no": "4",
+        "kodepos": "20143",
+        "name": "Pangkalan Mansur (Pangkalan Masyhur)",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Medan%20Johor-Kota-Medan&jobs=Pangkalan%20Mansur%20(Pangkalan%20Masyhur)",
+        "kode": "12.71.11.1004"
+    },
+    {
+        "no": "5",
+        "kodepos": "20146",
+        "name": "Suka Maju",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Medan%20Johor-Kota-Medan&jobs=Suka%20Maju",
+        "kode": "12.71.11.1001"
+    },
+    {
+        "no": "6",
+        "kodepos": "20146",
+        "name": "Titi Kuning",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Medan%20Johor-Kota-Medan&jobs=Titi%20Kuning",
+        "kode": "12.71.11.1002"
+    }
+]

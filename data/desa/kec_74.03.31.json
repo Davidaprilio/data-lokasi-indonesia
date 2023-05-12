@@ -1,0 +1,37 @@
+[
+    {
+        "no": "1",
+        "kodepos": "93666",
+        "name": "Marobo",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Marobo-Kab.-Muna&jobs=Marobo",
+        "kode": "74.03.31.2001"
+    },
+    {
+        "no": "2",
+        "kodepos": "93666",
+        "name": "Pasikuta",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Marobo-Kab.-Muna&jobs=Pasikuta",
+        "kode": "74.03.31.2003"
+    },
+    {
+        "no": "3",
+        "kodepos": "93666",
+        "name": "Poaroha",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Marobo-Kab.-Muna&jobs=Poaroha",
+        "kode": "74.03.31.2005"
+    },
+    {
+        "no": "4",
+        "kodepos": "93666",
+        "name": "Tapitapi",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Marobo-Kab.-Muna&jobs=Tapitapi",
+        "kode": "74.03.31.2004"
+    },
+    {
+        "no": "5",
+        "kodepos": "93666",
+        "name": "Wadolao / Wadolau",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Marobo-Kab.-Muna&jobs=Wadolao%20/%20Wadolau",
+        "kode": "74.03.31.2002"
+    }
+]

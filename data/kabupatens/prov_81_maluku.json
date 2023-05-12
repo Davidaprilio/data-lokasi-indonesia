@@ -1,0 +1,252 @@
+[
+    {
+        "no": "1",
+        "type": "Kota",
+        "name": "Ambon",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kota&jobs=Ambon",
+        "kodepos": [
+            "97114",
+            "97237"
+        ],
+        "kecamatan": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kota&jobs=Ambon",
+            "jumlah": "5"
+        },
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kota&jobs=Ambon",
+            "jumlah": "50"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kota&jobs=Ambon",
+            "jumlah": "1"
+        },
+        "kode": "81.71"
+    },
+    {
+        "no": "2",
+        "type": "Kabupaten",
+        "name": "Buru",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Buru",
+        "kodepos": [
+            "97570",
+            "97579"
+        ],
+        "kecamatan": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Buru",
+            "jumlah": "10"
+        },
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kab.&jobs=Buru",
+            "jumlah": "82"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kab.&jobs=Buru",
+            "jumlah": "3"
+        },
+        "kode": "81.04"
+    },
+    {
+        "no": "3",
+        "type": "Kabupaten",
+        "name": "Buru Selatan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Buru%20Selatan",
+        "kodepos": [
+            "97541",
+            "97546"
+        ],
+        "kecamatan": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Buru%20Selatan",
+            "jumlah": "6"
+        },
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kab.&jobs=Buru%20Selatan",
+            "jumlah": "79"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kab.&jobs=Buru%20Selatan",
+            "jumlah": "26"
+        },
+        "kode": "81.09"
+    },
+    {
+        "no": "4",
+        "type": "Kabupaten",
+        "name": "Kepulauan Aru",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Kepulauan%20Aru",
+        "kodepos": [
+            "97660",
+            "97669"
+        ],
+        "kecamatan": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Kepulauan%20Aru",
+            "jumlah": "10"
+        },
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kab.&jobs=Kepulauan%20Aru",
+            "jumlah": "119"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kab.&jobs=Kepulauan%20Aru",
+            "jumlah": "661"
+        },
+        "kode": "81.07"
+    },
+    {
+        "no": "5",
+        "type": "Kabupaten",
+        "name": "Kepulauan Tanimbar (Maluku Tenggara Barat)",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Kepulauan%20Tanimbar%20(Maluku%20Tenggara%20Barat)",
+        "kodepos": [
+            "97461",
+            "97481"
+        ],
+        "kecamatan": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Kepulauan%20Tanimbar%20(Maluku%20Tenggara%20Barat)",
+            "jumlah": "10"
+        },
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kab.&jobs=Kepulauan%20Tanimbar%20(Maluku%20Tenggara%20Barat)",
+            "jumlah": "82"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kab.&jobs=Kepulauan%20Tanimbar%20(Maluku%20Tenggara%20Barat)",
+            "jumlah": "270"
+        },
+        "kode": "81.03"
+    },
+    {
+        "no": "6",
+        "type": "Kabupaten",
+        "name": "Maluku Barat Daya",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Maluku%20Barat%20Daya",
+        "kodepos": [
+            "97128",
+            "97654"
+        ],
+        "kecamatan": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Maluku%20Barat%20Daya",
+            "jumlah": "17"
+        },
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kab.&jobs=Maluku%20Barat%20Daya",
+            "jumlah": "118"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kab.&jobs=Maluku%20Barat%20Daya",
+            "jumlah": "54"
+        },
+        "kode": "81.08"
+    },
+    {
+        "no": "7",
+        "type": "Kabupaten",
+        "name": "Maluku Tengah",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Maluku%20Tengah",
+        "kodepos": [
+            "97510",
+            "97586"
+        ],
+        "kecamatan": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Maluku%20Tengah",
+            "jumlah": "18"
+        },
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kab.&jobs=Maluku%20Tengah",
+            "jumlah": "192"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kab.&jobs=Maluku%20Tengah",
+            "jumlah": "43"
+        },
+        "kode": "81.01"
+    },
+    {
+        "no": "8",
+        "type": "Kabupaten",
+        "name": "Maluku Tenggara",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Maluku%20Tenggara",
+        "kodepos": [
+            "97621",
+            "97635"
+        ],
+        "kecamatan": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Maluku%20Tenggara",
+            "jumlah": "11"
+        },
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kab.&jobs=Maluku%20Tenggara",
+            "jumlah": "191"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kab.&jobs=Maluku%20Tenggara",
+            "jumlah": "137"
+        },
+        "kode": "81.02"
+    },
+    {
+        "no": "9",
+        "type": "Kabupaten",
+        "name": "Seram Bagian Barat",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Seram%20Bagian%20Barat",
+        "kodepos": [
+            "97559",
+            "97569"
+        ],
+        "kecamatan": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Seram%20Bagian%20Barat",
+            "jumlah": "11"
+        },
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kab.&jobs=Seram%20Bagian%20Barat",
+            "jumlah": "92"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kab.&jobs=Seram%20Bagian%20Barat",
+            "jumlah": "53"
+        },
+        "kode": "81.06"
+    },
+    {
+        "no": "10",
+        "type": "Kabupaten",
+        "name": "Seram Bagian Timur",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Seram%20Bagian%20Timur",
+        "kodepos": [
+            "97521",
+            "97599"
+        ],
+        "kecamatan": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Seram%20Bagian%20Timur",
+            "jumlah": "15"
+        },
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kab.&jobs=Seram%20Bagian%20Timur",
+            "jumlah": "198"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kab.&jobs=Seram%20Bagian%20Timur",
+            "jumlah": "53"
+        },
+        "kode": "81.05"
+    },
+    {
+        "no": "11",
+        "type": "Kota",
+        "name": "Tual",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kota&jobs=Tual",
+        "kodepos": [
+            "97611",
+            "97615"
+        ],
+        "kecamatan": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kota&jobs=Tual",
+            "jumlah": "5"
+        },
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kota&jobs=Tual",
+            "jumlah": "30"
+        },
+        "pulau": null,
+        "kode": "81.72"
+    }
+]

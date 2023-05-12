@@ -1,0 +1,646 @@
+[
+    {
+        "no": "1",
+        "name": "Airgaram",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tolikara&jobs=Airgaram",
+        "kodepos": [
+            "99021"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tolikara&jobs=Airgaram",
+            "jumlah": "8"
+        },
+        "pulau": null,
+        "kode": "95.04.29"
+    },
+    {
+        "no": "2",
+        "name": "Anawi",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tolikara&jobs=Anawi",
+        "kodepos": [
+            "99022"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tolikara&jobs=Anawi",
+            "jumlah": "10"
+        },
+        "pulau": null,
+        "kode": "95.04.37"
+    },
+    {
+        "no": "3",
+        "name": "Aweku",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tolikara&jobs=Aweku",
+        "kodepos": [
+            "99041"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tolikara&jobs=Aweku",
+            "jumlah": "10"
+        },
+        "pulau": null,
+        "kode": "95.04.43"
+    },
+    {
+        "no": "4",
+        "name": "Bewani",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tolikara&jobs=Bewani",
+        "kodepos": [
+            "99011"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tolikara&jobs=Bewani",
+            "jumlah": "14"
+        },
+        "pulau": null,
+        "kode": "95.04.16"
+    },
+    {
+        "no": "5",
+        "name": "Biuk",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tolikara&jobs=Biuk",
+        "kodepos": [
+            "99023"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tolikara&jobs=Biuk",
+            "jumlah": "11"
+        },
+        "pulau": null,
+        "kode": "95.04.46"
+    },
+    {
+        "no": "6",
+        "name": "Bogonuk",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tolikara&jobs=Bogonuk",
+        "kodepos": [
+            "99042"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tolikara&jobs=Bogonuk",
+            "jumlah": "10"
+        },
+        "pulau": null,
+        "kode": "95.04.44"
+    },
+    {
+        "no": "7",
+        "name": "Bokondini",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tolikara&jobs=Bokondini",
+        "kodepos": [
+            "99012"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tolikara&jobs=Bokondini",
+            "jumlah": "11"
+        },
+        "pulau": null,
+        "kode": "95.04.02"
+    },
+    {
+        "no": "8",
+        "name": "Bokoneri",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tolikara&jobs=Bokoneri",
+        "kodepos": [
+            "99013"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tolikara&jobs=Bokoneri",
+            "jumlah": "17"
+        },
+        "pulau": null,
+        "kode": "95.04.15"
+    },
+    {
+        "no": "9",
+        "name": "Danime",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tolikara&jobs=Danime",
+        "kodepos": [
+            "99014"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tolikara&jobs=Danime",
+            "jumlah": "10"
+        },
+        "pulau": null,
+        "kode": "95.04.40"
+    },
+    {
+        "no": "10",
+        "name": "Dow",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tolikara&jobs=Dow",
+        "kodepos": [
+            "99051"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tolikara&jobs=Dow",
+            "jumlah": "11"
+        },
+        "pulau": null,
+        "kode": "95.04.31"
+    },
+    {
+        "no": "11",
+        "name": "Dundu (Ndundu)",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tolikara&jobs=Dundu%20(Ndundu)",
+        "kodepos": [
+            "99052"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tolikara&jobs=Dundu%20(Ndundu)",
+            "jumlah": "10"
+        },
+        "pulau": null,
+        "kode": "95.04.24"
+    },
+    {
+        "no": "12",
+        "name": "Egiam",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tolikara&jobs=Egiam",
+        "kodepos": [
+            "99053"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tolikara&jobs=Egiam",
+            "jumlah": "10"
+        },
+        "pulau": null,
+        "kode": "95.04.26"
+    },
+    {
+        "no": "13",
+        "name": "Geya",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tolikara&jobs=Geya",
+        "kodepos": [
+            "99024"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tolikara&jobs=Geya",
+            "jumlah": "12"
+        },
+        "pulau": null,
+        "kode": "95.04.25"
+    },
+    {
+        "no": "14",
+        "name": "Gika",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tolikara&jobs=Gika",
+        "kodepos": [
+            "99054"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tolikara&jobs=Gika",
+            "jumlah": "10"
+        },
+        "pulau": null,
+        "kode": "95.04.35"
+    },
+    {
+        "no": "15",
+        "name": "Gilubandu (Gilumbandu/Gilimbandu)",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tolikara&jobs=Gilubandu%20(Gilumbandu/Gilimbandu)",
+        "kodepos": [
+            "99043"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tolikara&jobs=Gilubandu%20(Gilumbandu/Gilimbandu)",
+            "jumlah": "10"
+        },
+        "pulau": null,
+        "kode": "95.04.19"
+    },
+    {
+        "no": "16",
+        "name": "Goyage",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tolikara&jobs=Goyage",
+        "kodepos": [
+            "99025"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tolikara&jobs=Goyage",
+            "jumlah": "19"
+        },
+        "pulau": null,
+        "kode": "95.04.05"
+    },
+    {
+        "no": "17",
+        "name": "Gundagi (Gudage)",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tolikara&jobs=Gundagi%20(Gudage)",
+        "kodepos": [
+            "99055"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tolikara&jobs=Gundagi%20(Gudage)",
+            "jumlah": "17"
+        },
+        "pulau": null,
+        "kode": "95.04.21"
+    },
+    {
+        "no": "18",
+        "name": "Kai",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tolikara&jobs=Kai",
+        "kodepos": [
+            "99026"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tolikara&jobs=Kai",
+            "jumlah": "10"
+        },
+        "pulau": null,
+        "kode": "95.04.42"
+    },
+    {
+        "no": "19",
+        "name": "Kamboneri",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tolikara&jobs=Kamboneri",
+        "kodepos": [
+            "99015"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tolikara&jobs=Kamboneri",
+            "jumlah": "8"
+        },
+        "pulau": null,
+        "kode": "95.04.28"
+    },
+    {
+        "no": "20",
+        "name": "Kanggime (Kanggima )",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tolikara&jobs=Kanggime%20(Kanggima%20)",
+        "kodepos": [
+            "99044"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tolikara&jobs=Kanggime%20(Kanggima%20)",
+            "jumlah": "10"
+        },
+        "pulau": null,
+        "kode": "95.04.03"
+    },
+    {
+        "no": "21",
+        "name": "Karubaga",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tolikara&jobs=Karubaga",
+        "kodepos": [
+            "99027"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tolikara&jobs=Karubaga",
+            "jumlah": "23"
+        },
+        "pulau": null,
+        "kode": "95.04.01"
+    },
+    {
+        "no": "22",
+        "name": "Kembu",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tolikara&jobs=Kembu",
+        "kodepos": [
+            "99056"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tolikara&jobs=Kembu",
+            "jumlah": "11"
+        },
+        "pulau": null,
+        "kode": "95.04.04"
+    },
+    {
+        "no": "23",
+        "name": "Kondaga (Konda)",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tolikara&jobs=Kondaga%20(Konda)",
+        "kodepos": [
+            "99028"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tolikara&jobs=Kondaga%20(Konda)",
+            "jumlah": "11"
+        },
+        "pulau": null,
+        "kode": "95.04.12"
+    },
+    {
+        "no": "24",
+        "name": "Kuari",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tolikara&jobs=Kuari",
+        "kodepos": [
+            "99029"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tolikara&jobs=Kuari",
+            "jumlah": "17"
+        },
+        "pulau": null,
+        "kode": "95.04.14"
+    },
+    {
+        "no": "25",
+        "name": "Kubu",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tolikara&jobs=Kubu",
+        "kodepos": [
+            "99030"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tolikara&jobs=Kubu",
+            "jumlah": "9"
+        },
+        "pulau": null,
+        "kode": "95.04.11"
+    },
+    {
+        "no": "26",
+        "name": "Li Anogomma",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tolikara&jobs=Li%20Anogomma",
+        "kodepos": [
+            "99031"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tolikara&jobs=Li%20Anogomma",
+            "jumlah": "10"
+        },
+        "pulau": null,
+        "kode": "95.04.45"
+    },
+    {
+        "no": "27",
+        "name": "Nabunage",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tolikara&jobs=Nabunage",
+        "kodepos": [
+            "99045"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tolikara&jobs=Nabunage",
+            "jumlah": "11"
+        },
+        "pulau": null,
+        "kode": "95.04.18"
+    },
+    {
+        "no": "28",
+        "name": "Nelawi",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tolikara&jobs=Nelawi",
+        "kodepos": [
+            "99032"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tolikara&jobs=Nelawi",
+            "jumlah": "12"
+        },
+        "pulau": null,
+        "kode": "95.04.13"
+    },
+    {
+        "no": "29",
+        "name": "Numba",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tolikara&jobs=Numba",
+        "kodepos": [
+            "99033"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tolikara&jobs=Numba",
+            "jumlah": "10"
+        },
+        "pulau": null,
+        "kode": "95.04.22"
+    },
+    {
+        "no": "30",
+        "name": "Nunggawi (Munggawi)",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tolikara&jobs=Nunggawi%20(Munggawi)",
+        "kodepos": [
+            "99046"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tolikara&jobs=Nunggawi%20(Munggawi)",
+            "jumlah": "26"
+        },
+        "pulau": null,
+        "kode": "95.04.20"
+    },
+    {
+        "no": "31",
+        "name": "Panaga",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tolikara&jobs=Panaga",
+        "kodepos": [
+            "99057"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tolikara&jobs=Panaga",
+            "jumlah": "9"
+        },
+        "pulau": null,
+        "kode": "95.04.09"
+    },
+    {
+        "no": "32",
+        "name": "Poganeri",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tolikara&jobs=Poganeri",
+        "kodepos": [
+            "99058"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tolikara&jobs=Poganeri",
+            "jumlah": "10"
+        },
+        "pulau": null,
+        "kode": "95.04.27"
+    },
+    {
+        "no": "33",
+        "name": "Tagime",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tolikara&jobs=Tagime",
+        "kodepos": [
+            "99016"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tolikara&jobs=Tagime",
+            "jumlah": "10"
+        },
+        "pulau": null,
+        "kode": "95.04.41"
+    },
+    {
+        "no": "34",
+        "name": "Tagineri",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tolikara&jobs=Tagineri",
+        "kodepos": [
+            "99017"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tolikara&jobs=Tagineri",
+            "jumlah": "10"
+        },
+        "pulau": null,
+        "kode": "95.04.32"
+    },
+    {
+        "no": "35",
+        "name": "Telenggeme",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tolikara&jobs=Telenggeme",
+        "kodepos": [
+            "99059"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tolikara&jobs=Telenggeme",
+            "jumlah": "10"
+        },
+        "pulau": null,
+        "kode": "95.04.36"
+    },
+    {
+        "no": "36",
+        "name": "Timori",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tolikara&jobs=Timori",
+        "kodepos": [
+            "99060"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tolikara&jobs=Timori",
+            "jumlah": "12"
+        },
+        "pulau": null,
+        "kode": "95.04.23"
+    },
+    {
+        "no": "37",
+        "name": "Umagi",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tolikara&jobs=Umagi",
+        "kodepos": [
+            "99061"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tolikara&jobs=Umagi",
+            "jumlah": "12"
+        },
+        "pulau": null,
+        "kode": "95.04.08"
+    },
+    {
+        "no": "38",
+        "name": "Wakuwo",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tolikara&jobs=Wakuwo",
+        "kodepos": [
+            "99047"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tolikara&jobs=Wakuwo",
+            "jumlah": "12"
+        },
+        "pulau": null,
+        "kode": "95.04.34"
+    },
+    {
+        "no": "39",
+        "name": "Wari/Taiyeve II",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tolikara&jobs=Wari/Taiyeve%20II",
+        "kodepos": [
+            "99062"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tolikara&jobs=Wari/Taiyeve%20II",
+            "jumlah": "17"
+        },
+        "pulau": null,
+        "kode": "95.04.30"
+    },
+    {
+        "no": "40",
+        "name": "Wenam",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tolikara&jobs=Wenam",
+        "kodepos": [
+            "99034"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tolikara&jobs=Wenam",
+            "jumlah": "10"
+        },
+        "pulau": null,
+        "kode": "95.04.38"
+    },
+    {
+        "no": "41",
+        "name": "Wina",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tolikara&jobs=Wina",
+        "kodepos": [
+            "99063"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tolikara&jobs=Wina",
+            "jumlah": "13"
+        },
+        "pulau": null,
+        "kode": "95.04.07"
+    },
+    {
+        "no": "42",
+        "name": "Wonoki (Woniki)",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tolikara&jobs=Wonoki%20(Woniki)",
+        "kodepos": [
+            "99048"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tolikara&jobs=Wonoki%20(Woniki)",
+            "jumlah": "10"
+        },
+        "pulau": null,
+        "kode": "95.04.10"
+    },
+    {
+        "no": "43",
+        "name": "Wugi",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tolikara&jobs=Wugi",
+        "kodepos": [
+            "99035"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tolikara&jobs=Wugi",
+            "jumlah": "11"
+        },
+        "pulau": null,
+        "kode": "95.04.39"
+    },
+    {
+        "no": "44",
+        "name": "Wunim (Wunin / Wumin)",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tolikara&jobs=Wunim%20(Wunin%20/%20Wumin)",
+        "kodepos": [
+            "99036"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tolikara&jobs=Wunim%20(Wunin%20/%20Wumin)",
+            "jumlah": "9"
+        },
+        "pulau": null,
+        "kode": "95.04.06"
+    },
+    {
+        "no": "45",
+        "name": "Yuko",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tolikara&jobs=Yuko",
+        "kodepos": [
+            "99064"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tolikara&jobs=Yuko",
+            "jumlah": "11"
+        },
+        "pulau": null,
+        "kode": "95.04.47"
+    },
+    {
+        "no": "46",
+        "name": "Yuneri",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tolikara&jobs=Yuneri",
+        "kodepos": [
+            "99037"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tolikara&jobs=Yuneri",
+            "jumlah": "11"
+        },
+        "pulau": null,
+        "kode": "95.04.33"
+    }
+]

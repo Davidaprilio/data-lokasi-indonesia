@@ -1,0 +1,244 @@
+[
+    {
+        "no": "1",
+        "name": "Berbah",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Sleman&jobs=Berbah",
+        "kodepos": [
+            "55573"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Sleman&jobs=Berbah",
+            "jumlah": "4"
+        },
+        "pulau": null,
+        "kode": "34.04.08"
+    },
+    {
+        "no": "2",
+        "name": "Cangkringan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Sleman&jobs=Cangkringan",
+        "kodepos": [
+            "55583"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Sleman&jobs=Cangkringan",
+            "jumlah": "5"
+        },
+        "pulau": null,
+        "kode": "34.04.17"
+    },
+    {
+        "no": "3",
+        "name": "Depok",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Sleman&jobs=Depok",
+        "kodepos": [
+            "55281",
+            "55283"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Sleman&jobs=Depok",
+            "jumlah": "3"
+        },
+        "pulau": null,
+        "kode": "34.04.07"
+    },
+    {
+        "no": "4",
+        "name": "Gamping",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Sleman&jobs=Gamping",
+        "kodepos": [
+            "55291",
+            "55592"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Sleman&jobs=Gamping",
+            "jumlah": "5"
+        },
+        "pulau": null,
+        "kode": "34.04.01"
+    },
+    {
+        "no": "5",
+        "name": "Godean",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Sleman&jobs=Godean",
+        "kodepos": [
+            "55264"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Sleman&jobs=Godean",
+            "jumlah": "7"
+        },
+        "pulau": null,
+        "kode": "34.04.02"
+    },
+    {
+        "no": "6",
+        "name": "Kalasan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Sleman&jobs=Kalasan",
+        "kodepos": [
+            "55571"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Sleman&jobs=Kalasan",
+            "jumlah": "4"
+        },
+        "pulau": null,
+        "kode": "34.04.10"
+    },
+    {
+        "no": "7",
+        "name": "Minggir",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Sleman&jobs=Minggir",
+        "kodepos": [
+            "55562"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Sleman&jobs=Minggir",
+            "jumlah": "5"
+        },
+        "pulau": null,
+        "kode": "34.04.04"
+    },
+    {
+        "no": "8",
+        "name": "Mlati",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Sleman&jobs=Mlati",
+        "kodepos": [
+            "55284",
+            "55288"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Sleman&jobs=Mlati",
+            "jumlah": "5"
+        },
+        "pulau": null,
+        "kode": "34.04.06"
+    },
+    {
+        "no": "9",
+        "name": "Moyudan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Sleman&jobs=Moyudan",
+        "kodepos": [
+            "55563"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Sleman&jobs=Moyudan",
+            "jumlah": "4"
+        },
+        "pulau": null,
+        "kode": "34.04.03"
+    },
+    {
+        "no": "10",
+        "name": "Ngaglik",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Sleman&jobs=Ngaglik",
+        "kodepos": [
+            "55581"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Sleman&jobs=Ngaglik",
+            "jumlah": "6"
+        },
+        "pulau": null,
+        "kode": "34.04.12"
+    },
+    {
+        "no": "11",
+        "name": "Ngemplak",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Sleman&jobs=Ngemplak",
+        "kodepos": [
+            "55584"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Sleman&jobs=Ngemplak",
+            "jumlah": "5"
+        },
+        "pulau": null,
+        "kode": "34.04.11"
+    },
+    {
+        "no": "12",
+        "name": "Pakem",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Sleman&jobs=Pakem",
+        "kodepos": [
+            "55582"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Sleman&jobs=Pakem",
+            "jumlah": "5"
+        },
+        "pulau": null,
+        "kode": "34.04.16"
+    },
+    {
+        "no": "13",
+        "name": "Prambanan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Sleman&jobs=Prambanan",
+        "kodepos": [
+            "55572"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Sleman&jobs=Prambanan",
+            "jumlah": "6"
+        },
+        "pulau": null,
+        "kode": "34.04.09"
+    },
+    {
+        "no": "14",
+        "name": "Seyegan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Sleman&jobs=Seyegan",
+        "kodepos": [
+            "55561"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Sleman&jobs=Seyegan",
+            "jumlah": "5"
+        },
+        "pulau": null,
+        "kode": "34.04.05"
+    },
+    {
+        "no": "15",
+        "name": "Sleman",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Sleman&jobs=Sleman",
+        "kodepos": [
+            "55511",
+            "55515"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Sleman&jobs=Sleman",
+            "jumlah": "5"
+        },
+        "pulau": null,
+        "kode": "34.04.13"
+    },
+    {
+        "no": "16",
+        "name": "Tempel",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Sleman&jobs=Tempel",
+        "kodepos": [
+            "55552"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Sleman&jobs=Tempel",
+            "jumlah": "8"
+        },
+        "pulau": null,
+        "kode": "34.04.14"
+    },
+    {
+        "no": "17",
+        "name": "Turi",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Sleman&jobs=Turi",
+        "kodepos": [
+            "55551"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Sleman&jobs=Turi",
+            "jumlah": "4"
+        },
+        "pulau": null,
+        "kode": "34.04.15"
+    }
+]

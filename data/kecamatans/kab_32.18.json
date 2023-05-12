@@ -1,0 +1,143 @@
+[
+    {
+        "no": "1",
+        "name": "Cigugur",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pangandaran&jobs=Cigugur",
+        "kodepos": [
+            "46392"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pangandaran&jobs=Cigugur",
+            "jumlah": "7"
+        },
+        "pulau": null,
+        "kode": "32.18.04"
+    },
+    {
+        "no": "2",
+        "name": "Cijulang",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pangandaran&jobs=Cijulang",
+        "kodepos": [
+            "46394"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pangandaran&jobs=Cijulang",
+            "jumlah": "7"
+        },
+        "pulau": null,
+        "kode": "32.18.02"
+    },
+    {
+        "no": "3",
+        "name": "Cimerak",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pangandaran&jobs=Cimerak",
+        "kodepos": [
+            "46395"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pangandaran&jobs=Cimerak",
+            "jumlah": "11"
+        },
+        "pulau": null,
+        "kode": "32.18.03"
+    },
+    {
+        "no": "4",
+        "name": "Kalipucang",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pangandaran&jobs=Kalipucang",
+        "kodepos": [
+            "46397"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pangandaran&jobs=Kalipucang",
+            "jumlah": "9"
+        },
+        "pulau": null,
+        "kode": "32.18.08"
+    },
+    {
+        "no": "5",
+        "name": "Langkaplancar",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pangandaran&jobs=Langkaplancar",
+        "kodepos": [
+            "46391"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pangandaran&jobs=Langkaplancar",
+            "jumlah": "15"
+        },
+        "pulau": null,
+        "kode": "32.18.05"
+    },
+    {
+        "no": "6",
+        "name": "Mangunjaya",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pangandaran&jobs=Mangunjaya",
+        "kodepos": [
+            "46371"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pangandaran&jobs=Mangunjaya",
+            "jumlah": "5"
+        },
+        "pulau": null,
+        "kode": "32.18.06"
+    },
+    {
+        "no": "7",
+        "name": "Padaherang",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pangandaran&jobs=Padaherang",
+        "kodepos": [
+            "46267",
+            "46384"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pangandaran&jobs=Padaherang",
+            "jumlah": "14"
+        },
+        "pulau": null,
+        "kode": "32.18.07"
+    },
+    {
+        "no": "8",
+        "name": "Pangandaran",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pangandaran&jobs=Pangandaran",
+        "kodepos": [
+            "46396"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pangandaran&jobs=Pangandaran",
+            "jumlah": "8"
+        },
+        "pulau": null,
+        "kode": "32.18.09"
+    },
+    {
+        "no": "9",
+        "name": "Parigi",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pangandaran&jobs=Parigi",
+        "kodepos": [
+            "46393"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pangandaran&jobs=Parigi",
+            "jumlah": "10"
+        },
+        "pulau": null,
+        "kode": "32.18.01"
+    },
+    {
+        "no": "10",
+        "name": "Sidamulih",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pangandaran&jobs=Sidamulih",
+        "kodepos": [
+            "46365"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pangandaran&jobs=Sidamulih",
+            "jumlah": "7"
+        },
+        "pulau": null,
+        "kode": "32.18.10"
+    }
+]

@@ -1,0 +1,118 @@
+[
+    {
+        "no": "1",
+        "name": "Lahomi (Gahori)",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Nias%20Barat&jobs=Lahomi%20(Gahori)",
+        "kodepos": [
+            "22864"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Nias%20Barat&jobs=Lahomi%20(Gahori)",
+            "jumlah": "11"
+        },
+        "pulau": null,
+        "kode": "12.25.01"
+    },
+    {
+        "no": "2",
+        "name": "Lolofitu Moi",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Nias%20Barat&jobs=Lolofitu%20Moi",
+        "kodepos": [
+            "22875"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Nias%20Barat&jobs=Lolofitu%20Moi",
+            "jumlah": "8"
+        },
+        "pulau": null,
+        "kode": "12.25.07"
+    },
+    {
+        "no": "3",
+        "name": "Mandrehe",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Nias%20Barat&jobs=Mandrehe",
+        "kodepos": [
+            "22862",
+            "22867"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Nias%20Barat&jobs=Mandrehe",
+            "jumlah": "20"
+        },
+        "pulau": null,
+        "kode": "12.25.05"
+    },
+    {
+        "no": "4",
+        "name": "Mandrehe Barat",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Nias%20Barat&jobs=Mandrehe%20Barat",
+        "kodepos": [
+            "22812"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Nias%20Barat&jobs=Mandrehe%20Barat",
+            "jumlah": "14"
+        },
+        "pulau": null,
+        "kode": "12.25.03"
+    },
+    {
+        "no": "5",
+        "name": "Mandrehe Utara",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Nias%20Barat&jobs=Mandrehe%20Utara",
+        "kodepos": [
+            "22813"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Nias%20Barat&jobs=Mandrehe%20Utara",
+            "jumlah": "12"
+        },
+        "pulau": null,
+        "kode": "12.25.06"
+    },
+    {
+        "no": "6",
+        "name": "Moro'o",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Nias%20Barat&jobs=Moro%27o",
+        "kodepos": [
+            "22862"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Nias%20Barat&jobs=Moro%27o",
+            "jumlah": "10"
+        },
+        "pulau": null,
+        "kode": "12.25.04"
+    },
+    {
+        "no": "7",
+        "name": "Sirombu",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Nias%20Barat&jobs=Sirombu",
+        "kodepos": [
+            "22863"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Nias%20Barat&jobs=Sirombu",
+            "jumlah": "25"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Nias%20Barat&jobs=Sirombu",
+            "jumlah": "9"
+        },
+        "kode": "12.25.02"
+    },
+    {
+        "no": "8",
+        "name": "Ulu Moro'o (Ulu Narwo)",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Nias%20Barat&jobs=Ulu%20Moro%27o%20(Ulu%20Narwo)",
+        "kodepos": [
+            "22862"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Nias%20Barat&jobs=Ulu%20Moro%27o%20(Ulu%20Narwo)",
+            "jumlah": "5"
+        },
+        "pulau": null,
+        "kode": "12.25.08"
+    }
+]

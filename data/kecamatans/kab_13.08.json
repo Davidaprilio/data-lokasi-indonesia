@@ -1,0 +1,170 @@
+[
+    {
+        "no": "1",
+        "name": "Bonjol",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pasaman&jobs=Bonjol",
+        "kodepos": [
+            "26381"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pasaman&jobs=Bonjol",
+            "jumlah": "4"
+        },
+        "pulau": null,
+        "kode": "13.08.04"
+    },
+    {
+        "no": "2",
+        "name": "Duo Koto",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pasaman&jobs=Duo%20Koto",
+        "kodepos": [
+            "26311"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pasaman&jobs=Duo%20Koto",
+            "jumlah": "2"
+        },
+        "pulau": null,
+        "kode": "13.08.12"
+    },
+    {
+        "no": "3",
+        "name": "Lubuk Sikaping",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pasaman&jobs=Lubuk%20Sikaping",
+        "kodepos": [
+            "26318"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pasaman&jobs=Lubuk%20Sikaping",
+            "jumlah": "6"
+        },
+        "pulau": null,
+        "kode": "13.08.05"
+    },
+    {
+        "no": "4",
+        "name": "Mapat Tunggul",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pasaman&jobs=Mapat%20Tunggul",
+        "kodepos": [
+            "26353"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pasaman&jobs=Mapat%20Tunggul",
+            "jumlah": "3"
+        },
+        "pulau": null,
+        "kode": "13.08.08"
+    },
+    {
+        "no": "5",
+        "name": "Mapat Tunggul Selatan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pasaman&jobs=Mapat%20Tunggul%20Selatan",
+        "kodepos": [
+            "26354"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pasaman&jobs=Mapat%20Tunggul%20Selatan",
+            "jumlah": "2"
+        },
+        "pulau": null,
+        "kode": "13.08.15"
+    },
+    {
+        "no": "6",
+        "name": "Padang Gelugur",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pasaman&jobs=Padang%20Gelugur",
+        "kodepos": [
+            "26352"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pasaman&jobs=Padang%20Gelugur",
+            "jumlah": "4"
+        },
+        "pulau": null,
+        "kode": "13.08.17"
+    },
+    {
+        "no": "7",
+        "name": "Panti",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pasaman&jobs=Panti",
+        "kodepos": [
+            "26351"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pasaman&jobs=Panti",
+            "jumlah": "3"
+        },
+        "pulau": null,
+        "kode": "13.08.07"
+    },
+    {
+        "no": "8",
+        "name": "Rao",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pasaman&jobs=Rao",
+        "kodepos": [
+            "26355"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pasaman&jobs=Rao",
+            "jumlah": "2"
+        },
+        "pulau": null,
+        "kode": "13.08.14"
+    },
+    {
+        "no": "9",
+        "name": "Rao Selatan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pasaman&jobs=Rao%20Selatan",
+        "kodepos": [
+            "26356"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pasaman&jobs=Rao%20Selatan",
+            "jumlah": "3"
+        },
+        "pulau": null,
+        "kode": "13.08.19"
+    },
+    {
+        "no": "10",
+        "name": "Rao Utara",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pasaman&jobs=Rao%20Utara",
+        "kodepos": [
+            "26357"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pasaman&jobs=Rao%20Utara",
+            "jumlah": "3"
+        },
+        "pulau": null,
+        "kode": "13.08.18"
+    },
+    {
+        "no": "11",
+        "name": "Simpang Alahan Mati",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pasaman&jobs=Simpang%20Alahan%20Mati",
+        "kodepos": [
+            "26382"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pasaman&jobs=Simpang%20Alahan%20Mati",
+            "jumlah": "2"
+        },
+        "pulau": null,
+        "kode": "13.08.16"
+    },
+    {
+        "no": "12",
+        "name": "Tigo Nagari",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pasaman&jobs=Tigo%20Nagari",
+        "kodepos": [
+            "26358"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pasaman&jobs=Tigo%20Nagari",
+            "jumlah": "3"
+        },
+        "pulau": null,
+        "kode": "13.08.13"
+    }
+]

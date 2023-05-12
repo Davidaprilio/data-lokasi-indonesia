@@ -1,0 +1,81 @@
+[
+    {
+        "no": "1",
+        "name": "Betayau",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tana%20Tidung&jobs=Betayau",
+        "kodepos": [
+            "77152"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tana%20Tidung&jobs=Betayau",
+            "jumlah": "6"
+        },
+        "pulau": null,
+        "kode": "65.04.04"
+    },
+    {
+        "no": "2",
+        "name": "Muruk Rian",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tana%20Tidung&jobs=Muruk%20Rian",
+        "kodepos": [
+            "77154"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tana%20Tidung&jobs=Muruk%20Rian",
+            "jumlah": "6"
+        },
+        "pulau": null,
+        "kode": "65.04.05"
+    },
+    {
+        "no": "3",
+        "name": "Sesayap",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tana%20Tidung&jobs=Sesayap",
+        "kodepos": [
+            "77151"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tana%20Tidung&jobs=Sesayap",
+            "jumlah": "7"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tana%20Tidung&jobs=Sesayap",
+            "jumlah": "7"
+        },
+        "kode": "65.04.01"
+    },
+    {
+        "no": "4",
+        "name": "Sesayap Hilir",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tana%20Tidung&jobs=Sesayap%20Hilir",
+        "kodepos": [
+            "77153"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tana%20Tidung&jobs=Sesayap%20Hilir",
+            "jumlah": "8"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tana%20Tidung&jobs=Sesayap%20Hilir",
+            "jumlah": "20"
+        },
+        "kode": "65.04.02"
+    },
+    {
+        "no": "5",
+        "name": "Tana Lia",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tana%20Tidung&jobs=Tana%20Lia",
+        "kodepos": [
+            "77451"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tana%20Tidung&jobs=Tana%20Lia",
+            "jumlah": "5"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tana%20Tidung&jobs=Tana%20Lia",
+            "jumlah": "9"
+        },
+        "kode": "65.04.03"
+    }
+]

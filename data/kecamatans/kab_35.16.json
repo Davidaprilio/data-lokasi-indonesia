@@ -1,0 +1,256 @@
+[
+    {
+        "no": "1",
+        "name": "Bangsal",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Mojokerto&jobs=Bangsal",
+        "kodepos": [
+            "61381"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Mojokerto&jobs=Bangsal",
+            "jumlah": "17"
+        },
+        "pulau": null,
+        "kode": "35.16.10"
+    },
+    {
+        "no": "2",
+        "name": "Dawarblandong (Dawar Blandong)",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Mojokerto&jobs=Dawarblandong%20(Dawar%20Blandong)",
+        "kodepos": [
+            "61354"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Mojokerto&jobs=Dawarblandong%20(Dawar%20Blandong)",
+            "jumlah": "18"
+        },
+        "pulau": null,
+        "kode": "35.16.17"
+    },
+    {
+        "no": "3",
+        "name": "Dlanggu",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Mojokerto&jobs=Dlanggu",
+        "kodepos": [
+            "61371"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Mojokerto&jobs=Dlanggu",
+            "jumlah": "16"
+        },
+        "pulau": null,
+        "kode": "35.16.09"
+    },
+    {
+        "no": "4",
+        "name": "Gedeg",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Mojokerto&jobs=Gedeg",
+        "kodepos": [
+            "61351"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Mojokerto&jobs=Gedeg",
+            "jumlah": "14"
+        },
+        "pulau": null,
+        "kode": "35.16.14"
+    },
+    {
+        "no": "5",
+        "name": "Gondang",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Mojokerto&jobs=Gondang",
+        "kodepos": [
+            "61372"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Mojokerto&jobs=Gondang",
+            "jumlah": "18"
+        },
+        "pulau": null,
+        "kode": "35.16.02"
+    },
+    {
+        "no": "6",
+        "name": "Jatirejo",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Mojokerto&jobs=Jatirejo",
+        "kodepos": [
+            "61373"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Mojokerto&jobs=Jatirejo",
+            "jumlah": "19"
+        },
+        "pulau": null,
+        "kode": "35.16.01"
+    },
+    {
+        "no": "7",
+        "name": "Jetis",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Mojokerto&jobs=Jetis",
+        "kodepos": [
+            "61352"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Mojokerto&jobs=Jetis",
+            "jumlah": "16"
+        },
+        "pulau": null,
+        "kode": "35.16.16"
+    },
+    {
+        "no": "8",
+        "name": "Kemlagi",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Mojokerto&jobs=Kemlagi",
+        "kodepos": [
+            "61353"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Mojokerto&jobs=Kemlagi",
+            "jumlah": "20"
+        },
+        "pulau": null,
+        "kode": "35.16.15"
+    },
+    {
+        "no": "9",
+        "name": "Kutorejo",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Mojokerto&jobs=Kutorejo",
+        "kodepos": [
+            "61383"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Mojokerto&jobs=Kutorejo",
+            "jumlah": "17"
+        },
+        "pulau": null,
+        "kode": "35.16.07"
+    },
+    {
+        "no": "10",
+        "name": "Mojoanyar",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Mojokerto&jobs=Mojoanyar",
+        "kodepos": [
+            "61363",
+            "61364"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Mojokerto&jobs=Mojoanyar",
+            "jumlah": "12"
+        },
+        "pulau": null,
+        "kode": "35.16.18"
+    },
+    {
+        "no": "11",
+        "name": "Mojosari",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Mojokerto&jobs=Mojosari",
+        "kodepos": [
+            "61382"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Mojokerto&jobs=Mojosari",
+            "jumlah": "19"
+        },
+        "pulau": null,
+        "kode": "35.16.08"
+    },
+    {
+        "no": "12",
+        "name": "Ngoro",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Mojokerto&jobs=Ngoro",
+        "kodepos": [
+            "61385"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Mojokerto&jobs=Ngoro",
+            "jumlah": "19"
+        },
+        "pulau": null,
+        "kode": "35.16.05"
+    },
+    {
+        "no": "13",
+        "name": "Pacet",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Mojokerto&jobs=Pacet",
+        "kodepos": [
+            "61374"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Mojokerto&jobs=Pacet",
+            "jumlah": "20"
+        },
+        "pulau": null,
+        "kode": "35.16.03"
+    },
+    {
+        "no": "14",
+        "name": "Pungging",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Mojokerto&jobs=Pungging",
+        "kodepos": [
+            "61384"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Mojokerto&jobs=Pungging",
+            "jumlah": "19"
+        },
+        "pulau": null,
+        "kode": "35.16.06"
+    },
+    {
+        "no": "15",
+        "name": "Puri",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Mojokerto&jobs=Puri",
+        "kodepos": [
+            "61363",
+            "61364"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Mojokerto&jobs=Puri",
+            "jumlah": "16"
+        },
+        "pulau": null,
+        "kode": "35.16.11"
+    },
+    {
+        "no": "16",
+        "name": "Sooko",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Mojokerto&jobs=Sooko",
+        "kodepos": [
+            "61361"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Mojokerto&jobs=Sooko",
+            "jumlah": "15"
+        },
+        "pulau": null,
+        "kode": "35.16.13"
+    },
+    {
+        "no": "17",
+        "name": "Trawas",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Mojokerto&jobs=Trawas",
+        "kodepos": [
+            "61375"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Mojokerto&jobs=Trawas",
+            "jumlah": "13"
+        },
+        "pulau": null,
+        "kode": "35.16.04"
+    },
+    {
+        "no": "18",
+        "name": "Trowulan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Mojokerto&jobs=Trowulan",
+        "kodepos": [
+            "61362"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Mojokerto&jobs=Trowulan",
+            "jumlah": "16"
+        },
+        "pulau": null,
+        "kode": "35.16.12"
+    }
+]

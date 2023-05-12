@@ -1,0 +1,195 @@
+[
+    {
+        "no": "1",
+        "name": "Balocci",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pangkajene%20Kepulauan&jobs=Balocci",
+        "kodepos": [
+            "90661"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pangkajene%20Kepulauan&jobs=Balocci",
+            "jumlah": "5"
+        },
+        "pulau": null,
+        "kode": "73.10.05"
+    },
+    {
+        "no": "2",
+        "name": "Bungoro",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pangkajene%20Kepulauan&jobs=Bungoro",
+        "kodepos": [
+            "90651"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pangkajene%20Kepulauan&jobs=Bungoro",
+            "jumlah": "8"
+        },
+        "pulau": null,
+        "kode": "73.10.06"
+    },
+    {
+        "no": "3",
+        "name": "Labakkang",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pangkajene%20Kepulauan&jobs=Labakkang",
+        "kodepos": [
+            "90653"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pangkajene%20Kepulauan&jobs=Labakkang",
+            "jumlah": "13"
+        },
+        "pulau": null,
+        "kode": "73.10.07"
+    },
+    {
+        "no": "4",
+        "name": "Liukang Kalmas (Kalukuang Masalima)",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pangkajene%20Kepulauan&jobs=Liukang%20Kalmas%20(Kalukuang%20Masalima)",
+        "kodepos": [
+            "90672"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pangkajene%20Kepulauan&jobs=Liukang%20Kalmas%20(Kalukuang%20Masalima)",
+            "jumlah": "7"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pangkajene%20Kepulauan&jobs=Liukang%20Kalmas%20(Kalukuang%20Masalima)",
+            "jumlah": "20"
+        },
+        "kode": "73.10.02"
+    },
+    {
+        "no": "5",
+        "name": "Liukang Tangaya",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pangkajene%20Kepulauan&jobs=Liukang%20Tangaya",
+        "kodepos": [
+            "90673"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pangkajene%20Kepulauan&jobs=Liukang%20Tangaya",
+            "jumlah": "9"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pangkajene%20Kepulauan&jobs=Liukang%20Tangaya",
+            "jumlah": "54"
+        },
+        "kode": "73.10.01"
+    },
+    {
+        "no": "6",
+        "name": "Liukang Tupabbiring",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pangkajene%20Kepulauan&jobs=Liukang%20Tupabbiring",
+        "kodepos": [
+            "90671"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pangkajene%20Kepulauan&jobs=Liukang%20Tupabbiring",
+            "jumlah": "9"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pangkajene%20Kepulauan&jobs=Liukang%20Tupabbiring",
+            "jumlah": "41"
+        },
+        "kode": "73.10.03"
+    },
+    {
+        "no": "7",
+        "name": "Liukang Tupabbiring Utara",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pangkajene%20Kepulauan&jobs=Liukang%20Tupabbiring%20Utara",
+        "kodepos": [
+            "90670"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pangkajene%20Kepulauan&jobs=Liukang%20Tupabbiring%20Utara",
+            "jumlah": "7"
+        },
+        "pulau": null,
+        "kode": "73.10.13"
+    },
+    {
+        "no": "8",
+        "name": "Mandalle",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pangkajene%20Kepulauan&jobs=Mandalle",
+        "kodepos": [
+            "90655"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pangkajene%20Kepulauan&jobs=Mandalle",
+            "jumlah": "6"
+        },
+        "pulau": null,
+        "kode": "73.10.11"
+    },
+    {
+        "no": "9",
+        "name": "Marang (Ma Rang)",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pangkajene%20Kepulauan&jobs=Marang%20(Ma%20Rang)",
+        "kodepos": [
+            "90654"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pangkajene%20Kepulauan&jobs=Marang%20(Ma%20Rang)",
+            "jumlah": "10"
+        },
+        "pulau": null,
+        "kode": "73.10.08"
+    },
+    {
+        "no": "10",
+        "name": "Minasa Tene",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pangkajene%20Kepulauan&jobs=Minasa%20Tene",
+        "kodepos": [
+            "90614",
+            "90619"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pangkajene%20Kepulauan&jobs=Minasa%20Tene",
+            "jumlah": "8"
+        },
+        "pulau": null,
+        "kode": "73.10.10"
+    },
+    {
+        "no": "11",
+        "name": "Pangkajene",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pangkajene%20Kepulauan&jobs=Pangkajene",
+        "kodepos": [
+            "90611",
+            "90617"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pangkajene%20Kepulauan&jobs=Pangkajene",
+            "jumlah": "9"
+        },
+        "pulau": null,
+        "kode": "73.10.04"
+    },
+    {
+        "no": "12",
+        "name": "Segeri",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pangkajene%20Kepulauan&jobs=Segeri",
+        "kodepos": [
+            "90656"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pangkajene%20Kepulauan&jobs=Segeri",
+            "jumlah": "6"
+        },
+        "pulau": null,
+        "kode": "73.10.09"
+    },
+    {
+        "no": "13",
+        "name": "Tondong Tallasa",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pangkajene%20Kepulauan&jobs=Tondong%20Tallasa",
+        "kodepos": [
+            "90566"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pangkajene%20Kepulauan&jobs=Tondong%20Tallasa",
+            "jumlah": "6"
+        },
+        "pulau": null,
+        "kode": "73.10.12"
+    }
+]

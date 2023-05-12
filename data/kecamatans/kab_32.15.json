@@ -1,0 +1,424 @@
+[
+    {
+        "no": "1",
+        "name": "Banyusari",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Karawang&jobs=Banyusari",
+        "kodepos": [
+            "41374"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Karawang&jobs=Banyusari",
+            "jumlah": "12"
+        },
+        "pulau": null,
+        "kode": "32.15.24"
+    },
+    {
+        "no": "2",
+        "name": "Batujaya",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Karawang&jobs=Batujaya",
+        "kodepos": [
+            "41354"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Karawang&jobs=Batujaya",
+            "jumlah": "10"
+        },
+        "pulau": null,
+        "kode": "32.15.08"
+    },
+    {
+        "no": "3",
+        "name": "Ciampel",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Karawang&jobs=Ciampel",
+        "kodepos": [
+            "41363"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Karawang&jobs=Ciampel",
+            "jumlah": "7"
+        },
+        "pulau": null,
+        "kode": "32.15.04"
+    },
+    {
+        "no": "4",
+        "name": "Cibuaya",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Karawang&jobs=Cibuaya",
+        "kodepos": [
+            "41356"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Karawang&jobs=Cibuaya",
+            "jumlah": "11"
+        },
+        "pulau": null,
+        "kode": "32.15.11"
+    },
+    {
+        "no": "5",
+        "name": "Cikampek",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Karawang&jobs=Cikampek",
+        "kodepos": [
+            "41373"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Karawang&jobs=Cikampek",
+            "jumlah": "10"
+        },
+        "pulau": null,
+        "kode": "32.15.13"
+    },
+    {
+        "no": "6",
+        "name": "Cilamaya Kulon",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Karawang&jobs=Cilamaya%20Kulon",
+        "kodepos": [
+            "41384"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Karawang&jobs=Cilamaya%20Kulon",
+            "jumlah": "12"
+        },
+        "pulau": null,
+        "kode": "32.15.23"
+    },
+    {
+        "no": "7",
+        "name": "Cilamaya Wetan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Karawang&jobs=Cilamaya%20Wetan",
+        "kodepos": [
+            "41386"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Karawang&jobs=Cilamaya%20Wetan",
+            "jumlah": "12"
+        },
+        "pulau": null,
+        "kode": "32.15.15"
+    },
+    {
+        "no": "8",
+        "name": "Cilebar",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Karawang&jobs=Cilebar",
+        "kodepos": [
+            "41350"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Karawang&jobs=Cilebar",
+            "jumlah": "10"
+        },
+        "pulau": null,
+        "kode": "32.15.30"
+    },
+    {
+        "no": "9",
+        "name": "Jatisari",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Karawang&jobs=Jatisari",
+        "kodepos": [
+            "41375"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Karawang&jobs=Jatisari",
+            "jumlah": "14"
+        },
+        "pulau": null,
+        "kode": "32.15.14"
+    },
+    {
+        "no": "10",
+        "name": "Jayakerta",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Karawang&jobs=Jayakerta",
+        "kodepos": [
+            "41351"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Karawang&jobs=Jayakerta",
+            "jumlah": "8"
+        },
+        "pulau": null,
+        "kode": "32.15.22"
+    },
+    {
+        "no": "11",
+        "name": "Karawang Barat",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Karawang&jobs=Karawang%20Barat",
+        "kodepos": [
+            "41311",
+            "41316"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Karawang&jobs=Karawang%20Barat",
+            "jumlah": "8"
+        },
+        "pulau": null,
+        "kode": "32.15.01"
+    },
+    {
+        "no": "12",
+        "name": "Karawang Timur",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Karawang&jobs=Karawang%20Timur",
+        "kodepos": [
+            "41313",
+            "41314"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Karawang&jobs=Karawang%20Timur",
+            "jumlah": "8"
+        },
+        "pulau": null,
+        "kode": "32.15.26"
+    },
+    {
+        "no": "13",
+        "name": "Klari",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Karawang&jobs=Klari",
+        "kodepos": [
+            "41371"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Karawang&jobs=Klari",
+            "jumlah": "13"
+        },
+        "pulau": null,
+        "kode": "32.15.05"
+    },
+    {
+        "no": "14",
+        "name": "Kota Baru (Kotabaru)",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Karawang&jobs=Kota%20Baru%20(Kotabaru)",
+        "kodepos": [
+            "41376"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Karawang&jobs=Kota%20Baru%20(Kotabaru)",
+            "jumlah": "9"
+        },
+        "pulau": null,
+        "kode": "32.15.25"
+    },
+    {
+        "no": "15",
+        "name": "Kutawaluya",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Karawang&jobs=Kutawaluya",
+        "kodepos": [
+            "41358"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Karawang&jobs=Kutawaluya",
+            "jumlah": "12"
+        },
+        "pulau": null,
+        "kode": "32.15.07"
+    },
+    {
+        "no": "16",
+        "name": "Lemahabang",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Karawang&jobs=Lemahabang",
+        "kodepos": [
+            "41383"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Karawang&jobs=Lemahabang",
+            "jumlah": "11"
+        },
+        "pulau": null,
+        "kode": "32.15.19"
+    },
+    {
+        "no": "17",
+        "name": "Majalaya",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Karawang&jobs=Majalaya",
+        "kodepos": [
+            "41370"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Karawang&jobs=Majalaya",
+            "jumlah": "7"
+        },
+        "pulau": null,
+        "kode": "32.15.21"
+    },
+    {
+        "no": "18",
+        "name": "Pakisjaya",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Karawang&jobs=Pakisjaya",
+        "kodepos": [
+            "41355"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Karawang&jobs=Pakisjaya",
+            "jumlah": "8"
+        },
+        "pulau": null,
+        "kode": "32.15.12"
+    },
+    {
+        "no": "19",
+        "name": "Pangkalan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Karawang&jobs=Pangkalan",
+        "kodepos": [
+            "41362"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Karawang&jobs=Pangkalan",
+            "jumlah": "8"
+        },
+        "pulau": null,
+        "kode": "32.15.02"
+    },
+    {
+        "no": "20",
+        "name": "Pedes",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Karawang&jobs=Pedes",
+        "kodepos": [
+            "41353"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Karawang&jobs=Pedes",
+            "jumlah": "12"
+        },
+        "pulau": null,
+        "kode": "32.15.10"
+    },
+    {
+        "no": "21",
+        "name": "Purwasari",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Karawang&jobs=Purwasari",
+        "kodepos": [
+            "41377"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Karawang&jobs=Purwasari",
+            "jumlah": "8"
+        },
+        "pulau": null,
+        "kode": "32.15.29"
+    },
+    {
+        "no": "22",
+        "name": "Rawamerta",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Karawang&jobs=Rawamerta",
+        "kodepos": [
+            "41382"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Karawang&jobs=Rawamerta",
+            "jumlah": "13"
+        },
+        "pulau": null,
+        "kode": "32.15.18"
+    },
+    {
+        "no": "23",
+        "name": "Rengasdengklok",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Karawang&jobs=Rengasdengklok",
+        "kodepos": [
+            "41352"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Karawang&jobs=Rengasdengklok",
+            "jumlah": "9"
+        },
+        "pulau": null,
+        "kode": "32.15.06"
+    },
+    {
+        "no": "24",
+        "name": "Tegalwaru",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Karawang&jobs=Tegalwaru",
+        "kodepos": [
+            "41364"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Karawang&jobs=Tegalwaru",
+            "jumlah": "9"
+        },
+        "pulau": null,
+        "kode": "32.15.28"
+    },
+    {
+        "no": "25",
+        "name": "Telagasari (Talagasari)",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Karawang&jobs=Telagasari%20(Talagasari)",
+        "kodepos": [
+            "41381"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Karawang&jobs=Telagasari%20(Talagasari)",
+            "jumlah": "14"
+        },
+        "pulau": null,
+        "kode": "32.15.17"
+    },
+    {
+        "no": "26",
+        "name": "Telukjambe Barat",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Karawang&jobs=Telukjambe%20Barat",
+        "kodepos": [
+            "41361"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Karawang&jobs=Telukjambe%20Barat",
+            "jumlah": "10"
+        },
+        "pulau": null,
+        "kode": "32.15.27"
+    },
+    {
+        "no": "27",
+        "name": "Telukjambe Timur",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Karawang&jobs=Telukjambe%20Timur",
+        "kodepos": [
+            "41360"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Karawang&jobs=Telukjambe%20Timur",
+            "jumlah": "9"
+        },
+        "pulau": null,
+        "kode": "32.15.03"
+    },
+    {
+        "no": "28",
+        "name": "Tempuran",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Karawang&jobs=Tempuran",
+        "kodepos": [
+            "41385"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Karawang&jobs=Tempuran",
+            "jumlah": "14"
+        },
+        "pulau": null,
+        "kode": "32.15.20"
+    },
+    {
+        "no": "29",
+        "name": "Tirtajaya",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Karawang&jobs=Tirtajaya",
+        "kodepos": [
+            "41357"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Karawang&jobs=Tirtajaya",
+            "jumlah": "11"
+        },
+        "pulau": null,
+        "kode": "32.15.09"
+    },
+    {
+        "no": "30",
+        "name": "Tirtamulya",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Karawang&jobs=Tirtamulya",
+        "kodepos": [
+            "41372"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Karawang&jobs=Tirtamulya",
+            "jumlah": "10"
+        },
+        "pulau": null,
+        "kode": "32.15.16"
+    }
+]

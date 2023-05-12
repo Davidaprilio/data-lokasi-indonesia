@@ -1,0 +1,162 @@
+[
+    {
+        "no": "1",
+        "name": "Amalatu",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Seram%20Bagian%20Barat&jobs=Amalatu",
+        "kodepos": [
+            "97563"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Seram%20Bagian%20Barat&jobs=Amalatu",
+            "jumlah": "7"
+        },
+        "pulau": null,
+        "kode": "81.06.05"
+    },
+    {
+        "no": "2",
+        "name": "Elpaputih",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Seram%20Bagian%20Barat&jobs=Elpaputih",
+        "kodepos": [
+            "97564"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Seram%20Bagian%20Barat&jobs=Elpaputih",
+            "jumlah": "7"
+        },
+        "pulau": null,
+        "kode": "81.06.11"
+    },
+    {
+        "no": "3",
+        "name": "Huamual",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Seram%20Bagian%20Barat&jobs=Huamual",
+        "kodepos": [
+            "97560"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Seram%20Bagian%20Barat&jobs=Huamual",
+            "jumlah": "5"
+        },
+        "pulau": null,
+        "kode": "81.06.08"
+    },
+    {
+        "no": "4",
+        "name": "Huamual Belakang",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Seram%20Bagian%20Barat&jobs=Huamual%20Belakang",
+        "kodepos": [
+            "97567"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Seram%20Bagian%20Barat&jobs=Huamual%20Belakang",
+            "jumlah": "7"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Seram%20Bagian%20Barat&jobs=Huamual%20Belakang",
+            "jumlah": "26"
+        },
+        "kode": "81.06.04"
+    },
+    {
+        "no": "5",
+        "name": "Inamosol",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Seram%20Bagian%20Barat&jobs=Inamosol",
+        "kodepos": [
+            "97565"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Seram%20Bagian%20Barat&jobs=Inamosol",
+            "jumlah": "5"
+        },
+        "pulau": null,
+        "kode": "81.06.06"
+    },
+    {
+        "no": "6",
+        "name": "Kairatu",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Seram%20Bagian%20Barat&jobs=Kairatu",
+        "kodepos": [
+            "97566"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Seram%20Bagian%20Barat&jobs=Kairatu",
+            "jumlah": "7"
+        },
+        "pulau": null,
+        "kode": "81.06.01"
+    },
+    {
+        "no": "7",
+        "name": "Kairatu Barat",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Seram%20Bagian%20Barat&jobs=Kairatu%20Barat",
+        "kodepos": [
+            "97568"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Seram%20Bagian%20Barat&jobs=Kairatu%20Barat",
+            "jumlah": "6"
+        },
+        "pulau": null,
+        "kode": "81.06.07"
+    },
+    {
+        "no": "8",
+        "name": "Kepulauan Manipa",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Seram%20Bagian%20Barat&jobs=Kepulauan%20Manipa",
+        "kodepos": [
+            "97569"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Seram%20Bagian%20Barat&jobs=Kepulauan%20Manipa",
+            "jumlah": "7"
+        },
+        "pulau": null,
+        "kode": "81.06.09"
+    },
+    {
+        "no": "9",
+        "name": "Seram Barat",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Seram%20Bagian%20Barat&jobs=Seram%20Barat",
+        "kodepos": [
+            "97562"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Seram%20Bagian%20Barat&jobs=Seram%20Barat",
+            "jumlah": "7"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Seram%20Bagian%20Barat&jobs=Seram%20Barat",
+            "jumlah": "13"
+        },
+        "kode": "81.06.02"
+    },
+    {
+        "no": "10",
+        "name": "Taniwel",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Seram%20Bagian%20Barat&jobs=Taniwel",
+        "kodepos": [
+            "97559"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Seram%20Bagian%20Barat&jobs=Taniwel",
+            "jumlah": "19"
+        },
+        "pulau": null,
+        "kode": "81.06.03"
+    },
+    {
+        "no": "11",
+        "name": "Taniwel Timur",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Seram%20Bagian%20Barat&jobs=Taniwel%20Timur",
+        "kodepos": [
+            "97561"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Seram%20Bagian%20Barat&jobs=Taniwel%20Timur",
+            "jumlah": "15"
+        },
+        "pulau": null,
+        "kode": "81.06.10"
+    }
+]

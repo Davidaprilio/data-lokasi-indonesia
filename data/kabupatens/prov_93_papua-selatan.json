@@ -1,0 +1,88 @@
+[
+    {
+        "no": "1",
+        "type": "Kabupaten",
+        "name": "Asmat",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Asmat",
+        "kodepos": [
+            "99771",
+            "99792"
+        ],
+        "kecamatan": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Asmat",
+            "jumlah": "25"
+        },
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kab.&jobs=Asmat",
+            "jumlah": "224"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kab.&jobs=Asmat",
+            "jumlah": "4"
+        },
+        "kode": "93.04"
+    },
+    {
+        "no": "2",
+        "type": "Kabupaten",
+        "name": "Boven Digoel",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Boven%20Digoel",
+        "kodepos": [
+            "99651",
+            "99692"
+        ],
+        "kecamatan": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Boven%20Digoel",
+            "jumlah": "20"
+        },
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kab.&jobs=Boven%20Digoel",
+            "jumlah": "112"
+        },
+        "pulau": null,
+        "kode": "93.02"
+    },
+    {
+        "no": "3",
+        "type": "Kabupaten",
+        "name": "Mappi",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Mappi",
+        "kodepos": [
+            "99851",
+            "99881"
+        ],
+        "kecamatan": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Mappi",
+            "jumlah": "15"
+        },
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kab.&jobs=Mappi",
+            "jumlah": "164"
+        },
+        "pulau": null,
+        "kode": "93.03"
+    },
+    {
+        "no": "4",
+        "type": "Kabupaten",
+        "name": "Merauke",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Merauke",
+        "kodepos": [
+            "99604",
+            "99648"
+        ],
+        "kecamatan": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Merauke",
+            "jumlah": "22"
+        },
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kab.&jobs=Merauke",
+            "jumlah": "190"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kab.&jobs=Merauke",
+            "jumlah": "3"
+        },
+        "kode": "93.01"
+    }
+]

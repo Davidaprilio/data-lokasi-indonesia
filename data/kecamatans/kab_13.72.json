@@ -1,0 +1,32 @@
+[
+    {
+        "no": "1",
+        "name": "Lubuk Sikarah",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Solok&jobs=Lubuk%20Sikarah",
+        "kodepos": [
+            "27311",
+            "27317"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Solok&jobs=Lubuk%20Sikarah",
+            "jumlah": "7"
+        },
+        "pulau": null,
+        "kode": "13.72.01"
+    },
+    {
+        "no": "2",
+        "name": "Tanjung Harapan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Solok&jobs=Tanjung%20Harapan",
+        "kodepos": [
+            "27321",
+            "27326"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Solok&jobs=Tanjung%20Harapan",
+            "jumlah": "6"
+        },
+        "pulau": null,
+        "kode": "13.72.02"
+    }
+]

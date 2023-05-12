@@ -1,0 +1,130 @@
+[
+    {
+        "no": "1",
+        "name": "Gunung Purei",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Barito%20Utara&jobs=Gunung%20Purei",
+        "kodepos": [
+            "73871"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Barito%20Utara&jobs=Gunung%20Purei",
+            "jumlah": "11"
+        },
+        "pulau": null,
+        "kode": "62.05.03"
+    },
+    {
+        "no": "2",
+        "name": "Gunung Timang",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Barito%20Utara&jobs=Gunung%20Timang",
+        "kodepos": [
+            "73862"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Barito%20Utara&jobs=Gunung%20Timang",
+            "jumlah": "16"
+        },
+        "pulau": null,
+        "kode": "62.05.02"
+    },
+    {
+        "no": "3",
+        "name": "Lahei",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Barito%20Utara&jobs=Lahei",
+        "kodepos": [
+            "73852"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Barito%20Utara&jobs=Lahei",
+            "jumlah": "13"
+        },
+        "pulau": null,
+        "kode": "62.05.06"
+    },
+    {
+        "no": "4",
+        "name": "Lahei Barat",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Barito%20Utara&jobs=Lahei%20Barat",
+        "kodepos": [
+            "73853"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Barito%20Utara&jobs=Lahei%20Barat",
+            "jumlah": "11"
+        },
+        "pulau": null,
+        "kode": "62.05.09"
+    },
+    {
+        "no": "5",
+        "name": "Montallat (Montalat)",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Barito%20Utara&jobs=Montallat%20(Montalat)",
+        "kodepos": [
+            "73861"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Barito%20Utara&jobs=Montallat%20(Montalat)",
+            "jumlah": "10"
+        },
+        "pulau": null,
+        "kode": "62.05.01"
+    },
+    {
+        "no": "6",
+        "name": "Teweh Baru",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Barito%20Utara&jobs=Teweh%20Baru",
+        "kodepos": [
+            "73814",
+            "73881"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Barito%20Utara&jobs=Teweh%20Baru",
+            "jumlah": "10"
+        },
+        "pulau": null,
+        "kode": "62.05.07"
+    },
+    {
+        "no": "7",
+        "name": "Teweh Selatan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Barito%20Utara&jobs=Teweh%20Selatan",
+        "kodepos": [
+            "73814"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Barito%20Utara&jobs=Teweh%20Selatan",
+            "jumlah": "10"
+        },
+        "pulau": null,
+        "kode": "62.05.08"
+    },
+    {
+        "no": "8",
+        "name": "Teweh Tengah",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Barito%20Utara&jobs=Teweh%20Tengah",
+        "kodepos": [
+            "73811",
+            "73814"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Barito%20Utara&jobs=Teweh%20Tengah",
+            "jumlah": "10"
+        },
+        "pulau": null,
+        "kode": "62.05.05"
+    },
+    {
+        "no": "9",
+        "name": "Teweh Timur",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Barito%20Utara&jobs=Teweh%20Timur",
+        "kodepos": [
+            "73881"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Barito%20Utara&jobs=Teweh%20Timur",
+            "jumlah": "12"
+        },
+        "pulau": null,
+        "kode": "62.05.04"
+    }
+]

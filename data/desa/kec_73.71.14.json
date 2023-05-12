@@ -1,0 +1,58 @@
+[
+    {
+        "no": "1",
+        "kodepos": "90244",
+        "name": "Bira",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Tamalanrea-Kota-Makassar&jobs=Bira",
+        "kode": "73.71.14.1005"
+    },
+    {
+        "no": "2",
+        "kodepos": "90245",
+        "name": "Buntusu",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Tamalanrea-Kota-Makassar&jobs=Buntusu",
+        "kode": "73.71.14.1007"
+    },
+    {
+        "no": "3",
+        "kodepos": "90241",
+        "name": "Kapasa",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Tamalanrea-Kota-Makassar&jobs=Kapasa",
+        "kode": "73.71.14.1002"
+    },
+    {
+        "no": "4",
+        "kodepos": "90241",
+        "name": "Kapasa Raya",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Tamalanrea-Kota-Makassar&jobs=Kapasa%20Raya",
+        "kode": "73.71.14.1008"
+    },
+    {
+        "no": "5",
+        "kodepos": "90245",
+        "name": "Parang Loe",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Tamalanrea-Kota-Makassar&jobs=Parang%20Loe",
+        "kode": "73.71.14.1004"
+    },
+    {
+        "no": "6",
+        "kodepos": "90245",
+        "name": "Tamalanrea",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Tamalanrea-Kota-Makassar&jobs=Tamalanrea",
+        "kode": "73.71.14.1001"
+    },
+    {
+        "no": "7",
+        "kodepos": "90245",
+        "name": "Tamalanrea Indah",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Tamalanrea-Kota-Makassar&jobs=Tamalanrea%20Indah",
+        "kode": "73.71.14.1003"
+    },
+    {
+        "no": "8",
+        "kodepos": "90245",
+        "name": "Tamalanrea Jaya",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Tamalanrea-Kota-Makassar&jobs=Tamalanrea%20Jaya",
+        "kode": "73.71.14.1006"
+    }
+]

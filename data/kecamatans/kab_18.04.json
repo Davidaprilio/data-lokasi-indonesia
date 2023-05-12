@@ -1,0 +1,213 @@
+[
+    {
+        "no": "1",
+        "name": "Air Hitam",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Lampung%20Barat&jobs=Air%20Hitam",
+        "kodepos": [
+            "34866"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Lampung%20Barat&jobs=Air%20Hitam",
+            "jumlah": "10"
+        },
+        "pulau": null,
+        "kode": "18.04.19"
+    },
+    {
+        "no": "2",
+        "name": "Balik Bukit",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Lampung%20Barat&jobs=Balik%20Bukit",
+        "kodepos": [
+            "34811",
+            "34818"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Lampung%20Barat&jobs=Balik%20Bukit",
+            "jumlah": "12"
+        },
+        "pulau": null,
+        "kode": "18.04.04"
+    },
+    {
+        "no": "3",
+        "name": "Bandar Negeri Suoh",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Lampung%20Barat&jobs=Bandar%20Negeri%20Suoh",
+        "kodepos": [
+            "34882"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Lampung%20Barat&jobs=Bandar%20Negeri%20Suoh",
+            "jumlah": "10"
+        },
+        "pulau": null,
+        "kode": "18.04.23"
+    },
+    {
+        "no": "4",
+        "name": "Batu Brak",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Lampung%20Barat&jobs=Batu%20Brak",
+        "kodepos": [
+            "34881"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Lampung%20Barat&jobs=Batu%20Brak",
+            "jumlah": "11"
+        },
+        "pulau": null,
+        "kode": "18.04.10"
+    },
+    {
+        "no": "5",
+        "name": "Batu Ketulis",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Lampung%20Barat&jobs=Batu%20Ketulis",
+        "kodepos": [
+            "34872"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Lampung%20Barat&jobs=Batu%20Ketulis",
+            "jumlah": "10"
+        },
+        "pulau": null,
+        "kode": "18.04.21"
+    },
+    {
+        "no": "6",
+        "name": "Belalau",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Lampung%20Barat&jobs=Belalau",
+        "kodepos": [
+            "34873"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Lampung%20Barat&jobs=Belalau",
+            "jumlah": "10"
+        },
+        "pulau": null,
+        "kode": "18.04.06"
+    },
+    {
+        "no": "7",
+        "name": "Gedung Surian",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Lampung%20Barat&jobs=Gedung%20Surian",
+        "kodepos": [
+            "34871"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Lampung%20Barat&jobs=Gedung%20Surian",
+            "jumlah": "5"
+        },
+        "pulau": null,
+        "kode": "18.04.15"
+    },
+    {
+        "no": "8",
+        "name": "Kebun Tebu",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Lampung%20Barat&jobs=Kebun%20Tebu",
+        "kodepos": [
+            "34867"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Lampung%20Barat&jobs=Kebun%20Tebu",
+            "jumlah": "10"
+        },
+        "pulau": null,
+        "kode": "18.04.18"
+    },
+    {
+        "no": "9",
+        "name": "Lumbok Seminung",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Lampung%20Barat&jobs=Lumbok%20Seminung",
+        "kodepos": [
+            "34879"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Lampung%20Barat&jobs=Lumbok%20Seminung",
+            "jumlah": "11"
+        },
+        "pulau": null,
+        "kode": "18.04.22"
+    },
+    {
+        "no": "10",
+        "name": "Pagar Dewa",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Lampung%20Barat&jobs=Pagar%20Dewa",
+        "kodepos": [
+            "34885"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Lampung%20Barat&jobs=Pagar%20Dewa",
+            "jumlah": "10"
+        },
+        "pulau": null,
+        "kode": "18.04.20"
+    },
+    {
+        "no": "11",
+        "name": "Sekincau",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Lampung%20Barat&jobs=Sekincau",
+        "kodepos": [
+            "34886"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Lampung%20Barat&jobs=Sekincau",
+            "jumlah": "5"
+        },
+        "pulau": null,
+        "kode": "18.04.08"
+    },
+    {
+        "no": "12",
+        "name": "Sukau",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Lampung%20Barat&jobs=Sukau",
+        "kodepos": [
+            "34868"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Lampung%20Barat&jobs=Sukau",
+            "jumlah": "10"
+        },
+        "pulau": null,
+        "kode": "18.04.11"
+    },
+    {
+        "no": "13",
+        "name": "Sumber Jaya",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Lampung%20Barat&jobs=Sumber%20Jaya",
+        "kodepos": [
+            "34870"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Lampung%20Barat&jobs=Sumber%20Jaya",
+            "jumlah": "6"
+        },
+        "pulau": null,
+        "kode": "18.04.05"
+    },
+    {
+        "no": "14",
+        "name": "Suoh",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Lampung%20Barat&jobs=Suoh",
+        "kodepos": [
+            "34880"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Lampung%20Barat&jobs=Suoh",
+            "jumlah": "7"
+        },
+        "pulau": null,
+        "kode": "18.04.09"
+    },
+    {
+        "no": "15",
+        "name": "Way Tenong",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Lampung%20Barat&jobs=Way%20Tenong",
+        "kodepos": [
+            "34884"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Lampung%20Barat&jobs=Way%20Tenong",
+            "jumlah": "9"
+        },
+        "pulau": null,
+        "kode": "18.04.07"
+    }
+]

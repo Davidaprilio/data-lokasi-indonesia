@@ -1,0 +1,74 @@
+[
+    {
+        "no": "1",
+        "name": "Dempo Selatan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Pagar%20Alam&jobs=Dempo%20Selatan",
+        "kodepos": [
+            "31521"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Pagar%20Alam&jobs=Dempo%20Selatan",
+            "jumlah": "5"
+        },
+        "pulau": null,
+        "kode": "16.72.04"
+    },
+    {
+        "no": "2",
+        "name": "Dempo Tengah",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Pagar%20Alam&jobs=Dempo%20Tengah",
+        "kodepos": [
+            "31520"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Pagar%20Alam&jobs=Dempo%20Tengah",
+            "jumlah": "5"
+        },
+        "pulau": null,
+        "kode": "16.72.05"
+    },
+    {
+        "no": "3",
+        "name": "Dempo Utara",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Pagar%20Alam&jobs=Dempo%20Utara",
+        "kodepos": [
+            "31510"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Pagar%20Alam&jobs=Dempo%20Utara",
+            "jumlah": "7"
+        },
+        "pulau": null,
+        "kode": "16.72.03"
+    },
+    {
+        "no": "4",
+        "name": "Pagar Alam Selatan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Pagar%20Alam&jobs=Pagar%20Alam%20Selatan",
+        "kodepos": [
+            "31522",
+            "31529"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Pagar%20Alam&jobs=Pagar%20Alam%20Selatan",
+            "jumlah": "8"
+        },
+        "pulau": null,
+        "kode": "16.72.02"
+    },
+    {
+        "no": "5",
+        "name": "Pagar Alam Utara",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Pagar%20Alam&jobs=Pagar%20Alam%20Utara",
+        "kodepos": [
+            "31511",
+            "31551"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Pagar%20Alam&jobs=Pagar%20Alam%20Utara",
+            "jumlah": "10"
+        },
+        "pulau": null,
+        "kode": "16.72.01"
+    }
+]

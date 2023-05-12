@@ -1,0 +1,165 @@
+[
+    {
+        "no": "1",
+        "name": "Landu Leko",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Rote%20Ndao&jobs=Landu%20Leko",
+        "kodepos": [
+            "85974"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Rote%20Ndao&jobs=Landu%20Leko",
+            "jumlah": "7"
+        },
+        "pulau": null,
+        "kode": "53.14.10"
+    },
+    {
+        "no": "2",
+        "name": "Lobalain",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Rote%20Ndao&jobs=Lobalain",
+        "kodepos": [
+            "85912",
+            "85918"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Rote%20Ndao&jobs=Lobalain",
+            "jumlah": "18"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Rote%20Ndao&jobs=Lobalain",
+            "jumlah": "4"
+        },
+        "kode": "53.14.03"
+    },
+    {
+        "no": "3",
+        "name": "Ndao Nuse",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Rote%20Ndao&jobs=Ndao%20Nuse",
+        "kodepos": [
+            "85983"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Rote%20Ndao&jobs=Ndao%20Nuse",
+            "jumlah": "5"
+        },
+        "pulau": null,
+        "kode": "53.14.09"
+    },
+    {
+        "no": "4",
+        "name": "Pantai Baru",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Rote%20Ndao&jobs=Pantai%20Baru",
+        "kodepos": [
+            "85973"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Rote%20Ndao&jobs=Pantai%20Baru",
+            "jumlah": "15"
+        },
+        "pulau": null,
+        "kode": "53.14.05"
+    },
+    {
+        "no": "5",
+        "name": "Rote Barat",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Rote%20Ndao&jobs=Rote%20Barat",
+        "kodepos": [
+            "85981",
+            "85982"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Rote%20Ndao&jobs=Rote%20Barat",
+            "jumlah": "7"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Rote%20Ndao&jobs=Rote%20Barat",
+            "jumlah": "1"
+        },
+        "kode": "53.14.07"
+    },
+    {
+        "no": "6",
+        "name": "Rote Barat Daya",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Rote%20Ndao&jobs=Rote%20Barat%20Daya",
+        "kodepos": [
+            "85982"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Rote%20Ndao&jobs=Rote%20Barat%20Daya",
+            "jumlah": "19"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Rote%20Ndao&jobs=Rote%20Barat%20Daya",
+            "jumlah": "19"
+        },
+        "kode": "53.14.01"
+    },
+    {
+        "no": "7",
+        "name": "Rote Barat Laut",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Rote%20Ndao&jobs=Rote%20Barat%20Laut",
+        "kodepos": [
+            "85981"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Rote%20Ndao&jobs=Rote%20Barat%20Laut",
+            "jumlah": "22"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Rote%20Ndao&jobs=Rote%20Barat%20Laut",
+            "jumlah": "3"
+        },
+        "kode": "53.14.02"
+    },
+    {
+        "no": "8",
+        "name": "Rote Selatan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Rote%20Ndao&jobs=Rote%20Selatan",
+        "kodepos": [
+            "85972"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Rote%20Ndao&jobs=Rote%20Selatan",
+            "jumlah": "7"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Rote%20Ndao&jobs=Rote%20Selatan",
+            "jumlah": "1"
+        },
+        "kode": "53.14.08"
+    },
+    {
+        "no": "9",
+        "name": "Rote Tengah",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Rote%20Ndao&jobs=Rote%20Tengah",
+        "kodepos": [
+            "85971"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Rote%20Ndao&jobs=Rote%20Tengah",
+            "jumlah": "8"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Rote%20Ndao&jobs=Rote%20Tengah",
+            "jumlah": "1"
+        },
+        "kode": "53.14.04"
+    },
+    {
+        "no": "10",
+        "name": "Rote Timur",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Rote%20Ndao&jobs=Rote%20Timur",
+        "kodepos": [
+            "85975"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Rote%20Ndao&jobs=Rote%20Timur",
+            "jumlah": "11"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Rote%20Ndao&jobs=Rote%20Timur",
+            "jumlah": "31"
+        },
+        "kode": "53.14.06"
+    }
+]

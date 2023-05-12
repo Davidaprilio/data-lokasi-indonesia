@@ -1,0 +1,328 @@
+[
+    {
+        "no": "1",
+        "name": "Binakal",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Bondowoso&jobs=Binakal",
+        "kodepos": [
+            "68251"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Bondowoso&jobs=Binakal",
+            "jumlah": "8"
+        },
+        "pulau": null,
+        "kode": "35.11.20"
+    },
+    {
+        "no": "2",
+        "name": "Bondowoso",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Bondowoso&jobs=Bondowoso",
+        "kodepos": [
+            "68211",
+            "68219"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Bondowoso&jobs=Bondowoso",
+            "jumlah": "11"
+        },
+        "pulau": null,
+        "kode": "35.11.11"
+    },
+    {
+        "no": "3",
+        "name": "Botolinggo",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Bondowoso&jobs=Botolinggo",
+        "kodepos": [
+            "68284",
+            "68285"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Bondowoso&jobs=Botolinggo",
+            "jumlah": "8"
+        },
+        "pulau": null,
+        "kode": "35.11.22"
+    },
+    {
+        "no": "4",
+        "name": "Cermee",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Bondowoso&jobs=Cermee",
+        "kodepos": [
+            "68261",
+            "68286"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Bondowoso&jobs=Cermee",
+            "jumlah": "15"
+        },
+        "pulau": null,
+        "kode": "35.11.15"
+    },
+    {
+        "no": "5",
+        "name": "Curahdami",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Bondowoso&jobs=Curahdami",
+        "kodepos": [
+            "68250"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Bondowoso&jobs=Curahdami",
+            "jumlah": "12"
+        },
+        "pulau": null,
+        "kode": "35.11.07"
+    },
+    {
+        "no": "6",
+        "name": "Grujugan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Bondowoso&jobs=Grujugan",
+        "kodepos": [
+            "68261"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Bondowoso&jobs=Grujugan",
+            "jumlah": "11"
+        },
+        "pulau": null,
+        "kode": "35.11.06"
+    },
+    {
+        "no": "7",
+        "name": "Jambesari Darus Sholah",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Bondowoso&jobs=Jambesari%20Darus%20Sholah",
+        "kodepos": [
+            "68261",
+            "68271"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Bondowoso&jobs=Jambesari%20Darus%20Sholah",
+            "jumlah": "9"
+        },
+        "pulau": null,
+        "kode": "35.11.23"
+    },
+    {
+        "no": "8",
+        "name": "Klabang",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Bondowoso&jobs=Klabang",
+        "kodepos": [
+            "68284"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Bondowoso&jobs=Klabang",
+            "jumlah": "11"
+        },
+        "pulau": null,
+        "kode": "35.11.14"
+    },
+    {
+        "no": "9",
+        "name": "Maesan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Bondowoso&jobs=Maesan",
+        "kodepos": [
+            "68262"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Bondowoso&jobs=Maesan",
+            "jumlah": "12"
+        },
+        "pulau": null,
+        "kode": "35.11.01"
+    },
+    {
+        "no": "10",
+        "name": "Pakem",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Bondowoso&jobs=Pakem",
+        "kodepos": [
+            "68253"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Bondowoso&jobs=Pakem",
+            "jumlah": "8"
+        },
+        "pulau": null,
+        "kode": "35.11.17"
+    },
+    {
+        "no": "11",
+        "name": "Prajekan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Bondowoso&jobs=Prajekan",
+        "kodepos": [
+            "68285"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Bondowoso&jobs=Prajekan",
+            "jumlah": "7"
+        },
+        "pulau": null,
+        "kode": "35.11.16"
+    },
+    {
+        "no": "12",
+        "name": "Pujer",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Bondowoso&jobs=Pujer",
+        "kodepos": [
+            "68271"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Bondowoso&jobs=Pujer",
+            "jumlah": "11"
+        },
+        "pulau": null,
+        "kode": "35.11.05"
+    },
+    {
+        "no": "13",
+        "name": "Sempol",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Bondowoso&jobs=Sempol",
+        "kodepos": [
+            "68288"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Bondowoso&jobs=Sempol",
+            "jumlah": "6"
+        },
+        "pulau": null,
+        "kode": "35.11.19"
+    },
+    {
+        "no": "14",
+        "name": "Sukosari",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Bondowoso&jobs=Sukosari",
+        "kodepos": [
+            "68287"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Bondowoso&jobs=Sukosari",
+            "jumlah": "4"
+        },
+        "pulau": null,
+        "kode": "35.11.04"
+    },
+    {
+        "no": "15",
+        "name": "Sumberwringin (Sumber Wringin)",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Bondowoso&jobs=Sumberwringin%20(Sumber%20Wringin)",
+        "kodepos": [
+            "68289"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Bondowoso&jobs=Sumberwringin%20(Sumber%20Wringin)",
+            "jumlah": "6"
+        },
+        "pulau": null,
+        "kode": "35.11.18"
+    },
+    {
+        "no": "16",
+        "name": "Taman Krocok",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Bondowoso&jobs=Taman%20Krocok",
+        "kodepos": [
+            "68291"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Bondowoso&jobs=Taman%20Krocok",
+            "jumlah": "7"
+        },
+        "pulau": null,
+        "kode": "35.11.21"
+    },
+    {
+        "no": "17",
+        "name": "Tamanan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Bondowoso&jobs=Tamanan",
+        "kodepos": [
+            "68263"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Bondowoso&jobs=Tamanan",
+            "jumlah": "9"
+        },
+        "pulau": null,
+        "kode": "35.11.02"
+    },
+    {
+        "no": "18",
+        "name": "Tapen",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Bondowoso&jobs=Tapen",
+        "kodepos": [
+            "68283"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Bondowoso&jobs=Tapen",
+            "jumlah": "9"
+        },
+        "pulau": null,
+        "kode": "35.11.10"
+    },
+    {
+        "no": "19",
+        "name": "Tegalampel",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Bondowoso&jobs=Tegalampel",
+        "kodepos": [
+            "68292"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Bondowoso&jobs=Tegalampel",
+            "jumlah": "8"
+        },
+        "pulau": null,
+        "kode": "35.11.13"
+    },
+    {
+        "no": "20",
+        "name": "Tenggarang",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Bondowoso&jobs=Tenggarang",
+        "kodepos": [
+            "68281"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Bondowoso&jobs=Tenggarang",
+            "jumlah": "12"
+        },
+        "pulau": null,
+        "kode": "35.11.08"
+    },
+    {
+        "no": "21",
+        "name": "Tlogosari",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Bondowoso&jobs=Tlogosari",
+        "kodepos": [
+            "68272"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Bondowoso&jobs=Tlogosari",
+            "jumlah": "10"
+        },
+        "pulau": null,
+        "kode": "35.11.03"
+    },
+    {
+        "no": "22",
+        "name": "Wonosari",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Bondowoso&jobs=Wonosari",
+        "kodepos": [
+            "68282"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Bondowoso&jobs=Wonosari",
+            "jumlah": "12"
+        },
+        "pulau": null,
+        "kode": "35.11.09"
+    },
+    {
+        "no": "23",
+        "name": "Wringin",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Bondowoso&jobs=Wringin",
+        "kodepos": [
+            "68252"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Bondowoso&jobs=Wringin",
+            "jumlah": "13"
+        },
+        "pulau": null,
+        "kode": "35.11.12"
+    }
+]

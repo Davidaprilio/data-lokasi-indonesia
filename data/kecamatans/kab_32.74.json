@@ -1,0 +1,77 @@
+[
+    {
+        "no": "1",
+        "name": "Harjamukti",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Cirebon&jobs=Harjamukti",
+        "kodepos": [
+            "45141",
+            "45145"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Cirebon&jobs=Harjamukti",
+            "jumlah": "5"
+        },
+        "pulau": null,
+        "kode": "32.74.03"
+    },
+    {
+        "no": "2",
+        "name": "Kejaksan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Cirebon&jobs=Kejaksan",
+        "kodepos": [
+            "45121",
+            "45123"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Cirebon&jobs=Kejaksan",
+            "jumlah": "4"
+        },
+        "pulau": null,
+        "kode": "32.74.01"
+    },
+    {
+        "no": "3",
+        "name": "Kesambi",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Cirebon&jobs=Kesambi",
+        "kodepos": [
+            "45131",
+            "45134"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Cirebon&jobs=Kesambi",
+            "jumlah": "5"
+        },
+        "pulau": null,
+        "kode": "32.74.05"
+    },
+    {
+        "no": "4",
+        "name": "Lemah Wungkuk (Lemahwungkuk)",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Cirebon&jobs=Lemah%20Wungkuk%20(Lemahwungkuk)",
+        "kodepos": [
+            "45111",
+            "45114"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Cirebon&jobs=Lemah%20Wungkuk%20(Lemahwungkuk)",
+            "jumlah": "4"
+        },
+        "pulau": null,
+        "kode": "32.74.02"
+    },
+    {
+        "no": "5",
+        "name": "Pekalipan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Cirebon&jobs=Pekalipan",
+        "kodepos": [
+            "45115",
+            "45118"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Cirebon&jobs=Pekalipan",
+            "jumlah": "4"
+        },
+        "pulau": null,
+        "kode": "32.74.04"
+    }
+]

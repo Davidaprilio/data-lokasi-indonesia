@@ -1,0 +1,98 @@
+[
+    {
+        "no": "1",
+        "name": "Koba",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Bangka%20Tengah&jobs=Koba",
+        "kodepos": [
+            "33681"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Bangka%20Tengah&jobs=Koba",
+            "jumlah": "11"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Bangka%20Tengah&jobs=Koba",
+            "jumlah": "8"
+        },
+        "kode": "19.04.01"
+    },
+    {
+        "no": "2",
+        "name": "Lubuk Besar",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Bangka%20Tengah&jobs=Lubuk%20Besar",
+        "kodepos": [
+            "33682"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Bangka%20Tengah&jobs=Lubuk%20Besar",
+            "jumlah": "9"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Bangka%20Tengah&jobs=Lubuk%20Besar",
+            "jumlah": "3"
+        },
+        "kode": "19.04.06"
+    },
+    {
+        "no": "3",
+        "name": "Namang",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Bangka%20Tengah&jobs=Namang",
+        "kodepos": [
+            "33683"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Bangka%20Tengah&jobs=Namang",
+            "jumlah": "8"
+        },
+        "pulau": null,
+        "kode": "19.04.05"
+    },
+    {
+        "no": "4",
+        "name": "Pangkalan Baru",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Bangka%20Tengah&jobs=Pangkalan%20Baru",
+        "kodepos": [
+            "33684"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Bangka%20Tengah&jobs=Pangkalan%20Baru",
+            "jumlah": "12"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Bangka%20Tengah&jobs=Pangkalan%20Baru",
+            "jumlah": "3"
+        },
+        "kode": "19.04.02"
+    },
+    {
+        "no": "5",
+        "name": "Simpang Katis",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Bangka%20Tengah&jobs=Simpang%20Katis",
+        "kodepos": [
+            "33674"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Bangka%20Tengah&jobs=Simpang%20Katis",
+            "jumlah": "10"
+        },
+        "pulau": null,
+        "kode": "19.04.04"
+    },
+    {
+        "no": "6",
+        "name": "Sungai Selan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Bangka%20Tengah&jobs=Sungai%20Selan",
+        "kodepos": [
+            "33675"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Bangka%20Tengah&jobs=Sungai%20Selan",
+            "jumlah": "13"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Bangka%20Tengah&jobs=Sungai%20Selan",
+            "jumlah": "6"
+        },
+        "kode": "19.04.03"
+    }
+]

@@ -1,0 +1,377 @@
+[
+    {
+        "no": "1",
+        "name": "Ayau",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Raja%20Ampat&jobs=Ayau",
+        "kodepos": [
+            "98461"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Raja%20Ampat&jobs=Ayau",
+            "jumlah": "4"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Raja%20Ampat&jobs=Ayau",
+            "jumlah": "32"
+        },
+        "kode": "92.05.24"
+    },
+    {
+        "no": "2",
+        "name": "Batanta Selatan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Raja%20Ampat&jobs=Batanta%20Selatan",
+        "kodepos": [
+            "98491"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Raja%20Ampat&jobs=Batanta%20Selatan",
+            "jumlah": "4"
+        },
+        "pulau": null,
+        "kode": "92.05.25"
+    },
+    {
+        "no": "3",
+        "name": "Batanta Utara",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Raja%20Ampat&jobs=Batanta%20Utara",
+        "kodepos": [
+            "98492"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Raja%20Ampat&jobs=Batanta%20Utara",
+            "jumlah": "4"
+        },
+        "pulau": null,
+        "kode": "92.05.20"
+    },
+    {
+        "no": "4",
+        "name": "Kepulauan Ayau",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Raja%20Ampat&jobs=Kepulauan%20Ayau",
+        "kodepos": [
+            "98462"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Raja%20Ampat&jobs=Kepulauan%20Ayau",
+            "jumlah": "5"
+        },
+        "pulau": null,
+        "kode": "92.05.05"
+    },
+    {
+        "no": "5",
+        "name": "Kepulauan Sembilan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Raja%20Ampat&jobs=Kepulauan%20Sembilan",
+        "kodepos": [
+            "98481"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Raja%20Ampat&jobs=Kepulauan%20Sembilan",
+            "jumlah": "4"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Raja%20Ampat&jobs=Kepulauan%20Sembilan",
+            "jumlah": "12"
+        },
+        "kode": "92.05.17"
+    },
+    {
+        "no": "6",
+        "name": "Kofiau",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Raja%20Ampat&jobs=Kofiau",
+        "kodepos": [
+            "98482"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Raja%20Ampat&jobs=Kofiau",
+            "jumlah": "5"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Raja%20Ampat&jobs=Kofiau",
+            "jumlah": "18"
+        },
+        "kode": "92.05.10"
+    },
+    {
+        "no": "7",
+        "name": "Kota Waisai",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Raja%20Ampat&jobs=Kota%20Waisai",
+        "kodepos": [
+            "98471"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Raja%20Ampat&jobs=Kota%20Waisai",
+            "jumlah": "4"
+        },
+        "pulau": null,
+        "kode": "92.05.18"
+    },
+    {
+        "no": "8",
+        "name": "Meos Mansar",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Raja%20Ampat&jobs=Meos%20Mansar",
+        "kodepos": [
+            "98472"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Raja%20Ampat&jobs=Meos%20Mansar",
+            "jumlah": "9"
+        },
+        "pulau": null,
+        "kode": "92.05.11"
+    },
+    {
+        "no": "9",
+        "name": "Misool (Misool Utara)",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Raja%20Ampat&jobs=Misool%20(Misool%20Utara)",
+        "kodepos": [
+            "98483"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Raja%20Ampat&jobs=Misool%20(Misool%20Utara)",
+            "jumlah": "5"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Raja%20Ampat&jobs=Misool%20(Misool%20Utara)",
+            "jumlah": "34"
+        },
+        "kode": "92.05.01"
+    },
+    {
+        "no": "10",
+        "name": "Misool Barat",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Raja%20Ampat&jobs=Misool%20Barat",
+        "kodepos": [
+            "98484"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Raja%20Ampat&jobs=Misool%20Barat",
+            "jumlah": "5"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Raja%20Ampat&jobs=Misool%20Barat",
+            "jumlah": "76"
+        },
+        "kode": "92.05.16"
+    },
+    {
+        "no": "11",
+        "name": "Misool Selatan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Raja%20Ampat&jobs=Misool%20Selatan",
+        "kodepos": [
+            "98485"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Raja%20Ampat&jobs=Misool%20Selatan",
+            "jumlah": "5"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Raja%20Ampat&jobs=Misool%20Selatan",
+            "jumlah": "249"
+        },
+        "kode": "92.05.13"
+    },
+    {
+        "no": "12",
+        "name": "Misool Timur",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Raja%20Ampat&jobs=Misool%20Timur",
+        "kodepos": [
+            "98486"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Raja%20Ampat&jobs=Misool%20Timur",
+            "jumlah": "6"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Raja%20Ampat&jobs=Misool%20Timur",
+            "jumlah": "124"
+        },
+        "kode": "92.05.06"
+    },
+    {
+        "no": "13",
+        "name": "Salawati Barat",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Raja%20Ampat&jobs=Salawati%20Barat",
+        "kodepos": [
+            "98493"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Raja%20Ampat&jobs=Salawati%20Barat",
+            "jumlah": "4"
+        },
+        "pulau": null,
+        "kode": "92.05.21"
+    },
+    {
+        "no": "14",
+        "name": "Salawati Tengah",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Raja%20Ampat&jobs=Salawati%20Tengah",
+        "kodepos": [
+            "98494"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Raja%20Ampat&jobs=Salawati%20Tengah",
+            "jumlah": "7"
+        },
+        "pulau": null,
+        "kode": "92.05.22"
+    },
+    {
+        "no": "15",
+        "name": "Salawati Utara",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Raja%20Ampat&jobs=Salawati%20Utara",
+        "kodepos": [
+            "98495"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Raja%20Ampat&jobs=Salawati%20Utara",
+            "jumlah": "6"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Raja%20Ampat&jobs=Salawati%20Utara",
+            "jumlah": "43"
+        },
+        "kode": "92.05.04"
+    },
+    {
+        "no": "16",
+        "name": "Supnin",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Raja%20Ampat&jobs=Supnin",
+        "kodepos": [
+            "98463"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Raja%20Ampat&jobs=Supnin",
+            "jumlah": "4"
+        },
+        "pulau": null,
+        "kode": "92.05.23"
+    },
+    {
+        "no": "17",
+        "name": "Teluk Mayalibit",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Raja%20Ampat&jobs=Teluk%20Mayalibit",
+        "kodepos": [
+            "98473"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Raja%20Ampat&jobs=Teluk%20Mayalibit",
+            "jumlah": "4"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Raja%20Ampat&jobs=Teluk%20Mayalibit",
+            "jumlah": "2"
+        },
+        "kode": "92.05.09"
+    },
+    {
+        "no": "18",
+        "name": "Tiplol Mayalibit",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Raja%20Ampat&jobs=Tiplol%20Mayalibit",
+        "kodepos": [
+            "98474"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Raja%20Ampat&jobs=Tiplol%20Mayalibit",
+            "jumlah": "6"
+        },
+        "pulau": null,
+        "kode": "92.05.19"
+    },
+    {
+        "no": "19",
+        "name": "Waigeo Barat",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Raja%20Ampat&jobs=Waigeo%20Barat",
+        "kodepos": [
+            "98464"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Raja%20Ampat&jobs=Waigeo%20Barat",
+            "jumlah": "5"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Raja%20Ampat&jobs=Waigeo%20Barat",
+            "jumlah": "165"
+        },
+        "kode": "92.05.07"
+    },
+    {
+        "no": "20",
+        "name": "Waigeo Barat Kepulauan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Raja%20Ampat&jobs=Waigeo%20Barat%20Kepulauan",
+        "kodepos": [
+            "98465"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Raja%20Ampat&jobs=Waigeo%20Barat%20Kepulauan",
+            "jumlah": "6"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Raja%20Ampat&jobs=Waigeo%20Barat%20Kepulauan",
+            "jumlah": "21"
+        },
+        "kode": "92.05.15"
+    },
+    {
+        "no": "21",
+        "name": "Waigeo Selatan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Raja%20Ampat&jobs=Waigeo%20Selatan",
+        "kodepos": [
+            "98475"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Raja%20Ampat&jobs=Waigeo%20Selatan",
+            "jumlah": "5"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Raja%20Ampat&jobs=Waigeo%20Selatan",
+            "jumlah": "157"
+        },
+        "kode": "92.05.03"
+    },
+    {
+        "no": "22",
+        "name": "Waigeo Timur",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Raja%20Ampat&jobs=Waigeo%20Timur",
+        "kodepos": [
+            "98476"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Raja%20Ampat&jobs=Waigeo%20Timur",
+            "jumlah": "4"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Raja%20Ampat&jobs=Waigeo%20Timur",
+            "jumlah": "22"
+        },
+        "kode": "92.05.08"
+    },
+    {
+        "no": "23",
+        "name": "Waigeo Utara",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Raja%20Ampat&jobs=Waigeo%20Utara",
+        "kodepos": [
+            "98466"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Raja%20Ampat&jobs=Waigeo%20Utara",
+            "jumlah": "6"
+        },
+        "pulau": null,
+        "kode": "92.05.02"
+    },
+    {
+        "no": "24",
+        "name": "Warwarbomi",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Raja%20Ampat&jobs=Warwarbomi",
+        "kodepos": [
+            "98467"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Raja%20Ampat&jobs=Warwarbomi",
+            "jumlah": "4"
+        },
+        "pulau": null,
+        "kode": "92.05.14"
+    }
+]

@@ -1,0 +1,170 @@
+[
+    {
+        "no": "1",
+        "kodepos": "99870",
+        "name": "Dagimon",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Obaa-Kab.-Mappi&jobs=Dagimon",
+        "kode": "93.03.01.2002"
+    },
+    {
+        "no": "2",
+        "kodepos": "99870",
+        "name": "Emete",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Obaa-Kab.-Mappi&jobs=Emete",
+        "kode": "93.03.01.2024"
+    },
+    {
+        "no": "3",
+        "kodepos": "99870",
+        "name": "Enem",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Obaa-Kab.-Mappi&jobs=Enem",
+        "kode": "93.03.01.2013"
+    },
+    {
+        "no": "4",
+        "kodepos": "99870",
+        "name": "Gauda",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Obaa-Kab.-Mappi&jobs=Gauda",
+        "kode": "93.03.01.2011"
+    },
+    {
+        "no": "5",
+        "kodepos": "99870",
+        "name": "Harome",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Obaa-Kab.-Mappi&jobs=Harome",
+        "kode": "93.03.01.2028"
+    },
+    {
+        "no": "6",
+        "kodepos": "99870",
+        "name": "Kadam/Oyim",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Obaa-Kab.-Mappi&jobs=Kadam/Oyim",
+        "kode": "93.03.01.2015"
+    },
+    {
+        "no": "7",
+        "kodepos": "99870",
+        "name": "Kepi",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Obaa-Kab.-Mappi&jobs=Kepi",
+        "kode": "93.03.01.1022"
+    },
+    {
+        "no": "8",
+        "kodepos": "99870",
+        "name": "Kogo",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Obaa-Kab.-Mappi&jobs=Kogo",
+        "kode": "93.03.01.2014"
+    },
+    {
+        "no": "9",
+        "kodepos": "99870",
+        "name": "Madu",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Obaa-Kab.-Mappi&jobs=Madu",
+        "kode": "93.03.01.2031"
+    },
+    {
+        "no": "10",
+        "kodepos": "99870",
+        "name": "Mappi Bawah / Yamui",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Obaa-Kab.-Mappi&jobs=Mappi%20Bawah%20/%20Yamui",
+        "kode": "93.03.01.2004"
+    },
+    {
+        "no": "11",
+        "kodepos": "99870",
+        "name": "Marbin",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Obaa-Kab.-Mappi&jobs=Marbin",
+        "kode": "93.03.01.2034"
+    },
+    {
+        "no": "12",
+        "kodepos": "99870",
+        "name": "Masin",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Obaa-Kab.-Mappi&jobs=Masin",
+        "kode": "93.03.01.2030"
+    },
+    {
+        "no": "13",
+        "kodepos": "99870",
+        "name": "Metim",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Obaa-Kab.-Mappi&jobs=Metim",
+        "kode": "93.03.01.2029"
+    },
+    {
+        "no": "14",
+        "kodepos": "99870",
+        "name": "Muin",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Obaa-Kab.-Mappi&jobs=Muin",
+        "kode": "93.03.01.2010"
+    },
+    {
+        "no": "15",
+        "kodepos": "99870",
+        "name": "Obaa",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Obaa-Kab.-Mappi&jobs=Obaa",
+        "kode": "93.03.01.2001"
+    },
+    {
+        "no": "16",
+        "kodepos": "99870",
+        "name": "Paedam",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Obaa-Kab.-Mappi&jobs=Paedam",
+        "kode": "93.03.01.2033"
+    },
+    {
+        "no": "17",
+        "kodepos": "99870",
+        "name": "Piai",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Obaa-Kab.-Mappi&jobs=Piai",
+        "kode": "93.03.01.2009"
+    },
+    {
+        "no": "18",
+        "kodepos": "99870",
+        "name": "Rayam",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Obaa-Kab.-Mappi&jobs=Rayam",
+        "kode": "93.03.01.2026"
+    },
+    {
+        "no": "19",
+        "kodepos": "99870",
+        "name": "Rep",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Obaa-Kab.-Mappi&jobs=Rep",
+        "kode": "93.03.01.2003"
+    },
+    {
+        "no": "20",
+        "kodepos": "99870",
+        "name": "Soba",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Obaa-Kab.-Mappi&jobs=Soba",
+        "kode": "93.03.01.2012"
+    },
+    {
+        "no": "21",
+        "kodepos": "99870",
+        "name": "Tokhom",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Obaa-Kab.-Mappi&jobs=Tokhom",
+        "kode": "93.03.01.2023"
+    },
+    {
+        "no": "22",
+        "kodepos": "99870",
+        "name": "Wairu",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Obaa-Kab.-Mappi&jobs=Wairu",
+        "kode": "93.03.01.2025"
+    },
+    {
+        "no": "23",
+        "kodepos": "99870",
+        "name": "Wanggate",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Obaa-Kab.-Mappi&jobs=Wanggate",
+        "kode": "93.03.01.2005"
+    },
+    {
+        "no": "24",
+        "kodepos": "99870",
+        "name": "Yangpop",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Obaa-Kab.-Mappi&jobs=Yangpop",
+        "kode": "93.03.01.2032"
+    }
+]

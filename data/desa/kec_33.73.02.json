@@ -1,0 +1,51 @@
+[
+    {
+        "no": "1",
+        "kodepos": "50743",
+        "name": "Gendongan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Tingkir-Kota-Salatiga&jobs=Gendongan",
+        "kode": "33.73.02.1002"
+    },
+    {
+        "no": "2",
+        "kodepos": "50744",
+        "name": "Kalibening",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Tingkir-Kota-Salatiga&jobs=Kalibening",
+        "kode": "33.73.02.1004"
+    },
+    {
+        "no": "3",
+        "kodepos": "50742",
+        "name": "Kutowinangun Kidul",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Tingkir-Kota-Salatiga&jobs=Kutowinangun%20Kidul",
+        "kode": "33.73.02.1001"
+    },
+    {
+        "no": "4",
+        "kodepos": "50742",
+        "name": "Kutowinangun Lor",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Tingkir-Kota-Salatiga&jobs=Kutowinangun%20Lor",
+        "kode": "33.73.02.1007"
+    },
+    {
+        "no": "5",
+        "kodepos": "50741",
+        "name": "Sidorejo Kidul",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Tingkir-Kota-Salatiga&jobs=Sidorejo%20Kidul",
+        "kode": "33.73.02.1003"
+    },
+    {
+        "no": "6",
+        "kodepos": "50746",
+        "name": "Tingkir Lor",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Tingkir-Kota-Salatiga&jobs=Tingkir%20Lor",
+        "kode": "33.73.02.1005"
+    },
+    {
+        "no": "7",
+        "kodepos": "50745",
+        "name": "Tingkir Tengah",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Tingkir-Kota-Salatiga&jobs=Tingkir%20Tengah",
+        "kode": "33.73.02.1006"
+    }
+]

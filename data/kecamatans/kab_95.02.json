@@ -1,0 +1,478 @@
+[
+    {
+        "no": "1",
+        "name": "Aboy",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pegunungan%20Bintang&jobs=Aboy",
+        "kodepos": [
+            "99401"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pegunungan%20Bintang&jobs=Aboy",
+            "jumlah": "7"
+        },
+        "pulau": null,
+        "kode": "95.02.08"
+    },
+    {
+        "no": "2",
+        "name": "Alemsom",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pegunungan%20Bintang&jobs=Alemsom",
+        "kodepos": [
+            "99411"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pegunungan%20Bintang&jobs=Alemsom",
+            "jumlah": "12"
+        },
+        "pulau": null,
+        "kode": "95.02.11"
+    },
+    {
+        "no": "3",
+        "name": "Awinbon",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pegunungan%20Bintang&jobs=Awinbon",
+        "kodepos": [
+            "99431"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pegunungan%20Bintang&jobs=Awinbon",
+            "jumlah": "5"
+        },
+        "pulau": null,
+        "kode": "95.02.18"
+    },
+    {
+        "no": "4",
+        "name": "Batani",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pegunungan%20Bintang&jobs=Batani",
+        "kodepos": [
+            "99441"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pegunungan%20Bintang&jobs=Batani",
+            "jumlah": "7"
+        },
+        "pulau": null,
+        "kode": "95.02.26"
+    },
+    {
+        "no": "5",
+        "name": "Batom",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pegunungan%20Bintang&jobs=Batom",
+        "kodepos": [
+            "99442"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pegunungan%20Bintang&jobs=Batom",
+            "jumlah": "11"
+        },
+        "pulau": null,
+        "kode": "95.02.05"
+    },
+    {
+        "no": "6",
+        "name": "Bime",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pegunungan%20Bintang&jobs=Bime",
+        "kodepos": [
+            "99451"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pegunungan%20Bintang&jobs=Bime",
+            "jumlah": "10"
+        },
+        "pulau": null,
+        "kode": "95.02.10"
+    },
+    {
+        "no": "7",
+        "name": "Borme",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pegunungan%20Bintang&jobs=Borme",
+        "kodepos": [
+            "99452"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pegunungan%20Bintang&jobs=Borme",
+            "jumlah": "13"
+        },
+        "pulau": null,
+        "kode": "95.02.06"
+    },
+    {
+        "no": "8",
+        "name": "Eipumek",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pegunungan%20Bintang&jobs=Eipumek",
+        "kodepos": [
+            "99453"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pegunungan%20Bintang&jobs=Eipumek",
+            "jumlah": "14"
+        },
+        "pulau": null,
+        "kode": "95.02.32"
+    },
+    {
+        "no": "9",
+        "name": "Iwur (Okiwur)",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pegunungan%20Bintang&jobs=Iwur%20(Okiwur)",
+        "kodepos": [
+            "99432"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pegunungan%20Bintang&jobs=Iwur%20(Okiwur)",
+            "jumlah": "10"
+        },
+        "pulau": null,
+        "kode": "95.02.04"
+    },
+    {
+        "no": "10",
+        "name": "Jetfa",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pegunungan%20Bintang&jobs=Jetfa",
+        "kodepos": [
+            "99402"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pegunungan%20Bintang&jobs=Jetfa",
+            "jumlah": "6"
+        },
+        "pulau": null,
+        "kode": "95.02.30"
+    },
+    {
+        "no": "11",
+        "name": "Kalomdol",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pegunungan%20Bintang&jobs=Kalomdol",
+        "kodepos": [
+            "99412"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pegunungan%20Bintang&jobs=Kalomdol",
+            "jumlah": "5"
+        },
+        "pulau": null,
+        "kode": "95.02.13"
+    },
+    {
+        "no": "12",
+        "name": "Kawor",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pegunungan%20Bintang&jobs=Kawor",
+        "kodepos": [
+            "99433"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pegunungan%20Bintang&jobs=Kawor",
+            "jumlah": "7"
+        },
+        "pulau": null,
+        "kode": "95.02.17"
+    },
+    {
+        "no": "13",
+        "name": "Kiwirok",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pegunungan%20Bintang&jobs=Kiwirok",
+        "kodepos": [
+            "99421"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pegunungan%20Bintang&jobs=Kiwirok",
+            "jumlah": "12"
+        },
+        "pulau": null,
+        "kode": "95.02.02"
+    },
+    {
+        "no": "14",
+        "name": "Kiwirok Timur",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pegunungan%20Bintang&jobs=Kiwirok%20Timur",
+        "kodepos": [
+            "99422"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pegunungan%20Bintang&jobs=Kiwirok%20Timur",
+            "jumlah": "9"
+        },
+        "pulau": null,
+        "kode": "95.02.07"
+    },
+    {
+        "no": "15",
+        "name": "Mofinop",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pegunungan%20Bintang&jobs=Mofinop",
+        "kodepos": [
+            "99443"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pegunungan%20Bintang&jobs=Mofinop",
+            "jumlah": "5"
+        },
+        "pulau": null,
+        "kode": "95.02.29"
+    },
+    {
+        "no": "16",
+        "name": "Murkim",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pegunungan%20Bintang&jobs=Murkim",
+        "kodepos": [
+            "99444"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pegunungan%20Bintang&jobs=Murkim",
+            "jumlah": "4"
+        },
+        "pulau": null,
+        "kode": "95.02.28"
+    },
+    {
+        "no": "17",
+        "name": "Nongme",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pegunungan%20Bintang&jobs=Nongme",
+        "kodepos": [
+            "99445"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pegunungan%20Bintang&jobs=Nongme",
+            "jumlah": "7"
+        },
+        "pulau": null,
+        "kode": "95.02.34"
+    },
+    {
+        "no": "18",
+        "name": "Ok Aom",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pegunungan%20Bintang&jobs=Ok%20Aom",
+        "kodepos": [
+            "99413"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pegunungan%20Bintang&jobs=Ok%20Aom",
+            "jumlah": "6"
+        },
+        "pulau": null,
+        "kode": "95.02.16"
+    },
+    {
+        "no": "19",
+        "name": "Okbab",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pegunungan%20Bintang&jobs=Okbab",
+        "kodepos": [
+            "99403"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pegunungan%20Bintang&jobs=Okbab",
+            "jumlah": "12"
+        },
+        "pulau": null,
+        "kode": "95.02.25"
+    },
+    {
+        "no": "20",
+        "name": "Okbape",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pegunungan%20Bintang&jobs=Okbape",
+        "kodepos": [
+            "99414"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pegunungan%20Bintang&jobs=Okbape",
+            "jumlah": "6"
+        },
+        "pulau": null,
+        "kode": "95.02.12"
+    },
+    {
+        "no": "21",
+        "name": "Okbemtau",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pegunungan%20Bintang&jobs=Okbemtau",
+        "kodepos": [
+            "99423"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pegunungan%20Bintang&jobs=Okbemtau",
+            "jumlah": "9"
+        },
+        "pulau": null,
+        "kode": "95.02.23"
+    },
+    {
+        "no": "22",
+        "name": "Okbibab",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pegunungan%20Bintang&jobs=Okbibab",
+        "kodepos": [
+            "99404"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pegunungan%20Bintang&jobs=Okbibab",
+            "jumlah": "8"
+        },
+        "pulau": null,
+        "kode": "95.02.03"
+    },
+    {
+        "no": "23",
+        "name": "Okhika",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pegunungan%20Bintang&jobs=Okhika",
+        "kodepos": [
+            "99424"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pegunungan%20Bintang&jobs=Okhika",
+            "jumlah": "4"
+        },
+        "pulau": null,
+        "kode": "95.02.20"
+    },
+    {
+        "no": "24",
+        "name": "Oklip",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pegunungan%20Bintang&jobs=Oklip",
+        "kodepos": [
+            "99425"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pegunungan%20Bintang&jobs=Oklip",
+            "jumlah": "7"
+        },
+        "pulau": null,
+        "kode": "95.02.22"
+    },
+    {
+        "no": "25",
+        "name": "Oksamol",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pegunungan%20Bintang&jobs=Oksamol",
+        "kodepos": [
+            "99426"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pegunungan%20Bintang&jobs=Oksamol",
+            "jumlah": "12"
+        },
+        "pulau": null,
+        "kode": "95.02.21"
+    },
+    {
+        "no": "26",
+        "name": "Oksebang",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pegunungan%20Bintang&jobs=Oksebang",
+        "kodepos": [
+            "99427"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pegunungan%20Bintang&jobs=Oksebang",
+            "jumlah": "4"
+        },
+        "pulau": null,
+        "kode": "95.02.24"
+    },
+    {
+        "no": "27",
+        "name": "Oksibil",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pegunungan%20Bintang&jobs=Oksibil",
+        "kodepos": [
+            "99415"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pegunungan%20Bintang&jobs=Oksibil",
+            "jumlah": "8"
+        },
+        "pulau": null,
+        "kode": "95.02.01"
+    },
+    {
+        "no": "28",
+        "name": "Oksop",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pegunungan%20Bintang&jobs=Oksop",
+        "kodepos": [
+            "99416"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pegunungan%20Bintang&jobs=Oksop",
+            "jumlah": "5"
+        },
+        "pulau": null,
+        "kode": "95.02.14"
+    },
+    {
+        "no": "29",
+        "name": "Pamek",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pegunungan%20Bintang&jobs=Pamek",
+        "kodepos": [
+            "99454"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pegunungan%20Bintang&jobs=Pamek",
+            "jumlah": "11"
+        },
+        "pulau": null,
+        "kode": "95.02.33"
+    },
+    {
+        "no": "30",
+        "name": "Pepera",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pegunungan%20Bintang&jobs=Pepera",
+        "kodepos": [
+            "99417"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pegunungan%20Bintang&jobs=Pepera",
+            "jumlah": "7"
+        },
+        "pulau": null,
+        "kode": "95.02.09"
+    },
+    {
+        "no": "31",
+        "name": "Serambakon",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pegunungan%20Bintang&jobs=Serambakon",
+        "kodepos": [
+            "99418"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pegunungan%20Bintang&jobs=Serambakon",
+            "jumlah": "8"
+        },
+        "pulau": null,
+        "kode": "95.02.15"
+    },
+    {
+        "no": "32",
+        "name": "Tarup",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pegunungan%20Bintang&jobs=Tarup",
+        "kodepos": [
+            "99434"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pegunungan%20Bintang&jobs=Tarup",
+            "jumlah": "7"
+        },
+        "pulau": null,
+        "kode": "95.02.19"
+    },
+    {
+        "no": "33",
+        "name": "Teiraplu",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pegunungan%20Bintang&jobs=Teiraplu",
+        "kodepos": [
+            "99405"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pegunungan%20Bintang&jobs=Teiraplu",
+            "jumlah": "10"
+        },
+        "pulau": null,
+        "kode": "95.02.31"
+    },
+    {
+        "no": "34",
+        "name": "Weime",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pegunungan%20Bintang&jobs=Weime",
+        "kodepos": [
+            "99446"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pegunungan%20Bintang&jobs=Weime",
+            "jumlah": "9"
+        },
+        "pulau": null,
+        "kode": "95.02.27"
+    }
+]

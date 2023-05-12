@@ -1,0 +1,47 @@
+[
+    {
+        "no": "1",
+        "name": "Kota (Kediri Kota)",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Kediri&jobs=Kota%20(Kediri%20Kota)",
+        "kodepos": [
+            "64121",
+            "64129"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Kediri&jobs=Kota%20(Kediri%20Kota)",
+            "jumlah": "17"
+        },
+        "pulau": null,
+        "kode": "35.71.02"
+    },
+    {
+        "no": "2",
+        "name": "Mojoroto",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Kediri&jobs=Mojoroto",
+        "kodepos": [
+            "64111",
+            "64119"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Kediri&jobs=Mojoroto",
+            "jumlah": "14"
+        },
+        "pulau": null,
+        "kode": "35.71.01"
+    },
+    {
+        "no": "3",
+        "name": "Pesantren",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Kediri&jobs=Pesantren",
+        "kodepos": [
+            "64131",
+            "64139"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Kediri&jobs=Pesantren",
+            "jumlah": "15"
+        },
+        "pulau": null,
+        "kode": "35.71.03"
+    }
+]

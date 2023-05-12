@@ -1,0 +1,128 @@
+[
+    {
+        "no": "1",
+        "name": "Babah Rot",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Aceh%20Barat%20Daya&jobs=Babah%20Rot",
+        "kodepos": [
+            "23767"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Aceh%20Barat%20Daya&jobs=Babah%20Rot",
+            "jumlah": "14"
+        },
+        "pulau": null,
+        "kode": "11.12.06"
+    },
+    {
+        "no": "2",
+        "name": "Blang Pidie",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Aceh%20Barat%20Daya&jobs=Blang%20Pidie",
+        "kodepos": [
+            "23764"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Aceh%20Barat%20Daya&jobs=Blang%20Pidie",
+            "jumlah": "20"
+        },
+        "pulau": null,
+        "kode": "11.12.01"
+    },
+    {
+        "no": "3",
+        "name": "Jeumpa",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Aceh%20Barat%20Daya&jobs=Jeumpa",
+        "kodepos": [
+            "23769"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Aceh%20Barat%20Daya&jobs=Jeumpa",
+            "jumlah": "12"
+        },
+        "pulau": null,
+        "kode": "11.12.08"
+    },
+    {
+        "no": "4",
+        "name": "Kuala Batee",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Aceh%20Barat%20Daya&jobs=Kuala%20Batee",
+        "kodepos": [
+            "23766"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Aceh%20Barat%20Daya&jobs=Kuala%20Batee",
+            "jumlah": "21"
+        },
+        "pulau": null,
+        "kode": "11.12.05"
+    },
+    {
+        "no": "5",
+        "name": "Lembah Sabil",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Aceh%20Barat%20Daya&jobs=Lembah%20Sabil",
+        "kodepos": [
+            "23762"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Aceh%20Barat%20Daya&jobs=Lembah%20Sabil",
+            "jumlah": "14"
+        },
+        "pulau": null,
+        "kode": "11.12.09"
+    },
+    {
+        "no": "6",
+        "name": "Manggeng",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Aceh%20Barat%20Daya&jobs=Manggeng",
+        "kodepos": [
+            "23760"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Aceh%20Barat%20Daya&jobs=Manggeng",
+            "jumlah": "18"
+        },
+        "pulau": null,
+        "kode": "11.12.03"
+    },
+    {
+        "no": "7",
+        "name": "Setia",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Aceh%20Barat%20Daya&jobs=Setia",
+        "kodepos": [
+            "23763"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Aceh%20Barat%20Daya&jobs=Setia",
+            "jumlah": "9"
+        },
+        "pulau": null,
+        "kode": "11.12.07"
+    },
+    {
+        "no": "8",
+        "name": "Susoh",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Aceh%20Barat%20Daya&jobs=Susoh",
+        "kodepos": [
+            "23765"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Aceh%20Barat%20Daya&jobs=Susoh",
+            "jumlah": "29"
+        },
+        "pulau": null,
+        "kode": "11.12.04"
+    },
+    {
+        "no": "9",
+        "name": "Tangan-Tangan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Aceh%20Barat%20Daya&jobs=Tangan-Tangan",
+        "kodepos": [
+            "23768"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Aceh%20Barat%20Daya&jobs=Tangan-Tangan",
+            "jumlah": "15"
+        },
+        "pulau": null,
+        "kode": "11.12.02"
+    }
+]

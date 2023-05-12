@@ -1,0 +1,354 @@
+[
+    {
+        "no": "1",
+        "name": "Amabi Oefeto",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kupang&jobs=Amabi%20Oefeto",
+        "kodepos": [
+            "85362",
+            "85363"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kupang&jobs=Amabi%20Oefeto",
+            "jumlah": "7"
+        },
+        "pulau": null,
+        "kode": "53.01.25"
+    },
+    {
+        "no": "2",
+        "name": "Amabi Oefeto Timur",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kupang&jobs=Amabi%20Oefeto%20Timur",
+        "kodepos": [
+            "85363"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kupang&jobs=Amabi%20Oefeto%20Timur",
+            "jumlah": "10"
+        },
+        "pulau": null,
+        "kode": "53.01.20"
+    },
+    {
+        "no": "3",
+        "name": "Amarasi",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kupang&jobs=Amarasi",
+        "kodepos": [
+            "85367"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kupang&jobs=Amarasi",
+            "jumlah": "9"
+        },
+        "pulau": null,
+        "kode": "53.01.09"
+    },
+    {
+        "no": "4",
+        "name": "Amarasi Barat",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kupang&jobs=Amarasi%20Barat",
+        "kodepos": [
+            "85376"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kupang&jobs=Amarasi%20Barat",
+            "jumlah": "8"
+        },
+        "pulau": null,
+        "kode": "53.01.17"
+    },
+    {
+        "no": "5",
+        "name": "Amarasi Selatan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kupang&jobs=Amarasi%20Selatan",
+        "kodepos": [
+            "85377"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kupang&jobs=Amarasi%20Selatan",
+            "jumlah": "5"
+        },
+        "pulau": null,
+        "kode": "53.01.18"
+    },
+    {
+        "no": "6",
+        "name": "Amarasi Timur",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kupang&jobs=Amarasi%20Timur",
+        "kodepos": [
+            "85378"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kupang&jobs=Amarasi%20Timur",
+            "jumlah": "4"
+        },
+        "pulau": null,
+        "kode": "53.01.19"
+    },
+    {
+        "no": "7",
+        "name": "Amfoang Barat Daya",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kupang&jobs=Amfoang%20Barat%20Daya",
+        "kodepos": [
+            "85364"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kupang&jobs=Amfoang%20Barat%20Daya",
+            "jumlah": "4"
+        },
+        "pulau": null,
+        "kode": "53.01.21"
+    },
+    {
+        "no": "8",
+        "name": "Amfoang Barat Laut",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kupang&jobs=Amfoang%20Barat%20Laut",
+        "kodepos": [
+            "85372"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kupang&jobs=Amfoang%20Barat%20Laut",
+            "jumlah": "6"
+        },
+        "pulau": null,
+        "kode": "53.01.22"
+    },
+    {
+        "no": "9",
+        "name": "Amfoang Selatan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kupang&jobs=Amfoang%20Selatan",
+        "kodepos": [
+            "85373"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kupang&jobs=Amfoang%20Selatan",
+            "jumlah": "7"
+        },
+        "pulau": null,
+        "kode": "53.01.12"
+    },
+    {
+        "no": "10",
+        "name": "Amfoang Tengah",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kupang&jobs=Amfoang%20Tengah",
+        "kodepos": [
+            "85374"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kupang&jobs=Amfoang%20Tengah",
+            "jumlah": "4"
+        },
+        "pulau": null,
+        "kode": "53.01.30"
+    },
+    {
+        "no": "11",
+        "name": "Amfoang Timur",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kupang&jobs=Amfoang%20Timur",
+        "kodepos": [
+            "85375"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kupang&jobs=Amfoang%20Timur",
+            "jumlah": "5"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kupang&jobs=Amfoang%20Timur",
+            "jumlah": "1"
+        },
+        "kode": "53.01.26"
+    },
+    {
+        "no": "12",
+        "name": "Amfoang Utara",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kupang&jobs=Amfoang%20Utara",
+        "kodepos": [
+            "85365"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kupang&jobs=Amfoang%20Utara",
+            "jumlah": "6"
+        },
+        "pulau": null,
+        "kode": "53.01.13"
+    },
+    {
+        "no": "13",
+        "name": "Fatuleu",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kupang&jobs=Fatuleu",
+        "kodepos": [
+            "85371"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kupang&jobs=Fatuleu",
+            "jumlah": "10"
+        },
+        "pulau": null,
+        "kode": "53.01.10"
+    },
+    {
+        "no": "14",
+        "name": "Fatuleu Barat",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kupang&jobs=Fatuleu%20Barat",
+        "kodepos": [
+            "85223"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kupang&jobs=Fatuleu%20Barat",
+            "jumlah": "5"
+        },
+        "pulau": null,
+        "kode": "53.01.27"
+    },
+    {
+        "no": "15",
+        "name": "Fatuleu Tengah",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kupang&jobs=Fatuleu%20Tengah",
+        "kodepos": [
+            "85220"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kupang&jobs=Fatuleu%20Tengah",
+            "jumlah": "4"
+        },
+        "pulau": null,
+        "kode": "53.01.28"
+    },
+    {
+        "no": "16",
+        "name": "Kupang Barat",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kupang&jobs=Kupang%20Barat",
+        "kodepos": [
+            "85351"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kupang&jobs=Kupang%20Barat",
+            "jumlah": "12"
+        },
+        "pulau": null,
+        "kode": "53.01.05"
+    },
+    {
+        "no": "17",
+        "name": "Kupang Tengah",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kupang&jobs=Kupang%20Tengah",
+        "kodepos": [
+            "85361"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kupang&jobs=Kupang%20Tengah",
+            "jumlah": "8"
+        },
+        "pulau": null,
+        "kode": "53.01.08"
+    },
+    {
+        "no": "18",
+        "name": "Kupang Timur",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kupang&jobs=Kupang%20Timur",
+        "kodepos": [
+            "85362"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kupang&jobs=Kupang%20Timur",
+            "jumlah": "13"
+        },
+        "pulau": null,
+        "kode": "53.01.06"
+    },
+    {
+        "no": "19",
+        "name": "Nekamese",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kupang&jobs=Nekamese",
+        "kodepos": [
+            "85390"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kupang&jobs=Nekamese",
+            "jumlah": "11"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kupang&jobs=Nekamese",
+            "jumlah": "7"
+        },
+        "kode": "53.01.16"
+    },
+    {
+        "no": "20",
+        "name": "Semau",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kupang&jobs=Semau",
+        "kodepos": [
+            "85352"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kupang&jobs=Semau",
+            "jumlah": "8"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kupang&jobs=Semau",
+            "jumlah": "2"
+        },
+        "kode": "53.01.04"
+    },
+    {
+        "no": "21",
+        "name": "Semau Selatan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kupang&jobs=Semau%20Selatan",
+        "kodepos": [
+            "85353"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kupang&jobs=Semau%20Selatan",
+            "jumlah": "6"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kupang&jobs=Semau%20Selatan",
+            "jumlah": "2"
+        },
+        "kode": "53.01.23"
+    },
+    {
+        "no": "22",
+        "name": "Sulamu",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kupang&jobs=Sulamu",
+        "kodepos": [
+            "85368"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kupang&jobs=Sulamu",
+            "jumlah": "7"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kupang&jobs=Sulamu",
+            "jumlah": "2"
+        },
+        "kode": "53.01.07"
+    },
+    {
+        "no": "23",
+        "name": "Taebenu",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kupang&jobs=Taebenu",
+        "kodepos": [
+            "85360"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kupang&jobs=Taebenu",
+            "jumlah": "8"
+        },
+        "pulau": null,
+        "kode": "53.01.24"
+    },
+    {
+        "no": "24",
+        "name": "Takari",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kupang&jobs=Takari",
+        "kodepos": [
+            "85369"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kupang&jobs=Takari",
+            "jumlah": "10"
+        },
+        "pulau": null,
+        "kode": "53.01.11"
+    }
+]

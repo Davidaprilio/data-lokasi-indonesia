@@ -1,0 +1,159 @@
+[
+    {
+        "no": "1",
+        "name": "Arungkeke",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Jeneponto&jobs=Arungkeke",
+        "kodepos": [
+            "92361"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Jeneponto&jobs=Arungkeke",
+            "jumlah": "7"
+        },
+        "pulau": null,
+        "kode": "73.04.09"
+    },
+    {
+        "no": "2",
+        "name": "Bangkala",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Jeneponto&jobs=Bangkala",
+        "kodepos": [
+            "92352"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Jeneponto&jobs=Bangkala",
+            "jumlah": "14"
+        },
+        "pulau": null,
+        "kode": "73.04.01"
+    },
+    {
+        "no": "3",
+        "name": "Bangkala Barat",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Jeneponto&jobs=Bangkala%20Barat",
+        "kodepos": [
+            "92353"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Jeneponto&jobs=Bangkala%20Barat",
+            "jumlah": "8"
+        },
+        "pulau": null,
+        "kode": "73.04.06"
+    },
+    {
+        "no": "4",
+        "name": "Batang",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Jeneponto&jobs=Batang",
+        "kodepos": [
+            "92360"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Jeneponto&jobs=Batang",
+            "jumlah": "6"
+        },
+        "pulau": null,
+        "kode": "73.04.04"
+    },
+    {
+        "no": "5",
+        "name": "Binamu",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Jeneponto&jobs=Binamu",
+        "kodepos": [
+            "92311",
+            "92316"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Jeneponto&jobs=Binamu",
+            "jumlah": "13"
+        },
+        "pulau": null,
+        "kode": "73.04.03"
+    },
+    {
+        "no": "6",
+        "name": "Bontoramba",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Jeneponto&jobs=Bontoramba",
+        "kodepos": [
+            "92351"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Jeneponto&jobs=Bontoramba",
+            "jumlah": "12"
+        },
+        "pulau": null,
+        "kode": "73.04.07"
+    },
+    {
+        "no": "7",
+        "name": "Kelara",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Jeneponto&jobs=Kelara",
+        "kodepos": [
+            "92371"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Jeneponto&jobs=Kelara",
+            "jumlah": "10"
+        },
+        "pulau": null,
+        "kode": "73.04.05"
+    },
+    {
+        "no": "8",
+        "name": "Rumbia",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Jeneponto&jobs=Rumbia",
+        "kodepos": [
+            "92314",
+            "92572"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Jeneponto&jobs=Rumbia",
+            "jumlah": "12"
+        },
+        "pulau": null,
+        "kode": "73.04.10"
+    },
+    {
+        "no": "9",
+        "name": "Tamalatea",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Jeneponto&jobs=Tamalatea",
+        "kodepos": [
+            "92350"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Jeneponto&jobs=Tamalatea",
+            "jumlah": "12"
+        },
+        "pulau": null,
+        "kode": "73.04.02"
+    },
+    {
+        "no": "10",
+        "name": "Tarowang",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Jeneponto&jobs=Tarowang",
+        "kodepos": [
+            "92362"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Jeneponto&jobs=Tarowang",
+            "jumlah": "8"
+        },
+        "pulau": null,
+        "kode": "73.04.11"
+    },
+    {
+        "no": "11",
+        "name": "Turatea",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Jeneponto&jobs=Turatea",
+        "kodepos": [
+            "92312",
+            "92313"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Jeneponto&jobs=Turatea",
+            "jumlah": "11"
+        },
+        "pulau": null,
+        "kode": "73.04.08"
+    }
+]

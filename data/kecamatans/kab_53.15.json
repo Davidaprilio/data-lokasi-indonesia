@@ -1,0 +1,179 @@
+[
+    {
+        "no": "1",
+        "name": "Boleng",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Manggarai%20Barat&jobs=Boleng",
+        "kodepos": [
+            "86754"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Manggarai%20Barat&jobs=Boleng",
+            "jumlah": "11"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Manggarai%20Barat&jobs=Boleng",
+            "jumlah": "2"
+        },
+        "kode": "53.15.06"
+    },
+    {
+        "no": "2",
+        "name": "Komodo",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Manggarai%20Barat&jobs=Komodo",
+        "kodepos": [
+            "86763"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Manggarai%20Barat&jobs=Komodo",
+            "jumlah": "19"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Manggarai%20Barat&jobs=Komodo",
+            "jumlah": "128"
+        },
+        "kode": "53.15.05"
+    },
+    {
+        "no": "3",
+        "name": "Kuwus",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Manggarai%20Barat&jobs=Kuwus",
+        "kodepos": [
+            "86752"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Manggarai%20Barat&jobs=Kuwus",
+            "jumlah": "12"
+        },
+        "pulau": null,
+        "kode": "53.15.02"
+    },
+    {
+        "no": "4",
+        "name": "Kuwus Barat",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Manggarai%20Barat&jobs=Kuwus%20Barat",
+        "kodepos": [
+            "86751"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Manggarai%20Barat&jobs=Kuwus%20Barat",
+            "jumlah": "10"
+        },
+        "pulau": null,
+        "kode": "53.15.12"
+    },
+    {
+        "no": "5",
+        "name": "Lembor",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Manggarai%20Barat&jobs=Lembor",
+        "kodepos": [
+            "86753"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Manggarai%20Barat&jobs=Lembor",
+            "jumlah": "15"
+        },
+        "pulau": null,
+        "kode": "53.15.03"
+    },
+    {
+        "no": "6",
+        "name": "Lembor Selatan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Manggarai%20Barat&jobs=Lembor%20Selatan",
+        "kodepos": [
+            "86761"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Manggarai%20Barat&jobs=Lembor%20Selatan",
+            "jumlah": "15"
+        },
+        "pulau": null,
+        "kode": "53.15.09"
+    },
+    {
+        "no": "7",
+        "name": "Macang Pacar",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Manggarai%20Barat&jobs=Macang%20Pacar",
+        "kodepos": [
+            "86756"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Manggarai%20Barat&jobs=Macang%20Pacar",
+            "jumlah": "13"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Manggarai%20Barat&jobs=Macang%20Pacar",
+            "jumlah": "2"
+        },
+        "kode": "53.15.01"
+    },
+    {
+        "no": "8",
+        "name": "Mbeliling",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Manggarai%20Barat&jobs=Mbeliling",
+        "kodepos": [
+            "86757"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Manggarai%20Barat&jobs=Mbeliling",
+            "jumlah": "15"
+        },
+        "pulau": null,
+        "kode": "53.15.10"
+    },
+    {
+        "no": "9",
+        "name": "Ndoso",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Manggarai%20Barat&jobs=Ndoso",
+        "kodepos": [
+            "86750"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Manggarai%20Barat&jobs=Ndoso",
+            "jumlah": "15"
+        },
+        "pulau": null,
+        "kode": "53.15.08"
+    },
+    {
+        "no": "10",
+        "name": "Pacar",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Manggarai%20Barat&jobs=Pacar",
+        "kodepos": [
+            "86755"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Manggarai%20Barat&jobs=Pacar",
+            "jumlah": "13"
+        },
+        "pulau": null,
+        "kode": "53.15.11"
+    },
+    {
+        "no": "11",
+        "name": "Sano Nggoang",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Manggarai%20Barat&jobs=Sano%20Nggoang",
+        "kodepos": [
+            "86758"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Manggarai%20Barat&jobs=Sano%20Nggoang",
+            "jumlah": "15"
+        },
+        "pulau": null,
+        "kode": "53.15.04"
+    },
+    {
+        "no": "12",
+        "name": "Welak",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Manggarai%20Barat&jobs=Welak",
+        "kodepos": [
+            "86762"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Manggarai%20Barat&jobs=Welak",
+            "jumlah": "16"
+        },
+        "pulau": null,
+        "kode": "53.15.07"
+    }
+]

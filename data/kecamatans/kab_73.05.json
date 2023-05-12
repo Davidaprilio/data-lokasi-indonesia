@@ -1,0 +1,149 @@
+[
+    {
+        "no": "1",
+        "name": "Galesong",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Takalar&jobs=Galesong",
+        "kodepos": [
+            "92254",
+            "92255"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Takalar&jobs=Galesong",
+            "jumlah": "14"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Takalar&jobs=Galesong",
+            "jumlah": "1"
+        },
+        "kode": "73.05.09"
+    },
+    {
+        "no": "2",
+        "name": "Galesong Selatan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Takalar&jobs=Galesong%20Selatan",
+        "kodepos": [
+            "92254"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Takalar&jobs=Galesong%20Selatan",
+            "jumlah": "12"
+        },
+        "pulau": null,
+        "kode": "73.05.05"
+    },
+    {
+        "no": "3",
+        "name": "Galesong Utara",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Takalar&jobs=Galesong%20Utara",
+        "kodepos": [
+            "92255"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Takalar&jobs=Galesong%20Utara",
+            "jumlah": "10"
+        },
+        "pulau": null,
+        "kode": "73.05.06"
+    },
+    {
+        "no": "4",
+        "name": "Kepulauan Tanakeke",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Takalar&jobs=Kepulauan%20Tanakeke",
+        "kodepos": [
+            "92232"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Takalar&jobs=Kepulauan%20Tanakeke",
+            "jumlah": "5"
+        },
+        "pulau": null,
+        "kode": "73.05.10"
+    },
+    {
+        "no": "5",
+        "name": "Mangarabombang (Mangara Bombang)",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Takalar&jobs=Mangarabombang%20(Mangara%20Bombang)",
+        "kodepos": [
+            "92261"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Takalar&jobs=Mangarabombang%20(Mangara%20Bombang)",
+            "jumlah": "12"
+        },
+        "pulau": null,
+        "kode": "73.05.02"
+    },
+    {
+        "no": "6",
+        "name": "Mappakasunggu",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Takalar&jobs=Mappakasunggu",
+        "kodepos": [
+            "92232"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Takalar&jobs=Mappakasunggu",
+            "jumlah": "4"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Takalar&jobs=Mappakasunggu",
+            "jumlah": "8"
+        },
+        "kode": "73.05.01"
+    },
+    {
+        "no": "7",
+        "name": "Pattallassang (Patallassang)",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Takalar&jobs=Pattallassang%20(Patallassang)",
+        "kodepos": [
+            "92211"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Takalar&jobs=Pattallassang%20(Patallassang)",
+            "jumlah": "9"
+        },
+        "pulau": null,
+        "kode": "73.05.07"
+    },
+    {
+        "no": "8",
+        "name": "Polombangkeng Selatan (Polobangkeng)",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Takalar&jobs=Polombangkeng%20Selatan%20(Polobangkeng)",
+        "kodepos": [
+            "92252"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Takalar&jobs=Polombangkeng%20Selatan%20(Polobangkeng)",
+            "jumlah": "10"
+        },
+        "pulau": null,
+        "kode": "73.05.03"
+    },
+    {
+        "no": "9",
+        "name": "Polombangkeng Utara (Polobangkeng)",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Takalar&jobs=Polombangkeng%20Utara%20(Polobangkeng)",
+        "kodepos": [
+            "92221"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Takalar&jobs=Polombangkeng%20Utara%20(Polobangkeng)",
+            "jumlah": "18"
+        },
+        "pulau": null,
+        "kode": "73.05.04"
+    },
+    {
+        "no": "10",
+        "name": "Sanrobone",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Takalar&jobs=Sanrobone",
+        "kodepos": [
+            "92231"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Takalar&jobs=Sanrobone",
+            "jumlah": "6"
+        },
+        "pulau": null,
+        "kode": "73.05.08"
+    }
+]

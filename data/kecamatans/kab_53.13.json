@@ -1,0 +1,135 @@
+[
+    {
+        "no": "1",
+        "name": "Atadei",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Lembata&jobs=Atadei",
+        "kodepos": [
+            "86685"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Lembata&jobs=Atadei",
+            "jumlah": "15"
+        },
+        "pulau": null,
+        "kode": "53.13.02"
+    },
+    {
+        "no": "2",
+        "name": "Buyasuri",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Lembata&jobs=Buyasuri",
+        "kodepos": [
+            "86692"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Lembata&jobs=Buyasuri",
+            "jumlah": "20"
+        },
+        "pulau": null,
+        "kode": "53.13.07"
+    },
+    {
+        "no": "3",
+        "name": "Ile Ape",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Lembata&jobs=Ile%20Ape",
+        "kodepos": [
+            "86683"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Lembata&jobs=Ile%20Ape",
+            "jumlah": "17"
+        },
+        "pulau": null,
+        "kode": "53.13.03"
+    },
+    {
+        "no": "4",
+        "name": "Ile Ape Timur",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Lembata&jobs=Ile%20Ape%20Timur",
+        "kodepos": [
+            "86687"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Lembata&jobs=Ile%20Ape%20Timur",
+            "jumlah": "9"
+        },
+        "pulau": null,
+        "kode": "53.13.09"
+    },
+    {
+        "no": "5",
+        "name": "Lebatukan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Lembata&jobs=Lebatukan",
+        "kodepos": [
+            "86681"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Lembata&jobs=Lebatukan",
+            "jumlah": "17"
+        },
+        "pulau": null,
+        "kode": "53.13.04"
+    },
+    {
+        "no": "6",
+        "name": "Naga Wutung",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Lembata&jobs=Naga%20Wutung",
+        "kodepos": [
+            "86684"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Lembata&jobs=Naga%20Wutung",
+            "jumlah": "18"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Lembata&jobs=Naga%20Wutung",
+            "jumlah": "1"
+        },
+        "kode": "53.13.01"
+    },
+    {
+        "no": "7",
+        "name": "Nubatukan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Lembata&jobs=Nubatukan",
+        "kodepos": [
+            "86616",
+            "86682"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Lembata&jobs=Nubatukan",
+            "jumlah": "18"
+        },
+        "pulau": null,
+        "kode": "53.13.05"
+    },
+    {
+        "no": "8",
+        "name": "Omesuri",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Lembata&jobs=Omesuri",
+        "kodepos": [
+            "86691"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Lembata&jobs=Omesuri",
+            "jumlah": "22"
+        },
+        "pulau": null,
+        "kode": "53.13.06"
+    },
+    {
+        "no": "9",
+        "name": "Wulandoni",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Lembata&jobs=Wulandoni",
+        "kodepos": [
+            "86686"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Lembata&jobs=Wulandoni",
+            "jumlah": "15"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Lembata&jobs=Wulandoni",
+            "jumlah": "3"
+        },
+        "kode": "53.13.08"
+    }
+]

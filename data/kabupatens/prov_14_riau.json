@@ -1,0 +1,266 @@
+[
+    {
+        "no": "1",
+        "type": "Kabupaten",
+        "name": "Bengkalis",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Bengkalis",
+        "kodepos": [
+            "28711",
+            "28786"
+        ],
+        "kecamatan": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Bengkalis",
+            "jumlah": "11"
+        },
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kab.&jobs=Bengkalis",
+            "jumlah": "155"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kab.&jobs=Bengkalis",
+            "jumlah": "17"
+        },
+        "kode": "14.03"
+    },
+    {
+        "no": "2",
+        "type": "Kota",
+        "name": "Dumai",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kota&jobs=Dumai",
+        "kodepos": [
+            "28811",
+            "28882"
+        ],
+        "kecamatan": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kota&jobs=Dumai",
+            "jumlah": "7"
+        },
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kota&jobs=Dumai",
+            "jumlah": "33"
+        },
+        "pulau": null,
+        "kode": "14.72"
+    },
+    {
+        "no": "3",
+        "type": "Kabupaten",
+        "name": "Indragiri Hilir",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Indragiri%20Hilir",
+        "kodepos": [
+            "29211",
+            "29282"
+        ],
+        "kecamatan": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Indragiri%20Hilir",
+            "jumlah": "20"
+        },
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kab.&jobs=Indragiri%20Hilir",
+            "jumlah": "236"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kab.&jobs=Indragiri%20Hilir",
+            "jumlah": "25"
+        },
+        "kode": "14.04"
+    },
+    {
+        "no": "4",
+        "type": "Kabupaten",
+        "name": "Indragiri Hulu",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Indragiri%20Hulu",
+        "kodepos": [
+            "29311",
+            "29371"
+        ],
+        "kecamatan": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Indragiri%20Hulu",
+            "jumlah": "14"
+        },
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kab.&jobs=Indragiri%20Hulu",
+            "jumlah": "194"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kab.&jobs=Indragiri%20Hulu",
+            "jumlah": "4"
+        },
+        "kode": "14.02"
+    },
+    {
+        "no": "5",
+        "type": "Kabupaten",
+        "name": "Kampar",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Kampar",
+        "kodepos": [
+            "28411",
+            "28475"
+        ],
+        "kecamatan": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Kampar",
+            "jumlah": "21"
+        },
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kab.&jobs=Kampar",
+            "jumlah": "250"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kab.&jobs=Kampar",
+            "jumlah": "4"
+        },
+        "kode": "14.01"
+    },
+    {
+        "no": "6",
+        "type": "Kabupaten",
+        "name": "Kepulauan Meranti",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Kepulauan%20Meranti",
+        "kodepos": [
+            "28750",
+            "28758"
+        ],
+        "kecamatan": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Kepulauan%20Meranti",
+            "jumlah": "9"
+        },
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kab.&jobs=Kepulauan%20Meranti",
+            "jumlah": "101"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kab.&jobs=Kepulauan%20Meranti",
+            "jumlah": "12"
+        },
+        "kode": "14.10"
+    },
+    {
+        "no": "7",
+        "type": "Kabupaten",
+        "name": "Kuantan Singingi",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Kuantan%20Singingi",
+        "kodepos": [
+            "29511",
+            "29569"
+        ],
+        "kecamatan": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Kuantan%20Singingi",
+            "jumlah": "15"
+        },
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kab.&jobs=Kuantan%20Singingi",
+            "jumlah": "229"
+        },
+        "pulau": null,
+        "kode": "14.09"
+    },
+    {
+        "no": "8",
+        "type": "Kota",
+        "name": "Pekanbaru",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kota&jobs=Pekanbaru",
+        "kodepos": [
+            "28111",
+            "28299"
+        ],
+        "kecamatan": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kota&jobs=Pekanbaru",
+            "jumlah": "12"
+        },
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kota&jobs=Pekanbaru",
+            "jumlah": "83"
+        },
+        "pulau": null,
+        "kode": "14.71"
+    },
+    {
+        "no": "9",
+        "type": "Kabupaten",
+        "name": "Pelalawan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Pelalawan",
+        "kodepos": [
+            "28352",
+            "28388"
+        ],
+        "kecamatan": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Pelalawan",
+            "jumlah": "12"
+        },
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kab.&jobs=Pelalawan",
+            "jumlah": "118"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kab.&jobs=Pelalawan",
+            "jumlah": "43"
+        },
+        "kode": "14.05"
+    },
+    {
+        "no": "10",
+        "type": "Kabupaten",
+        "name": "Rokan Hilir",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Rokan%20Hilir",
+        "kodepos": [
+            "28911",
+            "28995"
+        ],
+        "kecamatan": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Rokan%20Hilir",
+            "jumlah": "18"
+        },
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kab.&jobs=Rokan%20Hilir",
+            "jumlah": "184"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kab.&jobs=Rokan%20Hilir",
+            "jumlah": "29"
+        },
+        "kode": "14.07"
+    },
+    {
+        "no": "11",
+        "type": "Kabupaten",
+        "name": "Rokan Hulu",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Rokan%20Hulu",
+        "kodepos": [
+            "28550",
+            "28565"
+        ],
+        "kecamatan": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Rokan%20Hulu",
+            "jumlah": "16"
+        },
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kab.&jobs=Rokan%20Hulu",
+            "jumlah": "145"
+        },
+        "pulau": null,
+        "kode": "14.06"
+    },
+    {
+        "no": "12",
+        "type": "Kabupaten",
+        "name": "Siak",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Siak",
+        "kodepos": [
+            "28654",
+            "28773"
+        ],
+        "kecamatan": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Siak",
+            "jumlah": "14"
+        },
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kab.&jobs=Siak",
+            "jumlah": "131"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kab.&jobs=Siak",
+            "jumlah": "1"
+        },
+        "kode": "14.08"
+    }
+]

@@ -1,0 +1,64 @@
+[
+    {
+        "no": "1",
+        "name": "Tarakan Barat",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Tarakan&jobs=Tarakan%20Barat",
+        "kodepos": [
+            "77111",
+            "77112"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Tarakan&jobs=Tarakan%20Barat",
+            "jumlah": "5"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kota-Tarakan&jobs=Tarakan%20Barat",
+            "jumlah": "2"
+        },
+        "kode": "65.71.01"
+    },
+    {
+        "no": "2",
+        "name": "Tarakan Tengah",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Tarakan&jobs=Tarakan%20Tengah",
+        "kodepos": [
+            "77113",
+            "77114"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Tarakan&jobs=Tarakan%20Tengah",
+            "jumlah": "5"
+        },
+        "pulau": null,
+        "kode": "65.71.02"
+    },
+    {
+        "no": "3",
+        "name": "Tarakan Timur",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Tarakan&jobs=Tarakan%20Timur",
+        "kodepos": [
+            "77115",
+            "77126"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Tarakan&jobs=Tarakan%20Timur",
+            "jumlah": "7"
+        },
+        "pulau": null,
+        "kode": "65.71.03"
+    },
+    {
+        "no": "4",
+        "name": "Tarakan Utara",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Tarakan&jobs=Tarakan%20Utara",
+        "kodepos": [
+            "77116"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Tarakan&jobs=Tarakan%20Utara",
+            "jumlah": "3"
+        },
+        "pulau": null,
+        "kode": "65.71.04"
+    }
+]

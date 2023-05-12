@@ -1,0 +1,312 @@
+[
+    {
+        "no": "1",
+        "name": "Bajo",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Luwu&jobs=Bajo",
+        "kodepos": [
+            "91995"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Luwu&jobs=Bajo",
+            "jumlah": "12"
+        },
+        "pulau": null,
+        "kode": "73.17.04"
+    },
+    {
+        "no": "2",
+        "name": "Bajo Barat",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Luwu&jobs=Bajo%20Barat",
+        "kodepos": [
+            "91996"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Luwu&jobs=Bajo%20Barat",
+            "jumlah": "9"
+        },
+        "pulau": null,
+        "kode": "73.17.20"
+    },
+    {
+        "no": "3",
+        "name": "Basse Sangtempe (Bassesang Tempe / Bastem)",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Luwu&jobs=Basse%20Sangtempe%20(Bassesang%20Tempe%20/%20Bastem)",
+        "kodepos": [
+            "91990"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Luwu&jobs=Basse%20Sangtempe%20(Bassesang%20Tempe%20/%20Bastem)",
+            "jumlah": "12"
+        },
+        "pulau": null,
+        "kode": "73.17.01"
+    },
+    {
+        "no": "4",
+        "name": "Basse Sangtempe Utara",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Luwu&jobs=Basse%20Sangtempe%20Utara",
+        "kodepos": [
+            "91992"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Luwu&jobs=Basse%20Sangtempe%20Utara",
+            "jumlah": "12"
+        },
+        "pulau": null,
+        "kode": "73.17.22"
+    },
+    {
+        "no": "5",
+        "name": "Belopa",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Luwu&jobs=Belopa",
+        "kodepos": [
+            "91983"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Luwu&jobs=Belopa",
+            "jumlah": "9"
+        },
+        "pulau": null,
+        "kode": "73.17.07"
+    },
+    {
+        "no": "6",
+        "name": "Belopa Utara",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Luwu&jobs=Belopa%20Utara",
+        "kodepos": [
+            "91984"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Luwu&jobs=Belopa%20Utara",
+            "jumlah": "8"
+        },
+        "pulau": null,
+        "kode": "73.17.14"
+    },
+    {
+        "no": "7",
+        "name": "Bua",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Luwu&jobs=Bua",
+        "kodepos": [
+            "91991"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Luwu&jobs=Bua",
+            "jumlah": "15"
+        },
+        "pulau": null,
+        "kode": "73.17.08"
+    },
+    {
+        "no": "8",
+        "name": "Bua Ponrang (Bupon)",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Luwu&jobs=Bua%20Ponrang%20(Bupon)",
+        "kodepos": [
+            "91993"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Luwu&jobs=Bua%20Ponrang%20(Bupon)",
+            "jumlah": "10"
+        },
+        "pulau": null,
+        "kode": "73.17.05"
+    },
+    {
+        "no": "9",
+        "name": "Kamanre",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Luwu&jobs=Kamanre",
+        "kodepos": [
+            "91994"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Luwu&jobs=Kamanre",
+            "jumlah": "8"
+        },
+        "pulau": null,
+        "kode": "73.17.13"
+    },
+    {
+        "no": "10",
+        "name": "Lamasi",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Luwu&jobs=Lamasi",
+        "kodepos": [
+            "91952"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Luwu&jobs=Lamasi",
+            "jumlah": "10"
+        },
+        "pulau": null,
+        "kode": "73.17.09"
+    },
+    {
+        "no": "11",
+        "name": "Lamasi Timur",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Luwu&jobs=Lamasi%20Timur",
+        "kodepos": [
+            "91951",
+            "91952"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Luwu&jobs=Lamasi%20Timur",
+            "jumlah": "9"
+        },
+        "pulau": null,
+        "kode": "73.17.18"
+    },
+    {
+        "no": "12",
+        "name": "Larompong",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Luwu&jobs=Larompong",
+        "kodepos": [
+            "91997"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Luwu&jobs=Larompong",
+            "jumlah": "13"
+        },
+        "pulau": null,
+        "kode": "73.17.02"
+    },
+    {
+        "no": "13",
+        "name": "Larompong Selatan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Luwu&jobs=Larompong%20Selatan",
+        "kodepos": [
+            "91998"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Luwu&jobs=Larompong%20Selatan",
+            "jumlah": "10"
+        },
+        "pulau": null,
+        "kode": "73.17.10"
+    },
+    {
+        "no": "14",
+        "name": "Latimojong",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Luwu&jobs=Latimojong",
+        "kodepos": [
+            "91921"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Luwu&jobs=Latimojong",
+            "jumlah": "12"
+        },
+        "pulau": null,
+        "kode": "73.17.12"
+    },
+    {
+        "no": "15",
+        "name": "Ponrang",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Luwu&jobs=Ponrang",
+        "kodepos": [
+            "91999"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Luwu&jobs=Ponrang",
+            "jumlah": "10"
+        },
+        "pulau": null,
+        "kode": "73.17.11"
+    },
+    {
+        "no": "16",
+        "name": "Ponrang Selatan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Luwu&jobs=Ponrang%20Selatan",
+        "kodepos": [
+            "91989"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Luwu&jobs=Ponrang%20Selatan",
+            "jumlah": "13"
+        },
+        "pulau": null,
+        "kode": "73.17.21"
+    },
+    {
+        "no": "17",
+        "name": "Suli",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Luwu&jobs=Suli",
+        "kodepos": [
+            "91985"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Luwu&jobs=Suli",
+            "jumlah": "13"
+        },
+        "pulau": null,
+        "kode": "73.17.03"
+    },
+    {
+        "no": "18",
+        "name": "Suli Barat",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Luwu&jobs=Suli%20Barat",
+        "kodepos": [
+            "91986"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Luwu&jobs=Suli%20Barat",
+            "jumlah": "8"
+        },
+        "pulau": null,
+        "kode": "73.17.19"
+    },
+    {
+        "no": "19",
+        "name": "Walenrang",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Luwu&jobs=Walenrang",
+        "kodepos": [
+            "91950"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Luwu&jobs=Walenrang",
+            "jumlah": "9"
+        },
+        "pulau": null,
+        "kode": "73.17.06"
+    },
+    {
+        "no": "20",
+        "name": "Walenrang Barat",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Luwu&jobs=Walenrang%20Barat",
+        "kodepos": [
+            "91951",
+            "91952"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Luwu&jobs=Walenrang%20Barat",
+            "jumlah": "6"
+        },
+        "pulau": null,
+        "kode": "73.17.15"
+    },
+    {
+        "no": "21",
+        "name": "Walenrang Timur",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Luwu&jobs=Walenrang%20Timur",
+        "kodepos": [
+            "91951"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Luwu&jobs=Walenrang%20Timur",
+            "jumlah": "8"
+        },
+        "pulau": null,
+        "kode": "73.17.17"
+    },
+    {
+        "no": "22",
+        "name": "Walenrang Utara",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Luwu&jobs=Walenrang%20Utara",
+        "kodepos": [
+            "91953"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Luwu&jobs=Walenrang%20Utara",
+            "jumlah": "11"
+        },
+        "pulau": null,
+        "kode": "73.17.16"
+    }
+]

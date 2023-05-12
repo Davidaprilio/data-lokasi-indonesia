@@ -1,0 +1,44 @@
+[
+    {
+        "no": "1",
+        "kodepos": "11640",
+        "name": "Joglo",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Kembangan-Kota-Jakarta%20Barat&jobs=Joglo",
+        "kode": "31.73.08.1005"
+    },
+    {
+        "no": "2",
+        "kodepos": "11610",
+        "name": "Kembangan Selatan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Kembangan-Kota-Jakarta%20Barat&jobs=Kembangan%20Selatan",
+        "kode": "31.73.08.1006"
+    },
+    {
+        "no": "3",
+        "kodepos": "11610",
+        "name": "Kembangan Utara",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Kembangan-Kota-Jakarta%20Barat&jobs=Kembangan%20Utara",
+        "kode": "31.73.08.1001"
+    },
+    {
+        "no": "4",
+        "kodepos": "11650",
+        "name": "Meruya Selatan (Udik)",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Kembangan-Kota-Jakarta%20Barat&jobs=Meruya%20Selatan%20(Udik)",
+        "kode": "31.73.08.1003"
+    },
+    {
+        "no": "5",
+        "kodepos": "11620",
+        "name": "Meruya Utara (Ilir)",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Kembangan-Kota-Jakarta%20Barat&jobs=Meruya%20Utara%20(Ilir)",
+        "kode": "31.73.08.1002"
+    },
+    {
+        "no": "6",
+        "kodepos": "11630",
+        "name": "Srengseng",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Kembangan-Kota-Jakarta%20Barat&jobs=Srengseng",
+        "kode": "31.73.08.1004"
+    }
+]

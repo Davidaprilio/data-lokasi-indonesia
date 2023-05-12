@@ -1,0 +1,77 @@
+[
+    {
+        "no": "1",
+        "name": "Baguala",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Ambon&jobs=Baguala",
+        "kodepos": [
+            "97231",
+            "97233"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Ambon&jobs=Baguala",
+            "jumlah": "7"
+        },
+        "pulau": null,
+        "kode": "81.71.03"
+    },
+    {
+        "no": "2",
+        "name": "Leitimur Selatan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Ambon&jobs=Leitimur%20Selatan",
+        "kodepos": [
+            "97129",
+            "97237"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Ambon&jobs=Leitimur%20Selatan",
+            "jumlah": "8"
+        },
+        "pulau": null,
+        "kode": "81.71.05"
+    },
+    {
+        "no": "3",
+        "name": "Nusaniwe (Nusanive)",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Ambon&jobs=Nusaniwe%20(Nusanive)",
+        "kodepos": [
+            "97114",
+            "97118"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Ambon&jobs=Nusaniwe%20(Nusanive)",
+            "jumlah": "13"
+        },
+        "pulau": null,
+        "kode": "81.71.01"
+    },
+    {
+        "no": "4",
+        "name": "Sirimau",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Ambon&jobs=Sirimau",
+        "kodepos": [
+            "97121",
+            "97129"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Ambon&jobs=Sirimau",
+            "jumlah": "14"
+        },
+        "pulau": null,
+        "kode": "81.71.02"
+    },
+    {
+        "no": "5",
+        "name": "Teluk Ambon",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Ambon&jobs=Teluk%20Ambon",
+        "kodepos": [
+            "97233",
+            "97237"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Ambon&jobs=Teluk%20Ambon",
+            "jumlah": "8"
+        },
+        "pulau": null,
+        "kode": "81.71.04"
+    }
+]

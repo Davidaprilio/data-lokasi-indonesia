@@ -1,0 +1,263 @@
+[
+    {
+        "no": "1",
+        "name": "Alor Barat Daya",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Alor&jobs=Alor%20Barat%20Daya",
+        "kodepos": [
+            "85861"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Alor&jobs=Alor%20Barat%20Daya",
+            "jumlah": "20"
+        },
+        "pulau": null,
+        "kode": "53.05.03"
+    },
+    {
+        "no": "2",
+        "name": "Alor Barat Laut",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Alor&jobs=Alor%20Barat%20Laut",
+        "kodepos": [
+            "85851"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Alor&jobs=Alor%20Barat%20Laut",
+            "jumlah": "19"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Alor&jobs=Alor%20Barat%20Laut",
+            "jumlah": "3"
+        },
+        "kode": "53.05.02"
+    },
+    {
+        "no": "3",
+        "name": "Alor Selatan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Alor&jobs=Alor%20Selatan",
+        "kodepos": [
+            "85871"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Alor&jobs=Alor%20Selatan",
+            "jumlah": "14"
+        },
+        "pulau": null,
+        "kode": "53.05.04"
+    },
+    {
+        "no": "4",
+        "name": "Alor Tengah Utara",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Alor&jobs=Alor%20Tengah%20Utara",
+        "kodepos": [
+            "85870"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Alor&jobs=Alor%20Tengah%20Utara",
+            "jumlah": "14"
+        },
+        "pulau": null,
+        "kode": "53.05.07"
+    },
+    {
+        "no": "5",
+        "name": "Alor Timur",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Alor&jobs=Alor%20Timur",
+        "kodepos": [
+            "85872"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Alor&jobs=Alor%20Timur",
+            "jumlah": "10"
+        },
+        "pulau": null,
+        "kode": "53.05.05"
+    },
+    {
+        "no": "6",
+        "name": "Alor Timur Laut",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Alor&jobs=Alor%20Timur%20Laut",
+        "kodepos": [
+            "85873"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Alor&jobs=Alor%20Timur%20Laut",
+            "jumlah": "8"
+        },
+        "pulau": null,
+        "kode": "53.05.08"
+    },
+    {
+        "no": "7",
+        "name": "Kabola",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Alor&jobs=Kabola",
+        "kodepos": [
+            "85819",
+            "85851"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Alor&jobs=Kabola",
+            "jumlah": "5"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Alor&jobs=Kabola",
+            "jumlah": "2"
+        },
+        "kode": "53.05.10"
+    },
+    {
+        "no": "8",
+        "name": "Lembur",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Alor&jobs=Lembur",
+        "kodepos": [
+            "85875"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Alor&jobs=Lembur",
+            "jumlah": "6"
+        },
+        "pulau": null,
+        "kode": "53.05.15"
+    },
+    {
+        "no": "9",
+        "name": "Mataru",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Alor&jobs=Mataru",
+        "kodepos": [
+            "85860"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Alor&jobs=Mataru",
+            "jumlah": "7"
+        },
+        "pulau": null,
+        "kode": "53.05.12"
+    },
+    {
+        "no": "10",
+        "name": "Pantar",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Alor&jobs=Pantar",
+        "kodepos": [
+            "85881"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Alor&jobs=Pantar",
+            "jumlah": "11"
+        },
+        "pulau": null,
+        "kode": "53.05.06"
+    },
+    {
+        "no": "11",
+        "name": "Pantar Barat",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Alor&jobs=Pantar%20Barat",
+        "kodepos": [
+            "85880"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Alor&jobs=Pantar%20Barat",
+            "jumlah": "7"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Alor&jobs=Pantar%20Barat",
+            "jumlah": "3"
+        },
+        "kode": "53.05.09"
+    },
+    {
+        "no": "12",
+        "name": "Pantar Baru Laut (Pantar Barat Laut)",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Alor&jobs=Pantar%20Baru%20Laut%20(Pantar%20Barat%20Laut)",
+        "kodepos": [
+            "85882"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Alor&jobs=Pantar%20Baru%20Laut%20(Pantar%20Barat%20Laut)",
+            "jumlah": "7"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Alor&jobs=Pantar%20Baru%20Laut%20(Pantar%20Barat%20Laut)",
+            "jumlah": "4"
+        },
+        "kode": "53.05.17"
+    },
+    {
+        "no": "13",
+        "name": "Pantar Tengah",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Alor&jobs=Pantar%20Tengah",
+        "kodepos": [
+            "85883"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Alor&jobs=Pantar%20Tengah",
+            "jumlah": "10"
+        },
+        "pulau": null,
+        "kode": "53.05.16"
+    },
+    {
+        "no": "14",
+        "name": "Pantar Timur",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Alor&jobs=Pantar%20Timur",
+        "kodepos": [
+            "85884"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Alor&jobs=Pantar%20Timur",
+            "jumlah": "11"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Alor&jobs=Pantar%20Timur",
+            "jumlah": "1"
+        },
+        "kode": "53.05.14"
+    },
+    {
+        "no": "15",
+        "name": "Pulau Pura",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Alor&jobs=Pulau%20Pura",
+        "kodepos": [
+            "85850"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Alor&jobs=Pulau%20Pura",
+            "jumlah": "6"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Alor&jobs=Pulau%20Pura",
+            "jumlah": "2"
+        },
+        "kode": "53.05.11"
+    },
+    {
+        "no": "16",
+        "name": "Pureman",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Alor&jobs=Pureman",
+        "kodepos": [
+            "85874"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Alor&jobs=Pureman",
+            "jumlah": "4"
+        },
+        "pulau": null,
+        "kode": "53.05.13"
+    },
+    {
+        "no": "17",
+        "name": "Teluk Mutiara",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Alor&jobs=Teluk%20Mutiara",
+        "kodepos": [
+            "85811",
+            "85819"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Alor&jobs=Teluk%20Mutiara",
+            "jumlah": "16"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Alor&jobs=Teluk%20Mutiara",
+            "jumlah": "1"
+        },
+        "kode": "53.05.01"
+    }
+]

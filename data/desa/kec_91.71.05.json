@@ -1,0 +1,37 @@
+[
+    {
+        "no": "1",
+        "kodepos": "99331",
+        "name": "Hedam",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Heram-Kota-Jayapura&jobs=Hedam",
+        "kode": "91.71.05.1001"
+    },
+    {
+        "no": "2",
+        "kodepos": "99332",
+        "name": "Waena",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Heram-Kota-Jayapura&jobs=Waena",
+        "kode": "91.71.05.1002"
+    },
+    {
+        "no": "3",
+        "kodepos": "99328",
+        "name": "Waena II",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Heram-Kota-Jayapura&jobs=Waena%20II",
+        "kode": "91.71.05.2005"
+    },
+    {
+        "no": "4",
+        "kodepos": "99333",
+        "name": "Yabansai",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Heram-Kota-Jayapura&jobs=Yabansai",
+        "kode": "91.71.05.1004"
+    },
+    {
+        "no": "5",
+        "kodepos": "99334",
+        "name": "Yoka",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Heram-Kota-Jayapura&jobs=Yoka",
+        "kode": "91.71.05.2003"
+    }
+]

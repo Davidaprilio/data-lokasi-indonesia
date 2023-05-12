@@ -1,0 +1,168 @@
+[
+    {
+        "no": "1",
+        "type": "Kabupaten",
+        "name": "Deiyai",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Deiyai",
+        "kodepos": [
+            "98751",
+            "98771"
+        ],
+        "kecamatan": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Deiyai",
+            "jumlah": "5"
+        },
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kab.&jobs=Deiyai",
+            "jumlah": "67"
+        },
+        "pulau": null,
+        "kode": "94.08"
+    },
+    {
+        "no": "2",
+        "type": "Kabupaten",
+        "name": "Dogiyai",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Dogiyai",
+        "kodepos": [
+            "98871",
+            "98885"
+        ],
+        "kecamatan": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Dogiyai",
+            "jumlah": "10"
+        },
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kab.&jobs=Dogiyai",
+            "jumlah": "79"
+        },
+        "pulau": null,
+        "kode": "94.06"
+    },
+    {
+        "no": "3",
+        "type": "Kabupaten",
+        "name": "Intan Jaya",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Intan%20Jaya",
+        "kodepos": [
+            "98782",
+            "98794"
+        ],
+        "kecamatan": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Intan%20Jaya",
+            "jumlah": "8"
+        },
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kab.&jobs=Intan%20Jaya",
+            "jumlah": "97"
+        },
+        "pulau": null,
+        "kode": "94.07"
+    },
+    {
+        "no": "4",
+        "type": "Kabupaten",
+        "name": "Mimika",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Mimika",
+        "kodepos": [
+            "99951",
+            "99976"
+        ],
+        "kecamatan": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Mimika",
+            "jumlah": "18"
+        },
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kab.&jobs=Mimika",
+            "jumlah": "152"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kab.&jobs=Mimika",
+            "jumlah": "6"
+        },
+        "kode": "94.04"
+    },
+    {
+        "no": "5",
+        "type": "Kabupaten",
+        "name": "Nabire",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Nabire",
+        "kodepos": [
+            "98811",
+            "98864"
+        ],
+        "kecamatan": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Nabire",
+            "jumlah": "15"
+        },
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kab.&jobs=Nabire",
+            "jumlah": "81"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kab.&jobs=Nabire",
+            "jumlah": "44"
+        },
+        "kode": "94.01"
+    },
+    {
+        "no": "6",
+        "type": "Kabupaten",
+        "name": "Paniai",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Paniai",
+        "kodepos": [
+            "98711",
+            "98743"
+        ],
+        "kecamatan": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Paniai",
+            "jumlah": "24"
+        },
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kab.&jobs=Paniai",
+            "jumlah": "221"
+        },
+        "pulau": null,
+        "kode": "94.03"
+    },
+    {
+        "no": "7",
+        "type": "Kabupaten",
+        "name": "Puncak",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Puncak",
+        "kodepos": [
+            "98951",
+            "98982"
+        ],
+        "kecamatan": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Puncak",
+            "jumlah": "25"
+        },
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kab.&jobs=Puncak",
+            "jumlah": "206"
+        },
+        "pulau": null,
+        "kode": "94.05"
+    },
+    {
+        "no": "8",
+        "type": "Kabupaten",
+        "name": "Puncak Jaya",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Puncak%20Jaya",
+        "kodepos": [
+            "98911",
+            "98946"
+        ],
+        "kecamatan": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Puncak%20Jaya",
+            "jumlah": "26"
+        },
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kab.&jobs=Puncak%20Jaya",
+            "jumlah": "305"
+        },
+        "pulau": null,
+        "kode": "94.02"
+    }
+]

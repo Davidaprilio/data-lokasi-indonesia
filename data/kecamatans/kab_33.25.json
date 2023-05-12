@@ -1,0 +1,215 @@
+[
+    {
+        "no": "1",
+        "name": "Bandar",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Batang&jobs=Bandar",
+        "kodepos": [
+            "51254"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Batang&jobs=Bandar",
+            "jumlah": "17"
+        },
+        "pulau": null,
+        "kode": "33.25.02"
+    },
+    {
+        "no": "2",
+        "name": "Banyuputih",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Batang&jobs=Banyuputih",
+        "kodepos": [
+            "51271",
+            "51281"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Batang&jobs=Banyuputih",
+            "jumlah": "11"
+        },
+        "pulau": null,
+        "kode": "33.25.15"
+    },
+    {
+        "no": "3",
+        "name": "Batang",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Batang&jobs=Batang",
+        "kodepos": [
+            "51211",
+            "51216"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Batang&jobs=Batang",
+            "jumlah": "21"
+        },
+        "pulau": null,
+        "kode": "33.25.11"
+    },
+    {
+        "no": "4",
+        "name": "Bawang",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Batang&jobs=Bawang",
+        "kodepos": [
+            "51274"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Batang&jobs=Bawang",
+            "jumlah": "20"
+        },
+        "pulau": null,
+        "kode": "33.25.05"
+    },
+    {
+        "no": "5",
+        "name": "Blado",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Batang&jobs=Blado",
+        "kodepos": [
+            "51255"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Batang&jobs=Blado",
+            "jumlah": "18"
+        },
+        "pulau": null,
+        "kode": "33.25.03"
+    },
+    {
+        "no": "6",
+        "name": "Gringsing",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Batang&jobs=Gringsing",
+        "kodepos": [
+            "51281"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Batang&jobs=Gringsing",
+            "jumlah": "15"
+        },
+        "pulau": null,
+        "kode": "33.25.07"
+    },
+    {
+        "no": "7",
+        "name": "Kandeman",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Batang&jobs=Kandeman",
+        "kodepos": [
+            "51261"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Batang&jobs=Kandeman",
+            "jumlah": "13"
+        },
+        "pulau": null,
+        "kode": "33.25.13"
+    },
+    {
+        "no": "8",
+        "name": "Limpung",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Batang&jobs=Limpung",
+        "kodepos": [
+            "51271"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Batang&jobs=Limpung",
+            "jumlah": "17"
+        },
+        "pulau": null,
+        "kode": "33.25.08"
+    },
+    {
+        "no": "9",
+        "name": "Pecalungan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Batang&jobs=Pecalungan",
+        "kodepos": [
+            "51262"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Batang&jobs=Pecalungan",
+            "jumlah": "10"
+        },
+        "pulau": null,
+        "kode": "33.25.14"
+    },
+    {
+        "no": "10",
+        "name": "Reban",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Batang&jobs=Reban",
+        "kodepos": [
+            "51273"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Batang&jobs=Reban",
+            "jumlah": "19"
+        },
+        "pulau": null,
+        "kode": "33.25.04"
+    },
+    {
+        "no": "11",
+        "name": "Subah",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Batang&jobs=Subah",
+        "kodepos": [
+            "51263"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Batang&jobs=Subah",
+            "jumlah": "17"
+        },
+        "pulau": null,
+        "kode": "33.25.09"
+    },
+    {
+        "no": "12",
+        "name": "Tersono",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Batang&jobs=Tersono",
+        "kodepos": [
+            "51272"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Batang&jobs=Tersono",
+            "jumlah": "20"
+        },
+        "pulau": null,
+        "kode": "33.25.06"
+    },
+    {
+        "no": "13",
+        "name": "Tulis",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Batang&jobs=Tulis",
+        "kodepos": [
+            "51254",
+            "51263"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Batang&jobs=Tulis",
+            "jumlah": "17"
+        },
+        "pulau": null,
+        "kode": "33.25.10"
+    },
+    {
+        "no": "14",
+        "name": "Warungasem",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Batang&jobs=Warungasem",
+        "kodepos": [
+            "51252"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Batang&jobs=Warungasem",
+            "jumlah": "18"
+        },
+        "pulau": null,
+        "kode": "33.25.12"
+    },
+    {
+        "no": "15",
+        "name": "Wonotunggal",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Batang&jobs=Wonotunggal",
+        "kodepos": [
+            "51253"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Batang&jobs=Wonotunggal",
+            "jumlah": "15"
+        },
+        "pulau": null,
+        "kode": "33.25.01"
+    }
+]

@@ -1,0 +1,293 @@
+[
+    {
+        "no": "1",
+        "name": "Air Upas",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Ketapang&jobs=Air%20Upas",
+        "kodepos": [
+            "78863"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Ketapang&jobs=Air%20Upas",
+            "jumlah": "9"
+        },
+        "pulau": null,
+        "kode": "61.04.21"
+    },
+    {
+        "no": "2",
+        "name": "Benua Kayong",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Ketapang&jobs=Benua%20Kayong",
+        "kodepos": [
+            "78821",
+            "78822"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Ketapang&jobs=Benua%20Kayong",
+            "jumlah": "11"
+        },
+        "pulau": null,
+        "kode": "61.04.18"
+    },
+    {
+        "no": "3",
+        "name": "Delta Pawan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Ketapang&jobs=Delta%20Pawan",
+        "kodepos": [
+            "78811",
+            "78813"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Ketapang&jobs=Delta%20Pawan",
+            "jumlah": "9"
+        },
+        "pulau": null,
+        "kode": "61.04.16"
+    },
+    {
+        "no": "4",
+        "name": "Hulu Sungai",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Ketapang&jobs=Hulu%20Sungai",
+        "kodepos": [
+            "78871"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Ketapang&jobs=Hulu%20Sungai",
+            "jumlah": "12"
+        },
+        "pulau": null,
+        "kode": "61.04.19"
+    },
+    {
+        "no": "5",
+        "name": "Jelai Hulu",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Ketapang&jobs=Jelai%20Hulu",
+        "kodepos": [
+            "78876"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Ketapang&jobs=Jelai%20Hulu",
+            "jumlah": "22"
+        },
+        "pulau": null,
+        "kode": "61.04.14"
+    },
+    {
+        "no": "6",
+        "name": "Kendawangan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Ketapang&jobs=Kendawangan",
+        "kodepos": [
+            "78862"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Ketapang&jobs=Kendawangan",
+            "jumlah": "19"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Ketapang&jobs=Kendawangan",
+            "jumlah": "30"
+        },
+        "kode": "61.04.04"
+    },
+    {
+        "no": "7",
+        "name": "Manis Mata",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Ketapang&jobs=Manis%20Mata",
+        "kodepos": [
+            "78864"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Ketapang&jobs=Manis%20Mata",
+            "jumlah": "22"
+        },
+        "pulau": null,
+        "kode": "61.04.03"
+    },
+    {
+        "no": "8",
+        "name": "Marau",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Ketapang&jobs=Marau",
+        "kodepos": [
+            "78865"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Ketapang&jobs=Marau",
+            "jumlah": "10"
+        },
+        "pulau": null,
+        "kode": "61.04.02"
+    },
+    {
+        "no": "9",
+        "name": "Matan Hilir Selatan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Ketapang&jobs=Matan%20Hilir%20Selatan",
+        "kodepos": [
+            "78822"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Ketapang&jobs=Matan%20Hilir%20Selatan",
+            "jumlah": "11"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Ketapang&jobs=Matan%20Hilir%20Selatan",
+            "jumlah": "2"
+        },
+        "kode": "61.04.12"
+    },
+    {
+        "no": "10",
+        "name": "Matan Hilir Utara",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Ketapang&jobs=Matan%20Hilir%20Utara",
+        "kodepos": [
+            "78813"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Ketapang&jobs=Matan%20Hilir%20Utara",
+            "jumlah": "5"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Ketapang&jobs=Matan%20Hilir%20Utara",
+            "jumlah": "4"
+        },
+        "kode": "61.04.01"
+    },
+    {
+        "no": "11",
+        "name": "Muara Pawan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Ketapang&jobs=Muara%20Pawan",
+        "kodepos": [
+            "78810"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Ketapang&jobs=Muara%20Pawan",
+            "jumlah": "8"
+        },
+        "pulau": null,
+        "kode": "61.04.17"
+    },
+    {
+        "no": "12",
+        "name": "Nanga Tayap",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Ketapang&jobs=Nanga%20Tayap",
+        "kodepos": [
+            "78873"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Ketapang&jobs=Nanga%20Tayap",
+            "jumlah": "20"
+        },
+        "pulau": null,
+        "kode": "61.04.11"
+    },
+    {
+        "no": "13",
+        "name": "Pemahan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Ketapang&jobs=Pemahan",
+        "kodepos": [
+            "78874"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Ketapang&jobs=Pemahan",
+            "jumlah": "7"
+        },
+        "pulau": null,
+        "kode": "61.04.24"
+    },
+    {
+        "no": "14",
+        "name": "Sandai",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Ketapang&jobs=Sandai",
+        "kodepos": [
+            "78870"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Ketapang&jobs=Sandai",
+            "jumlah": "13"
+        },
+        "pulau": null,
+        "kode": "61.04.05"
+    },
+    {
+        "no": "15",
+        "name": "Simpang Dua",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Ketapang&jobs=Simpang%20Dua",
+        "kodepos": [
+            "78854"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Ketapang&jobs=Simpang%20Dua",
+            "jumlah": "6"
+        },
+        "pulau": null,
+        "kode": "61.04.20"
+    },
+    {
+        "no": "16",
+        "name": "Simpang Hulu",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Ketapang&jobs=Simpang%20Hulu",
+        "kodepos": [
+            "78850"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Ketapang&jobs=Simpang%20Hulu",
+            "jumlah": "15"
+        },
+        "pulau": null,
+        "kode": "61.04.08"
+    },
+    {
+        "no": "17",
+        "name": "Singkup",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Ketapang&jobs=Singkup",
+        "kodepos": [
+            "78866"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Ketapang&jobs=Singkup",
+            "jumlah": "8"
+        },
+        "pulau": null,
+        "kode": "61.04.22"
+    },
+    {
+        "no": "18",
+        "name": "Sungai Laur",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Ketapang&jobs=Sungai%20Laur",
+        "kodepos": [
+            "78872"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Ketapang&jobs=Sungai%20Laur",
+            "jumlah": "19"
+        },
+        "pulau": null,
+        "kode": "61.04.07"
+    },
+    {
+        "no": "19",
+        "name": "Sungai Melayu Rayak",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Ketapang&jobs=Sungai%20Melayu%20Rayak",
+        "kodepos": [
+            "78875"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Ketapang&jobs=Sungai%20Melayu%20Rayak",
+            "jumlah": "11"
+        },
+        "pulau": null,
+        "kode": "61.04.25"
+    },
+    {
+        "no": "20",
+        "name": "Tumbang Titi",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Ketapang&jobs=Tumbang%20Titi",
+        "kodepos": [
+            "78877"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Ketapang&jobs=Tumbang%20Titi",
+            "jumlah": "25"
+        },
+        "pulau": null,
+        "kode": "61.04.13"
+    }
+]

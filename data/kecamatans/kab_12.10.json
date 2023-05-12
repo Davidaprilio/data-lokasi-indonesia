@@ -1,0 +1,137 @@
+[
+    {
+        "no": "1",
+        "name": "Bilah Barat",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Labuhanbatu&jobs=Bilah%20Barat",
+        "kodepos": [
+            "21411",
+            "21415"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Labuhanbatu&jobs=Bilah%20Barat",
+            "jumlah": "10"
+        },
+        "pulau": null,
+        "kode": "12.10.07"
+    },
+    {
+        "no": "2",
+        "name": "Bilah Hilir",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Labuhanbatu&jobs=Bilah%20Hilir",
+        "kodepos": [
+            "21471"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Labuhanbatu&jobs=Bilah%20Hilir",
+            "jumlah": "13"
+        },
+        "pulau": null,
+        "kode": "12.10.08"
+    },
+    {
+        "no": "3",
+        "name": "Bilah Hulu",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Labuhanbatu&jobs=Bilah%20Hulu",
+        "kodepos": [
+            "21451"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Labuhanbatu&jobs=Bilah%20Hulu",
+            "jumlah": "24"
+        },
+        "pulau": null,
+        "kode": "12.10.09"
+    },
+    {
+        "no": "4",
+        "name": "Panai Hilir",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Labuhanbatu&jobs=Panai%20Hilir",
+        "kodepos": [
+            "21473"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Labuhanbatu&jobs=Panai%20Hilir",
+            "jumlah": "8"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Labuhanbatu&jobs=Panai%20Hilir",
+            "jumlah": "1"
+        },
+        "kode": "12.10.19"
+    },
+    {
+        "no": "5",
+        "name": "Panai Hulu",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Labuhanbatu&jobs=Panai%20Hulu",
+        "kodepos": [
+            "21470"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Labuhanbatu&jobs=Panai%20Hulu",
+            "jumlah": "7"
+        },
+        "pulau": null,
+        "kode": "12.10.20"
+    },
+    {
+        "no": "6",
+        "name": "Panai Tengah",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Labuhanbatu&jobs=Panai%20Tengah",
+        "kodepos": [
+            "21472"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Labuhanbatu&jobs=Panai%20Tengah",
+            "jumlah": "10"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Labuhanbatu&jobs=Panai%20Tengah",
+            "jumlah": "1"
+        },
+        "kode": "12.10.18"
+    },
+    {
+        "no": "7",
+        "name": "Pangkatan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Labuhanbatu&jobs=Pangkatan",
+        "kodepos": [
+            "21462"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Labuhanbatu&jobs=Pangkatan",
+            "jumlah": "7"
+        },
+        "pulau": null,
+        "kode": "12.10.14"
+    },
+    {
+        "no": "8",
+        "name": "Rantau Selatan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Labuhanbatu&jobs=Rantau%20Selatan",
+        "kodepos": [
+            "21421",
+            "21429"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Labuhanbatu&jobs=Rantau%20Selatan",
+            "jumlah": "9"
+        },
+        "pulau": null,
+        "kode": "12.10.02"
+    },
+    {
+        "no": "9",
+        "name": "Rantau Utara",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Labuhanbatu&jobs=Rantau%20Utara",
+        "kodepos": [
+            "21411",
+            "21419"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Labuhanbatu&jobs=Rantau%20Utara",
+            "jumlah": "10"
+        },
+        "pulau": null,
+        "kode": "12.10.01"
+    }
+]

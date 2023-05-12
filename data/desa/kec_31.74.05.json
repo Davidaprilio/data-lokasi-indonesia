@@ -1,0 +1,44 @@
+[
+    {
+        "no": "1",
+        "kodepos": "12230",
+        "name": "Cipulir",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Kebayoran%20Lama-Kota-Jakarta%20Selatan&jobs=Cipulir",
+        "kode": "31.74.05.1003"
+    },
+    {
+        "no": "2",
+        "kodepos": "12220",
+        "name": "Grogol Selatan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Kebayoran%20Lama-Kota-Jakarta%20Selatan&jobs=Grogol%20Selatan",
+        "kode": "31.74.05.1005"
+    },
+    {
+        "no": "3",
+        "kodepos": "12210",
+        "name": "Grogol Utara",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Kebayoran%20Lama-Kota-Jakarta%20Selatan&jobs=Grogol%20Utara",
+        "kode": "31.74.05.1004"
+    },
+    {
+        "no": "4",
+        "kodepos": "12240",
+        "name": "Kebayoran Lama Selatan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Kebayoran%20Lama-Kota-Jakarta%20Selatan&jobs=Kebayoran%20Lama%20Selatan",
+        "kode": "31.74.05.1006"
+    },
+    {
+        "no": "5",
+        "kodepos": "12240",
+        "name": "Kebayoran Lama Utara",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Kebayoran%20Lama-Kota-Jakarta%20Selatan&jobs=Kebayoran%20Lama%20Utara",
+        "kode": "31.74.05.1001"
+    },
+    {
+        "no": "6",
+        "kodepos": "12310",
+        "name": "Pondok Pinang",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Kebayoran%20Lama-Kota-Jakarta%20Selatan&jobs=Pondok%20Pinang",
+        "kode": "31.74.05.1002"
+    }
+]

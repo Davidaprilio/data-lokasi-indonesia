@@ -1,0 +1,170 @@
+[
+    {
+        "no": "1",
+        "name": "Amen",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Lebong&jobs=Amen",
+        "kodepos": [
+            "39264"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Lebong&jobs=Amen",
+            "jumlah": "10"
+        },
+        "pulau": null,
+        "kode": "17.07.10"
+    },
+    {
+        "no": "2",
+        "name": "Bingin Kuning",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Lebong&jobs=Bingin%20Kuning",
+        "kodepos": [
+            "39262"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Lebong&jobs=Bingin%20Kuning",
+            "jumlah": "9"
+        },
+        "pulau": null,
+        "kode": "17.07.07"
+    },
+    {
+        "no": "3",
+        "name": "Lebong Atas",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Lebong&jobs=Lebong%20Atas",
+        "kodepos": [
+            "39265"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Lebong&jobs=Lebong%20Atas",
+            "jumlah": "6"
+        },
+        "pulau": null,
+        "kode": "17.07.02"
+    },
+    {
+        "no": "4",
+        "name": "Lebong Sakti",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Lebong&jobs=Lebong%20Sakti",
+        "kodepos": [
+            "39267"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Lebong&jobs=Lebong%20Sakti",
+            "jumlah": "9"
+        },
+        "pulau": null,
+        "kode": "17.07.08"
+    },
+    {
+        "no": "5",
+        "name": "Lebong Selatan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Lebong&jobs=Lebong%20Selatan",
+        "kodepos": [
+            "39258"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Lebong&jobs=Lebong%20Selatan",
+            "jumlah": "10"
+        },
+        "pulau": null,
+        "kode": "17.07.04"
+    },
+    {
+        "no": "6",
+        "name": "Lebong Tengah",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Lebong&jobs=Lebong%20Tengah",
+        "kodepos": [
+            "39263"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Lebong&jobs=Lebong%20Tengah",
+            "jumlah": "11"
+        },
+        "pulau": null,
+        "kode": "17.07.03"
+    },
+    {
+        "no": "7",
+        "name": "Lebong Utara",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Lebong&jobs=Lebong%20Utara",
+        "kodepos": [
+            "39259"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Lebong&jobs=Lebong%20Utara",
+            "jumlah": "12"
+        },
+        "pulau": null,
+        "kode": "17.07.01"
+    },
+    {
+        "no": "8",
+        "name": "Pelabai",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Lebong&jobs=Pelabai",
+        "kodepos": [
+            "39266"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Lebong&jobs=Pelabai",
+            "jumlah": "8"
+        },
+        "pulau": null,
+        "kode": "17.07.09"
+    },
+    {
+        "no": "9",
+        "name": "Pinang Belapis",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Lebong&jobs=Pinang%20Belapis",
+        "kodepos": [
+            "39269"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Lebong&jobs=Pinang%20Belapis",
+            "jumlah": "8"
+        },
+        "pulau": null,
+        "kode": "17.07.12"
+    },
+    {
+        "no": "10",
+        "name": "Rimbo Pengadang",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Lebong&jobs=Rimbo%20Pengadang",
+        "kodepos": [
+            "39261"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Lebong&jobs=Rimbo%20Pengadang",
+            "jumlah": "6"
+        },
+        "pulau": null,
+        "kode": "17.07.05"
+    },
+    {
+        "no": "11",
+        "name": "Topos",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Lebong&jobs=Topos",
+        "kodepos": [
+            "39260"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Lebong&jobs=Topos",
+            "jumlah": "8"
+        },
+        "pulau": null,
+        "kode": "17.07.06"
+    },
+    {
+        "no": "12",
+        "name": "Uram Jaya",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Lebong&jobs=Uram%20Jaya",
+        "kodepos": [
+            "39268"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Lebong&jobs=Uram%20Jaya",
+            "jumlah": "7"
+        },
+        "pulau": null,
+        "kode": "17.07.11"
+    }
+]

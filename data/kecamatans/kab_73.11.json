@@ -1,0 +1,118 @@
+[
+    {
+        "no": "1",
+        "name": "Balusu",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Barru&jobs=Balusu",
+        "kodepos": [
+            "90762"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Barru&jobs=Balusu",
+            "jumlah": "6"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Barru&jobs=Balusu",
+            "jumlah": "1"
+        },
+        "kode": "73.11.07"
+    },
+    {
+        "no": "2",
+        "name": "Barru",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Barru&jobs=Barru",
+        "kodepos": [
+            "90711",
+            "90712"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Barru&jobs=Barru",
+            "jumlah": "10"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Barru&jobs=Barru",
+            "jumlah": "1"
+        },
+        "kode": "73.11.03"
+    },
+    {
+        "no": "3",
+        "name": "Mallusetasi",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Barru&jobs=Mallusetasi",
+        "kodepos": [
+            "90711",
+            "90753"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Barru&jobs=Mallusetasi",
+            "jumlah": "8"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Barru&jobs=Mallusetasi",
+            "jumlah": "4"
+        },
+        "kode": "73.11.05"
+    },
+    {
+        "no": "4",
+        "name": "Pujananting",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Barru&jobs=Pujananting",
+        "kodepos": [
+            "90760"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Barru&jobs=Pujananting",
+            "jumlah": "7"
+        },
+        "pulau": null,
+        "kode": "73.11.06"
+    },
+    {
+        "no": "5",
+        "name": "Soppeng Riaja",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Barru&jobs=Soppeng%20Riaja",
+        "kodepos": [
+            "90752"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Barru&jobs=Soppeng%20Riaja",
+            "jumlah": "7"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Barru&jobs=Soppeng%20Riaja",
+            "jumlah": "2"
+        },
+        "kode": "73.11.04"
+    },
+    {
+        "no": "6",
+        "name": "Tanete Riaja",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Barru&jobs=Tanete%20Riaja",
+        "kodepos": [
+            "90763"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Barru&jobs=Tanete%20Riaja",
+            "jumlah": "7"
+        },
+        "pulau": null,
+        "kode": "73.11.01"
+    },
+    {
+        "no": "7",
+        "name": "Tanete Rilau",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Barru&jobs=Tanete%20Rilau",
+        "kodepos": [
+            "90711",
+            "90761"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Barru&jobs=Tanete%20Rilau",
+            "jumlah": "10"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Barru&jobs=Tanete%20Rilau",
+            "jumlah": "2"
+        },
+        "kode": "73.11.02"
+    }
+]

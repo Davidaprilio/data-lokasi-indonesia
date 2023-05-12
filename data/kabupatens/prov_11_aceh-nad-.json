@@ -1,0 +1,501 @@
+[
+    {
+        "no": "1",
+        "type": "Kabupaten",
+        "name": "Aceh Barat",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Aceh%20Barat",
+        "kodepos": [
+            "23615",
+            "23685"
+        ],
+        "kecamatan": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Aceh%20Barat",
+            "jumlah": "12"
+        },
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kab.&jobs=Aceh%20Barat",
+            "jumlah": "322"
+        },
+        "pulau": null,
+        "kode": "11.05"
+    },
+    {
+        "no": "2",
+        "type": "Kabupaten",
+        "name": "Aceh Barat Daya",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Aceh%20Barat%20Daya",
+        "kodepos": [
+            "23760",
+            "23769"
+        ],
+        "kecamatan": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Aceh%20Barat%20Daya",
+            "jumlah": "9"
+        },
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kab.&jobs=Aceh%20Barat%20Daya",
+            "jumlah": "152"
+        },
+        "pulau": null,
+        "kode": "11.12"
+    },
+    {
+        "no": "3",
+        "type": "Kabupaten",
+        "name": "Aceh Besar",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Aceh%20Besar",
+        "kodepos": [
+            "23350",
+            "23952"
+        ],
+        "kecamatan": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Aceh%20Besar",
+            "jumlah": "23"
+        },
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kab.&jobs=Aceh%20Besar",
+            "jumlah": "604"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kab.&jobs=Aceh%20Besar",
+            "jumlah": "42"
+        },
+        "kode": "11.06"
+    },
+    {
+        "no": "4",
+        "type": "Kabupaten",
+        "name": "Aceh Jaya",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Aceh%20Jaya",
+        "kodepos": [
+            "23653",
+            "23659"
+        ],
+        "kecamatan": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Aceh%20Jaya",
+            "jumlah": "9"
+        },
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kab.&jobs=Aceh%20Jaya",
+            "jumlah": "172"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kab.&jobs=Aceh%20Jaya",
+            "jumlah": "43"
+        },
+        "kode": "11.14"
+    },
+    {
+        "no": "5",
+        "type": "Kabupaten",
+        "name": "Aceh Selatan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Aceh%20Selatan",
+        "kodepos": [
+            "23711",
+            "23779"
+        ],
+        "kecamatan": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Aceh%20Selatan",
+            "jumlah": "18"
+        },
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kab.&jobs=Aceh%20Selatan",
+            "jumlah": "260"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kab.&jobs=Aceh%20Selatan",
+            "jumlah": "6"
+        },
+        "kode": "11.01"
+    },
+    {
+        "no": "6",
+        "type": "Kabupaten",
+        "name": "Aceh Singkil",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Aceh%20Singkil",
+        "kodepos": [
+            "24784",
+            "24794"
+        ],
+        "kecamatan": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Aceh%20Singkil",
+            "jumlah": "11"
+        },
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kab.&jobs=Aceh%20Singkil",
+            "jumlah": "116"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kab.&jobs=Aceh%20Singkil",
+            "jumlah": "80"
+        },
+        "kode": "11.10"
+    },
+    {
+        "no": "7",
+        "type": "Kabupaten",
+        "name": "Aceh Tamiang",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Aceh%20Tamiang",
+        "kodepos": [
+            "24470",
+            "24479"
+        ],
+        "kecamatan": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Aceh%20Tamiang",
+            "jumlah": "12"
+        },
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kab.&jobs=Aceh%20Tamiang",
+            "jumlah": "213"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kab.&jobs=Aceh%20Tamiang",
+            "jumlah": "9"
+        },
+        "kode": "11.16"
+    },
+    {
+        "no": "8",
+        "type": "Kabupaten",
+        "name": "Aceh Tengah",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Aceh%20Tengah",
+        "kodepos": [
+            "24511",
+            "24571"
+        ],
+        "kecamatan": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Aceh%20Tengah",
+            "jumlah": "14"
+        },
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kab.&jobs=Aceh%20Tengah",
+            "jumlah": "295"
+        },
+        "pulau": null,
+        "kode": "11.04"
+    },
+    {
+        "no": "9",
+        "type": "Kabupaten",
+        "name": "Aceh Tenggara",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Aceh%20Tenggara",
+        "kodepos": [
+            "24660",
+            "24678"
+        ],
+        "kecamatan": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Aceh%20Tenggara",
+            "jumlah": "16"
+        },
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kab.&jobs=Aceh%20Tenggara",
+            "jumlah": "385"
+        },
+        "pulau": null,
+        "kode": "11.02"
+    },
+    {
+        "no": "10",
+        "type": "Kabupaten",
+        "name": "Aceh Timur",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Aceh%20Timur",
+        "kodepos": [
+            "24440",
+            "24469"
+        ],
+        "kecamatan": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Aceh%20Timur",
+            "jumlah": "24"
+        },
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kab.&jobs=Aceh%20Timur",
+            "jumlah": "513"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kab.&jobs=Aceh%20Timur",
+            "jumlah": "8"
+        },
+        "kode": "11.03"
+    },
+    {
+        "no": "11",
+        "type": "Kabupaten",
+        "name": "Aceh Utara",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Aceh%20Utara",
+        "kodepos": [
+            "24313",
+            "24396"
+        ],
+        "kecamatan": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Aceh%20Utara",
+            "jumlah": "27"
+        },
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kab.&jobs=Aceh%20Utara",
+            "jumlah": "852"
+        },
+        "pulau": null,
+        "kode": "11.08"
+    },
+    {
+        "no": "12",
+        "type": "Kota",
+        "name": "Banda Aceh",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kota&jobs=Banda%20Aceh",
+        "kodepos": [
+            "23111",
+            "23249"
+        ],
+        "kecamatan": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kota&jobs=Banda%20Aceh",
+            "jumlah": "9"
+        },
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kota&jobs=Banda%20Aceh",
+            "jumlah": "90"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kota&jobs=Banda%20Aceh",
+            "jumlah": "1"
+        },
+        "kode": "11.71"
+    },
+    {
+        "no": "13",
+        "type": "Kabupaten",
+        "name": "Bener Meriah",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Bener%20Meriah",
+        "kodepos": [
+            "24553",
+            "24586"
+        ],
+        "kecamatan": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Bener%20Meriah",
+            "jumlah": "10"
+        },
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kab.&jobs=Bener%20Meriah",
+            "jumlah": "232"
+        },
+        "pulau": null,
+        "kode": "11.17"
+    },
+    {
+        "no": "14",
+        "type": "Kabupaten",
+        "name": "Bireuen",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Bireuen",
+        "kodepos": [
+            "24250",
+            "24358"
+        ],
+        "kecamatan": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Bireuen",
+            "jumlah": "17"
+        },
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kab.&jobs=Bireuen",
+            "jumlah": "609"
+        },
+        "pulau": null,
+        "kode": "11.11"
+    },
+    {
+        "no": "15",
+        "type": "Kabupaten",
+        "name": "Gayo Lues",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Gayo%20Lues",
+        "kodepos": [
+            "24650",
+            "24659"
+        ],
+        "kecamatan": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Gayo%20Lues",
+            "jumlah": "11"
+        },
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kab.&jobs=Gayo%20Lues",
+            "jumlah": "136"
+        },
+        "pulau": null,
+        "kode": "11.13"
+    },
+    {
+        "no": "16",
+        "type": "Kota",
+        "name": "Langsa",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kota&jobs=Langsa",
+        "kodepos": [
+            "24410",
+            "24416"
+        ],
+        "kecamatan": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kota&jobs=Langsa",
+            "jumlah": "5"
+        },
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kota&jobs=Langsa",
+            "jumlah": "66"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kota&jobs=Langsa",
+            "jumlah": "5"
+        },
+        "kode": "11.74"
+    },
+    {
+        "no": "17",
+        "type": "Kota",
+        "name": "Lhokseumawe",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kota&jobs=Lhokseumawe",
+        "kodepos": [
+            "24315",
+            "24375"
+        ],
+        "kecamatan": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kota&jobs=Lhokseumawe",
+            "jumlah": "4"
+        },
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kota&jobs=Lhokseumawe",
+            "jumlah": "68"
+        },
+        "pulau": null,
+        "kode": "11.73"
+    },
+    {
+        "no": "18",
+        "type": "Kabupaten",
+        "name": "Nagan Raya",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Nagan%20Raya",
+        "kodepos": [
+            "23660",
+            "23674"
+        ],
+        "kecamatan": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Nagan%20Raya",
+            "jumlah": "10"
+        },
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kab.&jobs=Nagan%20Raya",
+            "jumlah": "222"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kab.&jobs=Nagan%20Raya",
+            "jumlah": "4"
+        },
+        "kode": "11.15"
+    },
+    {
+        "no": "19",
+        "type": "Kabupaten",
+        "name": "Pidie",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Pidie",
+        "kodepos": [
+            "24115",
+            "24189"
+        ],
+        "kecamatan": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Pidie",
+            "jumlah": "23"
+        },
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kab.&jobs=Pidie",
+            "jumlah": "730"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kab.&jobs=Pidie",
+            "jumlah": "1"
+        },
+        "kode": "11.07"
+    },
+    {
+        "no": "20",
+        "type": "Kabupaten",
+        "name": "Pidie Jaya",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Pidie%20Jaya",
+        "kodepos": [
+            "24184",
+            "24188"
+        ],
+        "kecamatan": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Pidie%20Jaya",
+            "jumlah": "8"
+        },
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kab.&jobs=Pidie%20Jaya",
+            "jumlah": "222"
+        },
+        "pulau": null,
+        "kode": "11.18"
+    },
+    {
+        "no": "21",
+        "type": "Kota",
+        "name": "Sabang",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kota&jobs=Sabang",
+        "kodepos": [
+            "23517",
+            "23529"
+        ],
+        "kecamatan": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kota&jobs=Sabang",
+            "jumlah": "2"
+        },
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kota&jobs=Sabang",
+            "jumlah": "18"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kota&jobs=Sabang",
+            "jumlah": "13"
+        },
+        "kode": "11.72"
+    },
+    {
+        "no": "22",
+        "type": "Kabupaten",
+        "name": "Simeulue",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Simeulue",
+        "kodepos": [
+            "23890",
+            "23899"
+        ],
+        "kecamatan": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Simeulue",
+            "jumlah": "10"
+        },
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kab.&jobs=Simeulue",
+            "jumlah": "138"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kab.&jobs=Simeulue",
+            "jumlah": "133"
+        },
+        "kode": "11.09"
+    },
+    {
+        "no": "23",
+        "type": "Kota",
+        "name": "Subulussalam",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kota&jobs=Subulussalam",
+        "kodepos": [
+            "24779",
+            "24783"
+        ],
+        "kecamatan": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kota&jobs=Subulussalam",
+            "jumlah": "5"
+        },
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kota&jobs=Subulussalam",
+            "jumlah": "82"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kota&jobs=Subulussalam",
+            "jumlah": "7"
+        },
+        "kode": "11.75"
+    }
+]

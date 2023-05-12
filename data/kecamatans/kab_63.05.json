@@ -1,0 +1,171 @@
+[
+    {
+        "no": "1",
+        "name": "Bakarangan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tapin&jobs=Bakarangan",
+        "kodepos": [
+            "71152"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tapin&jobs=Bakarangan",
+            "jumlah": "12"
+        },
+        "pulau": null,
+        "kode": "63.05.07"
+    },
+    {
+        "no": "2",
+        "name": "Binuang",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tapin&jobs=Binuang",
+        "kodepos": [
+            "71183"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tapin&jobs=Binuang",
+            "jumlah": "11"
+        },
+        "pulau": null,
+        "kode": "63.05.01"
+    },
+    {
+        "no": "3",
+        "name": "Bungur",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tapin&jobs=Bungur",
+        "kodepos": [
+            "71153"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tapin&jobs=Bungur",
+            "jumlah": "12"
+        },
+        "pulau": null,
+        "kode": "63.05.09"
+    },
+    {
+        "no": "4",
+        "name": "Candi Laras Selatan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tapin&jobs=Candi%20Laras%20Selatan",
+        "kodepos": [
+            "71162"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tapin&jobs=Candi%20Laras%20Selatan",
+            "jumlah": "12"
+        },
+        "pulau": null,
+        "kode": "63.05.05"
+    },
+    {
+        "no": "5",
+        "name": "Candi Laras Utara",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tapin&jobs=Candi%20Laras%20Utara",
+        "kodepos": [
+            "71171"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tapin&jobs=Candi%20Laras%20Utara",
+            "jumlah": "13"
+        },
+        "pulau": null,
+        "kode": "63.05.06"
+    },
+    {
+        "no": "6",
+        "name": "Hatungun",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tapin&jobs=Hatungun",
+        "kodepos": [
+            "71184"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tapin&jobs=Hatungun",
+            "jumlah": "8"
+        },
+        "pulau": null,
+        "kode": "63.05.12"
+    },
+    {
+        "no": "7",
+        "name": "Lokpaikat",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tapin&jobs=Lokpaikat",
+        "kodepos": [
+            "71154"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tapin&jobs=Lokpaikat",
+            "jumlah": "9"
+        },
+        "pulau": null,
+        "kode": "63.05.10"
+    },
+    {
+        "no": "8",
+        "name": "Piani",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tapin&jobs=Piani",
+        "kodepos": [
+            "71191"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tapin&jobs=Piani",
+            "jumlah": "8"
+        },
+        "pulau": null,
+        "kode": "63.05.08"
+    },
+    {
+        "no": "9",
+        "name": "Salam Babaris",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tapin&jobs=Salam%20Babaris",
+        "kodepos": [
+            "71185"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tapin&jobs=Salam%20Babaris",
+            "jumlah": "6"
+        },
+        "pulau": null,
+        "kode": "63.05.11"
+    },
+    {
+        "no": "10",
+        "name": "Tapin Selatan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tapin&jobs=Tapin%20Selatan",
+        "kodepos": [
+            "71181"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tapin&jobs=Tapin%20Selatan",
+            "jumlah": "11"
+        },
+        "pulau": null,
+        "kode": "63.05.02"
+    },
+    {
+        "no": "11",
+        "name": "Tapin Tengah",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tapin&jobs=Tapin%20Tengah",
+        "kodepos": [
+            "71161"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tapin&jobs=Tapin%20Tengah",
+            "jumlah": "17"
+        },
+        "pulau": null,
+        "kode": "63.05.03"
+    },
+    {
+        "no": "12",
+        "name": "Tapin Utara",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tapin&jobs=Tapin%20Utara",
+        "kodepos": [
+            "71111",
+            "71114"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tapin&jobs=Tapin%20Utara",
+            "jumlah": "16"
+        },
+        "pulau": null,
+        "kode": "63.05.04"
+    }
+]

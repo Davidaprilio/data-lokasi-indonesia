@@ -1,0 +1,592 @@
+[
+    {
+        "no": "1",
+        "name": "Banjarwangi",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Garut&jobs=Banjarwangi",
+        "kodepos": [
+            "44172"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Garut&jobs=Banjarwangi",
+            "jumlah": "11"
+        },
+        "pulau": null,
+        "kode": "32.05.23"
+    },
+    {
+        "no": "2",
+        "name": "Banyuresmi",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Garut&jobs=Banyuresmi",
+        "kodepos": [
+            "44191"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Garut&jobs=Banyuresmi",
+            "jumlah": "15"
+        },
+        "pulau": null,
+        "kode": "32.05.06"
+    },
+    {
+        "no": "3",
+        "name": "Bayongbong",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Garut&jobs=Bayongbong",
+        "kodepos": [
+            "44162"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Garut&jobs=Bayongbong",
+            "jumlah": "18"
+        },
+        "pulau": null,
+        "kode": "32.05.17"
+    },
+    {
+        "no": "4",
+        "name": "Blubur Limbangan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Garut&jobs=Blubur%20Limbangan",
+        "kodepos": [
+            "44186"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Garut&jobs=Blubur%20Limbangan",
+            "jumlah": "14"
+        },
+        "pulau": null,
+        "kode": "32.05.38"
+    },
+    {
+        "no": "5",
+        "name": "Bungbulang",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Garut&jobs=Bungbulang",
+        "kodepos": [
+            "44165"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Garut&jobs=Bungbulang",
+            "jumlah": "13"
+        },
+        "pulau": null,
+        "kode": "32.05.31"
+    },
+    {
+        "no": "6",
+        "name": "Caringin",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Garut&jobs=Caringin",
+        "kodepos": [
+            "44166"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Garut&jobs=Caringin",
+            "jumlah": "6"
+        },
+        "pulau": null,
+        "kode": "32.05.36"
+    },
+    {
+        "no": "7",
+        "name": "Cibalong",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Garut&jobs=Cibalong",
+        "kodepos": [
+            "44176"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Garut&jobs=Cibalong",
+            "jumlah": "11"
+        },
+        "pulau": null,
+        "kode": "32.05.29"
+    },
+    {
+        "no": "8",
+        "name": "Cibatu",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Garut&jobs=Cibatu",
+        "kodepos": [
+            "44185"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Garut&jobs=Cibatu",
+            "jumlah": "11"
+        },
+        "pulau": null,
+        "kode": "32.05.12"
+    },
+    {
+        "no": "9",
+        "name": "Cibiuk",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Garut&jobs=Cibiuk",
+        "kodepos": [
+            "44193"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Garut&jobs=Cibiuk",
+            "jumlah": "5"
+        },
+        "pulau": null,
+        "kode": "32.05.40"
+    },
+    {
+        "no": "10",
+        "name": "Cigedug",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Garut&jobs=Cigedug",
+        "kodepos": [
+            "44116"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Garut&jobs=Cigedug",
+            "jumlah": "5"
+        },
+        "pulau": null,
+        "kode": "32.05.18"
+    },
+    {
+        "no": "11",
+        "name": "Cihurip",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Garut&jobs=Cihurip",
+        "kodepos": [
+            "44173"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Garut&jobs=Cihurip",
+            "jumlah": "4"
+        },
+        "pulau": null,
+        "kode": "32.05.25"
+    },
+    {
+        "no": "12",
+        "name": "Cikajang",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Garut&jobs=Cikajang",
+        "kodepos": [
+            "44171"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Garut&jobs=Cikajang",
+            "jumlah": "12"
+        },
+        "pulau": null,
+        "kode": "32.05.22"
+    },
+    {
+        "no": "13",
+        "name": "Cikelet",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Garut&jobs=Cikelet",
+        "kodepos": [
+            "44177"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Garut&jobs=Cikelet",
+            "jumlah": "11"
+        },
+        "pulau": null,
+        "kode": "32.05.30"
+    },
+    {
+        "no": "14",
+        "name": "Cilawu",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Garut&jobs=Cilawu",
+        "kodepos": [
+            "44181"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Garut&jobs=Cilawu",
+            "jumlah": "18"
+        },
+        "pulau": null,
+        "kode": "32.05.19"
+    },
+    {
+        "no": "15",
+        "name": "Cisewu",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Garut&jobs=Cisewu",
+        "kodepos": [
+            "44169"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Garut&jobs=Cisewu",
+            "jumlah": "9"
+        },
+        "pulau": null,
+        "kode": "32.05.35"
+    },
+    {
+        "no": "16",
+        "name": "Cisompet",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Garut&jobs=Cisompet",
+        "kodepos": [
+            "44174"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Garut&jobs=Cisompet",
+            "jumlah": "11"
+        },
+        "pulau": null,
+        "kode": "32.05.28"
+    },
+    {
+        "no": "17",
+        "name": "Cisurupan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Garut&jobs=Cisurupan",
+        "kodepos": [
+            "44163"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Garut&jobs=Cisurupan",
+            "jumlah": "17"
+        },
+        "pulau": null,
+        "kode": "32.05.20"
+    },
+    {
+        "no": "18",
+        "name": "Garut Kota",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Garut&jobs=Garut%20Kota",
+        "kodepos": [
+            "44111",
+            "44119"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Garut&jobs=Garut%20Kota",
+            "jumlah": "11"
+        },
+        "pulau": null,
+        "kode": "32.05.01"
+    },
+    {
+        "no": "19",
+        "name": "Kadungora",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Garut&jobs=Kadungora",
+        "kodepos": [
+            "44153"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Garut&jobs=Kadungora",
+            "jumlah": "14"
+        },
+        "pulau": null,
+        "kode": "32.05.10"
+    },
+    {
+        "no": "20",
+        "name": "Karangpawitan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Garut&jobs=Karangpawitan",
+        "kodepos": [
+            "44182"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Garut&jobs=Karangpawitan",
+            "jumlah": "20"
+        },
+        "pulau": null,
+        "kode": "32.05.02"
+    },
+    {
+        "no": "21",
+        "name": "Karangtengah",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Garut&jobs=Karangtengah",
+        "kodepos": [
+            "44184"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Garut&jobs=Karangtengah",
+            "jumlah": "4"
+        },
+        "pulau": null,
+        "kode": "32.05.16"
+    },
+    {
+        "no": "22",
+        "name": "Kersamanah",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Garut&jobs=Kersamanah",
+        "kodepos": [
+            "44189"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Garut&jobs=Kersamanah",
+            "jumlah": "6"
+        },
+        "pulau": null,
+        "kode": "32.05.13"
+    },
+    {
+        "no": "23",
+        "name": "Leles",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Garut&jobs=Leles",
+        "kodepos": [
+            "44119",
+            "44152"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Garut&jobs=Leles",
+            "jumlah": "12"
+        },
+        "pulau": null,
+        "kode": "32.05.09"
+    },
+    {
+        "no": "24",
+        "name": "Leuwigoong",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Garut&jobs=Leuwigoong",
+        "kodepos": [
+            "44192"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Garut&jobs=Leuwigoong",
+            "jumlah": "8"
+        },
+        "pulau": null,
+        "kode": "32.05.11"
+    },
+    {
+        "no": "25",
+        "name": "Malangbong",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Garut&jobs=Malangbong",
+        "kodepos": [
+            "44188"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Garut&jobs=Malangbong",
+            "jumlah": "24"
+        },
+        "pulau": null,
+        "kode": "32.05.14"
+    },
+    {
+        "no": "26",
+        "name": "Mekarmukti",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Garut&jobs=Mekarmukti",
+        "kodepos": [
+            "44155"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Garut&jobs=Mekarmukti",
+            "jumlah": "5"
+        },
+        "pulau": null,
+        "kode": "32.05.32"
+    },
+    {
+        "no": "27",
+        "name": "Pakenjeng",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Garut&jobs=Pakenjeng",
+        "kodepos": [
+            "44164"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Garut&jobs=Pakenjeng",
+            "jumlah": "13"
+        },
+        "pulau": null,
+        "kode": "32.05.33"
+    },
+    {
+        "no": "28",
+        "name": "Pameungpeuk",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Garut&jobs=Pameungpeuk",
+        "kodepos": [
+            "44175"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Garut&jobs=Pameungpeuk",
+            "jumlah": "8"
+        },
+        "pulau": null,
+        "kode": "32.05.27"
+    },
+    {
+        "no": "29",
+        "name": "Pamulihan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Garut&jobs=Pamulihan",
+        "kodepos": [
+            "44168"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Garut&jobs=Pamulihan",
+            "jumlah": "5"
+        },
+        "pulau": null,
+        "kode": "32.05.34"
+    },
+    {
+        "no": "30",
+        "name": "Pangatikan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Garut&jobs=Pangatikan",
+        "kodepos": [
+            "44183"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Garut&jobs=Pangatikan",
+            "jumlah": "8"
+        },
+        "pulau": null,
+        "kode": "32.05.41"
+    },
+    {
+        "no": "31",
+        "name": "Pasirwangi",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Garut&jobs=Pasirwangi",
+        "kodepos": [
+            "44161"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Garut&jobs=Pasirwangi",
+            "jumlah": "12"
+        },
+        "pulau": null,
+        "kode": "32.05.08"
+    },
+    {
+        "no": "32",
+        "name": "Peundeuy",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Garut&jobs=Peundeuy",
+        "kodepos": [
+            "44178"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Garut&jobs=Peundeuy",
+            "jumlah": "6"
+        },
+        "pulau": null,
+        "kode": "32.05.26"
+    },
+    {
+        "no": "33",
+        "name": "Samarang",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Garut&jobs=Samarang",
+        "kodepos": [
+            "44160"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Garut&jobs=Samarang",
+            "jumlah": "13"
+        },
+        "pulau": null,
+        "kode": "32.05.07"
+    },
+    {
+        "no": "34",
+        "name": "Selaawi",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Garut&jobs=Selaawi",
+        "kodepos": [
+            "44187"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Garut&jobs=Selaawi",
+            "jumlah": "7"
+        },
+        "pulau": null,
+        "kode": "32.05.39"
+    },
+    {
+        "no": "35",
+        "name": "Singajaya",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Garut&jobs=Singajaya",
+        "kodepos": [
+            "44170"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Garut&jobs=Singajaya",
+            "jumlah": "9"
+        },
+        "pulau": null,
+        "kode": "32.05.24"
+    },
+    {
+        "no": "36",
+        "name": "Sucinaraja",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Garut&jobs=Sucinaraja",
+        "kodepos": [
+            "44115"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Garut&jobs=Sucinaraja",
+            "jumlah": "7"
+        },
+        "pulau": null,
+        "kode": "32.05.42"
+    },
+    {
+        "no": "37",
+        "name": "Sukaresmi",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Garut&jobs=Sukaresmi",
+        "kodepos": [
+            "44154"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Garut&jobs=Sukaresmi",
+            "jumlah": "7"
+        },
+        "pulau": null,
+        "kode": "32.05.21"
+    },
+    {
+        "no": "38",
+        "name": "Sukawening",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Garut&jobs=Sukawening",
+        "kodepos": [
+            "44179"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Garut&jobs=Sukawening",
+            "jumlah": "11"
+        },
+        "pulau": null,
+        "kode": "32.05.15"
+    },
+    {
+        "no": "39",
+        "name": "Talegong",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Garut&jobs=Talegong",
+        "kodepos": [
+            "44167"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Garut&jobs=Talegong",
+            "jumlah": "7"
+        },
+        "pulau": null,
+        "kode": "32.05.37"
+    },
+    {
+        "no": "40",
+        "name": "Tarogong Kaler",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Garut&jobs=Tarogong%20Kaler",
+        "kodepos": [
+            "44151"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Garut&jobs=Tarogong%20Kaler",
+            "jumlah": "13"
+        },
+        "pulau": null,
+        "kode": "32.05.04"
+    },
+    {
+        "no": "41",
+        "name": "Tarogong Kidul",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Garut&jobs=Tarogong%20Kidul",
+        "kodepos": [
+            "44150"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Garut&jobs=Tarogong%20Kidul",
+            "jumlah": "12"
+        },
+        "pulau": null,
+        "kode": "32.05.05"
+    },
+    {
+        "no": "42",
+        "name": "Wanaraja",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Garut&jobs=Wanaraja",
+        "kodepos": [
+            "44180"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Garut&jobs=Wanaraja",
+            "jumlah": "9"
+        },
+        "pulau": null,
+        "kode": "32.05.03"
+    }
+]

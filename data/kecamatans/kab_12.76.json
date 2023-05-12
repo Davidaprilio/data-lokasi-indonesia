@@ -1,0 +1,77 @@
+[
+    {
+        "no": "1",
+        "name": "Bajenis",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Tebing%20Tinggi&jobs=Bajenis",
+        "kodepos": [
+            "20611",
+            "20621"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Tebing%20Tinggi&jobs=Bajenis",
+            "jumlah": "7"
+        },
+        "pulau": null,
+        "kode": "12.76.04"
+    },
+    {
+        "no": "2",
+        "name": "Padang Hilir",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Tebing%20Tinggi&jobs=Padang%20Hilir",
+        "kodepos": [
+            "20631",
+            "20636"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Tebing%20Tinggi&jobs=Padang%20Hilir",
+            "jumlah": "7"
+        },
+        "pulau": null,
+        "kode": "12.76.03"
+    },
+    {
+        "no": "3",
+        "name": "Padang Hulu",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Tebing%20Tinggi&jobs=Padang%20Hulu",
+        "kodepos": [
+            "20622",
+            "20625"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Tebing%20Tinggi&jobs=Padang%20Hulu",
+            "jumlah": "7"
+        },
+        "pulau": null,
+        "kode": "12.76.01"
+    },
+    {
+        "no": "4",
+        "name": "Rambutan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Tebing%20Tinggi&jobs=Rambutan",
+        "kodepos": [
+            "20611",
+            "20616"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Tebing%20Tinggi&jobs=Rambutan",
+            "jumlah": "7"
+        },
+        "pulau": null,
+        "kode": "12.76.02"
+    },
+    {
+        "no": "5",
+        "name": "Tebing Tinggi Kota",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Tebing%20Tinggi&jobs=Tebing%20Tinggi%20Kota",
+        "kodepos": [
+            "20613",
+            "20633"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Tebing%20Tinggi&jobs=Tebing%20Tinggi%20Kota",
+            "jumlah": "7"
+        },
+        "pulau": null,
+        "kode": "12.76.05"
+    }
+]

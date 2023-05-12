@@ -1,0 +1,241 @@
+[
+    {
+        "no": "1",
+        "name": "Barusjahe (Barus Jahe)",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Karo&jobs=Barusjahe%20(Barus%20Jahe)",
+        "kodepos": [
+            "22172"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Karo&jobs=Barusjahe%20(Barus%20Jahe)",
+            "jumlah": "19"
+        },
+        "pulau": null,
+        "kode": "12.06.03"
+    },
+    {
+        "no": "2",
+        "name": "Brastagi (Berastagi)",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Karo&jobs=Brastagi%20(Berastagi)",
+        "kodepos": [
+            "22152"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Karo&jobs=Brastagi%20(Berastagi)",
+            "jumlah": "10"
+        },
+        "pulau": null,
+        "kode": "12.06.02"
+    },
+    {
+        "no": "3",
+        "name": "Dolat Rayat",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Karo&jobs=Dolat%20Rayat",
+        "kodepos": [
+            "22171"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Karo&jobs=Dolat%20Rayat",
+            "jumlah": "7"
+        },
+        "pulau": null,
+        "kode": "12.06.14"
+    },
+    {
+        "no": "4",
+        "name": "Juhar",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Karo&jobs=Juhar",
+        "kodepos": [
+            "22163"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Karo&jobs=Juhar",
+            "jumlah": "25"
+        },
+        "pulau": null,
+        "kode": "12.06.07"
+    },
+    {
+        "no": "5",
+        "name": "Kabanjahe",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Karo&jobs=Kabanjahe",
+        "kodepos": [
+            "22111",
+            "22115"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Karo&jobs=Kabanjahe",
+            "jumlah": "13"
+        },
+        "pulau": null,
+        "kode": "12.06.01"
+    },
+    {
+        "no": "6",
+        "name": "Kutabuluh (Kuta Buluh)",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Karo&jobs=Kutabuluh%20(Kuta%20Buluh)",
+        "kodepos": [
+            "22155"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Karo&jobs=Kutabuluh%20(Kuta%20Buluh)",
+            "jumlah": "16"
+        },
+        "pulau": null,
+        "kode": "12.06.13"
+    },
+    {
+        "no": "7",
+        "name": "Laubaleng",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Karo&jobs=Laubaleng",
+        "kodepos": [
+            "22164"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Karo&jobs=Laubaleng",
+            "jumlah": "15"
+        },
+        "pulau": null,
+        "kode": "12.06.09"
+    },
+    {
+        "no": "8",
+        "name": "Mardingding (Mardinding)",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Karo&jobs=Mardingding%20(Mardinding)",
+        "kodepos": [
+            "22165"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Karo&jobs=Mardingding%20(Mardinding)",
+            "jumlah": "12"
+        },
+        "pulau": null,
+        "kode": "12.06.10"
+    },
+    {
+        "no": "9",
+        "name": "Merdeka",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Karo&jobs=Merdeka",
+        "kodepos": [
+            "22153"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Karo&jobs=Merdeka",
+            "jumlah": "9"
+        },
+        "pulau": null,
+        "kode": "12.06.15"
+    },
+    {
+        "no": "10",
+        "name": "Merek",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Karo&jobs=Merek",
+        "kodepos": [
+            "22173"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Karo&jobs=Merek",
+            "jumlah": "19"
+        },
+        "pulau": null,
+        "kode": "12.06.05"
+    },
+    {
+        "no": "11",
+        "name": "Munte",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Karo&jobs=Munte",
+        "kodepos": [
+            "22161"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Karo&jobs=Munte",
+            "jumlah": "22"
+        },
+        "pulau": null,
+        "kode": "12.06.06"
+    },
+    {
+        "no": "12",
+        "name": "Naman Teran (Nama Teran)",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Karo&jobs=Naman%20Teran%20(Nama%20Teran)",
+        "kodepos": [
+            "22151"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Karo&jobs=Naman%20Teran%20(Nama%20Teran)",
+            "jumlah": "14"
+        },
+        "pulau": null,
+        "kode": "12.06.16"
+    },
+    {
+        "no": "13",
+        "name": "Payung",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Karo&jobs=Payung",
+        "kodepos": [
+            "22154"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Karo&jobs=Payung",
+            "jumlah": "8"
+        },
+        "pulau": null,
+        "kode": "12.06.11"
+    },
+    {
+        "no": "14",
+        "name": "Simpang Empat",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Karo&jobs=Simpang%20Empat",
+        "kodepos": [
+            "22150"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Karo&jobs=Simpang%20Empat",
+            "jumlah": "17"
+        },
+        "pulau": null,
+        "kode": "12.06.12"
+    },
+    {
+        "no": "15",
+        "name": "Tigabinanga (Tiga Binanga)",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Karo&jobs=Tigabinanga%20(Tiga%20Binanga)",
+        "kodepos": [
+            "22162"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Karo&jobs=Tigabinanga%20(Tiga%20Binanga)",
+            "jumlah": "20"
+        },
+        "pulau": null,
+        "kode": "12.06.08"
+    },
+    {
+        "no": "16",
+        "name": "Tiganderket",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Karo&jobs=Tiganderket",
+        "kodepos": [
+            "22156"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Karo&jobs=Tiganderket",
+            "jumlah": "17"
+        },
+        "pulau": null,
+        "kode": "12.06.17"
+    },
+    {
+        "no": "17",
+        "name": "Tigapanah (Tiga Panah)",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Karo&jobs=Tigapanah%20(Tiga%20Panah)",
+        "kodepos": [
+            "22170"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Karo&jobs=Tigapanah%20(Tiga%20Panah)",
+            "jumlah": "26"
+        },
+        "pulau": null,
+        "kode": "12.06.04"
+    }
+]

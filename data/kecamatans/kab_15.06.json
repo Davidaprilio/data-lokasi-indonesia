@@ -1,0 +1,184 @@
+[
+    {
+        "no": "1",
+        "name": "Batang Asam",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tanjung%20Jabung%20Barat&jobs=Batang%20Asam",
+        "kodepos": [
+            "36550"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tanjung%20Jabung%20Barat&jobs=Batang%20Asam",
+            "jumlah": "11"
+        },
+        "pulau": null,
+        "kode": "15.06.07"
+    },
+    {
+        "no": "2",
+        "name": "Betara",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tanjung%20Jabung%20Barat&jobs=Betara",
+        "kodepos": [
+            "36555"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tanjung%20Jabung%20Barat&jobs=Betara",
+            "jumlah": "12"
+        },
+        "pulau": null,
+        "kode": "15.06.04"
+    },
+    {
+        "no": "3",
+        "name": "Bram Itam",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tanjung%20Jabung%20Barat&jobs=Bram%20Itam",
+        "kodepos": [
+            "36514"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tanjung%20Jabung%20Barat&jobs=Bram%20Itam",
+            "jumlah": "10"
+        },
+        "pulau": null,
+        "kode": "15.06.11"
+    },
+    {
+        "no": "4",
+        "name": "Kuala Betara",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tanjung%20Jabung%20Barat&jobs=Kuala%20Betara",
+        "kodepos": [
+            "36556"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tanjung%20Jabung%20Barat&jobs=Kuala%20Betara",
+            "jumlah": "10"
+        },
+        "pulau": null,
+        "kode": "15.06.12"
+    },
+    {
+        "no": "5",
+        "name": "Merlung",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tanjung%20Jabung%20Barat&jobs=Merlung",
+        "kodepos": [
+            "36554"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tanjung%20Jabung%20Barat&jobs=Merlung",
+            "jumlah": "10"
+        },
+        "pulau": null,
+        "kode": "15.06.05"
+    },
+    {
+        "no": "6",
+        "name": "Muara Papalik",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tanjung%20Jabung%20Barat&jobs=Muara%20Papalik",
+        "kodepos": [
+            "36558"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tanjung%20Jabung%20Barat&jobs=Muara%20Papalik",
+            "jumlah": "10"
+        },
+        "pulau": null,
+        "kode": "15.06.09"
+    },
+    {
+        "no": "7",
+        "name": "Pengabuan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tanjung%20Jabung%20Barat&jobs=Pengabuan",
+        "kodepos": [
+            "36553"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tanjung%20Jabung%20Barat&jobs=Pengabuan",
+            "jumlah": "13"
+        },
+        "pulau": null,
+        "kode": "15.06.03"
+    },
+    {
+        "no": "8",
+        "name": "Renah Mendaluh",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tanjung%20Jabung%20Barat&jobs=Renah%20Mendaluh",
+        "kodepos": [
+            "36559"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tanjung%20Jabung%20Barat&jobs=Renah%20Mendaluh",
+            "jumlah": "10"
+        },
+        "pulau": null,
+        "kode": "15.06.08"
+    },
+    {
+        "no": "9",
+        "name": "Seberang Kota",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tanjung%20Jabung%20Barat&jobs=Seberang%20Kota",
+        "kodepos": [
+            "36511"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tanjung%20Jabung%20Barat&jobs=Seberang%20Kota",
+            "jumlah": "8"
+        },
+        "pulau": null,
+        "kode": "15.06.10"
+    },
+    {
+        "no": "10",
+        "name": "Senyerang",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tanjung%20Jabung%20Barat&jobs=Senyerang",
+        "kodepos": [
+            "36513"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tanjung%20Jabung%20Barat&jobs=Senyerang",
+            "jumlah": "10"
+        },
+        "pulau": null,
+        "kode": "15.06.13"
+    },
+    {
+        "no": "11",
+        "name": "Tebing Tinggi",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tanjung%20Jabung%20Barat&jobs=Tebing%20Tinggi",
+        "kodepos": [
+            "36551"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tanjung%20Jabung%20Barat&jobs=Tebing%20Tinggi",
+            "jumlah": "10"
+        },
+        "pulau": null,
+        "kode": "15.06.06"
+    },
+    {
+        "no": "12",
+        "name": "Tungkal Ilir",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tanjung%20Jabung%20Barat&jobs=Tungkal%20Ilir",
+        "kodepos": [
+            "36557"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tanjung%20Jabung%20Barat&jobs=Tungkal%20Ilir",
+            "jumlah": "10"
+        },
+        "pulau": null,
+        "kode": "15.06.02"
+    },
+    {
+        "no": "13",
+        "name": "Tungkal Ulu",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tanjung%20Jabung%20Barat&jobs=Tungkal%20Ulu",
+        "kodepos": [
+            "36552"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tanjung%20Jabung%20Barat&jobs=Tungkal%20Ulu",
+            "jumlah": "10"
+        },
+        "pulau": null,
+        "kode": "15.06.01"
+    }
+]

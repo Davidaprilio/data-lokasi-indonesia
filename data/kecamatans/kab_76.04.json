@@ -1,0 +1,231 @@
+[
+    {
+        "no": "1",
+        "name": "Alu (Allu)",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Polewali%20Mandar&jobs=Alu%20(Allu)",
+        "kodepos": [
+            "91325"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Polewali%20Mandar&jobs=Alu%20(Allu)",
+            "jumlah": "8"
+        },
+        "pulau": null,
+        "kode": "76.04.15"
+    },
+    {
+        "no": "2",
+        "name": "Anreapi",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Polewali%20Mandar&jobs=Anreapi",
+        "kodepos": [
+            "91315"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Polewali%20Mandar&jobs=Anreapi",
+            "jumlah": "5"
+        },
+        "pulau": null,
+        "kode": "76.04.13"
+    },
+    {
+        "no": "3",
+        "name": "Balanipa",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Polewali%20Mandar&jobs=Balanipa",
+        "kodepos": [
+            "91354"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Polewali%20Mandar&jobs=Balanipa",
+            "jumlah": "11"
+        },
+        "pulau": null,
+        "kode": "76.04.12"
+    },
+    {
+        "no": "4",
+        "name": "Binuang",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Polewali%20Mandar&jobs=Binuang",
+        "kodepos": [
+            "91311",
+            "91351"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Polewali%20Mandar&jobs=Binuang",
+            "jumlah": "10"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Polewali%20Mandar&jobs=Binuang",
+            "jumlah": "8"
+        },
+        "kode": "76.04.06"
+    },
+    {
+        "no": "5",
+        "name": "Bulo",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Polewali%20Mandar&jobs=Bulo",
+        "kodepos": [
+            "91353"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Polewali%20Mandar&jobs=Bulo",
+            "jumlah": "9"
+        },
+        "pulau": null,
+        "kode": "76.04.16"
+    },
+    {
+        "no": "6",
+        "name": "Campalagian",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Polewali%20Mandar&jobs=Campalagian",
+        "kodepos": [
+            "91357"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Polewali%20Mandar&jobs=Campalagian",
+            "jumlah": "18"
+        },
+        "pulau": null,
+        "kode": "76.04.02"
+    },
+    {
+        "no": "7",
+        "name": "Limboro",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Polewali%20Mandar&jobs=Limboro",
+        "kodepos": [
+            "91321"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Polewali%20Mandar&jobs=Limboro",
+            "jumlah": "11"
+        },
+        "pulau": null,
+        "kode": "76.04.11"
+    },
+    {
+        "no": "8",
+        "name": "Luyo",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Polewali%20Mandar&jobs=Luyo",
+        "kodepos": [
+            "91358"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Polewali%20Mandar&jobs=Luyo",
+            "jumlah": "11"
+        },
+        "pulau": null,
+        "kode": "76.04.10"
+    },
+    {
+        "no": "9",
+        "name": "Mapilli",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Polewali%20Mandar&jobs=Mapilli",
+        "kodepos": [
+            "91359"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Polewali%20Mandar&jobs=Mapilli",
+            "jumlah": "12"
+        },
+        "pulau": null,
+        "kode": "76.04.08"
+    },
+    {
+        "no": "10",
+        "name": "Matakali",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Polewali%20Mandar&jobs=Matakali",
+        "kodepos": [
+            "91352"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Polewali%20Mandar&jobs=Matakali",
+            "jumlah": "7"
+        },
+        "pulau": null,
+        "kode": "76.04.14"
+    },
+    {
+        "no": "11",
+        "name": "Matangnga",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Polewali%20Mandar&jobs=Matangnga",
+        "kodepos": [
+            "91350"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Polewali%20Mandar&jobs=Matangnga",
+            "jumlah": "7"
+        },
+        "pulau": null,
+        "kode": "76.04.09"
+    },
+    {
+        "no": "12",
+        "name": "Polewali",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Polewali%20Mandar&jobs=Polewali",
+        "kodepos": [
+            "91311",
+            "91315"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Polewali%20Mandar&jobs=Polewali",
+            "jumlah": "9"
+        },
+        "pulau": null,
+        "kode": "76.04.04"
+    },
+    {
+        "no": "13",
+        "name": "Tapango",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Polewali%20Mandar&jobs=Tapango",
+        "kodepos": [
+            "91341"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Polewali%20Mandar&jobs=Tapango",
+            "jumlah": "14"
+        },
+        "pulau": null,
+        "kode": "76.04.07"
+    },
+    {
+        "no": "14",
+        "name": "Tinambung",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Polewali%20Mandar&jobs=Tinambung",
+        "kodepos": [
+            "91356"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Polewali%20Mandar&jobs=Tinambung",
+            "jumlah": "8"
+        },
+        "pulau": null,
+        "kode": "76.04.01"
+    },
+    {
+        "no": "15",
+        "name": "Tubbi Taramanu (Tutar/Tutallu)",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Polewali%20Mandar&jobs=Tubbi%20Taramanu%20(Tutar/Tutallu)",
+        "kodepos": [
+            "91355"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Polewali%20Mandar&jobs=Tubbi%20Taramanu%20(Tutar/Tutallu)",
+            "jumlah": "13"
+        },
+        "pulau": null,
+        "kode": "76.04.05"
+    },
+    {
+        "no": "16",
+        "name": "Wonomulyo",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Polewali%20Mandar&jobs=Wonomulyo",
+        "kodepos": [
+            "91342"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Polewali%20Mandar&jobs=Wonomulyo",
+            "jumlah": "14"
+        },
+        "pulau": null,
+        "kode": "76.04.03"
+    }
+]

@@ -1,0 +1,44 @@
+[
+    {
+        "no": "1",
+        "kodepos": "79114",
+        "name": "Bukit Batu",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Singkawang%20Tengah-Kota-Singkawang&jobs=Bukit%20Batu",
+        "kode": "61.72.01.1005"
+    },
+    {
+        "no": "2",
+        "kodepos": "79111",
+        "name": "Condong",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Singkawang%20Tengah-Kota-Singkawang&jobs=Condong",
+        "kode": "61.72.01.1002"
+    },
+    {
+        "no": "3",
+        "kodepos": "79116",
+        "name": "Jawa",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Singkawang%20Tengah-Kota-Singkawang&jobs=Jawa",
+        "kode": "61.72.01.1004"
+    },
+    {
+        "no": "4",
+        "kodepos": "79112",
+        "name": "Roban",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Singkawang%20Tengah-Kota-Singkawang&jobs=Roban",
+        "kode": "61.72.01.1001"
+    },
+    {
+        "no": "5",
+        "kodepos": "79115",
+        "name": "Sei/Sungai Wie",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Singkawang%20Tengah-Kota-Singkawang&jobs=Sei/Sungai%20Wie",
+        "kode": "61.72.01.1006"
+    },
+    {
+        "no": "6",
+        "kodepos": "79113",
+        "name": "Sekip Lama",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Singkawang%20Tengah-Kota-Singkawang&jobs=Sekip%20Lama",
+        "kode": "61.72.01.1003"
+    }
+]

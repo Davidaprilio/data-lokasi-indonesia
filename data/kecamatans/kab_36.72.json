@@ -1,0 +1,125 @@
+[
+    {
+        "no": "1",
+        "name": "Cibeber",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Cilegon&jobs=Cibeber",
+        "kodepos": [
+            "42422",
+            "42427"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Cilegon&jobs=Cibeber",
+            "jumlah": "6"
+        },
+        "pulau": null,
+        "kode": "36.72.01"
+    },
+    {
+        "no": "2",
+        "name": "Cilegon",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Cilegon&jobs=Cilegon",
+        "kodepos": [
+            "42415",
+            "42419"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Cilegon&jobs=Cilegon",
+            "jumlah": "5"
+        },
+        "pulau": null,
+        "kode": "36.72.02"
+    },
+    {
+        "no": "3",
+        "name": "Citangkil",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Cilegon&jobs=Citangkil",
+        "kodepos": [
+            "42441",
+            "42444"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Cilegon&jobs=Citangkil",
+            "jumlah": "7"
+        },
+        "pulau": null,
+        "kode": "36.72.08"
+    },
+    {
+        "no": "4",
+        "name": "Ciwandan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Cilegon&jobs=Ciwandan",
+        "kodepos": [
+            "42441",
+            "42447"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Cilegon&jobs=Ciwandan",
+            "jumlah": "6"
+        },
+        "pulau": null,
+        "kode": "36.72.04"
+    },
+    {
+        "no": "5",
+        "name": "Gerogol",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Cilegon&jobs=Gerogol",
+        "kodepos": [
+            "42436",
+            "42438"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Cilegon&jobs=Gerogol",
+            "jumlah": "4"
+        },
+        "pulau": null,
+        "kode": "36.72.06"
+    },
+    {
+        "no": "6",
+        "name": "Jombang",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Cilegon&jobs=Jombang",
+        "kodepos": [
+            "42411",
+            "42416"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Cilegon&jobs=Jombang",
+            "jumlah": "5"
+        },
+        "pulau": null,
+        "kode": "36.72.05"
+    },
+    {
+        "no": "7",
+        "name": "Pulomerak",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Cilegon&jobs=Pulomerak",
+        "kodepos": [
+            "42431",
+            "42439"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Cilegon&jobs=Pulomerak",
+            "jumlah": "4"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kota-Cilegon&jobs=Pulomerak",
+            "jumlah": "5"
+        },
+        "kode": "36.72.03"
+    },
+    {
+        "no": "8",
+        "name": "Purwakarta",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Cilegon&jobs=Purwakarta",
+        "kodepos": [
+            "42431",
+            "42437"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Cilegon&jobs=Purwakarta",
+            "jumlah": "6"
+        },
+        "pulau": null,
+        "kode": "36.72.07"
+    }
+]

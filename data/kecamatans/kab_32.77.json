@@ -1,0 +1,47 @@
+[
+    {
+        "no": "1",
+        "name": "Cimahi Selatan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Cimahi&jobs=Cimahi%20Selatan",
+        "kodepos": [
+            "40531",
+            "40535"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Cimahi&jobs=Cimahi%20Selatan",
+            "jumlah": "5"
+        },
+        "pulau": null,
+        "kode": "32.77.01"
+    },
+    {
+        "no": "2",
+        "name": "Cimahi Tengah",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Cimahi&jobs=Cimahi%20Tengah",
+        "kodepos": [
+            "40521",
+            "40526"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Cimahi&jobs=Cimahi%20Tengah",
+            "jumlah": "6"
+        },
+        "pulau": null,
+        "kode": "32.77.02"
+    },
+    {
+        "no": "3",
+        "name": "Cimahi Utara",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Cimahi&jobs=Cimahi%20Utara",
+        "kodepos": [
+            "40511",
+            "40514"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Cimahi&jobs=Cimahi%20Utara",
+            "jumlah": "4"
+        },
+        "pulau": null,
+        "kode": "32.77.03"
+    }
+]

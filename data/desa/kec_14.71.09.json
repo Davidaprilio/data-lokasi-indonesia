@@ -1,0 +1,44 @@
+[
+    {
+        "no": "1",
+        "kodepos": "28125",
+        "name": "Maharatu",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Marpoyan%20Damai-Kota-Pekanbaru&jobs=Maharatu",
+        "kode": "14.71.09.1005"
+    },
+    {
+        "no": "2",
+        "kodepos": "28125",
+        "name": "Perhentianmarpoyan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Marpoyan%20Damai-Kota-Pekanbaru&jobs=Perhentianmarpoyan",
+        "kode": "14.71.09.1006"
+    },
+    {
+        "no": "3",
+        "kodepos": "28125",
+        "name": "Sidomulyo Timur",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Marpoyan%20Damai-Kota-Pekanbaru&jobs=Sidomulyo%20Timur",
+        "kode": "14.71.09.1003"
+    },
+    {
+        "no": "4",
+        "kodepos": "28282",
+        "name": "Tangkerang Barat",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Marpoyan%20Damai-Kota-Pekanbaru&jobs=Tangkerang%20Barat",
+        "kode": "14.71.09.1001"
+    },
+    {
+        "no": "5",
+        "kodepos": "28282",
+        "name": "Tangkerang Tengah",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Marpoyan%20Damai-Kota-Pekanbaru&jobs=Tangkerang%20Tengah",
+        "kode": "14.71.09.1002"
+    },
+    {
+        "no": "6",
+        "kodepos": "28125",
+        "name": "Wonorejo",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Marpoyan%20Damai-Kota-Pekanbaru&jobs=Wonorejo",
+        "kode": "14.71.09.1004"
+    }
+]

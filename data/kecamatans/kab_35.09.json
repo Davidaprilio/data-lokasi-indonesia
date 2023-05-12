@@ -1,0 +1,454 @@
+[
+    {
+        "no": "1",
+        "name": "Ajung",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Jember&jobs=Ajung",
+        "kodepos": [
+            "68175"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Jember&jobs=Ajung",
+            "jumlah": "7"
+        },
+        "pulau": null,
+        "kode": "35.09.17"
+    },
+    {
+        "no": "2",
+        "name": "Ambulu",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Jember&jobs=Ambulu",
+        "kodepos": [
+            "68132",
+            "68172"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Jember&jobs=Ambulu",
+            "jumlah": "7"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Jember&jobs=Ambulu",
+            "jumlah": "12"
+        },
+        "kode": "35.09.12"
+    },
+    {
+        "no": "3",
+        "name": "Arjasa",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Jember&jobs=Arjasa",
+        "kodepos": [
+            "68191"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Jember&jobs=Arjasa",
+            "jumlah": "6"
+        },
+        "pulau": null,
+        "kode": "35.09.22"
+    },
+    {
+        "no": "4",
+        "name": "Balung",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Jember&jobs=Balung",
+        "kodepos": [
+            "68161"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Jember&jobs=Balung",
+            "jumlah": "8"
+        },
+        "pulau": null,
+        "kode": "35.09.10"
+    },
+    {
+        "no": "5",
+        "name": "Bangsalsari",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Jember&jobs=Bangsalsari",
+        "kodepos": [
+            "68154"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Jember&jobs=Bangsalsari",
+            "jumlah": "11"
+        },
+        "pulau": null,
+        "kode": "35.09.09"
+    },
+    {
+        "no": "6",
+        "name": "Gumukmas (Gumuk Mas)",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Jember&jobs=Gumukmas%20(Gumuk%20Mas)",
+        "kodepos": [
+            "68165"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Jember&jobs=Gumukmas%20(Gumuk%20Mas)",
+            "jumlah": "8"
+        },
+        "pulau": null,
+        "kode": "35.09.04"
+    },
+    {
+        "no": "7",
+        "name": "Jelbuk",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Jember&jobs=Jelbuk",
+        "kodepos": [
+            "68192"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Jember&jobs=Jelbuk",
+            "jumlah": "6"
+        },
+        "pulau": null,
+        "kode": "35.09.25"
+    },
+    {
+        "no": "8",
+        "name": "Jenggawah",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Jember&jobs=Jenggawah",
+        "kodepos": [
+            "68171"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Jember&jobs=Jenggawah",
+            "jumlah": "8"
+        },
+        "pulau": null,
+        "kode": "35.09.16"
+    },
+    {
+        "no": "9",
+        "name": "Jombang",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Jember&jobs=Jombang",
+        "kodepos": [
+            "68168"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Jember&jobs=Jombang",
+            "jumlah": "6"
+        },
+        "pulau": null,
+        "kode": "35.09.01"
+    },
+    {
+        "no": "10",
+        "name": "Kalisat",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Jember&jobs=Kalisat",
+        "kodepos": [
+            "68113",
+            "68193"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Jember&jobs=Kalisat",
+            "jumlah": "12"
+        },
+        "pulau": null,
+        "kode": "35.09.27"
+    },
+    {
+        "no": "11",
+        "name": "Kaliwates",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Jember&jobs=Kaliwates",
+        "kodepos": [
+            "68131",
+            "68137"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Jember&jobs=Kaliwates",
+            "jumlah": "7"
+        },
+        "pulau": null,
+        "kode": "35.09.19"
+    },
+    {
+        "no": "12",
+        "name": "Kencong",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Jember&jobs=Kencong",
+        "kodepos": [
+            "68167"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Jember&jobs=Kencong",
+            "jumlah": "5"
+        },
+        "pulau": null,
+        "kode": "35.09.02"
+    },
+    {
+        "no": "13",
+        "name": "Ledokombo",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Jember&jobs=Ledokombo",
+        "kodepos": [
+            "68196"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Jember&jobs=Ledokombo",
+            "jumlah": "10"
+        },
+        "pulau": null,
+        "kode": "35.09.28"
+    },
+    {
+        "no": "14",
+        "name": "Mayang",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Jember&jobs=Mayang",
+        "kodepos": [
+            "68118",
+            "68182"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Jember&jobs=Mayang",
+            "jumlah": "7"
+        },
+        "pulau": null,
+        "kode": "35.09.26"
+    },
+    {
+        "no": "15",
+        "name": "Mumbulsari",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Jember&jobs=Mumbulsari",
+        "kodepos": [
+            "68174"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Jember&jobs=Mumbulsari",
+            "jumlah": "7"
+        },
+        "pulau": null,
+        "kode": "35.09.23"
+    },
+    {
+        "no": "16",
+        "name": "Pakusari",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Jember&jobs=Pakusari",
+        "kodepos": [
+            "68181"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Jember&jobs=Pakusari",
+            "jumlah": "7"
+        },
+        "pulau": null,
+        "kode": "35.09.24"
+    },
+    {
+        "no": "17",
+        "name": "Panti",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Jember&jobs=Panti",
+        "kodepos": [
+            "68153"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Jember&jobs=Panti",
+            "jumlah": "7"
+        },
+        "pulau": null,
+        "kode": "35.09.14"
+    },
+    {
+        "no": "18",
+        "name": "Patrang",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Jember&jobs=Patrang",
+        "kodepos": [
+            "68111",
+            "68118"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Jember&jobs=Patrang",
+            "jumlah": "8"
+        },
+        "pulau": null,
+        "kode": "35.09.20"
+    },
+    {
+        "no": "19",
+        "name": "Puger",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Jember&jobs=Puger",
+        "kodepos": [
+            "68164"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Jember&jobs=Puger",
+            "jumlah": "12"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Jember&jobs=Puger",
+            "jumlah": "14"
+        },
+        "kode": "35.09.08"
+    },
+    {
+        "no": "20",
+        "name": "Rambipuji",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Jember&jobs=Rambipuji",
+        "kodepos": [
+            "68152"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Jember&jobs=Rambipuji",
+            "jumlah": "8"
+        },
+        "pulau": null,
+        "kode": "35.09.13"
+    },
+    {
+        "no": "21",
+        "name": "Semboro",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Jember&jobs=Semboro",
+        "kodepos": [
+            "68157"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Jember&jobs=Semboro",
+            "jumlah": "6"
+        },
+        "pulau": null,
+        "kode": "35.09.07"
+    },
+    {
+        "no": "22",
+        "name": "Silo",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Jember&jobs=Silo",
+        "kodepos": [
+            "68184"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Jember&jobs=Silo",
+            "jumlah": "9"
+        },
+        "pulau": null,
+        "kode": "35.09.30"
+    },
+    {
+        "no": "23",
+        "name": "Sukorambi",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Jember&jobs=Sukorambi",
+        "kodepos": [
+            "68151"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Jember&jobs=Sukorambi",
+            "jumlah": "5"
+        },
+        "pulau": null,
+        "kode": "35.09.15"
+    },
+    {
+        "no": "24",
+        "name": "Sukowono",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Jember&jobs=Sukowono",
+        "kodepos": [
+            "68194"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Jember&jobs=Sukowono",
+            "jumlah": "12"
+        },
+        "pulau": null,
+        "kode": "35.09.29"
+    },
+    {
+        "no": "25",
+        "name": "Sumberbaru (Sumber Baru)",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Jember&jobs=Sumberbaru%20(Sumber%20Baru)",
+        "kodepos": [
+            "68156"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Jember&jobs=Sumberbaru%20(Sumber%20Baru)",
+            "jumlah": "10"
+        },
+        "pulau": null,
+        "kode": "35.09.03"
+    },
+    {
+        "no": "26",
+        "name": "Sumberjambe (Sumber Jambe)",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Jember&jobs=Sumberjambe%20(Sumber%20Jambe)",
+        "kodepos": [
+            "68195"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Jember&jobs=Sumberjambe%20(Sumber%20Jambe)",
+            "jumlah": "9"
+        },
+        "pulau": null,
+        "kode": "35.09.31"
+    },
+    {
+        "no": "27",
+        "name": "Sumbersari (Sumber Sari)",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Jember&jobs=Sumbersari%20(Sumber%20Sari)",
+        "kodepos": [
+            "68121",
+            "68126"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Jember&jobs=Sumbersari%20(Sumber%20Sari)",
+            "jumlah": "7"
+        },
+        "pulau": null,
+        "kode": "35.09.21"
+    },
+    {
+        "no": "28",
+        "name": "Tanggul",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Jember&jobs=Tanggul",
+        "kodepos": [
+            "68155"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Jember&jobs=Tanggul",
+            "jumlah": "8"
+        },
+        "pulau": null,
+        "kode": "35.09.06"
+    },
+    {
+        "no": "29",
+        "name": "Tempurejo",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Jember&jobs=Tempurejo",
+        "kodepos": [
+            "68173"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Jember&jobs=Tempurejo",
+            "jumlah": "8"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Jember&jobs=Tempurejo",
+            "jumlah": "23"
+        },
+        "kode": "35.09.18"
+    },
+    {
+        "no": "30",
+        "name": "Umbulsari",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Jember&jobs=Umbulsari",
+        "kodepos": [
+            "68166"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Jember&jobs=Umbulsari",
+            "jumlah": "10"
+        },
+        "pulau": null,
+        "kode": "35.09.05"
+    },
+    {
+        "no": "31",
+        "name": "Wuluhan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Jember&jobs=Wuluhan",
+        "kodepos": [
+            "68162"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Jember&jobs=Wuluhan",
+            "jumlah": "7"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Jember&jobs=Wuluhan",
+            "jumlah": "2"
+        },
+        "kode": "35.09.11"
+    }
+]

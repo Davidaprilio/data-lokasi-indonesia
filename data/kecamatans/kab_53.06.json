@@ -1,0 +1,287 @@
+[
+    {
+        "no": "1",
+        "name": "Adonara",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Flores%20Timur&jobs=Adonara",
+        "kodepos": [
+            "86262"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Flores%20Timur&jobs=Adonara",
+            "jumlah": "8"
+        },
+        "pulau": null,
+        "kode": "53.06.17"
+    },
+    {
+        "no": "2",
+        "name": "Adonara Barat",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Flores%20Timur&jobs=Adonara%20Barat",
+        "kodepos": [
+            "86263"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Flores%20Timur&jobs=Adonara%20Barat",
+            "jumlah": "18"
+        },
+        "pulau": null,
+        "kode": "53.06.08"
+    },
+    {
+        "no": "3",
+        "name": "Adonara Tengah",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Flores%20Timur&jobs=Adonara%20Tengah",
+        "kodepos": [
+            "86264"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Flores%20Timur&jobs=Adonara%20Tengah",
+            "jumlah": "13"
+        },
+        "pulau": null,
+        "kode": "53.06.18"
+    },
+    {
+        "no": "4",
+        "name": "Adonara Timur",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Flores%20Timur&jobs=Adonara%20Timur",
+        "kodepos": [
+            "86261"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Flores%20Timur&jobs=Adonara%20Timur",
+            "jumlah": "21"
+        },
+        "pulau": null,
+        "kode": "53.06.10"
+    },
+    {
+        "no": "5",
+        "name": "Demon Pagong",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Flores%20Timur&jobs=Demon%20Pagong",
+        "kodepos": [
+            "86219"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Flores%20Timur&jobs=Demon%20Pagong",
+            "jumlah": "7"
+        },
+        "pulau": null,
+        "kode": "53.06.14"
+    },
+    {
+        "no": "6",
+        "name": "Ile Boleng",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Flores%20Timur&jobs=Ile%20Boleng",
+        "kodepos": [
+            "86253"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Flores%20Timur&jobs=Ile%20Boleng",
+            "jumlah": "21"
+        },
+        "pulau": null,
+        "kode": "53.06.13"
+    },
+    {
+        "no": "7",
+        "name": "Ile Bura",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Flores%20Timur&jobs=Ile%20Bura",
+        "kodepos": [
+            "86254"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Flores%20Timur&jobs=Ile%20Bura",
+            "jumlah": "7"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Flores%20Timur&jobs=Ile%20Bura",
+            "jumlah": "5"
+        },
+        "kode": "53.06.16"
+    },
+    {
+        "no": "8",
+        "name": "Ile Mandiri",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Flores%20Timur&jobs=Ile%20Mandiri",
+        "kodepos": [
+            "86211"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Flores%20Timur&jobs=Ile%20Mandiri",
+            "jumlah": "8"
+        },
+        "pulau": null,
+        "kode": "53.06.04"
+    },
+    {
+        "no": "9",
+        "name": "Kelubagolit",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Flores%20Timur&jobs=Kelubagolit",
+        "kodepos": [
+            "86265"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Flores%20Timur&jobs=Kelubagolit",
+            "jumlah": "12"
+        },
+        "pulau": null,
+        "kode": "53.06.11"
+    },
+    {
+        "no": "10",
+        "name": "Larantuka",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Flores%20Timur&jobs=Larantuka",
+        "kodepos": [
+            "86212",
+            "86219"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Flores%20Timur&jobs=Larantuka",
+            "jumlah": "20"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Flores%20Timur&jobs=Larantuka",
+            "jumlah": "1"
+        },
+        "kode": "53.06.03"
+    },
+    {
+        "no": "11",
+        "name": "Lewolema",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Flores%20Timur&jobs=Lewolema",
+        "kodepos": [
+            "86252"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Flores%20Timur&jobs=Lewolema",
+            "jumlah": "7"
+        },
+        "pulau": null,
+        "kode": "53.06.15"
+    },
+    {
+        "no": "12",
+        "name": "Solor Barat",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Flores%20Timur&jobs=Solor%20Barat",
+        "kodepos": [
+            "86272"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Flores%20Timur&jobs=Solor%20Barat",
+            "jumlah": "15"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Flores%20Timur&jobs=Solor%20Barat",
+            "jumlah": "5"
+        },
+        "kode": "53.06.06"
+    },
+    {
+        "no": "13",
+        "name": "Solor Selatan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Flores%20Timur&jobs=Solor%20Selatan",
+        "kodepos": [
+            "86273"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Flores%20Timur&jobs=Solor%20Selatan",
+            "jumlah": "7"
+        },
+        "pulau": null,
+        "kode": "53.06.19"
+    },
+    {
+        "no": "14",
+        "name": "Solor Timur",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Flores%20Timur&jobs=Solor%20Timur",
+        "kodepos": [
+            "86271"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Flores%20Timur&jobs=Solor%20Timur",
+            "jumlah": "17"
+        },
+        "pulau": null,
+        "kode": "53.06.07"
+    },
+    {
+        "no": "15",
+        "name": "Tanjung Bunga",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Flores%20Timur&jobs=Tanjung%20Bunga",
+        "kodepos": [
+            "86251"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Flores%20Timur&jobs=Tanjung%20Bunga",
+            "jumlah": "16"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Flores%20Timur&jobs=Tanjung%20Bunga",
+            "jumlah": "1"
+        },
+        "kode": "53.06.05"
+    },
+    {
+        "no": "16",
+        "name": "Titehena",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Flores%20Timur&jobs=Titehena",
+        "kodepos": [
+            "86255"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Flores%20Timur&jobs=Titehena",
+            "jumlah": "14"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Flores%20Timur&jobs=Titehena",
+            "jumlah": "1"
+        },
+        "kode": "53.06.02"
+    },
+    {
+        "no": "17",
+        "name": "Witihama",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Flores%20Timur&jobs=Witihama",
+        "kodepos": [
+            "86266"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Flores%20Timur&jobs=Witihama",
+            "jumlah": "16"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Flores%20Timur&jobs=Witihama",
+            "jumlah": "6"
+        },
+        "kode": "53.06.12"
+    },
+    {
+        "no": "18",
+        "name": "Wotan Ulumando",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Flores%20Timur&jobs=Wotan%20Ulumando",
+        "kodepos": [
+            "86260"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Flores%20Timur&jobs=Wotan%20Ulumando",
+            "jumlah": "12"
+        },
+        "pulau": null,
+        "kode": "53.06.09"
+    },
+    {
+        "no": "19",
+        "name": "Wulanggitang",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Flores%20Timur&jobs=Wulanggitang",
+        "kodepos": [
+            "86256"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Flores%20Timur&jobs=Wulanggitang",
+            "jumlah": "11"
+        },
+        "pulau": null,
+        "kode": "53.06.01"
+    }
+]

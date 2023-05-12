@@ -1,0 +1,200 @@
+[
+    {
+        "no": "1",
+        "type": "Kabupaten",
+        "name": "Badung",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Badung",
+        "kodepos": [
+            "80351",
+            "80363"
+        ],
+        "kecamatan": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Badung",
+            "jumlah": "6"
+        },
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kab.&jobs=Badung",
+            "jumlah": "62"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kab.&jobs=Badung",
+            "jumlah": "1"
+        },
+        "kode": "51.03"
+    },
+    {
+        "no": "2",
+        "type": "Kabupaten",
+        "name": "Bangli",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Bangli",
+        "kodepos": [
+            "80611",
+            "80671"
+        ],
+        "kecamatan": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Bangli",
+            "jumlah": "4"
+        },
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kab.&jobs=Bangli",
+            "jumlah": "72"
+        },
+        "pulau": null,
+        "kode": "51.06"
+    },
+    {
+        "no": "3",
+        "type": "Kabupaten",
+        "name": "Buleleng",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Buleleng",
+        "kodepos": [
+            "81111",
+            "81173"
+        ],
+        "kecamatan": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Buleleng",
+            "jumlah": "9"
+        },
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kab.&jobs=Buleleng",
+            "jumlah": "148"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kab.&jobs=Buleleng",
+            "jumlah": "2"
+        },
+        "kode": "51.08"
+    },
+    {
+        "no": "4",
+        "type": "Kota",
+        "name": "Denpasar",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kota&jobs=Denpasar",
+        "kodepos": [
+            "80111",
+            "80239"
+        ],
+        "kecamatan": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kota&jobs=Denpasar",
+            "jumlah": "4"
+        },
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kota&jobs=Denpasar",
+            "jumlah": "43"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kota&jobs=Denpasar",
+            "jumlah": "1"
+        },
+        "kode": "51.71"
+    },
+    {
+        "no": "5",
+        "type": "Kabupaten",
+        "name": "Gianyar",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Gianyar",
+        "kodepos": [
+            "80511",
+            "80582"
+        ],
+        "kecamatan": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Gianyar",
+            "jumlah": "7"
+        },
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kab.&jobs=Gianyar",
+            "jumlah": "70"
+        },
+        "pulau": null,
+        "kode": "51.04"
+    },
+    {
+        "no": "6",
+        "type": "Kabupaten",
+        "name": "Jembrana",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Jembrana",
+        "kodepos": [
+            "82211",
+            "82262"
+        ],
+        "kecamatan": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Jembrana",
+            "jumlah": "5"
+        },
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kab.&jobs=Jembrana",
+            "jumlah": "51"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kab.&jobs=Jembrana",
+            "jumlah": "2"
+        },
+        "kode": "51.01"
+    },
+    {
+        "no": "7",
+        "type": "Kabupaten",
+        "name": "Karangasem",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Karangasem",
+        "kodepos": [
+            "80811",
+            "80871"
+        ],
+        "kecamatan": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Karangasem",
+            "jumlah": "8"
+        },
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kab.&jobs=Karangasem",
+            "jumlah": "78"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kab.&jobs=Karangasem",
+            "jumlah": "6"
+        },
+        "kode": "51.07"
+    },
+    {
+        "no": "8",
+        "type": "Kabupaten",
+        "name": "Klungkung",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Klungkung",
+        "kodepos": [
+            "80711",
+            "80771"
+        ],
+        "kecamatan": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Klungkung",
+            "jumlah": "4"
+        },
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kab.&jobs=Klungkung",
+            "jumlah": "59"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kab.&jobs=Klungkung",
+            "jumlah": "21"
+        },
+        "kode": "51.05"
+    },
+    {
+        "no": "9",
+        "type": "Kabupaten",
+        "name": "Tabanan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Tabanan",
+        "kodepos": [
+            "82111",
+            "82191"
+        ],
+        "kecamatan": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Tabanan",
+            "jumlah": "10"
+        },
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kab.&jobs=Tabanan",
+            "jumlah": "133"
+        },
+        "pulau": null,
+        "kode": "51.02"
+    }
+]

@@ -1,0 +1,128 @@
+[
+    {
+        "no": "1",
+        "type": "Kota",
+        "name": "Jakarta Barat",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kota&jobs=Jakarta%20Barat",
+        "kodepos": [
+            "11110",
+            "11850"
+        ],
+        "kecamatan": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kota&jobs=Jakarta%20Barat",
+            "jumlah": "8"
+        },
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kota&jobs=Jakarta%20Barat",
+            "jumlah": "56"
+        },
+        "pulau": null,
+        "kode": "31.73"
+    },
+    {
+        "no": "2",
+        "type": "Kota",
+        "name": "Jakarta Pusat",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kota&jobs=Jakarta%20Pusat",
+        "kodepos": [
+            "10110",
+            "10750"
+        ],
+        "kecamatan": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kota&jobs=Jakarta%20Pusat",
+            "jumlah": "8"
+        },
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kota&jobs=Jakarta%20Pusat",
+            "jumlah": "44"
+        },
+        "pulau": null,
+        "kode": "31.71"
+    },
+    {
+        "no": "3",
+        "type": "Kota",
+        "name": "Jakarta Selatan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kota&jobs=Jakarta%20Selatan",
+        "kodepos": [
+            "12110",
+            "12980"
+        ],
+        "kecamatan": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kota&jobs=Jakarta%20Selatan",
+            "jumlah": "10"
+        },
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kota&jobs=Jakarta%20Selatan",
+            "jumlah": "65"
+        },
+        "pulau": null,
+        "kode": "31.74"
+    },
+    {
+        "no": "4",
+        "type": "Kota",
+        "name": "Jakarta Timur",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kota&jobs=Jakarta%20Timur",
+        "kodepos": [
+            "13110",
+            "13960"
+        ],
+        "kecamatan": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kota&jobs=Jakarta%20Timur",
+            "jumlah": "10"
+        },
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kota&jobs=Jakarta%20Timur",
+            "jumlah": "65"
+        },
+        "pulau": null,
+        "kode": "31.75"
+    },
+    {
+        "no": "5",
+        "type": "Kota",
+        "name": "Jakarta Utara",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kota&jobs=Jakarta%20Utara",
+        "kodepos": [
+            "14110",
+            "14470"
+        ],
+        "kecamatan": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kota&jobs=Jakarta%20Utara",
+            "jumlah": "6"
+        },
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kota&jobs=Jakarta%20Utara",
+            "jumlah": "31"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kota&jobs=Jakarta%20Utara",
+            "jumlah": "1"
+        },
+        "kode": "31.72"
+    },
+    {
+        "no": "6",
+        "type": "Kabupaten",
+        "name": "Kepulauan Seribu",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Kepulauan%20Seribu",
+        "kodepos": [
+            "14510",
+            "14540"
+        ],
+        "kecamatan": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Kepulauan%20Seribu",
+            "jumlah": "2"
+        },
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kab.&jobs=Kepulauan%20Seribu",
+            "jumlah": "6"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kab.&jobs=Kepulauan%20Seribu",
+            "jumlah": "112"
+        },
+        "kode": "31.01"
+    }
+]

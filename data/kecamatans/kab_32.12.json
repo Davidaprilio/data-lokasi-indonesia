@@ -1,0 +1,445 @@
+[
+    {
+        "no": "1",
+        "name": "Anjatan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Indramayu&jobs=Anjatan",
+        "kodepos": [
+            "45256"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Indramayu&jobs=Anjatan",
+            "jumlah": "13"
+        },
+        "pulau": null,
+        "kode": "32.12.23"
+    },
+    {
+        "no": "2",
+        "name": "Arahan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Indramayu&jobs=Arahan",
+        "kodepos": [
+            "45267"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Indramayu&jobs=Arahan",
+            "jumlah": "8"
+        },
+        "pulau": null,
+        "kode": "32.12.19"
+    },
+    {
+        "no": "3",
+        "name": "Balongan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Indramayu&jobs=Balongan",
+        "kodepos": [
+            "45217",
+            "45285"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Indramayu&jobs=Balongan",
+            "jumlah": "10"
+        },
+        "pulau": null,
+        "kode": "32.12.14"
+    },
+    {
+        "no": "4",
+        "name": "Bangodua",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Indramayu&jobs=Bangodua",
+        "kodepos": [
+            "45272"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Indramayu&jobs=Bangodua",
+            "jumlah": "8"
+        },
+        "pulau": null,
+        "kode": "32.12.06"
+    },
+    {
+        "no": "5",
+        "name": "Bongas",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Indramayu&jobs=Bongas",
+        "kodepos": [
+            "45255"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Indramayu&jobs=Bongas",
+            "jumlah": "8"
+        },
+        "pulau": null,
+        "kode": "32.12.22"
+    },
+    {
+        "no": "6",
+        "name": "Cantigi",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Indramayu&jobs=Cantigi",
+        "kodepos": [
+            "45253",
+            "45258"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Indramayu&jobs=Cantigi",
+            "jumlah": "7"
+        },
+        "pulau": null,
+        "kode": "32.12.17"
+    },
+    {
+        "no": "7",
+        "name": "Cikedung",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Indramayu&jobs=Cikedung",
+        "kodepos": [
+            "45262"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Indramayu&jobs=Cikedung",
+            "jumlah": "7"
+        },
+        "pulau": null,
+        "kode": "32.12.04"
+    },
+    {
+        "no": "8",
+        "name": "Gabuswetan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Indramayu&jobs=Gabuswetan",
+        "kodepos": [
+            "45263"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Indramayu&jobs=Gabuswetan",
+            "jumlah": "10"
+        },
+        "pulau": null,
+        "kode": "32.12.03"
+    },
+    {
+        "no": "9",
+        "name": "Gantar",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Indramayu&jobs=Gantar",
+        "kodepos": [
+            "45264"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Indramayu&jobs=Gantar",
+            "jumlah": "7"
+        },
+        "pulau": null,
+        "kode": "32.12.25"
+    },
+    {
+        "no": "10",
+        "name": "Haurgeulis",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Indramayu&jobs=Haurgeulis",
+        "kodepos": [
+            "45266"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Indramayu&jobs=Haurgeulis",
+            "jumlah": "10"
+        },
+        "pulau": null,
+        "kode": "32.12.01"
+    },
+    {
+        "no": "11",
+        "name": "Indramayu",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Indramayu&jobs=Indramayu",
+        "kodepos": [
+            "45211",
+            "45219"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Indramayu&jobs=Indramayu",
+            "jumlah": "18"
+        },
+        "pulau": null,
+        "kode": "32.12.15"
+    },
+    {
+        "no": "12",
+        "name": "Jatibarang",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Indramayu&jobs=Jatibarang",
+        "kodepos": [
+            "45273"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Indramayu&jobs=Jatibarang",
+            "jumlah": "15"
+        },
+        "pulau": null,
+        "kode": "32.12.13"
+    },
+    {
+        "no": "13",
+        "name": "Juntinyuat",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Indramayu&jobs=Juntinyuat",
+        "kodepos": [
+            "45282"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Indramayu&jobs=Juntinyuat",
+            "jumlah": "12"
+        },
+        "pulau": null,
+        "kode": "32.12.11"
+    },
+    {
+        "no": "14",
+        "name": "Kandanghaur",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Indramayu&jobs=Kandanghaur",
+        "kodepos": [
+            "45213",
+            "45254"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Indramayu&jobs=Kandanghaur",
+            "jumlah": "13"
+        },
+        "pulau": null,
+        "kode": "32.12.21"
+    },
+    {
+        "no": "15",
+        "name": "Karangampel",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Indramayu&jobs=Karangampel",
+        "kodepos": [
+            "45283"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Indramayu&jobs=Karangampel",
+            "jumlah": "11"
+        },
+        "pulau": null,
+        "kode": "32.12.10"
+    },
+    {
+        "no": "16",
+        "name": "Kedokan Bunder",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Indramayu&jobs=Kedokan%20Bunder",
+        "kodepos": [
+            "45280"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Indramayu&jobs=Kedokan%20Bunder",
+            "jumlah": "7"
+        },
+        "pulau": null,
+        "kode": "32.12.28"
+    },
+    {
+        "no": "17",
+        "name": "Kertasemaya",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Indramayu&jobs=Kertasemaya",
+        "kodepos": [
+            "45274"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Indramayu&jobs=Kertasemaya",
+            "jumlah": "13"
+        },
+        "pulau": null,
+        "kode": "32.12.08"
+    },
+    {
+        "no": "18",
+        "name": "Krangkeng",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Indramayu&jobs=Krangkeng",
+        "kodepos": [
+            "45284"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Indramayu&jobs=Krangkeng",
+            "jumlah": "11"
+        },
+        "pulau": null,
+        "kode": "32.12.09"
+    },
+    {
+        "no": "19",
+        "name": "Kroya",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Indramayu&jobs=Kroya",
+        "kodepos": [
+            "45265"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Indramayu&jobs=Kroya",
+            "jumlah": "9"
+        },
+        "pulau": null,
+        "kode": "32.12.02"
+    },
+    {
+        "no": "20",
+        "name": "Lelea",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Indramayu&jobs=Lelea",
+        "kodepos": [
+            "45261"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Indramayu&jobs=Lelea",
+            "jumlah": "11"
+        },
+        "pulau": null,
+        "kode": "32.12.05"
+    },
+    {
+        "no": "21",
+        "name": "Lohbener",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Indramayu&jobs=Lohbener",
+        "kodepos": [
+            "45252"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Indramayu&jobs=Lohbener",
+            "jumlah": "12"
+        },
+        "pulau": null,
+        "kode": "32.12.18"
+    },
+    {
+        "no": "22",
+        "name": "Losarang",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Indramayu&jobs=Losarang",
+        "kodepos": [
+            "45253"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Indramayu&jobs=Losarang",
+            "jumlah": "12"
+        },
+        "pulau": null,
+        "kode": "32.12.20"
+    },
+    {
+        "no": "23",
+        "name": "Pasekan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Indramayu&jobs=Pasekan",
+        "kodepos": [
+            "45213",
+            "45229"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Indramayu&jobs=Pasekan",
+            "jumlah": "6"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Indramayu&jobs=Pasekan",
+            "jumlah": "3"
+        },
+        "kode": "32.12.29"
+    },
+    {
+        "no": "24",
+        "name": "Patrol",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Indramayu&jobs=Patrol",
+        "kodepos": [
+            "45257"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Indramayu&jobs=Patrol",
+            "jumlah": "8"
+        },
+        "pulau": null,
+        "kode": "32.12.31"
+    },
+    {
+        "no": "25",
+        "name": "Sindang",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Indramayu&jobs=Sindang",
+        "kodepos": [
+            "45221",
+            "45227"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Indramayu&jobs=Sindang",
+            "jumlah": "10"
+        },
+        "pulau": null,
+        "kode": "32.12.16"
+    },
+    {
+        "no": "26",
+        "name": "Sliyeg",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Indramayu&jobs=Sliyeg",
+        "kodepos": [
+            "45281"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Indramayu&jobs=Sliyeg",
+            "jumlah": "14"
+        },
+        "pulau": null,
+        "kode": "32.12.12"
+    },
+    {
+        "no": "27",
+        "name": "Sukagumiwang",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Indramayu&jobs=Sukagumiwang",
+        "kodepos": [
+            "45275"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Indramayu&jobs=Sukagumiwang",
+            "jumlah": "7"
+        },
+        "pulau": null,
+        "kode": "32.12.27"
+    },
+    {
+        "no": "28",
+        "name": "Sukra",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Indramayu&jobs=Sukra",
+        "kodepos": [
+            "45259"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Indramayu&jobs=Sukra",
+            "jumlah": "8"
+        },
+        "pulau": null,
+        "kode": "32.12.24"
+    },
+    {
+        "no": "29",
+        "name": "Trisi/Terisi",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Indramayu&jobs=Trisi/Terisi",
+        "kodepos": [
+            "45260"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Indramayu&jobs=Trisi/Terisi",
+            "jumlah": "9"
+        },
+        "pulau": null,
+        "kode": "32.12.26"
+    },
+    {
+        "no": "30",
+        "name": "Tukdana",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Indramayu&jobs=Tukdana",
+        "kodepos": [
+            "45270"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Indramayu&jobs=Tukdana",
+            "jumlah": "13"
+        },
+        "pulau": null,
+        "kode": "32.12.30"
+    },
+    {
+        "no": "31",
+        "name": "Widasari",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Indramayu&jobs=Widasari",
+        "kodepos": [
+            "45271"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Indramayu&jobs=Widasari",
+            "jumlah": "10"
+        },
+        "pulau": null,
+        "kode": "32.12.07"
+    }
+]

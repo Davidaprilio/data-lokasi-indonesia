@@ -1,0 +1,100 @@
+[
+    {
+        "no": "1",
+        "name": "Koto Parik Gadang Diateh",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Solok%20Selatan&jobs=Koto%20Parik%20Gadang%20Diateh",
+        "kodepos": [
+            "27775"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Solok%20Selatan&jobs=Koto%20Parik%20Gadang%20Diateh",
+            "jumlah": "4"
+        },
+        "pulau": null,
+        "kode": "13.11.03"
+    },
+    {
+        "no": "2",
+        "name": "Pauh Duo",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Solok%20Selatan&jobs=Pauh%20Duo",
+        "kodepos": [
+            "27776"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Solok%20Selatan&jobs=Pauh%20Duo",
+            "jumlah": "4"
+        },
+        "pulau": null,
+        "kode": "13.11.06"
+    },
+    {
+        "no": "3",
+        "name": "Sangir",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Solok%20Selatan&jobs=Sangir",
+        "kodepos": [
+            "27778"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Solok%20Selatan&jobs=Sangir",
+            "jumlah": "4"
+        },
+        "pulau": null,
+        "kode": "13.11.01"
+    },
+    {
+        "no": "4",
+        "name": "Sangir Balai Janggo",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Solok%20Selatan&jobs=Sangir%20Balai%20Janggo",
+        "kodepos": [
+            "27777"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Solok%20Selatan&jobs=Sangir%20Balai%20Janggo",
+            "jumlah": "4"
+        },
+        "pulau": null,
+        "kode": "13.11.07"
+    },
+    {
+        "no": "5",
+        "name": "Sangir Batang Hari",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Solok%20Selatan&jobs=Sangir%20Batang%20Hari",
+        "kodepos": [
+            "27779"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Solok%20Selatan&jobs=Sangir%20Batang%20Hari",
+            "jumlah": "7"
+        },
+        "pulau": null,
+        "kode": "13.11.05"
+    },
+    {
+        "no": "6",
+        "name": "Sangir Jujuan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Solok%20Selatan&jobs=Sangir%20Jujuan",
+        "kodepos": [
+            "27773"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Solok%20Selatan&jobs=Sangir%20Jujuan",
+            "jumlah": "5"
+        },
+        "pulau": null,
+        "kode": "13.11.04"
+    },
+    {
+        "no": "7",
+        "name": "Sungai Pagu",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Solok%20Selatan&jobs=Sungai%20Pagu",
+        "kodepos": [
+            "27774"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Solok%20Selatan&jobs=Sungai%20Pagu",
+            "jumlah": "11"
+        },
+        "pulau": null,
+        "kode": "13.11.02"
+    }
+]

@@ -1,0 +1,131 @@
+[
+    {
+        "no": "1",
+        "name": "Bahodopi",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Morowali&jobs=Bahodopi",
+        "kodepos": [
+            "94974"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Morowali&jobs=Bahodopi",
+            "jumlah": "12"
+        },
+        "pulau": null,
+        "kode": "72.06.10"
+    },
+    {
+        "no": "2",
+        "name": "Bumi Raya",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Morowali&jobs=Bumi%20Raya",
+        "kodepos": [
+            "94976"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Morowali&jobs=Bumi%20Raya",
+            "jumlah": "13"
+        },
+        "pulau": null,
+        "kode": "72.06.09"
+    },
+    {
+        "no": "3",
+        "name": "Bungku Barat",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Morowali&jobs=Bungku%20Barat",
+        "kodepos": [
+            "94977"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Morowali&jobs=Bungku%20Barat",
+            "jumlah": "10"
+        },
+        "pulau": null,
+        "kode": "72.06.08"
+    },
+    {
+        "no": "4",
+        "name": "Bungku Pesisir",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Morowali&jobs=Bungku%20Pesisir",
+        "kodepos": [
+            "94981"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Morowali&jobs=Bungku%20Pesisir",
+            "jumlah": "10"
+        },
+        "pulau": null,
+        "kode": "72.06.15"
+    },
+    {
+        "no": "5",
+        "name": "Bungku Selatan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Morowali&jobs=Bungku%20Selatan",
+        "kodepos": [
+            "94979"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Morowali&jobs=Bungku%20Selatan",
+            "jumlah": "26"
+        },
+        "pulau": null,
+        "kode": "72.06.06"
+    },
+    {
+        "no": "6",
+        "name": "Bungku Tengah",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Morowali&jobs=Bungku%20Tengah",
+        "kodepos": [
+            "94973"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Morowali&jobs=Bungku%20Tengah",
+            "jumlah": "19"
+        },
+        "pulau": null,
+        "kode": "72.06.05"
+    },
+    {
+        "no": "7",
+        "name": "Bungku Timur",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Morowali&jobs=Bungku%20Timur",
+        "kodepos": [
+            "94980"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Morowali&jobs=Bungku%20Timur",
+            "jumlah": "10"
+        },
+        "pulau": null,
+        "kode": "72.06.18"
+    },
+    {
+        "no": "8",
+        "name": "Menui Kepulauan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Morowali&jobs=Menui%20Kepulauan",
+        "kodepos": [
+            "94975"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Morowali&jobs=Menui%20Kepulauan",
+            "jumlah": "24"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Morowali&jobs=Menui%20Kepulauan",
+            "jumlah": "37"
+        },
+        "kode": "72.06.07"
+    },
+    {
+        "no": "9",
+        "name": "Wita Ponda",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Morowali&jobs=Wita%20Ponda",
+        "kodepos": [
+            "94978"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Morowali&jobs=Wita%20Ponda",
+            "jumlah": "9"
+        },
+        "pulau": null,
+        "kode": "72.06.12"
+    }
+]

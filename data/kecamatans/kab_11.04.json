@@ -1,0 +1,200 @@
+[
+    {
+        "no": "1",
+        "name": "Atu Lintang",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Aceh%20Tengah&jobs=Atu%20Lintang",
+        "kodepos": [
+            "24563"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Aceh%20Tengah&jobs=Atu%20Lintang",
+            "jumlah": "11"
+        },
+        "pulau": null,
+        "kode": "11.04.18"
+    },
+    {
+        "no": "2",
+        "name": "Bebesen",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Aceh%20Tengah&jobs=Bebesen",
+        "kodepos": [
+            "24552"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Aceh%20Tengah&jobs=Bebesen",
+            "jumlah": "28"
+        },
+        "pulau": null,
+        "kode": "11.04.03"
+    },
+    {
+        "no": "3",
+        "name": "Bies",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Aceh%20Tengah&jobs=Bies",
+        "kodepos": [
+            "24561"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Aceh%20Tengah&jobs=Bies",
+            "jumlah": "12"
+        },
+        "pulau": null,
+        "kode": "11.04.20"
+    },
+    {
+        "no": "4",
+        "name": "Bintang",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Aceh%20Tengah&jobs=Bintang",
+        "kodepos": [
+            "24571"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Aceh%20Tengah&jobs=Bintang",
+            "jumlah": "24"
+        },
+        "pulau": null,
+        "kode": "11.04.08"
+    },
+    {
+        "no": "5",
+        "name": "Celala",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Aceh%20Tengah&jobs=Celala",
+        "kodepos": [
+            "24562"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Aceh%20Tengah&jobs=Celala",
+            "jumlah": "17"
+        },
+        "pulau": null,
+        "kode": "11.04.13"
+    },
+    {
+        "no": "6",
+        "name": "Jagong Jeget",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Aceh%20Tengah&jobs=Jagong%20Jeget",
+        "kodepos": [
+            "24564"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Aceh%20Tengah&jobs=Jagong%20Jeget",
+            "jumlah": "10"
+        },
+        "pulau": null,
+        "kode": "11.04.19"
+    },
+    {
+        "no": "7",
+        "name": "Kebayakan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Aceh%20Tengah&jobs=Kebayakan",
+        "kodepos": [
+            "24517",
+            "24519"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Aceh%20Tengah&jobs=Kebayakan",
+            "jumlah": "20"
+        },
+        "pulau": null,
+        "kode": "11.04.11"
+    },
+    {
+        "no": "8",
+        "name": "Ketol",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Aceh%20Tengah&jobs=Ketol",
+        "kodepos": [
+            "24566"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Aceh%20Tengah&jobs=Ketol",
+            "jumlah": "25"
+        },
+        "pulau": null,
+        "kode": "11.04.10"
+    },
+    {
+        "no": "9",
+        "name": "Kute Panang",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Aceh%20Tengah&jobs=Kute%20Panang",
+        "kodepos": [
+            "24568"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Aceh%20Tengah&jobs=Kute%20Panang",
+            "jumlah": "24"
+        },
+        "pulau": null,
+        "kode": "11.04.12"
+    },
+    {
+        "no": "10",
+        "name": "Laut Tawar (Lut Tawar)",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Aceh%20Tengah&jobs=Laut%20Tawar%20(Lut%20Tawar)",
+        "kodepos": [
+            "24511",
+            "24516"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Aceh%20Tengah&jobs=Laut%20Tawar%20(Lut%20Tawar)",
+            "jumlah": "18"
+        },
+        "pulau": null,
+        "kode": "11.04.17"
+    },
+    {
+        "no": "11",
+        "name": "Linge",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Aceh%20Tengah&jobs=Linge",
+        "kodepos": [
+            "24565"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Aceh%20Tengah&jobs=Linge",
+            "jumlah": "26"
+        },
+        "pulau": null,
+        "kode": "11.04.01"
+    },
+    {
+        "no": "12",
+        "name": "Pegasing",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Aceh%20Tengah&jobs=Pegasing",
+        "kodepos": [
+            "24560"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Aceh%20Tengah&jobs=Pegasing",
+            "jumlah": "31"
+        },
+        "pulau": null,
+        "kode": "11.04.07"
+    },
+    {
+        "no": "13",
+        "name": "Rusip Antara",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Aceh%20Tengah&jobs=Rusip%20Antara",
+        "kodepos": [
+            "24567"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Aceh%20Tengah&jobs=Rusip%20Antara",
+            "jumlah": "16"
+        },
+        "pulau": null,
+        "kode": "11.04.21"
+    },
+    {
+        "no": "14",
+        "name": "Silih Nara",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Aceh%20Tengah&jobs=Silih%20Nara",
+        "kodepos": [
+            "24569"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Aceh%20Tengah&jobs=Silih%20Nara",
+            "jumlah": "33"
+        },
+        "pulau": null,
+        "kode": "11.04.02"
+    }
+]

@@ -1,0 +1,37 @@
+[
+    {
+        "no": "1",
+        "kodepos": "96118",
+        "name": "Botu",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Dumbo%20Raya-Kota-Gorontalo&jobs=Botu",
+        "kode": "75.71.08.1004"
+    },
+    {
+        "no": "2",
+        "kodepos": "96112",
+        "name": "Bugis",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Dumbo%20Raya-Kota-Gorontalo&jobs=Bugis",
+        "kode": "75.71.08.1005"
+    },
+    {
+        "no": "3",
+        "kodepos": "96119",
+        "name": "Leato Selatan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Dumbo%20Raya-Kota-Gorontalo&jobs=Leato%20Selatan",
+        "kode": "75.71.08.1002"
+    },
+    {
+        "no": "4",
+        "kodepos": "96119",
+        "name": "Leato Utara",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Dumbo%20Raya-Kota-Gorontalo&jobs=Leato%20Utara",
+        "kode": "75.71.08.1001"
+    },
+    {
+        "no": "5",
+        "kodepos": "96118",
+        "name": "Talumolo",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Dumbo%20Raya-Kota-Gorontalo&jobs=Talumolo",
+        "kode": "75.71.08.1003"
+    }
+]

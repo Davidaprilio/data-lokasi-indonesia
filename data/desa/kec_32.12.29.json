@@ -1,0 +1,44 @@
+[
+    {
+        "no": "1",
+        "kodepos": "45219",
+        "name": "Brondong",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Pasekan-Kab.-Indramayu&jobs=Brondong",
+        "kode": "32.12.29.2001"
+    },
+    {
+        "no": "2",
+        "kodepos": "45213",
+        "name": "Karanganyar",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Pasekan-Kab.-Indramayu&jobs=Karanganyar",
+        "kode": "32.12.29.2005"
+    },
+    {
+        "no": "3",
+        "kodepos": "45219",
+        "name": "Pabean Ilir (Pabeanilir)",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Pasekan-Kab.-Indramayu&jobs=Pabean%20Ilir%20(Pabeanilir)",
+        "kode": "32.12.29.2002"
+    },
+    {
+        "no": "4",
+        "kodepos": "45227",
+        "name": "Pagirikan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Pasekan-Kab.-Indramayu&jobs=Pagirikan",
+        "kode": "32.12.29.2003"
+    },
+    {
+        "no": "5",
+        "kodepos": "45228",
+        "name": "Pasekan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Pasekan-Kab.-Indramayu&jobs=Pasekan",
+        "kode": "32.12.29.2004"
+    },
+    {
+        "no": "6",
+        "kodepos": "45229",
+        "name": "Totoran",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Pasekan-Kab.-Indramayu&jobs=Totoran",
+        "kode": "32.12.29.2006"
+    }
+]

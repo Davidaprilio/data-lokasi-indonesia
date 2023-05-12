@@ -1,0 +1,212 @@
+[
+    {
+        "no": "1",
+        "name": "Aek Bilah",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tapanuli%20Selatan&jobs=Aek%20Bilah",
+        "kodepos": [
+            "22758"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tapanuli%20Selatan&jobs=Aek%20Bilah",
+            "jumlah": "12"
+        },
+        "pulau": null,
+        "kode": "12.03.22"
+    },
+    {
+        "no": "2",
+        "name": "Angkola Barat",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tapanuli%20Selatan&jobs=Angkola%20Barat",
+        "kodepos": [
+            "22735"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tapanuli%20Selatan&jobs=Angkola%20Barat",
+            "jumlah": "14"
+        },
+        "pulau": null,
+        "kode": "12.03.01"
+    },
+    {
+        "no": "3",
+        "name": "Angkola Muara Tais",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tapanuli%20Selatan&jobs=Angkola%20Muara%20Tais",
+        "kodepos": [
+            "22773"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tapanuli%20Selatan&jobs=Angkola%20Muara%20Tais",
+            "jumlah": "15"
+        },
+        "pulau": null,
+        "kode": "12.03.32"
+    },
+    {
+        "no": "4",
+        "name": "Angkola Sangkunur",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tapanuli%20Selatan&jobs=Angkola%20Sangkunur",
+        "kodepos": [
+            "22734"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tapanuli%20Selatan&jobs=Angkola%20Sangkunur",
+            "jumlah": "10"
+        },
+        "pulau": null,
+        "kode": "12.03.31"
+    },
+    {
+        "no": "5",
+        "name": "Angkola Selatan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tapanuli%20Selatan&jobs=Angkola%20Selatan",
+        "kodepos": [
+            "22732"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tapanuli%20Selatan&jobs=Angkola%20Selatan",
+            "jumlah": "17"
+        },
+        "pulau": null,
+        "kode": "12.03.06"
+    },
+    {
+        "no": "6",
+        "name": "Angkola Timur",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tapanuli%20Selatan&jobs=Angkola%20Timur",
+        "kodepos": [
+            "22733"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tapanuli%20Selatan&jobs=Angkola%20Timur",
+            "jumlah": "15"
+        },
+        "pulau": null,
+        "kode": "12.03.03"
+    },
+    {
+        "no": "7",
+        "name": "Arse",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tapanuli%20Selatan&jobs=Arse",
+        "kodepos": [
+            "22748"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tapanuli%20Selatan&jobs=Arse",
+            "jumlah": "10"
+        },
+        "pulau": null,
+        "kode": "12.03.14"
+    },
+    {
+        "no": "8",
+        "name": "Batang Angkola",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tapanuli%20Selatan&jobs=Batang%20Angkola",
+        "kodepos": [
+            "22773"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tapanuli%20Selatan&jobs=Batang%20Angkola",
+            "jumlah": "21"
+        },
+        "pulau": null,
+        "kode": "12.03.07"
+    },
+    {
+        "no": "9",
+        "name": "Batang Toru",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tapanuli%20Selatan&jobs=Batang%20Toru",
+        "kodepos": [
+            "22738"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tapanuli%20Selatan&jobs=Batang%20Toru",
+            "jumlah": "23"
+        },
+        "pulau": null,
+        "kode": "12.03.02"
+    },
+    {
+        "no": "10",
+        "name": "Marancar",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tapanuli%20Selatan&jobs=Marancar",
+        "kodepos": [
+            "22737"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tapanuli%20Selatan&jobs=Marancar",
+            "jumlah": "12"
+        },
+        "pulau": null,
+        "kode": "12.03.20"
+    },
+    {
+        "no": "11",
+        "name": "Muara Batang Toru",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tapanuli%20Selatan&jobs=Muara%20Batang%20Toru",
+        "kodepos": [
+            "22736"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tapanuli%20Selatan&jobs=Muara%20Batang%20Toru",
+            "jumlah": "9"
+        },
+        "pulau": null,
+        "kode": "12.03.29"
+    },
+    {
+        "no": "12",
+        "name": "Saipar Dolok Hole",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tapanuli%20Selatan&jobs=Saipar%20Dolok%20Hole",
+        "kodepos": [
+            "22759"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tapanuli%20Selatan&jobs=Saipar%20Dolok%20Hole",
+            "jumlah": "14"
+        },
+        "pulau": null,
+        "kode": "12.03.05"
+    },
+    {
+        "no": "13",
+        "name": "Sayur Matinggi",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tapanuli%20Selatan&jobs=Sayur%20Matinggi",
+        "kodepos": [
+            "22774"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tapanuli%20Selatan&jobs=Sayur%20Matinggi",
+            "jumlah": "19"
+        },
+        "pulau": null,
+        "kode": "12.03.21"
+    },
+    {
+        "no": "14",
+        "name": "Sipirok",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tapanuli%20Selatan&jobs=Sipirok",
+        "kodepos": [
+            "22739"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tapanuli%20Selatan&jobs=Sipirok",
+            "jumlah": "40"
+        },
+        "pulau": null,
+        "kode": "12.03.04"
+    },
+    {
+        "no": "15",
+        "name": "Tano Tombangan Angkola",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tapanuli%20Selatan&jobs=Tano%20Tombangan%20Angkola",
+        "kodepos": [
+            "22775"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tapanuli%20Selatan&jobs=Tano%20Tombangan%20Angkola",
+            "jumlah": "17"
+        },
+        "pulau": null,
+        "kode": "12.03.30"
+    }
+]

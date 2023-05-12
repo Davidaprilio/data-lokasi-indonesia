@@ -1,0 +1,116 @@
+[
+    {
+        "no": "1",
+        "name": "Banggae",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Majene&jobs=Banggae",
+        "kodepos": [
+            "91411",
+            "91415"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Majene&jobs=Banggae",
+            "jumlah": "8"
+        },
+        "pulau": null,
+        "kode": "76.05.01"
+    },
+    {
+        "no": "2",
+        "name": "Banggae Timur",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Majene&jobs=Banggae%20Timur",
+        "kodepos": [
+            "91411",
+            "91414"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Majene&jobs=Banggae%20Timur",
+            "jumlah": "9"
+        },
+        "pulau": null,
+        "kode": "76.05.08"
+    },
+    {
+        "no": "3",
+        "name": "Malunda",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Majene&jobs=Malunda",
+        "kodepos": [
+            "91453"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Majene&jobs=Malunda",
+            "jumlah": "12"
+        },
+        "pulau": null,
+        "kode": "76.05.04"
+    },
+    {
+        "no": "4",
+        "name": "Pamboang",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Majene&jobs=Pamboang",
+        "kodepos": [
+            "91451"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Majene&jobs=Pamboang",
+            "jumlah": "15"
+        },
+        "pulau": null,
+        "kode": "76.05.02"
+    },
+    {
+        "no": "5",
+        "name": "Sendana",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Majene&jobs=Sendana",
+        "kodepos": [
+            "91452"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Majene&jobs=Sendana",
+            "jumlah": "16"
+        },
+        "pulau": null,
+        "kode": "76.05.03"
+    },
+    {
+        "no": "6",
+        "name": "Tammerodo Sendana (Tammeredo Sendana)",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Majene&jobs=Tammerodo%20Sendana%20(Tammeredo%20Sendana)",
+        "kodepos": [
+            "91450"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Majene&jobs=Tammerodo%20Sendana%20(Tammeredo%20Sendana)",
+            "jumlah": "7"
+        },
+        "pulau": null,
+        "kode": "76.05.06"
+    },
+    {
+        "no": "7",
+        "name": "Tubo (Tubo Sendana)",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Majene&jobs=Tubo%20(Tubo%20Sendana)",
+        "kodepos": [
+            "91455"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Majene&jobs=Tubo%20(Tubo%20Sendana)",
+            "jumlah": "7"
+        },
+        "pulau": null,
+        "kode": "76.05.07"
+    },
+    {
+        "no": "8",
+        "name": "Ulumanda (Ulumunda)",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Majene&jobs=Ulumanda%20(Ulumunda)",
+        "kodepos": [
+            "91454"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Majene&jobs=Ulumanda%20(Ulumunda)",
+            "jumlah": "8"
+        },
+        "pulau": null,
+        "kode": "76.05.05"
+    }
+]

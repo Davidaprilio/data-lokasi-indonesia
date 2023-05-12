@@ -1,0 +1,199 @@
+[
+    {
+        "no": "1",
+        "name": "Ambalau",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Sintang&jobs=Ambalau",
+        "kodepos": [
+            "78684"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Sintang&jobs=Ambalau",
+            "jumlah": "33"
+        },
+        "pulau": null,
+        "kode": "61.05.15"
+    },
+    {
+        "no": "2",
+        "name": "Binjai Hulu",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Sintang&jobs=Binjai%20Hulu",
+        "kodepos": [
+            "78663"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Sintang&jobs=Binjai%20Hulu",
+            "jumlah": "11"
+        },
+        "pulau": null,
+        "kode": "61.05.21"
+    },
+    {
+        "no": "3",
+        "name": "Dedai",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Sintang&jobs=Dedai",
+        "kodepos": [
+            "78691"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Sintang&jobs=Dedai",
+            "jumlah": "31"
+        },
+        "pulau": null,
+        "kode": "61.05.07"
+    },
+    {
+        "no": "4",
+        "name": "Kayan Hilir",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Sintang&jobs=Kayan%20Hilir",
+        "kodepos": [
+            "78693"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Sintang&jobs=Kayan%20Hilir",
+            "jumlah": "43"
+        },
+        "pulau": null,
+        "kode": "61.05.08"
+    },
+    {
+        "no": "5",
+        "name": "Kayan Hulu",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Sintang&jobs=Kayan%20Hulu",
+        "kodepos": [
+            "78694"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Sintang&jobs=Kayan%20Hulu",
+            "jumlah": "31"
+        },
+        "pulau": null,
+        "kode": "61.05.09"
+    },
+    {
+        "no": "6",
+        "name": "Kelam Permai",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Sintang&jobs=Kelam%20Permai",
+        "kodepos": [
+            "78656"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Sintang&jobs=Kelam%20Permai",
+            "jumlah": "17"
+        },
+        "pulau": null,
+        "kode": "61.05.19"
+    },
+    {
+        "no": "7",
+        "name": "Ketungau Hilir",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Sintang&jobs=Ketungau%20Hilir",
+        "kodepos": [
+            "78652"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Sintang&jobs=Ketungau%20Hilir",
+            "jumlah": "24"
+        },
+        "pulau": null,
+        "kode": "61.05.04"
+    },
+    {
+        "no": "8",
+        "name": "Ketungau Hulu",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Sintang&jobs=Ketungau%20Hulu",
+        "kodepos": [
+            "78654"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Sintang&jobs=Ketungau%20Hulu",
+            "jumlah": "29"
+        },
+        "pulau": null,
+        "kode": "61.05.06"
+    },
+    {
+        "no": "9",
+        "name": "Ketungau Tengah",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Sintang&jobs=Ketungau%20Tengah",
+        "kodepos": [
+            "78653"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Sintang&jobs=Ketungau%20Tengah",
+            "jumlah": "29"
+        },
+        "pulau": null,
+        "kode": "61.05.05"
+    },
+    {
+        "no": "10",
+        "name": "Sepauk",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Sintang&jobs=Sepauk",
+        "kodepos": [
+            "78662"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Sintang&jobs=Sepauk",
+            "jumlah": "39"
+        },
+        "pulau": null,
+        "kode": "61.05.03"
+    },
+    {
+        "no": "11",
+        "name": "Serawai",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Sintang&jobs=Serawai",
+        "kodepos": [
+            "78683"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Sintang&jobs=Serawai",
+            "jumlah": "38"
+        },
+        "pulau": null,
+        "kode": "61.05.14"
+    },
+    {
+        "no": "12",
+        "name": "Sintang",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Sintang&jobs=Sintang",
+        "kodepos": [
+            "78611",
+            "78619"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Sintang&jobs=Sintang",
+            "jumlah": "29"
+        },
+        "pulau": null,
+        "kode": "61.05.01"
+    },
+    {
+        "no": "13",
+        "name": "Sungai Tebelian",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Sintang&jobs=Sungai%20Tebelian",
+        "kodepos": [
+            "78655"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Sintang&jobs=Sungai%20Tebelian",
+            "jumlah": "26"
+        },
+        "pulau": null,
+        "kode": "61.05.20"
+    },
+    {
+        "no": "14",
+        "name": "Tempunak",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Sintang&jobs=Tempunak",
+        "kodepos": [
+            "78661"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Sintang&jobs=Tempunak",
+            "jumlah": "26"
+        },
+        "pulau": null,
+        "kode": "61.05.02"
+    }
+]

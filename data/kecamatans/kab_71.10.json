@@ -1,0 +1,106 @@
+[
+    {
+        "no": "1",
+        "name": "Kotabunan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Bolaang%20Mongondow%20Timur&jobs=Kotabunan",
+        "kodepos": [
+            "95782"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Bolaang%20Mongondow%20Timur&jobs=Kotabunan",
+            "jumlah": "15"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Bolaang%20Mongondow%20Timur&jobs=Kotabunan",
+            "jumlah": "3"
+        },
+        "kode": "71.10.02"
+    },
+    {
+        "no": "2",
+        "name": "Modayag",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Bolaang%20Mongondow%20Timur&jobs=Modayag",
+        "kodepos": [
+            "95780"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Bolaang%20Mongondow%20Timur&jobs=Modayag",
+            "jumlah": "14"
+        },
+        "pulau": null,
+        "kode": "71.10.04"
+    },
+    {
+        "no": "3",
+        "name": "Modayag Barat",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Bolaang%20Mongondow%20Timur&jobs=Modayag%20Barat",
+        "kodepos": [
+            "95781"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Bolaang%20Mongondow%20Timur&jobs=Modayag%20Barat",
+            "jumlah": "10"
+        },
+        "pulau": null,
+        "kode": "71.10.05"
+    },
+    {
+        "no": "4",
+        "name": "Mooat",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Bolaang%20Mongondow%20Timur&jobs=Mooat",
+        "kodepos": [
+            "95784"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Bolaang%20Mongondow%20Timur&jobs=Mooat",
+            "jumlah": "10"
+        },
+        "pulau": null,
+        "kode": "71.10.07"
+    },
+    {
+        "no": "5",
+        "name": "Motongkad",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Bolaang%20Mongondow%20Timur&jobs=Motongkad",
+        "kodepos": [
+            "95785"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Bolaang%20Mongondow%20Timur&jobs=Motongkad",
+            "jumlah": "11"
+        },
+        "pulau": null,
+        "kode": "71.10.06"
+    },
+    {
+        "no": "6",
+        "name": "Nuangan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Bolaang%20Mongondow%20Timur&jobs=Nuangan",
+        "kodepos": [
+            "95786"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Bolaang%20Mongondow%20Timur&jobs=Nuangan",
+            "jumlah": "11"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Bolaang%20Mongondow%20Timur&jobs=Nuangan",
+            "jumlah": "3"
+        },
+        "kode": "71.10.03"
+    },
+    {
+        "no": "7",
+        "name": "Tutuyan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Bolaang%20Mongondow%20Timur&jobs=Tutuyan",
+        "kodepos": [
+            "95783"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Bolaang%20Mongondow%20Timur&jobs=Tutuyan",
+            "jumlah": "10"
+        },
+        "pulau": null,
+        "kode": "71.10.01"
+    }
+]

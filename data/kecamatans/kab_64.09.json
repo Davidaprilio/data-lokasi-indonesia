@@ -1,0 +1,66 @@
+[
+    {
+        "no": "1",
+        "name": "Babulu",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Penajam%20Paser%20Utara&jobs=Babulu",
+        "kodepos": [
+            "76285"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Penajam%20Paser%20Utara&jobs=Babulu",
+            "jumlah": "12"
+        },
+        "pulau": null,
+        "kode": "64.09.03"
+    },
+    {
+        "no": "2",
+        "name": "Penajam",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Penajam%20Paser%20Utara&jobs=Penajam",
+        "kodepos": [
+            "76141",
+            "76146"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Penajam%20Paser%20Utara&jobs=Penajam",
+            "jumlah": "23"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Penajam%20Paser%20Utara&jobs=Penajam",
+            "jumlah": "14"
+        },
+        "kode": "64.09.01"
+    },
+    {
+        "no": "3",
+        "name": "Sepaku",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Penajam%20Paser%20Utara&jobs=Sepaku",
+        "kodepos": [
+            "76146",
+            "76149"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Penajam%20Paser%20Utara&jobs=Sepaku",
+            "jumlah": "15"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Penajam%20Paser%20Utara&jobs=Sepaku",
+            "jumlah": "2"
+        },
+        "kode": "64.09.04"
+    },
+    {
+        "no": "4",
+        "name": "Waru",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Penajam%20Paser%20Utara&jobs=Waru",
+        "kodepos": [
+            "76284"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Penajam%20Paser%20Utara&jobs=Waru",
+            "jumlah": "4"
+        },
+        "pulau": null,
+        "kode": "64.09.02"
+    }
+]

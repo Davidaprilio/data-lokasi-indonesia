@@ -1,0 +1,100 @@
+[
+    {
+        "no": "1",
+        "name": "Mesuji",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Mesuji&jobs=Mesuji",
+        "kodepos": [
+            "34697"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Mesuji&jobs=Mesuji",
+            "jumlah": "11"
+        },
+        "pulau": null,
+        "kode": "18.11.01"
+    },
+    {
+        "no": "2",
+        "name": "Mesuji Timur",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Mesuji&jobs=Mesuji%20Timur",
+        "kodepos": [
+            "34695"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Mesuji&jobs=Mesuji%20Timur",
+            "jumlah": "20"
+        },
+        "pulau": null,
+        "kode": "18.11.02"
+    },
+    {
+        "no": "3",
+        "name": "Panca Jaya",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Mesuji&jobs=Panca%20Jaya",
+        "kodepos": [
+            "34698"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Mesuji&jobs=Panca%20Jaya",
+            "jumlah": "7"
+        },
+        "pulau": null,
+        "kode": "18.11.06"
+    },
+    {
+        "no": "4",
+        "name": "Rawa Jitu Utara",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Mesuji&jobs=Rawa%20Jitu%20Utara",
+        "kodepos": [
+            "34696"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Mesuji&jobs=Rawa%20Jitu%20Utara",
+            "jumlah": "13"
+        },
+        "pulau": null,
+        "kode": "18.11.03"
+    },
+    {
+        "no": "5",
+        "name": "Simpang Pematang",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Mesuji&jobs=Simpang%20Pematang",
+        "kodepos": [
+            "34699"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Mesuji&jobs=Simpang%20Pematang",
+            "jumlah": "13"
+        },
+        "pulau": null,
+        "kode": "18.11.05"
+    },
+    {
+        "no": "6",
+        "name": "Tanjung Raya",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Mesuji&jobs=Tanjung%20Raya",
+        "kodepos": [
+            "34692"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Mesuji&jobs=Tanjung%20Raya",
+            "jumlah": "21"
+        },
+        "pulau": null,
+        "kode": "18.11.07"
+    },
+    {
+        "no": "7",
+        "name": "Way Serdang",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Mesuji&jobs=Way%20Serdang",
+        "kodepos": [
+            "34694"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Mesuji&jobs=Way%20Serdang",
+            "jumlah": "20"
+        },
+        "pulau": null,
+        "kode": "18.11.04"
+    }
+]

@@ -1,0 +1,150 @@
+[
+    {
+        "no": "1",
+        "name": "Abeli",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Kendari&jobs=Abeli",
+        "kodepos": [
+            "93234",
+            "93238"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Kendari&jobs=Abeli",
+            "jumlah": "13"
+        },
+        "pulau": null,
+        "kode": "74.71.06"
+    },
+    {
+        "no": "2",
+        "name": "Baruga",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Kendari&jobs=Baruga",
+        "kodepos": [
+            "93116"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Kendari&jobs=Baruga",
+            "jumlah": "4"
+        },
+        "pulau": null,
+        "kode": "74.71.03"
+    },
+    {
+        "no": "3",
+        "name": "Kadia",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Kendari&jobs=Kadia",
+        "kodepos": [
+            "93117",
+            "93118"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Kendari&jobs=Kadia",
+            "jumlah": "5"
+        },
+        "pulau": null,
+        "kode": "74.71.08"
+    },
+    {
+        "no": "4",
+        "name": "Kambu",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Kendari&jobs=Kambu",
+        "kodepos": [
+            "93231"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Kendari&jobs=Kambu",
+            "jumlah": "4"
+        },
+        "pulau": null,
+        "kode": "74.71.10"
+    },
+    {
+        "no": "5",
+        "name": "Kendari",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Kendari&jobs=Kendari",
+        "kodepos": [
+            "93121",
+            "93129"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Kendari&jobs=Kendari",
+            "jumlah": "9"
+        },
+        "pulau": null,
+        "kode": "74.71.02"
+    },
+    {
+        "no": "6",
+        "name": "Kendari Barat",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Kendari&jobs=Kendari%20Barat",
+        "kodepos": [
+            "93121",
+            "93127"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Kendari&jobs=Kendari%20Barat",
+            "jumlah": "9"
+        },
+        "pulau": null,
+        "kode": "74.71.05"
+    },
+    {
+        "no": "7",
+        "name": "Mandonga",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Kendari&jobs=Mandonga",
+        "kodepos": [
+            "93111",
+            "93113"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Kendari&jobs=Mandonga",
+            "jumlah": "6"
+        },
+        "pulau": null,
+        "kode": "74.71.01"
+    },
+    {
+        "no": "8",
+        "name": "Poasia",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Kendari&jobs=Poasia",
+        "kodepos": [
+            "93231",
+            "93233"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Kendari&jobs=Poasia",
+            "jumlah": "4"
+        },
+        "pulau": null,
+        "kode": "74.71.04"
+    },
+    {
+        "no": "9",
+        "name": "Puuwatu",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Kendari&jobs=Puuwatu",
+        "kodepos": [
+            "93114",
+            "93115"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Kendari&jobs=Puuwatu",
+            "jumlah": "6"
+        },
+        "pulau": null,
+        "kode": "74.71.09"
+    },
+    {
+        "no": "10",
+        "name": "Wua-Wua",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Kendari&jobs=Wua-Wua",
+        "kodepos": [
+            "93117",
+            "93118"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Kendari&jobs=Wua-Wua",
+            "jumlah": "4"
+        },
+        "pulau": null,
+        "kode": "74.71.07"
+    }
+]

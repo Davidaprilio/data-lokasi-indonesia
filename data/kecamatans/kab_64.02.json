@@ -1,0 +1,280 @@
+[
+    {
+        "no": "1",
+        "name": "Anggana",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kutai%20Kartanegara&jobs=Anggana",
+        "kodepos": [
+            "75381",
+            "76131"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kutai%20Kartanegara&jobs=Anggana",
+            "jumlah": "8"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kutai%20Kartanegara&jobs=Anggana",
+            "jumlah": "34"
+        },
+        "kode": "64.02.04"
+    },
+    {
+        "no": "2",
+        "name": "Kembang Janggut",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kutai%20Kartanegara&jobs=Kembang%20Janggut",
+        "kodepos": [
+            "75557"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kutai%20Kartanegara&jobs=Kembang%20Janggut",
+            "jumlah": "11"
+        },
+        "pulau": null,
+        "kode": "64.02.10"
+    },
+    {
+        "no": "3",
+        "name": "Kenohan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kutai%20Kartanegara&jobs=Kenohan",
+        "kodepos": [
+            "75564"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kutai%20Kartanegara&jobs=Kenohan",
+            "jumlah": "9"
+        },
+        "pulau": null,
+        "kode": "64.02.09"
+    },
+    {
+        "no": "4",
+        "name": "Kota Bangun",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kutai%20Kartanegara&jobs=Kota%20Bangun",
+        "kodepos": [
+            "75561"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kutai%20Kartanegara&jobs=Kota%20Bangun",
+            "jumlah": "21"
+        },
+        "pulau": null,
+        "kode": "64.02.08"
+    },
+    {
+        "no": "5",
+        "name": "Loa Janan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kutai%20Kartanegara&jobs=Loa%20Janan",
+        "kodepos": [
+            "75391"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kutai%20Kartanegara&jobs=Loa%20Janan",
+            "jumlah": "8"
+        },
+        "pulau": null,
+        "kode": "64.02.03"
+    },
+    {
+        "no": "6",
+        "name": "Loa Kulu",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kutai%20Kartanegara&jobs=Loa%20Kulu",
+        "kodepos": [
+            "75571"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kutai%20Kartanegara&jobs=Loa%20Kulu",
+            "jumlah": "15"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kutai%20Kartanegara&jobs=Loa%20Kulu",
+            "jumlah": "1"
+        },
+        "kode": "64.02.02"
+    },
+    {
+        "no": "7",
+        "name": "Marang Kayu",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kutai%20Kartanegara&jobs=Marang%20Kayu",
+        "kodepos": [
+            "75385"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kutai%20Kartanegara&jobs=Marang%20Kayu",
+            "jumlah": "11"
+        },
+        "pulau": null,
+        "kode": "64.02.17"
+    },
+    {
+        "no": "8",
+        "name": "Muara Badak",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kutai%20Kartanegara&jobs=Muara%20Badak",
+        "kodepos": [
+            "75382"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kutai%20Kartanegara&jobs=Muara%20Badak",
+            "jumlah": "13"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kutai%20Kartanegara&jobs=Muara%20Badak",
+            "jumlah": "6"
+        },
+        "kode": "64.02.05"
+    },
+    {
+        "no": "9",
+        "name": "Muara Jawa",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kutai%20Kartanegara&jobs=Muara%20Jawa",
+        "kodepos": [
+            "75261",
+            "75267"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kutai%20Kartanegara&jobs=Muara%20Jawa",
+            "jumlah": "8"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kutai%20Kartanegara&jobs=Muara%20Jawa",
+            "jumlah": "13"
+        },
+        "kode": "64.02.14"
+    },
+    {
+        "no": "10",
+        "name": "Muara Kaman",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kutai%20Kartanegara&jobs=Muara%20Kaman",
+        "kodepos": [
+            "75553"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kutai%20Kartanegara&jobs=Muara%20Kaman",
+            "jumlah": "20"
+        },
+        "pulau": null,
+        "kode": "64.02.11"
+    },
+    {
+        "no": "11",
+        "name": "Muara Muntai",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kutai%20Kartanegara&jobs=Muara%20Muntai",
+        "kodepos": [
+            "75562"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kutai%20Kartanegara&jobs=Muara%20Muntai",
+            "jumlah": "13"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kutai%20Kartanegara&jobs=Muara%20Muntai",
+            "jumlah": "1"
+        },
+        "kode": "64.02.01"
+    },
+    {
+        "no": "12",
+        "name": "Muara Wis",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kutai%20Kartanegara&jobs=Muara%20Wis",
+        "kodepos": [
+            "75559"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kutai%20Kartanegara&jobs=Muara%20Wis",
+            "jumlah": "7"
+        },
+        "pulau": null,
+        "kode": "64.02.18"
+    },
+    {
+        "no": "13",
+        "name": "Samboja (Semboja)",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kutai%20Kartanegara&jobs=Samboja%20(Semboja)",
+        "kodepos": [
+            "75271",
+            "75279"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kutai%20Kartanegara&jobs=Samboja%20(Semboja)",
+            "jumlah": "23"
+        },
+        "pulau": null,
+        "kode": "64.02.13"
+    },
+    {
+        "no": "14",
+        "name": "Sanga-Sanga",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kutai%20Kartanegara&jobs=Sanga-Sanga",
+        "kodepos": [
+            "75251",
+            "75256"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kutai%20Kartanegara&jobs=Sanga-Sanga",
+            "jumlah": "5"
+        },
+        "pulau": null,
+        "kode": "64.02.15"
+    },
+    {
+        "no": "15",
+        "name": "Sebulu",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kutai%20Kartanegara&jobs=Sebulu",
+        "kodepos": [
+            "75552"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kutai%20Kartanegara&jobs=Sebulu",
+            "jumlah": "14"
+        },
+        "pulau": null,
+        "kode": "64.02.07"
+    },
+    {
+        "no": "16",
+        "name": "Tabang",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kutai%20Kartanegara&jobs=Tabang",
+        "kodepos": [
+            "75558"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kutai%20Kartanegara&jobs=Tabang",
+            "jumlah": "19"
+        },
+        "pulau": null,
+        "kode": "64.02.12"
+    },
+    {
+        "no": "17",
+        "name": "Tenggarong",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kutai%20Kartanegara&jobs=Tenggarong",
+        "kodepos": [
+            "75511",
+            "75517"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kutai%20Kartanegara&jobs=Tenggarong",
+            "jumlah": "14"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kutai%20Kartanegara&jobs=Tenggarong",
+            "jumlah": "1"
+        },
+        "kode": "64.02.06"
+    },
+    {
+        "no": "18",
+        "name": "Tenggarong Seberang",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kutai%20Kartanegara&jobs=Tenggarong%20Seberang",
+        "kodepos": [
+            "75572"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kutai%20Kartanegara&jobs=Tenggarong%20Seberang",
+            "jumlah": "18"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kutai%20Kartanegara&jobs=Tenggarong%20Seberang",
+            "jumlah": "1"
+        },
+        "kode": "64.02.16"
+    }
+]

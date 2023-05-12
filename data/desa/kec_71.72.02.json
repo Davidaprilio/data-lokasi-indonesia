@@ -1,0 +1,58 @@
+[
+    {
+        "no": "1",
+        "kodepos": "95513",
+        "name": "Kadoodan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Madidir%20(Bitung%20Tengah)-Kota-Bitung&jobs=Kadoodan",
+        "kode": "71.72.02.1004"
+    },
+    {
+        "no": "2",
+        "kodepos": "95516",
+        "name": "Madidir Unet",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Madidir%20(Bitung%20Tengah)-Kota-Bitung&jobs=Madidir%20Unet",
+        "kode": "71.72.02.1007"
+    },
+    {
+        "no": "3",
+        "kodepos": "95515",
+        "name": "Madidir Ure",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Madidir%20(Bitung%20Tengah)-Kota-Bitung&jobs=Madidir%20Ure",
+        "kode": "71.72.02.1003"
+    },
+    {
+        "no": "4",
+        "kodepos": "95514",
+        "name": "Madidir Weru",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Madidir%20(Bitung%20Tengah)-Kota-Bitung&jobs=Madidir%20Weru",
+        "kode": "71.72.02.1006"
+    },
+    {
+        "no": "5",
+        "kodepos": "95541",
+        "name": "Paceda",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Madidir%20(Bitung%20Tengah)-Kota-Bitung&jobs=Paceda",
+        "kode": "71.72.02.1002"
+    },
+    {
+        "no": "6",
+        "kodepos": "95541",
+        "name": "Wangurer Barat",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Madidir%20(Bitung%20Tengah)-Kota-Bitung&jobs=Wangurer%20Barat",
+        "kode": "71.72.02.1001"
+    },
+    {
+        "no": "7",
+        "kodepos": "95541",
+        "name": "Wangurer Timur",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Madidir%20(Bitung%20Tengah)-Kota-Bitung&jobs=Wangurer%20Timur",
+        "kode": "71.72.02.1009"
+    },
+    {
+        "no": "8",
+        "kodepos": "95541",
+        "name": "Wangurer Utara",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Madidir%20(Bitung%20Tengah)-Kota-Bitung&jobs=Wangurer%20Utara",
+        "kode": "71.72.02.1011"
+    }
+]

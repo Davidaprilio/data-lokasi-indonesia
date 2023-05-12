@@ -1,0 +1,122 @@
+[
+    {
+        "no": "1",
+        "name": "Cempaka Putih",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Jakarta%20Pusat&jobs=Cempaka%20Putih",
+        "kodepos": [
+            "10510",
+            "10570"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Jakarta%20Pusat&jobs=Cempaka%20Putih",
+            "jumlah": "3"
+        },
+        "pulau": null,
+        "kode": "31.71.05"
+    },
+    {
+        "no": "2",
+        "name": "Gambir",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Jakarta%20Pusat&jobs=Gambir",
+        "kodepos": [
+            "10110",
+            "10160"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Jakarta%20Pusat&jobs=Gambir",
+            "jumlah": "6"
+        },
+        "pulau": null,
+        "kode": "31.71.01"
+    },
+    {
+        "no": "3",
+        "name": "Johar Baru",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Jakarta%20Pusat&jobs=Johar%20Baru",
+        "kodepos": [
+            "10530",
+            "10560"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Jakarta%20Pusat&jobs=Johar%20Baru",
+            "jumlah": "4"
+        },
+        "pulau": null,
+        "kode": "31.71.08"
+    },
+    {
+        "no": "4",
+        "name": "Kemayoran",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Jakarta%20Pusat&jobs=Kemayoran",
+        "kodepos": [
+            "10610",
+            "10650"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Jakarta%20Pusat&jobs=Kemayoran",
+            "jumlah": "8"
+        },
+        "pulau": null,
+        "kode": "31.71.03"
+    },
+    {
+        "no": "5",
+        "name": "Menteng",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Jakarta%20Pusat&jobs=Menteng",
+        "kodepos": [
+            "10310",
+            "10350"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Jakarta%20Pusat&jobs=Menteng",
+            "jumlah": "5"
+        },
+        "pulau": null,
+        "kode": "31.71.06"
+    },
+    {
+        "no": "6",
+        "name": "Sawah Besar",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Jakarta%20Pusat&jobs=Sawah%20Besar",
+        "kodepos": [
+            "10710",
+            "10750"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Jakarta%20Pusat&jobs=Sawah%20Besar",
+            "jumlah": "5"
+        },
+        "pulau": null,
+        "kode": "31.71.02"
+    },
+    {
+        "no": "7",
+        "name": "Senen",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Jakarta%20Pusat&jobs=Senen",
+        "kodepos": [
+            "10410",
+            "10460"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Jakarta%20Pusat&jobs=Senen",
+            "jumlah": "6"
+        },
+        "pulau": null,
+        "kode": "31.71.04"
+    },
+    {
+        "no": "8",
+        "name": "Tanah Abang",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Jakarta%20Pusat&jobs=Tanah%20Abang",
+        "kodepos": [
+            "10210",
+            "10270"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Jakarta%20Pusat&jobs=Tanah%20Abang",
+            "jumlah": "7"
+        },
+        "pulau": null,
+        "kode": "31.71.07"
+    }
+]

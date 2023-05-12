@@ -1,0 +1,142 @@
+[
+    {
+        "no": "1",
+        "name": "Beutong",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Nagan%20Raya&jobs=Beutong",
+        "kodepos": [
+            "23672"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Nagan%20Raya&jobs=Beutong",
+            "jumlah": "24"
+        },
+        "pulau": null,
+        "kode": "11.15.04"
+    },
+    {
+        "no": "2",
+        "name": "Beutong Ateuh Banggalang",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Nagan%20Raya&jobs=Beutong%20Ateuh%20Banggalang",
+        "kodepos": [
+            "23673"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Nagan%20Raya&jobs=Beutong%20Ateuh%20Banggalang",
+            "jumlah": "4"
+        },
+        "pulau": null,
+        "kode": "11.15.10"
+    },
+    {
+        "no": "3",
+        "name": "Darul Makmur",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Nagan%20Raya&jobs=Darul%20Makmur",
+        "kodepos": [
+            "23662"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Nagan%20Raya&jobs=Darul%20Makmur",
+            "jumlah": "40"
+        },
+        "pulau": null,
+        "kode": "11.15.05"
+    },
+    {
+        "no": "4",
+        "name": "Kuala",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Nagan%20Raya&jobs=Kuala",
+        "kodepos": [
+            "23661"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Nagan%20Raya&jobs=Kuala",
+            "jumlah": "17"
+        },
+        "pulau": null,
+        "kode": "11.15.01"
+    },
+    {
+        "no": "5",
+        "name": "Kuala Pesisir",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Nagan%20Raya&jobs=Kuala%20Pesisir",
+        "kodepos": [
+            "23660"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Nagan%20Raya&jobs=Kuala%20Pesisir",
+            "jumlah": "16"
+        },
+        "pulau": null,
+        "kode": "11.15.07"
+    },
+    {
+        "no": "6",
+        "name": "Seunagan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Nagan%20Raya&jobs=Seunagan",
+        "kodepos": [
+            "23671"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Nagan%20Raya&jobs=Seunagan",
+            "jumlah": "35"
+        },
+        "pulau": null,
+        "kode": "11.15.02"
+    },
+    {
+        "no": "7",
+        "name": "Seunagan Timur",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Nagan%20Raya&jobs=Seunagan%20Timur",
+        "kodepos": [
+            "23670"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Nagan%20Raya&jobs=Seunagan%20Timur",
+            "jumlah": "34"
+        },
+        "pulau": null,
+        "kode": "11.15.03"
+    },
+    {
+        "no": "8",
+        "name": "Suka Makmue",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Nagan%20Raya&jobs=Suka%20Makmue",
+        "kodepos": [
+            "23674"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Nagan%20Raya&jobs=Suka%20Makmue",
+            "jumlah": "19"
+        },
+        "pulau": null,
+        "kode": "11.15.06"
+    },
+    {
+        "no": "9",
+        "name": "Tadu Raya",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Nagan%20Raya&jobs=Tadu%20Raya",
+        "kodepos": [
+            "23664"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Nagan%20Raya&jobs=Tadu%20Raya",
+            "jumlah": "22"
+        },
+        "pulau": null,
+        "kode": "11.15.08"
+    },
+    {
+        "no": "10",
+        "name": "Tripa Makmur",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Nagan%20Raya&jobs=Tripa%20Makmur",
+        "kodepos": [
+            "23663"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Nagan%20Raya&jobs=Tripa%20Makmur",
+            "jumlah": "11"
+        },
+        "pulau": null,
+        "kode": "11.15.09"
+    }
+]

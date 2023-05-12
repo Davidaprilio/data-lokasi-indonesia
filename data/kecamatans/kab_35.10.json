@@ -1,0 +1,369 @@
+[
+    {
+        "no": "1",
+        "name": "Bangorejo",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Banyuwangi&jobs=Bangorejo",
+        "kodepos": [
+            "68487"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Banyuwangi&jobs=Bangorejo",
+            "jumlah": "7"
+        },
+        "pulau": null,
+        "kode": "35.10.02"
+    },
+    {
+        "no": "2",
+        "name": "Banyuwangi",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Banyuwangi&jobs=Banyuwangi",
+        "kodepos": [
+            "68411",
+            "68419"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Banyuwangi&jobs=Banyuwangi",
+            "jumlah": "18"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Banyuwangi&jobs=Banyuwangi",
+            "jumlah": "2"
+        },
+        "kode": "35.10.16"
+    },
+    {
+        "no": "3",
+        "name": "Blimbingsari",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Banyuwangi&jobs=Blimbingsari",
+        "kodepos": [
+            "68460",
+            "68461"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Banyuwangi&jobs=Blimbingsari",
+            "jumlah": "10"
+        },
+        "pulau": null,
+        "kode": "35.10.25"
+    },
+    {
+        "no": "4",
+        "name": "Cluring",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Banyuwangi&jobs=Cluring",
+        "kodepos": [
+            "68482"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Banyuwangi&jobs=Cluring",
+            "jumlah": "9"
+        },
+        "pulau": null,
+        "kode": "35.10.06"
+    },
+    {
+        "no": "5",
+        "name": "Gambiran",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Banyuwangi&jobs=Gambiran",
+        "kodepos": [
+            "68486"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Banyuwangi&jobs=Gambiran",
+            "jumlah": "6"
+        },
+        "pulau": null,
+        "kode": "35.10.07"
+    },
+    {
+        "no": "6",
+        "name": "Genteng",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Banyuwangi&jobs=Genteng",
+        "kodepos": [
+            "68465"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Banyuwangi&jobs=Genteng",
+            "jumlah": "5"
+        },
+        "pulau": null,
+        "kode": "35.10.09"
+    },
+    {
+        "no": "7",
+        "name": "Giri",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Banyuwangi&jobs=Giri",
+        "kodepos": [
+            "68422",
+            "68425"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Banyuwangi&jobs=Giri",
+            "jumlah": "6"
+        },
+        "pulau": null,
+        "kode": "35.10.17"
+    },
+    {
+        "no": "8",
+        "name": "Glagah",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Banyuwangi&jobs=Glagah",
+        "kodepos": [
+            "68431",
+            "68432"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Banyuwangi&jobs=Glagah",
+            "jumlah": "10"
+        },
+        "pulau": null,
+        "kode": "35.10.15"
+    },
+    {
+        "no": "9",
+        "name": "Glenmore",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Banyuwangi&jobs=Glenmore",
+        "kodepos": [
+            "68466"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Banyuwangi&jobs=Glenmore",
+            "jumlah": "7"
+        },
+        "pulau": null,
+        "kode": "35.10.10"
+    },
+    {
+        "no": "10",
+        "name": "Kabat",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Banyuwangi&jobs=Kabat",
+        "kodepos": [
+            "68461"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Banyuwangi&jobs=Kabat",
+            "jumlah": "14"
+        },
+        "pulau": null,
+        "kode": "35.10.14"
+    },
+    {
+        "no": "11",
+        "name": "Kalibaru",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Banyuwangi&jobs=Kalibaru",
+        "kodepos": [
+            "68467"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Banyuwangi&jobs=Kalibaru",
+            "jumlah": "6"
+        },
+        "pulau": null,
+        "kode": "35.10.11"
+    },
+    {
+        "no": "12",
+        "name": "Kalipuro",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Banyuwangi&jobs=Kalipuro",
+        "kodepos": [
+            "68421",
+            "68455"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Banyuwangi&jobs=Kalipuro",
+            "jumlah": "9"
+        },
+        "pulau": null,
+        "kode": "35.10.21"
+    },
+    {
+        "no": "13",
+        "name": "Licin",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Banyuwangi&jobs=Licin",
+        "kodepos": [
+            "68454"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Banyuwangi&jobs=Licin",
+            "jumlah": "8"
+        },
+        "pulau": null,
+        "kode": "35.10.24"
+    },
+    {
+        "no": "14",
+        "name": "Muncar",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Banyuwangi&jobs=Muncar",
+        "kodepos": [
+            "68472"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Banyuwangi&jobs=Muncar",
+            "jumlah": "10"
+        },
+        "pulau": null,
+        "kode": "35.10.05"
+    },
+    {
+        "no": "15",
+        "name": "Pesanggaran",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Banyuwangi&jobs=Pesanggaran",
+        "kodepos": [
+            "68488"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Banyuwangi&jobs=Pesanggaran",
+            "jumlah": "5"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Banyuwangi&jobs=Pesanggaran",
+            "jumlah": "10"
+        },
+        "kode": "35.10.01"
+    },
+    {
+        "no": "16",
+        "name": "Purwoharjo",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Banyuwangi&jobs=Purwoharjo",
+        "kodepos": [
+            "68483"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Banyuwangi&jobs=Purwoharjo",
+            "jumlah": "8"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Banyuwangi&jobs=Purwoharjo",
+            "jumlah": "2"
+        },
+        "kode": "35.10.03"
+    },
+    {
+        "no": "17",
+        "name": "Rogojampi",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Banyuwangi&jobs=Rogojampi",
+        "kodepos": [
+            "68462"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Banyuwangi&jobs=Rogojampi",
+            "jumlah": "10"
+        },
+        "pulau": null,
+        "kode": "35.10.13"
+    },
+    {
+        "no": "18",
+        "name": "Sempu",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Banyuwangi&jobs=Sempu",
+        "kodepos": [
+            "68468"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Banyuwangi&jobs=Sempu",
+            "jumlah": "7"
+        },
+        "pulau": null,
+        "kode": "35.10.20"
+    },
+    {
+        "no": "19",
+        "name": "Siliragung",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Banyuwangi&jobs=Siliragung",
+        "kodepos": [
+            "68489"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Banyuwangi&jobs=Siliragung",
+            "jumlah": "5"
+        },
+        "pulau": null,
+        "kode": "35.10.22"
+    },
+    {
+        "no": "20",
+        "name": "Singojuruh",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Banyuwangi&jobs=Singojuruh",
+        "kodepos": [
+            "68464"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Banyuwangi&jobs=Singojuruh",
+            "jumlah": "11"
+        },
+        "pulau": null,
+        "kode": "35.10.12"
+    },
+    {
+        "no": "21",
+        "name": "Songgon",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Banyuwangi&jobs=Songgon",
+        "kodepos": [
+            "68463"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Banyuwangi&jobs=Songgon",
+            "jumlah": "9"
+        },
+        "pulau": null,
+        "kode": "35.10.19"
+    },
+    {
+        "no": "22",
+        "name": "Srono",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Banyuwangi&jobs=Srono",
+        "kodepos": [
+            "68471"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Banyuwangi&jobs=Srono",
+            "jumlah": "10"
+        },
+        "pulau": null,
+        "kode": "35.10.08"
+    },
+    {
+        "no": "23",
+        "name": "Tegaldlimo",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Banyuwangi&jobs=Tegaldlimo",
+        "kodepos": [
+            "68484"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Banyuwangi&jobs=Tegaldlimo",
+            "jumlah": "9"
+        },
+        "pulau": null,
+        "kode": "35.10.04"
+    },
+    {
+        "no": "24",
+        "name": "Tegalsari",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Banyuwangi&jobs=Tegalsari",
+        "kodepos": [
+            "68485"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Banyuwangi&jobs=Tegalsari",
+            "jumlah": "6"
+        },
+        "pulau": null,
+        "kode": "35.10.23"
+    },
+    {
+        "no": "25",
+        "name": "Wongsorejo",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Banyuwangi&jobs=Wongsorejo",
+        "kodepos": [
+            "68453"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Banyuwangi&jobs=Wongsorejo",
+            "jumlah": "12"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Banyuwangi&jobs=Wongsorejo",
+            "jumlah": "1"
+        },
+        "kode": "35.10.18"
+    }
+]

@@ -1,0 +1,113 @@
+[
+    {
+        "no": "1",
+        "name": "Damar",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Belitung%20Timur&jobs=Damar",
+        "kodepos": [
+            "33571"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Belitung%20Timur&jobs=Damar",
+            "jumlah": "5"
+        },
+        "pulau": null,
+        "kode": "19.06.05"
+    },
+    {
+        "no": "2",
+        "name": "Dendang",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Belitung%20Timur&jobs=Dendang",
+        "kodepos": [
+            "33561"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Belitung%20Timur&jobs=Dendang",
+            "jumlah": "4"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Belitung%20Timur&jobs=Dendang",
+            "jumlah": "35"
+        },
+        "kode": "19.06.03"
+    },
+    {
+        "no": "3",
+        "name": "Gantung",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Belitung%20Timur&jobs=Gantung",
+        "kodepos": [
+            "33562"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Belitung%20Timur&jobs=Gantung",
+            "jumlah": "7"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Belitung%20Timur&jobs=Gantung",
+            "jumlah": "39"
+        },
+        "kode": "19.06.02"
+    },
+    {
+        "no": "4",
+        "name": "Kelapa Kampit",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Belitung%20Timur&jobs=Kelapa%20Kampit",
+        "kodepos": [
+            "33572"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Belitung%20Timur&jobs=Kelapa%20Kampit",
+            "jumlah": "6"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Belitung%20Timur&jobs=Kelapa%20Kampit",
+            "jumlah": "12"
+        },
+        "kode": "19.06.04"
+    },
+    {
+        "no": "5",
+        "name": "Manggar",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Belitung%20Timur&jobs=Manggar",
+        "kodepos": [
+            "33511",
+            "33517"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Belitung%20Timur&jobs=Manggar",
+            "jumlah": "9"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Belitung%20Timur&jobs=Manggar",
+            "jumlah": "25"
+        },
+        "kode": "19.06.01"
+    },
+    {
+        "no": "6",
+        "name": "Simpang Pesak",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Belitung%20Timur&jobs=Simpang%20Pesak",
+        "kodepos": [
+            "33560"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Belitung%20Timur&jobs=Simpang%20Pesak",
+            "jumlah": "4"
+        },
+        "pulau": null,
+        "kode": "19.06.07"
+    },
+    {
+        "no": "7",
+        "name": "Simpang Renggiang",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Belitung%20Timur&jobs=Simpang%20Renggiang",
+        "kodepos": [
+            "33563"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Belitung%20Timur&jobs=Simpang%20Renggiang",
+            "jumlah": "4"
+        },
+        "pulau": null,
+        "kode": "19.06.06"
+    }
+]

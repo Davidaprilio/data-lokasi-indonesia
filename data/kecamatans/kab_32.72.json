@@ -1,0 +1,107 @@
+[
+    {
+        "no": "1",
+        "name": "Baros",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Sukabumi&jobs=Baros",
+        "kodepos": [
+            "43161",
+            "43166"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Sukabumi&jobs=Baros",
+            "jumlah": "4"
+        },
+        "pulau": null,
+        "kode": "32.72.05"
+    },
+    {
+        "no": "2",
+        "name": "Cibeureum",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Sukabumi&jobs=Cibeureum",
+        "kodepos": [
+            "43142",
+            "43165"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Sukabumi&jobs=Cibeureum",
+            "jumlah": "4"
+        },
+        "pulau": null,
+        "kode": "32.72.07"
+    },
+    {
+        "no": "3",
+        "name": "Cikole",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Sukabumi&jobs=Cikole",
+        "kodepos": [
+            "43111",
+            "43116"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Sukabumi&jobs=Cikole",
+            "jumlah": "6"
+        },
+        "pulau": null,
+        "kode": "32.72.02"
+    },
+    {
+        "no": "4",
+        "name": "Citamiang",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Sukabumi&jobs=Citamiang",
+        "kodepos": [
+            "43141",
+            "43145"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Sukabumi&jobs=Citamiang",
+            "jumlah": "5"
+        },
+        "pulau": null,
+        "kode": "32.72.03"
+    },
+    {
+        "no": "5",
+        "name": "Gunungpuyuh (Gunung Puyuh)",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Sukabumi&jobs=Gunungpuyuh%20(Gunung%20Puyuh)",
+        "kodepos": [
+            "43121",
+            "43123"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Sukabumi&jobs=Gunungpuyuh%20(Gunung%20Puyuh)",
+            "jumlah": "4"
+        },
+        "pulau": null,
+        "kode": "32.72.01"
+    },
+    {
+        "no": "6",
+        "name": "Lembursitu",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Sukabumi&jobs=Lembursitu",
+        "kodepos": [
+            "43134",
+            "43169"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Sukabumi&jobs=Lembursitu",
+            "jumlah": "5"
+        },
+        "pulau": null,
+        "kode": "32.72.06"
+    },
+    {
+        "no": "7",
+        "name": "Warudoyong",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Sukabumi&jobs=Warudoyong",
+        "kodepos": [
+            "43131",
+            "43135"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Sukabumi&jobs=Warudoyong",
+            "jumlah": "5"
+        },
+        "pulau": null,
+        "kode": "32.72.04"
+    }
+]

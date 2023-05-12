@@ -6,6 +6,7 @@
   "author": "DavidArl",
   "scripts": {
     "scrape": "node src/index.js",
+    "build": "node src/build.js",
     "validate": "node src/validation.js"
   },
   "license": "MIT",

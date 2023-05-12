@@ -1,0 +1,201 @@
+[
+    {
+        "no": "1",
+        "name": "Bantimurung",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Maros&jobs=Bantimurung",
+        "kodepos": [
+            "90561"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Maros&jobs=Bantimurung",
+            "jumlah": "8"
+        },
+        "pulau": null,
+        "kode": "73.09.03"
+    },
+    {
+        "no": "2",
+        "name": "Bontoa (Maros Utara)",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Maros&jobs=Bontoa%20(Maros%20Utara)",
+        "kodepos": [
+            "90554"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Maros&jobs=Bontoa%20(Maros%20Utara)",
+            "jumlah": "9"
+        },
+        "pulau": null,
+        "kode": "73.09.05"
+    },
+    {
+        "no": "3",
+        "name": "Camba",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Maros&jobs=Camba",
+        "kodepos": [
+            "90562"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Maros&jobs=Camba",
+            "jumlah": "8"
+        },
+        "pulau": null,
+        "kode": "73.09.02"
+    },
+    {
+        "no": "4",
+        "name": "Cenrana",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Maros&jobs=Cenrana",
+        "kodepos": [
+            "90524"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Maros&jobs=Cenrana",
+            "jumlah": "7"
+        },
+        "pulau": null,
+        "kode": "73.09.10"
+    },
+    {
+        "no": "5",
+        "name": "Lau",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Maros&jobs=Lau",
+        "kodepos": [
+            "90513",
+            "90514"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Maros&jobs=Lau",
+            "jumlah": "6"
+        },
+        "pulau": null,
+        "kode": "73.09.12"
+    },
+    {
+        "no": "6",
+        "name": "Malllawa (Mallawa)",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Maros&jobs=Malllawa%20(Mallawa)",
+        "kodepos": [
+            "90563"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Maros&jobs=Malllawa%20(Mallawa)",
+            "jumlah": "11"
+        },
+        "pulau": null,
+        "kode": "73.09.06"
+    },
+    {
+        "no": "7",
+        "name": "Mandai",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Maros&jobs=Mandai",
+        "kodepos": [
+            "90552"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Maros&jobs=Mandai",
+            "jumlah": "6"
+        },
+        "pulau": null,
+        "kode": "73.09.01"
+    },
+    {
+        "no": "8",
+        "name": "Maros Baru",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Maros&jobs=Maros%20Baru",
+        "kodepos": [
+            "90511",
+            "90516"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Maros&jobs=Maros%20Baru",
+            "jumlah": "7"
+        },
+        "pulau": null,
+        "kode": "73.09.04"
+    },
+    {
+        "no": "9",
+        "name": "Marusu",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Maros&jobs=Marusu",
+        "kodepos": [
+            "90551"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Maros&jobs=Marusu",
+            "jumlah": "7"
+        },
+        "pulau": null,
+        "kode": "73.09.08"
+    },
+    {
+        "no": "10",
+        "name": "Moncong Loe (Moncongloe)",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Maros&jobs=Moncong%20Loe%20(Moncongloe)",
+        "kodepos": [
+            "90564"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Maros&jobs=Moncong%20Loe%20(Moncongloe)",
+            "jumlah": "5"
+        },
+        "pulau": null,
+        "kode": "73.09.13"
+    },
+    {
+        "no": "11",
+        "name": "Simbang",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Maros&jobs=Simbang",
+        "kodepos": [
+            "90560"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Maros&jobs=Simbang",
+            "jumlah": "6"
+        },
+        "pulau": null,
+        "kode": "73.09.09"
+    },
+    {
+        "no": "12",
+        "name": "Tanralili",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Maros&jobs=Tanralili",
+        "kodepos": [
+            "90553"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Maros&jobs=Tanralili",
+            "jumlah": "8"
+        },
+        "pulau": null,
+        "kode": "73.09.07"
+    },
+    {
+        "no": "13",
+        "name": "Tompobulu (Tompu Bulu)",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Maros&jobs=Tompobulu%20(Tompu%20Bulu)",
+        "kodepos": [
+            "90565"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Maros&jobs=Tompobulu%20(Tompu%20Bulu)",
+            "jumlah": "8"
+        },
+        "pulau": null,
+        "kode": "73.09.11"
+    },
+    {
+        "no": "14",
+        "name": "Turikale",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Maros&jobs=Turikale",
+        "kodepos": [
+            "90511",
+            "90516"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Maros&jobs=Turikale",
+            "jumlah": "7"
+        },
+        "pulau": null,
+        "kode": "73.09.14"
+    }
+]

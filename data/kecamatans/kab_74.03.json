@@ -1,0 +1,332 @@
+[
+    {
+        "no": "1",
+        "name": "Batalaiwaru (Batalaiworu)",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Muna&jobs=Batalaiwaru%20(Batalaiworu)",
+        "kodepos": [
+            "93614"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Muna&jobs=Batalaiwaru%20(Batalaiworu)",
+            "jumlah": "4"
+        },
+        "pulau": null,
+        "kode": "74.03.15"
+    },
+    {
+        "no": "2",
+        "name": "Batukara",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Muna&jobs=Batukara",
+        "kodepos": [
+            "93682"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Muna&jobs=Batukara",
+            "jumlah": "4"
+        },
+        "pulau": null,
+        "kode": "74.03.34"
+    },
+    {
+        "no": "3",
+        "name": "Bone (Bone Tondo)",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Muna&jobs=Bone%20(Bone%20Tondo)",
+        "kodepos": [
+            "93663"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Muna&jobs=Bone%20(Bone%20Tondo)",
+            "jumlah": "5"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Muna&jobs=Bone%20(Bone%20Tondo)",
+            "jumlah": "1"
+        },
+        "kode": "74.03.26"
+    },
+    {
+        "no": "4",
+        "name": "Duruka",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Muna&jobs=Duruka",
+        "kodepos": [
+            "93618"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Muna&jobs=Duruka",
+            "jumlah": "7"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Muna&jobs=Duruka",
+            "jumlah": "2"
+        },
+        "kode": "74.03.17"
+    },
+    {
+        "no": "5",
+        "name": "Kabangka",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Muna&jobs=Kabangka",
+        "kodepos": [
+            "93664"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Muna&jobs=Kabangka",
+            "jumlah": "9"
+        },
+        "pulau": null,
+        "kode": "74.03.23"
+    },
+    {
+        "no": "6",
+        "name": "Kabawo",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Muna&jobs=Kabawo",
+        "kodepos": [
+            "93661"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Muna&jobs=Kabawo",
+            "jumlah": "11"
+        },
+        "pulau": null,
+        "kode": "74.03.24"
+    },
+    {
+        "no": "7",
+        "name": "Katobu",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Muna&jobs=Katobu",
+        "kodepos": [
+            "93611",
+            "93616"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Muna&jobs=Katobu",
+            "jumlah": "8"
+        },
+        "pulau": null,
+        "kode": "74.03.16"
+    },
+    {
+        "no": "8",
+        "name": "Kontu Kowuna",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Muna&jobs=Kontu%20Kowuna",
+        "kodepos": [
+            "93660"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Muna&jobs=Kontu%20Kowuna",
+            "jumlah": "6"
+        },
+        "pulau": null,
+        "kode": "74.03.30"
+    },
+    {
+        "no": "9",
+        "name": "Kontunaga",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Muna&jobs=Kontunaga",
+        "kodepos": [
+            "93625"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Muna&jobs=Kontunaga",
+            "jumlah": "6"
+        },
+        "pulau": null,
+        "kode": "74.03.20"
+    },
+    {
+        "no": "10",
+        "name": "Lasalepa",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Muna&jobs=Lasalepa",
+        "kodepos": [
+            "93621"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Muna&jobs=Lasalepa",
+            "jumlah": "7"
+        },
+        "pulau": null,
+        "kode": "74.03.14"
+    },
+    {
+        "no": "11",
+        "name": "Lohia",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Muna&jobs=Lohia",
+        "kodepos": [
+            "93626"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Muna&jobs=Lohia",
+            "jumlah": "9"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Muna&jobs=Lohia",
+            "jumlah": "79"
+        },
+        "kode": "74.03.18"
+    },
+    {
+        "no": "12",
+        "name": "Maligano",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Muna&jobs=Maligano",
+        "kodepos": [
+            "93683"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Muna&jobs=Maligano",
+            "jumlah": "6"
+        },
+        "pulau": null,
+        "kode": "74.03.07"
+    },
+    {
+        "no": "13",
+        "name": "Marobo",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Muna&jobs=Marobo",
+        "kodepos": [
+            "93666"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Muna&jobs=Marobo",
+            "jumlah": "5"
+        },
+        "pulau": null,
+        "kode": "74.03.31"
+    },
+    {
+        "no": "14",
+        "name": "Napabalano",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Muna&jobs=Napabalano",
+        "kodepos": [
+            "93622"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Muna&jobs=Napabalano",
+            "jumlah": "6"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Muna&jobs=Napabalano",
+            "jumlah": "6"
+        },
+        "kode": "74.03.06"
+    },
+    {
+        "no": "15",
+        "name": "Parigi",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Muna&jobs=Parigi",
+        "kodepos": [
+            "93667"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Muna&jobs=Parigi",
+            "jumlah": "11"
+        },
+        "pulau": null,
+        "kode": "74.03.25"
+    },
+    {
+        "no": "16",
+        "name": "Pasi Kolaga",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Muna&jobs=Pasi%20Kolaga",
+        "kodepos": [
+            "93684"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Muna&jobs=Pasi%20Kolaga",
+            "jumlah": "4"
+        },
+        "pulau": null,
+        "kode": "74.03.33"
+    },
+    {
+        "no": "17",
+        "name": "Pasir Putih",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Muna&jobs=Pasir%20Putih",
+        "kodepos": [
+            "93685"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Muna&jobs=Pasir%20Putih",
+            "jumlah": "6"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Muna&jobs=Pasir%20Putih",
+            "jumlah": "3"
+        },
+        "kode": "74.03.28"
+    },
+    {
+        "no": "18",
+        "name": "Tongkuno",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Muna&jobs=Tongkuno",
+        "kodepos": [
+            "93662"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Muna&jobs=Tongkuno",
+            "jumlah": "12"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Muna&jobs=Tongkuno",
+            "jumlah": "36"
+        },
+        "kode": "74.03.27"
+    },
+    {
+        "no": "19",
+        "name": "Tongkuno Selatan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Muna&jobs=Tongkuno%20Selatan",
+        "kodepos": [
+            "93665"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Muna&jobs=Tongkuno%20Selatan",
+            "jumlah": "6"
+        },
+        "pulau": null,
+        "kode": "74.03.32"
+    },
+    {
+        "no": "20",
+        "name": "Towea",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Muna&jobs=Towea",
+        "kodepos": [
+            "93623"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Muna&jobs=Towea",
+            "jumlah": "5"
+        },
+        "pulau": null,
+        "kode": "74.03.37"
+    },
+    {
+        "no": "21",
+        "name": "Wakorumba Selatan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Muna&jobs=Wakorumba%20Selatan",
+        "kodepos": [
+            "93681"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Muna&jobs=Wakorumba%20Selatan",
+            "jumlah": "5"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Muna&jobs=Wakorumba%20Selatan",
+            "jumlah": "1"
+        },
+        "kode": "74.03.13"
+    },
+    {
+        "no": "22",
+        "name": "Watopute",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Muna&jobs=Watopute",
+        "kodepos": [
+            "93624"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Muna&jobs=Watopute",
+            "jumlah": "8"
+        },
+        "pulau": null,
+        "kode": "74.03.19"
+    }
+]

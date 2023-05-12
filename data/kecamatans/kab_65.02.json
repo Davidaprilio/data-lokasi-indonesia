@@ -1,0 +1,212 @@
+[
+    {
+        "no": "1",
+        "name": "Bahau Hulu",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Malinau&jobs=Bahau%20Hulu",
+        "kodepos": [
+            "77562"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Malinau&jobs=Bahau%20Hulu",
+            "jumlah": "6"
+        },
+        "pulau": null,
+        "kode": "65.02.11"
+    },
+    {
+        "no": "2",
+        "name": "Kayan Hilir",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Malinau&jobs=Kayan%20Hilir",
+        "kodepos": [
+            "77571"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Malinau&jobs=Kayan%20Hilir",
+            "jumlah": "5"
+        },
+        "pulau": null,
+        "kode": "65.02.04"
+    },
+    {
+        "no": "3",
+        "name": "Kayan Hulu",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Malinau&jobs=Kayan%20Hulu",
+        "kodepos": [
+            "77572"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Malinau&jobs=Kayan%20Hulu",
+            "jumlah": "5"
+        },
+        "pulau": null,
+        "kode": "65.02.05"
+    },
+    {
+        "no": "4",
+        "name": "Kayan Selatan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Malinau&jobs=Kayan%20Selatan",
+        "kodepos": [
+            "77573"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Malinau&jobs=Kayan%20Selatan",
+            "jumlah": "5"
+        },
+        "pulau": null,
+        "kode": "65.02.10"
+    },
+    {
+        "no": "5",
+        "name": "Malinau Barat",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Malinau&jobs=Malinau%20Barat",
+        "kodepos": [
+            "77554"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Malinau&jobs=Malinau%20Barat",
+            "jumlah": "9"
+        },
+        "pulau": null,
+        "kode": "65.02.08"
+    },
+    {
+        "no": "6",
+        "name": "Malinau Kota",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Malinau&jobs=Malinau%20Kota",
+        "kodepos": [
+            "77550"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Malinau&jobs=Malinau%20Kota",
+            "jumlah": "6"
+        },
+        "pulau": null,
+        "kode": "65.02.02"
+    },
+    {
+        "no": "7",
+        "name": "Malinau Selatan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Malinau&jobs=Malinau%20Selatan",
+        "kodepos": [
+            "77551"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Malinau&jobs=Malinau%20Selatan",
+            "jumlah": "9"
+        },
+        "pulau": null,
+        "kode": "65.02.06"
+    },
+    {
+        "no": "8",
+        "name": "Malinau Selatan Hilir",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Malinau&jobs=Malinau%20Selatan%20Hilir",
+        "kodepos": [
+            "77552"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Malinau&jobs=Malinau%20Selatan%20Hilir",
+            "jumlah": "8"
+        },
+        "pulau": null,
+        "kode": "65.02.13"
+    },
+    {
+        "no": "9",
+        "name": "Malinau Selatan Hulu",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Malinau&jobs=Malinau%20Selatan%20Hulu",
+        "kodepos": [
+            "77553"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Malinau&jobs=Malinau%20Selatan%20Hulu",
+            "jumlah": "8"
+        },
+        "pulau": null,
+        "kode": "65.02.14"
+    },
+    {
+        "no": "10",
+        "name": "Malinau Utara",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Malinau&jobs=Malinau%20Utara",
+        "kodepos": [
+            "77557"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Malinau&jobs=Malinau%20Utara",
+            "jumlah": "12"
+        },
+        "pulau": null,
+        "kode": "65.02.07"
+    },
+    {
+        "no": "11",
+        "name": "Mentarang",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Malinau&jobs=Mentarang",
+        "kodepos": [
+            "77555"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Malinau&jobs=Mentarang",
+            "jumlah": "9"
+        },
+        "pulau": null,
+        "kode": "65.02.01"
+    },
+    {
+        "no": "12",
+        "name": "Mentarang Hulu",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Malinau&jobs=Mentarang%20Hulu",
+        "kodepos": [
+            "77155"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Malinau&jobs=Mentarang%20Hulu",
+            "jumlah": "7"
+        },
+        "pulau": null,
+        "kode": "65.02.12"
+    },
+    {
+        "no": "13",
+        "name": "Pujungan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Malinau&jobs=Pujungan",
+        "kodepos": [
+            "77563"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Malinau&jobs=Pujungan",
+            "jumlah": "9"
+        },
+        "pulau": null,
+        "kode": "65.02.03"
+    },
+    {
+        "no": "14",
+        "name": "Sungai Boh",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Malinau&jobs=Sungai%20Boh",
+        "kodepos": [
+            "77574"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Malinau&jobs=Sungai%20Boh",
+            "jumlah": "6"
+        },
+        "pulau": null,
+        "kode": "65.02.09"
+    },
+    {
+        "no": "15",
+        "name": "Sungai Tubu",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Malinau&jobs=Sungai%20Tubu",
+        "kodepos": [
+            "77556"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Malinau&jobs=Sungai%20Tubu",
+            "jumlah": "5"
+        },
+        "pulau": null,
+        "kode": "65.02.15"
+    }
+]

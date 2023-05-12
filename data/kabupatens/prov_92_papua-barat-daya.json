@@ -1,0 +1,137 @@
+[
+    {
+        "no": "1",
+        "type": "Kabupaten",
+        "name": "Maybrat",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Maybrat",
+        "kodepos": [
+            "98240",
+            "98277"
+        ],
+        "kecamatan": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Maybrat",
+            "jumlah": "24"
+        },
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kab.&jobs=Maybrat",
+            "jumlah": "260"
+        },
+        "pulau": null,
+        "kode": "92.10"
+    },
+    {
+        "no": "2",
+        "type": "Kabupaten",
+        "name": "Raja Ampat",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Raja%20Ampat",
+        "kodepos": [
+            "98461",
+            "98495"
+        ],
+        "kecamatan": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Raja%20Ampat",
+            "jumlah": "24"
+        },
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kab.&jobs=Raja%20Ampat",
+            "jumlah": "121"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kab.&jobs=Raja%20Ampat",
+            "jumlah": "2.834"
+        },
+        "kode": "92.05"
+    },
+    {
+        "no": "3",
+        "type": "Kabupaten",
+        "name": "Sorong",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Sorong",
+        "kodepos": [
+            "98421",
+            "98459"
+        ],
+        "kecamatan": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Sorong",
+            "jumlah": "30"
+        },
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kab.&jobs=Sorong",
+            "jumlah": "253"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kab.&jobs=Sorong",
+            "jumlah": "115"
+        },
+        "kode": "92.01"
+    },
+    {
+        "no": "4",
+        "type": "Kota",
+        "name": "Sorong",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kota&jobs=Sorong",
+        "kodepos": [
+            "98410",
+            "98419"
+        ],
+        "kecamatan": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kota&jobs=Sorong",
+            "jumlah": "10"
+        },
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kota&jobs=Sorong",
+            "jumlah": "41"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kota&jobs=Sorong",
+            "jumlah": "25"
+        },
+        "kode": "92.71"
+    },
+    {
+        "no": "5",
+        "type": "Kabupaten",
+        "name": "Sorong Selatan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Sorong%20Selatan",
+        "kodepos": [
+            "98211",
+            "98233"
+        ],
+        "kecamatan": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Sorong%20Selatan",
+            "jumlah": "15"
+        },
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kab.&jobs=Sorong%20Selatan",
+            "jumlah": "122"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kab.&jobs=Sorong%20Selatan",
+            "jumlah": "6"
+        },
+        "kode": "92.04"
+    },
+    {
+        "no": "6",
+        "type": "Kabupaten",
+        "name": "Tambrauw",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Tambrauw",
+        "kodepos": [
+            "98361",
+            "98396"
+        ],
+        "kecamatan": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Tambrauw",
+            "jumlah": "29"
+        },
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kab.&jobs=Tambrauw",
+            "jumlah": "216"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kab.&jobs=Tambrauw",
+            "jumlah": "2"
+        },
+        "kode": "92.09"
+    }
+]

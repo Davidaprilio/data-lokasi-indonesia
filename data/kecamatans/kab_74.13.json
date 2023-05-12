@@ -1,0 +1,156 @@
+[
+    {
+        "no": "1",
+        "name": "Barangka",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Muna%20Barat&jobs=Barangka",
+        "kodepos": [
+            "93650"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Muna%20Barat&jobs=Barangka",
+            "jumlah": "8"
+        },
+        "pulau": null,
+        "kode": "74.13.02"
+    },
+    {
+        "no": "2",
+        "name": "Kusambi",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Muna%20Barat&jobs=Kusambi",
+        "kodepos": [
+            "93655"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Muna%20Barat&jobs=Kusambi",
+            "jumlah": "10"
+        },
+        "pulau": null,
+        "kode": "74.13.10"
+    },
+    {
+        "no": "3",
+        "name": "Lawa",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Muna%20Barat&jobs=Lawa",
+        "kodepos": [
+            "93651"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Muna%20Barat&jobs=Lawa",
+            "jumlah": "8"
+        },
+        "pulau": null,
+        "kode": "74.13.03"
+    },
+    {
+        "no": "4",
+        "name": "Maginti",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Muna%20Barat&jobs=Maginti",
+        "kodepos": [
+            "93643"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Muna%20Barat&jobs=Maginti",
+            "jumlah": "8"
+        },
+        "pulau": null,
+        "kode": "74.13.06"
+    },
+    {
+        "no": "5",
+        "name": "Napano Kusambi",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Muna%20Barat&jobs=Napano%20Kusambi",
+        "kodepos": [
+            "93658"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Muna%20Barat&jobs=Napano%20Kusambi",
+            "jumlah": "6"
+        },
+        "pulau": null,
+        "kode": "74.13.11"
+    },
+    {
+        "no": "6",
+        "name": "Sawerigadi",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Muna%20Barat&jobs=Sawerigadi",
+        "kodepos": [
+            "93657"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Muna%20Barat&jobs=Sawerigadi",
+            "jumlah": "10"
+        },
+        "pulau": null,
+        "kode": "74.13.01"
+    },
+    {
+        "no": "7",
+        "name": "Tiworo Kepulauan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Muna%20Barat&jobs=Tiworo%20Kepulauan",
+        "kodepos": [
+            "93653"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Muna%20Barat&jobs=Tiworo%20Kepulauan",
+            "jumlah": "9"
+        },
+        "pulau": null,
+        "kode": "74.13.09"
+    },
+    {
+        "no": "8",
+        "name": "Tiworo Selatan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Muna%20Barat&jobs=Tiworo%20Selatan",
+        "kodepos": [
+            "93644"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Muna%20Barat&jobs=Tiworo%20Selatan",
+            "jumlah": "5"
+        },
+        "pulau": null,
+        "kode": "74.13.05"
+    },
+    {
+        "no": "9",
+        "name": "Tiworo Tengah",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Muna%20Barat&jobs=Tiworo%20Tengah",
+        "kodepos": [
+            "93654"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Muna%20Barat&jobs=Tiworo%20Tengah",
+            "jumlah": "8"
+        },
+        "pulau": null,
+        "kode": "74.13.07"
+    },
+    {
+        "no": "10",
+        "name": "Tiworo Utara",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Muna%20Barat&jobs=Tiworo%20Utara",
+        "kodepos": [
+            "93656"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Muna%20Barat&jobs=Tiworo%20Utara",
+            "jumlah": "7"
+        },
+        "pulau": null,
+        "kode": "74.13.08"
+    },
+    {
+        "no": "11",
+        "name": "Wadaga",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Muna%20Barat&jobs=Wadaga",
+        "kodepos": [
+            "93652"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Muna%20Barat&jobs=Wadaga",
+            "jumlah": "7"
+        },
+        "pulau": null,
+        "kode": "74.13.04"
+    }
+]

@@ -1,0 +1,151 @@
+[
+    {
+        "no": "1",
+        "name": "Batu Engau",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Paser&jobs=Batu%20Engau",
+        "kodepos": [
+            "76261"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Paser&jobs=Batu%20Engau",
+            "jumlah": "13"
+        },
+        "pulau": null,
+        "kode": "64.01.09"
+    },
+    {
+        "no": "2",
+        "name": "Batu Sopang",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Paser&jobs=Batu%20Sopang",
+        "kodepos": [
+            "76252"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Paser&jobs=Batu%20Sopang",
+            "jumlah": "9"
+        },
+        "pulau": null,
+        "kode": "64.01.01"
+    },
+    {
+        "no": "3",
+        "name": "Kuaro",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Paser&jobs=Kuaro",
+        "kodepos": [
+            "76281"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Paser&jobs=Kuaro",
+            "jumlah": "13"
+        },
+        "pulau": null,
+        "kode": "64.01.05"
+    },
+    {
+        "no": "4",
+        "name": "Long Ikis",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Paser&jobs=Long%20Ikis",
+        "kodepos": [
+            "76282"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Paser&jobs=Long%20Ikis",
+            "jumlah": "26"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Paser&jobs=Long%20Ikis",
+            "jumlah": "1"
+        },
+        "kode": "64.01.06"
+    },
+    {
+        "no": "5",
+        "name": "Long Kali",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Paser&jobs=Long%20Kali",
+        "kodepos": [
+            "76283"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Paser&jobs=Long%20Kali",
+            "jumlah": "23"
+        },
+        "pulau": null,
+        "kode": "64.01.08"
+    },
+    {
+        "no": "6",
+        "name": "Muara Komam",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Paser&jobs=Muara%20Komam",
+        "kodepos": [
+            "76253"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Paser&jobs=Muara%20Komam",
+            "jumlah": "13"
+        },
+        "pulau": null,
+        "kode": "64.01.07"
+    },
+    {
+        "no": "7",
+        "name": "Muara Samu",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Paser&jobs=Muara%20Samu",
+        "kodepos": [
+            "76250"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Paser&jobs=Muara%20Samu",
+            "jumlah": "9"
+        },
+        "pulau": null,
+        "kode": "64.01.10"
+    },
+    {
+        "no": "8",
+        "name": "Paser Belengkong (Pasir Belengkong)",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Paser&jobs=Paser%20Belengkong%20(Pasir%20Belengkong)",
+        "kodepos": [
+            "76271"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Paser&jobs=Paser%20Belengkong%20(Pasir%20Belengkong)",
+            "jumlah": "15"
+        },
+        "pulau": null,
+        "kode": "64.01.03"
+    },
+    {
+        "no": "9",
+        "name": "Tanah Grogot",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Paser&jobs=Tanah%20Grogot",
+        "kodepos": [
+            "76251"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Paser&jobs=Tanah%20Grogot",
+            "jumlah": "16"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Paser&jobs=Tanah%20Grogot",
+            "jumlah": "2"
+        },
+        "kode": "64.01.04"
+    },
+    {
+        "no": "10",
+        "name": "Tanjung Harapan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Paser&jobs=Tanjung%20Harapan",
+        "kodepos": [
+            "76260"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Paser&jobs=Tanjung%20Harapan",
+            "jumlah": "7"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Paser&jobs=Tanjung%20Harapan",
+            "jumlah": "3"
+        },
+        "kode": "64.01.02"
+    }
+]

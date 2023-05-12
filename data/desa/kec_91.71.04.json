@@ -1,0 +1,58 @@
+[
+    {
+        "no": "1",
+        "kodepos": "99311",
+        "name": "Holtekamp",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Muara%20Tami-Kota-Jayapura&jobs=Holtekamp",
+        "kode": "91.71.04.2006"
+    },
+    {
+        "no": "2",
+        "kodepos": "99312",
+        "name": "Koya Barat",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Muara%20Tami-Kota-Jayapura&jobs=Koya%20Barat",
+        "kode": "91.71.04.1004"
+    },
+    {
+        "no": "3",
+        "kodepos": "99313",
+        "name": "Koya Tengah",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Muara%20Tami-Kota-Jayapura&jobs=Koya%20Tengah",
+        "kode": "91.71.04.2007"
+    },
+    {
+        "no": "4",
+        "kodepos": "99314",
+        "name": "Koya Timur",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Muara%20Tami-Kota-Jayapura&jobs=Koya%20Timur",
+        "kode": "91.71.04.1005"
+    },
+    {
+        "no": "5",
+        "kodepos": "99318",
+        "name": "Mosso",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Muara%20Tami-Kota-Jayapura&jobs=Mosso",
+        "kode": "91.71.04.2008"
+    },
+    {
+        "no": "6",
+        "kodepos": "99316",
+        "name": "Skow Mabo (Skouw Mabo )",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Muara%20Tami-Kota-Jayapura&jobs=Skow%20Mabo%20(Skouw%20Mabo%20)",
+        "kode": "91.71.04.2001"
+    },
+    {
+        "no": "7",
+        "kodepos": "99317",
+        "name": "Skow Sae (Skouw Sae)",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Muara%20Tami-Kota-Jayapura&jobs=Skow%20Sae%20(Skouw%20Sae)",
+        "kode": "91.71.04.2003"
+    },
+    {
+        "no": "8",
+        "kodepos": "99315",
+        "name": "Skow Yambe (Skouw Yambe)",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Muara%20Tami-Kota-Jayapura&jobs=Skow%20Yambe%20(Skouw%20Yambe)",
+        "kode": "91.71.04.2002"
+    }
+]

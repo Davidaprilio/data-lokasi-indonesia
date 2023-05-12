@@ -1,0 +1,170 @@
+[
+    {
+        "no": "1",
+        "name": "Bunaken",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Manado&jobs=Bunaken",
+        "kodepos": [
+            "95231",
+            "95249"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Manado&jobs=Bunaken",
+            "jumlah": "5"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kota-Manado&jobs=Bunaken",
+            "jumlah": "3"
+        },
+        "kode": "71.71.01"
+    },
+    {
+        "no": "2",
+        "name": "Bunaken Kepulauan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Manado&jobs=Bunaken%20Kepulauan",
+        "kodepos": [
+            "95231",
+            "95246"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Manado&jobs=Bunaken%20Kepulauan",
+            "jumlah": "4"
+        },
+        "pulau": null,
+        "kode": "71.71.10"
+    },
+    {
+        "no": "3",
+        "name": "Malalayang",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Manado&jobs=Malalayang",
+        "kodepos": [
+            "95115",
+            "95163"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Manado&jobs=Malalayang",
+            "jumlah": "9"
+        },
+        "pulau": null,
+        "kode": "71.71.09"
+    },
+    {
+        "no": "4",
+        "name": "Mapanget",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Manado&jobs=Mapanget",
+        "kodepos": [
+            "95249",
+            "95259"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Manado&jobs=Mapanget",
+            "jumlah": "10"
+        },
+        "pulau": null,
+        "kode": "71.71.08"
+    },
+    {
+        "no": "5",
+        "name": "Paal Dua",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Manado&jobs=Paal%20Dua",
+        "kodepos": [
+            "95127",
+            "95129"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Manado&jobs=Paal%20Dua",
+            "jumlah": "7"
+        },
+        "pulau": null,
+        "kode": "71.71.11"
+    },
+    {
+        "no": "6",
+        "name": "Sario",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Manado&jobs=Sario",
+        "kodepos": [
+            "95113",
+            "95116"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Manado&jobs=Sario",
+            "jumlah": "7"
+        },
+        "pulau": null,
+        "kode": "71.71.06"
+    },
+    {
+        "no": "7",
+        "name": "Singkil",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Manado&jobs=Singkil",
+        "kodepos": [
+            "95231",
+            "95234"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Manado&jobs=Singkil",
+            "jumlah": "9"
+        },
+        "pulau": null,
+        "kode": "71.71.03"
+    },
+    {
+        "no": "8",
+        "name": "Tikala",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Manado&jobs=Tikala",
+        "kodepos": [
+            "95124",
+            "95129"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Manado&jobs=Tikala",
+            "jumlah": "5"
+        },
+        "pulau": null,
+        "kode": "71.71.05"
+    },
+    {
+        "no": "9",
+        "name": "Tuminiting",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Manado&jobs=Tuminiting",
+        "kodepos": [
+            "95238",
+            "95239"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Manado&jobs=Tuminiting",
+            "jumlah": "10"
+        },
+        "pulau": null,
+        "kode": "71.71.02"
+    },
+    {
+        "no": "10",
+        "name": "Wanea",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Manado&jobs=Wanea",
+        "kodepos": [
+            "95117",
+            "95119"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Manado&jobs=Wanea",
+            "jumlah": "9"
+        },
+        "pulau": null,
+        "kode": "71.71.07"
+    },
+    {
+        "no": "11",
+        "name": "Wenang",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Manado&jobs=Wenang",
+        "kodepos": [
+            "95111",
+            "95124"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Manado&jobs=Wenang",
+            "jumlah": "12"
+        },
+        "pulau": null,
+        "kode": "71.71.04"
+    }
+]

@@ -1,0 +1,205 @@
+[
+    {
+        "no": "1",
+        "name": "Bulu",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Rembang&jobs=Bulu",
+        "kodepos": [
+            "59255"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Rembang&jobs=Bulu",
+            "jumlah": "16"
+        },
+        "pulau": null,
+        "kode": "33.17.02"
+    },
+    {
+        "no": "2",
+        "name": "Gunem",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Rembang&jobs=Gunem",
+        "kodepos": [
+            "59263"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Rembang&jobs=Gunem",
+            "jumlah": "16"
+        },
+        "pulau": null,
+        "kode": "33.17.03"
+    },
+    {
+        "no": "3",
+        "name": "Kaliori",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Rembang&jobs=Kaliori",
+        "kodepos": [
+            "59252"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Rembang&jobs=Kaliori",
+            "jumlah": "23"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Rembang&jobs=Kaliori",
+            "jumlah": "2"
+        },
+        "kode": "33.17.09"
+    },
+    {
+        "no": "4",
+        "name": "Kragan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Rembang&jobs=Kragan",
+        "kodepos": [
+            "59273"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Rembang&jobs=Kragan",
+            "jumlah": "27"
+        },
+        "pulau": null,
+        "kode": "33.17.12"
+    },
+    {
+        "no": "5",
+        "name": "Lasem",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Rembang&jobs=Lasem",
+        "kodepos": [
+            "59271"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Rembang&jobs=Lasem",
+            "jumlah": "20"
+        },
+        "pulau": null,
+        "kode": "33.17.14"
+    },
+    {
+        "no": "6",
+        "name": "Pamotan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Rembang&jobs=Pamotan",
+        "kodepos": [
+            "59261"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Rembang&jobs=Pamotan",
+            "jumlah": "23"
+        },
+        "pulau": null,
+        "kode": "33.17.07"
+    },
+    {
+        "no": "7",
+        "name": "Pancur",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Rembang&jobs=Pancur",
+        "kodepos": [
+            "59262"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Rembang&jobs=Pancur",
+            "jumlah": "23"
+        },
+        "pulau": null,
+        "kode": "33.17.11"
+    },
+    {
+        "no": "8",
+        "name": "Rembang",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Rembang&jobs=Rembang",
+        "kodepos": [
+            "59211",
+            "59219"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Rembang&jobs=Rembang",
+            "jumlah": "34"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Rembang&jobs=Rembang",
+            "jumlah": "1"
+        },
+        "kode": "33.17.10"
+    },
+    {
+        "no": "9",
+        "name": "Sale",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Rembang&jobs=Sale",
+        "kodepos": [
+            "59265"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Rembang&jobs=Sale",
+            "jumlah": "15"
+        },
+        "pulau": null,
+        "kode": "33.17.04"
+    },
+    {
+        "no": "10",
+        "name": "Sarang",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Rembang&jobs=Sarang",
+        "kodepos": [
+            "59274"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Rembang&jobs=Sarang",
+            "jumlah": "23"
+        },
+        "pulau": null,
+        "kode": "33.17.05"
+    },
+    {
+        "no": "11",
+        "name": "Sedan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Rembang&jobs=Sedan",
+        "kodepos": [
+            "59264"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Rembang&jobs=Sedan",
+            "jumlah": "21"
+        },
+        "pulau": null,
+        "kode": "33.17.06"
+    },
+    {
+        "no": "12",
+        "name": "Sluke",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Rembang&jobs=Sluke",
+        "kodepos": [
+            "59272"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Rembang&jobs=Sluke",
+            "jumlah": "14"
+        },
+        "pulau": null,
+        "kode": "33.17.13"
+    },
+    {
+        "no": "13",
+        "name": "Sulang",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Rembang&jobs=Sulang",
+        "kodepos": [
+            "59254"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Rembang&jobs=Sulang",
+            "jumlah": "21"
+        },
+        "pulau": null,
+        "kode": "33.17.08"
+    },
+    {
+        "no": "14",
+        "name": "Sumber",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Rembang&jobs=Sumber",
+        "kodepos": [
+            "59253"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Rembang&jobs=Sumber",
+            "jumlah": "18"
+        },
+        "pulau": null,
+        "kode": "33.17.01"
+    }
+]

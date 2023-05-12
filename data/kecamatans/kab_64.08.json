@@ -1,0 +1,262 @@
+[
+    {
+        "no": "1",
+        "name": "Batu Ampar",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kutai%20Timur&jobs=Batu%20Ampar",
+        "kodepos": [
+            "75654"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kutai%20Timur&jobs=Batu%20Ampar",
+            "jumlah": "7"
+        },
+        "pulau": null,
+        "kode": "64.08.17"
+    },
+    {
+        "no": "2",
+        "name": "Bengalon",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kutai%20Timur&jobs=Bengalon",
+        "kodepos": [
+            "75618"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kutai%20Timur&jobs=Bengalon",
+            "jumlah": "11"
+        },
+        "pulau": null,
+        "kode": "64.08.09"
+    },
+    {
+        "no": "3",
+        "name": "Busang",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kutai%20Timur&jobs=Busang",
+        "kodepos": [
+            "75556"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kutai%20Timur&jobs=Busang",
+            "jumlah": "6"
+        },
+        "pulau": null,
+        "kode": "64.08.06"
+    },
+    {
+        "no": "4",
+        "name": "Kaliorang",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kutai%20Timur&jobs=Kaliorang",
+        "kodepos": [
+            "75617"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kutai%20Timur&jobs=Kaliorang",
+            "jumlah": "7"
+        },
+        "pulau": null,
+        "kode": "64.08.10"
+    },
+    {
+        "no": "5",
+        "name": "Karangan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kutai%20Timur&jobs=Karangan",
+        "kodepos": [
+            "75684"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kutai%20Timur&jobs=Karangan",
+            "jumlah": "7"
+        },
+        "pulau": null,
+        "kode": "64.08.16"
+    },
+    {
+        "no": "6",
+        "name": "Kaubun",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kutai%20Timur&jobs=Kaubun",
+        "kodepos": [
+            "75619"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kutai%20Timur&jobs=Kaubun",
+            "jumlah": "8"
+        },
+        "pulau": null,
+        "kode": "64.08.15"
+    },
+    {
+        "no": "7",
+        "name": "Kombeng (Kongbeng)",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kutai%20Timur&jobs=Kombeng%20(Kongbeng)",
+        "kodepos": [
+            "75555"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kutai%20Timur&jobs=Kombeng%20(Kongbeng)",
+            "jumlah": "7"
+        },
+        "pulau": null,
+        "kode": "64.08.08"
+    },
+    {
+        "no": "8",
+        "name": "Long Mesangat",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kutai%20Timur&jobs=Long%20Mesangat",
+        "kodepos": [
+            "75654",
+            "75656"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kutai%20Timur&jobs=Long%20Mesangat",
+            "jumlah": "7"
+        },
+        "pulau": null,
+        "kode": "64.08.18"
+    },
+    {
+        "no": "9",
+        "name": "Muara Ancalong",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kutai%20Timur&jobs=Muara%20Ancalong",
+        "kodepos": [
+            "75556",
+            "75656"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kutai%20Timur&jobs=Muara%20Ancalong",
+            "jumlah": "9"
+        },
+        "pulau": null,
+        "kode": "64.08.01"
+    },
+    {
+        "no": "10",
+        "name": "Muara Bengkal",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kutai%20Timur&jobs=Muara%20Bengkal",
+        "kodepos": [
+            "75656"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kutai%20Timur&jobs=Muara%20Bengkal",
+            "jumlah": "7"
+        },
+        "pulau": null,
+        "kode": "64.08.03"
+    },
+    {
+        "no": "11",
+        "name": "Muara Wahau",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kutai%20Timur&jobs=Muara%20Wahau",
+        "kodepos": [
+            "75655"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kutai%20Timur&jobs=Muara%20Wahau",
+            "jumlah": "10"
+        },
+        "pulau": null,
+        "kode": "64.08.02"
+    },
+    {
+        "no": "12",
+        "name": "Rantau Pulung",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kutai%20Timur&jobs=Rantau%20Pulung",
+        "kodepos": [
+            "75683"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kutai%20Timur&jobs=Rantau%20Pulung",
+            "jumlah": "9"
+        },
+        "pulau": null,
+        "kode": "64.08.14"
+    },
+    {
+        "no": "13",
+        "name": "Sandaran",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kutai%20Timur&jobs=Sandaran",
+        "kodepos": [
+            "75685"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kutai%20Timur&jobs=Sandaran",
+            "jumlah": "9"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kutai%20Timur&jobs=Sandaran",
+            "jumlah": "4"
+        },
+        "kode": "64.08.11"
+    },
+    {
+        "no": "14",
+        "name": "Sangatta Selatan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kutai%20Timur&jobs=Sangatta%20Selatan",
+        "kodepos": [
+            "75680"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kutai%20Timur&jobs=Sangatta%20Selatan",
+            "jumlah": "4"
+        },
+        "pulau": null,
+        "kode": "64.08.12"
+    },
+    {
+        "no": "15",
+        "name": "Sangatta Utara",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kutai%20Timur&jobs=Sangatta%20Utara",
+        "kodepos": [
+            "75681"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kutai%20Timur&jobs=Sangatta%20Utara",
+            "jumlah": "4"
+        },
+        "pulau": null,
+        "kode": "64.08.04"
+    },
+    {
+        "no": "16",
+        "name": "Sangkulirang",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kutai%20Timur&jobs=Sangkulirang",
+        "kodepos": [
+            "75686"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kutai%20Timur&jobs=Sangkulirang",
+            "jumlah": "15"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kutai%20Timur&jobs=Sangkulirang",
+            "jumlah": "15"
+        },
+        "kode": "64.08.05"
+    },
+    {
+        "no": "17",
+        "name": "Telen",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kutai%20Timur&jobs=Telen",
+        "kodepos": [
+            "75554"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kutai%20Timur&jobs=Telen",
+            "jumlah": "8"
+        },
+        "pulau": null,
+        "kode": "64.08.07"
+    },
+    {
+        "no": "18",
+        "name": "Teluk Pandan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kutai%20Timur&jobs=Teluk%20Pandan",
+        "kodepos": [
+            "75682"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kutai%20Timur&jobs=Teluk%20Pandan",
+            "jumlah": "6"
+        },
+        "pulau": null,
+        "kode": "64.08.13"
+    }
+]

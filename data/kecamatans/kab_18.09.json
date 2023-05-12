@@ -1,0 +1,162 @@
+[
+    {
+        "no": "1",
+        "name": "Gedong Tataan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pesawaran&jobs=Gedong%20Tataan",
+        "kodepos": [
+            "35366"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pesawaran&jobs=Gedong%20Tataan",
+            "jumlah": "19"
+        },
+        "pulau": null,
+        "kode": "18.09.01"
+    },
+    {
+        "no": "2",
+        "name": "Kedondong",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pesawaran&jobs=Kedondong",
+        "kodepos": [
+            "35368"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pesawaran&jobs=Kedondong",
+            "jumlah": "13"
+        },
+        "pulau": null,
+        "kode": "18.09.07"
+    },
+    {
+        "no": "3",
+        "name": "Marga Punduh",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pesawaran&jobs=Marga%20Punduh",
+        "kodepos": [
+            "35453"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pesawaran&jobs=Marga%20Punduh",
+            "jumlah": "10"
+        },
+        "pulau": null,
+        "kode": "18.09.08"
+    },
+    {
+        "no": "4",
+        "name": "Negeri Katon",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pesawaran&jobs=Negeri%20Katon",
+        "kodepos": [
+            "35353"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pesawaran&jobs=Negeri%20Katon",
+            "jumlah": "19"
+        },
+        "pulau": null,
+        "kode": "18.09.02"
+    },
+    {
+        "no": "5",
+        "name": "Padang Cermin",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pesawaran&jobs=Padang%20Cermin",
+        "kodepos": [
+            "35451"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pesawaran&jobs=Padang%20Cermin",
+            "jumlah": "11"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pesawaran&jobs=Padang%20Cermin",
+            "jumlah": "6"
+        },
+        "kode": "18.09.05"
+    },
+    {
+        "no": "6",
+        "name": "Punduh Pidada",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pesawaran&jobs=Punduh%20Pidada",
+        "kodepos": [
+            "35454"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pesawaran&jobs=Punduh%20Pidada",
+            "jumlah": "11"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pesawaran&jobs=Punduh%20Pidada",
+            "jumlah": "23"
+        },
+        "kode": "18.09.06"
+    },
+    {
+        "no": "7",
+        "name": "Tegineneng",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pesawaran&jobs=Tegineneng",
+        "kodepos": [
+            "35363"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pesawaran&jobs=Tegineneng",
+            "jumlah": "16"
+        },
+        "pulau": null,
+        "kode": "18.09.03"
+    },
+    {
+        "no": "8",
+        "name": "Teluk Pandan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pesawaran&jobs=Teluk%20Pandan",
+        "kodepos": [
+            "35450"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pesawaran&jobs=Teluk%20Pandan",
+            "jumlah": "10"
+        },
+        "pulau": null,
+        "kode": "18.09.10"
+    },
+    {
+        "no": "9",
+        "name": "Way Khilau",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pesawaran&jobs=Way%20Khilau",
+        "kodepos": [
+            "35369"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pesawaran&jobs=Way%20Khilau",
+            "jumlah": "9"
+        },
+        "pulau": null,
+        "kode": "18.09.09"
+    },
+    {
+        "no": "10",
+        "name": "Way Lima",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pesawaran&jobs=Way%20Lima",
+        "kodepos": [
+            "35367"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pesawaran&jobs=Way%20Lima",
+            "jumlah": "16"
+        },
+        "pulau": null,
+        "kode": "18.09.04"
+    },
+    {
+        "no": "11",
+        "name": "Way Ratai",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pesawaran&jobs=Way%20Ratai",
+        "kodepos": [
+            "35455"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pesawaran&jobs=Way%20Ratai",
+            "jumlah": "10"
+        },
+        "pulau": null,
+        "kode": "18.09.11"
+    }
+]

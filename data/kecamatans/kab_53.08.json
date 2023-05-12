@@ -1,0 +1,309 @@
+[
+    {
+        "no": "1",
+        "name": "Detukeli",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Ende&jobs=Detukeli",
+        "kodepos": [
+            "86371"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Ende&jobs=Detukeli",
+            "jumlah": "13"
+        },
+        "pulau": null,
+        "kode": "53.08.15"
+    },
+    {
+        "no": "2",
+        "name": "Detusoko",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Ende&jobs=Detusoko",
+        "kodepos": [
+            "86370"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Ende&jobs=Detusoko",
+            "jumlah": "21"
+        },
+        "pulau": null,
+        "kode": "53.08.06"
+    },
+    {
+        "no": "3",
+        "name": "Ende",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Ende&jobs=Ende",
+        "kodepos": [
+            "86319"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Ende&jobs=Ende",
+            "jumlah": "32"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Ende&jobs=Ende",
+            "jumlah": "2"
+        },
+        "kode": "53.08.03"
+    },
+    {
+        "no": "4",
+        "name": "Ende Selatan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Ende&jobs=Ende%20Selatan",
+        "kodepos": [
+            "86313",
+            "86316"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Ende&jobs=Ende%20Selatan",
+            "jumlah": "5"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Ende&jobs=Ende%20Selatan",
+            "jumlah": "1"
+        },
+        "kode": "53.08.04"
+    },
+    {
+        "no": "5",
+        "name": "Ende Tengah",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Ende&jobs=Ende%20Tengah",
+        "kodepos": [
+            "86312",
+            "86319"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Ende&jobs=Ende%20Tengah",
+            "jumlah": "4"
+        },
+        "pulau": null,
+        "kode": "53.08.19"
+    },
+    {
+        "no": "6",
+        "name": "Ende Timur",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Ende&jobs=Ende%20Timur",
+        "kodepos": [
+            "86317",
+            "86361"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Ende&jobs=Ende%20Timur",
+            "jumlah": "6"
+        },
+        "pulau": null,
+        "kode": "53.08.20"
+    },
+    {
+        "no": "7",
+        "name": "Ende Utara",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Ende&jobs=Ende%20Utara",
+        "kodepos": [
+            "86310"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Ende&jobs=Ende%20Utara",
+            "jumlah": "10"
+        },
+        "pulau": null,
+        "kode": "53.08.18"
+    },
+    {
+        "no": "8",
+        "name": "Kelimutu",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Ende&jobs=Kelimutu",
+        "kodepos": [
+            "86318"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Ende&jobs=Kelimutu",
+            "jumlah": "9"
+        },
+        "pulau": null,
+        "kode": "53.08.14"
+    },
+    {
+        "no": "9",
+        "name": "Kota Baru",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Ende&jobs=Kota%20Baru",
+        "kodepos": [
+            "86111"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Ende&jobs=Kota%20Baru",
+            "jumlah": "13"
+        },
+        "pulau": null,
+        "kode": "53.08.13"
+    },
+    {
+        "no": "10",
+        "name": "Lepembusu Kelisoke",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Ende&jobs=Lepembusu%20Kelisoke",
+        "kodepos": [
+            "86374",
+            "86379"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Ende&jobs=Lepembusu%20Kelisoke",
+            "jumlah": "14"
+        },
+        "pulau": null,
+        "kode": "53.08.21"
+    },
+    {
+        "no": "11",
+        "name": "Lio Timur",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Ende&jobs=Lio%20Timur",
+        "kodepos": [
+            "86361"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Ende&jobs=Lio%20Timur",
+            "jumlah": "13"
+        },
+        "pulau": null,
+        "kode": "53.08.12"
+    },
+    {
+        "no": "12",
+        "name": "Maukaro",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Ende&jobs=Maukaro",
+        "kodepos": [
+            "86352"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Ende&jobs=Maukaro",
+            "jumlah": "11"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Ende&jobs=Maukaro",
+            "jumlah": "2"
+        },
+        "kode": "53.08.11"
+    },
+    {
+        "no": "13",
+        "name": "Maurole",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Ende&jobs=Maurole",
+        "kodepos": [
+            "86381"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Ende&jobs=Maurole",
+            "jumlah": "13"
+        },
+        "pulau": null,
+        "kode": "53.08.10"
+    },
+    {
+        "no": "14",
+        "name": "Nangapanda",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Ende&jobs=Nangapanda",
+        "kodepos": [
+            "86351"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Ende&jobs=Nangapanda",
+            "jumlah": "29"
+        },
+        "pulau": null,
+        "kode": "53.08.01"
+    },
+    {
+        "no": "15",
+        "name": "Ndona",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Ende&jobs=Ndona",
+        "kodepos": [
+            "86360"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Ende&jobs=Ndona",
+            "jumlah": "14"
+        },
+        "pulau": null,
+        "kode": "53.08.05"
+    },
+    {
+        "no": "16",
+        "name": "Ndona Timur",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Ende&jobs=Ndona%20Timur",
+        "kodepos": [
+            "86363"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Ende&jobs=Ndona%20Timur",
+            "jumlah": "7"
+        },
+        "pulau": null,
+        "kode": "53.08.16"
+    },
+    {
+        "no": "17",
+        "name": "Ndori",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Ende&jobs=Ndori",
+        "kodepos": [
+            "86372"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Ende&jobs=Ndori",
+            "jumlah": "10"
+        },
+        "pulau": null,
+        "kode": "53.08.17"
+    },
+    {
+        "no": "18",
+        "name": "Pulau Ende",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Ende&jobs=Pulau%20Ende",
+        "kodepos": [
+            "86362"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Ende&jobs=Pulau%20Ende",
+            "jumlah": "9"
+        },
+        "pulau": null,
+        "kode": "53.08.02"
+    },
+    {
+        "no": "19",
+        "name": "Wewaria",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Ende&jobs=Wewaria",
+        "kodepos": [
+            "86353"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Ende&jobs=Wewaria",
+            "jumlah": "22"
+        },
+        "pulau": null,
+        "kode": "53.08.07"
+    },
+    {
+        "no": "20",
+        "name": "Wolojita",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Ende&jobs=Wolojita",
+        "kodepos": [
+            "86382"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Ende&jobs=Wolojita",
+            "jumlah": "6"
+        },
+        "pulau": null,
+        "kode": "53.08.09"
+    },
+    {
+        "no": "21",
+        "name": "Wolowaru",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Ende&jobs=Wolowaru",
+        "kodepos": [
+            "86373"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Ende&jobs=Wolowaru",
+            "jumlah": "17"
+        },
+        "pulau": null,
+        "kode": "53.08.08"
+    }
+]

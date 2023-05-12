@@ -1,0 +1,85 @@
+[
+    {
+        "no": "1",
+        "name": "Bukit Batu",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Palangkaraya&jobs=Bukit%20Batu",
+        "kodepos": [
+            "73221",
+            "73226"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Palangkaraya&jobs=Bukit%20Batu",
+            "jumlah": "7"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kota-Palangkaraya&jobs=Bukit%20Batu",
+            "jumlah": "3"
+        },
+        "kode": "62.71.02"
+    },
+    {
+        "no": "2",
+        "name": "Jekan Raya",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Palangkaraya&jobs=Jekan%20Raya",
+        "kodepos": [
+            "73111",
+            "73118"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Palangkaraya&jobs=Jekan%20Raya",
+            "jumlah": "4"
+        },
+        "pulau": null,
+        "kode": "62.71.03"
+    },
+    {
+        "no": "3",
+        "name": "Pahandut",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Palangkaraya&jobs=Pahandut",
+        "kodepos": [
+            "73111"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Palangkaraya&jobs=Pahandut",
+            "jumlah": "6"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kota-Palangkaraya&jobs=Pahandut",
+            "jumlah": "1"
+        },
+        "kode": "62.71.01"
+    },
+    {
+        "no": "4",
+        "name": "Rakumpit",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Palangkaraya&jobs=Rakumpit",
+        "kodepos": [
+            "73227",
+            "73229"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Palangkaraya&jobs=Rakumpit",
+            "jumlah": "7"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kota-Palangkaraya&jobs=Rakumpit",
+            "jumlah": "1"
+        },
+        "kode": "62.71.05"
+    },
+    {
+        "no": "5",
+        "name": "Sabangau (Sebangau)",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Palangkaraya&jobs=Sabangau%20(Sebangau)",
+        "kodepos": [
+            "73113",
+            "73114"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Palangkaraya&jobs=Sabangau%20(Sebangau)",
+            "jumlah": "6"
+        },
+        "pulau": null,
+        "kode": "62.71.04"
+    }
+]

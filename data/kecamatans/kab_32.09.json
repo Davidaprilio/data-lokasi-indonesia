@@ -1,0 +1,563 @@
+[
+    {
+        "no": "1",
+        "name": "Arjawinangun",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Cirebon&jobs=Arjawinangun",
+        "kodepos": [
+            "45162"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Cirebon&jobs=Arjawinangun",
+            "jumlah": "11"
+        },
+        "pulau": null,
+        "kode": "32.09.24"
+    },
+    {
+        "no": "2",
+        "name": "Astanajapura",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Cirebon&jobs=Astanajapura",
+        "kodepos": [
+            "45181"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Cirebon&jobs=Astanajapura",
+            "jumlah": "11"
+        },
+        "pulau": null,
+        "kode": "32.09.10"
+    },
+    {
+        "no": "3",
+        "name": "Babakan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Cirebon&jobs=Babakan",
+        "kodepos": [
+            "45191"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Cirebon&jobs=Babakan",
+            "jumlah": "14"
+        },
+        "pulau": null,
+        "kode": "32.09.05"
+    },
+    {
+        "no": "4",
+        "name": "Beber",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Cirebon&jobs=Beber",
+        "kodepos": [
+            "45172"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Cirebon&jobs=Beber",
+            "jumlah": "10"
+        },
+        "pulau": null,
+        "kode": "32.09.13"
+    },
+    {
+        "no": "5",
+        "name": "Ciledug",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Cirebon&jobs=Ciledug",
+        "kodepos": [
+            "45188"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Cirebon&jobs=Ciledug",
+            "jumlah": "10"
+        },
+        "pulau": null,
+        "kode": "32.09.02"
+    },
+    {
+        "no": "6",
+        "name": "Ciwaringin",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Cirebon&jobs=Ciwaringin",
+        "kodepos": [
+            "45167"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Cirebon&jobs=Ciwaringin",
+            "jumlah": "8"
+        },
+        "pulau": null,
+        "kode": "32.09.26"
+    },
+    {
+        "no": "7",
+        "name": "Depok",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Cirebon&jobs=Depok",
+        "kodepos": [
+            "45155"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Cirebon&jobs=Depok",
+            "jumlah": "12"
+        },
+        "pulau": null,
+        "kode": "32.09.31"
+    },
+    {
+        "no": "8",
+        "name": "Dukupuntang",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Cirebon&jobs=Dukupuntang",
+        "kodepos": [
+            "45652"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Cirebon&jobs=Dukupuntang",
+            "jumlah": "13"
+        },
+        "pulau": null,
+        "kode": "32.09.16"
+    },
+    {
+        "no": "9",
+        "name": "Gebang",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Cirebon&jobs=Gebang",
+        "kodepos": [
+            "45190"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Cirebon&jobs=Gebang",
+            "jumlah": "13"
+        },
+        "pulau": null,
+        "kode": "32.09.30"
+    },
+    {
+        "no": "10",
+        "name": "Gegesik",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Cirebon&jobs=Gegesik",
+        "kodepos": [
+            "45164"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Cirebon&jobs=Gegesik",
+            "jumlah": "14"
+        },
+        "pulau": null,
+        "kode": "32.09.28"
+    },
+    {
+        "no": "11",
+        "name": "Gempol",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Cirebon&jobs=Gempol",
+        "kodepos": [
+            "45161"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Cirebon&jobs=Gempol",
+            "jumlah": "8"
+        },
+        "pulau": null,
+        "kode": "32.09.37"
+    },
+    {
+        "no": "12",
+        "name": "Greged (Greget)",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Cirebon&jobs=Greged%20(Greget)",
+        "kodepos": [
+            "45170"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Cirebon&jobs=Greged%20(Greget)",
+            "jumlah": "10"
+        },
+        "pulau": null,
+        "kode": "32.09.38"
+    },
+    {
+        "no": "13",
+        "name": "Gunung Jati (Cirebon Utara)",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Cirebon&jobs=Gunung%20Jati%20(Cirebon%20Utara)",
+        "kodepos": [
+            "45151"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Cirebon&jobs=Gunung%20Jati%20(Cirebon%20Utara)",
+            "jumlah": "13"
+        },
+        "pulau": null,
+        "kode": "32.09.21"
+    },
+    {
+        "no": "14",
+        "name": "Jamblang",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Cirebon&jobs=Jamblang",
+        "kodepos": [
+            "45156"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Cirebon&jobs=Jamblang",
+            "jumlah": "8"
+        },
+        "pulau": null,
+        "kode": "32.09.40"
+    },
+    {
+        "no": "15",
+        "name": "Kaliwedi",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Cirebon&jobs=Kaliwedi",
+        "kodepos": [
+            "45165"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Cirebon&jobs=Kaliwedi",
+            "jumlah": "9"
+        },
+        "pulau": null,
+        "kode": "32.09.29"
+    },
+    {
+        "no": "16",
+        "name": "Kapetakan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Cirebon&jobs=Kapetakan",
+        "kodepos": [
+            "45152"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Cirebon&jobs=Kapetakan",
+            "jumlah": "9"
+        },
+        "pulau": null,
+        "kode": "32.09.22"
+    },
+    {
+        "no": "17",
+        "name": "Karangsembung",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Cirebon&jobs=Karangsembung",
+        "kodepos": [
+            "45186"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Cirebon&jobs=Karangsembung",
+            "jumlah": "8"
+        },
+        "pulau": null,
+        "kode": "32.09.06"
+    },
+    {
+        "no": "18",
+        "name": "Karangwareng",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Cirebon&jobs=Karangwareng",
+        "kodepos": [
+            "45184"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Cirebon&jobs=Karangwareng",
+            "jumlah": "9"
+        },
+        "pulau": null,
+        "kode": "32.09.34"
+    },
+    {
+        "no": "19",
+        "name": "Kedawung",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Cirebon&jobs=Kedawung",
+        "kodepos": [
+            "45153"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Cirebon&jobs=Kedawung",
+            "jumlah": "8"
+        },
+        "pulau": null,
+        "kode": "32.09.20"
+    },
+    {
+        "no": "20",
+        "name": "Klangenan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Cirebon&jobs=Klangenan",
+        "kodepos": [
+            "45157"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Cirebon&jobs=Klangenan",
+            "jumlah": "9"
+        },
+        "pulau": null,
+        "kode": "32.09.23"
+    },
+    {
+        "no": "21",
+        "name": "Lemahabang",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Cirebon&jobs=Lemahabang",
+        "kodepos": [
+            "45183"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Cirebon&jobs=Lemahabang",
+            "jumlah": "13"
+        },
+        "pulau": null,
+        "kode": "32.09.07"
+    },
+    {
+        "no": "22",
+        "name": "Losari",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Cirebon&jobs=Losari",
+        "kodepos": [
+            "45192"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Cirebon&jobs=Losari",
+            "jumlah": "10"
+        },
+        "pulau": null,
+        "kode": "32.09.03"
+    },
+    {
+        "no": "23",
+        "name": "Mundu",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Cirebon&jobs=Mundu",
+        "kodepos": [
+            "45173"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Cirebon&jobs=Mundu",
+            "jumlah": "12"
+        },
+        "pulau": null,
+        "kode": "32.09.12"
+    },
+    {
+        "no": "24",
+        "name": "Pabedilan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Cirebon&jobs=Pabedilan",
+        "kodepos": [
+            "45193"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Cirebon&jobs=Pabedilan",
+            "jumlah": "13"
+        },
+        "pulau": null,
+        "kode": "32.09.04"
+    },
+    {
+        "no": "25",
+        "name": "Pabuaran",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Cirebon&jobs=Pabuaran",
+        "kodepos": [
+            "45194"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Cirebon&jobs=Pabuaran",
+            "jumlah": "7"
+        },
+        "pulau": null,
+        "kode": "32.09.33"
+    },
+    {
+        "no": "26",
+        "name": "Palimanan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Cirebon&jobs=Palimanan",
+        "kodepos": [
+            "45160"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Cirebon&jobs=Palimanan",
+            "jumlah": "12"
+        },
+        "pulau": null,
+        "kode": "32.09.17"
+    },
+    {
+        "no": "27",
+        "name": "Pangenan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Cirebon&jobs=Pangenan",
+        "kodepos": [
+            "45182"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Cirebon&jobs=Pangenan",
+            "jumlah": "9"
+        },
+        "pulau": null,
+        "kode": "32.09.11"
+    },
+    {
+        "no": "28",
+        "name": "Panguragan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Cirebon&jobs=Panguragan",
+        "kodepos": [
+            "45163"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Cirebon&jobs=Panguragan",
+            "jumlah": "9"
+        },
+        "pulau": null,
+        "kode": "32.09.25"
+    },
+    {
+        "no": "29",
+        "name": "Pasaleman",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Cirebon&jobs=Pasaleman",
+        "kodepos": [
+            "45187"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Cirebon&jobs=Pasaleman",
+            "jumlah": "7"
+        },
+        "pulau": null,
+        "kode": "32.09.32"
+    },
+    {
+        "no": "30",
+        "name": "Plered",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Cirebon&jobs=Plered",
+        "kodepos": [
+            "45154"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Cirebon&jobs=Plered",
+            "jumlah": "10"
+        },
+        "pulau": null,
+        "kode": "32.09.36"
+    },
+    {
+        "no": "31",
+        "name": "Plumbon",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Cirebon&jobs=Plumbon",
+        "kodepos": [
+            "45158"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Cirebon&jobs=Plumbon",
+            "jumlah": "15"
+        },
+        "pulau": null,
+        "kode": "32.09.18"
+    },
+    {
+        "no": "32",
+        "name": "Sedong",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Cirebon&jobs=Sedong",
+        "kodepos": [
+            "45189"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Cirebon&jobs=Sedong",
+            "jumlah": "10"
+        },
+        "pulau": null,
+        "kode": "32.09.09"
+    },
+    {
+        "no": "33",
+        "name": "Sumber",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Cirebon&jobs=Sumber",
+        "kodepos": [
+            "45611",
+            "45613"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Cirebon&jobs=Sumber",
+            "jumlah": "14"
+        },
+        "pulau": null,
+        "kode": "32.09.15"
+    },
+    {
+        "no": "34",
+        "name": "Suranenggala",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Cirebon&jobs=Suranenggala",
+        "kodepos": [
+            "45150"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Cirebon&jobs=Suranenggala",
+            "jumlah": "11"
+        },
+        "pulau": null,
+        "kode": "32.09.39"
+    },
+    {
+        "no": "35",
+        "name": "Susukan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Cirebon&jobs=Susukan",
+        "kodepos": [
+            "45166"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Cirebon&jobs=Susukan",
+            "jumlah": "12"
+        },
+        "pulau": null,
+        "kode": "32.09.27"
+    },
+    {
+        "no": "36",
+        "name": "Susukan Lebak",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Cirebon&jobs=Susukan%20Lebak",
+        "kodepos": [
+            "45185"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Cirebon&jobs=Susukan%20Lebak",
+            "jumlah": "13"
+        },
+        "pulau": null,
+        "kode": "32.09.08"
+    },
+    {
+        "no": "37",
+        "name": "Talun (Cirebon Selatan)",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Cirebon&jobs=Talun%20(Cirebon%20Selatan)",
+        "kodepos": [
+            "45171"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Cirebon&jobs=Talun%20(Cirebon%20Selatan)",
+            "jumlah": "11"
+        },
+        "pulau": null,
+        "kode": "32.09.14"
+    },
+    {
+        "no": "38",
+        "name": "Tengah Tani",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Cirebon&jobs=Tengah%20Tani",
+        "kodepos": [
+            "45168"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Cirebon&jobs=Tengah%20Tani",
+            "jumlah": "8"
+        },
+        "pulau": null,
+        "kode": "32.09.35"
+    },
+    {
+        "no": "39",
+        "name": "Waled",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Cirebon&jobs=Waled",
+        "kodepos": [
+            "45180"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Cirebon&jobs=Waled",
+            "jumlah": "12"
+        },
+        "pulau": null,
+        "kode": "32.09.01"
+    },
+    {
+        "no": "40",
+        "name": "Weru",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Cirebon&jobs=Weru",
+        "kodepos": [
+            "45159"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Cirebon&jobs=Weru",
+            "jumlah": "9"
+        },
+        "pulau": null,
+        "kode": "32.09.19"
+    }
+]

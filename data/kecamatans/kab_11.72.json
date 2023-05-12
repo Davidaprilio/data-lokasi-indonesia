@@ -1,0 +1,35 @@
+[
+    {
+        "no": "1",
+        "name": "Sukajaya",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Sabang&jobs=Sukajaya",
+        "kodepos": [
+            "23521",
+            "23529"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Sabang&jobs=Sukajaya",
+            "jumlah": "10"
+        },
+        "pulau": null,
+        "kode": "11.72.02"
+    },
+    {
+        "no": "2",
+        "name": "Sukakarya",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Sabang&jobs=Sukakarya",
+        "kodepos": [
+            "23517",
+            "23518"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Sabang&jobs=Sukakarya",
+            "jumlah": "8"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kota-Sabang&jobs=Sukakarya",
+            "jumlah": "1"
+        },
+        "kode": "11.72.01"
+    }
+]

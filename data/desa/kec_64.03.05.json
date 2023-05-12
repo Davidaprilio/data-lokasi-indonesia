@@ -1,0 +1,44 @@
+[
+    {
+        "no": "1",
+        "kodepos": "77312",
+        "name": "Bugis",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Tanjung%20Redeb-Kab.-Berau&jobs=Bugis",
+        "kode": "64.03.05.1005"
+    },
+    {
+        "no": "2",
+        "kodepos": "77315",
+        "name": "Gayam",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Tanjung%20Redeb-Kab.-Berau&jobs=Gayam",
+        "kode": "64.03.05.1006"
+    },
+    {
+        "no": "3",
+        "kodepos": "77311",
+        "name": "Gunung Panjang",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Tanjung%20Redeb-Kab.-Berau&jobs=Gunung%20Panjang",
+        "kode": "64.03.05.1008"
+    },
+    {
+        "no": "4",
+        "kodepos": "77315",
+        "name": "Karang Ambun",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Tanjung%20Redeb-Kab.-Berau&jobs=Karang%20Ambun",
+        "kode": "64.03.05.1007"
+    },
+    {
+        "no": "5",
+        "kodepos": "77315",
+        "name": "Sei/Sungai Bedungun",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Tanjung%20Redeb-Kab.-Berau&jobs=Sei/Sungai%20Bedungun",
+        "kode": "64.03.05.1003"
+    },
+    {
+        "no": "6",
+        "kodepos": "77315",
+        "name": "Tanjung Redeb",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Tanjung%20Redeb-Kab.-Berau&jobs=Tanjung%20Redeb",
+        "kode": "64.03.05.1004"
+    }
+]

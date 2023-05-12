@@ -1,0 +1,129 @@
+[
+    {
+        "no": "1",
+        "name": "Banjar",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Buleleng&jobs=Banjar",
+        "kodepos": [
+            "81152"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Buleleng&jobs=Banjar",
+            "jumlah": "17"
+        },
+        "pulau": null,
+        "kode": "51.08.04"
+    },
+    {
+        "no": "2",
+        "name": "Buleleng",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Buleleng&jobs=Buleleng",
+        "kodepos": [
+            "81111",
+            "81119"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Buleleng&jobs=Buleleng",
+            "jumlah": "29"
+        },
+        "pulau": null,
+        "kode": "51.08.06"
+    },
+    {
+        "no": "3",
+        "name": "Busung biu (Busungbiu)",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Buleleng&jobs=Busung%20biu%20(Busungbiu)",
+        "kodepos": [
+            "81154"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Buleleng&jobs=Busung%20biu%20(Busungbiu)",
+            "jumlah": "15"
+        },
+        "pulau": null,
+        "kode": "51.08.03"
+    },
+    {
+        "no": "4",
+        "name": "Gerokgak",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Buleleng&jobs=Gerokgak",
+        "kodepos": [
+            "81155"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Buleleng&jobs=Gerokgak",
+            "jumlah": "14"
+        },
+        "pulau": null,
+        "kode": "51.08.01"
+    },
+    {
+        "no": "5",
+        "name": "Kubutambahan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Buleleng&jobs=Kubutambahan",
+        "kodepos": [
+            "81172"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Buleleng&jobs=Kubutambahan",
+            "jumlah": "13"
+        },
+        "pulau": null,
+        "kode": "51.08.08"
+    },
+    {
+        "no": "6",
+        "name": "Sawan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Buleleng&jobs=Sawan",
+        "kodepos": [
+            "81171"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Buleleng&jobs=Sawan",
+            "jumlah": "14"
+        },
+        "pulau": null,
+        "kode": "51.08.07"
+    },
+    {
+        "no": "7",
+        "name": "Seririt",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Buleleng&jobs=Seririt",
+        "kodepos": [
+            "81153"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Buleleng&jobs=Seririt",
+            "jumlah": "21"
+        },
+        "pulau": null,
+        "kode": "51.08.02"
+    },
+    {
+        "no": "8",
+        "name": "Sukasada",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Buleleng&jobs=Sukasada",
+        "kodepos": [
+            "81161"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Buleleng&jobs=Sukasada",
+            "jumlah": "15"
+        },
+        "pulau": null,
+        "kode": "51.08.05"
+    },
+    {
+        "no": "9",
+        "name": "Tejakula",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Buleleng&jobs=Tejakula",
+        "kodepos": [
+            "81173"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Buleleng&jobs=Tejakula",
+            "jumlah": "10"
+        },
+        "pulau": null,
+        "kode": "51.08.09"
+    }
+]

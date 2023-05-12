@@ -1,0 +1,37 @@
+[
+    {
+        "no": "1",
+        "kodepos": "30114",
+        "name": "Bukit Sangkal",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Kalidoni-Kota-Palembang&jobs=Bukit%20Sangkal",
+        "kode": "16.71.10.1001"
+    },
+    {
+        "no": "2",
+        "kodepos": "30119",
+        "name": "Kalidoni",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Kalidoni-Kota-Palembang&jobs=Kalidoni",
+        "kode": "16.71.10.1002"
+    },
+    {
+        "no": "3",
+        "kodepos": "30119",
+        "name": "Sei Lais",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Kalidoni-Kota-Palembang&jobs=Sei%20Lais",
+        "kode": "16.71.10.1005"
+    },
+    {
+        "no": "4",
+        "kodepos": "30119",
+        "name": "Sei Selayur",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Kalidoni-Kota-Palembang&jobs=Sei%20Selayur",
+        "kode": "16.71.10.1003"
+    },
+    {
+        "no": "5",
+        "kodepos": "30119",
+        "name": "Sei Selincah",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Kalidoni-Kota-Palembang&jobs=Sei%20Selincah",
+        "kode": "16.71.10.1004"
+    }
+]

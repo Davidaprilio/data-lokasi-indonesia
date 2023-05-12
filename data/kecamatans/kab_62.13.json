@@ -1,0 +1,143 @@
+[
+    {
+        "no": "1",
+        "name": "Awang",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Barito%20Timur&jobs=Awang",
+        "kodepos": [
+            "73681"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Barito%20Timur&jobs=Awang",
+            "jumlah": "11"
+        },
+        "pulau": null,
+        "kode": "62.13.04"
+    },
+    {
+        "no": "2",
+        "name": "Banua Lima",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Barito%20Timur&jobs=Banua%20Lima",
+        "kodepos": [
+            "73661"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Barito%20Timur&jobs=Banua%20Lima",
+            "jumlah": "7"
+        },
+        "pulau": null,
+        "kode": "62.13.02"
+    },
+    {
+        "no": "3",
+        "name": "Dusun Tengah",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Barito%20Timur&jobs=Dusun%20Tengah",
+        "kodepos": [
+            "73652"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Barito%20Timur&jobs=Dusun%20Tengah",
+            "jumlah": "9"
+        },
+        "pulau": null,
+        "kode": "62.13.05"
+    },
+    {
+        "no": "4",
+        "name": "Dusun Timur",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Barito%20Timur&jobs=Dusun%20Timur",
+        "kodepos": [
+            "73612",
+            "73618"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Barito%20Timur&jobs=Dusun%20Timur",
+            "jumlah": "17"
+        },
+        "pulau": null,
+        "kode": "62.13.01"
+    },
+    {
+        "no": "5",
+        "name": "Karusen Janang",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Barito%20Timur&jobs=Karusen%20Janang",
+        "kodepos": [
+            "73650"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Barito%20Timur&jobs=Karusen%20Janang",
+            "jumlah": "7"
+        },
+        "pulau": null,
+        "kode": "62.13.10"
+    },
+    {
+        "no": "6",
+        "name": "Paju Epat",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Barito%20Timur&jobs=Paju%20Epat",
+        "kodepos": [
+            "73617"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Barito%20Timur&jobs=Paju%20Epat",
+            "jumlah": "9"
+        },
+        "pulau": null,
+        "kode": "62.13.07"
+    },
+    {
+        "no": "7",
+        "name": "Paku",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Barito%20Timur&jobs=Paku",
+        "kodepos": [
+            "73654"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Barito%20Timur&jobs=Paku",
+            "jumlah": "12"
+        },
+        "pulau": null,
+        "kode": "62.13.09"
+    },
+    {
+        "no": "8",
+        "name": "Patangkep Tutui",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Barito%20Timur&jobs=Patangkep%20Tutui",
+        "kodepos": [
+            "73671"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Barito%20Timur&jobs=Patangkep%20Tutui",
+            "jumlah": "10"
+        },
+        "pulau": null,
+        "kode": "62.13.03"
+    },
+    {
+        "no": "9",
+        "name": "Pematang Karau",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Barito%20Timur&jobs=Pematang%20Karau",
+        "kodepos": [
+            "73653"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Barito%20Timur&jobs=Pematang%20Karau",
+            "jumlah": "13"
+        },
+        "pulau": null,
+        "kode": "62.13.06"
+    },
+    {
+        "no": "10",
+        "name": "Raren Batuah",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Barito%20Timur&jobs=Raren%20Batuah",
+        "kodepos": [
+            "73655"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Barito%20Timur&jobs=Raren%20Batuah",
+            "jumlah": "9"
+        },
+        "pulau": null,
+        "kode": "62.13.08"
+    }
+]

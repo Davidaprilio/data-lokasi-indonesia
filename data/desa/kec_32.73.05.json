@@ -1,0 +1,44 @@
+[
+    {
+        "no": "1",
+        "kodepos": "40184",
+        "name": "Campaka",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Andir-Kota-Bandung&jobs=Campaka",
+        "kode": "32.73.05.1006"
+    },
+    {
+        "no": "2",
+        "kodepos": "40182",
+        "name": "Ciroyom",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Andir-Kota-Bandung&jobs=Ciroyom",
+        "kode": "32.73.05.1003"
+    },
+    {
+        "no": "3",
+        "kodepos": "40183",
+        "name": "Dungus Cariang",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Andir-Kota-Bandung&jobs=Dungus%20Cariang",
+        "kode": "32.73.05.1002"
+    },
+    {
+        "no": "4",
+        "kodepos": "40184",
+        "name": "Garuda",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Andir-Kota-Bandung&jobs=Garuda",
+        "kode": "32.73.05.1005"
+    },
+    {
+        "no": "5",
+        "kodepos": "40181",
+        "name": "Kebon Jeruk",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Andir-Kota-Bandung&jobs=Kebon%20Jeruk",
+        "kode": "32.73.05.1004"
+    },
+    {
+        "no": "6",
+        "kodepos": "40184",
+        "name": "Maleber (Maleer)",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Andir-Kota-Bandung&jobs=Maleber%20(Maleer)",
+        "kode": "32.73.05.1001"
+    }
+]

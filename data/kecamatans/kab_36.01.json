@@ -1,0 +1,506 @@
+[
+    {
+        "no": "1",
+        "name": "Angsana",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pandeglang&jobs=Angsana",
+        "kodepos": [
+            "42277"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pandeglang&jobs=Angsana",
+            "jumlah": "9"
+        },
+        "pulau": null,
+        "kode": "36.01.07"
+    },
+    {
+        "no": "2",
+        "name": "Banjar",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pandeglang&jobs=Banjar",
+        "kodepos": [
+            "42252"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pandeglang&jobs=Banjar",
+            "jumlah": "11"
+        },
+        "pulau": null,
+        "kode": "36.01.20"
+    },
+    {
+        "no": "3",
+        "name": "Bojong",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pandeglang&jobs=Bojong",
+        "kodepos": [
+            "42274"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pandeglang&jobs=Bojong",
+            "jumlah": "8"
+        },
+        "pulau": null,
+        "kode": "36.01.10"
+    },
+    {
+        "no": "4",
+        "name": "Cadasari",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pandeglang&jobs=Cadasari",
+        "kodepos": [
+            "42251"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pandeglang&jobs=Cadasari",
+            "jumlah": "11"
+        },
+        "pulau": null,
+        "kode": "36.01.22"
+    },
+    {
+        "no": "5",
+        "name": "Carita",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pandeglang&jobs=Carita",
+        "kodepos": [
+            "42264"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pandeglang&jobs=Carita",
+            "jumlah": "10"
+        },
+        "pulau": null,
+        "kode": "36.01.28"
+    },
+    {
+        "no": "6",
+        "name": "Cibaliung",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pandeglang&jobs=Cibaliung",
+        "kodepos": [
+            "42285"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pandeglang&jobs=Cibaliung",
+            "jumlah": "9"
+        },
+        "pulau": null,
+        "kode": "36.01.03"
+    },
+    {
+        "no": "7",
+        "name": "Cibitung",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pandeglang&jobs=Cibitung",
+        "kodepos": [
+            "42287"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pandeglang&jobs=Cibitung",
+            "jumlah": "10"
+        },
+        "pulau": null,
+        "kode": "36.01.27"
+    },
+    {
+        "no": "8",
+        "name": "Cigeulis",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pandeglang&jobs=Cigeulis",
+        "kodepos": [
+            "42282"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pandeglang&jobs=Cigeulis",
+            "jumlah": "9"
+        },
+        "pulau": null,
+        "kode": "36.01.05"
+    },
+    {
+        "no": "9",
+        "name": "Cikeudal (Cikedal)",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pandeglang&jobs=Cikeudal%20(Cikedal)",
+        "kodepos": [
+            "42271"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pandeglang&jobs=Cikeudal%20(Cikedal)",
+            "jumlah": "10"
+        },
+        "pulau": null,
+        "kode": "36.01.26"
+    },
+    {
+        "no": "10",
+        "name": "Cikeusik",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pandeglang&jobs=Cikeusik",
+        "kodepos": [
+            "42286"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pandeglang&jobs=Cikeusik",
+            "jumlah": "14"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pandeglang&jobs=Cikeusik",
+            "jumlah": "2"
+        },
+        "kode": "36.01.04"
+    },
+    {
+        "no": "11",
+        "name": "Cimanggu",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pandeglang&jobs=Cimanggu",
+        "kodepos": [
+            "42284"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pandeglang&jobs=Cimanggu",
+            "jumlah": "12"
+        },
+        "pulau": null,
+        "kode": "36.01.02"
+    },
+    {
+        "no": "12",
+        "name": "Cimanuk",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pandeglang&jobs=Cimanuk",
+        "kodepos": [
+            "42270"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pandeglang&jobs=Cimanuk",
+            "jumlah": "11"
+        },
+        "pulau": null,
+        "kode": "36.01.18"
+    },
+    {
+        "no": "13",
+        "name": "Cipeucang",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pandeglang&jobs=Cipeucang",
+        "kodepos": [
+            "42272"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pandeglang&jobs=Cipeucang",
+            "jumlah": "10"
+        },
+        "pulau": null,
+        "kode": "36.01.15"
+    },
+    {
+        "no": "14",
+        "name": "Cisata",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pandeglang&jobs=Cisata",
+        "kodepos": [
+            "42273"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pandeglang&jobs=Cisata",
+            "jumlah": "9"
+        },
+        "pulau": null,
+        "kode": "36.01.23"
+    },
+    {
+        "no": "15",
+        "name": "Jiput",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pandeglang&jobs=Jiput",
+        "kodepos": [
+            "42263"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pandeglang&jobs=Jiput",
+            "jumlah": "13"
+        },
+        "pulau": null,
+        "kode": "36.01.16"
+    },
+    {
+        "no": "16",
+        "name": "Kaduhejo",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pandeglang&jobs=Kaduhejo",
+        "kodepos": [
+            "42253"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pandeglang&jobs=Kaduhejo",
+            "jumlah": "10"
+        },
+        "pulau": null,
+        "kode": "36.01.19"
+    },
+    {
+        "no": "17",
+        "name": "Karang Tanjung",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pandeglang&jobs=Karang%20Tanjung",
+        "kodepos": [
+            "42213"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pandeglang&jobs=Karang%20Tanjung",
+            "jumlah": "4"
+        },
+        "pulau": null,
+        "kode": "36.01.25"
+    },
+    {
+        "no": "18",
+        "name": "Koroncong",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pandeglang&jobs=Koroncong",
+        "kodepos": [
+            "42250"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pandeglang&jobs=Koroncong",
+            "jumlah": "12"
+        },
+        "pulau": null,
+        "kode": "36.01.33"
+    },
+    {
+        "no": "19",
+        "name": "Labuan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pandeglang&jobs=Labuan",
+        "kodepos": [
+            "42260"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pandeglang&jobs=Labuan",
+            "jumlah": "9"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pandeglang&jobs=Labuan",
+            "jumlah": "1"
+        },
+        "kode": "36.01.12"
+    },
+    {
+        "no": "20",
+        "name": "Majasari",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pandeglang&jobs=Majasari",
+        "kodepos": [
+            "42211",
+            "42217"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pandeglang&jobs=Majasari",
+            "jumlah": "5"
+        },
+        "pulau": null,
+        "kode": "36.01.34"
+    },
+    {
+        "no": "21",
+        "name": "Mandalawangi",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pandeglang&jobs=Mandalawangi",
+        "kodepos": [
+            "42261"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pandeglang&jobs=Mandalawangi",
+            "jumlah": "15"
+        },
+        "pulau": null,
+        "kode": "36.01.17"
+    },
+    {
+        "no": "22",
+        "name": "Mekarjaya",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pandeglang&jobs=Mekarjaya",
+        "kodepos": [
+            "42279"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pandeglang&jobs=Mekarjaya",
+            "jumlah": "8"
+        },
+        "pulau": null,
+        "kode": "36.01.30"
+    },
+    {
+        "no": "23",
+        "name": "Menes",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pandeglang&jobs=Menes",
+        "kodepos": [
+            "42262"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pandeglang&jobs=Menes",
+            "jumlah": "12"
+        },
+        "pulau": null,
+        "kode": "36.01.13"
+    },
+    {
+        "no": "24",
+        "name": "Munjul",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pandeglang&jobs=Munjul",
+        "kodepos": [
+            "42275"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pandeglang&jobs=Munjul",
+            "jumlah": "9"
+        },
+        "pulau": null,
+        "kode": "36.01.08"
+    },
+    {
+        "no": "25",
+        "name": "Pagelaran",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pandeglang&jobs=Pagelaran",
+        "kodepos": [
+            "42265"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pandeglang&jobs=Pagelaran",
+            "jumlah": "13"
+        },
+        "pulau": null,
+        "kode": "36.01.09"
+    },
+    {
+        "no": "26",
+        "name": "Pandeglang",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pandeglang&jobs=Pandeglang",
+        "kodepos": [
+            "42211",
+            "42219"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pandeglang&jobs=Pandeglang",
+            "jumlah": "4"
+        },
+        "pulau": null,
+        "kode": "36.01.21"
+    },
+    {
+        "no": "27",
+        "name": "Panimbang",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pandeglang&jobs=Panimbang",
+        "kodepos": [
+            "42281"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pandeglang&jobs=Panimbang",
+            "jumlah": "6"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pandeglang&jobs=Panimbang",
+            "jumlah": "1"
+        },
+        "kode": "36.01.06"
+    },
+    {
+        "no": "28",
+        "name": "Patia",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pandeglang&jobs=Patia",
+        "kodepos": [
+            "42266"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pandeglang&jobs=Patia",
+            "jumlah": "10"
+        },
+        "pulau": null,
+        "kode": "36.01.24"
+    },
+    {
+        "no": "29",
+        "name": "Picung",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pandeglang&jobs=Picung",
+        "kodepos": [
+            "42275"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pandeglang&jobs=Picung",
+            "jumlah": "9"
+        },
+        "pulau": null,
+        "kode": "36.01.11"
+    },
+    {
+        "no": "30",
+        "name": "Pulosari",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pandeglang&jobs=Pulosari",
+        "kodepos": [
+            "42254"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pandeglang&jobs=Pulosari",
+            "jumlah": "9"
+        },
+        "pulau": null,
+        "kode": "36.01.32"
+    },
+    {
+        "no": "31",
+        "name": "Saketi",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pandeglang&jobs=Saketi",
+        "kodepos": [
+            "42278"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pandeglang&jobs=Saketi",
+            "jumlah": "14"
+        },
+        "pulau": null,
+        "kode": "36.01.14"
+    },
+    {
+        "no": "32",
+        "name": "Sindangresmi",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pandeglang&jobs=Sindangresmi",
+        "kodepos": [
+            "42276"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pandeglang&jobs=Sindangresmi",
+            "jumlah": "9"
+        },
+        "pulau": null,
+        "kode": "36.01.31"
+    },
+    {
+        "no": "33",
+        "name": "Sobang",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pandeglang&jobs=Sobang",
+        "kodepos": [
+            "42280"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pandeglang&jobs=Sobang",
+            "jumlah": "8"
+        },
+        "pulau": null,
+        "kode": "36.01.35"
+    },
+    {
+        "no": "34",
+        "name": "Sukaresmi",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pandeglang&jobs=Sukaresmi",
+        "kodepos": [
+            "42267"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pandeglang&jobs=Sukaresmi",
+            "jumlah": "10"
+        },
+        "pulau": null,
+        "kode": "36.01.29"
+    },
+    {
+        "no": "35",
+        "name": "Sumur",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pandeglang&jobs=Sumur",
+        "kodepos": [
+            "42283"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pandeglang&jobs=Sumur",
+            "jumlah": "7"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pandeglang&jobs=Sumur",
+            "jumlah": "27"
+        },
+        "kode": "36.01.01"
+    }
+]

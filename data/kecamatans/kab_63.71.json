@@ -1,0 +1,80 @@
+[
+    {
+        "no": "1",
+        "name": "Banjarmasin Barat",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Banjarmasin&jobs=Banjarmasin%20Barat",
+        "kodepos": [
+            "70112",
+            "70245"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Banjarmasin&jobs=Banjarmasin%20Barat",
+            "jumlah": "9"
+        },
+        "pulau": null,
+        "kode": "63.71.03"
+    },
+    {
+        "no": "2",
+        "name": "Banjarmasin Selatan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Banjarmasin&jobs=Banjarmasin%20Selatan",
+        "kodepos": [
+            "70241",
+            "70249"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Banjarmasin&jobs=Banjarmasin%20Selatan",
+            "jumlah": "12"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kota-Banjarmasin&jobs=Banjarmasin%20Selatan",
+            "jumlah": "1"
+        },
+        "kode": "63.71.01"
+    },
+    {
+        "no": "3",
+        "name": "Banjarmasin Tengah",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Banjarmasin&jobs=Banjarmasin%20Tengah",
+        "kodepos": [
+            "70111",
+            "70241"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Banjarmasin&jobs=Banjarmasin%20Tengah",
+            "jumlah": "12"
+        },
+        "pulau": null,
+        "kode": "63.71.05"
+    },
+    {
+        "no": "4",
+        "name": "Banjarmasin Timur",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Banjarmasin&jobs=Banjarmasin%20Timur",
+        "kodepos": [
+            "70234",
+            "70239"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Banjarmasin&jobs=Banjarmasin%20Timur",
+            "jumlah": "9"
+        },
+        "pulau": null,
+        "kode": "63.71.02"
+    },
+    {
+        "no": "5",
+        "name": "Banjarmasin Utara",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Banjarmasin&jobs=Banjarmasin%20Utara",
+        "kodepos": [
+            "70121",
+            "70127"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Banjarmasin&jobs=Banjarmasin%20Utara",
+            "jumlah": "10"
+        },
+        "pulau": null,
+        "kode": "63.71.04"
+    }
+]

@@ -1,0 +1,73 @@
+[
+    {
+        "no": "1",
+        "name": "Abab",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Penukal%20Abab%20Lematang%20Ilir&jobs=Abab",
+        "kodepos": [
+            "31315"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Penukal%20Abab%20Lematang%20Ilir&jobs=Abab",
+            "jumlah": "8"
+        },
+        "pulau": null,
+        "kode": "16.12.04"
+    },
+    {
+        "no": "2",
+        "name": "Penukal",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Penukal%20Abab%20Lematang%20Ilir&jobs=Penukal",
+        "kodepos": [
+            "31316"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Penukal%20Abab%20Lematang%20Ilir&jobs=Penukal",
+            "jumlah": "13"
+        },
+        "pulau": null,
+        "kode": "16.12.03"
+    },
+    {
+        "no": "3",
+        "name": "Penukal Utara",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Penukal%20Abab%20Lematang%20Ilir&jobs=Penukal%20Utara",
+        "kodepos": [
+            "31317"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Penukal%20Abab%20Lematang%20Ilir&jobs=Penukal%20Utara",
+            "jumlah": "13"
+        },
+        "pulau": null,
+        "kode": "16.12.02"
+    },
+    {
+        "no": "4",
+        "name": "Talang Ubi",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Penukal%20Abab%20Lematang%20Ilir&jobs=Talang%20Ubi",
+        "kodepos": [
+            "31211",
+            "31214"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Penukal%20Abab%20Lematang%20Ilir&jobs=Talang%20Ubi",
+            "jumlah": "20"
+        },
+        "pulau": null,
+        "kode": "16.12.01"
+    },
+    {
+        "no": "5",
+        "name": "Tanah Abang",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Penukal%20Abab%20Lematang%20Ilir&jobs=Tanah%20Abang",
+        "kodepos": [
+            "31314"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Penukal%20Abab%20Lematang%20Ilir&jobs=Tanah%20Abang",
+            "jumlah": "17"
+        },
+        "pulau": null,
+        "kode": "16.12.05"
+    }
+]

@@ -1,0 +1,89 @@
+[
+    {
+        "no": "1",
+        "name": "Padangsidimpuan Angkola Julu",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Padangsidimpuan&jobs=Padangsidimpuan%20Angkola%20Julu",
+        "kodepos": [
+            "22729"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Padangsidimpuan&jobs=Padangsidimpuan%20Angkola%20Julu",
+            "jumlah": "8"
+        },
+        "pulau": null,
+        "kode": "12.77.06"
+    },
+    {
+        "no": "2",
+        "name": "Padangsidimpuan Batunadua",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Padangsidimpuan&jobs=Padangsidimpuan%20Batunadua",
+        "kodepos": [
+            "22731"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Padangsidimpuan&jobs=Padangsidimpuan%20Batunadua",
+            "jumlah": "15"
+        },
+        "pulau": null,
+        "kode": "12.77.03"
+    },
+    {
+        "no": "3",
+        "name": "Padangsidimpuan Hutaimbaru",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Padangsidimpuan&jobs=Padangsidimpuan%20Hutaimbaru",
+        "kodepos": [
+            "22700",
+            "22709"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Padangsidimpuan&jobs=Padangsidimpuan%20Hutaimbaru",
+            "jumlah": "10"
+        },
+        "pulau": null,
+        "kode": "12.77.04"
+    },
+    {
+        "no": "4",
+        "name": "Padangsidimpuan Selatan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Padangsidimpuan&jobs=Padangsidimpuan%20Selatan",
+        "kodepos": [
+            "22721",
+            "22728"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Padangsidimpuan&jobs=Padangsidimpuan%20Selatan",
+            "jumlah": "12"
+        },
+        "pulau": null,
+        "kode": "12.77.02"
+    },
+    {
+        "no": "5",
+        "name": "Padangsidimpuan Tenggara",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Padangsidimpuan&jobs=Padangsidimpuan%20Tenggara",
+        "kodepos": [
+            "22730"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Padangsidimpuan&jobs=Padangsidimpuan%20Tenggara",
+            "jumlah": "18"
+        },
+        "pulau": null,
+        "kode": "12.77.05"
+    },
+    {
+        "no": "6",
+        "name": "Padangsidimpuan Utara",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Padangsidimpuan&jobs=Padangsidimpuan%20Utara",
+        "kodepos": [
+            "22711",
+            "22719"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Padangsidimpuan&jobs=Padangsidimpuan%20Utara",
+            "jumlah": "16"
+        },
+        "pulau": null,
+        "kode": "12.77.01"
+    }
+]

@@ -1,0 +1,227 @@
+[
+    {
+        "no": "1",
+        "name": "Ajibata",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Toba&jobs=Ajibata",
+        "kodepos": [
+            "22386"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Toba&jobs=Ajibata",
+            "jumlah": "10"
+        },
+        "pulau": null,
+        "kode": "12.12.08"
+    },
+    {
+        "no": "2",
+        "name": "Balige",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Toba&jobs=Balige",
+        "kodepos": [
+            "22312",
+            "22316"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Toba&jobs=Balige",
+            "jumlah": "35"
+        },
+        "pulau": null,
+        "kode": "12.12.01"
+    },
+    {
+        "no": "3",
+        "name": "Bonatua Lunasi",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Toba&jobs=Bonatua%20Lunasi",
+        "kodepos": [
+            "22387"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Toba&jobs=Bonatua%20Lunasi",
+            "jumlah": "12"
+        },
+        "pulau": null,
+        "kode": "12.12.23"
+    },
+    {
+        "no": "4",
+        "name": "Borbor",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Toba&jobs=Borbor",
+        "kodepos": [
+            "22383"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Toba&jobs=Borbor",
+            "jumlah": "15"
+        },
+        "pulau": null,
+        "kode": "12.12.06"
+    },
+    {
+        "no": "5",
+        "name": "Habinsaran",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Toba&jobs=Habinsaran",
+        "kodepos": [
+            "22383"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Toba&jobs=Habinsaran",
+            "jumlah": "22"
+        },
+        "pulau": null,
+        "kode": "12.12.04"
+    },
+    {
+        "no": "6",
+        "name": "Laguboti",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Toba&jobs=Laguboti",
+        "kodepos": [
+            "22381"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Toba&jobs=Laguboti",
+            "jumlah": "23"
+        },
+        "pulau": null,
+        "kode": "12.12.02"
+    },
+    {
+        "no": "7",
+        "name": "Lumban Julu",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Toba&jobs=Lumban%20Julu",
+        "kodepos": [
+            "22388"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Toba&jobs=Lumban%20Julu",
+            "jumlah": "12"
+        },
+        "pulau": null,
+        "kode": "12.12.09"
+    },
+    {
+        "no": "8",
+        "name": "Nassau",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Toba&jobs=Nassau",
+        "kodepos": [
+            "22383"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Toba&jobs=Nassau",
+            "jumlah": "10"
+        },
+        "pulau": null,
+        "kode": "12.12.21"
+    },
+    {
+        "no": "9",
+        "name": "Parmaksian",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Toba&jobs=Parmaksian",
+        "kodepos": [
+            "22384"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Toba&jobs=Parmaksian",
+            "jumlah": "11"
+        },
+        "pulau": null,
+        "kode": "12.12.24"
+    },
+    {
+        "no": "10",
+        "name": "Pintu Pohan Meranti",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Toba&jobs=Pintu%20Pohan%20Meranti",
+        "kodepos": [
+            "22384"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Toba&jobs=Pintu%20Pohan%20Meranti",
+            "jumlah": "7"
+        },
+        "pulau": null,
+        "kode": "12.12.05"
+    },
+    {
+        "no": "11",
+        "name": "Porsea",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Toba&jobs=Porsea",
+        "kodepos": [
+            "22384"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Toba&jobs=Porsea",
+            "jumlah": "17"
+        },
+        "pulau": null,
+        "kode": "12.12.07"
+    },
+    {
+        "no": "12",
+        "name": "Siantar Narumonda",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Toba&jobs=Siantar%20Narumonda",
+        "kodepos": [
+            "22384"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Toba&jobs=Siantar%20Narumonda",
+            "jumlah": "14"
+        },
+        "pulau": null,
+        "kode": "12.12.20"
+    },
+    {
+        "no": "13",
+        "name": "Sigumpar",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Toba&jobs=Sigumpar",
+        "kodepos": [
+            "22380"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Toba&jobs=Sigumpar",
+            "jumlah": "10"
+        },
+        "pulau": null,
+        "kode": "12.12.19"
+    },
+    {
+        "no": "14",
+        "name": "Silaen",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Toba&jobs=Silaen",
+        "kodepos": [
+            "22382"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Toba&jobs=Silaen",
+            "jumlah": "23"
+        },
+        "pulau": null,
+        "kode": "12.12.03"
+    },
+    {
+        "no": "15",
+        "name": "Tampahan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Toba&jobs=Tampahan",
+        "kodepos": [
+            "22312"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Toba&jobs=Tampahan",
+            "jumlah": "6"
+        },
+        "pulau": null,
+        "kode": "12.12.22"
+    },
+    {
+        "no": "16",
+        "name": "Uluan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Toba&jobs=Uluan",
+        "kodepos": [
+            "22385"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Toba&jobs=Uluan",
+            "jumlah": "17"
+        },
+        "pulau": null,
+        "kode": "12.12.10"
+    }
+]

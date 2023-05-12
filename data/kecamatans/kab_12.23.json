@@ -1,0 +1,114 @@
+[
+    {
+        "no": "1",
+        "name": "Aek Kuo",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Labuhanbatu%20Utara&jobs=Aek%20Kuo",
+        "kodepos": [
+            "21455"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Labuhanbatu%20Utara&jobs=Aek%20Kuo",
+            "jumlah": "8"
+        },
+        "pulau": null,
+        "kode": "12.23.04"
+    },
+    {
+        "no": "2",
+        "name": "Aek Natas",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Labuhanbatu%20Utara&jobs=Aek%20Natas",
+        "kodepos": [
+            "21456"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Labuhanbatu%20Utara&jobs=Aek%20Natas",
+            "jumlah": "12"
+        },
+        "pulau": null,
+        "kode": "12.23.07"
+    },
+    {
+        "no": "3",
+        "name": "Kualuh Hilir",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Labuhanbatu%20Utara&jobs=Kualuh%20Hilir",
+        "kodepos": [
+            "21474"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Labuhanbatu%20Utara&jobs=Kualuh%20Hilir",
+            "jumlah": "7"
+        },
+        "pulau": null,
+        "kode": "12.23.03"
+    },
+    {
+        "no": "4",
+        "name": "Kualuh Hulu",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Labuhanbatu%20Utara&jobs=Kualuh%20Hulu",
+        "kodepos": [
+            "21457"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Labuhanbatu%20Utara&jobs=Kualuh%20Hulu",
+            "jumlah": "13"
+        },
+        "pulau": null,
+        "kode": "12.23.01"
+    },
+    {
+        "no": "5",
+        "name": "Kualuh Leidong",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Labuhanbatu%20Utara&jobs=Kualuh%20Leidong",
+        "kodepos": [
+            "21475"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Labuhanbatu%20Utara&jobs=Kualuh%20Leidong",
+            "jumlah": "7"
+        },
+        "pulau": null,
+        "kode": "12.23.02"
+    },
+    {
+        "no": "6",
+        "name": "Kualuh Selatan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Labuhanbatu%20Utara&jobs=Kualuh%20Selatan",
+        "kodepos": [
+            "21458"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Labuhanbatu%20Utara&jobs=Kualuh%20Selatan",
+            "jumlah": "12"
+        },
+        "pulau": null,
+        "kode": "12.23.08"
+    },
+    {
+        "no": "7",
+        "name": "Marbau",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Labuhanbatu%20Utara&jobs=Marbau",
+        "kodepos": [
+            "21452"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Labuhanbatu%20Utara&jobs=Marbau",
+            "jumlah": "18"
+        },
+        "pulau": null,
+        "kode": "12.23.05"
+    },
+    {
+        "no": "8",
+        "name": "Na IX-X",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Labuhanbatu%20Utara&jobs=Na%20IX-X",
+        "kodepos": [
+            "21454"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Labuhanbatu%20Utara&jobs=Na%20IX-X",
+            "jumlah": "13"
+        },
+        "pulau": null,
+        "kode": "12.23.06"
+    }
+]

@@ -1,0 +1,380 @@
+[
+    {
+        "no": "1",
+        "name": "Baktiya",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Aceh%20Utara&jobs=Baktiya",
+        "kodepos": [
+            "24392"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Aceh%20Utara&jobs=Baktiya",
+            "jumlah": "57"
+        },
+        "pulau": null,
+        "kode": "11.08.01"
+    },
+    {
+        "no": "2",
+        "name": "Baktiya Barat",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Aceh%20Utara&jobs=Baktiya%20Barat",
+        "kodepos": [
+            "24396"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Aceh%20Utara&jobs=Baktiya%20Barat",
+            "jumlah": "26"
+        },
+        "pulau": null,
+        "kode": "11.08.19"
+    },
+    {
+        "no": "3",
+        "name": "Banda Baro",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Aceh%20Utara&jobs=Banda%20Baro",
+        "kodepos": [
+            "24376"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Aceh%20Utara&jobs=Banda%20Baro",
+            "jumlah": "9"
+        },
+        "pulau": null,
+        "kode": "11.08.26"
+    },
+    {
+        "no": "4",
+        "name": "Cot Girek",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Aceh%20Utara&jobs=Cot%20Girek",
+        "kodepos": [
+            "24352"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Aceh%20Utara&jobs=Cot%20Girek",
+            "jumlah": "24"
+        },
+        "pulau": null,
+        "kode": "11.08.17"
+    },
+    {
+        "no": "5",
+        "name": "Dewantara",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Aceh%20Utara&jobs=Dewantara",
+        "kodepos": [
+            "24354"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Aceh%20Utara&jobs=Dewantara",
+            "jumlah": "15"
+        },
+        "pulau": null,
+        "kode": "11.08.02"
+    },
+    {
+        "no": "6",
+        "name": "Geuredong Pase",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Aceh%20Utara&jobs=Geuredong%20Pase",
+        "kodepos": [
+            "24373"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Aceh%20Utara&jobs=Geuredong%20Pase",
+            "jumlah": "11"
+        },
+        "pulau": null,
+        "kode": "11.08.25"
+    },
+    {
+        "no": "7",
+        "name": "Kuta Makmur",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Aceh%20Utara&jobs=Kuta%20Makmur",
+        "kodepos": [
+            "24371"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Aceh%20Utara&jobs=Kuta%20Makmur",
+            "jumlah": "39"
+        },
+        "pulau": null,
+        "kode": "11.08.03"
+    },
+    {
+        "no": "8",
+        "name": "Langkahan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Aceh%20Utara&jobs=Langkahan",
+        "kodepos": [
+            "24394"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Aceh%20Utara&jobs=Langkahan",
+            "jumlah": "23"
+        },
+        "pulau": null,
+        "kode": "11.08.18"
+    },
+    {
+        "no": "9",
+        "name": "Lapang",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Aceh%20Utara&jobs=Lapang",
+        "kodepos": [
+            "24391"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Aceh%20Utara&jobs=Lapang",
+            "jumlah": "11"
+        },
+        "pulau": null,
+        "kode": "11.08.23"
+    },
+    {
+        "no": "10",
+        "name": "Lhoksukon",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Aceh%20Utara&jobs=Lhoksukon",
+        "kodepos": [
+            "24382"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Aceh%20Utara&jobs=Lhoksukon",
+            "jumlah": "75"
+        },
+        "pulau": null,
+        "kode": "11.08.04"
+    },
+    {
+        "no": "11",
+        "name": "Matangkuli",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Aceh%20Utara&jobs=Matangkuli",
+        "kodepos": [
+            "24386"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Aceh%20Utara&jobs=Matangkuli",
+            "jumlah": "49"
+        },
+        "pulau": null,
+        "kode": "11.08.05"
+    },
+    {
+        "no": "12",
+        "name": "Meurah Mulia",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Aceh%20Utara&jobs=Meurah%20Mulia",
+        "kodepos": [
+            "24372"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Aceh%20Utara&jobs=Meurah%20Mulia",
+            "jumlah": "50"
+        },
+        "pulau": null,
+        "kode": "11.08.07"
+    },
+    {
+        "no": "13",
+        "name": "Muara Batu",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Aceh%20Utara&jobs=Muara%20Batu",
+        "kodepos": [
+            "24355"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Aceh%20Utara&jobs=Muara%20Batu",
+            "jumlah": "24"
+        },
+        "pulau": null,
+        "kode": "11.08.06"
+    },
+    {
+        "no": "14",
+        "name": "Nibong",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Aceh%20Utara&jobs=Nibong",
+        "kodepos": [
+            "24385"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Aceh%20Utara&jobs=Nibong",
+            "jumlah": "20"
+        },
+        "pulau": null,
+        "kode": "11.08.21"
+    },
+    {
+        "no": "15",
+        "name": "Nisam",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Aceh%20Utara&jobs=Nisam",
+        "kodepos": [
+            "24378"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Aceh%20Utara&jobs=Nisam",
+            "jumlah": "29"
+        },
+        "pulau": null,
+        "kode": "11.08.16"
+    },
+    {
+        "no": "16",
+        "name": "Nisam Antara",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Aceh%20Utara&jobs=Nisam%20Antara",
+        "kodepos": [
+            "24379"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Aceh%20Utara&jobs=Nisam%20Antara",
+            "jumlah": "6"
+        },
+        "pulau": null,
+        "kode": "11.08.27"
+    },
+    {
+        "no": "17",
+        "name": "Paya Bakong",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Aceh%20Utara&jobs=Paya%20Bakong",
+        "kodepos": [
+            "24383"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Aceh%20Utara&jobs=Paya%20Bakong",
+            "jumlah": "39"
+        },
+        "pulau": null,
+        "kode": "11.08.20"
+    },
+    {
+        "no": "18",
+        "name": "Pirak Timur",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Aceh%20Utara&jobs=Pirak%20Timur",
+        "kodepos": [
+            "24384"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Aceh%20Utara&jobs=Pirak%20Timur",
+            "jumlah": "23"
+        },
+        "pulau": null,
+        "kode": "11.08.24"
+    },
+    {
+        "no": "19",
+        "name": "Samudera",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Aceh%20Utara&jobs=Samudera",
+        "kodepos": [
+            "24374"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Aceh%20Utara&jobs=Samudera",
+            "jumlah": "40"
+        },
+        "pulau": null,
+        "kode": "11.08.08"
+    },
+    {
+        "no": "20",
+        "name": "Sawang",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Aceh%20Utara&jobs=Sawang",
+        "kodepos": [
+            "24377"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Aceh%20Utara&jobs=Sawang",
+            "jumlah": "39"
+        },
+        "pulau": null,
+        "kode": "11.08.15"
+    },
+    {
+        "no": "21",
+        "name": "Seunuddon (Seunudon)",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Aceh%20Utara&jobs=Seunuddon%20(Seunudon)",
+        "kodepos": [
+            "24393"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Aceh%20Utara&jobs=Seunuddon%20(Seunudon)",
+            "jumlah": "33"
+        },
+        "pulau": null,
+        "kode": "11.08.09"
+    },
+    {
+        "no": "22",
+        "name": "Simpang Kramat (Keramat)",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Aceh%20Utara&jobs=Simpang%20Kramat%20(Keramat)",
+        "kodepos": [
+            "24313"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Aceh%20Utara&jobs=Simpang%20Kramat%20(Keramat)",
+            "jumlah": "16"
+        },
+        "pulau": null,
+        "kode": "11.08.22"
+    },
+    {
+        "no": "23",
+        "name": "Syamtalira Aron",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Aceh%20Utara&jobs=Syamtalira%20Aron",
+        "kodepos": [
+            "24381"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Aceh%20Utara&jobs=Syamtalira%20Aron",
+            "jumlah": "34"
+        },
+        "pulau": null,
+        "kode": "11.08.10"
+    },
+    {
+        "no": "24",
+        "name": "Syamtalira Bayu",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Aceh%20Utara&jobs=Syamtalira%20Bayu",
+        "kodepos": [
+            "24370"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Aceh%20Utara&jobs=Syamtalira%20Bayu",
+            "jumlah": "38"
+        },
+        "pulau": null,
+        "kode": "11.08.11"
+    },
+    {
+        "no": "25",
+        "name": "Tanah Jambo Aye",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Aceh%20Utara&jobs=Tanah%20Jambo%20Aye",
+        "kodepos": [
+            "24395"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Aceh%20Utara&jobs=Tanah%20Jambo%20Aye",
+            "jumlah": "47"
+        },
+        "pulau": null,
+        "kode": "11.08.14"
+    },
+    {
+        "no": "26",
+        "name": "Tanah Luas",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Aceh%20Utara&jobs=Tanah%20Luas",
+        "kodepos": [
+            "24387"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Aceh%20Utara&jobs=Tanah%20Luas",
+            "jumlah": "57"
+        },
+        "pulau": null,
+        "kode": "11.08.12"
+    },
+    {
+        "no": "27",
+        "name": "Tanah Pasir",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Aceh%20Utara&jobs=Tanah%20Pasir",
+        "kodepos": [
+            "24390"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Aceh%20Utara&jobs=Tanah%20Pasir",
+            "jumlah": "18"
+        },
+        "pulau": null,
+        "kode": "11.08.13"
+    }
+]

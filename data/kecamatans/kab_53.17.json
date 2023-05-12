@@ -1,0 +1,75 @@
+[
+    {
+        "no": "1",
+        "name": "Katiku Tana",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Sumba%20Tengah&jobs=Katiku%20Tana",
+        "kodepos": [
+            "87282"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Sumba%20Tengah&jobs=Katiku%20Tana",
+            "jumlah": "7"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Sumba%20Tengah&jobs=Katiku%20Tana",
+            "jumlah": "4"
+        },
+        "kode": "53.17.01"
+    },
+    {
+        "no": "2",
+        "name": "Katiku Tana Selatan (Katikutana Selatan)",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Sumba%20Tengah&jobs=Katiku%20Tana%20Selatan%20(Katikutana%20Selatan)",
+        "kodepos": [
+            "87280"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Sumba%20Tengah&jobs=Katiku%20Tana%20Selatan%20(Katikutana%20Selatan)",
+            "jumlah": "9"
+        },
+        "pulau": null,
+        "kode": "53.17.05"
+    },
+    {
+        "no": "3",
+        "name": "Mamboro",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Sumba%20Tengah&jobs=Mamboro",
+        "kodepos": [
+            "87258"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Sumba%20Tengah&jobs=Mamboro",
+            "jumlah": "13"
+        },
+        "pulau": null,
+        "kode": "53.17.03"
+    },
+    {
+        "no": "4",
+        "name": "Umbu Ratu Nggay",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Sumba%20Tengah&jobs=Umbu%20Ratu%20Nggay",
+        "kodepos": [
+            "87283"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Sumba%20Tengah&jobs=Umbu%20Ratu%20Nggay",
+            "jumlah": "18"
+        },
+        "pulau": null,
+        "kode": "53.17.04"
+    },
+    {
+        "no": "5",
+        "name": "Umbu Ratu Nggay Barat",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Sumba%20Tengah&jobs=Umbu%20Ratu%20Nggay%20Barat",
+        "kodepos": [
+            "87281"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Sumba%20Tengah&jobs=Umbu%20Ratu%20Nggay%20Barat",
+            "jumlah": "18"
+        },
+        "pulau": null,
+        "kode": "53.17.02"
+    }
+]

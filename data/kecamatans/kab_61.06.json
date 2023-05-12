@@ -1,0 +1,325 @@
+[
+    {
+        "no": "1",
+        "name": "Badau",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kapuas%20Hulu&jobs=Badau",
+        "kodepos": [
+            "78767"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kapuas%20Hulu&jobs=Badau",
+            "jumlah": "9"
+        },
+        "pulau": null,
+        "kode": "61.06.14"
+    },
+    {
+        "no": "2",
+        "name": "Batang Lupar",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kapuas%20Hulu&jobs=Batang%20Lupar",
+        "kodepos": [
+            "78766"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kapuas%20Hulu&jobs=Batang%20Lupar",
+            "jumlah": "10"
+        },
+        "pulau": null,
+        "kode": "61.06.12"
+    },
+    {
+        "no": "3",
+        "name": "Bika",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kapuas%20Hulu&jobs=Bika",
+        "kodepos": [
+            "78753"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kapuas%20Hulu&jobs=Bika",
+            "jumlah": "8"
+        },
+        "pulau": null,
+        "kode": "61.06.02"
+    },
+    {
+        "no": "4",
+        "name": "Boyan Tanjung",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kapuas%20Hulu&jobs=Boyan%20Tanjung",
+        "kodepos": [
+            "78758"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kapuas%20Hulu&jobs=Boyan%20Tanjung",
+            "jumlah": "16"
+        },
+        "pulau": null,
+        "kode": "61.06.19"
+    },
+    {
+        "no": "5",
+        "name": "Bunut Hilir",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kapuas%20Hulu&jobs=Bunut%20Hilir",
+        "kodepos": [
+            "78761",
+            "78762"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kapuas%20Hulu&jobs=Bunut%20Hilir",
+            "jumlah": "11"
+        },
+        "pulau": null,
+        "kode": "61.06.05"
+    },
+    {
+        "no": "6",
+        "name": "Bunut Hulu",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kapuas%20Hulu&jobs=Bunut%20Hulu",
+        "kodepos": [
+            "78762"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kapuas%20Hulu&jobs=Bunut%20Hulu",
+            "jumlah": "15"
+        },
+        "pulau": null,
+        "kode": "61.06.06"
+    },
+    {
+        "no": "7",
+        "name": "Embaloh Hilir",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kapuas%20Hulu&jobs=Embaloh%20Hilir",
+        "kodepos": [
+            "78754"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kapuas%20Hulu&jobs=Embaloh%20Hilir",
+            "jumlah": "9"
+        },
+        "pulau": null,
+        "kode": "61.06.03"
+    },
+    {
+        "no": "8",
+        "name": "Embaloh Hulu",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kapuas%20Hulu&jobs=Embaloh%20Hulu",
+        "kodepos": [
+            "78755"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kapuas%20Hulu&jobs=Embaloh%20Hulu",
+            "jumlah": "10"
+        },
+        "pulau": null,
+        "kode": "61.06.04"
+    },
+    {
+        "no": "9",
+        "name": "Empanang",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kapuas%20Hulu&jobs=Empanang",
+        "kodepos": [
+            "78768"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kapuas%20Hulu&jobs=Empanang",
+            "jumlah": "6"
+        },
+        "pulau": null,
+        "kode": "61.06.13"
+    },
+    {
+        "no": "10",
+        "name": "Hulu Gurung",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kapuas%20Hulu&jobs=Hulu%20Gurung",
+        "kodepos": [
+            "78764"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kapuas%20Hulu&jobs=Hulu%20Gurung",
+            "jumlah": "15"
+        },
+        "pulau": null,
+        "kode": "61.06.08"
+    },
+    {
+        "no": "11",
+        "name": "Jongkong (Jengkong)",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kapuas%20Hulu&jobs=Jongkong%20(Jengkong)",
+        "kodepos": [
+            "78763"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kapuas%20Hulu&jobs=Jongkong%20(Jengkong)",
+            "jumlah": "14"
+        },
+        "pulau": null,
+        "kode": "61.06.07"
+    },
+    {
+        "no": "12",
+        "name": "Kalis",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kapuas%20Hulu&jobs=Kalis",
+        "kodepos": [
+            "78756"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kapuas%20Hulu&jobs=Kalis",
+            "jumlah": "17"
+        },
+        "pulau": null,
+        "kode": "61.06.18"
+    },
+    {
+        "no": "13",
+        "name": "Mentebah",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kapuas%20Hulu&jobs=Mentebah",
+        "kodepos": [
+            "78757"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kapuas%20Hulu&jobs=Mentebah",
+            "jumlah": "8"
+        },
+        "pulau": null,
+        "kode": "61.06.20"
+    },
+    {
+        "no": "14",
+        "name": "Pengkadan (Batu Datu)",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kapuas%20Hulu&jobs=Pengkadan%20(Batu%20Datu)",
+        "kodepos": [
+            "78759"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kapuas%20Hulu&jobs=Pengkadan%20(Batu%20Datu)",
+            "jumlah": "11"
+        },
+        "pulau": null,
+        "kode": "61.06.21"
+    },
+    {
+        "no": "15",
+        "name": "Puring Kencana",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kapuas%20Hulu&jobs=Puring%20Kencana",
+        "kodepos": [
+            "78769"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kapuas%20Hulu&jobs=Puring%20Kencana",
+            "jumlah": "6"
+        },
+        "pulau": null,
+        "kode": "61.06.23"
+    },
+    {
+        "no": "16",
+        "name": "Putussibau Selatan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kapuas%20Hulu&jobs=Putussibau%20Selatan",
+        "kodepos": [
+            "78714"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kapuas%20Hulu&jobs=Putussibau%20Selatan",
+            "jumlah": "16"
+        },
+        "pulau": null,
+        "kode": "61.06.17"
+    },
+    {
+        "no": "17",
+        "name": "Putussibau Utara",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kapuas%20Hulu&jobs=Putussibau%20Utara",
+        "kodepos": [
+            "78716"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kapuas%20Hulu&jobs=Putussibau%20Utara",
+            "jumlah": "19"
+        },
+        "pulau": null,
+        "kode": "61.06.01"
+    },
+    {
+        "no": "18",
+        "name": "Seberuang",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kapuas%20Hulu&jobs=Seberuang",
+        "kodepos": [
+            "78772"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kapuas%20Hulu&jobs=Seberuang",
+            "jumlah": "15"
+        },
+        "pulau": null,
+        "kode": "61.06.11"
+    },
+    {
+        "no": "19",
+        "name": "Selimbau",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kapuas%20Hulu&jobs=Selimbau",
+        "kodepos": [
+            "78765"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kapuas%20Hulu&jobs=Selimbau",
+            "jumlah": "17"
+        },
+        "pulau": null,
+        "kode": "61.06.09"
+    },
+    {
+        "no": "20",
+        "name": "Semitau",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kapuas%20Hulu&jobs=Semitau",
+        "kodepos": [
+            "78771"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kapuas%20Hulu&jobs=Semitau",
+            "jumlah": "12"
+        },
+        "pulau": null,
+        "kode": "61.06.10"
+    },
+    {
+        "no": "21",
+        "name": "Silat Hilir",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kapuas%20Hulu&jobs=Silat%20Hilir",
+        "kodepos": [
+            "78773"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kapuas%20Hulu&jobs=Silat%20Hilir",
+            "jumlah": "13"
+        },
+        "pulau": null,
+        "kode": "61.06.15"
+    },
+    {
+        "no": "22",
+        "name": "Silat Hulu",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kapuas%20Hulu&jobs=Silat%20Hulu",
+        "kodepos": [
+            "78774"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kapuas%20Hulu&jobs=Silat%20Hulu",
+            "jumlah": "14"
+        },
+        "pulau": null,
+        "kode": "61.06.16"
+    },
+    {
+        "no": "23",
+        "name": "Suhaid",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kapuas%20Hulu&jobs=Suhaid",
+        "kodepos": [
+            "78775"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kapuas%20Hulu&jobs=Suhaid",
+            "jumlah": "11"
+        },
+        "pulau": null,
+        "kode": "61.06.22"
+    }
+]

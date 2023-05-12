@@ -1,0 +1,51 @@
+[
+    {
+        "no": "1",
+        "kodepos": "38126",
+        "name": "Bentiring",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Muara%20Bangka%20Hulu-Kota-Bengkulu&jobs=Bentiring",
+        "kode": "17.71.04.1002"
+    },
+    {
+        "no": "2",
+        "kodepos": "38121",
+        "name": "Bentiring Permai",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Muara%20Bangka%20Hulu-Kota-Bengkulu&jobs=Bentiring%20Permai",
+        "kode": "17.71.04.1006"
+    },
+    {
+        "no": "3",
+        "kodepos": "38121",
+        "name": "Beringin Raya",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Muara%20Bangka%20Hulu-Kota-Bengkulu&jobs=Beringin%20Raya",
+        "kode": "17.71.04.1005"
+    },
+    {
+        "no": "4",
+        "kodepos": "38122",
+        "name": "Kandang Limun",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Muara%20Bangka%20Hulu-Kota-Bengkulu&jobs=Kandang%20Limun",
+        "kode": "17.71.04.1001"
+    },
+    {
+        "no": "5",
+        "kodepos": "38125",
+        "name": "Pematang Gubernur",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Muara%20Bangka%20Hulu-Kota-Bengkulu&jobs=Pematang%20Gubernur",
+        "kode": "17.71.04.1003"
+    },
+    {
+        "no": "6",
+        "kodepos": "38121",
+        "name": "Rawa Makmur",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Muara%20Bangka%20Hulu-Kota-Bengkulu&jobs=Rawa%20Makmur",
+        "kode": "17.71.04.1004"
+    },
+    {
+        "no": "7",
+        "kodepos": "38121",
+        "name": "Rawa Makmur Permai",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Muara%20Bangka%20Hulu-Kota-Bengkulu&jobs=Rawa%20Makmur%20Permai",
+        "kode": "17.71.04.1007"
+    }
+]

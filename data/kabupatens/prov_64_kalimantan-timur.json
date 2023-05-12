@@ -1,0 +1,229 @@
+[
+    {
+        "no": "1",
+        "type": "Kota",
+        "name": "Balikpapan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kota&jobs=Balikpapan",
+        "kodepos": [
+            "76111",
+            "76136"
+        ],
+        "kecamatan": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kota&jobs=Balikpapan",
+            "jumlah": "6"
+        },
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kota&jobs=Balikpapan",
+            "jumlah": "34"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kota&jobs=Balikpapan",
+            "jumlah": "5"
+        },
+        "kode": "64.71"
+    },
+    {
+        "no": "2",
+        "type": "Kabupaten",
+        "name": "Berau",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Berau",
+        "kodepos": [
+            "77311",
+            "77381"
+        ],
+        "kecamatan": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Berau",
+            "jumlah": "13"
+        },
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kab.&jobs=Berau",
+            "jumlah": "110"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kab.&jobs=Berau",
+            "jumlah": "71"
+        },
+        "kode": "64.03"
+    },
+    {
+        "no": "3",
+        "type": "Kota",
+        "name": "Bontang",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kota&jobs=Bontang",
+        "kodepos": [
+            "75311",
+            "75383"
+        ],
+        "kecamatan": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kota&jobs=Bontang",
+            "jumlah": "3"
+        },
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kota&jobs=Bontang",
+            "jumlah": "15"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kota&jobs=Bontang",
+            "jumlah": "17"
+        },
+        "kode": "64.74"
+    },
+    {
+        "no": "4",
+        "type": "Kabupaten",
+        "name": "Kutai Barat",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Kutai%20Barat",
+        "kodepos": [
+            "75576",
+            "75778"
+        ],
+        "kecamatan": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Kutai%20Barat",
+            "jumlah": "16"
+        },
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kab.&jobs=Kutai%20Barat",
+            "jumlah": "194"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kab.&jobs=Kutai%20Barat",
+            "jumlah": "15"
+        },
+        "kode": "64.07"
+    },
+    {
+        "no": "5",
+        "type": "Kabupaten",
+        "name": "Kutai Kartanegara",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Kutai%20Kartanegara",
+        "kodepos": [
+            "75251",
+            "76131"
+        ],
+        "kecamatan": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Kutai%20Kartanegara",
+            "jumlah": "18"
+        },
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kab.&jobs=Kutai%20Kartanegara",
+            "jumlah": "237"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kab.&jobs=Kutai%20Kartanegara",
+            "jumlah": "77"
+        },
+        "kode": "64.02"
+    },
+    {
+        "no": "6",
+        "type": "Kabupaten",
+        "name": "Kutai Timur",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Kutai%20Timur",
+        "kodepos": [
+            "75554",
+            "75686"
+        ],
+        "kecamatan": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Kutai%20Timur",
+            "jumlah": "18"
+        },
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kab.&jobs=Kutai%20Timur",
+            "jumlah": "141"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kab.&jobs=Kutai%20Timur",
+            "jumlah": "21"
+        },
+        "kode": "64.08"
+    },
+    {
+        "no": "7",
+        "type": "Kabupaten",
+        "name": "Mahakam Ulu",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Mahakam%20Ulu",
+        "kodepos": [
+            "75767",
+            "75779"
+        ],
+        "kecamatan": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Mahakam%20Ulu",
+            "jumlah": "5"
+        },
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kab.&jobs=Mahakam%20Ulu",
+            "jumlah": "50"
+        },
+        "pulau": null,
+        "kode": "64.11"
+    },
+    {
+        "no": "8",
+        "type": "Kabupaten",
+        "name": "Paser",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Paser",
+        "kodepos": [
+            "76250",
+            "76283"
+        ],
+        "kecamatan": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Paser",
+            "jumlah": "10"
+        },
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kab.&jobs=Paser",
+            "jumlah": "144"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kab.&jobs=Paser",
+            "jumlah": "8"
+        },
+        "kode": "64.01"
+    },
+    {
+        "no": "9",
+        "type": "Kabupaten",
+        "name": "Penajam Paser Utara",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Penajam%20Paser%20Utara",
+        "kodepos": [
+            "76141",
+            "76285"
+        ],
+        "kecamatan": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Penajam%20Paser%20Utara",
+            "jumlah": "4"
+        },
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kab.&jobs=Penajam%20Paser%20Utara",
+            "jumlah": "54"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kab.&jobs=Penajam%20Paser%20Utara",
+            "jumlah": "16"
+        },
+        "kode": "64.09"
+    },
+    {
+        "no": "10",
+        "type": "Kota",
+        "name": "Samarinda",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kota&jobs=Samarinda",
+        "kodepos": [
+            "75111",
+            "75253"
+        ],
+        "kecamatan": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kota&jobs=Samarinda",
+            "jumlah": "10"
+        },
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kota&jobs=Samarinda",
+            "jumlah": "59"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kota&jobs=Samarinda",
+            "jumlah": "1"
+        },
+        "kode": "64.72"
+    }
+]

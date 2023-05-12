@@ -1,0 +1,174 @@
+[
+    {
+        "no": "1",
+        "name": "Aimere",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Ngada&jobs=Aimere",
+        "kodepos": [
+            "86452"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Ngada&jobs=Aimere",
+            "jumlah": "10"
+        },
+        "pulau": null,
+        "kode": "53.09.01"
+    },
+    {
+        "no": "2",
+        "name": "Bajawa",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Ngada&jobs=Bajawa",
+        "kodepos": [
+            "86411",
+            "86419"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Ngada&jobs=Bajawa",
+            "jumlah": "22"
+        },
+        "pulau": null,
+        "kode": "53.09.06"
+    },
+    {
+        "no": "3",
+        "name": "Bajawa Utara",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Ngada&jobs=Bajawa%20Utara",
+        "kodepos": [
+            "86413"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Ngada&jobs=Bajawa%20Utara",
+            "jumlah": "11"
+        },
+        "pulau": null,
+        "kode": "53.09.15"
+    },
+    {
+        "no": "4",
+        "name": "Golewa",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Ngada&jobs=Golewa",
+        "kodepos": [
+            "86461"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Ngada&jobs=Golewa",
+            "jumlah": "16"
+        },
+        "pulau": null,
+        "kode": "53.09.02"
+    },
+    {
+        "no": "5",
+        "name": "Golewa Barat",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Ngada&jobs=Golewa%20Barat",
+        "kodepos": [
+            "86460"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Ngada&jobs=Golewa%20Barat",
+            "jumlah": "10"
+        },
+        "pulau": null,
+        "kode": "53.09.19"
+    },
+    {
+        "no": "6",
+        "name": "Golewa Selatan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Ngada&jobs=Golewa%20Selatan",
+        "kodepos": [
+            "86466"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Ngada&jobs=Golewa%20Selatan",
+            "jumlah": "12"
+        },
+        "pulau": null,
+        "kode": "53.09.18"
+    },
+    {
+        "no": "7",
+        "name": "Inerie",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Ngada&jobs=Inerie",
+        "kodepos": [
+            "86450"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Ngada&jobs=Inerie",
+            "jumlah": "10"
+        },
+        "pulau": null,
+        "kode": "53.09.20"
+    },
+    {
+        "no": "8",
+        "name": "Jerebuu",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Ngada&jobs=Jerebuu",
+        "kodepos": [
+            "86451"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Ngada&jobs=Jerebuu",
+            "jumlah": "12"
+        },
+        "pulau": null,
+        "kode": "53.09.12"
+    },
+    {
+        "no": "9",
+        "name": "Riung",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Ngada&jobs=Riung",
+        "kodepos": [
+            "86419"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Ngada&jobs=Riung",
+            "jumlah": "16"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Ngada&jobs=Riung",
+            "jumlah": "24"
+        },
+        "kode": "53.09.09"
+    },
+    {
+        "no": "10",
+        "name": "Riung Barat",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Ngada&jobs=Riung%20Barat",
+        "kodepos": [
+            "86421"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Ngada&jobs=Riung%20Barat",
+            "jumlah": "10"
+        },
+        "pulau": null,
+        "kode": "53.09.14"
+    },
+    {
+        "no": "11",
+        "name": "Soa",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Ngada&jobs=Soa",
+        "kodepos": [
+            "86422"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Ngada&jobs=Soa",
+            "jumlah": "14"
+        },
+        "pulau": null,
+        "kode": "53.09.07"
+    },
+    {
+        "no": "12",
+        "name": "Wolomeze (Riung Selatan)",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Ngada&jobs=Wolomeze%20(Riung%20Selatan)",
+        "kodepos": [
+            "86423"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Ngada&jobs=Wolomeze%20(Riung%20Selatan)",
+            "jumlah": "8"
+        },
+        "pulau": null,
+        "kode": "53.09.16"
+    }
+]

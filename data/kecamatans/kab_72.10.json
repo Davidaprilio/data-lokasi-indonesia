@@ -1,0 +1,215 @@
+[
+    {
+        "no": "1",
+        "name": "Dolo",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Sigi&jobs=Dolo",
+        "kodepos": [
+            "94361"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Sigi&jobs=Dolo",
+            "jumlah": "11"
+        },
+        "pulau": null,
+        "kode": "72.10.12"
+    },
+    {
+        "no": "2",
+        "name": "Dolo Barat",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Sigi&jobs=Dolo%20Barat",
+        "kodepos": [
+            "94360"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Sigi&jobs=Dolo%20Barat",
+            "jumlah": "12"
+        },
+        "pulau": null,
+        "kode": "72.10.11"
+    },
+    {
+        "no": "3",
+        "name": "Dolo Selatan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Sigi&jobs=Dolo%20Selatan",
+        "kodepos": [
+            "94371"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Sigi&jobs=Dolo%20Selatan",
+            "jumlah": "12"
+        },
+        "pulau": null,
+        "kode": "72.10.09"
+    },
+    {
+        "no": "4",
+        "name": "Gumbasa",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Sigi&jobs=Gumbasa",
+        "kodepos": [
+            "94364"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Sigi&jobs=Gumbasa",
+            "jumlah": "7"
+        },
+        "pulau": null,
+        "kode": "72.10.08"
+    },
+    {
+        "no": "5",
+        "name": "Kinovaro",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Sigi&jobs=Kinovaro",
+        "kodepos": [
+            "94362"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Sigi&jobs=Kinovaro",
+            "jumlah": "10"
+        },
+        "pulau": null,
+        "kode": "72.10.13"
+    },
+    {
+        "no": "6",
+        "name": "Kulawi",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Sigi&jobs=Kulawi",
+        "kodepos": [
+            "94363"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Sigi&jobs=Kulawi",
+            "jumlah": "16"
+        },
+        "pulau": null,
+        "kode": "72.10.05"
+    },
+    {
+        "no": "7",
+        "name": "Kulawi Selatan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Sigi&jobs=Kulawi%20Selatan",
+        "kodepos": [
+            "94373"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Sigi&jobs=Kulawi%20Selatan",
+            "jumlah": "12"
+        },
+        "pulau": null,
+        "kode": "72.10.06"
+    },
+    {
+        "no": "8",
+        "name": "Lindu",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Sigi&jobs=Lindu",
+        "kodepos": [
+            "94369"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Sigi&jobs=Lindu",
+            "jumlah": "5"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Sigi&jobs=Lindu",
+            "jumlah": "1"
+        },
+        "kode": "72.10.04"
+    },
+    {
+        "no": "9",
+        "name": "Marawola",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Sigi&jobs=Marawola",
+        "kodepos": [
+            "94372"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Sigi&jobs=Marawola",
+            "jumlah": "11"
+        },
+        "pulau": null,
+        "kode": "72.10.14"
+    },
+    {
+        "no": "10",
+        "name": "Marawola Barat",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Sigi&jobs=Marawola%20Barat",
+        "kodepos": [
+            "94374"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Sigi&jobs=Marawola%20Barat",
+            "jumlah": "12"
+        },
+        "pulau": null,
+        "kode": "72.10.15"
+    },
+    {
+        "no": "11",
+        "name": "Nokilalaki",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Sigi&jobs=Nokilalaki",
+        "kodepos": [
+            "94365"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Sigi&jobs=Nokilalaki",
+            "jumlah": "5"
+        },
+        "pulau": null,
+        "kode": "72.10.03"
+    },
+    {
+        "no": "12",
+        "name": "Palolo",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Sigi&jobs=Palolo",
+        "kodepos": [
+            "94366"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Sigi&jobs=Palolo",
+            "jumlah": "22"
+        },
+        "pulau": null,
+        "kode": "72.10.02"
+    },
+    {
+        "no": "13",
+        "name": "Pipikoro",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Sigi&jobs=Pipikoro",
+        "kodepos": [
+            "94370"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Sigi&jobs=Pipikoro",
+            "jumlah": "19"
+        },
+        "pulau": null,
+        "kode": "72.10.07"
+    },
+    {
+        "no": "14",
+        "name": "Sigi Biromaru",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Sigi&jobs=Sigi%20Biromaru",
+        "kodepos": [
+            "94367"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Sigi&jobs=Sigi%20Biromaru",
+            "jumlah": "17"
+        },
+        "pulau": null,
+        "kode": "72.10.01"
+    },
+    {
+        "no": "15",
+        "name": "Tanambulava",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Sigi&jobs=Tanambulava",
+        "kodepos": [
+            "94368"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Sigi&jobs=Tanambulava",
+            "jumlah": "5"
+        },
+        "pulau": null,
+        "kode": "72.10.10"
+    }
+]

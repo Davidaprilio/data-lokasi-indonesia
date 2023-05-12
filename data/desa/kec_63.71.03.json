@@ -1,0 +1,65 @@
+[
+    {
+        "no": "1",
+        "kodepos": "70245",
+        "name": "Basirih",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Banjarmasin%20Barat-Kota-Banjarmasin&jobs=Basirih",
+        "kode": "63.71.03.1009"
+    },
+    {
+        "no": "2",
+        "kodepos": "70116",
+        "name": "Belitung Selatan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Banjarmasin%20Barat-Kota-Banjarmasin&jobs=Belitung%20Selatan",
+        "kode": "63.71.03.1002"
+    },
+    {
+        "no": "3",
+        "kodepos": "70116",
+        "name": "Belitung Utara",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Banjarmasin%20Barat-Kota-Banjarmasin&jobs=Belitung%20Utara",
+        "kode": "63.71.03.1001"
+    },
+    {
+        "no": "4",
+        "kodepos": "70129",
+        "name": "Kuin Cerucuk",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Banjarmasin%20Barat-Kota-Banjarmasin&jobs=Kuin%20Cerucuk",
+        "kode": "63.71.03.1008"
+    },
+    {
+        "no": "5",
+        "kodepos": "70128",
+        "name": "Kuin Selatan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Banjarmasin%20Barat-Kota-Banjarmasin&jobs=Kuin%20Selatan",
+        "kode": "63.71.03.1007"
+    },
+    {
+        "no": "6",
+        "kodepos": "70118",
+        "name": "Pelambuan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Banjarmasin%20Barat-Kota-Banjarmasin&jobs=Pelambuan",
+        "kode": "63.71.03.1003"
+    },
+    {
+        "no": "7",
+        "kodepos": "70119",
+        "name": "Telaga Biru",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Banjarmasin%20Barat-Kota-Banjarmasin&jobs=Telaga%20Biru",
+        "kode": "63.71.03.1004"
+    },
+    {
+        "no": "8",
+        "kodepos": "70112",
+        "name": "Telawang",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Banjarmasin%20Barat-Kota-Banjarmasin&jobs=Telawang",
+        "kode": "63.71.03.1005"
+    },
+    {
+        "no": "9",
+        "kodepos": "70113",
+        "name": "Teluk Tiram",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Banjarmasin%20Barat-Kota-Banjarmasin&jobs=Teluk%20Tiram",
+        "kode": "63.71.03.1006"
+    }
+]

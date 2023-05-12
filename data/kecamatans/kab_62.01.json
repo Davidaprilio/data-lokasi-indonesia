@@ -1,0 +1,87 @@
+[
+    {
+        "no": "1",
+        "name": "Arut Selatan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kotawaringin%20Barat&jobs=Arut%20Selatan",
+        "kodepos": [
+            "74111",
+            "74117"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kotawaringin%20Barat&jobs=Arut%20Selatan",
+            "jumlah": "20"
+        },
+        "pulau": null,
+        "kode": "62.01.02"
+    },
+    {
+        "no": "2",
+        "name": "Arut Utara",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kotawaringin%20Barat&jobs=Arut%20Utara",
+        "kodepos": [
+            "74152"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kotawaringin%20Barat&jobs=Arut%20Utara",
+            "jumlah": "11"
+        },
+        "pulau": null,
+        "kode": "62.01.04"
+    },
+    {
+        "no": "3",
+        "name": "Kotawaringin Lama",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kotawaringin%20Barat&jobs=Kotawaringin%20Lama",
+        "kodepos": [
+            "74161"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kotawaringin%20Barat&jobs=Kotawaringin%20Lama",
+            "jumlah": "17"
+        },
+        "pulau": null,
+        "kode": "62.01.03"
+    },
+    {
+        "no": "4",
+        "name": "Kumai",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kotawaringin%20Barat&jobs=Kumai",
+        "kodepos": [
+            "74181"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kotawaringin%20Barat&jobs=Kumai",
+            "jumlah": "18"
+        },
+        "pulau": null,
+        "kode": "62.01.01"
+    },
+    {
+        "no": "5",
+        "name": "Pangkalan Banteng",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kotawaringin%20Barat&jobs=Pangkalan%20Banteng",
+        "kodepos": [
+            "74183"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kotawaringin%20Barat&jobs=Pangkalan%20Banteng",
+            "jumlah": "17"
+        },
+        "pulau": null,
+        "kode": "62.01.06"
+    },
+    {
+        "no": "6",
+        "name": "Pangkalan Lada",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kotawaringin%20Barat&jobs=Pangkalan%20Lada",
+        "kodepos": [
+            "74184"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kotawaringin%20Barat&jobs=Pangkalan%20Lada",
+            "jumlah": "11"
+        },
+        "pulau": null,
+        "kode": "62.01.05"
+    }
+]

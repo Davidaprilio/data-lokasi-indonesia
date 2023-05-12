@@ -1,0 +1,186 @@
+[
+    {
+        "no": "1",
+        "name": "Batumarmar",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pamekasan&jobs=Batumarmar",
+        "kodepos": [
+            "69354"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pamekasan&jobs=Batumarmar",
+            "jumlah": "13"
+        },
+        "pulau": null,
+        "kode": "35.28.11"
+    },
+    {
+        "no": "2",
+        "name": "Galis",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pamekasan&jobs=Galis",
+        "kodepos": [
+            "69382"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pamekasan&jobs=Galis",
+            "jumlah": "10"
+        },
+        "pulau": null,
+        "kode": "35.28.03"
+    },
+    {
+        "no": "3",
+        "name": "Kadur",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pamekasan&jobs=Kadur",
+        "kodepos": [
+            "69355"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pamekasan&jobs=Kadur",
+            "jumlah": "10"
+        },
+        "pulau": null,
+        "kode": "35.28.12"
+    },
+    {
+        "no": "4",
+        "name": "Larangan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pamekasan&jobs=Larangan",
+        "kodepos": [
+            "69383"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pamekasan&jobs=Larangan",
+            "jumlah": "14"
+        },
+        "pulau": null,
+        "kode": "35.28.08"
+    },
+    {
+        "no": "5",
+        "name": "Pademawu",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pamekasan&jobs=Pademawu",
+        "kodepos": [
+            "69321",
+            "69323"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pamekasan&jobs=Pademawu",
+            "jumlah": "22"
+        },
+        "pulau": null,
+        "kode": "35.28.02"
+    },
+    {
+        "no": "6",
+        "name": "Pakong",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pamekasan&jobs=Pakong",
+        "kodepos": [
+            "69352"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pamekasan&jobs=Pakong",
+            "jumlah": "12"
+        },
+        "pulau": null,
+        "kode": "35.28.09"
+    },
+    {
+        "no": "7",
+        "name": "Palenggaan (Palenga'an)",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pamekasan&jobs=Palenggaan%20(Palenga%27an)",
+        "kodepos": [
+            "69362"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pamekasan&jobs=Palenggaan%20(Palenga%27an)",
+            "jumlah": "12"
+        },
+        "pulau": null,
+        "kode": "35.28.06"
+    },
+    {
+        "no": "8",
+        "name": "Pamekasan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pamekasan&jobs=Pamekasan",
+        "kodepos": [
+            "69311",
+            "69317"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pamekasan&jobs=Pamekasan",
+            "jumlah": "18"
+        },
+        "pulau": null,
+        "kode": "35.28.04"
+    },
+    {
+        "no": "9",
+        "name": "Pasean",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pamekasan&jobs=Pasean",
+        "kodepos": [
+            "69356"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pamekasan&jobs=Pasean",
+            "jumlah": "9"
+        },
+        "pulau": null,
+        "kode": "35.28.13"
+    },
+    {
+        "no": "10",
+        "name": "Pegantenan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pamekasan&jobs=Pegantenan",
+        "kodepos": [
+            "69361"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pamekasan&jobs=Pegantenan",
+            "jumlah": "13"
+        },
+        "pulau": null,
+        "kode": "35.28.07"
+    },
+    {
+        "no": "11",
+        "name": "Proppo",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pamekasan&jobs=Proppo",
+        "kodepos": [
+            "69363"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pamekasan&jobs=Proppo",
+            "jumlah": "27"
+        },
+        "pulau": null,
+        "kode": "35.28.05"
+    },
+    {
+        "no": "12",
+        "name": "Tlanakan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pamekasan&jobs=Tlanakan",
+        "kodepos": [
+            "69371"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pamekasan&jobs=Tlanakan",
+            "jumlah": "17"
+        },
+        "pulau": null,
+        "kode": "35.28.01"
+    },
+    {
+        "no": "13",
+        "name": "Waru",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pamekasan&jobs=Waru",
+        "kodepos": [
+            "69353"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pamekasan&jobs=Waru",
+            "jumlah": "12"
+        },
+        "pulau": null,
+        "kode": "35.28.10"
+    }
+]

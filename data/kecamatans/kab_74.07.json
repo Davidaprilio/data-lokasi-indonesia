@@ -1,0 +1,135 @@
+[
+    {
+        "no": "1",
+        "name": "Binongko",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Wakatobi&jobs=Binongko",
+        "kodepos": [
+            "93794"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Wakatobi&jobs=Binongko",
+            "jumlah": "9"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Wakatobi&jobs=Binongko",
+            "jumlah": "2"
+        },
+        "kode": "74.07.04"
+    },
+    {
+        "no": "2",
+        "name": "Kaledupa",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Wakatobi&jobs=Kaledupa",
+        "kodepos": [
+            "93792"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Wakatobi&jobs=Kaledupa",
+            "jumlah": "16"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Wakatobi&jobs=Kaledupa",
+            "jumlah": "29"
+        },
+        "kode": "74.07.02"
+    },
+    {
+        "no": "3",
+        "name": "Kaledupa Selatan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Wakatobi&jobs=Kaledupa%20Selatan",
+        "kodepos": [
+            "93790"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Wakatobi&jobs=Kaledupa%20Selatan",
+            "jumlah": "10"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Wakatobi&jobs=Kaledupa%20Selatan",
+            "jumlah": "53"
+        },
+        "kode": "74.07.06"
+    },
+    {
+        "no": "4",
+        "name": "Togo Binongko",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Wakatobi&jobs=Togo%20Binongko",
+        "kodepos": [
+            "93796"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Wakatobi&jobs=Togo%20Binongko",
+            "jumlah": "5"
+        },
+        "pulau": null,
+        "kode": "74.07.08"
+    },
+    {
+        "no": "5",
+        "name": "Tomia",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Wakatobi&jobs=Tomia",
+        "kodepos": [
+            "93793"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Wakatobi&jobs=Tomia",
+            "jumlah": "10"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Wakatobi&jobs=Tomia",
+            "jumlah": "11"
+        },
+        "kode": "74.07.03"
+    },
+    {
+        "no": "6",
+        "name": "Tomia Timur",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Wakatobi&jobs=Tomia%20Timur",
+        "kodepos": [
+            "93797"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Wakatobi&jobs=Tomia%20Timur",
+            "jumlah": "10"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Wakatobi&jobs=Tomia%20Timur",
+            "jumlah": "5"
+        },
+        "kode": "74.07.07"
+    },
+    {
+        "no": "7",
+        "name": "Wangi Wangi",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Wakatobi&jobs=Wangi%20Wangi",
+        "kodepos": [
+            "93791"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Wakatobi&jobs=Wangi%20Wangi",
+            "jumlah": "20"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Wakatobi&jobs=Wangi%20Wangi",
+            "jumlah": "1"
+        },
+        "kode": "74.07.01"
+    },
+    {
+        "no": "8",
+        "name": "Wangi Wangi Selatan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Wakatobi&jobs=Wangi%20Wangi%20Selatan",
+        "kodepos": [
+            "93795"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Wakatobi&jobs=Wangi%20Wangi%20Selatan",
+            "jumlah": "21"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Wakatobi&jobs=Wangi%20Wangi%20Selatan",
+            "jumlah": "26"
+        },
+        "kode": "74.07.05"
+    }
+]

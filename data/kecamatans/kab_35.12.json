@@ -1,0 +1,245 @@
+[
+    {
+        "no": "1",
+        "name": "Arjasa",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Situbondo&jobs=Arjasa",
+        "kodepos": [
+            "68371"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Situbondo&jobs=Arjasa",
+            "jumlah": "8"
+        },
+        "pulau": null,
+        "kode": "35.12.11"
+    },
+    {
+        "no": "2",
+        "name": "Asembagus",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Situbondo&jobs=Asembagus",
+        "kodepos": [
+            "68373"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Situbondo&jobs=Asembagus",
+            "jumlah": "10"
+        },
+        "pulau": null,
+        "kode": "35.12.13"
+    },
+    {
+        "no": "3",
+        "name": "Banyuglugur",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Situbondo&jobs=Banyuglugur",
+        "kodepos": [
+            "68359"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Situbondo&jobs=Banyuglugur",
+            "jumlah": "7"
+        },
+        "pulau": null,
+        "kode": "35.12.16"
+    },
+    {
+        "no": "4",
+        "name": "Banyuputih",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Situbondo&jobs=Banyuputih",
+        "kodepos": [
+            "68374"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Situbondo&jobs=Banyuputih",
+            "jumlah": "5"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Situbondo&jobs=Banyuputih",
+            "jumlah": "1"
+        },
+        "kode": "35.12.14"
+    },
+    {
+        "no": "5",
+        "name": "Besuki",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Situbondo&jobs=Besuki",
+        "kodepos": [
+            "68356"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Situbondo&jobs=Besuki",
+            "jumlah": "10"
+        },
+        "pulau": null,
+        "kode": "35.12.02"
+    },
+    {
+        "no": "6",
+        "name": "Bungatan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Situbondo&jobs=Bungatan",
+        "kodepos": [
+            "68358"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Situbondo&jobs=Bungatan",
+            "jumlah": "7"
+        },
+        "pulau": null,
+        "kode": "35.12.17"
+    },
+    {
+        "no": "7",
+        "name": "Jangkar",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Situbondo&jobs=Jangkar",
+        "kodepos": [
+            "68372"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Situbondo&jobs=Jangkar",
+            "jumlah": "8"
+        },
+        "pulau": null,
+        "kode": "35.12.12"
+    },
+    {
+        "no": "8",
+        "name": "Jatibanteng",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Situbondo&jobs=Jatibanteng",
+        "kodepos": [
+            "68357"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Situbondo&jobs=Jatibanteng",
+            "jumlah": "8"
+        },
+        "pulau": null,
+        "kode": "35.12.01"
+    },
+    {
+        "no": "9",
+        "name": "Kapongan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Situbondo&jobs=Kapongan",
+        "kodepos": [
+            "68362"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Situbondo&jobs=Kapongan",
+            "jumlah": "10"
+        },
+        "pulau": null,
+        "kode": "35.12.10"
+    },
+    {
+        "no": "10",
+        "name": "Kendit",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Situbondo&jobs=Kendit",
+        "kodepos": [
+            "68352"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Situbondo&jobs=Kendit",
+            "jumlah": "7"
+        },
+        "pulau": null,
+        "kode": "35.12.05"
+    },
+    {
+        "no": "11",
+        "name": "Mangaran",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Situbondo&jobs=Mangaran",
+        "kodepos": [
+            "68363"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Situbondo&jobs=Mangaran",
+            "jumlah": "6"
+        },
+        "pulau": null,
+        "kode": "35.12.09"
+    },
+    {
+        "no": "12",
+        "name": "Mlandingan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Situbondo&jobs=Mlandingan",
+        "kodepos": [
+            "68353"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Situbondo&jobs=Mlandingan",
+            "jumlah": "7"
+        },
+        "pulau": null,
+        "kode": "35.12.04"
+    },
+    {
+        "no": "13",
+        "name": "Panarukan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Situbondo&jobs=Panarukan",
+        "kodepos": [
+            "68351"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Situbondo&jobs=Panarukan",
+            "jumlah": "8"
+        },
+        "pulau": null,
+        "kode": "35.12.06"
+    },
+    {
+        "no": "14",
+        "name": "Panji",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Situbondo&jobs=Panji",
+        "kodepos": [
+            "68321",
+            "68323"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Situbondo&jobs=Panji",
+            "jumlah": "12"
+        },
+        "pulau": null,
+        "kode": "35.12.08"
+    },
+    {
+        "no": "15",
+        "name": "Situbondo",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Situbondo&jobs=Situbondo",
+        "kodepos": [
+            "68311",
+            "68316"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Situbondo&jobs=Situbondo",
+            "jumlah": "6"
+        },
+        "pulau": null,
+        "kode": "35.12.07"
+    },
+    {
+        "no": "16",
+        "name": "Suboh",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Situbondo&jobs=Suboh",
+        "kodepos": [
+            "68354"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Situbondo&jobs=Suboh",
+            "jumlah": "8"
+        },
+        "pulau": null,
+        "kode": "35.12.03"
+    },
+    {
+        "no": "17",
+        "name": "Sumbermalang",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Situbondo&jobs=Sumbermalang",
+        "kodepos": [
+            "68355"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Situbondo&jobs=Sumbermalang",
+            "jumlah": "9"
+        },
+        "pulau": null,
+        "kode": "35.12.15"
+    }
+]

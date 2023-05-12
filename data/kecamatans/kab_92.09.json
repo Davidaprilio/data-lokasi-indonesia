@@ -1,0 +1,411 @@
+[
+    {
+        "no": "1",
+        "name": "Abun",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tambrauw&jobs=Abun",
+        "kodepos": [
+            "98363"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tambrauw&jobs=Abun",
+            "jumlah": "7"
+        },
+        "pulau": null,
+        "kode": "92.09.06"
+    },
+    {
+        "no": "2",
+        "name": "Amberbaken",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tambrauw&jobs=Amberbaken",
+        "kodepos": [
+            "98381"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tambrauw&jobs=Amberbaken",
+            "jumlah": "10"
+        },
+        "pulau": null,
+        "kode": "92.09.10"
+    },
+    {
+        "no": "3",
+        "name": "Amberbaken Barat",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tambrauw&jobs=Amberbaken%20Barat",
+        "kodepos": [
+            "98382"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tambrauw&jobs=Amberbaken%20Barat",
+            "jumlah": "5"
+        },
+        "pulau": null,
+        "kode": "92.09.27"
+    },
+    {
+        "no": "4",
+        "name": "Ases",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tambrauw&jobs=Ases",
+        "kodepos": [
+            "98364"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tambrauw&jobs=Ases",
+            "jumlah": "4"
+        },
+        "pulau": null,
+        "kode": "92.09.15"
+    },
+    {
+        "no": "5",
+        "name": "Bamusbama",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tambrauw&jobs=Bamusbama",
+        "kodepos": [
+            "98378"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tambrauw&jobs=Bamusbama",
+            "jumlah": "6"
+        },
+        "pulau": null,
+        "kode": "92.09.14"
+    },
+    {
+        "no": "6",
+        "name": "Bikar",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tambrauw&jobs=Bikar",
+        "kodepos": [
+            "98365"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tambrauw&jobs=Bikar",
+            "jumlah": "10"
+        },
+        "pulau": null,
+        "kode": "92.09.13"
+    },
+    {
+        "no": "7",
+        "name": "Fef",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tambrauw&jobs=Fef",
+        "kodepos": [
+            "98366"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tambrauw&jobs=Fef",
+            "jumlah": "10"
+        },
+        "pulau": null,
+        "kode": "92.09.01"
+    },
+    {
+        "no": "8",
+        "name": "Ireres",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tambrauw&jobs=Ireres",
+        "kodepos": [
+            "98367"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tambrauw&jobs=Ireres",
+            "jumlah": "6"
+        },
+        "pulau": null,
+        "kode": "92.09.17"
+    },
+    {
+        "no": "9",
+        "name": "Kasi",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tambrauw&jobs=Kasi",
+        "kodepos": [
+            "98383"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tambrauw&jobs=Kasi",
+            "jumlah": "7"
+        },
+        "pulau": null,
+        "kode": "92.09.28"
+    },
+    {
+        "no": "10",
+        "name": "Kebar",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tambrauw&jobs=Kebar",
+        "kodepos": [
+            "98391"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tambrauw&jobs=Kebar",
+            "jumlah": "10"
+        },
+        "pulau": null,
+        "kode": "92.09.09"
+    },
+    {
+        "no": "11",
+        "name": "Kebar Selatan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tambrauw&jobs=Kebar%20Selatan",
+        "kodepos": [
+            "98392"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tambrauw&jobs=Kebar%20Selatan",
+            "jumlah": "10"
+        },
+        "pulau": null,
+        "kode": "92.09.24"
+    },
+    {
+        "no": "12",
+        "name": "Kebar Timur",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tambrauw&jobs=Kebar%20Timur",
+        "kodepos": [
+            "98393"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tambrauw&jobs=Kebar%20Timur",
+            "jumlah": "13"
+        },
+        "pulau": null,
+        "kode": "92.09.23"
+    },
+    {
+        "no": "13",
+        "name": "Kwesefo",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tambrauw&jobs=Kwesefo",
+        "kodepos": [
+            "98368"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tambrauw&jobs=Kwesefo",
+            "jumlah": "7"
+        },
+        "pulau": null,
+        "kode": "92.09.21"
+    },
+    {
+        "no": "14",
+        "name": "Kwoor",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tambrauw&jobs=Kwoor",
+        "kodepos": [
+            "98369"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tambrauw&jobs=Kwoor",
+            "jumlah": "6"
+        },
+        "pulau": null,
+        "kode": "92.09.04"
+    },
+    {
+        "no": "15",
+        "name": "Manekar",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tambrauw&jobs=Manekar",
+        "kodepos": [
+            "98394"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tambrauw&jobs=Manekar",
+            "jumlah": "10"
+        },
+        "pulau": null,
+        "kode": "92.09.25"
+    },
+    {
+        "no": "16",
+        "name": "Mawabuan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tambrauw&jobs=Mawabuan",
+        "kodepos": [
+            "98395"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tambrauw&jobs=Mawabuan",
+            "jumlah": "7"
+        },
+        "pulau": null,
+        "kode": "92.09.22"
+    },
+    {
+        "no": "17",
+        "name": "Miyah",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tambrauw&jobs=Miyah",
+        "kodepos": [
+            "98371"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tambrauw&jobs=Miyah",
+            "jumlah": "8"
+        },
+        "pulau": null,
+        "kode": "92.09.02"
+    },
+    {
+        "no": "18",
+        "name": "Miyah Selatan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tambrauw&jobs=Miyah%20Selatan",
+        "kodepos": [
+            "98372"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tambrauw&jobs=Miyah%20Selatan",
+            "jumlah": "7"
+        },
+        "pulau": null,
+        "kode": "92.09.16"
+    },
+    {
+        "no": "19",
+        "name": "Moraid",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tambrauw&jobs=Moraid",
+        "kodepos": [
+            "98361"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tambrauw&jobs=Moraid",
+            "jumlah": "9"
+        },
+        "pulau": null,
+        "kode": "92.09.08"
+    },
+    {
+        "no": "20",
+        "name": "Mpur",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tambrauw&jobs=Mpur",
+        "kodepos": [
+            "98384"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tambrauw&jobs=Mpur",
+            "jumlah": "6"
+        },
+        "pulau": null,
+        "kode": "92.09.26"
+    },
+    {
+        "no": "21",
+        "name": "Mubrani",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tambrauw&jobs=Mubrani",
+        "kodepos": [
+            "98385"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tambrauw&jobs=Mubrani",
+            "jumlah": "11"
+        },
+        "pulau": null,
+        "kode": "92.09.12"
+    },
+    {
+        "no": "22",
+        "name": "Sausapor",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tambrauw&jobs=Sausapor",
+        "kodepos": [
+            "98373"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tambrauw&jobs=Sausapor",
+            "jumlah": "10"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tambrauw&jobs=Sausapor",
+            "jumlah": "1"
+        },
+        "kode": "92.09.05"
+    },
+    {
+        "no": "23",
+        "name": "Selemkai",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tambrauw&jobs=Selemkai",
+        "kodepos": [
+            "98362"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tambrauw&jobs=Selemkai",
+            "jumlah": "5"
+        },
+        "pulau": null,
+        "kode": "92.09.29"
+    },
+    {
+        "no": "24",
+        "name": "Senopi",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tambrauw&jobs=Senopi",
+        "kodepos": [
+            "98396"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tambrauw&jobs=Senopi",
+            "jumlah": "8"
+        },
+        "pulau": null,
+        "kode": "92.09.11"
+    },
+    {
+        "no": "25",
+        "name": "Syujak",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tambrauw&jobs=Syujak",
+        "kodepos": [
+            "98374"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tambrauw&jobs=Syujak",
+            "jumlah": "4"
+        },
+        "pulau": null,
+        "kode": "92.09.07"
+    },
+    {
+        "no": "26",
+        "name": "Tinggouw",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tambrauw&jobs=Tinggouw",
+        "kodepos": [
+            "98375"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tambrauw&jobs=Tinggouw",
+            "jumlah": "5"
+        },
+        "pulau": null,
+        "kode": "92.09.20"
+    },
+    {
+        "no": "27",
+        "name": "Tobouw",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tambrauw&jobs=Tobouw",
+        "kodepos": [
+            "98376"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tambrauw&jobs=Tobouw",
+            "jumlah": "5"
+        },
+        "pulau": null,
+        "kode": "92.09.18"
+    },
+    {
+        "no": "28",
+        "name": "Wilhem Roumbouts",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tambrauw&jobs=Wilhem%20Roumbouts",
+        "kodepos": [
+            "98377"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tambrauw&jobs=Wilhem%20Roumbouts",
+            "jumlah": "4"
+        },
+        "pulau": null,
+        "kode": "92.09.19"
+    },
+    {
+        "no": "29",
+        "name": "Yembun",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tambrauw&jobs=Yembun",
+        "kodepos": [
+            "98379"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Tambrauw&jobs=Yembun",
+            "jumlah": "6"
+        },
+        "pulau": null,
+        "kode": "92.09.03"
+    }
+]

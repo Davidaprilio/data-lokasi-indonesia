@@ -1,0 +1,123 @@
+[
+    {
+        "no": "1",
+        "name": "Kota Ternate Selatan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Ternate&jobs=Kota%20Ternate%20Selatan",
+        "kodepos": [
+            "97713",
+            "97734"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Ternate&jobs=Kota%20Ternate%20Selatan",
+            "jumlah": "17"
+        },
+        "pulau": null,
+        "kode": "82.71.02"
+    },
+    {
+        "no": "2",
+        "name": "Kota Ternate Tengah",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Ternate&jobs=Kota%20Ternate%20Tengah",
+        "kodepos": [
+            "97711",
+            "97732"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Ternate&jobs=Kota%20Ternate%20Tengah",
+            "jumlah": "16"
+        },
+        "pulau": null,
+        "kode": "82.71.06"
+    },
+    {
+        "no": "3",
+        "name": "Kota Ternate Utara",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Ternate&jobs=Kota%20Ternate%20Utara",
+        "kodepos": [
+            "97723",
+            "97738"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Ternate&jobs=Kota%20Ternate%20Utara",
+            "jumlah": "14"
+        },
+        "pulau": null,
+        "kode": "82.71.03"
+    },
+    {
+        "no": "4",
+        "name": "Moti",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Ternate&jobs=Moti",
+        "kodepos": [
+            "97741"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Ternate&jobs=Moti",
+            "jumlah": "6"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kota-Ternate&jobs=Moti",
+            "jumlah": "1"
+        },
+        "kode": "82.71.04"
+    },
+    {
+        "no": "5",
+        "name": "Pulau Batang Dua",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Ternate&jobs=Pulau%20Batang%20Dua",
+        "kodepos": [
+            "97743"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Ternate&jobs=Pulau%20Batang%20Dua",
+            "jumlah": "6"
+        },
+        "pulau": null,
+        "kode": "82.71.05"
+    },
+    {
+        "no": "6",
+        "name": "Pulau Hiri",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Ternate&jobs=Pulau%20Hiri",
+        "kodepos": [
+            "97745"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Ternate&jobs=Pulau%20Hiri",
+            "jumlah": "6"
+        },
+        "pulau": null,
+        "kode": "82.71.07"
+    },
+    {
+        "no": "7",
+        "name": "Pulau Ternate",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Ternate&jobs=Pulau%20Ternate",
+        "kodepos": [
+            "97747"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Ternate&jobs=Pulau%20Ternate",
+            "jumlah": "6"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kota-Ternate&jobs=Pulau%20Ternate",
+            "jumlah": "7"
+        },
+        "kode": "82.71.01"
+    },
+    {
+        "no": "8",
+        "name": "Ternate Barat",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Ternate&jobs=Ternate%20Barat",
+        "kodepos": [
+            "97747"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Ternate&jobs=Ternate%20Barat",
+            "jumlah": "7"
+        },
+        "pulau": null,
+        "kode": "82.71.08"
+    }
+]

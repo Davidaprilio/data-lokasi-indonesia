@@ -1,0 +1,72 @@
+[
+    {
+        "no": "1",
+        "name": "Abenaho",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Yalimo&jobs=Abenaho",
+        "kodepos": [
+            "99085"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Yalimo&jobs=Abenaho",
+            "jumlah": "108"
+        },
+        "pulau": null,
+        "kode": "95.06.03"
+    },
+    {
+        "no": "2",
+        "name": "Apalapsili",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Yalimo&jobs=Apalapsili",
+        "kodepos": [
+            "99084"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Yalimo&jobs=Apalapsili",
+            "jumlah": "50"
+        },
+        "pulau": null,
+        "kode": "95.06.02"
+    },
+    {
+        "no": "3",
+        "name": "Benawa",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Yalimo&jobs=Benawa",
+        "kodepos": [
+            "99081"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Yalimo&jobs=Benawa",
+            "jumlah": "37"
+        },
+        "pulau": null,
+        "kode": "95.06.04"
+    },
+    {
+        "no": "4",
+        "name": "Elelim",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Yalimo&jobs=Elelim",
+        "kodepos": [
+            "99082"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Yalimo&jobs=Elelim",
+            "jumlah": "44"
+        },
+        "pulau": null,
+        "kode": "95.06.01"
+    },
+    {
+        "no": "5",
+        "name": "Welarek",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Yalimo&jobs=Welarek",
+        "kodepos": [
+            "99083"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Yalimo&jobs=Welarek",
+            "jumlah": "61"
+        },
+        "pulau": null,
+        "kode": "95.06.05"
+    }
+]

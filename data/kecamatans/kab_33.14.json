@@ -1,0 +1,284 @@
+[
+    {
+        "no": "1",
+        "name": "Gemolong",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Sragen&jobs=Gemolong",
+        "kodepos": [
+            "57274"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Sragen&jobs=Gemolong",
+            "jumlah": "14"
+        },
+        "pulau": null,
+        "kode": "33.14.13"
+    },
+    {
+        "no": "2",
+        "name": "Gesi",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Sragen&jobs=Gesi",
+        "kodepos": [
+            "57262"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Sragen&jobs=Gesi",
+            "jumlah": "7"
+        },
+        "pulau": null,
+        "kode": "33.14.18"
+    },
+    {
+        "no": "3",
+        "name": "Gondang",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Sragen&jobs=Gondang",
+        "kodepos": [
+            "57254"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Sragen&jobs=Gondang",
+            "jumlah": "9"
+        },
+        "pulau": null,
+        "kode": "33.14.06"
+    },
+    {
+        "no": "4",
+        "name": "Jenar",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Sragen&jobs=Jenar",
+        "kodepos": [
+            "57256"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Sragen&jobs=Jenar",
+            "jumlah": "7"
+        },
+        "pulau": null,
+        "kode": "33.14.20"
+    },
+    {
+        "no": "5",
+        "name": "Kalijambe",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Sragen&jobs=Kalijambe",
+        "kodepos": [
+            "57275"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Sragen&jobs=Kalijambe",
+            "jumlah": "14"
+        },
+        "pulau": null,
+        "kode": "33.14.01"
+    },
+    {
+        "no": "6",
+        "name": "Karangmalang",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Sragen&jobs=Karangmalang",
+        "kodepos": [
+            "57221",
+            "57222"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Sragen&jobs=Karangmalang",
+            "jumlah": "10"
+        },
+        "pulau": null,
+        "kode": "33.14.09"
+    },
+    {
+        "no": "7",
+        "name": "Kedawung",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Sragen&jobs=Kedawung",
+        "kodepos": [
+            "57292"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Sragen&jobs=Kedawung",
+            "jumlah": "10"
+        },
+        "pulau": null,
+        "kode": "33.14.04"
+    },
+    {
+        "no": "8",
+        "name": "Masaran",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Sragen&jobs=Masaran",
+        "kodepos": [
+            "57282"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Sragen&jobs=Masaran",
+            "jumlah": "13"
+        },
+        "pulau": null,
+        "kode": "33.14.03"
+    },
+    {
+        "no": "9",
+        "name": "Miri",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Sragen&jobs=Miri",
+        "kodepos": [
+            "57276"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Sragen&jobs=Miri",
+            "jumlah": "10"
+        },
+        "pulau": null,
+        "kode": "33.14.14"
+    },
+    {
+        "no": "10",
+        "name": "Mondokan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Sragen&jobs=Mondokan",
+        "kodepos": [
+            "57271"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Sragen&jobs=Mondokan",
+            "jumlah": "9"
+        },
+        "pulau": null,
+        "kode": "33.14.16"
+    },
+    {
+        "no": "11",
+        "name": "Ngrampal",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Sragen&jobs=Ngrampal",
+        "kodepos": [
+            "57252"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Sragen&jobs=Ngrampal",
+            "jumlah": "8"
+        },
+        "pulau": null,
+        "kode": "33.14.08"
+    },
+    {
+        "no": "12",
+        "name": "Plupuh",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Sragen&jobs=Plupuh",
+        "kodepos": [
+            "57283"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Sragen&jobs=Plupuh",
+            "jumlah": "16"
+        },
+        "pulau": null,
+        "kode": "33.14.02"
+    },
+    {
+        "no": "13",
+        "name": "Sambirejo",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Sragen&jobs=Sambirejo",
+        "kodepos": [
+            "57293"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Sragen&jobs=Sambirejo",
+            "jumlah": "9"
+        },
+        "pulau": null,
+        "kode": "33.14.05"
+    },
+    {
+        "no": "14",
+        "name": "Sambungmacan (Sambung Macan)",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Sragen&jobs=Sambungmacan%20(Sambung%20Macan)",
+        "kodepos": [
+            "57253"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Sragen&jobs=Sambungmacan%20(Sambung%20Macan)",
+            "jumlah": "9"
+        },
+        "pulau": null,
+        "kode": "33.14.07"
+    },
+    {
+        "no": "15",
+        "name": "Sidoharjo",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Sragen&jobs=Sidoharjo",
+        "kodepos": [
+            "57281"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Sragen&jobs=Sidoharjo",
+            "jumlah": "12"
+        },
+        "pulau": null,
+        "kode": "33.14.11"
+    },
+    {
+        "no": "16",
+        "name": "Sragen",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Sragen&jobs=Sragen",
+        "kodepos": [
+            "57211",
+            "57216"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Sragen&jobs=Sragen",
+            "jumlah": "8"
+        },
+        "pulau": null,
+        "kode": "33.14.10"
+    },
+    {
+        "no": "17",
+        "name": "Sukodono",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Sragen&jobs=Sukodono",
+        "kodepos": [
+            "57263"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Sragen&jobs=Sukodono",
+            "jumlah": "9"
+        },
+        "pulau": null,
+        "kode": "33.14.17"
+    },
+    {
+        "no": "18",
+        "name": "Sumberlawang",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Sragen&jobs=Sumberlawang",
+        "kodepos": [
+            "57272"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Sragen&jobs=Sumberlawang",
+            "jumlah": "11"
+        },
+        "pulau": null,
+        "kode": "33.14.15"
+    },
+    {
+        "no": "19",
+        "name": "Tangen",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Sragen&jobs=Tangen",
+        "kodepos": [
+            "57261"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Sragen&jobs=Tangen",
+            "jumlah": "7"
+        },
+        "pulau": null,
+        "kode": "33.14.19"
+    },
+    {
+        "no": "20",
+        "name": "Tanon",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Sragen&jobs=Tanon",
+        "kodepos": [
+            "57277"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Sragen&jobs=Tanon",
+            "jumlah": "16"
+        },
+        "pulau": null,
+        "kode": "33.14.12"
+    }
+]

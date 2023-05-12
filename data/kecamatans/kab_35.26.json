@@ -1,0 +1,255 @@
+[
+    {
+        "no": "1",
+        "name": "Arosbaya",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Bangkalan&jobs=Arosbaya",
+        "kodepos": [
+            "69151"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Bangkalan&jobs=Arosbaya",
+            "jumlah": "18"
+        },
+        "pulau": null,
+        "kode": "35.26.05"
+    },
+    {
+        "no": "2",
+        "name": "Bangkalan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Bangkalan&jobs=Bangkalan",
+        "kodepos": [
+            "69112",
+            "69119"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Bangkalan&jobs=Bangkalan",
+            "jumlah": "13"
+        },
+        "pulau": null,
+        "kode": "35.26.01"
+    },
+    {
+        "no": "3",
+        "name": "Blega",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Bangkalan&jobs=Blega",
+        "kodepos": [
+            "69174"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Bangkalan&jobs=Blega",
+            "jumlah": "19"
+        },
+        "pulau": null,
+        "kode": "35.26.15"
+    },
+    {
+        "no": "4",
+        "name": "Burneh",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Bangkalan&jobs=Burneh",
+        "kodepos": [
+            "69121"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Bangkalan&jobs=Burneh",
+            "jumlah": "12"
+        },
+        "pulau": null,
+        "kode": "35.26.03"
+    },
+    {
+        "no": "5",
+        "name": "Galis",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Bangkalan&jobs=Galis",
+        "kodepos": [
+            "69173"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Bangkalan&jobs=Galis",
+            "jumlah": "21"
+        },
+        "pulau": null,
+        "kode": "35.26.18"
+    },
+    {
+        "no": "6",
+        "name": "Geger",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Bangkalan&jobs=Geger",
+        "kodepos": [
+            "69152"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Bangkalan&jobs=Geger",
+            "jumlah": "13"
+        },
+        "pulau": null,
+        "kode": "35.26.06"
+    },
+    {
+        "no": "7",
+        "name": "Kamal",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Bangkalan&jobs=Kamal",
+        "kodepos": [
+            "69162"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Bangkalan&jobs=Kamal",
+            "jumlah": "10"
+        },
+        "pulau": null,
+        "kode": "35.26.04"
+    },
+    {
+        "no": "8",
+        "name": "Klampis",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Bangkalan&jobs=Klampis",
+        "kodepos": [
+            "69153"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Bangkalan&jobs=Klampis",
+            "jumlah": "22"
+        },
+        "pulau": null,
+        "kode": "35.26.07"
+    },
+    {
+        "no": "9",
+        "name": "Kokop",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Bangkalan&jobs=Kokop",
+        "kodepos": [
+            "69155"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Bangkalan&jobs=Kokop",
+            "jumlah": "13"
+        },
+        "pulau": null,
+        "kode": "35.26.10"
+    },
+    {
+        "no": "10",
+        "name": "Konang",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Bangkalan&jobs=Konang",
+        "kodepos": [
+            "69175"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Bangkalan&jobs=Konang",
+            "jumlah": "13"
+        },
+        "pulau": null,
+        "kode": "35.26.17"
+    },
+    {
+        "no": "11",
+        "name": "Kwanyar",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Bangkalan&jobs=Kwanyar",
+        "kodepos": [
+            "69163"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Bangkalan&jobs=Kwanyar",
+            "jumlah": "16"
+        },
+        "pulau": null,
+        "kode": "35.26.11"
+    },
+    {
+        "no": "12",
+        "name": "Labang",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Bangkalan&jobs=Labang",
+        "kodepos": [
+            "69164"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Bangkalan&jobs=Labang",
+            "jumlah": "13"
+        },
+        "pulau": null,
+        "kode": "35.26.12"
+    },
+    {
+        "no": "13",
+        "name": "Modung",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Bangkalan&jobs=Modung",
+        "kodepos": [
+            "69166"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Bangkalan&jobs=Modung",
+            "jumlah": "17"
+        },
+        "pulau": null,
+        "kode": "35.26.16"
+    },
+    {
+        "no": "14",
+        "name": "Sepulu",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Bangkalan&jobs=Sepulu",
+        "kodepos": [
+            "69154"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Bangkalan&jobs=Sepulu",
+            "jumlah": "15"
+        },
+        "pulau": null,
+        "kode": "35.26.08"
+    },
+    {
+        "no": "15",
+        "name": "Socah",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Bangkalan&jobs=Socah",
+        "kodepos": [
+            "69161"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Bangkalan&jobs=Socah",
+            "jumlah": "11"
+        },
+        "pulau": null,
+        "kode": "35.26.02"
+    },
+    {
+        "no": "16",
+        "name": "Tanah Merah",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Bangkalan&jobs=Tanah%20Merah",
+        "kodepos": [
+            "69172"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Bangkalan&jobs=Tanah%20Merah",
+            "jumlah": "23"
+        },
+        "pulau": null,
+        "kode": "35.26.13"
+    },
+    {
+        "no": "17",
+        "name": "Tanjung Bumi (Tanjungbumi)",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Bangkalan&jobs=Tanjung%20Bumi%20(Tanjungbumi)",
+        "kodepos": [
+            "69156"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Bangkalan&jobs=Tanjung%20Bumi%20(Tanjungbumi)",
+            "jumlah": "14"
+        },
+        "pulau": null,
+        "kode": "35.26.09"
+    },
+    {
+        "no": "18",
+        "name": "Tragah",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Bangkalan&jobs=Tragah",
+        "kodepos": [
+            "69165"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Bangkalan&jobs=Tragah",
+            "jumlah": "18"
+        },
+        "pulau": null,
+        "kode": "35.26.14"
+    }
+]

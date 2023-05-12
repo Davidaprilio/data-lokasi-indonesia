@@ -1,0 +1,387 @@
+[
+    {
+        "no": "1",
+        "type": "Kota",
+        "name": "Bau Bau",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kota&jobs=Bau%20Bau",
+        "kodepos": [
+            "93711",
+            "93733"
+        ],
+        "kecamatan": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kota&jobs=Bau%20Bau",
+            "jumlah": "8"
+        },
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kota&jobs=Bau%20Bau",
+            "jumlah": "43"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kota&jobs=Bau%20Bau",
+            "jumlah": "5"
+        },
+        "kode": "74.72"
+    },
+    {
+        "no": "2",
+        "type": "Kabupaten",
+        "name": "Bombana",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Bombana",
+        "kodepos": [
+            "93770",
+            "93789"
+        ],
+        "kecamatan": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Bombana",
+            "jumlah": "22"
+        },
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kab.&jobs=Bombana",
+            "jumlah": "143"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kab.&jobs=Bombana",
+            "jumlah": "26"
+        },
+        "kode": "74.06"
+    },
+    {
+        "no": "3",
+        "type": "Kabupaten",
+        "name": "Buton",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Buton",
+        "kodepos": [
+            "93752",
+            "93758"
+        ],
+        "kecamatan": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Buton",
+            "jumlah": "7"
+        },
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kab.&jobs=Buton",
+            "jumlah": "95"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kab.&jobs=Buton",
+            "jumlah": "45"
+        },
+        "kode": "74.04"
+    },
+    {
+        "no": "4",
+        "type": "Kabupaten",
+        "name": "Buton Selatan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Buton%20Selatan",
+        "kodepos": [
+            "93741",
+            "93747"
+        ],
+        "kecamatan": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Buton%20Selatan",
+            "jumlah": "7"
+        },
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kab.&jobs=Buton%20Selatan",
+            "jumlah": "70"
+        },
+        "pulau": null,
+        "kode": "74.15"
+    },
+    {
+        "no": "5",
+        "type": "Kabupaten",
+        "name": "Buton Tengah",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Buton%20Tengah",
+        "kodepos": [
+            "93760",
+            "93766"
+        ],
+        "kecamatan": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Buton%20Tengah",
+            "jumlah": "7"
+        },
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kab.&jobs=Buton%20Tengah",
+            "jumlah": "77"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kab.&jobs=Buton%20Tengah",
+            "jumlah": "4"
+        },
+        "kode": "74.14"
+    },
+    {
+        "no": "6",
+        "type": "Kabupaten",
+        "name": "Buton Utara",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Buton%20Utara",
+        "kodepos": [
+            "93670",
+            "93675"
+        ],
+        "kecamatan": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Buton%20Utara",
+            "jumlah": "6"
+        },
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kab.&jobs=Buton%20Utara",
+            "jumlah": "90"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kab.&jobs=Buton%20Utara",
+            "jumlah": "31"
+        },
+        "kode": "74.10"
+    },
+    {
+        "no": "7",
+        "type": "Kota",
+        "name": "Kendari",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kota&jobs=Kendari",
+        "kodepos": [
+            "93111",
+            "93238"
+        ],
+        "kecamatan": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kota&jobs=Kendari",
+            "jumlah": "10"
+        },
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kota&jobs=Kendari",
+            "jumlah": "64"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kota&jobs=Kendari",
+            "jumlah": "1"
+        },
+        "kode": "74.71"
+    },
+    {
+        "no": "8",
+        "type": "Kabupaten",
+        "name": "Kolaka",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Kolaka",
+        "kodepos": [
+            "93511",
+            "93566"
+        ],
+        "kecamatan": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Kolaka",
+            "jumlah": "12"
+        },
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kab.&jobs=Kolaka",
+            "jumlah": "135"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kab.&jobs=Kolaka",
+            "jumlah": "14"
+        },
+        "kode": "74.01"
+    },
+    {
+        "no": "9",
+        "type": "Kabupaten",
+        "name": "Kolaka Timur",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Kolaka%20Timur",
+        "kodepos": [
+            "93570",
+            "93582"
+        ],
+        "kecamatan": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Kolaka%20Timur",
+            "jumlah": "12"
+        },
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kab.&jobs=Kolaka%20Timur",
+            "jumlah": "133"
+        },
+        "pulau": null,
+        "kode": "74.11"
+    },
+    {
+        "no": "10",
+        "type": "Kabupaten",
+        "name": "Kolaka Utara",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Kolaka%20Utara",
+        "kodepos": [
+            "93911",
+            "93963"
+        ],
+        "kecamatan": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Kolaka%20Utara",
+            "jumlah": "15"
+        },
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kab.&jobs=Kolaka%20Utara",
+            "jumlah": "133"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kab.&jobs=Kolaka%20Utara",
+            "jumlah": "12"
+        },
+        "kode": "74.08"
+    },
+    {
+        "no": "11",
+        "type": "Kabupaten",
+        "name": "Konawe",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Konawe",
+        "kodepos": [
+            "93411",
+            "93472"
+        ],
+        "kecamatan": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Konawe",
+            "jumlah": "27"
+        },
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kab.&jobs=Konawe",
+            "jumlah": "348"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kab.&jobs=Konawe",
+            "jumlah": "7"
+        },
+        "kode": "74.02"
+    },
+    {
+        "no": "12",
+        "type": "Kabupaten",
+        "name": "Konawe Kepulauan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Konawe%20Kepulauan",
+        "kodepos": [
+            "93391",
+            "93398"
+        ],
+        "kecamatan": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Konawe%20Kepulauan",
+            "jumlah": "7"
+        },
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kab.&jobs=Konawe%20Kepulauan",
+            "jumlah": "96"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kab.&jobs=Konawe%20Kepulauan",
+            "jumlah": "2"
+        },
+        "kode": "74.12"
+    },
+    {
+        "no": "13",
+        "type": "Kabupaten",
+        "name": "Konawe Selatan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Konawe%20Selatan",
+        "kodepos": [
+            "93810",
+            "93895"
+        ],
+        "kecamatan": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Konawe%20Selatan",
+            "jumlah": "25"
+        },
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kab.&jobs=Konawe%20Selatan",
+            "jumlah": "351"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kab.&jobs=Konawe%20Selatan",
+            "jumlah": "28"
+        },
+        "kode": "74.05"
+    },
+    {
+        "no": "14",
+        "type": "Kabupaten",
+        "name": "Konawe Utara",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Konawe%20Utara",
+        "kodepos": [
+            "93341",
+            "93359"
+        ],
+        "kecamatan": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Konawe%20Utara",
+            "jumlah": "13"
+        },
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kab.&jobs=Konawe%20Utara",
+            "jumlah": "170"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kab.&jobs=Konawe%20Utara",
+            "jumlah": "70"
+        },
+        "kode": "74.09"
+    },
+    {
+        "no": "15",
+        "type": "Kabupaten",
+        "name": "Muna",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Muna",
+        "kodepos": [
+            "93611",
+            "93685"
+        ],
+        "kecamatan": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Muna",
+            "jumlah": "22"
+        },
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kab.&jobs=Muna",
+            "jumlah": "150"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kab.&jobs=Muna",
+            "jumlah": "197"
+        },
+        "kode": "74.03"
+    },
+    {
+        "no": "16",
+        "type": "Kabupaten",
+        "name": "Muna Barat",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Muna%20Barat",
+        "kodepos": [
+            "93643",
+            "93658"
+        ],
+        "kecamatan": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Muna%20Barat",
+            "jumlah": "11"
+        },
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kab.&jobs=Muna%20Barat",
+            "jumlah": "86"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kab.&jobs=Muna%20Barat",
+            "jumlah": "1"
+        },
+        "kode": "74.13"
+    },
+    {
+        "no": "17",
+        "type": "Kabupaten",
+        "name": "Wakatobi",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Wakatobi",
+        "kodepos": [
+            "93790",
+            "93797"
+        ],
+        "kecamatan": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Wakatobi",
+            "jumlah": "8"
+        },
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kab.&jobs=Wakatobi",
+            "jumlah": "101"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kab.&jobs=Wakatobi",
+            "jumlah": "142"
+        },
+        "kode": "74.07"
+    }
+]

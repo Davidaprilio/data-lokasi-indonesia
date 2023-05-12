@@ -1,0 +1,347 @@
+[
+    {
+        "no": "1",
+        "name": "Banda Alam",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Aceh%20Timur&jobs=Banda%20Alam",
+        "kodepos": [
+            "24458"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Aceh%20Timur&jobs=Banda%20Alam",
+            "jumlah": "16"
+        },
+        "pulau": null,
+        "kode": "11.03.15"
+    },
+    {
+        "no": "2",
+        "name": "Birem Bayeun",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Aceh%20Timur&jobs=Birem%20Bayeun",
+        "kodepos": [
+            "24452"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Aceh%20Timur&jobs=Birem%20Bayeun",
+            "jumlah": "27"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Aceh%20Timur&jobs=Birem%20Bayeun",
+            "jumlah": "1"
+        },
+        "kode": "11.03.04"
+    },
+    {
+        "no": "3",
+        "name": "Darul Aman",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Aceh%20Timur&jobs=Darul%20Aman",
+        "kodepos": [
+            "24455"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Aceh%20Timur&jobs=Darul%20Aman",
+            "jumlah": "45"
+        },
+        "pulau": null,
+        "kode": "11.03.01"
+    },
+    {
+        "no": "4",
+        "name": "Darul Falah",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Aceh%20Timur&jobs=Darul%20Falah",
+        "kodepos": [
+            "24454"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Aceh%20Timur&jobs=Darul%20Falah",
+            "jumlah": "11"
+        },
+        "pulau": null,
+        "kode": "11.03.22"
+    },
+    {
+        "no": "5",
+        "name": "Darul Iksan (Ihsan)",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Aceh%20Timur&jobs=Darul%20Iksan%20(Ihsan)",
+        "kodepos": [
+            "24468"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Aceh%20Timur&jobs=Darul%20Iksan%20(Ihsan)",
+            "jumlah": "16"
+        },
+        "pulau": null,
+        "kode": "11.03.21"
+    },
+    {
+        "no": "6",
+        "name": "Idi Rayeuk",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Aceh%20Timur&jobs=Idi%20Rayeuk",
+        "kodepos": [
+            "24442"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Aceh%20Timur&jobs=Idi%20Rayeuk",
+            "jumlah": "35"
+        },
+        "pulau": null,
+        "kode": "11.03.03"
+    },
+    {
+        "no": "7",
+        "name": "Idi Timur",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Aceh%20Timur&jobs=Idi%20Timur",
+        "kodepos": [
+            "24456"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Aceh%20Timur&jobs=Idi%20Timur",
+            "jumlah": "13"
+        },
+        "pulau": null,
+        "kode": "11.03.23"
+    },
+    {
+        "no": "8",
+        "name": "Idi Tunong",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Aceh%20Timur&jobs=Idi%20Tunong",
+        "kodepos": [
+            "24443"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Aceh%20Timur&jobs=Idi%20Tunong",
+            "jumlah": "25"
+        },
+        "pulau": null,
+        "kode": "11.03.14"
+    },
+    {
+        "no": "9",
+        "name": "Indra Makmu (Indra Makmur)",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Aceh%20Timur&jobs=Indra%20Makmu%20(Indra%20Makmur)",
+        "kodepos": [
+            "24457"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Aceh%20Timur&jobs=Indra%20Makmu%20(Indra%20Makmur)",
+            "jumlah": "13"
+        },
+        "pulau": null,
+        "kode": "11.03.13"
+    },
+    {
+        "no": "10",
+        "name": "Julok",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Aceh%20Timur&jobs=Julok",
+        "kodepos": [
+            "24459"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Aceh%20Timur&jobs=Julok",
+            "jumlah": "37"
+        },
+        "pulau": null,
+        "kode": "11.03.02"
+    },
+    {
+        "no": "11",
+        "name": "Madat",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Aceh%20Timur&jobs=Madat",
+        "kodepos": [
+            "24462"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Aceh%20Timur&jobs=Madat",
+            "jumlah": "26"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Aceh%20Timur&jobs=Madat",
+            "jumlah": "1"
+        },
+        "kode": "11.03.12"
+    },
+    {
+        "no": "12",
+        "name": "Nurussalam",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Aceh%20Timur&jobs=Nurussalam",
+        "kodepos": [
+            "24467"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Aceh%20Timur&jobs=Nurussalam",
+            "jumlah": "31"
+        },
+        "pulau": null,
+        "kode": "11.03.06"
+    },
+    {
+        "no": "13",
+        "name": "Pante Bidari",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Aceh%20Timur&jobs=Pante%20Bidari",
+        "kodepos": [
+            "24463"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Aceh%20Timur&jobs=Pante%20Bidari",
+            "jumlah": "25"
+        },
+        "pulau": null,
+        "kode": "11.03.11"
+    },
+    {
+        "no": "14",
+        "name": "Peudawa",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Aceh%20Timur&jobs=Peudawa",
+        "kodepos": [
+            "24469"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Aceh%20Timur&jobs=Peudawa",
+            "jumlah": "17"
+        },
+        "pulau": null,
+        "kode": "11.03.16"
+    },
+    {
+        "no": "15",
+        "name": "Peunaron",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Aceh%20Timur&jobs=Peunaron",
+        "kodepos": [
+            "24461"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Aceh%20Timur&jobs=Peunaron",
+            "jumlah": "5"
+        },
+        "pulau": null,
+        "kode": "11.03.24"
+    },
+    {
+        "no": "16",
+        "name": "Peureulak",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Aceh%20Timur&jobs=Peureulak",
+        "kodepos": [
+            "24453"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Aceh%20Timur&jobs=Peureulak",
+            "jumlah": "38"
+        },
+        "pulau": null,
+        "kode": "11.03.07"
+    },
+    {
+        "no": "17",
+        "name": "Peureulak Barat",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Aceh%20Timur&jobs=Peureulak%20Barat",
+        "kodepos": [
+            "24450"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Aceh%20Timur&jobs=Peureulak%20Barat",
+            "jumlah": "15"
+        },
+        "pulau": null,
+        "kode": "11.03.18"
+    },
+    {
+        "no": "18",
+        "name": "Peureulak Timur",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Aceh%20Timur&jobs=Peureulak%20Timur",
+        "kodepos": [
+            "24440"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Aceh%20Timur&jobs=Peureulak%20Timur",
+            "jumlah": "20"
+        },
+        "pulau": null,
+        "kode": "11.03.17"
+    },
+    {
+        "no": "19",
+        "name": "Rantau Peureulak (Ranto Peureulak)",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Aceh%20Timur&jobs=Rantau%20Peureulak%20(Ranto%20Peureulak)",
+        "kodepos": [
+            "24441"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Aceh%20Timur&jobs=Rantau%20Peureulak%20(Ranto%20Peureulak)",
+            "jumlah": "23"
+        },
+        "pulau": null,
+        "kode": "11.03.10"
+    },
+    {
+        "no": "20",
+        "name": "Rantau Selamat",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Aceh%20Timur&jobs=Rantau%20Selamat",
+        "kodepos": [
+            "24451"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Aceh%20Timur&jobs=Rantau%20Selamat",
+            "jumlah": "14"
+        },
+        "pulau": null,
+        "kode": "11.03.08"
+    },
+    {
+        "no": "21",
+        "name": "Serbajadi",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Aceh%20Timur&jobs=Serbajadi",
+        "kodepos": [
+            "24460"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Aceh%20Timur&jobs=Serbajadi",
+            "jumlah": "17"
+        },
+        "pulau": null,
+        "kode": "11.03.05"
+    },
+    {
+        "no": "22",
+        "name": "Simpang Jernih",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Aceh%20Timur&jobs=Simpang%20Jernih",
+        "kodepos": [
+            "24464"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Aceh%20Timur&jobs=Simpang%20Jernih",
+            "jumlah": "8"
+        },
+        "pulau": null,
+        "kode": "11.03.20"
+    },
+    {
+        "no": "23",
+        "name": "Simpang Ulim",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Aceh%20Timur&jobs=Simpang%20Ulim",
+        "kodepos": [
+            "24465"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Aceh%20Timur&jobs=Simpang%20Ulim",
+            "jumlah": "23"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Aceh%20Timur&jobs=Simpang%20Ulim",
+            "jumlah": "1"
+        },
+        "kode": "11.03.09"
+    },
+    {
+        "no": "24",
+        "name": "Sungai Raya",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Aceh%20Timur&jobs=Sungai%20Raya",
+        "kodepos": [
+            "24466"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Aceh%20Timur&jobs=Sungai%20Raya",
+            "jumlah": "13"
+        },
+        "pulau": null,
+        "kode": "11.03.19"
+    }
+]

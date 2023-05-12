@@ -1,0 +1,44 @@
+[
+    {
+        "no": "1",
+        "kodepos": "99402",
+        "name": "Bris",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Jetfa-Kab.-Pegunungan%20Bintang&jobs=Bris",
+        "kode": "95.02.30.2006"
+    },
+    {
+        "no": "2",
+        "kodepos": "99402",
+        "name": "Jetfa",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Jetfa-Kab.-Pegunungan%20Bintang&jobs=Jetfa",
+        "kode": "95.02.30.2001"
+    },
+    {
+        "no": "3",
+        "kodepos": "99402",
+        "name": "Kalimbu",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Jetfa-Kab.-Pegunungan%20Bintang&jobs=Kalimbu",
+        "kode": "95.02.30.2005"
+    },
+    {
+        "no": "4",
+        "kodepos": "99402",
+        "name": "Lulis",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Jetfa-Kab.-Pegunungan%20Bintang&jobs=Lulis",
+        "kode": "95.02.30.2002"
+    },
+    {
+        "no": "5",
+        "kodepos": "99402",
+        "name": "Tupalma Dua",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Jetfa-Kab.-Pegunungan%20Bintang&jobs=Tupalma%20Dua",
+        "kode": "95.02.30.2004"
+    },
+    {
+        "no": "6",
+        "kodepos": "99402",
+        "name": "Tupalma Satu",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Jetfa-Kab.-Pegunungan%20Bintang&jobs=Tupalma%20Satu",
+        "kode": "95.02.30.2003"
+    }
+]

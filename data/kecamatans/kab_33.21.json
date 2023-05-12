@@ -1,0 +1,200 @@
+[
+    {
+        "no": "1",
+        "name": "Bonang",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Demak&jobs=Bonang",
+        "kodepos": [
+            "59511",
+            "59552"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Demak&jobs=Bonang",
+            "jumlah": "21"
+        },
+        "pulau": null,
+        "kode": "33.21.12"
+    },
+    {
+        "no": "2",
+        "name": "Demak",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Demak&jobs=Demak",
+        "kodepos": [
+            "59511",
+            "59517"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Demak&jobs=Demak",
+            "jumlah": "19"
+        },
+        "pulau": null,
+        "kode": "33.21.11"
+    },
+    {
+        "no": "3",
+        "name": "Dempet",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Demak&jobs=Dempet",
+        "kodepos": [
+            "59573"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Demak&jobs=Dempet",
+            "jumlah": "16"
+        },
+        "pulau": null,
+        "kode": "33.21.07"
+    },
+    {
+        "no": "4",
+        "name": "Gajah",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Demak&jobs=Gajah",
+        "kodepos": [
+            "59581"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Demak&jobs=Gajah",
+            "jumlah": "18"
+        },
+        "pulau": null,
+        "kode": "33.21.08"
+    },
+    {
+        "no": "5",
+        "name": "Guntur",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Demak&jobs=Guntur",
+        "kodepos": [
+            "59565"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Demak&jobs=Guntur",
+            "jumlah": "20"
+        },
+        "pulau": null,
+        "kode": "33.21.03"
+    },
+    {
+        "no": "6",
+        "name": "Karanganyar",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Demak&jobs=Karanganyar",
+        "kodepos": [
+            "59582"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Demak&jobs=Karanganyar",
+            "jumlah": "17"
+        },
+        "pulau": null,
+        "kode": "33.21.09"
+    },
+    {
+        "no": "7",
+        "name": "Karangawen",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Demak&jobs=Karangawen",
+        "kodepos": [
+            "59566"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Demak&jobs=Karangawen",
+            "jumlah": "12"
+        },
+        "pulau": null,
+        "kode": "33.21.02"
+    },
+    {
+        "no": "8",
+        "name": "Karangtengah (Karang Tengah)",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Demak&jobs=Karangtengah%20(Karang%20Tengah)",
+        "kodepos": [
+            "59561"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Demak&jobs=Karangtengah%20(Karang%20Tengah)",
+            "jumlah": "17"
+        },
+        "pulau": null,
+        "kode": "33.21.05"
+    },
+    {
+        "no": "9",
+        "name": "Kebonagung",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Demak&jobs=Kebonagung",
+        "kodepos": [
+            "59583"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Demak&jobs=Kebonagung",
+            "jumlah": "14"
+        },
+        "pulau": null,
+        "kode": "33.21.14"
+    },
+    {
+        "no": "10",
+        "name": "Mijen",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Demak&jobs=Mijen",
+        "kodepos": [
+            "59584"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Demak&jobs=Mijen",
+            "jumlah": "15"
+        },
+        "pulau": null,
+        "kode": "33.21.10"
+    },
+    {
+        "no": "11",
+        "name": "Mranggen",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Demak&jobs=Mranggen",
+        "kodepos": [
+            "59567"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Demak&jobs=Mranggen",
+            "jumlah": "19"
+        },
+        "pulau": null,
+        "kode": "33.21.01"
+    },
+    {
+        "no": "12",
+        "name": "Sayung",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Demak&jobs=Sayung",
+        "kodepos": [
+            "59563"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Demak&jobs=Sayung",
+            "jumlah": "20"
+        },
+        "pulau": null,
+        "kode": "33.21.04"
+    },
+    {
+        "no": "13",
+        "name": "Wedung",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Demak&jobs=Wedung",
+        "kodepos": [
+            "59554"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Demak&jobs=Wedung",
+            "jumlah": "20"
+        },
+        "pulau": null,
+        "kode": "33.21.13"
+    },
+    {
+        "no": "14",
+        "name": "Wonosalam",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Demak&jobs=Wonosalam",
+        "kodepos": [
+            "59571"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Demak&jobs=Wonosalam",
+            "jumlah": "21"
+        },
+        "pulau": null,
+        "kode": "33.21.06"
+    }
+]

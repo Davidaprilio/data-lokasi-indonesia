@@ -1,0 +1,44 @@
+[
+    {
+        "no": "1",
+        "kodepos": "85850",
+        "name": "Maru",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Pulau%20Pura-Kab.-Alor&jobs=Maru",
+        "kode": "53.05.11.2002"
+    },
+    {
+        "no": "2",
+        "kodepos": "85850",
+        "name": "Pura",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Pulau%20Pura-Kab.-Alor&jobs=Pura",
+        "kode": "53.05.11.1001"
+    },
+    {
+        "no": "3",
+        "kodepos": "85850",
+        "name": "Pura Barat",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Pulau%20Pura-Kab.-Alor&jobs=Pura%20Barat",
+        "kode": "53.05.11.2006"
+    },
+    {
+        "no": "4",
+        "kodepos": "85850",
+        "name": "Pura Selatan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Pulau%20Pura-Kab.-Alor&jobs=Pura%20Selatan",
+        "kode": "53.05.11.2004"
+    },
+    {
+        "no": "5",
+        "kodepos": "85850",
+        "name": "Pura Timur",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Pulau%20Pura-Kab.-Alor&jobs=Pura%20Timur",
+        "kode": "53.05.11.2005"
+    },
+    {
+        "no": "6",
+        "kodepos": "85850",
+        "name": "Pura Utara",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Pulau%20Pura-Kab.-Alor&jobs=Pura%20Utara",
+        "kode": "53.05.11.2003"
+    }
+]

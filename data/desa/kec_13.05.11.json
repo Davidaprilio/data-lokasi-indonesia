@@ -1,0 +1,37 @@
+[
+    {
+        "no": "1",
+        "kodepos": "25582",
+        "name": "Sintuak",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Sintuak%20Toboh%20Gadang-Kab.-Padang%20Pariaman&jobs=Sintuak",
+        "kode": "13.05.11.2001"
+    },
+    {
+        "no": "2",
+        "kodepos": "25582",
+        "name": "Toboh Gadang",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Sintuak%20Toboh%20Gadang-Kab.-Padang%20Pariaman&jobs=Toboh%20Gadang",
+        "kode": "13.05.11.2002"
+    },
+    {
+        "no": "3",
+        "kodepos": "25582",
+        "name": "Toboh Gadang Barat",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Sintuak%20Toboh%20Gadang-Kab.-Padang%20Pariaman&jobs=Toboh%20Gadang%20Barat",
+        "kode": "13.05.11.2004"
+    },
+    {
+        "no": "4",
+        "kodepos": "25582",
+        "name": "Toboh Gadang Selatan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Sintuak%20Toboh%20Gadang-Kab.-Padang%20Pariaman&jobs=Toboh%20Gadang%20Selatan",
+        "kode": "13.05.11.2003"
+    },
+    {
+        "no": "5",
+        "kodepos": "25582",
+        "name": "Toboh Gadang Timur",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Sintuak%20Toboh%20Gadang-Kab.-Padang%20Pariaman&jobs=Toboh%20Gadang%20Timur",
+        "kode": "13.05.11.2005"
+    }
+]

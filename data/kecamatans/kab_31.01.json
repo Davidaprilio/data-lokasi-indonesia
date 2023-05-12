@@ -1,0 +1,38 @@
+[
+    {
+        "no": "1",
+        "name": "Kepulauan Seribu Selatan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kepulauan%20Seribu&jobs=Kepulauan%20Seribu%20Selatan",
+        "kodepos": [
+            "14510",
+            "14520"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kepulauan%20Seribu&jobs=Kepulauan%20Seribu%20Selatan",
+            "jumlah": "3"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kepulauan%20Seribu&jobs=Kepulauan%20Seribu%20Selatan",
+            "jumlah": "27"
+        },
+        "kode": "31.01.02"
+    },
+    {
+        "no": "2",
+        "name": "Kepulauan Seribu Utara",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kepulauan%20Seribu&jobs=Kepulauan%20Seribu%20Utara",
+        "kodepos": [
+            "14530",
+            "14540"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kepulauan%20Seribu&jobs=Kepulauan%20Seribu%20Utara",
+            "jumlah": "3"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kepulauan%20Seribu&jobs=Kepulauan%20Seribu%20Utara",
+            "jumlah": "58"
+        },
+        "kode": "31.01.01"
+    }
+]

@@ -1,0 +1,47 @@
+[
+    {
+        "no": "1",
+        "name": "Kepanjenkidul (Kepanjen Kidul)",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Blitar&jobs=Kepanjenkidul%20(Kepanjen%20Kidul)",
+        "kodepos": [
+            "66113",
+            "66117"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Blitar&jobs=Kepanjenkidul%20(Kepanjen%20Kidul)",
+            "jumlah": "7"
+        },
+        "pulau": null,
+        "kode": "35.72.01"
+    },
+    {
+        "no": "2",
+        "name": "Sananwetan (Sanan Wetan)",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Blitar&jobs=Sananwetan%20(Sanan%20Wetan)",
+        "kodepos": [
+            "66133",
+            "66137"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Blitar&jobs=Sananwetan%20(Sanan%20Wetan)",
+            "jumlah": "7"
+        },
+        "pulau": null,
+        "kode": "35.72.03"
+    },
+    {
+        "no": "3",
+        "name": "Sukorejo",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Blitar&jobs=Sukorejo",
+        "kodepos": [
+            "66121",
+            "66126"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Blitar&jobs=Sukorejo",
+            "jumlah": "7"
+        },
+        "pulau": null,
+        "kode": "35.72.02"
+    }
+]

@@ -1,0 +1,167 @@
+[
+    {
+        "no": "1",
+        "name": "Beji",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Depok&jobs=Beji",
+        "kodepos": [
+            "16421",
+            "16426"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Depok&jobs=Beji",
+            "jumlah": "6"
+        },
+        "pulau": null,
+        "kode": "32.76.06"
+    },
+    {
+        "no": "2",
+        "name": "Bojongsari",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Depok&jobs=Bojongsari",
+        "kodepos": [
+            "16516",
+            "16518"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Depok&jobs=Bojongsari",
+            "jumlah": "7"
+        },
+        "pulau": null,
+        "kode": "32.76.11"
+    },
+    {
+        "no": "3",
+        "name": "Cilodong",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Depok&jobs=Cilodong",
+        "kodepos": [
+            "16413",
+            "16415"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Depok&jobs=Cilodong",
+            "jumlah": "5"
+        },
+        "pulau": null,
+        "kode": "32.76.08"
+    },
+    {
+        "no": "4",
+        "name": "Cimanggis",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Depok&jobs=Cimanggis",
+        "kodepos": [
+            "16451",
+            "16454"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Depok&jobs=Cimanggis",
+            "jumlah": "6"
+        },
+        "pulau": null,
+        "kode": "32.76.02"
+    },
+    {
+        "no": "5",
+        "name": "Cinere",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Depok&jobs=Cinere",
+        "kodepos": [
+            "16512",
+            "16514"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Depok&jobs=Cinere",
+            "jumlah": "4"
+        },
+        "pulau": null,
+        "kode": "32.76.09"
+    },
+    {
+        "no": "6",
+        "name": "Cipayung",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Depok&jobs=Cipayung",
+        "kodepos": [
+            "16436",
+            "16439"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Depok&jobs=Cipayung",
+            "jumlah": "5"
+        },
+        "pulau": null,
+        "kode": "32.76.07"
+    },
+    {
+        "no": "7",
+        "name": "Limo",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Depok&jobs=Limo",
+        "kodepos": [
+            "16512",
+            "16515"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Depok&jobs=Limo",
+            "jumlah": "4"
+        },
+        "pulau": null,
+        "kode": "32.76.04"
+    },
+    {
+        "no": "8",
+        "name": "Pancoran Mas",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Depok&jobs=Pancoran%20Mas",
+        "kodepos": [
+            "16431",
+            "16436"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Depok&jobs=Pancoran%20Mas",
+            "jumlah": "6"
+        },
+        "pulau": null,
+        "kode": "32.76.01"
+    },
+    {
+        "no": "9",
+        "name": "Sawangan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Depok&jobs=Sawangan",
+        "kodepos": [
+            "16511",
+            "16519"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Depok&jobs=Sawangan",
+            "jumlah": "7"
+        },
+        "pulau": null,
+        "kode": "32.76.03"
+    },
+    {
+        "no": "10",
+        "name": "Sukmajaya",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Depok&jobs=Sukmajaya",
+        "kodepos": [
+            "16411",
+            "16418"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Depok&jobs=Sukmajaya",
+            "jumlah": "6"
+        },
+        "pulau": null,
+        "kode": "32.76.05"
+    },
+    {
+        "no": "11",
+        "name": "Tapos",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Depok&jobs=Tapos",
+        "kodepos": [
+            "16451",
+            "16459"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Depok&jobs=Tapos",
+            "jumlah": "7"
+        },
+        "pulau": null,
+        "kode": "32.76.10"
+    }
+]

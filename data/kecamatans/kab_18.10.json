@@ -1,0 +1,128 @@
+[
+    {
+        "no": "1",
+        "name": "Adiluwih (Adi Luwih)",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pringsewu&jobs=Adiluwih%20(Adi%20Luwih)",
+        "kodepos": [
+            "35674"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pringsewu&jobs=Adiluwih%20(Adi%20Luwih)",
+            "jumlah": "13"
+        },
+        "pulau": null,
+        "kode": "18.10.07"
+    },
+    {
+        "no": "2",
+        "name": "Ambarawa",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pringsewu&jobs=Ambarawa",
+        "kodepos": [
+            "35376"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pringsewu&jobs=Ambarawa",
+            "jumlah": "8"
+        },
+        "pulau": null,
+        "kode": "18.10.03"
+    },
+    {
+        "no": "3",
+        "name": "Banyumas",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pringsewu&jobs=Banyumas",
+        "kodepos": [
+            "35373"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pringsewu&jobs=Banyumas",
+            "jumlah": "11"
+        },
+        "pulau": null,
+        "kode": "18.10.06"
+    },
+    {
+        "no": "4",
+        "name": "Gading Rejo",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pringsewu&jobs=Gading%20Rejo",
+        "kodepos": [
+            "35372"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pringsewu&jobs=Gading%20Rejo",
+            "jumlah": "23"
+        },
+        "pulau": null,
+        "kode": "18.10.02"
+    },
+    {
+        "no": "5",
+        "name": "Pagelaran",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pringsewu&jobs=Pagelaran",
+        "kodepos": [
+            "35375"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pringsewu&jobs=Pagelaran",
+            "jumlah": "22"
+        },
+        "pulau": null,
+        "kode": "18.10.05"
+    },
+    {
+        "no": "6",
+        "name": "Pagelaran Utara",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pringsewu&jobs=Pagelaran%20Utara",
+        "kodepos": [
+            "35370"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pringsewu&jobs=Pagelaran%20Utara",
+            "jumlah": "10"
+        },
+        "pulau": null,
+        "kode": "18.10.09"
+    },
+    {
+        "no": "7",
+        "name": "Pardasuka",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pringsewu&jobs=Pardasuka",
+        "kodepos": [
+            "35681"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pringsewu&jobs=Pardasuka",
+            "jumlah": "13"
+        },
+        "pulau": null,
+        "kode": "18.10.04"
+    },
+    {
+        "no": "8",
+        "name": "Pringsewu",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pringsewu&jobs=Pringsewu",
+        "kodepos": [
+            "35371"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pringsewu&jobs=Pringsewu",
+            "jumlah": "15"
+        },
+        "pulau": null,
+        "kode": "18.10.01"
+    },
+    {
+        "no": "9",
+        "name": "Sukoharjo",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pringsewu&jobs=Sukoharjo",
+        "kodepos": [
+            "35673"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pringsewu&jobs=Sukoharjo",
+            "jumlah": "16"
+        },
+        "pulau": null,
+        "kode": "18.10.08"
+    }
+]

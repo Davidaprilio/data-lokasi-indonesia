@@ -1,0 +1,68 @@
+[
+    {
+        "no": "1",
+        "name": "Pariaman Selatan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Pariaman&jobs=Pariaman%20Selatan",
+        "kodepos": [
+            "25531",
+            "25539"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Pariaman&jobs=Pariaman%20Selatan",
+            "jumlah": "16"
+        },
+        "pulau": null,
+        "kode": "13.77.03"
+    },
+    {
+        "no": "2",
+        "name": "Pariaman Tengah",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Pariaman&jobs=Pariaman%20Tengah",
+        "kodepos": [
+            "25511",
+            "25519"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Pariaman&jobs=Pariaman%20Tengah",
+            "jumlah": "22"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kota-Pariaman&jobs=Pariaman%20Tengah",
+            "jumlah": "3"
+        },
+        "kode": "13.77.01"
+    },
+    {
+        "no": "3",
+        "name": "Pariaman Timur",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Pariaman&jobs=Pariaman%20Timur",
+        "kodepos": [
+            "25516",
+            "25536"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Pariaman&jobs=Pariaman%20Timur",
+            "jumlah": "16"
+        },
+        "pulau": null,
+        "kode": "13.77.04"
+    },
+    {
+        "no": "4",
+        "name": "Pariaman Utara",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Pariaman&jobs=Pariaman%20Utara",
+        "kodepos": [
+            "25521",
+            "25529"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Pariaman&jobs=Pariaman%20Utara",
+            "jumlah": "17"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kota-Pariaman&jobs=Pariaman%20Utara",
+            "jumlah": "1"
+        },
+        "kode": "13.77.02"
+    }
+]

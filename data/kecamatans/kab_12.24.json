@@ -1,0 +1,166 @@
+[
+    {
+        "no": "1",
+        "name": "Afulu",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Nias%20Utara&jobs=Afulu",
+        "kodepos": [
+            "22857"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Nias%20Utara&jobs=Afulu",
+            "jumlah": "9"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Nias%20Utara&jobs=Afulu",
+            "jumlah": "1"
+        },
+        "kode": "12.24.09"
+    },
+    {
+        "no": "2",
+        "name": "Alasa",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Nias%20Utara&jobs=Alasa",
+        "kodepos": [
+            "22861"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Nias%20Utara&jobs=Alasa",
+            "jumlah": "14"
+        },
+        "pulau": null,
+        "kode": "12.24.07"
+    },
+    {
+        "no": "3",
+        "name": "Alasa Talumuzoi",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Nias%20Utara&jobs=Alasa%20Talumuzoi",
+        "kodepos": [
+            "22814"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Nias%20Utara&jobs=Alasa%20Talumuzoi",
+            "jumlah": "6"
+        },
+        "pulau": null,
+        "kode": "12.24.06"
+    },
+    {
+        "no": "4",
+        "name": "Lahewa",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Nias%20Utara&jobs=Lahewa",
+        "kodepos": [
+            "22853"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Nias%20Utara&jobs=Lahewa",
+            "jumlah": "21"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Nias%20Utara&jobs=Lahewa",
+            "jumlah": "15"
+        },
+        "kode": "12.24.10"
+    },
+    {
+        "no": "5",
+        "name": "Lahewa Timur",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Nias%20Utara&jobs=Lahewa%20Timur",
+        "kodepos": [
+            "22858"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Nias%20Utara&jobs=Lahewa%20Timur",
+            "jumlah": "7"
+        },
+        "pulau": null,
+        "kode": "12.24.11"
+    },
+    {
+        "no": "6",
+        "name": "Lotu",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Nias%20Utara&jobs=Lotu",
+        "kodepos": [
+            "22856"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Nias%20Utara&jobs=Lotu",
+            "jumlah": "13"
+        },
+        "pulau": null,
+        "kode": "12.24.01"
+    },
+    {
+        "no": "7",
+        "name": "Namohalu Esiwa",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Nias%20Utara&jobs=Namohalu%20Esiwa",
+        "kodepos": [
+            "22816",
+            "22817"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Nias%20Utara&jobs=Namohalu%20Esiwa",
+            "jumlah": "11"
+        },
+        "pulau": null,
+        "kode": "12.24.05"
+    },
+    {
+        "no": "8",
+        "name": "Sawo",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Nias%20Utara&jobs=Sawo",
+        "kodepos": [
+            "22852"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Nias%20Utara&jobs=Sawo",
+            "jumlah": "10"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Nias%20Utara&jobs=Sawo",
+            "jumlah": "1"
+        },
+        "kode": "12.24.02"
+    },
+    {
+        "no": "9",
+        "name": "Sitolu Ori",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Nias%20Utara&jobs=Sitolu%20Ori",
+        "kodepos": [
+            "22852"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Nias%20Utara&jobs=Sitolu%20Ori",
+            "jumlah": "6"
+        },
+        "pulau": null,
+        "kode": "12.24.04"
+    },
+    {
+        "no": "10",
+        "name": "Tugala Oyo",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Nias%20Utara&jobs=Tugala%20Oyo",
+        "kodepos": [
+            "22860"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Nias%20Utara&jobs=Tugala%20Oyo",
+            "jumlah": "8"
+        },
+        "pulau": null,
+        "kode": "12.24.08"
+    },
+    {
+        "no": "11",
+        "name": "Tuhemberua",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Nias%20Utara&jobs=Tuhemberua",
+        "kodepos": [
+            "22852"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Nias%20Utara&jobs=Tuhemberua",
+            "jumlah": "8"
+        },
+        "pulau": null,
+        "kode": "12.24.03"
+    }
+]

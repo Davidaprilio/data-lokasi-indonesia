@@ -1,0 +1,368 @@
+[
+    {
+        "no": "1",
+        "name": "Adimulyo",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kebumen&jobs=Adimulyo",
+        "kodepos": [
+            "54363"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kebumen&jobs=Adimulyo",
+            "jumlah": "23"
+        },
+        "pulau": null,
+        "kode": "33.05.15"
+    },
+    {
+        "no": "2",
+        "name": "Alian/Aliyan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kebumen&jobs=Alian/Aliyan",
+        "kodepos": [
+            "54352"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kebumen&jobs=Alian/Aliyan",
+            "jumlah": "16"
+        },
+        "pulau": null,
+        "kode": "33.05.11"
+    },
+    {
+        "no": "3",
+        "name": "Ambal",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kebumen&jobs=Ambal",
+        "kodepos": [
+            "54392"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kebumen&jobs=Ambal",
+            "jumlah": "32"
+        },
+        "pulau": null,
+        "kode": "33.05.07"
+    },
+    {
+        "no": "4",
+        "name": "Ayah",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kebumen&jobs=Ayah",
+        "kodepos": [
+            "54473"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kebumen&jobs=Ayah",
+            "jumlah": "18"
+        },
+        "pulau": null,
+        "kode": "33.05.01"
+    },
+    {
+        "no": "5",
+        "name": "Bonorowo",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kebumen&jobs=Bonorowo",
+        "kodepos": [
+            "54395"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kebumen&jobs=Bonorowo",
+            "jumlah": "11"
+        },
+        "pulau": null,
+        "kode": "33.05.23"
+    },
+    {
+        "no": "6",
+        "name": "Buayan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kebumen&jobs=Buayan",
+        "kodepos": [
+            "54474"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kebumen&jobs=Buayan",
+            "jumlah": "20"
+        },
+        "pulau": null,
+        "kode": "33.05.02"
+    },
+    {
+        "no": "7",
+        "name": "Buluspesantren",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kebumen&jobs=Buluspesantren",
+        "kodepos": [
+            "54391"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kebumen&jobs=Buluspesantren",
+            "jumlah": "21"
+        },
+        "pulau": null,
+        "kode": "33.05.06"
+    },
+    {
+        "no": "8",
+        "name": "Gombong",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kebumen&jobs=Gombong",
+        "kodepos": [
+            "54411",
+            "54416"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kebumen&jobs=Gombong",
+            "jumlah": "14"
+        },
+        "pulau": null,
+        "kode": "33.05.19"
+    },
+    {
+        "no": "9",
+        "name": "Karanganyar",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kebumen&jobs=Karanganyar",
+        "kodepos": [
+            "54364"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kebumen&jobs=Karanganyar",
+            "jumlah": "11"
+        },
+        "pulau": null,
+        "kode": "33.05.20"
+    },
+    {
+        "no": "10",
+        "name": "Karanggayam",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kebumen&jobs=Karanggayam",
+        "kodepos": [
+            "54365"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kebumen&jobs=Karanggayam",
+            "jumlah": "19"
+        },
+        "pulau": null,
+        "kode": "33.05.21"
+    },
+    {
+        "no": "11",
+        "name": "Karangsambung",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kebumen&jobs=Karangsambung",
+        "kodepos": [
+            "54353"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kebumen&jobs=Karangsambung",
+            "jumlah": "14"
+        },
+        "pulau": null,
+        "kode": "33.05.26"
+    },
+    {
+        "no": "12",
+        "name": "Kebumen",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kebumen&jobs=Kebumen",
+        "kodepos": [
+            "54311",
+            "54317"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kebumen&jobs=Kebumen",
+            "jumlah": "29"
+        },
+        "pulau": null,
+        "kode": "33.05.12"
+    },
+    {
+        "no": "13",
+        "name": "Klirong",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kebumen&jobs=Klirong",
+        "kodepos": [
+            "54381"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kebumen&jobs=Klirong",
+            "jumlah": "24"
+        },
+        "pulau": null,
+        "kode": "33.05.05"
+    },
+    {
+        "no": "14",
+        "name": "Kutowinangun",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kebumen&jobs=Kutowinangun",
+        "kodepos": [
+            "54393"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kebumen&jobs=Kutowinangun",
+            "jumlah": "19"
+        },
+        "pulau": null,
+        "kode": "33.05.10"
+    },
+    {
+        "no": "15",
+        "name": "Kuwarasan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kebumen&jobs=Kuwarasan",
+        "kodepos": [
+            "54366"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kebumen&jobs=Kuwarasan",
+            "jumlah": "22"
+        },
+        "pulau": null,
+        "kode": "33.05.16"
+    },
+    {
+        "no": "16",
+        "name": "Mirit",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kebumen&jobs=Mirit",
+        "kodepos": [
+            "54396"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kebumen&jobs=Mirit",
+            "jumlah": "22"
+        },
+        "pulau": null,
+        "kode": "33.05.08"
+    },
+    {
+        "no": "17",
+        "name": "Padureso",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kebumen&jobs=Padureso",
+        "kodepos": [
+            "54394"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kebumen&jobs=Padureso",
+            "jumlah": "9"
+        },
+        "pulau": null,
+        "kode": "33.05.24"
+    },
+    {
+        "no": "18",
+        "name": "Pejagoan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kebumen&jobs=Pejagoan",
+        "kodepos": [
+            "54361"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kebumen&jobs=Pejagoan",
+            "jumlah": "13"
+        },
+        "pulau": null,
+        "kode": "33.05.13"
+    },
+    {
+        "no": "19",
+        "name": "Petanahan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kebumen&jobs=Petanahan",
+        "kodepos": [
+            "54382"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kebumen&jobs=Petanahan",
+            "jumlah": "21"
+        },
+        "pulau": null,
+        "kode": "33.05.04"
+    },
+    {
+        "no": "20",
+        "name": "Poncowarno",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kebumen&jobs=Poncowarno",
+        "kodepos": [
+            "54390"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kebumen&jobs=Poncowarno",
+            "jumlah": "11"
+        },
+        "pulau": null,
+        "kode": "33.05.25"
+    },
+    {
+        "no": "21",
+        "name": "Prembun",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kebumen&jobs=Prembun",
+        "kodepos": [
+            "54397"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kebumen&jobs=Prembun",
+            "jumlah": "13"
+        },
+        "pulau": null,
+        "kode": "33.05.09"
+    },
+    {
+        "no": "22",
+        "name": "Puring",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kebumen&jobs=Puring",
+        "kodepos": [
+            "54383"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kebumen&jobs=Puring",
+            "jumlah": "23"
+        },
+        "pulau": null,
+        "kode": "33.05.03"
+    },
+    {
+        "no": "23",
+        "name": "Rowokele",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kebumen&jobs=Rowokele",
+        "kodepos": [
+            "54472"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kebumen&jobs=Rowokele",
+            "jumlah": "11"
+        },
+        "pulau": null,
+        "kode": "33.05.17"
+    },
+    {
+        "no": "24",
+        "name": "Sadang",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kebumen&jobs=Sadang",
+        "kodepos": [
+            "54354"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kebumen&jobs=Sadang",
+            "jumlah": "7"
+        },
+        "pulau": null,
+        "kode": "33.05.22"
+    },
+    {
+        "no": "25",
+        "name": "Sempor",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kebumen&jobs=Sempor",
+        "kodepos": [
+            "54421"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kebumen&jobs=Sempor",
+            "jumlah": "16"
+        },
+        "pulau": null,
+        "kode": "33.05.18"
+    },
+    {
+        "no": "26",
+        "name": "Sruweng",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kebumen&jobs=Sruweng",
+        "kodepos": [
+            "54362"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kebumen&jobs=Sruweng",
+            "jumlah": "21"
+        },
+        "pulau": null,
+        "kode": "33.05.14"
+    }
+]

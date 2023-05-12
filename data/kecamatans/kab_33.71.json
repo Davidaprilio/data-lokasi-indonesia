@@ -1,0 +1,47 @@
+[
+    {
+        "no": "1",
+        "name": "Magelang Selatan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Magelang&jobs=Magelang%20Selatan",
+        "kodepos": [
+            "56123",
+            "56126"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Magelang&jobs=Magelang%20Selatan",
+            "jumlah": "6"
+        },
+        "pulau": null,
+        "kode": "33.71.01"
+    },
+    {
+        "no": "2",
+        "name": "Magelang Tengah",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Magelang&jobs=Magelang%20Tengah",
+        "kodepos": [
+            "56111",
+            "56127"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Magelang&jobs=Magelang%20Tengah",
+            "jumlah": "6"
+        },
+        "pulau": null,
+        "kode": "33.71.03"
+    },
+    {
+        "no": "3",
+        "name": "Magelang Utara",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Magelang&jobs=Magelang%20Utara",
+        "kodepos": [
+            "56113",
+            "56116"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Magelang&jobs=Magelang%20Utara",
+            "jumlah": "5"
+        },
+        "pulau": null,
+        "kode": "33.71.02"
+    }
+]

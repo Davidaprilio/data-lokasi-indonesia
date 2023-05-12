@@ -1,0 +1,285 @@
+[
+    {
+        "no": "1",
+        "name": "Boja",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kendal&jobs=Boja",
+        "kodepos": [
+            "51381"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kendal&jobs=Boja",
+            "jumlah": "18"
+        },
+        "pulau": null,
+        "kode": "33.24.07"
+    },
+    {
+        "no": "2",
+        "name": "Brangsong",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kendal&jobs=Brangsong",
+        "kodepos": [
+            "51371"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kendal&jobs=Brangsong",
+            "jumlah": "12"
+        },
+        "pulau": null,
+        "kode": "33.24.09"
+    },
+    {
+        "no": "3",
+        "name": "Cepiring",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kendal&jobs=Cepiring",
+        "kodepos": [
+            "51352"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kendal&jobs=Cepiring",
+            "jumlah": "15"
+        },
+        "pulau": null,
+        "kode": "33.24.13"
+    },
+    {
+        "no": "4",
+        "name": "Gemuh",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kendal&jobs=Gemuh",
+        "kodepos": [
+            "51356"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kendal&jobs=Gemuh",
+            "jumlah": "16"
+        },
+        "pulau": null,
+        "kode": "33.24.11"
+    },
+    {
+        "no": "5",
+        "name": "Kaliwungu",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kendal&jobs=Kaliwungu",
+        "kodepos": [
+            "51372"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kendal&jobs=Kaliwungu",
+            "jumlah": "9"
+        },
+        "pulau": null,
+        "kode": "33.24.08"
+    },
+    {
+        "no": "6",
+        "name": "Kaliwungu Selatan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kendal&jobs=Kaliwungu%20Selatan",
+        "kodepos": [
+            "51372",
+            "51382"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kendal&jobs=Kaliwungu%20Selatan",
+            "jumlah": "8"
+        },
+        "pulau": null,
+        "kode": "33.24.20"
+    },
+    {
+        "no": "7",
+        "name": "Kangkung",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kendal&jobs=Kangkung",
+        "kodepos": [
+            "51353"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kendal&jobs=Kangkung",
+            "jumlah": "15"
+        },
+        "pulau": null,
+        "kode": "33.24.17"
+    },
+    {
+        "no": "8",
+        "name": "Kendal",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kendal&jobs=Kendal",
+        "kodepos": [
+            "51311",
+            "51319"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kendal&jobs=Kendal",
+            "jumlah": "20"
+        },
+        "pulau": null,
+        "kode": "33.24.15"
+    },
+    {
+        "no": "9",
+        "name": "Limbangan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kendal&jobs=Limbangan",
+        "kodepos": [
+            "51383"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kendal&jobs=Limbangan",
+            "jumlah": "16"
+        },
+        "pulau": null,
+        "kode": "33.24.06"
+    },
+    {
+        "no": "10",
+        "name": "Ngampel",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kendal&jobs=Ngampel",
+        "kodepos": [
+            "51357"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kendal&jobs=Ngampel",
+            "jumlah": "12"
+        },
+        "pulau": null,
+        "kode": "33.24.19"
+    },
+    {
+        "no": "11",
+        "name": "Pageruyung (Pagerruyung)",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kendal&jobs=Pageruyung%20(Pagerruyung)",
+        "kodepos": [
+            "51361"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kendal&jobs=Pageruyung%20(Pagerruyung)",
+            "jumlah": "14"
+        },
+        "pulau": null,
+        "kode": "33.24.02"
+    },
+    {
+        "no": "12",
+        "name": "Patean",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kendal&jobs=Patean",
+        "kodepos": [
+            "51364"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kendal&jobs=Patean",
+            "jumlah": "14"
+        },
+        "pulau": null,
+        "kode": "33.24.04"
+    },
+    {
+        "no": "13",
+        "name": "Patebon",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kendal&jobs=Patebon",
+        "kodepos": [
+            "51351"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kendal&jobs=Patebon",
+            "jumlah": "18"
+        },
+        "pulau": null,
+        "kode": "33.24.14"
+    },
+    {
+        "no": "14",
+        "name": "Pegandon",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kendal&jobs=Pegandon",
+        "kodepos": [
+            "51358"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kendal&jobs=Pegandon",
+            "jumlah": "12"
+        },
+        "pulau": null,
+        "kode": "33.24.10"
+    },
+    {
+        "no": "15",
+        "name": "Plantungan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kendal&jobs=Plantungan",
+        "kodepos": [
+            "51362"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kendal&jobs=Plantungan",
+            "jumlah": "12"
+        },
+        "pulau": null,
+        "kode": "33.24.01"
+    },
+    {
+        "no": "16",
+        "name": "Ringinarum",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kendal&jobs=Ringinarum",
+        "kodepos": [
+            "51359"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kendal&jobs=Ringinarum",
+            "jumlah": "12"
+        },
+        "pulau": null,
+        "kode": "33.24.18"
+    },
+    {
+        "no": "17",
+        "name": "Rowosari",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kendal&jobs=Rowosari",
+        "kodepos": [
+            "51319",
+            "51354"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kendal&jobs=Rowosari",
+            "jumlah": "16"
+        },
+        "pulau": null,
+        "kode": "33.24.16"
+    },
+    {
+        "no": "18",
+        "name": "Singorojo",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kendal&jobs=Singorojo",
+        "kodepos": [
+            "51382"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kendal&jobs=Singorojo",
+            "jumlah": "13"
+        },
+        "pulau": null,
+        "kode": "33.24.05"
+    },
+    {
+        "no": "19",
+        "name": "Sukorejo",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kendal&jobs=Sukorejo",
+        "kodepos": [
+            "51363"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kendal&jobs=Sukorejo",
+            "jumlah": "18"
+        },
+        "pulau": null,
+        "kode": "33.24.03"
+    },
+    {
+        "no": "20",
+        "name": "Weleri",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kendal&jobs=Weleri",
+        "kodepos": [
+            "51355"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kendal&jobs=Weleri",
+            "jumlah": "16"
+        },
+        "pulau": null,
+        "kode": "33.24.12"
+    }
+]

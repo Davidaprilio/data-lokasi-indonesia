@@ -1,0 +1,317 @@
+[
+    {
+        "no": "1",
+        "name": "Medan Amplas",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Medan&jobs=Medan%20Amplas",
+        "kodepos": [
+            "20147",
+            "20229"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Medan&jobs=Medan%20Amplas",
+            "jumlah": "7"
+        },
+        "pulau": null,
+        "kode": "12.71.09"
+    },
+    {
+        "no": "2",
+        "name": "Medan Area",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Medan&jobs=Medan%20Area",
+        "kodepos": [
+            "20211",
+            "20217"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Medan&jobs=Medan%20Area",
+            "jumlah": "12"
+        },
+        "pulau": null,
+        "kode": "12.71.10"
+    },
+    {
+        "no": "3",
+        "name": "Medan Barat",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Medan&jobs=Medan%20Barat",
+        "kodepos": [
+            "20111",
+            "20117"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Medan&jobs=Medan%20Barat",
+            "jumlah": "6"
+        },
+        "pulau": null,
+        "kode": "12.71.05"
+    },
+    {
+        "no": "4",
+        "name": "Medan Baru",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Medan&jobs=Medan%20Baru",
+        "kodepos": [
+            "20153",
+            "20156"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Medan&jobs=Medan%20Baru",
+            "jumlah": "6"
+        },
+        "pulau": null,
+        "kode": "12.71.17"
+    },
+    {
+        "no": "5",
+        "name": "Medan Belawan (Medan Belawan Kota)",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Medan&jobs=Medan%20Belawan%20(Medan%20Belawan%20Kota)",
+        "kodepos": [
+            "20411",
+            "20415"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Medan&jobs=Medan%20Belawan%20(Medan%20Belawan%20Kota)",
+            "jumlah": "6"
+        },
+        "pulau": null,
+        "kode": "12.71.08"
+    },
+    {
+        "no": "6",
+        "name": "Medan Deli",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Medan&jobs=Medan%20Deli",
+        "kodepos": [
+            "20241",
+            "20244"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Medan&jobs=Medan%20Deli",
+            "jumlah": "6"
+        },
+        "pulau": null,
+        "kode": "12.71.06"
+    },
+    {
+        "no": "7",
+        "name": "Medan Denai",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Medan&jobs=Medan%20Denai",
+        "kodepos": [
+            "20226",
+            "20228"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Medan&jobs=Medan%20Denai",
+            "jumlah": "6"
+        },
+        "pulau": null,
+        "kode": "12.71.04"
+    },
+    {
+        "no": "8",
+        "name": "Medan Helvetia",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Medan&jobs=Medan%20Helvetia",
+        "kodepos": [
+            "20123",
+            "20126"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Medan&jobs=Medan%20Helvetia",
+            "jumlah": "7"
+        },
+        "pulau": null,
+        "kode": "12.71.03"
+    },
+    {
+        "no": "9",
+        "name": "Medan Johor",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Medan&jobs=Medan%20Johor",
+        "kodepos": [
+            "20142",
+            "20146"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Medan&jobs=Medan%20Johor",
+            "jumlah": "6"
+        },
+        "pulau": null,
+        "kode": "12.71.11"
+    },
+    {
+        "no": "10",
+        "name": "Medan Kota",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Medan&jobs=Medan%20Kota",
+        "kodepos": [
+            "20211",
+            "20219"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Medan&jobs=Medan%20Kota",
+            "jumlah": "12"
+        },
+        "pulau": null,
+        "kode": "12.71.01"
+    },
+    {
+        "no": "11",
+        "name": "Medan Labuhan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Medan&jobs=Medan%20Labuhan",
+        "kodepos": [
+            "20253",
+            "20524"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Medan&jobs=Medan%20Labuhan",
+            "jumlah": "6"
+        },
+        "pulau": null,
+        "kode": "12.71.13"
+    },
+    {
+        "no": "12",
+        "name": "Medan Maimun",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Medan&jobs=Medan%20Maimun",
+        "kodepos": [
+            "20151",
+            "20159"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Medan&jobs=Medan%20Maimun",
+            "jumlah": "6"
+        },
+        "pulau": null,
+        "kode": "12.71.15"
+    },
+    {
+        "no": "13",
+        "name": "Medan Marelan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Medan&jobs=Medan%20Marelan",
+        "kodepos": [
+            "20250",
+            "20256"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Medan&jobs=Medan%20Marelan",
+            "jumlah": "5"
+        },
+        "pulau": null,
+        "kode": "12.71.12"
+    },
+    {
+        "no": "14",
+        "name": "Medan Perjuangan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Medan&jobs=Medan%20Perjuangan",
+        "kodepos": [
+            "20232",
+            "20237"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Medan&jobs=Medan%20Perjuangan",
+            "jumlah": "9"
+        },
+        "pulau": null,
+        "kode": "12.71.18"
+    },
+    {
+        "no": "15",
+        "name": "Medan Petisah",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Medan&jobs=Medan%20Petisah",
+        "kodepos": [
+            "20112",
+            "20119"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Medan&jobs=Medan%20Petisah",
+            "jumlah": "7"
+        },
+        "pulau": null,
+        "kode": "12.71.19"
+    },
+    {
+        "no": "16",
+        "name": "Medan Polonia",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Medan&jobs=Medan%20Polonia",
+        "kodepos": [
+            "20152",
+            "20157"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Medan&jobs=Medan%20Polonia",
+            "jumlah": "5"
+        },
+        "pulau": null,
+        "kode": "12.71.16"
+    },
+    {
+        "no": "17",
+        "name": "Medan Selayang",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Medan&jobs=Medan%20Selayang",
+        "kodepos": [
+            "20131",
+            "20133"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Medan&jobs=Medan%20Selayang",
+            "jumlah": "6"
+        },
+        "pulau": null,
+        "kode": "12.71.21"
+    },
+    {
+        "no": "18",
+        "name": "Medan Sunggal",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Medan&jobs=Medan%20Sunggal",
+        "kodepos": [
+            "20121",
+            "20128"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Medan&jobs=Medan%20Sunggal",
+            "jumlah": "6"
+        },
+        "pulau": null,
+        "kode": "12.71.02"
+    },
+    {
+        "no": "19",
+        "name": "Medan Tembung",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Medan&jobs=Medan%20Tembung",
+        "kodepos": [
+            "20221",
+            "20225"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Medan&jobs=Medan%20Tembung",
+            "jumlah": "7"
+        },
+        "pulau": null,
+        "kode": "12.71.14"
+    },
+    {
+        "no": "20",
+        "name": "Medan Timur",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Medan&jobs=Medan%20Timur",
+        "kodepos": [
+            "20231",
+            "20239"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Medan&jobs=Medan%20Timur",
+            "jumlah": "11"
+        },
+        "pulau": null,
+        "kode": "12.71.20"
+    },
+    {
+        "no": "21",
+        "name": "Medan Tuntungan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Medan&jobs=Medan%20Tuntungan",
+        "kodepos": [
+            "20134",
+            "20141"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Medan&jobs=Medan%20Tuntungan",
+            "jumlah": "9"
+        },
+        "pulau": null,
+        "kode": "12.71.07"
+    }
+]

@@ -1,0 +1,51 @@
+[
+    {
+        "no": "1",
+        "kodepos": "65326",
+        "name": "Beji",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Junrejo-Kota-Batu&jobs=Beji",
+        "kode": "35.79.03.2002"
+    },
+    {
+        "no": "2",
+        "kodepos": "65323",
+        "name": "Dadaprejo",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Junrejo-Kota-Batu&jobs=Dadaprejo",
+        "kode": "35.79.03.1001"
+    },
+    {
+        "no": "3",
+        "kodepos": "65321",
+        "name": "Junrejo",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Junrejo-Kota-Batu&jobs=Junrejo",
+        "kode": "35.79.03.2003"
+    },
+    {
+        "no": "4",
+        "kodepos": "65322",
+        "name": "Mojorejo",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Junrejo-Kota-Batu&jobs=Mojorejo",
+        "kode": "35.79.03.2005"
+    },
+    {
+        "no": "5",
+        "kodepos": "65324",
+        "name": "Pendem",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Junrejo-Kota-Batu&jobs=Pendem",
+        "kode": "35.79.03.2006"
+    },
+    {
+        "no": "6",
+        "kodepos": "65327",
+        "name": "Tlekung",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Junrejo-Kota-Batu&jobs=Tlekung",
+        "kode": "35.79.03.2004"
+    },
+    {
+        "no": "7",
+        "kodepos": "65325",
+        "name": "Torongrejo",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Junrejo-Kota-Batu&jobs=Torongrejo",
+        "kode": "35.79.03.2007"
+    }
+]

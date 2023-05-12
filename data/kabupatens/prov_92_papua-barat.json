@@ -1,0 +1,157 @@
+[
+    {
+        "no": "1",
+        "type": "Kabupaten",
+        "name": "Fak Fak",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Fak%20Fak",
+        "kodepos": [
+            "98011",
+            "98033"
+        ],
+        "kecamatan": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Fak%20Fak",
+            "jumlah": "17"
+        },
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kab.&jobs=Fak%20Fak",
+            "jumlah": "149"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kab.&jobs=Fak%20Fak",
+            "jumlah": "531"
+        },
+        "kode": "92.03"
+    },
+    {
+        "no": "2",
+        "type": "Kabupaten",
+        "name": "Kaimana",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Kaimana",
+        "kodepos": [
+            "98111",
+            "98123"
+        ],
+        "kecamatan": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Kaimana",
+            "jumlah": "7"
+        },
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kab.&jobs=Kaimana",
+            "jumlah": "86"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kab.&jobs=Kaimana",
+            "jumlah": "654"
+        },
+        "kode": "92.08"
+    },
+    {
+        "no": "3",
+        "type": "Kabupaten",
+        "name": "Manokwari",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Manokwari",
+        "kodepos": [
+            "98311",
+            "98319"
+        ],
+        "kecamatan": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Manokwari",
+            "jumlah": "9"
+        },
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kab.&jobs=Manokwari",
+            "jumlah": "173"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kab.&jobs=Manokwari",
+            "jumlah": "7"
+        },
+        "kode": "92.02"
+    },
+    {
+        "no": "4",
+        "type": "Kabupaten",
+        "name": "Manokwari Selatan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Manokwari%20Selatan",
+        "kodepos": [
+            "98321",
+            "98326"
+        ],
+        "kecamatan": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Manokwari%20Selatan",
+            "jumlah": "6"
+        },
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kab.&jobs=Manokwari%20Selatan",
+            "jumlah": "57"
+        },
+        "pulau": null,
+        "kode": "92.11"
+    },
+    {
+        "no": "5",
+        "type": "Kabupaten",
+        "name": "Pegunungan Arfak",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Pegunungan%20Arfak",
+        "kodepos": [
+            "98350",
+            "98359"
+        ],
+        "kecamatan": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Pegunungan%20Arfak",
+            "jumlah": "10"
+        },
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kab.&jobs=Pegunungan%20Arfak",
+            "jumlah": "166"
+        },
+        "pulau": null,
+        "kode": "92.12"
+    },
+    {
+        "no": "6",
+        "type": "Kabupaten",
+        "name": "Teluk Bintuni",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Teluk%20Bintuni",
+        "kodepos": [
+            "98131",
+            "98165"
+        ],
+        "kecamatan": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Teluk%20Bintuni",
+            "jumlah": "24"
+        },
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kab.&jobs=Teluk%20Bintuni",
+            "jumlah": "117"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kab.&jobs=Teluk%20Bintuni",
+            "jumlah": "33"
+        },
+        "kode": "92.06"
+    },
+    {
+        "no": "7",
+        "type": "Kabupaten",
+        "name": "Teluk Wondama",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Teluk%20Wondama",
+        "kodepos": [
+            "98331",
+            "98347"
+        ],
+        "kecamatan": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Teluk%20Wondama",
+            "jumlah": "13"
+        },
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kab.&jobs=Teluk%20Wondama",
+            "jumlah": "76"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kab.&jobs=Teluk%20Wondama",
+            "jumlah": "243"
+        },
+        "kode": "92.07"
+    }
+]

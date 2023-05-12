@@ -1,0 +1,77 @@
+[
+    {
+        "no": "1",
+        "name": "Blimbing",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Malang&jobs=Blimbing",
+        "kodepos": [
+            "65121",
+            "65137"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Malang&jobs=Blimbing",
+            "jumlah": "11"
+        },
+        "pulau": null,
+        "kode": "35.73.01"
+    },
+    {
+        "no": "2",
+        "name": "Kedungkandang",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Malang&jobs=Kedungkandang",
+        "kodepos": [
+            "65132",
+            "65139"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Malang&jobs=Kedungkandang",
+            "jumlah": "12"
+        },
+        "pulau": null,
+        "kode": "35.73.03"
+    },
+    {
+        "no": "3",
+        "name": "Klojen",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Malang&jobs=Klojen",
+        "kodepos": [
+            "65111",
+            "65119"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Malang&jobs=Klojen",
+            "jumlah": "11"
+        },
+        "pulau": null,
+        "kode": "35.73.02"
+    },
+    {
+        "no": "4",
+        "name": "Lowokwaru",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Malang&jobs=Lowokwaru",
+        "kodepos": [
+            "65141",
+            "65145"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Malang&jobs=Lowokwaru",
+            "jumlah": "12"
+        },
+        "pulau": null,
+        "kode": "35.73.05"
+    },
+    {
+        "no": "5",
+        "name": "Sukun",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Malang&jobs=Sukun",
+        "kodepos": [
+            "65146",
+            "65149"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Malang&jobs=Sukun",
+            "jumlah": "11"
+        },
+        "pulau": null,
+        "kode": "35.73.04"
+    }
+]

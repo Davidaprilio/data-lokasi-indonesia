@@ -1,0 +1,261 @@
+[
+    {
+        "no": "1",
+        "name": "Arguni",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Fak%20Fak&jobs=Arguni",
+        "kodepos": [
+            "98014"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Fak%20Fak&jobs=Arguni",
+            "jumlah": "5"
+        },
+        "pulau": null,
+        "kode": "92.03.13"
+    },
+    {
+        "no": "2",
+        "name": "Bomberay",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Fak%20Fak&jobs=Bomberay",
+        "kodepos": [
+            "98026"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Fak%20Fak&jobs=Bomberay",
+            "jumlah": "7"
+        },
+        "pulau": null,
+        "kode": "92.03.07"
+    },
+    {
+        "no": "3",
+        "name": "Fak-Fak (Fakfak)",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Fak%20Fak&jobs=Fak-Fak%20(Fakfak)",
+        "kodepos": [
+            "98011"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Fak%20Fak&jobs=Fak-Fak%20(Fakfak)",
+            "jumlah": "5"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Fak%20Fak&jobs=Fak-Fak%20(Fakfak)",
+            "jumlah": "3"
+        },
+        "kode": "92.03.01"
+    },
+    {
+        "no": "4",
+        "name": "Fak-Fak Barat (Fakfak Barat)",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Fak%20Fak&jobs=Fak-Fak%20Barat%20(Fakfak%20Barat)",
+        "kodepos": [
+            "98022"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Fak%20Fak&jobs=Fak-Fak%20Barat%20(Fakfak%20Barat)",
+            "jumlah": "9"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Fak%20Fak&jobs=Fak-Fak%20Barat%20(Fakfak%20Barat)",
+            "jumlah": "26"
+        },
+        "kode": "92.03.02"
+    },
+    {
+        "no": "5",
+        "name": "Fak-Fak Tengah (Fakfak Tengah)",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Fak%20Fak&jobs=Fak-Fak%20Tengah%20(Fakfak%20Tengah)",
+        "kodepos": [
+            "98012"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Fak%20Fak&jobs=Fak-Fak%20Tengah%20(Fakfak%20Tengah)",
+            "jumlah": "14"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Fak%20Fak&jobs=Fak-Fak%20Tengah%20(Fakfak%20Tengah)",
+            "jumlah": "2"
+        },
+        "kode": "92.03.05"
+    },
+    {
+        "no": "6",
+        "name": "Fak-Fak Timur (Fakfak Timur)",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Fak%20Fak&jobs=Fak-Fak%20Timur%20(Fakfak%20Timur)",
+        "kodepos": [
+            "98027"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Fak%20Fak&jobs=Fak-Fak%20Timur%20(Fakfak%20Timur)",
+            "jumlah": "6"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Fak%20Fak&jobs=Fak-Fak%20Timur%20(Fakfak%20Timur)",
+            "jumlah": "26"
+        },
+        "kode": "92.03.03"
+    },
+    {
+        "no": "7",
+        "name": "Fakfak Timur Tengah",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Fak%20Fak&jobs=Fakfak%20Timur%20Tengah",
+        "kodepos": [
+            "98031"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Fak%20Fak&jobs=Fakfak%20Timur%20Tengah",
+            "jumlah": "10"
+        },
+        "pulau": null,
+        "kode": "92.03.12"
+    },
+    {
+        "no": "8",
+        "name": "Furwagi",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Fak%20Fak&jobs=Furwagi",
+        "kodepos": [
+            "98023"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Fak%20Fak&jobs=Furwagi",
+            "jumlah": "8"
+        },
+        "pulau": null,
+        "kode": "92.03.16"
+    },
+    {
+        "no": "9",
+        "name": "Karas",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Fak%20Fak&jobs=Karas",
+        "kodepos": [
+            "98032"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Fak%20Fak&jobs=Karas",
+            "jumlah": "7"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Fak%20Fak&jobs=Karas",
+            "jumlah": "97"
+        },
+        "kode": "92.03.06"
+    },
+    {
+        "no": "10",
+        "name": "Kayauni",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Fak%20Fak&jobs=Kayauni",
+        "kodepos": [
+            "98015"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Fak%20Fak&jobs=Kayauni",
+            "jumlah": "9"
+        },
+        "pulau": null,
+        "kode": "92.03.15"
+    },
+    {
+        "no": "11",
+        "name": "Kokas",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Fak%20Fak&jobs=Kokas",
+        "kodepos": [
+            "98016"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Fak%20Fak&jobs=Kokas",
+            "jumlah": "15"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Fak%20Fak&jobs=Kokas",
+            "jumlah": "219"
+        },
+        "kode": "92.03.04"
+    },
+    {
+        "no": "12",
+        "name": "Kramongmongga",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Fak%20Fak&jobs=Kramongmongga",
+        "kodepos": [
+            "98017"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Fak%20Fak&jobs=Kramongmongga",
+            "jumlah": "10"
+        },
+        "pulau": null,
+        "kode": "92.03.08"
+    },
+    {
+        "no": "13",
+        "name": "Mbahamdandara",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Fak%20Fak&jobs=Mbahamdandara",
+        "kodepos": [
+            "98021"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Fak%20Fak&jobs=Mbahamdandara",
+            "jumlah": "7"
+        },
+        "pulau": null,
+        "kode": "92.03.14"
+    },
+    {
+        "no": "14",
+        "name": "Pariwari",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Fak%20Fak&jobs=Pariwari",
+        "kodepos": [
+            "98013"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Fak%20Fak&jobs=Pariwari",
+            "jumlah": "9"
+        },
+        "pulau": null,
+        "kode": "92.03.10"
+    },
+    {
+        "no": "15",
+        "name": "Teluk Patipi",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Fak%20Fak&jobs=Teluk%20Patipi",
+        "kodepos": [
+            "98024"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Fak%20Fak&jobs=Teluk%20Patipi",
+            "jumlah": "13"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Fak%20Fak&jobs=Teluk%20Patipi",
+            "jumlah": "56"
+        },
+        "kode": "92.03.09"
+    },
+    {
+        "no": "16",
+        "name": "Tomage",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Fak%20Fak&jobs=Tomage",
+        "kodepos": [
+            "98033"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Fak%20Fak&jobs=Tomage",
+            "jumlah": "9"
+        },
+        "pulau": null,
+        "kode": "92.03.17"
+    },
+    {
+        "no": "17",
+        "name": "Wartutin",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Fak%20Fak&jobs=Wartutin",
+        "kodepos": [
+            "98025"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Fak%20Fak&jobs=Wartutin",
+            "jumlah": "6"
+        },
+        "pulau": null,
+        "kode": "92.03.11"
+    }
+]

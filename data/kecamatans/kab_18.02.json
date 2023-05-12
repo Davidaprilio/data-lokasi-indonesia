@@ -1,0 +1,395 @@
+[
+    {
+        "no": "1",
+        "name": "Anak Ratu Aji",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Lampung%20Tengah&jobs=Anak%20Ratu%20Aji",
+        "kodepos": [
+            "35513"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Lampung%20Tengah&jobs=Anak%20Ratu%20Aji",
+            "jumlah": "6"
+        },
+        "pulau": null,
+        "kode": "18.02.27"
+    },
+    {
+        "no": "2",
+        "name": "Anak Tuha",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Lampung%20Tengah&jobs=Anak%20Tuha",
+        "kodepos": [
+            "34161"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Lampung%20Tengah&jobs=Anak%20Tuha",
+            "jumlah": "12"
+        },
+        "pulau": null,
+        "kode": "18.02.21"
+    },
+    {
+        "no": "3",
+        "name": "Bandar Mataram",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Lampung%20Tengah&jobs=Bandar%20Mataram",
+        "kodepos": [
+            "34169"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Lampung%20Tengah&jobs=Bandar%20Mataram",
+            "jumlah": "9"
+        },
+        "pulau": null,
+        "kode": "18.02.18"
+    },
+    {
+        "no": "4",
+        "name": "Bandar Surabaya",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Lampung%20Tengah&jobs=Bandar%20Surabaya",
+        "kodepos": [
+            "34159"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Lampung%20Tengah&jobs=Bandar%20Surabaya",
+            "jumlah": "10"
+        },
+        "pulau": null,
+        "kode": "18.02.26"
+    },
+    {
+        "no": "5",
+        "name": "Bangun Rejo",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Lampung%20Tengah&jobs=Bangun%20Rejo",
+        "kodepos": [
+            "34173"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Lampung%20Tengah&jobs=Bangun%20Rejo",
+            "jumlah": "17"
+        },
+        "pulau": null,
+        "kode": "18.02.02"
+    },
+    {
+        "no": "6",
+        "name": "Bekri",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Lampung%20Tengah&jobs=Bekri",
+        "kodepos": [
+            "34162"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Lampung%20Tengah&jobs=Bekri",
+            "jumlah": "8"
+        },
+        "pulau": null,
+        "kode": "18.02.15"
+    },
+    {
+        "no": "7",
+        "name": "Bumi Nabung",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Lampung%20Tengah&jobs=Bumi%20Nabung",
+        "kodepos": [
+            "34168"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Lampung%20Tengah&jobs=Bumi%20Nabung",
+            "jumlah": "7"
+        },
+        "pulau": null,
+        "kode": "18.02.24"
+    },
+    {
+        "no": "8",
+        "name": "Bumi Ratu Nuban",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Lampung%20Tengah&jobs=Bumi%20Ratu%20Nuban",
+        "kodepos": [
+            "34160"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Lampung%20Tengah&jobs=Bumi%20Ratu%20Nuban",
+            "jumlah": "10"
+        },
+        "pulau": null,
+        "kode": "18.02.14"
+    },
+    {
+        "no": "9",
+        "name": "Gunung Sugih",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Lampung%20Tengah&jobs=Gunung%20Sugih",
+        "kodepos": [
+            "34165"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Lampung%20Tengah&jobs=Gunung%20Sugih",
+            "jumlah": "15"
+        },
+        "pulau": null,
+        "kode": "18.02.04"
+    },
+    {
+        "no": "10",
+        "name": "Kalirejo",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Lampung%20Tengah&jobs=Kalirejo",
+        "kodepos": [
+            "34174"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Lampung%20Tengah&jobs=Kalirejo",
+            "jumlah": "17"
+        },
+        "pulau": null,
+        "kode": "18.02.01"
+    },
+    {
+        "no": "11",
+        "name": "Kota Gajah",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Lampung%20Tengah&jobs=Kota%20Gajah",
+        "kodepos": [
+            "34153"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Lampung%20Tengah&jobs=Kota%20Gajah",
+            "jumlah": "7"
+        },
+        "pulau": null,
+        "kode": "18.02.23"
+    },
+    {
+        "no": "12",
+        "name": "Padang Ratu",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Lampung%20Tengah&jobs=Padang%20Ratu",
+        "kodepos": [
+            "34175"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Lampung%20Tengah&jobs=Padang%20Ratu",
+            "jumlah": "15"
+        },
+        "pulau": null,
+        "kode": "18.02.03"
+    },
+    {
+        "no": "13",
+        "name": "Pubian",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Lampung%20Tengah&jobs=Pubian",
+        "kodepos": [
+            "34176"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Lampung%20Tengah&jobs=Pubian",
+            "jumlah": "20"
+        },
+        "pulau": null,
+        "kode": "18.02.19"
+    },
+    {
+        "no": "14",
+        "name": "Punggur",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Lampung%20Tengah&jobs=Punggur",
+        "kodepos": [
+            "34152"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Lampung%20Tengah&jobs=Punggur",
+            "jumlah": "9"
+        },
+        "pulau": null,
+        "kode": "18.02.06"
+    },
+    {
+        "no": "15",
+        "name": "Putra Rumbia",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Lampung%20Tengah&jobs=Putra%20Rumbia",
+        "kodepos": [
+            "34157"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Lampung%20Tengah&jobs=Putra%20Rumbia",
+            "jumlah": "10"
+        },
+        "pulau": null,
+        "kode": "18.02.28"
+    },
+    {
+        "no": "16",
+        "name": "Rumbia",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Lampung%20Tengah&jobs=Rumbia",
+        "kodepos": [
+            "34154"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Lampung%20Tengah&jobs=Rumbia",
+            "jumlah": "9"
+        },
+        "pulau": null,
+        "kode": "18.02.09"
+    },
+    {
+        "no": "17",
+        "name": "Selagai Lingga",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Lampung%20Tengah&jobs=Selagai%20Lingga",
+        "kodepos": [
+            "34177"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Lampung%20Tengah&jobs=Selagai%20Lingga",
+            "jumlah": "14"
+        },
+        "pulau": null,
+        "kode": "18.02.20"
+    },
+    {
+        "no": "18",
+        "name": "Sendang Agung",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Lampung%20Tengah&jobs=Sendang%20Agung",
+        "kodepos": [
+            "34178"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Lampung%20Tengah&jobs=Sendang%20Agung",
+            "jumlah": "9"
+        },
+        "pulau": null,
+        "kode": "18.02.22"
+    },
+    {
+        "no": "19",
+        "name": "Seputih Agung",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Lampung%20Tengah&jobs=Seputih%20Agung",
+        "kodepos": [
+            "34166"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Lampung%20Tengah&jobs=Seputih%20Agung",
+            "jumlah": "10"
+        },
+        "pulau": null,
+        "kode": "18.02.16"
+    },
+    {
+        "no": "20",
+        "name": "Seputih Banyak",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Lampung%20Tengah&jobs=Seputih%20Banyak",
+        "kodepos": [
+            "34156"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Lampung%20Tengah&jobs=Seputih%20Banyak",
+            "jumlah": "13"
+        },
+        "pulau": null,
+        "kode": "18.02.10"
+    },
+    {
+        "no": "21",
+        "name": "Seputih Mataram",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Lampung%20Tengah&jobs=Seputih%20Mataram",
+        "kodepos": [
+            "34164"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Lampung%20Tengah&jobs=Seputih%20Mataram",
+            "jumlah": "12"
+        },
+        "pulau": null,
+        "kode": "18.02.11"
+    },
+    {
+        "no": "22",
+        "name": "Seputih Raman",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Lampung%20Tengah&jobs=Seputih%20Raman",
+        "kodepos": [
+            "34155"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Lampung%20Tengah&jobs=Seputih%20Raman",
+            "jumlah": "14"
+        },
+        "pulau": null,
+        "kode": "18.02.08"
+    },
+    {
+        "no": "23",
+        "name": "Seputih Surabaya",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Lampung%20Tengah&jobs=Seputih%20Surabaya",
+        "kodepos": [
+            "34158"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Lampung%20Tengah&jobs=Seputih%20Surabaya",
+            "jumlah": "13"
+        },
+        "pulau": null,
+        "kode": "18.02.12"
+    },
+    {
+        "no": "24",
+        "name": "Terbanggi Besar",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Lampung%20Tengah&jobs=Terbanggi%20Besar",
+        "kodepos": [
+            "34163"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Lampung%20Tengah&jobs=Terbanggi%20Besar",
+            "jumlah": "10"
+        },
+        "pulau": null,
+        "kode": "18.02.07"
+    },
+    {
+        "no": "25",
+        "name": "Terusan Nunyai",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Lampung%20Tengah&jobs=Terusan%20Nunyai",
+        "kodepos": [
+            "34167"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Lampung%20Tengah&jobs=Terusan%20Nunyai",
+            "jumlah": "7"
+        },
+        "pulau": null,
+        "kode": "18.02.13"
+    },
+    {
+        "no": "26",
+        "name": "Trimurjo",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Lampung%20Tengah&jobs=Trimurjo",
+        "kodepos": [
+            "34171",
+            "34172"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Lampung%20Tengah&jobs=Trimurjo",
+            "jumlah": "14"
+        },
+        "pulau": null,
+        "kode": "18.02.05"
+    },
+    {
+        "no": "27",
+        "name": "Way Pangubuan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Lampung%20Tengah&jobs=Way%20Pangubuan",
+        "kodepos": [
+            "35213"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Lampung%20Tengah&jobs=Way%20Pangubuan",
+            "jumlah": "8"
+        },
+        "pulau": null,
+        "kode": "18.02.17"
+    },
+    {
+        "no": "28",
+        "name": "Way Seputih",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Lampung%20Tengah&jobs=Way%20Seputih",
+        "kodepos": [
+            "34179"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Lampung%20Tengah&jobs=Way%20Seputih",
+            "jumlah": "6"
+        },
+        "pulau": null,
+        "kode": "18.02.25"
+    }
+]

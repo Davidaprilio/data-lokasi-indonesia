@@ -1,0 +1,72 @@
+[
+    {
+        "no": "1",
+        "name": "Laham",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Mahakam%20Ulu&jobs=Laham",
+        "kodepos": [
+            "75779"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Mahakam%20Ulu&jobs=Laham",
+            "jumlah": "5"
+        },
+        "pulau": null,
+        "kode": "64.11.03"
+    },
+    {
+        "no": "2",
+        "name": "Long Apari",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Mahakam%20Ulu&jobs=Long%20Apari",
+        "kodepos": [
+            "75769"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Mahakam%20Ulu&jobs=Long%20Apari",
+            "jumlah": "10"
+        },
+        "pulau": null,
+        "kode": "64.11.04"
+    },
+    {
+        "no": "3",
+        "name": "Long Bagun",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Mahakam%20Ulu&jobs=Long%20Bagun",
+        "kodepos": [
+            "75767"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Mahakam%20Ulu&jobs=Long%20Bagun",
+            "jumlah": "11"
+        },
+        "pulau": null,
+        "kode": "64.11.01"
+    },
+    {
+        "no": "4",
+        "name": "Long Hubung",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Mahakam%20Ulu&jobs=Long%20Hubung",
+        "kodepos": [
+            "75770"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Mahakam%20Ulu&jobs=Long%20Hubung",
+            "jumlah": "11"
+        },
+        "pulau": null,
+        "kode": "64.11.02"
+    },
+    {
+        "no": "5",
+        "name": "Long Pahangai",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Mahakam%20Ulu&jobs=Long%20Pahangai",
+        "kodepos": [
+            "75768"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Mahakam%20Ulu&jobs=Long%20Pahangai",
+            "jumlah": "13"
+        },
+        "pulau": null,
+        "kode": "64.11.05"
+    }
+]

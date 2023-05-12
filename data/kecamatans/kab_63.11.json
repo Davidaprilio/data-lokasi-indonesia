@@ -1,0 +1,116 @@
+[
+    {
+        "no": "1",
+        "name": "Awayan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Balangan&jobs=Awayan",
+        "kodepos": [
+            "71664"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Balangan&jobs=Awayan",
+            "jumlah": "23"
+        },
+        "pulau": null,
+        "kode": "63.11.03"
+    },
+    {
+        "no": "2",
+        "name": "Batu Mandi",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Balangan&jobs=Batu%20Mandi",
+        "kodepos": [
+            "71663"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Balangan&jobs=Batu%20Mandi",
+            "jumlah": "18"
+        },
+        "pulau": null,
+        "kode": "63.11.04"
+    },
+    {
+        "no": "3",
+        "name": "Halong",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Balangan&jobs=Halong",
+        "kodepos": [
+            "71666"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Balangan&jobs=Halong",
+            "jumlah": "24"
+        },
+        "pulau": null,
+        "kode": "63.11.02"
+    },
+    {
+        "no": "4",
+        "name": "Juai",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Balangan&jobs=Juai",
+        "kodepos": [
+            "71665"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Balangan&jobs=Juai",
+            "jumlah": "21"
+        },
+        "pulau": null,
+        "kode": "63.11.01"
+    },
+    {
+        "no": "5",
+        "name": "Lampihong",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Balangan&jobs=Lampihong",
+        "kodepos": [
+            "71661"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Balangan&jobs=Lampihong",
+            "jumlah": "27"
+        },
+        "pulau": null,
+        "kode": "63.11.05"
+    },
+    {
+        "no": "6",
+        "name": "Paringin",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Balangan&jobs=Paringin",
+        "kodepos": [
+            "71611",
+            "71662"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Balangan&jobs=Paringin",
+            "jumlah": "16"
+        },
+        "pulau": null,
+        "kode": "63.11.06"
+    },
+    {
+        "no": "7",
+        "name": "Paringin Selatan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Balangan&jobs=Paringin%20Selatan",
+        "kodepos": [
+            "71617",
+            "71662"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Balangan&jobs=Paringin%20Selatan",
+            "jumlah": "16"
+        },
+        "pulau": null,
+        "kode": "63.11.07"
+    },
+    {
+        "no": "8",
+        "name": "Tebing Tinggi",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Balangan&jobs=Tebing%20Tinggi",
+        "kodepos": [
+            "71667"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Balangan&jobs=Tebing%20Tinggi",
+            "jumlah": "12"
+        },
+        "pulau": null,
+        "kode": "63.11.08"
+    }
+]

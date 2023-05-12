@@ -1,0 +1,122 @@
+[
+    {
+        "no": "1",
+        "name": "Siantar Barat",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Pematangsiantar&jobs=Siantar%20Barat",
+        "kodepos": [
+            "21111",
+            "21118"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Pematangsiantar&jobs=Siantar%20Barat",
+            "jumlah": "8"
+        },
+        "pulau": null,
+        "kode": "12.72.02"
+    },
+    {
+        "no": "2",
+        "name": "Siantar Marihat",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Pematangsiantar&jobs=Siantar%20Marihat",
+        "kodepos": [
+            "21127",
+            "21129"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Pematangsiantar&jobs=Siantar%20Marihat",
+            "jumlah": "7"
+        },
+        "pulau": null,
+        "kode": "12.72.05"
+    },
+    {
+        "no": "3",
+        "name": "Siantar Marimbun",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Pematangsiantar&jobs=Siantar%20Marimbun",
+        "kodepos": [
+            "21127",
+            "21129"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Pematangsiantar&jobs=Siantar%20Marimbun",
+            "jumlah": "6"
+        },
+        "pulau": null,
+        "kode": "12.72.08"
+    },
+    {
+        "no": "4",
+        "name": "Siantar Martoba",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Pematangsiantar&jobs=Siantar%20Martoba",
+        "kodepos": [
+            "21137",
+            "21139"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Pematangsiantar&jobs=Siantar%20Martoba",
+            "jumlah": "7"
+        },
+        "pulau": null,
+        "kode": "12.72.06"
+    },
+    {
+        "no": "5",
+        "name": "Siantar Selatan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Pematangsiantar&jobs=Siantar%20Selatan",
+        "kodepos": [
+            "21121",
+            "21126"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Pematangsiantar&jobs=Siantar%20Selatan",
+            "jumlah": "6"
+        },
+        "pulau": null,
+        "kode": "12.72.04"
+    },
+    {
+        "no": "6",
+        "name": "Siantar Sitalasari",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Pematangsiantar&jobs=Siantar%20Sitalasari",
+        "kodepos": [
+            "21137",
+            "21139"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Pematangsiantar&jobs=Siantar%20Sitalasari",
+            "jumlah": "5"
+        },
+        "pulau": null,
+        "kode": "12.72.07"
+    },
+    {
+        "no": "7",
+        "name": "Siantar Timur",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Pematangsiantar&jobs=Siantar%20Timur",
+        "kodepos": [
+            "21131",
+            "21139"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Pematangsiantar&jobs=Siantar%20Timur",
+            "jumlah": "7"
+        },
+        "pulau": null,
+        "kode": "12.72.01"
+    },
+    {
+        "no": "8",
+        "name": "Siantar Utara",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Pematangsiantar&jobs=Siantar%20Utara",
+        "kodepos": [
+            "21141",
+            "21147"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Pematangsiantar&jobs=Siantar%20Utara",
+            "jumlah": "7"
+        },
+        "pulau": null,
+        "kode": "12.72.03"
+    }
+]

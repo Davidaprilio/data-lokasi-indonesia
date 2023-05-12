@@ -1,0 +1,100 @@
+[
+    {
+        "no": "1",
+        "name": "Batauga",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Buton%20Selatan&jobs=Batauga",
+        "kodepos": [
+            "93741"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Buton%20Selatan&jobs=Batauga",
+            "jumlah": "12"
+        },
+        "pulau": null,
+        "kode": "74.15.01"
+    },
+    {
+        "no": "2",
+        "name": "Batu Atas",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Buton%20Selatan&jobs=Batu%20Atas",
+        "kodepos": [
+            "93745"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Buton%20Selatan&jobs=Batu%20Atas",
+            "jumlah": "7"
+        },
+        "pulau": null,
+        "kode": "74.15.04"
+    },
+    {
+        "no": "3",
+        "name": "Kadatua",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Buton%20Selatan&jobs=Kadatua",
+        "kodepos": [
+            "93742"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Buton%20Selatan&jobs=Kadatua",
+            "jumlah": "10"
+        },
+        "pulau": null,
+        "kode": "74.15.07"
+    },
+    {
+        "no": "4",
+        "name": "Lapandewa",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Buton%20Selatan&jobs=Lapandewa",
+        "kodepos": [
+            "93746"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Buton%20Selatan&jobs=Lapandewa",
+            "jumlah": "7"
+        },
+        "pulau": null,
+        "kode": "74.15.03"
+    },
+    {
+        "no": "5",
+        "name": "Sampolawa",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Buton%20Selatan&jobs=Sampolawa",
+        "kodepos": [
+            "93747"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Buton%20Selatan&jobs=Sampolawa",
+            "jumlah": "16"
+        },
+        "pulau": null,
+        "kode": "74.15.02"
+    },
+    {
+        "no": "6",
+        "name": "Siompu",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Buton%20Selatan&jobs=Siompu",
+        "kodepos": [
+            "93743"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Buton%20Selatan&jobs=Siompu",
+            "jumlah": "10"
+        },
+        "pulau": null,
+        "kode": "74.15.06"
+    },
+    {
+        "no": "7",
+        "name": "Siompu Barat",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Buton%20Selatan&jobs=Siompu%20Barat",
+        "kodepos": [
+            "93744"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Buton%20Selatan&jobs=Siompu%20Barat",
+            "jumlah": "8"
+        },
+        "pulau": null,
+        "kode": "74.15.05"
+    }
+]

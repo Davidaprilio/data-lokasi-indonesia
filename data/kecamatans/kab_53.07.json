@@ -1,0 +1,311 @@
+[
+    {
+        "no": "1",
+        "name": "Alok",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Sikka&jobs=Alok",
+        "kodepos": [
+            "86112",
+            "86118"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Sikka&jobs=Alok",
+            "jumlah": "7"
+        },
+        "pulau": null,
+        "kode": "53.07.05"
+    },
+    {
+        "no": "2",
+        "name": "Alok Barat",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Sikka&jobs=Alok%20Barat",
+        "kodepos": [
+            "86114",
+            "86115"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Sikka&jobs=Alok%20Barat",
+            "jumlah": "4"
+        },
+        "pulau": null,
+        "kode": "53.07.14"
+    },
+    {
+        "no": "3",
+        "name": "Alok Timur",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Sikka&jobs=Alok%20Timur",
+        "kodepos": [
+            "86111",
+            "86215"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Sikka&jobs=Alok%20Timur",
+            "jumlah": "10"
+        },
+        "pulau": null,
+        "kode": "53.07.15"
+    },
+    {
+        "no": "4",
+        "name": "Bola",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Sikka&jobs=Bola",
+        "kodepos": [
+            "86171"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Sikka&jobs=Bola",
+            "jumlah": "6"
+        },
+        "pulau": null,
+        "kode": "53.07.11"
+    },
+    {
+        "no": "5",
+        "name": "Doreng",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Sikka&jobs=Doreng",
+        "kodepos": [
+            "86170"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Sikka&jobs=Doreng",
+            "jumlah": "7"
+        },
+        "pulau": null,
+        "kode": "53.07.20"
+    },
+    {
+        "no": "6",
+        "name": "Hewokloang",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Sikka&jobs=Hewokloang",
+        "kodepos": [
+            "86181"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Sikka&jobs=Hewokloang",
+            "jumlah": "7"
+        },
+        "pulau": null,
+        "kode": "53.07.18"
+    },
+    {
+        "no": "7",
+        "name": "Kangae",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Sikka&jobs=Kangae",
+        "kodepos": [
+            "86180"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Sikka&jobs=Kangae",
+            "jumlah": "9"
+        },
+        "pulau": null,
+        "kode": "53.07.19"
+    },
+    {
+        "no": "8",
+        "name": "Kewapante",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Sikka&jobs=Kewapante",
+        "kodepos": [
+            "86182"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Sikka&jobs=Kewapante",
+            "jumlah": "8"
+        },
+        "pulau": null,
+        "kode": "53.07.10"
+    },
+    {
+        "no": "9",
+        "name": "Koting",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Sikka&jobs=Koting",
+        "kodepos": [
+            "86116"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Sikka&jobs=Koting",
+            "jumlah": "6"
+        },
+        "pulau": null,
+        "kode": "53.07.16"
+    },
+    {
+        "no": "10",
+        "name": "Lela",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Sikka&jobs=Lela",
+        "kodepos": [
+            "86161"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Sikka&jobs=Lela",
+            "jumlah": "9"
+        },
+        "pulau": null,
+        "kode": "53.07.03"
+    },
+    {
+        "no": "11",
+        "name": "Magepanda",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Sikka&jobs=Magepanda",
+        "kodepos": [
+            "86152"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Sikka&jobs=Magepanda",
+            "jumlah": "5"
+        },
+        "pulau": null,
+        "kode": "53.07.12"
+    },
+    {
+        "no": "12",
+        "name": "Mapitara",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Sikka&jobs=Mapitara",
+        "kodepos": [
+            "86172"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Sikka&jobs=Mapitara",
+            "jumlah": "4"
+        },
+        "pulau": null,
+        "kode": "53.07.21"
+    },
+    {
+        "no": "13",
+        "name": "Mego",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Sikka&jobs=Mego",
+        "kodepos": [
+            "86113"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Sikka&jobs=Mego",
+            "jumlah": "10"
+        },
+        "pulau": null,
+        "kode": "53.07.02"
+    },
+    {
+        "no": "14",
+        "name": "Nelle (Maumerei)",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Sikka&jobs=Nelle%20(Maumerei)",
+        "kodepos": [
+            "86119"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Sikka&jobs=Nelle%20(Maumerei)",
+            "jumlah": "5"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Sikka&jobs=Nelle%20(Maumerei)",
+            "jumlah": "11"
+        },
+        "kode": "53.07.07"
+    },
+    {
+        "no": "15",
+        "name": "Nita",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Sikka&jobs=Nita",
+        "kodepos": [
+            "86151"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Sikka&jobs=Nita",
+            "jumlah": "12"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Sikka&jobs=Nita",
+            "jumlah": "1"
+        },
+        "kode": "53.07.04"
+    },
+    {
+        "no": "16",
+        "name": "Paga",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Sikka&jobs=Paga",
+        "kodepos": [
+            "86153"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Sikka&jobs=Paga",
+            "jumlah": "8"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Sikka&jobs=Paga",
+            "jumlah": "3"
+        },
+        "kode": "53.07.01"
+    },
+    {
+        "no": "17",
+        "name": "Palue",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Sikka&jobs=Palue",
+        "kodepos": [
+            "86110"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Sikka&jobs=Palue",
+            "jumlah": "8"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Sikka&jobs=Palue",
+            "jumlah": "1"
+        },
+        "kode": "53.07.06"
+    },
+    {
+        "no": "18",
+        "name": "Talibura",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Sikka&jobs=Talibura",
+        "kodepos": [
+            "86183"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Sikka&jobs=Talibura",
+            "jumlah": "12"
+        },
+        "pulau": null,
+        "kode": "53.07.08"
+    },
+    {
+        "no": "19",
+        "name": "Tana Wawo",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Sikka&jobs=Tana%20Wawo",
+        "kodepos": [
+            "86154"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Sikka&jobs=Tana%20Wawo",
+            "jumlah": "8"
+        },
+        "pulau": null,
+        "kode": "53.07.17"
+    },
+    {
+        "no": "20",
+        "name": "Waiblama",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Sikka&jobs=Waiblama",
+        "kodepos": [
+            "86184"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Sikka&jobs=Waiblama",
+            "jumlah": "6"
+        },
+        "pulau": null,
+        "kode": "53.07.13"
+    },
+    {
+        "no": "21",
+        "name": "Waigete",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Sikka&jobs=Waigete",
+        "kodepos": [
+            "86185"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Sikka&jobs=Waigete",
+            "jumlah": "9"
+        },
+        "pulau": null,
+        "kode": "53.07.09"
+    }
+]

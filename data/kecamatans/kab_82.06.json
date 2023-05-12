@@ -1,0 +1,151 @@
+[
+    {
+        "no": "1",
+        "name": "Kota Maba",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Halmahera%20Timur&jobs=Kota%20Maba",
+        "kodepos": [
+            "97862"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Halmahera%20Timur&jobs=Kota%20Maba",
+            "jumlah": "6"
+        },
+        "pulau": null,
+        "kode": "82.06.10"
+    },
+    {
+        "no": "2",
+        "name": "Maba",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Halmahera%20Timur&jobs=Maba",
+        "kodepos": [
+            "97860"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Halmahera%20Timur&jobs=Maba",
+            "jumlah": "10"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Halmahera%20Timur&jobs=Maba",
+            "jumlah": "3"
+        },
+        "kode": "82.06.02"
+    },
+    {
+        "no": "3",
+        "name": "Maba Selatan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Halmahera%20Timur&jobs=Maba%20Selatan",
+        "kodepos": [
+            "97861"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Halmahera%20Timur&jobs=Maba%20Selatan",
+            "jumlah": "9"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Halmahera%20Timur&jobs=Maba%20Selatan",
+            "jumlah": "26"
+        },
+        "kode": "82.06.03"
+    },
+    {
+        "no": "4",
+        "name": "Maba Tengah",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Halmahera%20Timur&jobs=Maba%20Tengah",
+        "kodepos": [
+            "97863"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Halmahera%20Timur&jobs=Maba%20Tengah",
+            "jumlah": "12"
+        },
+        "pulau": null,
+        "kode": "82.06.08"
+    },
+    {
+        "no": "5",
+        "name": "Maba Utara",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Halmahera%20Timur&jobs=Maba%20Utara",
+        "kodepos": [
+            "97864"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Halmahera%20Timur&jobs=Maba%20Utara",
+            "jumlah": "10"
+        },
+        "pulau": null,
+        "kode": "82.06.09"
+    },
+    {
+        "no": "6",
+        "name": "Wasile",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Halmahera%20Timur&jobs=Wasile",
+        "kodepos": [
+            "97865"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Halmahera%20Timur&jobs=Wasile",
+            "jumlah": "7"
+        },
+        "pulau": null,
+        "kode": "82.06.01"
+    },
+    {
+        "no": "7",
+        "name": "Wasile Selatan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Halmahera%20Timur&jobs=Wasile%20Selatan",
+        "kodepos": [
+            "97866"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Halmahera%20Timur&jobs=Wasile%20Selatan",
+            "jumlah": "24"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Halmahera%20Timur&jobs=Wasile%20Selatan",
+            "jumlah": "10"
+        },
+        "kode": "82.06.04"
+    },
+    {
+        "no": "8",
+        "name": "Wasile Tengah",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Halmahera%20Timur&jobs=Wasile%20Tengah",
+        "kodepos": [
+            "97867"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Halmahera%20Timur&jobs=Wasile%20Tengah",
+            "jumlah": "8"
+        },
+        "pulau": null,
+        "kode": "82.06.05"
+    },
+    {
+        "no": "9",
+        "name": "Wasile Timur",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Halmahera%20Timur&jobs=Wasile%20Timur",
+        "kodepos": [
+            "97868"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Halmahera%20Timur&jobs=Wasile%20Timur",
+            "jumlah": "8"
+        },
+        "pulau": null,
+        "kode": "82.06.07"
+    },
+    {
+        "no": "10",
+        "name": "Wasile Utara",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Halmahera%20Timur&jobs=Wasile%20Utara",
+        "kodepos": [
+            "97869"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Halmahera%20Timur&jobs=Wasile%20Utara",
+            "jumlah": "8"
+        },
+        "pulau": null,
+        "kode": "82.06.06"
+    }
+]

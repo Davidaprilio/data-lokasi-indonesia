@@ -1,0 +1,143 @@
+[
+    {
+        "no": "1",
+        "name": "Amuntai Selatan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Hulu%20Sungai%20Utara&jobs=Amuntai%20Selatan",
+        "kodepos": [
+            "71452"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Hulu%20Sungai%20Utara&jobs=Amuntai%20Selatan",
+            "jumlah": "30"
+        },
+        "pulau": null,
+        "kode": "63.08.04"
+    },
+    {
+        "no": "2",
+        "name": "Amuntai Tengah",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Hulu%20Sungai%20Utara&jobs=Amuntai%20Tengah",
+        "kodepos": [
+            "71412",
+            "71419"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Hulu%20Sungai%20Utara&jobs=Amuntai%20Tengah",
+            "jumlah": "29"
+        },
+        "pulau": null,
+        "kode": "63.08.05"
+    },
+    {
+        "no": "3",
+        "name": "Amuntai Utara",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Hulu%20Sungai%20Utara&jobs=Amuntai%20Utara",
+        "kodepos": [
+            "71471"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Hulu%20Sungai%20Utara&jobs=Amuntai%20Utara",
+            "jumlah": "26"
+        },
+        "pulau": null,
+        "kode": "63.08.06"
+    },
+    {
+        "no": "4",
+        "name": "Babirik",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Hulu%20Sungai%20Utara&jobs=Babirik",
+        "kodepos": [
+            "71454"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Hulu%20Sungai%20Utara&jobs=Babirik",
+            "jumlah": "23"
+        },
+        "pulau": null,
+        "kode": "63.08.02"
+    },
+    {
+        "no": "5",
+        "name": "Banjang",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Hulu%20Sungai%20Utara&jobs=Banjang",
+        "kodepos": [
+            "71416"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Hulu%20Sungai%20Utara&jobs=Banjang",
+            "jumlah": "20"
+        },
+        "pulau": null,
+        "kode": "63.08.07"
+    },
+    {
+        "no": "6",
+        "name": "Danau Panggang",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Hulu%20Sungai%20Utara&jobs=Danau%20Panggang",
+        "kodepos": [
+            "71453"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Hulu%20Sungai%20Utara&jobs=Danau%20Panggang",
+            "jumlah": "16"
+        },
+        "pulau": null,
+        "kode": "63.08.01"
+    },
+    {
+        "no": "7",
+        "name": "Haur Gading",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Hulu%20Sungai%20Utara&jobs=Haur%20Gading",
+        "kodepos": [
+            "71472"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Hulu%20Sungai%20Utara&jobs=Haur%20Gading",
+            "jumlah": "18"
+        },
+        "pulau": null,
+        "kode": "63.08.08"
+    },
+    {
+        "no": "8",
+        "name": "Paminggir",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Hulu%20Sungai%20Utara&jobs=Paminggir",
+        "kodepos": [
+            "71451"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Hulu%20Sungai%20Utara&jobs=Paminggir",
+            "jumlah": "7"
+        },
+        "pulau": null,
+        "kode": "63.08.09"
+    },
+    {
+        "no": "9",
+        "name": "Sungai Pandan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Hulu%20Sungai%20Utara&jobs=Sungai%20Pandan",
+        "kodepos": [
+            "71455"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Hulu%20Sungai%20Utara&jobs=Sungai%20Pandan",
+            "jumlah": "33"
+        },
+        "pulau": null,
+        "kode": "63.08.03"
+    },
+    {
+        "no": "10",
+        "name": "Sungai Tabukan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Hulu%20Sungai%20Utara&jobs=Sungai%20Tabukan",
+        "kodepos": [
+            "71456"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Hulu%20Sungai%20Utara&jobs=Sungai%20Tabukan",
+            "jumlah": "17"
+        },
+        "pulau": null,
+        "kode": "63.08.10"
+    }
+]

@@ -1,0 +1,242 @@
+[
+    {
+        "no": "1",
+        "name": "Banyumanik",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Semarang&jobs=Banyumanik",
+        "kodepos": [
+            "50261",
+            "50269"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Semarang&jobs=Banyumanik",
+            "jumlah": "11"
+        },
+        "pulau": null,
+        "kode": "33.74.11"
+    },
+    {
+        "no": "2",
+        "name": "Candisari",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Semarang&jobs=Candisari",
+        "kodepos": [
+            "50252",
+            "50614"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Semarang&jobs=Candisari",
+            "jumlah": "7"
+        },
+        "pulau": null,
+        "kode": "33.74.08"
+    },
+    {
+        "no": "3",
+        "name": "Gajahmungkur (Gajah Mungkur)",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Semarang&jobs=Gajahmungkur%20(Gajah%20Mungkur)",
+        "kodepos": [
+            "50231",
+            "50237"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Semarang&jobs=Gajahmungkur%20(Gajah%20Mungkur)",
+            "jumlah": "8"
+        },
+        "pulau": null,
+        "kode": "33.74.09"
+    },
+    {
+        "no": "4",
+        "name": "Gayamsari",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Semarang&jobs=Gayamsari",
+        "kodepos": [
+            "50162",
+            "50249"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Semarang&jobs=Gayamsari",
+            "jumlah": "7"
+        },
+        "pulau": null,
+        "kode": "33.74.04"
+    },
+    {
+        "no": "5",
+        "name": "Genuk",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Semarang&jobs=Genuk",
+        "kodepos": [
+            "50111",
+            "50231"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Semarang&jobs=Genuk",
+            "jumlah": "13"
+        },
+        "pulau": null,
+        "kode": "33.74.05"
+    },
+    {
+        "no": "6",
+        "name": "Gunungpati",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Semarang&jobs=Gunungpati",
+        "kodepos": [
+            "50221",
+            "50229"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Semarang&jobs=Gunungpati",
+            "jumlah": "16"
+        },
+        "pulau": null,
+        "kode": "33.74.12"
+    },
+    {
+        "no": "7",
+        "name": "Mijen",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Semarang&jobs=Mijen",
+        "kodepos": [
+            "50211",
+            "50519"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Semarang&jobs=Mijen",
+            "jumlah": "14"
+        },
+        "pulau": null,
+        "kode": "33.74.14"
+    },
+    {
+        "no": "8",
+        "name": "Ngaliyan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Semarang&jobs=Ngaliyan",
+        "kodepos": [
+            "50181",
+            "50244"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Semarang&jobs=Ngaliyan",
+            "jumlah": "10"
+        },
+        "pulau": null,
+        "kode": "33.74.15"
+    },
+    {
+        "no": "9",
+        "name": "Pedurungan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Semarang&jobs=Pedurungan",
+        "kodepos": [
+            "50113",
+            "50246"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Semarang&jobs=Pedurungan",
+            "jumlah": "12"
+        },
+        "pulau": null,
+        "kode": "33.74.06"
+    },
+    {
+        "no": "10",
+        "name": "Semarang Barat",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Semarang&jobs=Semarang%20Barat",
+        "kodepos": [
+            "50141",
+            "50183"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Semarang&jobs=Semarang%20Barat",
+            "jumlah": "16"
+        },
+        "pulau": null,
+        "kode": "33.74.13"
+    },
+    {
+        "no": "11",
+        "name": "Semarang Selatan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Semarang&jobs=Semarang%20Selatan",
+        "kodepos": [
+            "50241",
+            "50249"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Semarang&jobs=Semarang%20Selatan",
+            "jumlah": "10"
+        },
+        "pulau": null,
+        "kode": "33.74.07"
+    },
+    {
+        "no": "12",
+        "name": "Semarang Tengah",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Semarang&jobs=Semarang%20Tengah",
+        "kodepos": [
+            "50131",
+            "50613"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Semarang&jobs=Semarang%20Tengah",
+            "jumlah": "15"
+        },
+        "pulau": null,
+        "kode": "33.74.01"
+    },
+    {
+        "no": "13",
+        "name": "Semarang Timur",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Semarang&jobs=Semarang%20Timur",
+        "kodepos": [
+            "50122",
+            "50232"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Semarang&jobs=Semarang%20Timur",
+            "jumlah": "10"
+        },
+        "pulau": null,
+        "kode": "33.74.03"
+    },
+    {
+        "no": "14",
+        "name": "Semarang Utara",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Semarang&jobs=Semarang%20Utara",
+        "kodepos": [
+            "50171",
+            "50179"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Semarang&jobs=Semarang%20Utara",
+            "jumlah": "9"
+        },
+        "pulau": null,
+        "kode": "33.74.02"
+    },
+    {
+        "no": "15",
+        "name": "Tembalang",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Semarang&jobs=Tembalang",
+        "kodepos": [
+            "50271",
+            "50279"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Semarang&jobs=Tembalang",
+            "jumlah": "12"
+        },
+        "pulau": null,
+        "kode": "33.74.10"
+    },
+    {
+        "no": "16",
+        "name": "Tugu",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Semarang&jobs=Tugu",
+        "kodepos": [
+            "50151",
+            "50185"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Semarang&jobs=Tugu",
+            "jumlah": "7"
+        },
+        "pulau": null,
+        "kode": "33.74.16"
+    }
+]

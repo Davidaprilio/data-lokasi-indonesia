@@ -1,0 +1,30 @@
+[
+    {
+        "no": "1",
+        "kodepos": "46332",
+        "name": "Karangpanimbal",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Purwaharja-Kota-Banjar&jobs=Karangpanimbal",
+        "kode": "32.79.03.1004"
+    },
+    {
+        "no": "2",
+        "kodepos": "46334",
+        "name": "Mekarharja",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Purwaharja-Kota-Banjar&jobs=Mekarharja",
+        "kode": "32.79.03.2003"
+    },
+    {
+        "no": "3",
+        "kodepos": "46331",
+        "name": "Purwaharja",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Purwaharja-Kota-Banjar&jobs=Purwaharja",
+        "kode": "32.79.03.1001"
+    },
+    {
+        "no": "4",
+        "kodepos": "46333",
+        "name": "Raharja",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Purwaharja-Kota-Banjar&jobs=Raharja",
+        "kode": "32.79.03.2002"
+    }
+]

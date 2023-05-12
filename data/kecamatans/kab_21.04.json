@@ -1,0 +1,199 @@
+[
+    {
+        "no": "1",
+        "name": "Bakung Serumpun",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Lingga&jobs=Bakung%20Serumpun",
+        "kodepos": [
+            "29873"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Lingga&jobs=Bakung%20Serumpun",
+            "jumlah": "6"
+        },
+        "pulau": null,
+        "kode": "21.04.13"
+    },
+    {
+        "no": "2",
+        "name": "Katang Bidare",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Lingga&jobs=Katang%20Bidare",
+        "kodepos": [
+            "29873"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Lingga&jobs=Katang%20Bidare",
+            "jumlah": "5"
+        },
+        "pulau": null,
+        "kode": "21.04.11"
+    },
+    {
+        "no": "3",
+        "name": "Kepulauan Posek",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Lingga&jobs=Kepulauan%20Posek",
+        "kodepos": [
+            "29876"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Lingga&jobs=Kepulauan%20Posek",
+            "jumlah": "3"
+        },
+        "pulau": null,
+        "kode": "21.04.10"
+    },
+    {
+        "no": "4",
+        "name": "Lingga",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Lingga&jobs=Lingga",
+        "kodepos": [
+            "29872"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Lingga&jobs=Lingga",
+            "jumlah": "11"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Lingga&jobs=Lingga",
+            "jumlah": "75"
+        },
+        "kode": "21.04.02"
+    },
+    {
+        "no": "5",
+        "name": "Lingga Timur",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Lingga&jobs=Lingga%20Timur",
+        "kodepos": [
+            "29872"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Lingga&jobs=Lingga%20Timur",
+            "jumlah": "6"
+        },
+        "pulau": null,
+        "kode": "21.04.07"
+    },
+    {
+        "no": "6",
+        "name": "Lingga Utara",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Lingga&jobs=Lingga%20Utara",
+        "kodepos": [
+            "29874"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Lingga&jobs=Lingga%20Utara",
+            "jumlah": "12"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Lingga&jobs=Lingga%20Utara",
+            "jumlah": "11"
+        },
+        "kode": "21.04.05"
+    },
+    {
+        "no": "7",
+        "name": "Selayar",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Lingga&jobs=Selayar",
+        "kodepos": [
+            "29877"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Lingga&jobs=Selayar",
+            "jumlah": "4"
+        },
+        "pulau": null,
+        "kode": "21.04.08"
+    },
+    {
+        "no": "8",
+        "name": "Senayang",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Lingga&jobs=Senayang",
+        "kodepos": [
+            "29873"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Lingga&jobs=Senayang",
+            "jumlah": "5"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Lingga&jobs=Senayang",
+            "jumlah": "317"
+        },
+        "kode": "21.04.03"
+    },
+    {
+        "no": "9",
+        "name": "Singkep",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Lingga&jobs=Singkep",
+        "kodepos": [
+            "29871"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Lingga&jobs=Singkep",
+            "jumlah": "6"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Lingga&jobs=Singkep",
+            "jumlah": "21"
+        },
+        "kode": "21.04.01"
+    },
+    {
+        "no": "10",
+        "name": "Singkep Barat",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Lingga&jobs=Singkep%20Barat",
+        "kodepos": [
+            "29875"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Lingga&jobs=Singkep%20Barat",
+            "jumlah": "12"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Lingga&jobs=Singkep%20Barat",
+            "jumlah": "39"
+        },
+        "kode": "21.04.04"
+    },
+    {
+        "no": "11",
+        "name": "Singkep Pesisir",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Lingga&jobs=Singkep%20Pesisir",
+        "kodepos": [
+            "29870"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Lingga&jobs=Singkep%20Pesisir",
+            "jumlah": "6"
+        },
+        "pulau": null,
+        "kode": "21.04.06"
+    },
+    {
+        "no": "12",
+        "name": "Singkep Selatan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Lingga&jobs=Singkep%20Selatan",
+        "kodepos": [
+            "29878"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Lingga&jobs=Singkep%20Selatan",
+            "jumlah": "3"
+        },
+        "pulau": null,
+        "kode": "21.04.09"
+    },
+    {
+        "no": "13",
+        "name": "Temiang Pesisir",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Lingga&jobs=Temiang%20Pesisir",
+        "kodepos": [
+            "29873"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Lingga&jobs=Temiang%20Pesisir",
+            "jumlah": "3"
+        },
+        "pulau": null,
+        "kode": "21.04.12"
+    }
+]

@@ -1,0 +1,44 @@
+[
+    {
+        "no": "1",
+        "kodepos": "50715",
+        "name": "Blotongan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Sidorejo-Kota-Salatiga&jobs=Blotongan",
+        "kode": "33.73.01.1001"
+    },
+    {
+        "no": "2",
+        "kodepos": "50713",
+        "name": "Bugel",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Sidorejo-Kota-Salatiga&jobs=Bugel",
+        "kode": "33.73.01.1004"
+    },
+    {
+        "no": "3",
+        "kodepos": "50712",
+        "name": "Kauman Kidul",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Sidorejo-Kota-Salatiga&jobs=Kauman%20Kidul",
+        "kode": "33.73.01.1005"
+    },
+    {
+        "no": "4",
+        "kodepos": "50716",
+        "name": "Pulutan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Sidorejo-Kota-Salatiga&jobs=Pulutan",
+        "kode": "33.73.01.1006"
+    },
+    {
+        "no": "5",
+        "kodepos": "50711",
+        "name": "Salatiga",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Sidorejo-Kota-Salatiga&jobs=Salatiga",
+        "kode": "33.73.01.1003"
+    },
+    {
+        "no": "6",
+        "kodepos": "50714",
+        "name": "Sidorejo Lor",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Sidorejo-Kota-Salatiga&jobs=Sidorejo%20Lor",
+        "kode": "33.73.01.1002"
+    }
+]

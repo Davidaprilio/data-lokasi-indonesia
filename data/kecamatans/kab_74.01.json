@@ -1,0 +1,178 @@
+[
+    {
+        "no": "1",
+        "name": "Baula",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kolaka&jobs=Baula",
+        "kodepos": [
+            "93561"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kolaka&jobs=Baula",
+            "jumlah": "10"
+        },
+        "pulau": null,
+        "kode": "74.01.12"
+    },
+    {
+        "no": "2",
+        "name": "Iwoimendaa",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kolaka&jobs=Iwoimendaa",
+        "kodepos": [
+            "93552"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kolaka&jobs=Iwoimendaa",
+            "jumlah": "10"
+        },
+        "pulau": null,
+        "kode": "74.01.27"
+    },
+    {
+        "no": "3",
+        "name": "Kolaka",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kolaka&jobs=Kolaka",
+        "kodepos": [
+            "93511",
+            "93519"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kolaka&jobs=Kolaka",
+            "jumlah": "7"
+        },
+        "pulau": null,
+        "kode": "74.01.04"
+    },
+    {
+        "no": "4",
+        "name": "Latambaga",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kolaka&jobs=Latambaga",
+        "kodepos": [
+            "93512",
+            "93514"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kolaka&jobs=Latambaga",
+            "jumlah": "7"
+        },
+        "pulau": null,
+        "kode": "74.01.14"
+    },
+    {
+        "no": "5",
+        "name": "Polinggona",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kolaka&jobs=Polinggona",
+        "kodepos": [
+            "93563"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kolaka&jobs=Polinggona",
+            "jumlah": "7"
+        },
+        "pulau": null,
+        "kode": "74.01.25"
+    },
+    {
+        "no": "6",
+        "name": "Pomalaa",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kolaka&jobs=Pomalaa",
+        "kodepos": [
+            "93562"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kolaka&jobs=Pomalaa",
+            "jumlah": "12"
+        },
+        "pulau": null,
+        "kode": "74.01.07"
+    },
+    {
+        "no": "7",
+        "name": "Samaturu",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kolaka&jobs=Samaturu",
+        "kodepos": [
+            "93521"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kolaka&jobs=Samaturu",
+            "jumlah": "19"
+        },
+        "pulau": null,
+        "kode": "74.01.20"
+    },
+    {
+        "no": "8",
+        "name": "Tanggetada",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kolaka&jobs=Tanggetada",
+        "kodepos": [
+            "93564"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kolaka&jobs=Tanggetada",
+            "jumlah": "14"
+        },
+        "pulau": null,
+        "kode": "74.01.18"
+    },
+    {
+        "no": "9",
+        "name": "Toari",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kolaka&jobs=Toari",
+        "kodepos": [
+            "93565"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kolaka&jobs=Toari",
+            "jumlah": "10"
+        },
+        "pulau": null,
+        "kode": "74.01.24"
+    },
+    {
+        "no": "10",
+        "name": "Watubangga",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kolaka&jobs=Watubangga",
+        "kodepos": [
+            "93566"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kolaka&jobs=Watubangga",
+            "jumlah": "14"
+        },
+        "pulau": null,
+        "kode": "74.01.08"
+    },
+    {
+        "no": "11",
+        "name": "Wolo",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kolaka&jobs=Wolo",
+        "kodepos": [
+            "93553"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kolaka&jobs=Wolo",
+            "jumlah": "14"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kolaka&jobs=Wolo",
+            "jumlah": "2"
+        },
+        "kode": "74.01.10"
+    },
+    {
+        "no": "12",
+        "name": "Wundulako",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kolaka&jobs=Wundulako",
+        "kodepos": [
+            "93560"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kolaka&jobs=Wundulako",
+            "jumlah": "11"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kolaka&jobs=Wundulako",
+            "jumlah": "10"
+        },
+        "kode": "74.01.01"
+    }
+]

@@ -1,0 +1,257 @@
+[
+    {
+        "no": "1",
+        "name": "Angkaisera",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kepulauan%20Yapen&jobs=Angkaisera",
+        "kodepos": [
+            "98655"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kepulauan%20Yapen&jobs=Angkaisera",
+            "jumlah": "11"
+        },
+        "pulau": null,
+        "kode": "91.05.04"
+    },
+    {
+        "no": "2",
+        "name": "Anotaurei",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kepulauan%20Yapen&jobs=Anotaurei",
+        "kodepos": [
+            "98631"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kepulauan%20Yapen&jobs=Anotaurei",
+            "jumlah": "8"
+        },
+        "pulau": null,
+        "kode": "91.05.15"
+    },
+    {
+        "no": "3",
+        "name": "Kepulauan Ambai",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kepulauan%20Yapen&jobs=Kepulauan%20Ambai",
+        "kodepos": [
+            "98653"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kepulauan%20Yapen&jobs=Kepulauan%20Ambai",
+            "jumlah": "18"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kepulauan%20Yapen&jobs=Kepulauan%20Ambai",
+            "jumlah": "35"
+        },
+        "kode": "91.05.10"
+    },
+    {
+        "no": "4",
+        "name": "Kosiwo",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kepulauan%20Yapen&jobs=Kosiwo",
+        "kodepos": [
+            "98632"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kepulauan%20Yapen&jobs=Kosiwo",
+            "jumlah": "15"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kepulauan%20Yapen&jobs=Kosiwo",
+            "jumlah": "1"
+        },
+        "kode": "91.05.06"
+    },
+    {
+        "no": "5",
+        "name": "Poom",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kepulauan%20Yapen&jobs=Poom",
+        "kodepos": [
+            "98652"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kepulauan%20Yapen&jobs=Poom",
+            "jumlah": "8"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kepulauan%20Yapen&jobs=Poom",
+            "jumlah": "5"
+        },
+        "kode": "91.05.05"
+    },
+    {
+        "no": "6",
+        "name": "Pulau Kurudu",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kepulauan%20Yapen&jobs=Pulau%20Kurudu",
+        "kodepos": [
+            "98643"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kepulauan%20Yapen&jobs=Pulau%20Kurudu",
+            "jumlah": "8"
+        },
+        "pulau": null,
+        "kode": "91.05.13"
+    },
+    {
+        "no": "7",
+        "name": "Pulau Yerui",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kepulauan%20Yapen&jobs=Pulau%20Yerui",
+        "kodepos": [
+            "98646"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kepulauan%20Yapen&jobs=Pulau%20Yerui",
+            "jumlah": "5"
+        },
+        "pulau": null,
+        "kode": "91.05.14"
+    },
+    {
+        "no": "8",
+        "name": "Raimbawi",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kepulauan%20Yapen&jobs=Raimbawi",
+        "kodepos": [
+            "98641"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kepulauan%20Yapen&jobs=Raimbawi",
+            "jumlah": "7"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kepulauan%20Yapen&jobs=Raimbawi",
+            "jumlah": "1"
+        },
+        "kode": "91.05.08"
+    },
+    {
+        "no": "9",
+        "name": "Teluk Ampimoi",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kepulauan%20Yapen&jobs=Teluk%20Ampimoi",
+        "kodepos": [
+            "98642"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kepulauan%20Yapen&jobs=Teluk%20Ampimoi",
+            "jumlah": "11"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kepulauan%20Yapen&jobs=Teluk%20Ampimoi",
+            "jumlah": "2"
+        },
+        "kode": "91.05.09"
+    },
+    {
+        "no": "10",
+        "name": "Windesi",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kepulauan%20Yapen&jobs=Windesi",
+        "kodepos": [
+            "98651"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kepulauan%20Yapen&jobs=Windesi",
+            "jumlah": "9"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kepulauan%20Yapen&jobs=Windesi",
+            "jumlah": "1"
+        },
+        "kode": "91.05.12"
+    },
+    {
+        "no": "11",
+        "name": "Wonawa",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kepulauan%20Yapen&jobs=Wonawa",
+        "kodepos": [
+            "98647"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kepulauan%20Yapen&jobs=Wonawa",
+            "jumlah": "10"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kepulauan%20Yapen&jobs=Wonawa",
+            "jumlah": "37"
+        },
+        "kode": "91.05.11"
+    },
+    {
+        "no": "12",
+        "name": "Yapen Barat",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kepulauan%20Yapen&jobs=Yapen%20Barat",
+        "kodepos": [
+            "98648"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kepulauan%20Yapen&jobs=Yapen%20Barat",
+            "jumlah": "17"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kepulauan%20Yapen&jobs=Yapen%20Barat",
+            "jumlah": "20"
+        },
+        "kode": "91.05.02"
+    },
+    {
+        "no": "13",
+        "name": "Yapen Selatan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kepulauan%20Yapen&jobs=Yapen%20Selatan",
+        "kodepos": [
+            "98612",
+            "98627"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kepulauan%20Yapen&jobs=Yapen%20Selatan",
+            "jumlah": "13"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kepulauan%20Yapen&jobs=Yapen%20Selatan",
+            "jumlah": "1"
+        },
+        "kode": "91.05.01"
+    },
+    {
+        "no": "14",
+        "name": "Yapen Timur",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kepulauan%20Yapen&jobs=Yapen%20Timur",
+        "kodepos": [
+            "98644"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kepulauan%20Yapen&jobs=Yapen%20Timur",
+            "jumlah": "11"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kepulauan%20Yapen&jobs=Yapen%20Timur",
+            "jumlah": "1"
+        },
+        "kode": "91.05.03"
+    },
+    {
+        "no": "15",
+        "name": "Yapen Utara",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kepulauan%20Yapen&jobs=Yapen%20Utara",
+        "kodepos": [
+            "98645"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kepulauan%20Yapen&jobs=Yapen%20Utara",
+            "jumlah": "7"
+        },
+        "pulau": null,
+        "kode": "91.05.07"
+    },
+    {
+        "no": "16",
+        "name": "Yawakukat",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kepulauan%20Yapen&jobs=Yawakukat",
+        "kodepos": [
+            "98654"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Kepulauan%20Yapen&jobs=Yawakukat",
+            "jumlah": "7"
+        },
+        "pulau": null,
+        "kode": "91.05.16"
+    }
+]

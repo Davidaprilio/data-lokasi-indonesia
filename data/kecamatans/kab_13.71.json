@@ -1,0 +1,181 @@
+[
+    {
+        "no": "1",
+        "name": "Bungus Teluk Kabung",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Padang&jobs=Bungus%20Teluk%20Kabung",
+        "kodepos": [
+            "25237"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Padang&jobs=Bungus%20Teluk%20Kabung",
+            "jumlah": "6"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kota-Padang&jobs=Bungus%20Teluk%20Kabung",
+            "jumlah": "7"
+        },
+        "kode": "13.71.05"
+    },
+    {
+        "no": "2",
+        "name": "Koto Tangah",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Padang&jobs=Koto%20Tangah",
+        "kodepos": [
+            "25171",
+            "25176"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Padang&jobs=Koto%20Tangah",
+            "jumlah": "13"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kota-Padang&jobs=Koto%20Tangah",
+            "jumlah": "2"
+        },
+        "kode": "13.71.11"
+    },
+    {
+        "no": "3",
+        "name": "Kuranji",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Padang&jobs=Kuranji",
+        "kodepos": [
+            "25151",
+            "25159"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Padang&jobs=Kuranji",
+            "jumlah": "9"
+        },
+        "pulau": null,
+        "kode": "13.71.09"
+    },
+    {
+        "no": "4",
+        "name": "Lubuk Begalung",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Padang&jobs=Lubuk%20Begalung",
+        "kodepos": [
+            "25221",
+            "25227"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Padang&jobs=Lubuk%20Begalung",
+            "jumlah": "15"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kota-Padang&jobs=Lubuk%20Begalung",
+            "jumlah": "2"
+        },
+        "kode": "13.71.06"
+    },
+    {
+        "no": "5",
+        "name": "Lubuk Kilangan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Padang&jobs=Lubuk%20Kilangan",
+        "kodepos": [
+            "25231",
+            "25237"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Padang&jobs=Lubuk%20Kilangan",
+            "jumlah": "7"
+        },
+        "pulau": null,
+        "kode": "13.71.07"
+    },
+    {
+        "no": "6",
+        "name": "Nanggalo",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Padang&jobs=Nanggalo",
+        "kodepos": [
+            "25142",
+            "25147"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Padang&jobs=Nanggalo",
+            "jumlah": "6"
+        },
+        "pulau": null,
+        "kode": "13.71.10"
+    },
+    {
+        "no": "7",
+        "name": "Padang Barat",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Padang&jobs=Padang%20Barat",
+        "kodepos": [
+            "25111",
+            "25119"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Padang&jobs=Padang%20Barat",
+            "jumlah": "10"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kota-Padang&jobs=Padang%20Barat",
+            "jumlah": "3"
+        },
+        "kode": "13.71.03"
+    },
+    {
+        "no": "8",
+        "name": "Padang Selatan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Padang&jobs=Padang%20Selatan",
+        "kodepos": [
+            "25211",
+            "25217"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Padang&jobs=Padang%20Selatan",
+            "jumlah": "12"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kota-Padang&jobs=Padang%20Selatan",
+            "jumlah": "3"
+        },
+        "kode": "13.71.01"
+    },
+    {
+        "no": "9",
+        "name": "Padang Timur",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Padang&jobs=Padang%20Timur",
+        "kodepos": [
+            "25121",
+            "25129"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Padang&jobs=Padang%20Timur",
+            "jumlah": "10"
+        },
+        "pulau": null,
+        "kode": "13.71.02"
+    },
+    {
+        "no": "10",
+        "name": "Padang Utara",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Padang&jobs=Padang%20Utara",
+        "kodepos": [
+            "25132",
+            "25139"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Padang&jobs=Padang%20Utara",
+            "jumlah": "7"
+        },
+        "pulau": null,
+        "kode": "13.71.04"
+    },
+    {
+        "no": "11",
+        "name": "Pauh",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Padang&jobs=Pauh",
+        "kodepos": [
+            "25161",
+            "25168"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Padang&jobs=Pauh",
+            "jumlah": "9"
+        },
+        "pulau": null,
+        "kode": "13.71.08"
+    }
+]

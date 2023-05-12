@@ -1,0 +1,170 @@
+[
+    {
+        "no": "1",
+        "name": "Batang Onang",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Padang%20Lawas%20Utara&jobs=Batang%20Onang",
+        "kodepos": [
+            "22762"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Padang%20Lawas%20Utara&jobs=Batang%20Onang",
+            "jumlah": "32"
+        },
+        "pulau": null,
+        "kode": "12.20.07"
+    },
+    {
+        "no": "2",
+        "name": "Dolok",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Padang%20Lawas%20Utara&jobs=Dolok",
+        "kodepos": [
+            "22756"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Padang%20Lawas%20Utara&jobs=Dolok",
+            "jumlah": "86"
+        },
+        "pulau": null,
+        "kode": "12.20.02"
+    },
+    {
+        "no": "3",
+        "name": "Dolok Sigompulon",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Padang%20Lawas%20Utara&jobs=Dolok%20Sigompulon",
+        "kodepos": [
+            "22757"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Padang%20Lawas%20Utara&jobs=Dolok%20Sigompulon",
+            "jumlah": "44"
+        },
+        "pulau": null,
+        "kode": "12.20.01"
+    },
+    {
+        "no": "4",
+        "name": "Halongonan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Padang%20Lawas%20Utara&jobs=Halongonan",
+        "kodepos": [
+            "22753"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Padang%20Lawas%20Utara&jobs=Halongonan",
+            "jumlah": "33"
+        },
+        "pulau": null,
+        "kode": "12.20.03"
+    },
+    {
+        "no": "5",
+        "name": "Halongonan Timur",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Padang%20Lawas%20Utara&jobs=Halongonan%20Timur",
+        "kodepos": [
+            "22752"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Padang%20Lawas%20Utara&jobs=Halongonan%20Timur",
+            "jumlah": "14"
+        },
+        "pulau": null,
+        "kode": "12.20.11"
+    },
+    {
+        "no": "6",
+        "name": "Hulu Sihapas",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Padang%20Lawas%20Utara&jobs=Hulu%20Sihapas",
+        "kodepos": [
+            "22740"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Padang%20Lawas%20Utara&jobs=Hulu%20Sihapas",
+            "jumlah": "10"
+        },
+        "pulau": null,
+        "kode": "12.20.09"
+    },
+    {
+        "no": "7",
+        "name": "Padang Bolak",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Padang%20Lawas%20Utara&jobs=Padang%20Bolak",
+        "kodepos": [
+            "22754"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Padang%20Lawas%20Utara&jobs=Padang%20Bolak",
+            "jumlah": "62"
+        },
+        "pulau": null,
+        "kode": "12.20.04"
+    },
+    {
+        "no": "8",
+        "name": "Padang Bolak Julu",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Padang%20Lawas%20Utara&jobs=Padang%20Bolak%20Julu",
+        "kodepos": [
+            "22753"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Padang%20Lawas%20Utara&jobs=Padang%20Bolak%20Julu",
+            "jumlah": "23"
+        },
+        "pulau": null,
+        "kode": "12.20.05"
+    },
+    {
+        "no": "9",
+        "name": "Padang Bolak Tenggara",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Padang%20Lawas%20Utara&jobs=Padang%20Bolak%20Tenggara",
+        "kodepos": [
+            "22751"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Padang%20Lawas%20Utara&jobs=Padang%20Bolak%20Tenggara",
+            "jumlah": "14"
+        },
+        "pulau": null,
+        "kode": "12.20.10"
+    },
+    {
+        "no": "10",
+        "name": "Portibi",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Padang%20Lawas%20Utara&jobs=Portibi",
+        "kodepos": [
+            "22741"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Padang%20Lawas%20Utara&jobs=Portibi",
+            "jumlah": "36"
+        },
+        "pulau": null,
+        "kode": "12.20.06"
+    },
+    {
+        "no": "11",
+        "name": "Simangambat",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Padang%20Lawas%20Utara&jobs=Simangambat",
+        "kodepos": [
+            "22747"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Padang%20Lawas%20Utara&jobs=Simangambat",
+            "jumlah": "21"
+        },
+        "pulau": null,
+        "kode": "12.20.08"
+    },
+    {
+        "no": "12",
+        "name": "Ujung Batu",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Padang%20Lawas%20Utara&jobs=Ujung%20Batu",
+        "kodepos": [
+            "22746"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Padang%20Lawas%20Utara&jobs=Ujung%20Batu",
+            "jumlah": "13"
+        },
+        "pulau": null,
+        "kode": "12.20.12"
+    }
+]

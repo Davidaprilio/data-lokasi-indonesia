@@ -1,0 +1,44 @@
+[
+    {
+        "no": "1",
+        "kodepos": "86116",
+        "name": "Koting A",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Koting-Kab.-Sikka&jobs=Koting%20A",
+        "kode": "53.07.16.2001"
+    },
+    {
+        "no": "2",
+        "kodepos": "86116",
+        "name": "Koting B",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Koting-Kab.-Sikka&jobs=Koting%20B",
+        "kode": "53.07.16.2002"
+    },
+    {
+        "no": "3",
+        "kodepos": "86116",
+        "name": "Koting C",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Koting-Kab.-Sikka&jobs=Koting%20C",
+        "kode": "53.07.16.2003"
+    },
+    {
+        "no": "4",
+        "kodepos": "86116",
+        "name": "Koting D",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Koting-Kab.-Sikka&jobs=Koting%20D",
+        "kode": "53.07.16.2004"
+    },
+    {
+        "no": "5",
+        "kodepos": "86116",
+        "name": "Paubekor",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Koting-Kab.-Sikka&jobs=Paubekor",
+        "kode": "53.07.16.2005"
+    },
+    {
+        "no": "6",
+        "kodepos": "86116",
+        "name": "Ribang",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Desa-Koting-Kab.-Sikka&jobs=Ribang",
+        "kode": "53.07.16.2006"
+    }
+]

@@ -1,0 +1,175 @@
+[
+    {
+        "no": "1",
+        "name": "Batu Lappa (Batulappa)",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pinrang&jobs=Batu%20Lappa%20(Batulappa)",
+        "kodepos": [
+            "91253"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pinrang&jobs=Batu%20Lappa%20(Batulappa)",
+            "jumlah": "5"
+        },
+        "pulau": null,
+        "kode": "73.15.12"
+    },
+    {
+        "no": "2",
+        "name": "Cempa",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pinrang&jobs=Cempa",
+        "kodepos": [
+            "91262"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pinrang&jobs=Cempa",
+            "jumlah": "7"
+        },
+        "pulau": null,
+        "kode": "73.15.08"
+    },
+    {
+        "no": "3",
+        "name": "Duampanua",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pinrang&jobs=Duampanua",
+        "kodepos": [
+            "91251"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pinrang&jobs=Duampanua",
+            "jumlah": "15"
+        },
+        "pulau": null,
+        "kode": "73.15.06"
+    },
+    {
+        "no": "4",
+        "name": "Lansirang (Lanrisang)",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pinrang&jobs=Lansirang%20(Lanrisang)",
+        "kodepos": [
+            "91272"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pinrang&jobs=Lansirang%20(Lanrisang)",
+            "jumlah": "7"
+        },
+        "pulau": null,
+        "kode": "73.15.10"
+    },
+    {
+        "no": "5",
+        "name": "Lembang",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pinrang&jobs=Lembang",
+        "kodepos": [
+            "91254"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pinrang&jobs=Lembang",
+            "jumlah": "16"
+        },
+        "pulau": null,
+        "kode": "73.15.07"
+    },
+    {
+        "no": "6",
+        "name": "Matirro Sompe (Mattiro Sompe)",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pinrang&jobs=Matirro%20Sompe%20(Mattiro%20Sompe)",
+        "kodepos": [
+            "91261"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pinrang&jobs=Matirro%20Sompe%20(Mattiro%20Sompe)",
+            "jumlah": "9"
+        },
+        "pulau": null,
+        "kode": "73.15.01"
+    },
+    {
+        "no": "7",
+        "name": "Mattiro Bulu",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pinrang&jobs=Mattiro%20Bulu",
+        "kodepos": [
+            "91271"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pinrang&jobs=Mattiro%20Bulu",
+            "jumlah": "9"
+        },
+        "pulau": null,
+        "kode": "73.15.03"
+    },
+    {
+        "no": "8",
+        "name": "Paleteang",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pinrang&jobs=Paleteang",
+        "kodepos": [
+            "91213",
+            "91215"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pinrang&jobs=Paleteang",
+            "jumlah": "6"
+        },
+        "pulau": null,
+        "kode": "73.15.11"
+    },
+    {
+        "no": "9",
+        "name": "Patampanua",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pinrang&jobs=Patampanua",
+        "kodepos": [
+            "91252"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pinrang&jobs=Patampanua",
+            "jumlah": "11"
+        },
+        "pulau": null,
+        "kode": "73.15.05"
+    },
+    {
+        "no": "10",
+        "name": "Suppa",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pinrang&jobs=Suppa",
+        "kodepos": [
+            "91273"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pinrang&jobs=Suppa",
+            "jumlah": "10"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pinrang&jobs=Suppa",
+            "jumlah": "3"
+        },
+        "kode": "73.15.02"
+    },
+    {
+        "no": "11",
+        "name": "Tiroang",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pinrang&jobs=Tiroang",
+        "kodepos": [
+            "91256"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pinrang&jobs=Tiroang",
+            "jumlah": "5"
+        },
+        "pulau": null,
+        "kode": "73.15.09"
+    },
+    {
+        "no": "12",
+        "name": "Watang Sawito (Watang Sawitto)",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pinrang&jobs=Watang%20Sawito%20(Watang%20Sawitto)",
+        "kodepos": [
+            "91211",
+            "91221"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pinrang&jobs=Watang%20Sawito%20(Watang%20Sawitto)",
+            "jumlah": "8"
+        },
+        "pulau": null,
+        "kode": "73.15.04"
+    }
+]

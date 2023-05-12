@@ -1,0 +1,77 @@
+[
+    {
+        "no": "1",
+        "name": "Banjarsari",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Surakarta&jobs=Banjarsari",
+        "kodepos": [
+            "57131",
+            "57139"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Surakarta&jobs=Banjarsari",
+            "jumlah": "15"
+        },
+        "pulau": null,
+        "kode": "33.72.05"
+    },
+    {
+        "no": "2",
+        "name": "Jebres",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Surakarta&jobs=Jebres",
+        "kodepos": [
+            "57121",
+            "57162"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Surakarta&jobs=Jebres",
+            "jumlah": "11"
+        },
+        "pulau": null,
+        "kode": "33.72.04"
+    },
+    {
+        "no": "3",
+        "name": "Laweyan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Surakarta&jobs=Laweyan",
+        "kodepos": [
+            "57141",
+            "57149"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Surakarta&jobs=Laweyan",
+            "jumlah": "11"
+        },
+        "pulau": null,
+        "kode": "33.72.01"
+    },
+    {
+        "no": "4",
+        "name": "Pasar Kliwon",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Surakarta&jobs=Pasar%20Kliwon",
+        "kodepos": [
+            "57116",
+            "57199"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Surakarta&jobs=Pasar%20Kliwon",
+            "jumlah": "10"
+        },
+        "pulau": null,
+        "kode": "33.72.03"
+    },
+    {
+        "no": "5",
+        "name": "Serengan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Surakarta&jobs=Serengan",
+        "kodepos": [
+            "57151",
+            "57157"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Surakarta&jobs=Serengan",
+            "jumlah": "7"
+        },
+        "pulau": null,
+        "kode": "33.72.02"
+    }
+]

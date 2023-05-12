@@ -1,0 +1,142 @@
+[
+    {
+        "no": "1",
+        "name": "Barito Tuhup Raya",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Murung%20Raya&jobs=Barito%20Tuhup%20Raya",
+        "kodepos": [
+            "73991"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Murung%20Raya&jobs=Barito%20Tuhup%20Raya",
+            "jumlah": "11"
+        },
+        "pulau": null,
+        "kode": "62.12.06"
+    },
+    {
+        "no": "2",
+        "name": "Laung Tuhup",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Murung%20Raya&jobs=Laung%20Tuhup",
+        "kodepos": [
+            "73992"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Murung%20Raya&jobs=Laung%20Tuhup",
+            "jumlah": "26"
+        },
+        "pulau": null,
+        "kode": "62.12.03"
+    },
+    {
+        "no": "3",
+        "name": "Murung",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Murung%20Raya&jobs=Murung",
+        "kodepos": [
+            "73911"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Murung%20Raya&jobs=Murung",
+            "jumlah": "15"
+        },
+        "pulau": null,
+        "kode": "62.12.01"
+    },
+    {
+        "no": "4",
+        "name": "Permata Intan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Murung%20Raya&jobs=Permata%20Intan",
+        "kodepos": [
+            "73971"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Murung%20Raya&jobs=Permata%20Intan",
+            "jumlah": "12"
+        },
+        "pulau": null,
+        "kode": "62.12.04"
+    },
+    {
+        "no": "5",
+        "name": "Seribu Riam",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Murung%20Raya&jobs=Seribu%20Riam",
+        "kodepos": [
+            "73981"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Murung%20Raya&jobs=Seribu%20Riam",
+            "jumlah": "7"
+        },
+        "pulau": null,
+        "kode": "62.12.09"
+    },
+    {
+        "no": "6",
+        "name": "Sumber Barito",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Murung%20Raya&jobs=Sumber%20Barito",
+        "kodepos": [
+            "73982"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Murung%20Raya&jobs=Sumber%20Barito",
+            "jumlah": "9"
+        },
+        "pulau": null,
+        "kode": "62.12.05"
+    },
+    {
+        "no": "7",
+        "name": "Sungai Babuat",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Murung%20Raya&jobs=Sungai%20Babuat",
+        "kodepos": [
+            "73970"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Murung%20Raya&jobs=Sungai%20Babuat",
+            "jumlah": "6"
+        },
+        "pulau": null,
+        "kode": "62.12.08"
+    },
+    {
+        "no": "8",
+        "name": "Tanah Siang",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Murung%20Raya&jobs=Tanah%20Siang",
+        "kodepos": [
+            "73961"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Murung%20Raya&jobs=Tanah%20Siang",
+            "jumlah": "27"
+        },
+        "pulau": null,
+        "kode": "62.12.02"
+    },
+    {
+        "no": "9",
+        "name": "Tanah Siang Selatan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Murung%20Raya&jobs=Tanah%20Siang%20Selatan",
+        "kodepos": [
+            "73960"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Murung%20Raya&jobs=Tanah%20Siang%20Selatan",
+            "jumlah": "7"
+        },
+        "pulau": null,
+        "kode": "62.12.07"
+    },
+    {
+        "no": "10",
+        "name": "Uut Murung",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Murung%20Raya&jobs=Uut%20Murung",
+        "kodepos": [
+            "73983"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Murung%20Raya&jobs=Uut%20Murung",
+            "jumlah": "5"
+        },
+        "pulau": null,
+        "kode": "62.12.10"
+    }
+]

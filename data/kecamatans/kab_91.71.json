@@ -1,0 +1,83 @@
+[
+    {
+        "no": "1",
+        "name": "Abepura",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Jayapura&jobs=Abepura",
+        "kodepos": [
+            "99321",
+            "99329"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Jayapura&jobs=Abepura",
+            "jumlah": "11"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kota-Jayapura&jobs=Abepura",
+            "jumlah": "3"
+        },
+        "kode": "91.71.03"
+    },
+    {
+        "no": "2",
+        "name": "Heram",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Jayapura&jobs=Heram",
+        "kodepos": [
+            "99331",
+            "99334"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Jayapura&jobs=Heram",
+            "jumlah": "5"
+        },
+        "pulau": null,
+        "kode": "91.71.05"
+    },
+    {
+        "no": "3",
+        "name": "Jayapura Selatan",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Jayapura&jobs=Jayapura%20Selatan",
+        "kodepos": [
+            "99220",
+            "99229"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Jayapura&jobs=Jayapura%20Selatan",
+            "jumlah": "7"
+        },
+        "pulau": null,
+        "kode": "91.71.02"
+    },
+    {
+        "no": "4",
+        "name": "Jayapura Utara",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Jayapura&jobs=Jayapura%20Utara",
+        "kodepos": [
+            "99111",
+            "99118"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Jayapura&jobs=Jayapura%20Utara",
+            "jumlah": "8"
+        },
+        "pulau": null,
+        "kode": "91.71.01"
+    },
+    {
+        "no": "5",
+        "name": "Muara Tami",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Jayapura&jobs=Muara%20Tami",
+        "kodepos": [
+            "99311",
+            "99318"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kota-Jayapura&jobs=Muara%20Tami",
+            "jumlah": "8"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kota-Jayapura&jobs=Muara%20Tami",
+            "jumlah": "8"
+        },
+        "kode": "91.71.04"
+    }
+]

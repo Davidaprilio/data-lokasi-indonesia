@@ -1,0 +1,124 @@
+[
+    {
+        "no": "1",
+        "name": "Banama Tingang",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pulang%20Pisau&jobs=Banama%20Tingang",
+        "kodepos": [
+            "74863"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pulang%20Pisau&jobs=Banama%20Tingang",
+            "jumlah": "15"
+        },
+        "pulau": null,
+        "kode": "62.11.04"
+    },
+    {
+        "no": "2",
+        "name": "Jabiren (Jabiren Raya)",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pulang%20Pisau&jobs=Jabiren%20(Jabiren%20Raya)",
+        "kodepos": [
+            "74816"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pulang%20Pisau&jobs=Jabiren%20(Jabiren%20Raya)",
+            "jumlah": "8"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pulang%20Pisau&jobs=Jabiren%20(Jabiren%20Raya)",
+            "jumlah": "1"
+        },
+        "kode": "62.11.07"
+    },
+    {
+        "no": "3",
+        "name": "Kahayan Hilir",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pulang%20Pisau&jobs=Kahayan%20Hilir",
+        "kodepos": [
+            "74811",
+            "74861"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pulang%20Pisau&jobs=Kahayan%20Hilir",
+            "jumlah": "10"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pulang%20Pisau&jobs=Kahayan%20Hilir",
+            "jumlah": "2"
+        },
+        "kode": "62.11.05"
+    },
+    {
+        "no": "4",
+        "name": "Kahayan Kuala",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pulang%20Pisau&jobs=Kahayan%20Kuala",
+        "kodepos": [
+            "74872"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pulang%20Pisau&jobs=Kahayan%20Kuala",
+            "jumlah": "13"
+        },
+        "pulau": null,
+        "kode": "62.11.02"
+    },
+    {
+        "no": "5",
+        "name": "Kahayan Tengah",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pulang%20Pisau&jobs=Kahayan%20Tengah",
+        "kodepos": [
+            "74862"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pulang%20Pisau&jobs=Kahayan%20Tengah",
+            "jumlah": "14"
+        },
+        "pulau": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pulang%20Pisau&jobs=Kahayan%20Tengah",
+            "jumlah": "2"
+        },
+        "kode": "62.11.03"
+    },
+    {
+        "no": "6",
+        "name": "Maliku",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pulang%20Pisau&jobs=Maliku",
+        "kodepos": [
+            "74873"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pulang%20Pisau&jobs=Maliku",
+            "jumlah": "15"
+        },
+        "pulau": null,
+        "kode": "62.11.06"
+    },
+    {
+        "no": "7",
+        "name": "Pandih Batu",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pulang%20Pisau&jobs=Pandih%20Batu",
+        "kodepos": [
+            "74871"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pulang%20Pisau&jobs=Pandih%20Batu",
+            "jumlah": "16"
+        },
+        "pulau": null,
+        "kode": "62.11.01"
+    },
+    {
+        "no": "8",
+        "name": "Sebangau Kuala",
+        "detail_link": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pulang%20Pisau&jobs=Sebangau%20Kuala",
+        "kodepos": [
+            "74874"
+        ],
+        "desa": {
+            "href": "https://kodepos.nomor.net/_kodepos.php?_i=desa-kodepos&sby=000000&daerah=Kecamatan-Kab.-Pulang%20Pisau&jobs=Sebangau%20Kuala",
+            "jumlah": "8"
+        },
+        "pulau": null,
+        "kode": "62.11.08"
+    }
+]
