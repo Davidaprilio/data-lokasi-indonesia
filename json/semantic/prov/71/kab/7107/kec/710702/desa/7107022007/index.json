@@ -1,0 +1,17 @@
+{
+    "code": "7107022007",
+    "name": "Minanga Satu",
+    "poscode": "95997",
+    "provinsi": {
+        "code": "71",
+        "name": "Sulawesi Utara"
+    },
+    "kabupaten": {
+        "code": "7107",
+        "name": "Minahasa Tenggara"
+    },
+    "kecamatan": {
+        "code": "710702",
+        "name": "Pusomaen"
+    }
+}

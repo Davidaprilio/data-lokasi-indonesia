@@ -1,0 +1,17 @@
+{
+    "code": "5312152011",
+    "name": "Lapale",
+    "poscode": "87217",
+    "provinsi": {
+        "code": "53",
+        "name": "Nusa Tenggara Timur (NTT)"
+    },
+    "kabupaten": {
+        "code": "5312",
+        "name": "Sumba Barat"
+    },
+    "kecamatan": {
+        "code": "531215",
+        "name": "Kota Waikabubak"
+    }
+}

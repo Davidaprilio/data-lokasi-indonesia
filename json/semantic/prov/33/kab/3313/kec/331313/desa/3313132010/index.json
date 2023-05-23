@@ -1,0 +1,17 @@
+{
+    "code": "3313132010",
+    "name": "Wonosari",
+    "poscode": "57188",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3313",
+        "name": "Karanganyar"
+    },
+    "kecamatan": {
+        "code": "331313",
+        "name": "Gondangrejo"
+    }
+}

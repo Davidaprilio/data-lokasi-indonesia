@@ -1,0 +1,52 @@
+[
+    {
+        "code": "6112042006",
+        "name": "Betuah",
+        "poscode": "78392"
+    },
+    {
+        "code": "6112042005",
+        "name": "Permata",
+        "poscode": "78392"
+    },
+    {
+        "code": "6112042011",
+        "name": "Radak Baru",
+        "poscode": "78392"
+    },
+    {
+        "code": "6112042009",
+        "name": "Sei/Sungai Dungun",
+        "poscode": "78392"
+    },
+    {
+        "code": "6112042008",
+        "name": "Sungai Radak Dua (Sei / Sungai Radak II)",
+        "poscode": "78392"
+    },
+    {
+        "code": "6112042007",
+        "name": "Sungai Radak Satu (Sei / Sungai Radak I)",
+        "poscode": "78392"
+    },
+    {
+        "code": "6112042010",
+        "name": "Teluk Bayur",
+        "poscode": "78392"
+    },
+    {
+        "code": "6112042002",
+        "name": "Teluk Empening",
+        "poscode": "78392"
+    },
+    {
+        "code": "6112042003",
+        "name": "Terentang Hilir",
+        "poscode": "78392"
+    },
+    {
+        "code": "6112042004",
+        "name": "Terentang Hulu",
+        "poscode": "78392"
+    }
+]

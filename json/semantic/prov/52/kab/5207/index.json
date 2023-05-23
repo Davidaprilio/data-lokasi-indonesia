@@ -1,0 +1,10 @@
+{
+    "code": "5207",
+    "type": "Kabupaten",
+    "name": "Sumbawa Barat",
+    "fullname": "Kabupaten Sumbawa Barat",
+    "jumlah": {
+        "kecamatan": 8,
+        "desa": 64
+    }
+}

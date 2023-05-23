@@ -1,0 +1,17 @@
+{
+    "code": "3513032002",
+    "name": "Jatisari",
+    "poscode": "67262",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3513",
+        "name": "Probolinggo"
+    },
+    "kecamatan": {
+        "code": "351303",
+        "name": "Kuripan"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "3318102009",
+    "name": "Puri",
+    "poscode": "59113",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3318",
+        "name": "Pati"
+    },
+    "kecamatan": {
+        "code": "331810",
+        "name": "Pati"
+    }
+}

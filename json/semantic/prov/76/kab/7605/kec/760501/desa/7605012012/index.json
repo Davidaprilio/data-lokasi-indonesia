@@ -1,0 +1,17 @@
+{
+    "code": "7605012012",
+    "name": "Pamboborang",
+    "poscode": "91415",
+    "provinsi": {
+        "code": "76",
+        "name": "Sulawesi Barat"
+    },
+    "kabupaten": {
+        "code": "7605",
+        "name": "Majene"
+    },
+    "kecamatan": {
+        "code": "760501",
+        "name": "Banggae"
+    }
+}

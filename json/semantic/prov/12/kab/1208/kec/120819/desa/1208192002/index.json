@@ -1,0 +1,17 @@
+{
+    "code": "1208192002",
+    "name": "Moho",
+    "poscode": "21153",
+    "provinsi": {
+        "code": "12",
+        "name": "Sumatera Utara"
+    },
+    "kabupaten": {
+        "code": "1208",
+        "name": "Simalungun"
+    },
+    "kecamatan": {
+        "code": "120819",
+        "name": "Jawa Maraja Bah Jambi"
+    }
+}

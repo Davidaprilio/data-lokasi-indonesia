@@ -1,0 +1,17 @@
+{
+    "code": "3211042005",
+    "name": "Cipasang",
+    "poscode": "45375",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3211",
+        "name": "Sumedang"
+    },
+    "kecamatan": {
+        "code": "321104",
+        "name": "Cibugel"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "7504012016",
+    "name": "Tunas Harapan",
+    "poscode": "96466",
+    "provinsi": {
+        "code": "75",
+        "name": "Gorontalo"
+    },
+    "kabupaten": {
+        "code": "7504",
+        "name": "Pahuwato"
+    },
+    "kecamatan": {
+        "code": "750401",
+        "name": "Popayato"
+    }
+}

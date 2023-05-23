@@ -1,0 +1,17 @@
+{
+    "code": "7307082003",
+    "name": "Kalobba",
+    "poscode": "92681",
+    "provinsi": {
+        "code": "73",
+        "name": "Sulawesi Selatan"
+    },
+    "kabupaten": {
+        "code": "7307",
+        "name": "Sinjai"
+    },
+    "kecamatan": {
+        "code": "730708",
+        "name": "Tellu Limpoe"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "2101081006",
+    "name": "Tembeling Tanjung",
+    "poscode": "29132",
+    "provinsi": {
+        "code": "21",
+        "name": "Kepulauan Riau"
+    },
+    "kabupaten": {
+        "code": "2101",
+        "name": "Bintan"
+    },
+    "kecamatan": {
+        "code": "210108",
+        "name": "Teluk Bintan"
+    }
+}

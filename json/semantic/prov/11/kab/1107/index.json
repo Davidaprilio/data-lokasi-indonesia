@@ -1,0 +1,10 @@
+{
+    "code": "1107",
+    "type": "Kabupaten",
+    "name": "Pidie",
+    "fullname": "Kabupaten Pidie",
+    "jumlah": {
+        "kecamatan": 23,
+        "desa": 730
+    }
+}

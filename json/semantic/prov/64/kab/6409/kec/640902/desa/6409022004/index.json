@@ -1,0 +1,17 @@
+{
+    "code": "6409022004",
+    "name": "Bangun Mulya",
+    "poscode": "76284",
+    "provinsi": {
+        "code": "64",
+        "name": "Kalimantan Timur"
+    },
+    "kabupaten": {
+        "code": "6409",
+        "name": "Penajam Paser Utara"
+    },
+    "kecamatan": {
+        "code": "640902",
+        "name": "Waru"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "7409092015",
+    "name": "Waworate",
+    "poscode": "93356",
+    "provinsi": {
+        "code": "74",
+        "name": "Sulawesi Tenggara"
+    },
+    "kabupaten": {
+        "code": "7409",
+        "name": "Konawe Utara"
+    },
+    "kecamatan": {
+        "code": "740909",
+        "name": "Andowia"
+    }
+}

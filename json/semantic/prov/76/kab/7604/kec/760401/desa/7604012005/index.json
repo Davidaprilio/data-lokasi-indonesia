@@ -1,0 +1,17 @@
+{
+    "code": "7604012005",
+    "name": "Galung Lombok",
+    "poscode": "91356",
+    "provinsi": {
+        "code": "76",
+        "name": "Sulawesi Barat"
+    },
+    "kabupaten": {
+        "code": "7604",
+        "name": "Polewali Mandar"
+    },
+    "kecamatan": {
+        "code": "760401",
+        "name": "Tinambung"
+    }
+}

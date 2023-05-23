@@ -1,0 +1,17 @@
+{
+    "code": "6106042010",
+    "name": "Tamao",
+    "poscode": "78755",
+    "provinsi": {
+        "code": "61",
+        "name": "Kalimantan Barat"
+    },
+    "kabupaten": {
+        "code": "6106",
+        "name": "Kapuas Hulu"
+    },
+    "kecamatan": {
+        "code": "610604",
+        "name": "Embaloh Hulu"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "9103172003",
+    "name": "Ormuwari (Newa)",
+    "poscode": "99350",
+    "provinsi": {
+        "code": "91",
+        "name": "Papua"
+    },
+    "kabupaten": {
+        "code": "9103",
+        "name": "Jayapura"
+    },
+    "kecamatan": {
+        "code": "910317",
+        "name": "Raveni Rara (Ravenirara)"
+    }
+}

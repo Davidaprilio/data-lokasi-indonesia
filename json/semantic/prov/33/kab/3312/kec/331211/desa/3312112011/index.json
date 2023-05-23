@@ -1,0 +1,17 @@
+{
+    "code": "3312112011",
+    "name": "Sendangijo",
+    "poscode": "57652",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3312",
+        "name": "Wonogiri"
+    },
+    "kecamatan": {
+        "code": "331211",
+        "name": "Selogiri"
+    }
+}

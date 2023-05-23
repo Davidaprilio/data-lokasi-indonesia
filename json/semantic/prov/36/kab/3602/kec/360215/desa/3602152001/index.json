@@ -1,0 +1,17 @@
+{
+    "code": "3602152001",
+    "name": "Sukarendah",
+    "poscode": "42352",
+    "provinsi": {
+        "code": "36",
+        "name": "Banten"
+    },
+    "kabupaten": {
+        "code": "3602",
+        "name": "Lebak"
+    },
+    "kecamatan": {
+        "code": "360215",
+        "name": "Warunggunung"
+    }
+}

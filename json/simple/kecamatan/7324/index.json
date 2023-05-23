@@ -1,0 +1,79 @@
+[
+    {
+        "code": "732405",
+        "name": "Angkona",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "732407",
+        "name": "Burau",
+        "count": {
+            "desa": 18
+        }
+    },
+    {
+        "code": "732410",
+        "name": "Kalaena",
+        "count": {
+            "desa": 7
+        }
+    },
+    {
+        "code": "732404",
+        "name": "Malili",
+        "count": {
+            "desa": 15
+        }
+    },
+    {
+        "code": "732401",
+        "name": "Mangkutana",
+        "count": {
+            "desa": 11
+        }
+    },
+    {
+        "code": "732402",
+        "name": "Nuha",
+        "count": {
+            "desa": 5
+        }
+    },
+    {
+        "code": "732408",
+        "name": "Tomoni",
+        "count": {
+            "desa": 13
+        }
+    },
+    {
+        "code": "732409",
+        "name": "Tomoni Timur",
+        "count": {
+            "desa": 8
+        }
+    },
+    {
+        "code": "732403",
+        "name": "Towuti",
+        "count": {
+            "desa": 18
+        }
+    },
+    {
+        "code": "732411",
+        "name": "Wasuponda",
+        "count": {
+            "desa": 6
+        }
+    },
+    {
+        "code": "732406",
+        "name": "Wotu",
+        "count": {
+            "desa": 16
+        }
+    }
+]

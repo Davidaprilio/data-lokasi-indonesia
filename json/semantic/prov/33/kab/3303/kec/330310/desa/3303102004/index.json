@@ -1,0 +1,17 @@
+{
+    "code": "3303102004",
+    "name": "Tlahab Lor",
+    "poscode": "53358",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3303",
+        "name": "Purbalingga"
+    },
+    "kecamatan": {
+        "code": "330310",
+        "name": "Karangreja"
+    }
+}

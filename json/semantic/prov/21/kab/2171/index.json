@@ -1,0 +1,10 @@
+{
+    "code": "2171",
+    "type": "Kota",
+    "name": "Batam",
+    "fullname": "Kota Batam",
+    "jumlah": {
+        "kecamatan": 12,
+        "desa": 64
+    }
+}

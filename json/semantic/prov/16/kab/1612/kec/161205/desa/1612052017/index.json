@@ -1,0 +1,17 @@
+{
+    "code": "1612052017",
+    "name": "Sukamanis",
+    "poscode": "31314",
+    "provinsi": {
+        "code": "16",
+        "name": "Sumatera Selatan"
+    },
+    "kabupaten": {
+        "code": "1612",
+        "name": "Penukal Abab Lematang Ilir"
+    },
+    "kecamatan": {
+        "code": "161205",
+        "name": "Tanah Abang"
+    }
+}

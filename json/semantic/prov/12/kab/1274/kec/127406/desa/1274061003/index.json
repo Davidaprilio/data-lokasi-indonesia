@@ -1,0 +1,17 @@
+{
+    "code": "1274061003",
+    "name": "Selat Lancang",
+    "poscode": "21364",
+    "provinsi": {
+        "code": "12",
+        "name": "Sumatera Utara"
+    },
+    "kabupaten": {
+        "code": "1274",
+        "name": "Tanjung Balai"
+    },
+    "kecamatan": {
+        "code": "127406",
+        "name": "Datuk Bandar Timur"
+    }
+}

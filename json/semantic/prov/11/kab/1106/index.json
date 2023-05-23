@@ -1,0 +1,10 @@
+{
+    "code": "1106",
+    "type": "Kabupaten",
+    "name": "Aceh Besar",
+    "fullname": "Kabupaten Aceh Besar",
+    "jumlah": {
+        "kecamatan": 23,
+        "desa": 604
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "5203142009",
+    "name": "Bandok",
+    "poscode": "83650",
+    "provinsi": {
+        "code": "52",
+        "name": "Nusa Tenggara Barat (NTB)"
+    },
+    "kabupaten": {
+        "code": "5203",
+        "name": "Lombok Timur"
+    },
+    "kecamatan": {
+        "code": "520314",
+        "name": "Wanasaba"
+    }
+}

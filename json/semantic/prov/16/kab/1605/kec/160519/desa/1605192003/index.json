@@ -1,0 +1,17 @@
+{
+    "code": "1605192003",
+    "name": "Sukamaju",
+    "poscode": "30772",
+    "provinsi": {
+        "code": "16",
+        "name": "Sumatera Selatan"
+    },
+    "kabupaten": {
+        "code": "1605",
+        "name": "Musi Rawas"
+    },
+    "kecamatan": {
+        "code": "160519",
+        "name": "Sumber Harta"
+    }
+}

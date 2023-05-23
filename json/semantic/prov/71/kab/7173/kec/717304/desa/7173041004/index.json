@@ -1,0 +1,17 @@
+{
+    "code": "7173041004",
+    "name": "Taratara Satu",
+    "poscode": "95425",
+    "provinsi": {
+        "code": "71",
+        "name": "Sulawesi Utara"
+    },
+    "kabupaten": {
+        "code": "7173",
+        "name": "Tomohon"
+    },
+    "kecamatan": {
+        "code": "717304",
+        "name": "Tomohon Barat"
+    }
+}

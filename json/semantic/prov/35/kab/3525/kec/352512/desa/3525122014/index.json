@@ -1,0 +1,17 @@
+{
+    "code": "3525122014",
+    "name": "Kisik",
+    "poscode": "61152",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3525",
+        "name": "Gresik"
+    },
+    "kecamatan": {
+        "code": "352512",
+        "name": "Bungah"
+    }
+}

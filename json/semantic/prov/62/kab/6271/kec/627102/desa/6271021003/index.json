@@ -1,0 +1,17 @@
+{
+    "code": "6271021003",
+    "name": "Banturung",
+    "poscode": "73224",
+    "provinsi": {
+        "code": "62",
+        "name": "Kalimantan Tengah"
+    },
+    "kabupaten": {
+        "code": "6271",
+        "name": "Palangkaraya"
+    },
+    "kecamatan": {
+        "code": "627102",
+        "name": "Bukit Batu"
+    }
+}

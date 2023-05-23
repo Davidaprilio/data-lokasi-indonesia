@@ -1,0 +1,17 @@
+{
+    "code": "7206102010",
+    "name": "Le-Le",
+    "poscode": "94974",
+    "provinsi": {
+        "code": "72",
+        "name": "Sulawesi Tengah"
+    },
+    "kabupaten": {
+        "code": "7206",
+        "name": "Morowali"
+    },
+    "kecamatan": {
+        "code": "720610",
+        "name": "Bahodopi"
+    }
+}

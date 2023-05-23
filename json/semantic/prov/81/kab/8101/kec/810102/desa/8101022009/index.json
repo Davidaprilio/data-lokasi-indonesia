@@ -1,0 +1,17 @@
+{
+    "code": "8101022009",
+    "name": "Layeni",
+    "poscode": "97535",
+    "provinsi": {
+        "code": "81",
+        "name": "Maluku"
+    },
+    "kabupaten": {
+        "code": "8101",
+        "name": "Maluku Tengah"
+    },
+    "kecamatan": {
+        "code": "810102",
+        "name": "Teon Nila Serua"
+    }
+}

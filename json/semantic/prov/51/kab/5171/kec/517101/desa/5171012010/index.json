@@ -1,0 +1,17 @@
+{
+    "code": "5171012010",
+    "name": "Sanur Kauh",
+    "poscode": "80227",
+    "provinsi": {
+        "code": "51",
+        "name": "Bali"
+    },
+    "kabupaten": {
+        "code": "5171",
+        "name": "Denpasar"
+    },
+    "kecamatan": {
+        "code": "517101",
+        "name": "Denpasar Selatan"
+    }
+}

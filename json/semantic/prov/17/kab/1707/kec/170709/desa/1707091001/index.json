@@ -1,0 +1,17 @@
+{
+    "code": "1707091001",
+    "name": "Tanjung Agung",
+    "poscode": "39266",
+    "provinsi": {
+        "code": "17",
+        "name": "Bengkulu"
+    },
+    "kabupaten": {
+        "code": "1707",
+        "name": "Lebong"
+    },
+    "kecamatan": {
+        "code": "170709",
+        "name": "Pelabai"
+    }
+}

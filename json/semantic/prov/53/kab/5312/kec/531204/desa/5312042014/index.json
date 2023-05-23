@@ -1,0 +1,17 @@
+{
+    "code": "5312042014",
+    "name": "Kareka Nduku Selatan",
+    "poscode": "87257",
+    "provinsi": {
+        "code": "53",
+        "name": "Nusa Tenggara Timur (NTT)"
+    },
+    "kabupaten": {
+        "code": "5312",
+        "name": "Sumba Barat"
+    },
+    "kecamatan": {
+        "code": "531204",
+        "name": "Tana Righu"
+    }
+}

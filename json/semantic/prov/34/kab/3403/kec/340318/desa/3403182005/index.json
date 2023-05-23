@@ -1,0 +1,17 @@
+{
+    "code": "3403182005",
+    "name": "Giritirto",
+    "poscode": "55873",
+    "provinsi": {
+        "code": "34",
+        "name": "DI Yogyakarta"
+    },
+    "kabupaten": {
+        "code": "3403",
+        "name": "Gunungkidul"
+    },
+    "kecamatan": {
+        "code": "340318",
+        "name": "Purwosari"
+    }
+}

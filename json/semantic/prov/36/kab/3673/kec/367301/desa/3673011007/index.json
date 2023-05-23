@@ -1,0 +1,17 @@
+{
+    "code": "3673011007",
+    "name": "Unyur",
+    "poscode": "42111",
+    "provinsi": {
+        "code": "36",
+        "name": "Banten"
+    },
+    "kabupaten": {
+        "code": "3673",
+        "name": "Serang"
+    },
+    "kecamatan": {
+        "code": "367301",
+        "name": "Serang"
+    }
+}

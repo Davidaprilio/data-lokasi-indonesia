@@ -1,0 +1,17 @@
+{
+    "code": "3529202003",
+    "name": "Gendang Timur",
+    "poscode": "69483",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3529",
+        "name": "Sumenep"
+    },
+    "kecamatan": {
+        "code": "352920",
+        "name": "Gayam"
+    }
+}

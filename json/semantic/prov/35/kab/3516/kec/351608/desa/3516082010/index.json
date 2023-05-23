@@ -1,0 +1,17 @@
+{
+    "code": "3516082010",
+    "name": "Mojosulur",
+    "poscode": "61382",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3516",
+        "name": "Mojokerto"
+    },
+    "kecamatan": {
+        "code": "351608",
+        "name": "Mojosari"
+    }
+}

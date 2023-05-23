@@ -1,0 +1,17 @@
+{
+    "code": "1210082012",
+    "name": "Sei Tarolat",
+    "poscode": "21471",
+    "provinsi": {
+        "code": "12",
+        "name": "Sumatera Utara"
+    },
+    "kabupaten": {
+        "code": "1210",
+        "name": "Labuhanbatu"
+    },
+    "kecamatan": {
+        "code": "121008",
+        "name": "Bilah Hilir"
+    }
+}

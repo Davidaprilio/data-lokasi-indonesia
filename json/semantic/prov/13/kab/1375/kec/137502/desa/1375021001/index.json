@@ -1,0 +1,17 @@
+{
+    "code": "1375021001",
+    "name": "Campago Guguk Bulek",
+    "poscode": "26128",
+    "provinsi": {
+        "code": "13",
+        "name": "Sumatera Barat"
+    },
+    "kabupaten": {
+        "code": "1375",
+        "name": "Bukittinggi"
+    },
+    "kecamatan": {
+        "code": "137502",
+        "name": "Mandiangin Koto Selayan"
+    }
+}

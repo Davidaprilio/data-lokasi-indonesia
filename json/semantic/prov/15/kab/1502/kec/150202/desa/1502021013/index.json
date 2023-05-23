@@ -1,0 +1,17 @@
+{
+    "code": "1502021013",
+    "name": "Pematang Kandis",
+    "poscode": "37314",
+    "provinsi": {
+        "code": "15",
+        "name": "Jambi"
+    },
+    "kabupaten": {
+        "code": "1502",
+        "name": "Merangin"
+    },
+    "kecamatan": {
+        "code": "150202",
+        "name": "Bangko"
+    }
+}

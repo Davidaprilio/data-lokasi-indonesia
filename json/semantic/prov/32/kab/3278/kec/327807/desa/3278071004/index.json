@@ -1,0 +1,17 @@
+{
+    "code": "3278071004",
+    "name": "Sumelap",
+    "poscode": "46191",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3278",
+        "name": "Tasikmalaya"
+    },
+    "kecamatan": {
+        "code": "327807",
+        "name": "Tamansari"
+    }
+}

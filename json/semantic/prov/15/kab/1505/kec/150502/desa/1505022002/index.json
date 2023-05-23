@@ -1,0 +1,17 @@
+{
+    "code": "1505022002",
+    "name": "Rantau Majo",
+    "poscode": "36381",
+    "provinsi": {
+        "code": "15",
+        "name": "Jambi"
+    },
+    "kabupaten": {
+        "code": "1505",
+        "name": "Muaro Jambi"
+    },
+    "kecamatan": {
+        "code": "150502",
+        "name": "Sekernan"
+    }
+}

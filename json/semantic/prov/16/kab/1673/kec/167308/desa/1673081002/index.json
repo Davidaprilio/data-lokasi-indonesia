@@ -1,0 +1,17 @@
+{
+    "code": "1673081002",
+    "name": "Ulak Surung",
+    "poscode": "31617",
+    "provinsi": {
+        "code": "16",
+        "name": "Sumatera Selatan"
+    },
+    "kabupaten": {
+        "code": "1673",
+        "name": "Lubuk Linggau"
+    },
+    "kecamatan": {
+        "code": "167308",
+        "name": "Lubuk Linggau Utara Dua (II)"
+    }
+}

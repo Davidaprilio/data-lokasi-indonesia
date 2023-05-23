@@ -1,0 +1,17 @@
+{
+    "code": "1807232005",
+    "name": "Toto Projo",
+    "poscode": "34373",
+    "provinsi": {
+        "code": "18",
+        "name": "Lampung"
+    },
+    "kabupaten": {
+        "code": "1807",
+        "name": "Lampung Timur"
+    },
+    "kecamatan": {
+        "code": "180723",
+        "name": "Way Bungur (Purbolinggo Utara)"
+    }
+}

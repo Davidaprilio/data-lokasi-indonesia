@@ -1,0 +1,17 @@
+{
+    "code": "5314022021",
+    "name": "Saindule",
+    "poscode": "85981",
+    "provinsi": {
+        "code": "53",
+        "name": "Nusa Tenggara Timur (NTT)"
+    },
+    "kabupaten": {
+        "code": "5314",
+        "name": "Rote Ndao"
+    },
+    "kecamatan": {
+        "code": "531402",
+        "name": "Rote Barat Laut"
+    }
+}

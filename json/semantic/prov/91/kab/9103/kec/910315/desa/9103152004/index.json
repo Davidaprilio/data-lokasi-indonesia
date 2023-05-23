@@ -1,0 +1,17 @@
+{
+    "code": "9103152004",
+    "name": "Bumi Sahaja",
+    "poscode": "99365",
+    "provinsi": {
+        "code": "91",
+        "name": "Papua"
+    },
+    "kabupaten": {
+        "code": "9103",
+        "name": "Jayapura"
+    },
+    "kecamatan": {
+        "code": "910315",
+        "name": "Yapsi"
+    }
+}

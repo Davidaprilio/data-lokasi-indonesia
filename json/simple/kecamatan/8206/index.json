@@ -1,0 +1,72 @@
+[
+    {
+        "code": "820610",
+        "name": "Kota Maba",
+        "count": {
+            "desa": 6
+        }
+    },
+    {
+        "code": "820602",
+        "name": "Maba",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "820603",
+        "name": "Maba Selatan",
+        "count": {
+            "desa": 9
+        }
+    },
+    {
+        "code": "820608",
+        "name": "Maba Tengah",
+        "count": {
+            "desa": 12
+        }
+    },
+    {
+        "code": "820609",
+        "name": "Maba Utara",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "820601",
+        "name": "Wasile",
+        "count": {
+            "desa": 7
+        }
+    },
+    {
+        "code": "820604",
+        "name": "Wasile Selatan",
+        "count": {
+            "desa": 24
+        }
+    },
+    {
+        "code": "820605",
+        "name": "Wasile Tengah",
+        "count": {
+            "desa": 8
+        }
+    },
+    {
+        "code": "820607",
+        "name": "Wasile Timur",
+        "count": {
+            "desa": 8
+        }
+    },
+    {
+        "code": "820606",
+        "name": "Wasile Utara",
+        "count": {
+            "desa": 8
+        }
+    }
+]

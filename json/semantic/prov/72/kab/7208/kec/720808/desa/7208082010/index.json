@@ -1,0 +1,17 @@
+{
+    "code": "7208082010",
+    "name": "Labuan Donggulu",
+    "poscode": "94464",
+    "provinsi": {
+        "code": "72",
+        "name": "Sulawesi Tengah"
+    },
+    "kabupaten": {
+        "code": "7208",
+        "name": "Parigi Moutong"
+    },
+    "kecamatan": {
+        "code": "720808",
+        "name": "Kasimbar"
+    }
+}

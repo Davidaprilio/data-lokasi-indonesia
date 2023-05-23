@@ -1,0 +1,17 @@
+{
+    "code": "3502171019",
+    "name": "Beduri",
+    "poscode": "63412",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3502",
+        "name": "Ponorogo"
+    },
+    "kecamatan": {
+        "code": "350217",
+        "name": "Ponorogo"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "3315122004",
+    "name": "Tanggungharjo",
+    "poscode": "58152",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3315",
+        "name": "Grobogan"
+    },
+    "kecamatan": {
+        "code": "331512",
+        "name": "Grobogan"
+    }
+}

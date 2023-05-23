@@ -1,0 +1,17 @@
+{
+    "code": "1872021002",
+    "name": "Purwosari (Purwo Sari)",
+    "poscode": "34118",
+    "provinsi": {
+        "code": "18",
+        "name": "Lampung"
+    },
+    "kabupaten": {
+        "code": "1872",
+        "name": "Metro"
+    },
+    "kecamatan": {
+        "code": "187202",
+        "name": "Metro Utara"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "1671131002",
+    "name": "Kemang Agung",
+    "poscode": "30258",
+    "provinsi": {
+        "code": "16",
+        "name": "Sumatera Selatan"
+    },
+    "kabupaten": {
+        "code": "1671",
+        "name": "Palembang"
+    },
+    "kecamatan": {
+        "code": "167113",
+        "name": "Kertapati"
+    }
+}

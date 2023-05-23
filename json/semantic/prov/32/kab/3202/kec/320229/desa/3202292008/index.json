@@ -1,0 +1,17 @@
+{
+    "code": "3202292008",
+    "name": "Cibatu",
+    "poscode": "43152",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3202",
+        "name": "Sukabumi"
+    },
+    "kecamatan": {
+        "code": "320229",
+        "name": "Cisaat"
+    }
+}

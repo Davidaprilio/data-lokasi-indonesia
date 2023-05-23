@@ -1,0 +1,17 @@
+{
+    "code": "9105042028",
+    "name": "Mananayam",
+    "poscode": "98655",
+    "provinsi": {
+        "code": "91",
+        "name": "Papua"
+    },
+    "kabupaten": {
+        "code": "9105",
+        "name": "Kepulauan Yapen"
+    },
+    "kecamatan": {
+        "code": "910504",
+        "name": "Angkaisera"
+    }
+}

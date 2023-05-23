@@ -1,0 +1,17 @@
+{
+    "code": "1206112004",
+    "name": "Rimo Kayu (Rimokayu)",
+    "poscode": "22154",
+    "provinsi": {
+        "code": "12",
+        "name": "Sumatera Utara"
+    },
+    "kabupaten": {
+        "code": "1206",
+        "name": "Karo"
+    },
+    "kecamatan": {
+        "code": "120611",
+        "name": "Payung"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "5204262003",
+    "name": "Lopok",
+    "poscode": "84388",
+    "provinsi": {
+        "code": "52",
+        "name": "Nusa Tenggara Barat (NTB)"
+    },
+    "kabupaten": {
+        "code": "5204",
+        "name": "Sumbawa"
+    },
+    "kecamatan": {
+        "code": "520426",
+        "name": "Lopok"
+    }
+}

@@ -1,0 +1,82 @@
+[
+    {
+        "code": "1407102004",
+        "name": "Bangko Bakti",
+        "poscode": "28993"
+    },
+    {
+        "code": "1407102015",
+        "name": "Bangko Balam",
+        "poscode": "28993"
+    },
+    {
+        "code": "1407102002",
+        "name": "Bangko Jaya",
+        "poscode": "28993"
+    },
+    {
+        "code": "1407101001",
+        "name": "Bangko Kanan",
+        "poscode": "28993"
+    },
+    {
+        "code": "1407101006",
+        "name": "Bangko Kiri",
+        "poscode": "28993"
+    },
+    {
+        "code": "1407102014",
+        "name": "Bangko Lestari",
+        "poscode": "28993"
+    },
+    {
+        "code": "1407102009",
+        "name": "Bangko Makmur",
+        "poscode": "28993"
+    },
+    {
+        "code": "1407102016",
+        "name": "Bangko Mas Raya",
+        "poscode": "28993"
+    },
+    {
+        "code": "1407102013",
+        "name": "Bangko Mukti",
+        "poscode": "28993"
+    },
+    {
+        "code": "1407102012",
+        "name": "Bangko Permata",
+        "poscode": "28993"
+    },
+    {
+        "code": "1407102005",
+        "name": "Bangko Pusaka (Pusako)",
+        "poscode": "28993"
+    },
+    {
+        "code": "1407102003",
+        "name": "Bangko Sempurna",
+        "poscode": "28993"
+    },
+    {
+        "code": "1407102010",
+        "name": "Pematang Damar",
+        "poscode": "28993"
+    },
+    {
+        "code": "1407102011",
+        "name": "Pematang Ibul",
+        "poscode": "28993"
+    },
+    {
+        "code": "1407102007",
+        "name": "Sungai Menasib (Sei Manasib)",
+        "poscode": "28993"
+    },
+    {
+        "code": "1407102008",
+        "name": "Teluk Bano I",
+        "poscode": "28993"
+    }
+]

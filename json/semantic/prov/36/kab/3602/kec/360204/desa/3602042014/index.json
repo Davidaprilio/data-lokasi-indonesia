@@ -1,0 +1,17 @@
+{
+    "code": "3602042014",
+    "name": "Sipayung",
+    "poscode": "42372",
+    "provinsi": {
+        "code": "36",
+        "name": "Banten"
+    },
+    "kabupaten": {
+        "code": "3602",
+        "name": "Lebak"
+    },
+    "kecamatan": {
+        "code": "360204",
+        "name": "Cipanas"
+    }
+}

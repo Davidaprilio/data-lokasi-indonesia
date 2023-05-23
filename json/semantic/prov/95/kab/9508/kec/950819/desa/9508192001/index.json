@@ -1,0 +1,17 @@
+{
+    "code": "9508192001",
+    "name": "Nirkuri",
+    "poscode": "99915",
+    "provinsi": {
+        "code": "95",
+        "name": "Papua Pegunungan"
+    },
+    "kabupaten": {
+        "code": "9508",
+        "name": "Nduga"
+    },
+    "kecamatan": {
+        "code": "950819",
+        "name": "Nirkuri"
+    }
+}

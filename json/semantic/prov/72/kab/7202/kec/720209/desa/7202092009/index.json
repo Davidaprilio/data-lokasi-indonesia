@@ -1,0 +1,17 @@
+{
+    "code": "7202092009",
+    "name": "Bulili",
+    "poscode": "94655",
+    "provinsi": {
+        "code": "72",
+        "name": "Sulawesi Tengah"
+    },
+    "kabupaten": {
+        "code": "7202",
+        "name": "Poso"
+    },
+    "kecamatan": {
+        "code": "720209",
+        "name": "Lore Selatan"
+    }
+}

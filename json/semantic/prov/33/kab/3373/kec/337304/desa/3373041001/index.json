@@ -1,0 +1,17 @@
+{
+    "code": "3373041001",
+    "name": "Kecandran",
+    "poscode": "50723",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3373",
+        "name": "Salatiga"
+    },
+    "kecamatan": {
+        "code": "337304",
+        "name": "Sidomukti"
+    }
+}

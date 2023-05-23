@@ -1,0 +1,17 @@
+{
+    "code": "1303032001",
+    "name": "Timbulun",
+    "poscode": "27571",
+    "provinsi": {
+        "code": "13",
+        "name": "Sumatera Barat"
+    },
+    "kabupaten": {
+        "code": "1303",
+        "name": "Sijunjung"
+    },
+    "kecamatan": {
+        "code": "130303",
+        "name": "Tanjung Gadang"
+    }
+}

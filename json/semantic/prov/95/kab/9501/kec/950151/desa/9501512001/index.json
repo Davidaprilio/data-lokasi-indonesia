@@ -1,0 +1,17 @@
+{
+    "code": "9501512001",
+    "name": "Muliama",
+    "poscode": "99522",
+    "provinsi": {
+        "code": "95",
+        "name": "Papua Pegunungan"
+    },
+    "kabupaten": {
+        "code": "9501",
+        "name": "Jayawijaya"
+    },
+    "kecamatan": {
+        "code": "950151",
+        "name": "Libarek"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "9503432003",
+    "name": "Bulbul",
+    "poscode": "99744",
+    "provinsi": {
+        "code": "95",
+        "name": "Papua Pegunungan"
+    },
+    "kabupaten": {
+        "code": "9503",
+        "name": "Yahukimo"
+    },
+    "kecamatan": {
+        "code": "950343",
+        "name": "Suntamon"
+    }
+}

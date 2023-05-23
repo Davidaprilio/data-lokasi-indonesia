@@ -1,0 +1,17 @@
+{
+    "code": "1118012011",
+    "name": "Rhing Mancang",
+    "poscode": "24186",
+    "provinsi": {
+        "code": "11",
+        "name": "Aceh (NAD)"
+    },
+    "kabupaten": {
+        "code": "1118",
+        "name": "Pidie Jaya"
+    },
+    "kecamatan": {
+        "code": "111801",
+        "name": "Meureudu"
+    }
+}

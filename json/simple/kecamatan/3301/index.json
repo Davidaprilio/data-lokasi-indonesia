@@ -1,0 +1,170 @@
+[
+    {
+        "code": "330103",
+        "name": "Adipala",
+        "count": {
+            "desa": 16
+        }
+    },
+    {
+        "code": "330120",
+        "name": "Bantarsari",
+        "count": {
+            "desa": 8
+        }
+    },
+    {
+        "code": "330104",
+        "name": "Binangun",
+        "count": {
+            "desa": 17
+        }
+    },
+    {
+        "code": "330121",
+        "name": "Cilacap Selatan",
+        "count": {
+            "desa": 5
+        }
+    },
+    {
+        "code": "330122",
+        "name": "Cilacap Tengah",
+        "count": {
+            "desa": 5
+        }
+    },
+    {
+        "code": "330123",
+        "name": "Cilacap Utara",
+        "count": {
+            "desa": 5
+        }
+    },
+    {
+        "code": "330113",
+        "name": "Cimanggu",
+        "count": {
+            "desa": 15
+        }
+    },
+    {
+        "code": "330118",
+        "name": "Cipari",
+        "count": {
+            "desa": 11
+        }
+    },
+    {
+        "code": "330116",
+        "name": "Dayeuhluhur",
+        "count": {
+            "desa": 14
+        }
+    },
+    {
+        "code": "330110",
+        "name": "Gandrungmangu",
+        "count": {
+            "desa": 14
+        }
+    },
+    {
+        "code": "330108",
+        "name": "Jeruklegi",
+        "count": {
+            "desa": 13
+        }
+    },
+    {
+        "code": "330124",
+        "name": "Kampung Laut",
+        "count": {
+            "desa": 4
+        }
+    },
+    {
+        "code": "330112",
+        "name": "Karangpucung",
+        "count": {
+            "desa": 14
+        }
+    },
+    {
+        "code": "330109",
+        "name": "Kawunganten",
+        "count": {
+            "desa": 12
+        }
+    },
+    {
+        "code": "330101",
+        "name": "Kedungreja",
+        "count": {
+            "desa": 11
+        }
+    },
+    {
+        "code": "330102",
+        "name": "Kesugihan",
+        "count": {
+            "desa": 16
+        }
+    },
+    {
+        "code": "330106",
+        "name": "Kroya",
+        "count": {
+            "desa": 17
+        }
+    },
+    {
+        "code": "330114",
+        "name": "Majenang",
+        "count": {
+            "desa": 17
+        }
+    },
+    {
+        "code": "330107",
+        "name": "Maos",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "330105",
+        "name": "Nusawungu",
+        "count": {
+            "desa": 17
+        }
+    },
+    {
+        "code": "330119",
+        "name": "Patimuan",
+        "count": {
+            "desa": 7
+        }
+    },
+    {
+        "code": "330117",
+        "name": "Sampang",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "330111",
+        "name": "Sidareja",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "330115",
+        "name": "Wanareja",
+        "count": {
+            "desa": 16
+        }
+    }
+]

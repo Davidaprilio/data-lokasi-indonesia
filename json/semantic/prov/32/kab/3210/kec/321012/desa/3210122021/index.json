@@ -1,0 +1,17 @@
+{
+    "code": "3210122021",
+    "name": "Baturuyuk",
+    "poscode": "45453",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3210",
+        "name": "Majalengka"
+    },
+    "kecamatan": {
+        "code": "321012",
+        "name": "Dawuan"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "7471011005",
+    "name": "Mandonga",
+    "poscode": "93111",
+    "provinsi": {
+        "code": "74",
+        "name": "Sulawesi Tenggara"
+    },
+    "kabupaten": {
+        "code": "7471",
+        "name": "Kendari"
+    },
+    "kecamatan": {
+        "code": "747101",
+        "name": "Mandonga"
+    }
+}

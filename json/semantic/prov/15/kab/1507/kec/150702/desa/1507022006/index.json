@@ -1,0 +1,17 @@
+{
+    "code": "1507022006",
+    "name": "Sungai Raya",
+    "poscode": "36771",
+    "provinsi": {
+        "code": "15",
+        "name": "Jambi"
+    },
+    "kabupaten": {
+        "code": "1507",
+        "name": "Tanjung Jabung Timur"
+    },
+    "kecamatan": {
+        "code": "150702",
+        "name": "Nipah Panjang"
+    }
+}

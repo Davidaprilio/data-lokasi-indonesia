@@ -1,0 +1,17 @@
+{
+    "code": "3402122004",
+    "name": "Singosaren",
+    "poscode": "55193",
+    "provinsi": {
+        "code": "34",
+        "name": "DI Yogyakarta"
+    },
+    "kabupaten": {
+        "code": "3402",
+        "name": "Bantul"
+    },
+    "kecamatan": {
+        "code": "340212",
+        "name": "Banguntapan"
+    }
+}

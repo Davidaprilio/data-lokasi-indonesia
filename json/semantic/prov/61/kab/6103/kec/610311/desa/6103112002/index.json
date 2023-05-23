@@ -1,0 +1,17 @@
+{
+    "code": "6103112002",
+    "name": "Kawat",
+    "poscode": "78564",
+    "provinsi": {
+        "code": "61",
+        "name": "Kalimantan Barat"
+    },
+    "kabupaten": {
+        "code": "6103",
+        "name": "Sanggau"
+    },
+    "kecamatan": {
+        "code": "610311",
+        "name": "Tayan Hilir"
+    }
+}

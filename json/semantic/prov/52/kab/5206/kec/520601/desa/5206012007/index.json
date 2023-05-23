@@ -1,0 +1,17 @@
+{
+    "code": "5206012007",
+    "name": "Simpasai",
+    "poscode": "84172",
+    "provinsi": {
+        "code": "52",
+        "name": "Nusa Tenggara Barat (NTB)"
+    },
+    "kabupaten": {
+        "code": "5206",
+        "name": "Bima"
+    },
+    "kecamatan": {
+        "code": "520601",
+        "name": "Monta"
+    }
+}

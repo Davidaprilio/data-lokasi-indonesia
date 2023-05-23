@@ -1,0 +1,10 @@
+{
+    "code": "1701",
+    "type": "Kabupaten",
+    "name": "Bengkulu Selatan",
+    "fullname": "Kabupaten Bengkulu Selatan",
+    "jumlah": {
+        "kecamatan": 11,
+        "desa": 158
+    }
+}

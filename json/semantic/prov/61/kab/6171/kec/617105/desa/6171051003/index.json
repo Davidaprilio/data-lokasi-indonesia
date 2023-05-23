@@ -1,0 +1,17 @@
+{
+    "code": "6171051003",
+    "name": "Tengah",
+    "poscode": "78111",
+    "provinsi": {
+        "code": "61",
+        "name": "Kalimantan Barat"
+    },
+    "kabupaten": {
+        "code": "6171",
+        "name": "Pontianak"
+    },
+    "kecamatan": {
+        "code": "617105",
+        "name": "Pontianak Kota"
+    }
+}

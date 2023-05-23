@@ -1,0 +1,17 @@
+{
+    "code": "1901011011",
+    "name": "Surya Timur",
+    "poscode": "33211",
+    "provinsi": {
+        "code": "19",
+        "name": "Kepulauan Bangka Belitung"
+    },
+    "kabupaten": {
+        "code": "1901",
+        "name": "Bangka"
+    },
+    "kecamatan": {
+        "code": "190101",
+        "name": "Sungailiat (Sungai Liat)"
+    }
+}

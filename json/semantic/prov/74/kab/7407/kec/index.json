@@ -1,0 +1,58 @@
+[
+    {
+        "code": "740704",
+        "name": "Binongko",
+        "count": {
+            "desa": 9
+        }
+    },
+    {
+        "code": "740702",
+        "name": "Kaledupa",
+        "count": {
+            "desa": 16
+        }
+    },
+    {
+        "code": "740706",
+        "name": "Kaledupa Selatan",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "740708",
+        "name": "Togo Binongko",
+        "count": {
+            "desa": 5
+        }
+    },
+    {
+        "code": "740703",
+        "name": "Tomia",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "740707",
+        "name": "Tomia Timur",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "740701",
+        "name": "Wangi Wangi",
+        "count": {
+            "desa": 20
+        }
+    },
+    {
+        "code": "740705",
+        "name": "Wangi Wangi Selatan",
+        "count": {
+            "desa": 21
+        }
+    }
+]

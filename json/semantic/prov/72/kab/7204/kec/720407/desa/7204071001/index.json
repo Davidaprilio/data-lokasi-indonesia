@@ -1,0 +1,17 @@
+{
+    "code": "7204071001",
+    "name": "Tambun",
+    "poscode": "94516",
+    "provinsi": {
+        "code": "72",
+        "name": "Sulawesi Tengah"
+    },
+    "kabupaten": {
+        "code": "7204",
+        "name": "Toli Toli"
+    },
+    "kecamatan": {
+        "code": "720407",
+        "name": "Baolan"
+    }
+}

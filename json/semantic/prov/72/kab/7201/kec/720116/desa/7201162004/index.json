@@ -1,0 +1,17 @@
+{
+    "code": "7201162004",
+    "name": "Kadodi",
+    "poscode": "94750",
+    "provinsi": {
+        "code": "72",
+        "name": "Sulawesi Tengah"
+    },
+    "kabupaten": {
+        "code": "7201",
+        "name": "Banggai"
+    },
+    "kecamatan": {
+        "code": "720116",
+        "name": "Lobu"
+    }
+}

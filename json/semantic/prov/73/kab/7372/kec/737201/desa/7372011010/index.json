@@ -1,0 +1,17 @@
+{
+    "code": "7372011010",
+    "name": "Galung Maloang",
+    "poscode": "91121",
+    "provinsi": {
+        "code": "73",
+        "name": "Sulawesi Selatan"
+    },
+    "kabupaten": {
+        "code": "7372",
+        "name": "Pare Pare"
+    },
+    "kecamatan": {
+        "code": "737201",
+        "name": "Bacukiki"
+    }
+}

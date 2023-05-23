@@ -1,0 +1,17 @@
+{
+    "code": "5310142006",
+    "name": "Liang Bua",
+    "poscode": "86522",
+    "provinsi": {
+        "code": "53",
+        "name": "Nusa Tenggara Timur (NTT)"
+    },
+    "kabupaten": {
+        "code": "5310",
+        "name": "Manggarai"
+    },
+    "kecamatan": {
+        "code": "531014",
+        "name": "Rahong Utara"
+    }
+}

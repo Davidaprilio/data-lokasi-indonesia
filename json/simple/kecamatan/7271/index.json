@@ -1,0 +1,58 @@
+[
+    {
+        "code": "727108",
+        "name": "Mantikulore",
+        "count": {
+            "desa": 8
+        }
+    },
+    {
+        "code": "727102",
+        "name": "Palu Barat",
+        "count": {
+            "desa": 6
+        }
+    },
+    {
+        "code": "727103",
+        "name": "Palu Selatan",
+        "count": {
+            "desa": 5
+        }
+    },
+    {
+        "code": "727101",
+        "name": "Palu Timur",
+        "count": {
+            "desa": 5
+        }
+    },
+    {
+        "code": "727104",
+        "name": "Palu Utara",
+        "count": {
+            "desa": 5
+        }
+    },
+    {
+        "code": "727106",
+        "name": "Tatanga",
+        "count": {
+            "desa": 6
+        }
+    },
+    {
+        "code": "727107",
+        "name": "Tawaeli",
+        "count": {
+            "desa": 5
+        }
+    },
+    {
+        "code": "727105",
+        "name": "Ulujadi",
+        "count": {
+            "desa": 6
+        }
+    }
+]

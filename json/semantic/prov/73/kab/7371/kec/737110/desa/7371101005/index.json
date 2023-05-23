@@ -1,0 +1,17 @@
+{
+    "code": "7371101005",
+    "name": "Bongaya",
+    "poscode": "90223",
+    "provinsi": {
+        "code": "73",
+        "name": "Sulawesi Selatan"
+    },
+    "kabupaten": {
+        "code": "7371",
+        "name": "Makassar"
+    },
+    "kecamatan": {
+        "code": "737110",
+        "name": "Tamalate"
+    }
+}

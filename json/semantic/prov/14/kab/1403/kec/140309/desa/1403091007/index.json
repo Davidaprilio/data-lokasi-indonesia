@@ -1,0 +1,17 @@
+{
+    "code": "1403091007",
+    "name": "Duri Timur",
+    "poscode": "28783",
+    "provinsi": {
+        "code": "14",
+        "name": "Riau"
+    },
+    "kabupaten": {
+        "code": "1403",
+        "name": "Bengkalis"
+    },
+    "kecamatan": {
+        "code": "140309",
+        "name": "Mandau"
+    }
+}

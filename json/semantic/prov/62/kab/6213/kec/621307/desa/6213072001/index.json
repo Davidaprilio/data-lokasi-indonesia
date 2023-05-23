@@ -1,0 +1,17 @@
+{
+    "code": "6213072001",
+    "name": "Juru Banu",
+    "poscode": "73617",
+    "provinsi": {
+        "code": "62",
+        "name": "Kalimantan Tengah"
+    },
+    "kabupaten": {
+        "code": "6213",
+        "name": "Barito Timur"
+    },
+    "kecamatan": {
+        "code": "621307",
+        "name": "Paju Epat"
+    }
+}

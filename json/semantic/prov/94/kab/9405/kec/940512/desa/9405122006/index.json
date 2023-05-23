@@ -1,0 +1,17 @@
+{
+    "code": "9405122006",
+    "name": "Kulamagom",
+    "poscode": "98954",
+    "provinsi": {
+        "code": "94",
+        "name": "Papua Tengah"
+    },
+    "kabupaten": {
+        "code": "9405",
+        "name": "Puncak"
+    },
+    "kecamatan": {
+        "code": "940512",
+        "name": "Ogamanim"
+    }
+}

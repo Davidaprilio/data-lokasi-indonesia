@@ -1,0 +1,17 @@
+{
+    "code": "3509072004",
+    "name": "Semboro",
+    "poscode": "68157",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3509",
+        "name": "Jember"
+    },
+    "kecamatan": {
+        "code": "350907",
+        "name": "Semboro"
+    }
+}

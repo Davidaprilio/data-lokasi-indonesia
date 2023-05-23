@@ -1,0 +1,17 @@
+{
+    "code": "1409061001",
+    "name": "Benai",
+    "poscode": "29566",
+    "provinsi": {
+        "code": "14",
+        "name": "Riau"
+    },
+    "kabupaten": {
+        "code": "1409",
+        "name": "Kuantan Singingi"
+    },
+    "kecamatan": {
+        "code": "140906",
+        "name": "Benai"
+    }
+}

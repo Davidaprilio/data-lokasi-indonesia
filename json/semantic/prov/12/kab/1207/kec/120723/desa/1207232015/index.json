@@ -1,0 +1,17 @@
+{
+    "code": "1207232015",
+    "name": "Telaga Sari",
+    "poscode": "20351",
+    "provinsi": {
+        "code": "12",
+        "name": "Sumatera Utara"
+    },
+    "kabupaten": {
+        "code": "1207",
+        "name": "Deli Serdang"
+    },
+    "kecamatan": {
+        "code": "120723",
+        "name": "Sunggal"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "3523182003",
+    "name": "Tegalbang",
+    "poscode": "62391",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3523",
+        "name": "Tuban"
+    },
+    "kecamatan": {
+        "code": "352318",
+        "name": "Palang"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "8106032031",
+    "name": "Riring",
+    "poscode": "97559",
+    "provinsi": {
+        "code": "81",
+        "name": "Maluku"
+    },
+    "kabupaten": {
+        "code": "8106",
+        "name": "Seram Bagian Barat"
+    },
+    "kecamatan": {
+        "code": "810603",
+        "name": "Taniwel"
+    }
+}

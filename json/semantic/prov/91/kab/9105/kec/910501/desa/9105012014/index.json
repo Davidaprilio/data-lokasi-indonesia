@@ -1,0 +1,17 @@
+{
+    "code": "9105012014",
+    "name": "Serui Laut",
+    "poscode": "98627",
+    "provinsi": {
+        "code": "91",
+        "name": "Papua"
+    },
+    "kabupaten": {
+        "code": "9105",
+        "name": "Kepulauan Yapen"
+    },
+    "kecamatan": {
+        "code": "910501",
+        "name": "Yapen Selatan"
+    }
+}

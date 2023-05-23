@@ -1,0 +1,17 @@
+{
+    "code": "6301042003",
+    "name": "Bawah Layung",
+    "poscode": "70851",
+    "provinsi": {
+        "code": "63",
+        "name": "Kalimantan Selatan"
+    },
+    "kabupaten": {
+        "code": "6301",
+        "name": "Tanah Laut"
+    },
+    "kecamatan": {
+        "code": "630104",
+        "name": "Kurau"
+    }
+}

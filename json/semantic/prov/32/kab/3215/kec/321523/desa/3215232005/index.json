@@ -1,0 +1,17 @@
+{
+    "code": "3215232005",
+    "name": "Bayur Kidul",
+    "poscode": "41384",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3215",
+        "name": "Karawang"
+    },
+    "kecamatan": {
+        "code": "321523",
+        "name": "Cilamaya Kulon"
+    }
+}

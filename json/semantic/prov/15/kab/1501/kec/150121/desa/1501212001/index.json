@@ -1,0 +1,17 @@
+{
+    "code": "1501212001",
+    "name": "Koto Mebai",
+    "poscode": "37166",
+    "provinsi": {
+        "code": "15",
+        "name": "Jambi"
+    },
+    "kabupaten": {
+        "code": "1501",
+        "name": "Kerinci"
+    },
+    "kecamatan": {
+        "code": "150121",
+        "name": "Air Hangat Barat"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "1202152009",
+    "name": "Sibandang",
+    "poscode": "22476",
+    "provinsi": {
+        "code": "12",
+        "name": "Sumatera Utara"
+    },
+    "kabupaten": {
+        "code": "1202",
+        "name": "Tapanuli Utara"
+    },
+    "kecamatan": {
+        "code": "120215",
+        "name": "Muara"
+    }
+}

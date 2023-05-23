@@ -1,0 +1,17 @@
+{
+    "code": "1604202004",
+    "name": "Talang Tinggi",
+    "poscode": "31419",
+    "provinsi": {
+        "code": "16",
+        "name": "Sumatera Selatan"
+    },
+    "kabupaten": {
+        "code": "1604",
+        "name": "Lahat"
+    },
+    "kecamatan": {
+        "code": "160420",
+        "name": "Pseksu"
+    }
+}

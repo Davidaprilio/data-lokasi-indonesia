@@ -1,0 +1,17 @@
+{
+    "code": "3501032011",
+    "name": "Gondosari",
+    "poscode": "63553",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3501",
+        "name": "Pacitan"
+    },
+    "kecamatan": {
+        "code": "350103",
+        "name": "Punung"
+    }
+}

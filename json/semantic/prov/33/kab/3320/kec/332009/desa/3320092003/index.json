@@ -1,0 +1,17 @@
+{
+    "code": "3320092003",
+    "name": "Kunir",
+    "poscode": "59456",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3320",
+        "name": "Jepara"
+    },
+    "kecamatan": {
+        "code": "332009",
+        "name": "Keling"
+    }
+}

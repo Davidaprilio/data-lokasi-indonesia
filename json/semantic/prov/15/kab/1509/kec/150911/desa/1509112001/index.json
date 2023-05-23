@@ -1,0 +1,17 @@
+{
+    "code": "1509112001",
+    "name": "Teluk Kepayang Pulau Indah",
+    "poscode": "37562",
+    "provinsi": {
+        "code": "15",
+        "name": "Jambi"
+    },
+    "kabupaten": {
+        "code": "1509",
+        "name": "Tebo"
+    },
+    "kecamatan": {
+        "code": "150911",
+        "name": "VII Koto Ilir"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "code": "1206",
+    "type": "Kabupaten",
+    "name": "Karo",
+    "fullname": "Kabupaten Karo",
+    "jumlah": {
+        "kecamatan": 17,
+        "desa": 269
+    }
+}

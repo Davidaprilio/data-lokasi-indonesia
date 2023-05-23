@@ -1,0 +1,17 @@
+{
+    "code": "1206162003",
+    "name": "Kuta Tonggal",
+    "poscode": "22151",
+    "provinsi": {
+        "code": "12",
+        "name": "Sumatera Utara"
+    },
+    "kabupaten": {
+        "code": "1206",
+        "name": "Karo"
+    },
+    "kecamatan": {
+        "code": "120616",
+        "name": "Naman Teran (Nama Teran)"
+    }
+}

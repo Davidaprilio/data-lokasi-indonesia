@@ -1,0 +1,17 @@
+{
+    "code": "6112052015",
+    "name": "Medan Mas",
+    "poscode": "78385",
+    "provinsi": {
+        "code": "61",
+        "name": "Kalimantan Barat"
+    },
+    "kabupaten": {
+        "code": "6112",
+        "name": "Kubu Raya"
+    },
+    "kecamatan": {
+        "code": "611205",
+        "name": "Batu Ampar"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "1116102010",
+    "name": "Rantau Bintang",
+    "poscode": "24478",
+    "provinsi": {
+        "code": "11",
+        "name": "Aceh (NAD)"
+    },
+    "kabupaten": {
+        "code": "1116",
+        "name": "Aceh Tamiang"
+    },
+    "kecamatan": {
+        "code": "111610",
+        "name": "Bandar Pusaka"
+    }
+}

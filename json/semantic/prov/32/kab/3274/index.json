@@ -1,0 +1,10 @@
+{
+    "code": "3274",
+    "type": "Kota",
+    "name": "Cirebon",
+    "fullname": "Kota Cirebon",
+    "jumlah": {
+        "kecamatan": 5,
+        "desa": 22
+    }
+}

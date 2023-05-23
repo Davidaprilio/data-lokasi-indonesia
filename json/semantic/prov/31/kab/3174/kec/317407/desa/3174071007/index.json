@@ -1,0 +1,17 @@
+{
+    "code": "3174071007",
+    "name": "Pulo",
+    "poscode": "12160",
+    "provinsi": {
+        "code": "31",
+        "name": "DKI Jakarta"
+    },
+    "kabupaten": {
+        "code": "3174",
+        "name": "Jakarta Selatan"
+    },
+    "kecamatan": {
+        "code": "317407",
+        "name": "Kebayoran Baru"
+    }
+}

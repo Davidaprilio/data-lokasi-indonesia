@@ -1,0 +1,17 @@
+{
+    "code": "3603182002",
+    "name": "Cibadak",
+    "poscode": "15710",
+    "provinsi": {
+        "code": "36",
+        "name": "Banten"
+    },
+    "kabupaten": {
+        "code": "3603",
+        "name": "Tangerang"
+    },
+    "kecamatan": {
+        "code": "360318",
+        "name": "Cikupa"
+    }
+}

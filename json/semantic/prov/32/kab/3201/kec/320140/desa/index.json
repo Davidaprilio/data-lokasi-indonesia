@@ -1,0 +1,37 @@
+[
+    {
+        "code": "3201402003",
+        "name": "Cibitung Tengah",
+        "poscode": "16371"
+    },
+    {
+        "code": "3201402005",
+        "name": "Cinangneng",
+        "poscode": "16371"
+    },
+    {
+        "code": "3201402006",
+        "name": "Gunung Malang (Gunungmalang)",
+        "poscode": "16371"
+    },
+    {
+        "code": "3201402007",
+        "name": "Gunung Mulya",
+        "poscode": "16371"
+    },
+    {
+        "code": "3201402004",
+        "name": "Situdaun",
+        "poscode": "16371"
+    },
+    {
+        "code": "3201402001",
+        "name": "Tapos I",
+        "poscode": "16371"
+    },
+    {
+        "code": "3201402002",
+        "name": "Tapos II",
+        "poscode": "16371"
+    }
+]

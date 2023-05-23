@@ -1,0 +1,17 @@
+{
+    "code": "1609082003",
+    "name": "Pulau Duku",
+    "poscode": "32276",
+    "provinsi": {
+        "code": "16",
+        "name": "Sumatera Selatan"
+    },
+    "kabupaten": {
+        "code": "1609",
+        "name": "Ogan Komering Ulu Selatan"
+    },
+    "kecamatan": {
+        "code": "160908",
+        "name": "Mekakau Ilir"
+    }
+}

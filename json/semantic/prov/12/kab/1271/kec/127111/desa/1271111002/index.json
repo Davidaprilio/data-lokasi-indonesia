@@ -1,0 +1,17 @@
+{
+    "code": "1271111002",
+    "name": "Titi Kuning",
+    "poscode": "20146",
+    "provinsi": {
+        "code": "12",
+        "name": "Sumatera Utara"
+    },
+    "kabupaten": {
+        "code": "1271",
+        "name": "Medan"
+    },
+    "kecamatan": {
+        "code": "127111",
+        "name": "Medan Johor"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "3305132005",
+    "name": "Kebulusan",
+    "poscode": "54361",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3305",
+        "name": "Kebumen"
+    },
+    "kecamatan": {
+        "code": "330513",
+        "name": "Pejagoan"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "code": "3316",
+    "type": "Kabupaten",
+    "name": "Blora",
+    "fullname": "Kabupaten Blora",
+    "jumlah": {
+        "kecamatan": 16,
+        "desa": 295
+    }
+}

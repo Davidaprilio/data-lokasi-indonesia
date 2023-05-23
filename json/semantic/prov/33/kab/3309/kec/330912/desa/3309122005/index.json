@@ -1,0 +1,17 @@
+{
+    "code": "3309122005",
+    "name": "Ketitang",
+    "poscode": "57378",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3309",
+        "name": "Boyolali"
+    },
+    "kecamatan": {
+        "code": "330912",
+        "name": "Nogosari"
+    }
+}

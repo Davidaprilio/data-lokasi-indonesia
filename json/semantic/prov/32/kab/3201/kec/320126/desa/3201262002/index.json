@@ -1,0 +1,17 @@
+{
+    "code": "3201262002",
+    "name": "Kuta",
+    "poscode": "16770",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3201",
+        "name": "Bogor"
+    },
+    "kecamatan": {
+        "code": "320126",
+        "name": "Megamendung"
+    }
+}

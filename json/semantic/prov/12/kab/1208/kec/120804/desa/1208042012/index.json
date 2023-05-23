@@ -1,0 +1,17 @@
+{
+    "code": "1208042012",
+    "name": "Simpang Raya Dasma",
+    "poscode": "21161",
+    "provinsi": {
+        "code": "12",
+        "name": "Sumatera Utara"
+    },
+    "kabupaten": {
+        "code": "1208",
+        "name": "Simalungun"
+    },
+    "kecamatan": {
+        "code": "120804",
+        "name": "Panei"
+    }
+}

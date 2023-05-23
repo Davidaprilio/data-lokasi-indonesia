@@ -1,0 +1,17 @@
+{
+    "code": "9210162001",
+    "name": "Adoh",
+    "poscode": "98242",
+    "provinsi": {
+        "code": "96",
+        "name": "Papua Barat Daya"
+    },
+    "kabupaten": {
+        "code": "9210",
+        "name": "Maybrat"
+    },
+    "kecamatan": {
+        "code": "921016",
+        "name": "Ayamaru Jaya"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "code": "3322",
+    "type": "Kabupaten",
+    "name": "Semarang",
+    "fullname": "Kabupaten Semarang",
+    "jumlah": {
+        "kecamatan": 19,
+        "desa": 235
+    }
+}

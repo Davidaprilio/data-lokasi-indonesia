@@ -1,0 +1,17 @@
+{
+    "code": "7402021016",
+    "name": "Asambu",
+    "poscode": "93416",
+    "provinsi": {
+        "code": "74",
+        "name": "Sulawesi Tenggara"
+    },
+    "kabupaten": {
+        "code": "7402",
+        "name": "Konawe"
+    },
+    "kecamatan": {
+        "code": "740202",
+        "name": "Unaaha"
+    }
+}

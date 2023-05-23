@@ -1,0 +1,17 @@
+{
+    "code": "3510122007",
+    "name": "Cantuk",
+    "poscode": "68464",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3510",
+        "name": "Banyuwangi"
+    },
+    "kecamatan": {
+        "code": "351012",
+        "name": "Singojuruh"
+    }
+}

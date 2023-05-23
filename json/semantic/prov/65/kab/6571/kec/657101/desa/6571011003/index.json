@@ -1,0 +1,17 @@
+{
+    "code": "6571011003",
+    "name": "Karang Anyar Pantai",
+    "poscode": "77111",
+    "provinsi": {
+        "code": "65",
+        "name": "Kalimantan Utara"
+    },
+    "kabupaten": {
+        "code": "6571",
+        "name": "Tarakan"
+    },
+    "kecamatan": {
+        "code": "657101",
+        "name": "Tarakan Barat"
+    }
+}

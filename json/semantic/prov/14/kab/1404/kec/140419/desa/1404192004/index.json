@@ -1,0 +1,17 @@
+{
+    "code": "1404192004",
+    "name": "Bayas Jaya",
+    "poscode": "29261",
+    "provinsi": {
+        "code": "14",
+        "name": "Riau"
+    },
+    "kabupaten": {
+        "code": "1404",
+        "name": "Indragiri Hilir"
+    },
+    "kecamatan": {
+        "code": "140419",
+        "name": "Kempas"
+    }
+}

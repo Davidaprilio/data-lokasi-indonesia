@@ -1,0 +1,17 @@
+{
+    "code": "9201052012",
+    "name": "Malaus",
+    "poscode": "98423",
+    "provinsi": {
+        "code": "96",
+        "name": "Papua Barat Daya"
+    },
+    "kabupaten": {
+        "code": "9201",
+        "name": "Sorong"
+    },
+    "kecamatan": {
+        "code": "920105",
+        "name": "Salawati"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "3201322006",
+    "name": "Kembang Kuning",
+    "poscode": "16710",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3201",
+        "name": "Bogor"
+    },
+    "kecamatan": {
+        "code": "320132",
+        "name": "Klapanunggal"
+    }
+}

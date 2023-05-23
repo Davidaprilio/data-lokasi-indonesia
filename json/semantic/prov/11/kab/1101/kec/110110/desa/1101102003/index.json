@@ -1,0 +1,17 @@
+{
+    "code": "1101102003",
+    "name": "Silolo",
+    "poscode": "23755",
+    "provinsi": {
+        "code": "11",
+        "name": "Aceh (NAD)"
+    },
+    "kabupaten": {
+        "code": "1101",
+        "name": "Aceh Selatan"
+    },
+    "kecamatan": {
+        "code": "110110",
+        "name": "Pasi Raja (Pasie Raja)"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "9203092012",
+    "name": "Us",
+    "poscode": "98024",
+    "provinsi": {
+        "code": "92",
+        "name": "Papua Barat"
+    },
+    "kabupaten": {
+        "code": "9203",
+        "name": "Fak Fak"
+    },
+    "kecamatan": {
+        "code": "920309",
+        "name": "Teluk Patipi"
+    }
+}

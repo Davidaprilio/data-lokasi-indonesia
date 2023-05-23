@@ -1,0 +1,17 @@
+{
+    "code": "5310152002",
+    "name": "Gelong",
+    "poscode": "86521",
+    "provinsi": {
+        "code": "53",
+        "name": "Nusa Tenggara Timur (NTT)"
+    },
+    "kabupaten": {
+        "code": "5310",
+        "name": "Manggarai"
+    },
+    "kecamatan": {
+        "code": "531015",
+        "name": "Lelak"
+    }
+}

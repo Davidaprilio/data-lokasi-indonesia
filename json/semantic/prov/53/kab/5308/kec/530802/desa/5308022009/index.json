@@ -1,0 +1,17 @@
+{
+    "code": "5308022009",
+    "name": "Renga Menge",
+    "poscode": "86362",
+    "provinsi": {
+        "code": "53",
+        "name": "Nusa Tenggara Timur (NTT)"
+    },
+    "kabupaten": {
+        "code": "5308",
+        "name": "Ende"
+    },
+    "kecamatan": {
+        "code": "530802",
+        "name": "Pulau Ende"
+    }
+}

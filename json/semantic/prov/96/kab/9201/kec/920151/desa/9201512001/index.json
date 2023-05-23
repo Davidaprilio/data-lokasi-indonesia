@@ -1,0 +1,17 @@
+{
+    "code": "9201512001",
+    "name": "Maladuk",
+    "poscode": "98442",
+    "provinsi": {
+        "code": "96",
+        "name": "Papua Barat Daya"
+    },
+    "kabupaten": {
+        "code": "9201",
+        "name": "Sorong"
+    },
+    "kecamatan": {
+        "code": "920151",
+        "name": "Klasafet"
+    }
+}

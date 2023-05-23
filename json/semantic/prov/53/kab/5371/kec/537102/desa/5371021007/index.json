@@ -1,0 +1,17 @@
+{
+    "code": "5371021007",
+    "name": "Kolhua",
+    "poscode": "85146",
+    "provinsi": {
+        "code": "53",
+        "name": "Nusa Tenggara Timur (NTT)"
+    },
+    "kabupaten": {
+        "code": "5371",
+        "name": "Kupang"
+    },
+    "kecamatan": {
+        "code": "537102",
+        "name": "Maulafa"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "3171011004",
+    "name": "Petojo Selatan",
+    "poscode": "10160",
+    "provinsi": {
+        "code": "31",
+        "name": "DKI Jakarta"
+    },
+    "kabupaten": {
+        "code": "3171",
+        "name": "Jakarta Pusat"
+    },
+    "kecamatan": {
+        "code": "317101",
+        "name": "Gambir"
+    }
+}

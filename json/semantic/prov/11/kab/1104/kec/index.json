@@ -1,0 +1,100 @@
+[
+    {
+        "code": "110418",
+        "name": "Atu Lintang",
+        "count": {
+            "desa": 11
+        }
+    },
+    {
+        "code": "110403",
+        "name": "Bebesen",
+        "count": {
+            "desa": 28
+        }
+    },
+    {
+        "code": "110420",
+        "name": "Bies",
+        "count": {
+            "desa": 12
+        }
+    },
+    {
+        "code": "110408",
+        "name": "Bintang",
+        "count": {
+            "desa": 24
+        }
+    },
+    {
+        "code": "110413",
+        "name": "Celala",
+        "count": {
+            "desa": 17
+        }
+    },
+    {
+        "code": "110419",
+        "name": "Jagong Jeget",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "110411",
+        "name": "Kebayakan",
+        "count": {
+            "desa": 20
+        }
+    },
+    {
+        "code": "110410",
+        "name": "Ketol",
+        "count": {
+            "desa": 25
+        }
+    },
+    {
+        "code": "110412",
+        "name": "Kute Panang",
+        "count": {
+            "desa": 24
+        }
+    },
+    {
+        "code": "110417",
+        "name": "Laut Tawar (Lut Tawar)",
+        "count": {
+            "desa": 18
+        }
+    },
+    {
+        "code": "110401",
+        "name": "Linge",
+        "count": {
+            "desa": 26
+        }
+    },
+    {
+        "code": "110407",
+        "name": "Pegasing",
+        "count": {
+            "desa": 31
+        }
+    },
+    {
+        "code": "110421",
+        "name": "Rusip Antara",
+        "count": {
+            "desa": 16
+        }
+    },
+    {
+        "code": "110402",
+        "name": "Silih Nara",
+        "count": {
+            "desa": 33
+        }
+    }
+]

@@ -1,0 +1,17 @@
+{
+    "code": "7415032001",
+    "name": "Lapandewa Makmur",
+    "poscode": "93746",
+    "provinsi": {
+        "code": "74",
+        "name": "Sulawesi Tenggara"
+    },
+    "kabupaten": {
+        "code": "7415",
+        "name": "Buton Selatan"
+    },
+    "kecamatan": {
+        "code": "741503",
+        "name": "Lapandewa"
+    }
+}

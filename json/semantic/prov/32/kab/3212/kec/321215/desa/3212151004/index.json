@@ -1,0 +1,17 @@
+{
+    "code": "3212151004",
+    "name": "Karanganyar",
+    "poscode": "45213",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3212",
+        "name": "Indramayu"
+    },
+    "kecamatan": {
+        "code": "321215",
+        "name": "Indramayu"
+    }
+}

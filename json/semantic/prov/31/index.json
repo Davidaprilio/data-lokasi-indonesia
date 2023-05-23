@@ -1,0 +1,10 @@
+{
+    "code": "31",
+    "name": "DKI Jakarta",
+    "jumlah": {
+        "kota": 5,
+        "kabupaten": 1,
+        "kecamatan": 44,
+        "desa": 267
+    }
+}

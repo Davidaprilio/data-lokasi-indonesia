@@ -1,0 +1,10 @@
+{
+    "code": "3403",
+    "type": "Kabupaten",
+    "name": "Gunungkidul",
+    "fullname": "Kabupaten Gunungkidul",
+    "jumlah": {
+        "kecamatan": 18,
+        "desa": 144
+    }
+}

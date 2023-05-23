@@ -1,0 +1,17 @@
+{
+    "code": "3212282002",
+    "name": "Jayawinangun",
+    "poscode": "45280",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3212",
+        "name": "Indramayu"
+    },
+    "kecamatan": {
+        "code": "321228",
+        "name": "Kedokan Bunder"
+    }
+}

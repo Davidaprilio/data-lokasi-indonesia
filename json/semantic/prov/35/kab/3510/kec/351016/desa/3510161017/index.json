@@ -1,0 +1,17 @@
+{
+    "code": "3510161017",
+    "name": "Tamanbaru",
+    "poscode": "68416",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3510",
+        "name": "Banyuwangi"
+    },
+    "kecamatan": {
+        "code": "351016",
+        "name": "Banyuwangi"
+    }
+}

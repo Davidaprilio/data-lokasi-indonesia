@@ -1,0 +1,17 @@
+{
+    "code": "3371021008",
+    "name": "Kramat Utara",
+    "poscode": "56115",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3371",
+        "name": "Magelang"
+    },
+    "kecamatan": {
+        "code": "337102",
+        "name": "Magelang Utara"
+    }
+}

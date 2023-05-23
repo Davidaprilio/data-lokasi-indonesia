@@ -1,0 +1,10 @@
+{
+    "code": "3516",
+    "type": "Kabupaten",
+    "name": "Mojokerto",
+    "fullname": "Kabupaten Mojokerto",
+    "jumlah": {
+        "kecamatan": 18,
+        "desa": 304
+    }
+}

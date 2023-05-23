@@ -1,0 +1,17 @@
+{
+    "code": "5303072008",
+    "name": "Oemanu",
+    "poscode": "85613",
+    "provinsi": {
+        "code": "53",
+        "name": "Nusa Tenggara Timur (NTT)"
+    },
+    "kabupaten": {
+        "code": "5303",
+        "name": "Timor Tengah Utara"
+    },
+    "kecamatan": {
+        "code": "530307",
+        "name": "Biboki Anleu"
+    }
+}

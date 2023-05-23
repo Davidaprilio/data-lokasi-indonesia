@@ -1,0 +1,10 @@
+{
+    "code": "1110",
+    "type": "Kabupaten",
+    "name": "Aceh Singkil",
+    "fullname": "Kabupaten Aceh Singkil",
+    "jumlah": {
+        "kecamatan": 11,
+        "desa": 116
+    }
+}

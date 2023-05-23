@@ -1,0 +1,17 @@
+{
+    "code": "7201072016",
+    "name": "Lamo",
+    "poscode": "94751",
+    "provinsi": {
+        "code": "72",
+        "name": "Sulawesi Tengah"
+    },
+    "kabupaten": {
+        "code": "7201",
+        "name": "Banggai"
+    },
+    "kecamatan": {
+        "code": "720107",
+        "name": "Pagimana"
+    }
+}

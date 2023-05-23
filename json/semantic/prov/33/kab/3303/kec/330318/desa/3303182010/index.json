@@ -1,0 +1,17 @@
+{
+    "code": "3303182010",
+    "name": "Kertanegara",
+    "poscode": "53351",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3303",
+        "name": "Purbalingga"
+    },
+    "kecamatan": {
+        "code": "330318",
+        "name": "Kertanegara"
+    }
+}

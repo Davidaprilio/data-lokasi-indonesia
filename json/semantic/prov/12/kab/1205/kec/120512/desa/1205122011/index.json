@@ -1,0 +1,17 @@
+{
+    "code": "1205122011",
+    "name": "Banjar Jaya",
+    "poscode": "20850",
+    "provinsi": {
+        "code": "12",
+        "name": "Sumatera Utara"
+    },
+    "kabupaten": {
+        "code": "1205",
+        "name": "Langkat"
+    },
+    "kecamatan": {
+        "code": "120512",
+        "name": "Padang Tualang"
+    }
+}

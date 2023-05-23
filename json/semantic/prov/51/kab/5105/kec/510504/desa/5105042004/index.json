@@ -1,0 +1,17 @@
+{
+    "code": "5105042004",
+    "name": "Sulang",
+    "poscode": "80761",
+    "provinsi": {
+        "code": "51",
+        "name": "Bali"
+    },
+    "kabupaten": {
+        "code": "5105",
+        "name": "Klungkung"
+    },
+    "kecamatan": {
+        "code": "510504",
+        "name": "Dawan"
+    }
+}

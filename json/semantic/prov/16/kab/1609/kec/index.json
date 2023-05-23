@@ -1,0 +1,135 @@
+[
+    {
+        "code": "160903",
+        "name": "Banding Agung",
+        "count": {
+            "desa": 22
+        }
+    },
+    {
+        "code": "160917",
+        "name": "Buana Pemaca",
+        "count": {
+            "desa": 8
+        }
+    },
+    {
+        "code": "160909",
+        "name": "Buay Pemaca",
+        "count": {
+            "desa": 22
+        }
+    },
+    {
+        "code": "160912",
+        "name": "Buay Pematang Ribu Ranau Tengah",
+        "count": {
+            "desa": 22
+        }
+    },
+    {
+        "code": "160919",
+        "name": "Buay Rawan",
+        "count": {
+            "desa": 11
+        }
+    },
+    {
+        "code": "160907",
+        "name": "Buay Runjung",
+        "count": {
+            "desa": 14
+        }
+    },
+    {
+        "code": "160906",
+        "name": "Buay Sandang Aji",
+        "count": {
+            "desa": 16
+        }
+    },
+    {
+        "code": "160911",
+        "name": "Kisam Ilir",
+        "count": {
+            "desa": 9
+        }
+    },
+    {
+        "code": "160910",
+        "name": "Kisam Tinggi",
+        "count": {
+            "desa": 19
+        }
+    },
+    {
+        "code": "160908",
+        "name": "Mekakau Ilir",
+        "count": {
+            "desa": 15
+        }
+    },
+    {
+        "code": "160901",
+        "name": "Muara Dua (Muaradua)",
+        "count": {
+            "desa": 14
+        }
+    },
+    {
+        "code": "160904",
+        "name": "Muara Dua Kisam (Muaradua Kisam)",
+        "count": {
+            "desa": 18
+        }
+    },
+    {
+        "code": "160902",
+        "name": "Pulau Beringin",
+        "count": {
+            "desa": 13
+        }
+    },
+    {
+        "code": "160914",
+        "name": "Runjung Agung",
+        "count": {
+            "desa": 9
+        }
+    },
+    {
+        "code": "160905",
+        "name": "Simpang",
+        "count": {
+            "desa": 7
+        }
+    },
+    {
+        "code": "160916",
+        "name": "Sindang Danau",
+        "count": {
+            "desa": 7
+        }
+    },
+    {
+        "code": "160915",
+        "name": "Sungai Are",
+        "count": {
+            "desa": 9
+        }
+    },
+    {
+        "code": "160918",
+        "name": "Tiga Dihaji",
+        "count": {
+            "desa": 8
+        }
+    },
+    {
+        "code": "160913",
+        "name": "Warkuk Ranau Selatan",
+        "count": {
+            "desa": 16
+        }
+    }
+]

@@ -1,0 +1,10 @@
+{
+    "code": "1174",
+    "type": "Kota",
+    "name": "Langsa",
+    "fullname": "Kota Langsa",
+    "jumlah": {
+        "kecamatan": 5,
+        "desa": 66
+    }
+}

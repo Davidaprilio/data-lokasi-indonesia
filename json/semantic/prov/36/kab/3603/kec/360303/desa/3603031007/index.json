@@ -1,0 +1,17 @@
+{
+    "code": "3603031007",
+    "name": "Kadu Agung",
+    "poscode": "15721",
+    "provinsi": {
+        "code": "36",
+        "name": "Banten"
+    },
+    "kabupaten": {
+        "code": "3603",
+        "name": "Tangerang"
+    },
+    "kecamatan": {
+        "code": "360303",
+        "name": "Tigaraksa"
+    }
+}

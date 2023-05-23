@@ -1,0 +1,17 @@
+{
+    "code": "5304012008",
+    "name": "Dirun",
+    "poscode": "85772",
+    "provinsi": {
+        "code": "53",
+        "name": "Nusa Tenggara Timur (NTT)"
+    },
+    "kabupaten": {
+        "code": "5304",
+        "name": "Belu"
+    },
+    "kecamatan": {
+        "code": "530401",
+        "name": "Lamaknen"
+    }
+}

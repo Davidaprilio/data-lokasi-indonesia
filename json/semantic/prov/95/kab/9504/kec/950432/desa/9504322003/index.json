@@ -1,0 +1,17 @@
+{
+    "code": "9504322003",
+    "name": "Tagi",
+    "poscode": "99017",
+    "provinsi": {
+        "code": "95",
+        "name": "Papua Pegunungan"
+    },
+    "kabupaten": {
+        "code": "9504",
+        "name": "Tolikara"
+    },
+    "kecamatan": {
+        "code": "950432",
+        "name": "Tagineri"
+    }
+}

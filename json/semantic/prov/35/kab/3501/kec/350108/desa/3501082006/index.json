@@ -1,0 +1,17 @@
+{
+    "code": "3501082006",
+    "name": "Watupatok",
+    "poscode": "63583",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3501",
+        "name": "Pacitan"
+    },
+    "kecamatan": {
+        "code": "350108",
+        "name": "Bandar"
+    }
+}

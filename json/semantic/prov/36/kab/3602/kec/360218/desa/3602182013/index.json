@@ -1,0 +1,17 @@
+{
+    "code": "3602182013",
+    "name": "Mekar Agung",
+    "poscode": "42357",
+    "provinsi": {
+        "code": "36",
+        "name": "Banten"
+    },
+    "kabupaten": {
+        "code": "3602",
+        "name": "Lebak"
+    },
+    "kecamatan": {
+        "code": "360218",
+        "name": "Cibadak"
+    }
+}

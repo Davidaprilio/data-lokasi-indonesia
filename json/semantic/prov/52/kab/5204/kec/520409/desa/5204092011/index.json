@@ -1,0 +1,17 @@
+{
+    "code": "5204092011",
+    "name": "Batu Bangka",
+    "poscode": "84381",
+    "provinsi": {
+        "code": "52",
+        "name": "Nusa Tenggara Barat (NTB)"
+    },
+    "kabupaten": {
+        "code": "5204",
+        "name": "Sumbawa"
+    },
+    "kecamatan": {
+        "code": "520409",
+        "name": "Moyo Hilir"
+    }
+}

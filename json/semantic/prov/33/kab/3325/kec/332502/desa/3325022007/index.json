@@ -1,0 +1,17 @@
+{
+    "code": "3325022007",
+    "name": "Toso",
+    "poscode": "51254",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3325",
+        "name": "Batang"
+    },
+    "kecamatan": {
+        "code": "332502",
+        "name": "Bandar"
+    }
+}

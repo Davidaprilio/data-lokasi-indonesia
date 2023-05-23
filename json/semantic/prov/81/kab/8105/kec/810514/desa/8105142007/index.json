@@ -1,0 +1,17 @@
+{
+    "code": "8105142007",
+    "name": "Lian Tasik",
+    "poscode": "97598",
+    "provinsi": {
+        "code": "81",
+        "name": "Maluku"
+    },
+    "kabupaten": {
+        "code": "8105",
+        "name": "Seram Bagian Timur"
+    },
+    "kecamatan": {
+        "code": "810514",
+        "name": "Siritaun Wida Timur"
+    }
+}

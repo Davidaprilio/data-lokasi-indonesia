@@ -1,0 +1,17 @@
+{
+    "code": "3203302005",
+    "name": "Sukajaya",
+    "poscode": "43273",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3203",
+        "name": "Cianjur"
+    },
+    "kecamatan": {
+        "code": "320330",
+        "name": "Leles"
+    }
+}

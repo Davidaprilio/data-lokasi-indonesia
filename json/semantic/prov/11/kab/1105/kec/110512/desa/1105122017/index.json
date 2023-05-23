@@ -1,0 +1,17 @@
+{
+    "code": "1105122017",
+    "name": "Babah Krueng Manggie",
+    "poscode": "23684",
+    "provinsi": {
+        "code": "11",
+        "name": "Aceh (NAD)"
+    },
+    "kabupaten": {
+        "code": "1105",
+        "name": "Aceh Barat"
+    },
+    "kecamatan": {
+        "code": "110512",
+        "name": "Panton Reu"
+    }
+}

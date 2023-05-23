@@ -1,0 +1,32 @@
+[
+    {
+        "code": "3273101005",
+        "name": "Cibadak",
+        "poscode": "40241"
+    },
+    {
+        "code": "3273101003",
+        "name": "Karanganyar",
+        "poscode": "40241"
+    },
+    {
+        "code": "3273101001",
+        "name": "Karasak",
+        "poscode": "40243"
+    },
+    {
+        "code": "3273101002",
+        "name": "Nyengseret",
+        "poscode": "40242"
+    },
+    {
+        "code": "3273101004",
+        "name": "Panjunan",
+        "poscode": "40242"
+    },
+    {
+        "code": "3273101006",
+        "name": "Pelindung Hewan",
+        "poscode": "40243"
+    }
+]

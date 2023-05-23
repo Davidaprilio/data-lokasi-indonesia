@@ -1,0 +1,17 @@
+{
+    "code": "3323102002",
+    "name": "Jamusan",
+    "poscode": "56256",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3323",
+        "name": "Temanggung"
+    },
+    "kecamatan": {
+        "code": "332310",
+        "name": "Jumo"
+    }
+}

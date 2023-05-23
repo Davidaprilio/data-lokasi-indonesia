@@ -1,0 +1,17 @@
+{
+    "code": "1410052019",
+    "name": "Tanjung Kulim",
+    "poscode": "28752",
+    "provinsi": {
+        "code": "14",
+        "name": "Riau"
+    },
+    "kabupaten": {
+        "code": "1410",
+        "name": "Kepulauan Meranti"
+    },
+    "kecamatan": {
+        "code": "141005",
+        "name": "Merbau"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "5202042015",
+    "name": "Ketara",
+    "poscode": "83573",
+    "provinsi": {
+        "code": "52",
+        "name": "Nusa Tenggara Barat (NTB)"
+    },
+    "kabupaten": {
+        "code": "5202",
+        "name": "Lombok Tengah"
+    },
+    "kecamatan": {
+        "code": "520204",
+        "name": "Pujut"
+    }
+}

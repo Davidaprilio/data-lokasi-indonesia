@@ -1,0 +1,17 @@
+{
+    "code": "3312182001",
+    "name": "Domas",
+    "poscode": "57697",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3312",
+        "name": "Wonogiri"
+    },
+    "kecamatan": {
+        "code": "331218",
+        "name": "Bulukerto"
+    }
+}

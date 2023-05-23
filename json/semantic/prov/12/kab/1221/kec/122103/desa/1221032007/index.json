@@ -1,0 +1,17 @@
+{
+    "code": "1221032007",
+    "name": "Sigading",
+    "poscode": "22743",
+    "provinsi": {
+        "code": "12",
+        "name": "Sumatera Utara"
+    },
+    "kabupaten": {
+        "code": "1221",
+        "name": "Padang Lawas"
+    },
+    "kecamatan": {
+        "code": "122103",
+        "name": "Huristak"
+    }
+}

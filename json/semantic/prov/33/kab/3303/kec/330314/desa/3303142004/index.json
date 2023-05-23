@@ -1,0 +1,17 @@
+{
+    "code": "3303142004",
+    "name": "Banjaran",
+    "poscode": "53362",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3303",
+        "name": "Purbalingga"
+    },
+    "kecamatan": {
+        "code": "330314",
+        "name": "Bojongsari"
+    }
+}

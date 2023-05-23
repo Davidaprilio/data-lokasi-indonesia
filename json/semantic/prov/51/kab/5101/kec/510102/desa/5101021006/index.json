@@ -1,0 +1,17 @@
+{
+    "code": "5101021006",
+    "name": "Tegalcangkring (Tegal Cangkring)",
+    "poscode": "82261",
+    "provinsi": {
+        "code": "51",
+        "name": "Bali"
+    },
+    "kabupaten": {
+        "code": "5101",
+        "name": "Jembrana"
+    },
+    "kecamatan": {
+        "code": "510102",
+        "name": "Mendoyo"
+    }
+}

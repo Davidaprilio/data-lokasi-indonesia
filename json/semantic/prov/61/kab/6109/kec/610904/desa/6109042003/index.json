@@ -1,0 +1,17 @@
+{
+    "code": "6109042003",
+    "name": "Lembah Beringin",
+    "poscode": "79585",
+    "provinsi": {
+        "code": "61",
+        "name": "Kalimantan Barat"
+    },
+    "kabupaten": {
+        "code": "6109",
+        "name": "Sekadau"
+    },
+    "kecamatan": {
+        "code": "610904",
+        "name": "Nanga Mahap"
+    }
+}

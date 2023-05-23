@@ -1,0 +1,17 @@
+{
+    "code": "3174101003",
+    "name": "Petukangan Utara",
+    "poscode": "12260",
+    "provinsi": {
+        "code": "31",
+        "name": "DKI Jakarta"
+    },
+    "kabupaten": {
+        "code": "3174",
+        "name": "Jakarta Selatan"
+    },
+    "kecamatan": {
+        "code": "317410",
+        "name": "Pesanggrahan"
+    }
+}

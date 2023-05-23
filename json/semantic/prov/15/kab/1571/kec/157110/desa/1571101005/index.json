@@ -1,0 +1,17 @@
+{
+    "code": "1571101005",
+    "name": "Solok Sipin",
+    "poscode": "36121",
+    "provinsi": {
+        "code": "15",
+        "name": "Jambi"
+    },
+    "kabupaten": {
+        "code": "1571",
+        "name": "Jambi"
+    },
+    "kecamatan": {
+        "code": "157110",
+        "name": "Danau Sipin"
+    }
+}

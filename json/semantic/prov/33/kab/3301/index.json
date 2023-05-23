@@ -1,0 +1,10 @@
+{
+    "code": "3301",
+    "type": "Kabupaten",
+    "name": "Cilacap",
+    "fullname": "Kabupaten Cilacap",
+    "jumlah": {
+        "kecamatan": 24,
+        "desa": 284
+    }
+}

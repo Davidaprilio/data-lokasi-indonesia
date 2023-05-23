@@ -1,0 +1,17 @@
+{
+    "code": "3213212001",
+    "name": "Tegalurung",
+    "poscode": "41254",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3213",
+        "name": "Subang"
+    },
+    "kecamatan": {
+        "code": "321321",
+        "name": "Legonkulon"
+    }
+}

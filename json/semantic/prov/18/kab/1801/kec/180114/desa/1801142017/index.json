@@ -1,0 +1,17 @@
+{
+    "code": "1801142017",
+    "name": "Wai Sidomukti",
+    "poscode": "35596",
+    "provinsi": {
+        "code": "18",
+        "name": "Lampung"
+    },
+    "kabupaten": {
+        "code": "1801",
+        "name": "Lampung Selatan"
+    },
+    "kecamatan": {
+        "code": "180114",
+        "name": "Ketapang"
+    }
+}

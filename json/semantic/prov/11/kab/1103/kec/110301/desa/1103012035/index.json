@@ -1,0 +1,17 @@
+{
+    "code": "1103012035",
+    "name": "Gampong Baro (Kampung Baro)",
+    "poscode": "24455",
+    "provinsi": {
+        "code": "11",
+        "name": "Aceh (NAD)"
+    },
+    "kabupaten": {
+        "code": "1103",
+        "name": "Aceh Timur"
+    },
+    "kecamatan": {
+        "code": "110301",
+        "name": "Darul Aman"
+    }
+}

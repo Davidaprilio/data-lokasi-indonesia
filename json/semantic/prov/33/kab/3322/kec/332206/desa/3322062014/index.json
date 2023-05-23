@@ -1,0 +1,17 @@
+{
+    "code": "3322062014",
+    "name": "Karanganyar",
+    "poscode": "50773",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3322",
+        "name": "Semarang"
+    },
+    "kecamatan": {
+        "code": "332206",
+        "name": "Tuntang"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "3214022004",
+    "name": "Cirende",
+    "poscode": "41180",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3214",
+        "name": "Purwakarta"
+    },
+    "kecamatan": {
+        "code": "321402",
+        "name": "Campaka"
+    }
+}

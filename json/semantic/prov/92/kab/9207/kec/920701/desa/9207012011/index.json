@@ -1,0 +1,17 @@
+{
+    "code": "9207012011",
+    "name": "Iriati",
+    "poscode": "98346",
+    "provinsi": {
+        "code": "92",
+        "name": "Papua Barat"
+    },
+    "kabupaten": {
+        "code": "9207",
+        "name": "Teluk Wondama"
+    },
+    "kecamatan": {
+        "code": "920701",
+        "name": "Wasior"
+    }
+}

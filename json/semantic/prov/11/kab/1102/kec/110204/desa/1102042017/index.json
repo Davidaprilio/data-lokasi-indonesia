@@ -1,0 +1,17 @@
+{
+    "code": "1102042017",
+    "name": "Batu Mbulan Mbaru (Batum Bulan Baru)",
+    "poscode": "24664",
+    "provinsi": {
+        "code": "11",
+        "name": "Aceh (NAD)"
+    },
+    "kabupaten": {
+        "code": "1102",
+        "name": "Aceh Tenggara"
+    },
+    "kecamatan": {
+        "code": "110204",
+        "name": "Babussalam"
+    }
+}

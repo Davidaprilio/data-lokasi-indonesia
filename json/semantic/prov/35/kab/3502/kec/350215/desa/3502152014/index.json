@@ -1,0 +1,17 @@
+{
+    "code": "3502152014",
+    "name": "Gegeran",
+    "poscode": "63453",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3502",
+        "name": "Ponorogo"
+    },
+    "kecamatan": {
+        "code": "350215",
+        "name": "Sukorejo"
+    }
+}

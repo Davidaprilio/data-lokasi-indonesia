@@ -1,0 +1,17 @@
+{
+    "code": "1808122006",
+    "name": "Tegal Mukti",
+    "poscode": "34774",
+    "provinsi": {
+        "code": "18",
+        "name": "Lampung"
+    },
+    "kabupaten": {
+        "code": "1808",
+        "name": "Way Kanan"
+    },
+    "kecamatan": {
+        "code": "180812",
+        "name": "Negeri Besar"
+    }
+}

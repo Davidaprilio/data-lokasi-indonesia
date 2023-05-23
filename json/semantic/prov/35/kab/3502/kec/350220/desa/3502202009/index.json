@@ -1,0 +1,17 @@
+{
+    "code": "3502202009",
+    "name": "Blembem",
+    "poscode": "63456",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3502",
+        "name": "Ponorogo"
+    },
+    "kecamatan": {
+        "code": "350220",
+        "name": "Jambon"
+    }
+}

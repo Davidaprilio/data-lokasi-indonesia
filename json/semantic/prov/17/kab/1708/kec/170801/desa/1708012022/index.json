@@ -1,0 +1,17 @@
+{
+    "code": "1708012022",
+    "name": "Talang Sawah",
+    "poscode": "39374",
+    "provinsi": {
+        "code": "17",
+        "name": "Bengkulu"
+    },
+    "kabupaten": {
+        "code": "1708",
+        "name": "Kepahiang"
+    },
+    "kecamatan": {
+        "code": "170801",
+        "name": "Bermani Ilir"
+    }
+}

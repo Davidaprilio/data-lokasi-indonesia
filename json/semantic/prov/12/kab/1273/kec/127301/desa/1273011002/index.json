@@ -1,0 +1,17 @@
+{
+    "code": "1273011002",
+    "name": "Angin Nauli",
+    "poscode": "22511",
+    "provinsi": {
+        "code": "12",
+        "name": "Sumatera Utara"
+    },
+    "kabupaten": {
+        "code": "1273",
+        "name": "Sibolga"
+    },
+    "kecamatan": {
+        "code": "127301",
+        "name": "Sibolga Utara"
+    }
+}

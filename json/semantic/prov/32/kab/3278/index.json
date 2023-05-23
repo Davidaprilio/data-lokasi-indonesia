@@ -1,0 +1,10 @@
+{
+    "code": "3278",
+    "type": "Kota",
+    "name": "Tasikmalaya",
+    "fullname": "Kota Tasikmalaya",
+    "jumlah": {
+        "kecamatan": 10,
+        "desa": 69
+    }
+}

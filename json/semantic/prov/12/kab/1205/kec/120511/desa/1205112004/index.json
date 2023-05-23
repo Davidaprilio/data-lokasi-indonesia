@@ -1,0 +1,17 @@
+{
+    "code": "1205112004",
+    "name": "Lalang",
+    "poscode": "20853",
+    "provinsi": {
+        "code": "12",
+        "name": "Sumatera Utara"
+    },
+    "kabupaten": {
+        "code": "1205",
+        "name": "Langkat"
+    },
+    "kecamatan": {
+        "code": "120511",
+        "name": "Tanjung Pura (Tanjungpura)"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "7201031010",
+    "name": "Mendono",
+    "poscode": "94761",
+    "provinsi": {
+        "code": "72",
+        "name": "Sulawesi Tengah"
+    },
+    "kabupaten": {
+        "code": "7201",
+        "name": "Banggai"
+    },
+    "kecamatan": {
+        "code": "720103",
+        "name": "Kintom"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "3571031015",
+    "name": "Burengan",
+    "poscode": "64131",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3571",
+        "name": "Kediri"
+    },
+    "kecamatan": {
+        "code": "357103",
+        "name": "Pesantren"
+    }
+}

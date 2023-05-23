@@ -1,0 +1,17 @@
+{
+    "code": "5302312005",
+    "name": "Pubasu",
+    "poscode": "85552",
+    "provinsi": {
+        "code": "53",
+        "name": "Nusa Tenggara Timur (NTT)"
+    },
+    "kabupaten": {
+        "code": "5302",
+        "name": "Timor Tengah Selatan"
+    },
+    "kecamatan": {
+        "code": "530231",
+        "name": "Tobu"
+    }
+}

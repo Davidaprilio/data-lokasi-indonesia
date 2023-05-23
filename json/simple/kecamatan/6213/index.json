@@ -1,0 +1,72 @@
+[
+    {
+        "code": "621304",
+        "name": "Awang",
+        "count": {
+            "desa": 11
+        }
+    },
+    {
+        "code": "621302",
+        "name": "Banua Lima",
+        "count": {
+            "desa": 7
+        }
+    },
+    {
+        "code": "621305",
+        "name": "Dusun Tengah",
+        "count": {
+            "desa": 9
+        }
+    },
+    {
+        "code": "621301",
+        "name": "Dusun Timur",
+        "count": {
+            "desa": 17
+        }
+    },
+    {
+        "code": "621310",
+        "name": "Karusen Janang",
+        "count": {
+            "desa": 7
+        }
+    },
+    {
+        "code": "621307",
+        "name": "Paju Epat",
+        "count": {
+            "desa": 9
+        }
+    },
+    {
+        "code": "621309",
+        "name": "Paku",
+        "count": {
+            "desa": 12
+        }
+    },
+    {
+        "code": "621303",
+        "name": "Patangkep Tutui",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "621306",
+        "name": "Pematang Karau",
+        "count": {
+            "desa": 13
+        }
+    },
+    {
+        "code": "621308",
+        "name": "Raren Batuah",
+        "count": {
+            "desa": 9
+        }
+    }
+]

@@ -1,0 +1,17 @@
+{
+    "code": "2103212001",
+    "name": "Pulau Tiga",
+    "poscode": "29786",
+    "provinsi": {
+        "code": "21",
+        "name": "Kepulauan Riau"
+    },
+    "kabupaten": {
+        "code": "2103",
+        "name": "Natuna"
+    },
+    "kecamatan": {
+        "code": "210321",
+        "name": "Pulau Tiga Barat"
+    }
+}

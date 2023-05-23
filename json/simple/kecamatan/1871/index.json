@@ -1,0 +1,142 @@
+[
+    {
+        "code": "187120",
+        "name": "Bumi Waras",
+        "count": {
+            "desa": 5
+        }
+    },
+    {
+        "code": "187117",
+        "name": "Enggal",
+        "count": {
+            "desa": 6
+        }
+    },
+    {
+        "code": "187118",
+        "name": "Kedamaian",
+        "count": {
+            "desa": 7
+        }
+    },
+    {
+        "code": "187101",
+        "name": "Kedaton",
+        "count": {
+            "desa": 7
+        }
+    },
+    {
+        "code": "187113",
+        "name": "Kemiling",
+        "count": {
+            "desa": 9
+        }
+    },
+    {
+        "code": "187114",
+        "name": "Labuhan Ratu",
+        "count": {
+            "desa": 6
+        }
+    },
+    {
+        "code": "187116",
+        "name": "Langkapura",
+        "count": {
+            "desa": 5
+        }
+    },
+    {
+        "code": "187104",
+        "name": "Panjang",
+        "count": {
+            "desa": 8
+        }
+    },
+    {
+        "code": "187110",
+        "name": "Rajabasa",
+        "count": {
+            "desa": 7
+        }
+    },
+    {
+        "code": "187112",
+        "name": "Sukabumi",
+        "count": {
+            "desa": 7
+        }
+    },
+    {
+        "code": "187102",
+        "name": "Sukarame",
+        "count": {
+            "desa": 6
+        }
+    },
+    {
+        "code": "187111",
+        "name": "Tanjung Senang",
+        "count": {
+            "desa": 5
+        }
+    },
+    {
+        "code": "187103",
+        "name": "Tanjungkarang Barat (Tanjung Karang Barat)",
+        "count": {
+            "desa": 7
+        }
+    },
+    {
+        "code": "187106",
+        "name": "Tanjungkarang Pusat (Tanjung Karang Pusat)",
+        "count": {
+            "desa": 7
+        }
+    },
+    {
+        "code": "187105",
+        "name": "Tanjungkarang Timur (Tanjung Karang Timur)",
+        "count": {
+            "desa": 5
+        }
+    },
+    {
+        "code": "187108",
+        "name": "Telukbetung Barat",
+        "count": {
+            "desa": 5
+        }
+    },
+    {
+        "code": "187107",
+        "name": "Telukbetung Selatan",
+        "count": {
+            "desa": 6
+        }
+    },
+    {
+        "code": "187119",
+        "name": "Telukbetung Timur",
+        "count": {
+            "desa": 6
+        }
+    },
+    {
+        "code": "187109",
+        "name": "Telukbetung Utara",
+        "count": {
+            "desa": 6
+        }
+    },
+    {
+        "code": "187115",
+        "name": "Way Halim",
+        "count": {
+            "desa": 6
+        }
+    }
+]

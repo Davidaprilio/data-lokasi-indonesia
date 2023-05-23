@@ -1,0 +1,17 @@
+{
+    "code": "6502142006",
+    "name": "Long Jalan",
+    "poscode": "77553",
+    "provinsi": {
+        "code": "65",
+        "name": "Kalimantan Utara"
+    },
+    "kabupaten": {
+        "code": "6502",
+        "name": "Malinau"
+    },
+    "kecamatan": {
+        "code": "650214",
+        "name": "Malinau Selatan Hulu"
+    }
+}

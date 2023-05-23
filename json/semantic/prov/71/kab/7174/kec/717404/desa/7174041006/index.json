@@ -1,0 +1,17 @@
+{
+    "code": "7174041006",
+    "name": "Mongkonai Barat",
+    "poscode": "95716",
+    "provinsi": {
+        "code": "71",
+        "name": "Sulawesi Utara"
+    },
+    "kabupaten": {
+        "code": "7174",
+        "name": "Kotamobagu"
+    },
+    "kecamatan": {
+        "code": "717404",
+        "name": "Kotamobagu Barat"
+    }
+}

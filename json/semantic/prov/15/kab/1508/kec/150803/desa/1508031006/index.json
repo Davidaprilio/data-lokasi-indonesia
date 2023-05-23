@@ -1,0 +1,17 @@
+{
+    "code": "1508031006",
+    "name": "Tanjung Gedang",
+    "poscode": "37214",
+    "provinsi": {
+        "code": "15",
+        "name": "Jambi"
+    },
+    "kabupaten": {
+        "code": "1508",
+        "name": "Bungo"
+    },
+    "kecamatan": {
+        "code": "150803",
+        "name": "Pasar Muaro Bungo (Pasar Muara Bungo)"
+    }
+}

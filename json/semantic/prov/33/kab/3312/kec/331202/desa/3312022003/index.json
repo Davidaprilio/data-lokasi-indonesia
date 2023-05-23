@@ -1,0 +1,17 @@
+{
+    "code": "3312022003",
+    "name": "Tlogoharjo",
+    "poscode": "57678",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3312",
+        "name": "Wonogiri"
+    },
+    "kecamatan": {
+        "code": "331202",
+        "name": "Giritontro"
+    }
+}

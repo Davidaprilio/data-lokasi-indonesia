@@ -1,0 +1,17 @@
+{
+    "code": "6101122006",
+    "name": "Sempadian",
+    "poscode": "79468",
+    "provinsi": {
+        "code": "61",
+        "name": "Kalimantan Barat"
+    },
+    "kabupaten": {
+        "code": "6101",
+        "name": "Sambas"
+    },
+    "kecamatan": {
+        "code": "610112",
+        "name": "Tekarang"
+    }
+}

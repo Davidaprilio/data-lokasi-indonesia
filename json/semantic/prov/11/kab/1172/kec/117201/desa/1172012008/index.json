@@ -1,0 +1,17 @@
+{
+    "code": "1172012008",
+    "name": "Kuta Ateuh (Kota Atas)",
+    "poscode": "23511",
+    "provinsi": {
+        "code": "11",
+        "name": "Aceh (NAD)"
+    },
+    "kabupaten": {
+        "code": "1172",
+        "name": "Sabang"
+    },
+    "kecamatan": {
+        "code": "117201",
+        "name": "Sukakarya"
+    }
+}

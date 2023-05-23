@@ -1,0 +1,17 @@
+{
+    "code": "1214192001",
+    "name": "Sambulu",
+    "poscode": "22867",
+    "provinsi": {
+        "code": "12",
+        "name": "Sumatera Utara"
+    },
+    "kabupaten": {
+        "code": "1214",
+        "name": "Nias Selatan"
+    },
+    "kecamatan": {
+        "code": "121419",
+        "name": "Ulunoyo"
+    }
+}

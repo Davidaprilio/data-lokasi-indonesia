@@ -1,0 +1,17 @@
+{
+    "code": "8107092008",
+    "name": "Jorang",
+    "poscode": "97666",
+    "provinsi": {
+        "code": "81",
+        "name": "Maluku"
+    },
+    "kabupaten": {
+        "code": "8107",
+        "name": "Kepulauan Aru"
+    },
+    "kecamatan": {
+        "code": "810709",
+        "name": "Aru Selatan Timur"
+    }
+}

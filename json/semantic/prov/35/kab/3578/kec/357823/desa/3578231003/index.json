@@ -1,0 +1,17 @@
+{
+    "code": "3578231003",
+    "name": "Kebonsari",
+    "poscode": "60233",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3578",
+        "name": "Surabaya"
+    },
+    "kecamatan": {
+        "code": "357823",
+        "name": "Jambangan"
+    }
+}

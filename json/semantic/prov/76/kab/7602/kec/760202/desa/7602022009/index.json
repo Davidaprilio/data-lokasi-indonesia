@@ -1,0 +1,17 @@
+{
+    "code": "7602022009",
+    "name": "Bela",
+    "poscode": "91551",
+    "provinsi": {
+        "code": "76",
+        "name": "Sulawesi Barat"
+    },
+    "kabupaten": {
+        "code": "7602",
+        "name": "Mamuju"
+    },
+    "kecamatan": {
+        "code": "760202",
+        "name": "Tapalang"
+    }
+}

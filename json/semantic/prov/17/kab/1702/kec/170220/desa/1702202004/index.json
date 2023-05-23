@@ -1,0 +1,17 @@
+{
+    "code": "1702202004",
+    "name": "Taba Padang",
+    "poscode": "39182",
+    "provinsi": {
+        "code": "17",
+        "name": "Bengkulu"
+    },
+    "kabupaten": {
+        "code": "1702",
+        "name": "Rejang Lebong"
+    },
+    "kecamatan": {
+        "code": "170220",
+        "name": "Binduriang"
+    }
+}

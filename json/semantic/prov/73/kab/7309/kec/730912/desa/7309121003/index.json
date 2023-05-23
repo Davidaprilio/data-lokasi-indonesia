@@ -1,0 +1,17 @@
+{
+    "code": "7309121003",
+    "name": "Soreang",
+    "poscode": "90513",
+    "provinsi": {
+        "code": "73",
+        "name": "Sulawesi Selatan"
+    },
+    "kabupaten": {
+        "code": "7309",
+        "name": "Maros"
+    },
+    "kecamatan": {
+        "code": "730912",
+        "name": "Lau"
+    }
+}

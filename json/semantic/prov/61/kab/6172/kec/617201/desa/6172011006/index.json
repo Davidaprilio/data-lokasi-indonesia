@@ -1,0 +1,17 @@
+{
+    "code": "6172011006",
+    "name": "Sei/Sungai Wie",
+    "poscode": "79115",
+    "provinsi": {
+        "code": "61",
+        "name": "Kalimantan Barat"
+    },
+    "kabupaten": {
+        "code": "6172",
+        "name": "Singkawang"
+    },
+    "kecamatan": {
+        "code": "617201",
+        "name": "Singkawang Tengah"
+    }
+}

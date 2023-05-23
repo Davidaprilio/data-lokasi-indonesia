@@ -1,0 +1,17 @@
+{
+    "code": "6108042016",
+    "name": "Kayu Tanam",
+    "poscode": "79355",
+    "provinsi": {
+        "code": "61",
+        "name": "Kalimantan Barat"
+    },
+    "kabupaten": {
+        "code": "6108",
+        "name": "Landak"
+    },
+    "kecamatan": {
+        "code": "610804",
+        "name": "Mandor"
+    }
+}

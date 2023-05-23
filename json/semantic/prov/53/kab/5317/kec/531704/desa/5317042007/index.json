@@ -1,0 +1,17 @@
+{
+    "code": "5317042007",
+    "name": "Lenang",
+    "poscode": "87283",
+    "provinsi": {
+        "code": "53",
+        "name": "Nusa Tenggara Timur (NTT)"
+    },
+    "kabupaten": {
+        "code": "5317",
+        "name": "Sumba Tengah"
+    },
+    "kecamatan": {
+        "code": "531704",
+        "name": "Umbu Ratu Nggay"
+    }
+}

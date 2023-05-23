@@ -1,0 +1,17 @@
+{
+    "code": "1502192004",
+    "name": "Lantak Seribu",
+    "poscode": "37351",
+    "provinsi": {
+        "code": "15",
+        "name": "Jambi"
+    },
+    "kabupaten": {
+        "code": "1502",
+        "name": "Merangin"
+    },
+    "kecamatan": {
+        "code": "150219",
+        "name": "Renah Pamenang (Renah Pemenang)"
+    }
+}

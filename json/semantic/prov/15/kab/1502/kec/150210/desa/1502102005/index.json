@@ -1,0 +1,17 @@
+{
+    "code": "1502102005",
+    "name": "Bukit Beringin",
+    "poscode": "37315",
+    "provinsi": {
+        "code": "15",
+        "name": "Jambi"
+    },
+    "kabupaten": {
+        "code": "1502",
+        "name": "Merangin"
+    },
+    "kecamatan": {
+        "code": "150210",
+        "name": "Bangko Barat"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "1301042003",
+    "name": "Taluak",
+    "poscode": "25661",
+    "provinsi": {
+        "code": "13",
+        "name": "Sumatera Barat"
+    },
+    "kabupaten": {
+        "code": "1301",
+        "name": "Pesisir Selatan"
+    },
+    "kecamatan": {
+        "code": "130104",
+        "name": "Batang Kapas"
+    }
+}

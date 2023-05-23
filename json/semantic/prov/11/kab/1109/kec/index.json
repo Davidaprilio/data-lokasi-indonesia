@@ -1,0 +1,72 @@
+[
+    {
+        "code": "110908",
+        "name": "Alapan (Alafan)",
+        "count": {
+            "desa": 8
+        }
+    },
+    {
+        "code": "110902",
+        "name": "Salang",
+        "count": {
+            "desa": 16
+        }
+    },
+    {
+        "code": "110906",
+        "name": "Simeulue Barat (Simeuleu Barat)",
+        "count": {
+            "desa": 14
+        }
+    },
+    {
+        "code": "110910",
+        "name": "Simeulue Cut",
+        "count": {
+            "desa": 8
+        }
+    },
+    {
+        "code": "110901",
+        "name": "Simeulue Tengah (Simeuleu Tengah)",
+        "count": {
+            "desa": 16
+        }
+    },
+    {
+        "code": "110904",
+        "name": "Simeulue Timur (Simeuleu Timur)",
+        "count": {
+            "desa": 17
+        }
+    },
+    {
+        "code": "110905",
+        "name": "Teluk Dalam",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "110903",
+        "name": "Teupah Barat",
+        "count": {
+            "desa": 18
+        }
+    },
+    {
+        "code": "110907",
+        "name": "Teupah Selatan",
+        "count": {
+            "desa": 19
+        }
+    },
+    {
+        "code": "110909",
+        "name": "Teupah Tengah",
+        "count": {
+            "desa": 12
+        }
+    }
+]

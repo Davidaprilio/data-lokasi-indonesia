@@ -1,0 +1,17 @@
+{
+    "code": "1472011006",
+    "name": "Purnama",
+    "poscode": "28823",
+    "provinsi": {
+        "code": "14",
+        "name": "Riau"
+    },
+    "kabupaten": {
+        "code": "1472",
+        "name": "Dumai"
+    },
+    "kecamatan": {
+        "code": "147201",
+        "name": "Dumai Barat"
+    }
+}

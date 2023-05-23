@@ -1,0 +1,17 @@
+{
+    "code": "3520112009",
+    "name": "Ronowijayan",
+    "poscode": "63392",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3520",
+        "name": "Magetan"
+    },
+    "kecamatan": {
+        "code": "352011",
+        "name": "Maospati"
+    }
+}

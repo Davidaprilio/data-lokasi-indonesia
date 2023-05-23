@@ -1,0 +1,17 @@
+{
+    "code": "7602132002",
+    "name": "Lebani",
+    "poscode": "91552",
+    "provinsi": {
+        "code": "76",
+        "name": "Sulawesi Barat"
+    },
+    "kabupaten": {
+        "code": "7602",
+        "name": "Mamuju"
+    },
+    "kecamatan": {
+        "code": "760213",
+        "name": "Tapalang Barat"
+    }
+}

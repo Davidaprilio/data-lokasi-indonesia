@@ -1,0 +1,10 @@
+{
+    "code": "1305",
+    "type": "Kabupaten",
+    "name": "Padang Pariaman",
+    "fullname": "Kabupaten Padang Pariaman",
+    "jumlah": {
+        "kecamatan": 17,
+        "desa": 103
+    }
+}

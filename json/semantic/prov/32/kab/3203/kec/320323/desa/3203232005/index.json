@@ -1,0 +1,17 @@
+{
+    "code": "3203232005",
+    "name": "Mekarjaya",
+    "poscode": "43275",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3203",
+        "name": "Cianjur"
+    },
+    "kecamatan": {
+        "code": "320323",
+        "name": "Cidaun"
+    }
+}

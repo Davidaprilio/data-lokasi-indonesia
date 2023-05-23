@@ -1,0 +1,58 @@
+[
+    {
+        "code": "190106",
+        "name": "Bakam",
+        "count": {
+            "desa": 9
+        }
+    },
+    {
+        "code": "190102",
+        "name": "Belinyu",
+        "count": {
+            "desa": 12
+        }
+    },
+    {
+        "code": "190104",
+        "name": "Mendo Barat",
+        "count": {
+            "desa": 15
+        }
+    },
+    {
+        "code": "190103",
+        "name": "Merawang",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "190105",
+        "name": "Pemali",
+        "count": {
+            "desa": 6
+        }
+    },
+    {
+        "code": "190108",
+        "name": "Puding Besar",
+        "count": {
+            "desa": 7
+        }
+    },
+    {
+        "code": "190107",
+        "name": "Riau Silip",
+        "count": {
+            "desa": 9
+        }
+    },
+    {
+        "code": "190101",
+        "name": "Sungailiat (Sungai Liat)",
+        "count": {
+            "desa": 13
+        }
+    }
+]

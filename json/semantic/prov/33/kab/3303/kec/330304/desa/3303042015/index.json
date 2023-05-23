@@ -1,0 +1,17 @@
+{
+    "code": "3303042015",
+    "name": "Arenan",
+    "poscode": "53391",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3303",
+        "name": "Purbalingga"
+    },
+    "kecamatan": {
+        "code": "330304",
+        "name": "Kaligondang"
+    }
+}

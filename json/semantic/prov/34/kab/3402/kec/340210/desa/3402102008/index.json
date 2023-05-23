@@ -1,0 +1,17 @@
+{
+    "code": "3402102008",
+    "name": "Imogiri",
+    "poscode": "55782",
+    "provinsi": {
+        "code": "34",
+        "name": "DI Yogyakarta"
+    },
+    "kabupaten": {
+        "code": "3402",
+        "name": "Bantul"
+    },
+    "kecamatan": {
+        "code": "340210",
+        "name": "Imogiri"
+    }
+}

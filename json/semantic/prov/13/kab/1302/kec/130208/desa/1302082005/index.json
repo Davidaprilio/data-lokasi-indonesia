@@ -1,0 +1,17 @@
+{
+    "code": "1302082005",
+    "name": "Dilam",
+    "poscode": "27381",
+    "provinsi": {
+        "code": "13",
+        "name": "Sumatera Barat"
+    },
+    "kabupaten": {
+        "code": "1302",
+        "name": "Solok"
+    },
+    "kecamatan": {
+        "code": "130208",
+        "name": "Bukit Sundi"
+    }
+}

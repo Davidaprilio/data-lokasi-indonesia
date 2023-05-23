@@ -1,0 +1,17 @@
+{
+    "code": "3271011005",
+    "name": "Pamoyanan",
+    "poscode": "16136",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3271",
+        "name": "Bogor"
+    },
+    "kecamatan": {
+        "code": "327101",
+        "name": "Bogor Selatan"
+    }
+}

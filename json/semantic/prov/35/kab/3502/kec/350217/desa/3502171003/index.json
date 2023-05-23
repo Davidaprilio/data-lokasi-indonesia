@@ -1,0 +1,17 @@
+{
+    "code": "3502171003",
+    "name": "Pakunden",
+    "poscode": "63416",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3502",
+        "name": "Ponorogo"
+    },
+    "kecamatan": {
+        "code": "350217",
+        "name": "Ponorogo"
+    }
+}

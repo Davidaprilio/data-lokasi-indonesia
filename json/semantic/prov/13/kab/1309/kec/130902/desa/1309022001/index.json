@@ -1,0 +1,17 @@
+{
+    "code": "1309022001",
+    "name": "Bosua",
+    "poscode": "25392",
+    "provinsi": {
+        "code": "13",
+        "name": "Sumatera Barat"
+    },
+    "kabupaten": {
+        "code": "1309",
+        "name": "Kepulauan Mentawai"
+    },
+    "kecamatan": {
+        "code": "130902",
+        "name": "Sipora Selatan"
+    }
+}

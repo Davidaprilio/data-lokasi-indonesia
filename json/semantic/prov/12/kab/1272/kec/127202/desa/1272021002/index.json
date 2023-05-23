@@ -1,0 +1,17 @@
+{
+    "code": "1272021002",
+    "name": "Proklamasi",
+    "poscode": "21117",
+    "provinsi": {
+        "code": "12",
+        "name": "Sumatera Utara"
+    },
+    "kabupaten": {
+        "code": "1272",
+        "name": "Pematangsiantar"
+    },
+    "kecamatan": {
+        "code": "127202",
+        "name": "Siantar Barat"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "1171042007",
+    "name": "Lamgugob",
+    "poscode": "23115",
+    "provinsi": {
+        "code": "11",
+        "name": "Aceh (NAD)"
+    },
+    "kabupaten": {
+        "code": "1171",
+        "name": "Banda Aceh"
+    },
+    "kecamatan": {
+        "code": "117104",
+        "name": "Syiah Kuala"
+    }
+}

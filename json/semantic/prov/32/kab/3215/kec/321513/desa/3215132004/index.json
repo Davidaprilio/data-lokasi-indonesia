@@ -1,0 +1,17 @@
+{
+    "code": "3215132004",
+    "name": "Dawuan Tengah",
+    "poscode": "41373",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3215",
+        "name": "Karawang"
+    },
+    "kecamatan": {
+        "code": "321513",
+        "name": "Cikampek"
+    }
+}

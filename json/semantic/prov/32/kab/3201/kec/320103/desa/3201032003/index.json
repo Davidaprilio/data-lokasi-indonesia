@@ -1,0 +1,17 @@
+{
+    "code": "3201032003",
+    "name": "Leuwinutug",
+    "poscode": "16811",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3201",
+        "name": "Bogor"
+    },
+    "kecamatan": {
+        "code": "320103",
+        "name": "Citeureup"
+    }
+}

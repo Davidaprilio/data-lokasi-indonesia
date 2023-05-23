@@ -1,0 +1,17 @@
+{
+    "code": "5302292001",
+    "name": "Fatukopa",
+    "poscode": "85581",
+    "provinsi": {
+        "code": "53",
+        "name": "Nusa Tenggara Timur (NTT)"
+    },
+    "kabupaten": {
+        "code": "5302",
+        "name": "Timor Tengah Selatan"
+    },
+    "kecamatan": {
+        "code": "530229",
+        "name": "Fatukopa"
+    }
+}

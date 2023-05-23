@@ -1,0 +1,17 @@
+{
+    "code": "2103182004",
+    "name": "Cemaga Tengah",
+    "poscode": "29783",
+    "provinsi": {
+        "code": "21",
+        "name": "Kepulauan Riau"
+    },
+    "kabupaten": {
+        "code": "2103",
+        "name": "Natuna"
+    },
+    "kecamatan": {
+        "code": "210318",
+        "name": "Bunguran Selatan"
+    }
+}

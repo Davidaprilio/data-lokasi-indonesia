@@ -1,0 +1,17 @@
+{
+    "code": "3510052005",
+    "name": "Blambangan",
+    "poscode": "68472",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3510",
+        "name": "Banyuwangi"
+    },
+    "kecamatan": {
+        "code": "351005",
+        "name": "Muncar"
+    }
+}

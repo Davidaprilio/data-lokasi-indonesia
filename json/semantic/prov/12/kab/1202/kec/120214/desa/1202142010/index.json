@@ -1,0 +1,17 @@
+{
+    "code": "1202142010",
+    "name": "Sibalanga",
+    "poscode": "22473",
+    "provinsi": {
+        "code": "12",
+        "name": "Sumatera Utara"
+    },
+    "kabupaten": {
+        "code": "1202",
+        "name": "Tapanuli Utara"
+    },
+    "kecamatan": {
+        "code": "120214",
+        "name": "Garoga"
+    }
+}

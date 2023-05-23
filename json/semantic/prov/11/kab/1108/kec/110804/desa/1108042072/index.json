@@ -1,0 +1,17 @@
+{
+    "code": "1108042072",
+    "name": "Alue Itam Baroh",
+    "poscode": "24382",
+    "provinsi": {
+        "code": "11",
+        "name": "Aceh (NAD)"
+    },
+    "kabupaten": {
+        "code": "1108",
+        "name": "Aceh Utara"
+    },
+    "kecamatan": {
+        "code": "110804",
+        "name": "Lhoksukon"
+    }
+}

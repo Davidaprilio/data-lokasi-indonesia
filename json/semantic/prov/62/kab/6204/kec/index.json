@@ -1,0 +1,44 @@
+[
+    {
+        "code": "620402",
+        "name": "Dusun Hilir",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "620406",
+        "name": "Dusun Selatan",
+        "count": {
+            "desa": 27
+        }
+    },
+    {
+        "code": "620404",
+        "name": "Dusun Utara",
+        "count": {
+            "desa": 19
+        }
+    },
+    {
+        "code": "620405",
+        "name": "Gunung Bintang Awai",
+        "count": {
+            "desa": 21
+        }
+    },
+    {
+        "code": "620401",
+        "name": "Jenamas",
+        "count": {
+            "desa": 5
+        }
+    },
+    {
+        "code": "620403",
+        "name": "Karau Kuala",
+        "count": {
+            "desa": 11
+        }
+    }
+]

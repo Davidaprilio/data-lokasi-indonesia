@@ -1,0 +1,17 @@
+{
+    "code": "3506172008",
+    "name": "Tulungrejo",
+    "poscode": "64212",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3506",
+        "name": "Kediri"
+    },
+    "kecamatan": {
+        "code": "350617",
+        "name": "Pare"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "3301032008",
+    "name": "Penggalang",
+    "poscode": "53271",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3301",
+        "name": "Cilacap"
+    },
+    "kecamatan": {
+        "code": "330103",
+        "name": "Adipala"
+    }
+}

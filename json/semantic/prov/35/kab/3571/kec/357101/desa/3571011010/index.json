@@ -1,0 +1,17 @@
+{
+    "code": "3571011010",
+    "name": "Ngampel",
+    "poscode": "64112",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3571",
+        "name": "Kediri"
+    },
+    "kecamatan": {
+        "code": "357101",
+        "name": "Mojoroto"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "3312081009",
+    "name": "Ngadirejo",
+    "poscode": "57663",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3312",
+        "name": "Wonogiri"
+    },
+    "kecamatan": {
+        "code": "331208",
+        "name": "Eromoko"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "1277021005",
+    "name": "Ujung Padang",
+    "poscode": "22725",
+    "provinsi": {
+        "code": "12",
+        "name": "Sumatera Utara"
+    },
+    "kabupaten": {
+        "code": "1277",
+        "name": "Padangsidimpuan"
+    },
+    "kecamatan": {
+        "code": "127702",
+        "name": "Padangsidimpuan Selatan"
+    }
+}

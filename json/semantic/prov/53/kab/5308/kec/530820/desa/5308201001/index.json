@@ -1,0 +1,17 @@
+{
+    "code": "5308201001",
+    "name": "Mautapaga",
+    "poscode": "86317",
+    "provinsi": {
+        "code": "53",
+        "name": "Nusa Tenggara Timur (NTT)"
+    },
+    "kabupaten": {
+        "code": "5308",
+        "name": "Ende"
+    },
+    "kecamatan": {
+        "code": "530820",
+        "name": "Ende Timur"
+    }
+}

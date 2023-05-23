@@ -1,0 +1,17 @@
+{
+    "code": "3671081004",
+    "name": "Sangiang Jaya",
+    "poscode": "15132",
+    "provinsi": {
+        "code": "36",
+        "name": "Banten"
+    },
+    "kabupaten": {
+        "code": "3671",
+        "name": "Tangerang"
+    },
+    "kecamatan": {
+        "code": "367108",
+        "name": "Periuk"
+    }
+}

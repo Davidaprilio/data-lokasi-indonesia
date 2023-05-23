@@ -1,0 +1,17 @@
+{
+    "code": "5105012001",
+    "name": "Sakti",
+    "poscode": "80771",
+    "provinsi": {
+        "code": "51",
+        "name": "Bali"
+    },
+    "kabupaten": {
+        "code": "5105",
+        "name": "Klungkung"
+    },
+    "kecamatan": {
+        "code": "510501",
+        "name": "Nusa Penida (Nusapenida)"
+    }
+}

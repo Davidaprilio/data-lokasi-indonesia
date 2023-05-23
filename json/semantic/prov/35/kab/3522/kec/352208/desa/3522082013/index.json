@@ -1,0 +1,17 @@
+{
+    "code": "3522082013",
+    "name": "Geger",
+    "poscode": "62195",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3522",
+        "name": "Bojonegoro"
+    },
+    "kecamatan": {
+        "code": "352208",
+        "name": "Kedungadem"
+    }
+}

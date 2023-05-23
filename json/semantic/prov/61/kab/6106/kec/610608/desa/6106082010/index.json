@@ -1,0 +1,17 @@
+{
+    "code": "6106082010",
+    "name": "Simpang Senara",
+    "poscode": "78764",
+    "provinsi": {
+        "code": "61",
+        "name": "Kalimantan Barat"
+    },
+    "kabupaten": {
+        "code": "6106",
+        "name": "Kapuas Hulu"
+    },
+    "kecamatan": {
+        "code": "610608",
+        "name": "Hulu Gurung"
+    }
+}

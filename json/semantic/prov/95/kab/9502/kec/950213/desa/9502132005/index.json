@@ -1,0 +1,17 @@
+{
+    "code": "9502132005",
+    "name": "Imik",
+    "poscode": "99412",
+    "provinsi": {
+        "code": "95",
+        "name": "Papua Pegunungan"
+    },
+    "kabupaten": {
+        "code": "9502",
+        "name": "Pegunungan Bintang"
+    },
+    "kecamatan": {
+        "code": "950213",
+        "name": "Kalomdol"
+    }
+}

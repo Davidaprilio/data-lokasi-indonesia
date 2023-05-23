@@ -1,0 +1,17 @@
+{
+    "code": "3216022001",
+    "name": "Bunibakti (Buni Bakti)",
+    "poscode": "17610",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3216",
+        "name": "Bekasi"
+    },
+    "kecamatan": {
+        "code": "321602",
+        "name": "Babelan"
+    }
+}

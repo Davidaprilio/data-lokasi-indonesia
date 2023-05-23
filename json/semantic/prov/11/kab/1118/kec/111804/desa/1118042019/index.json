@@ -1,0 +1,17 @@
+{
+    "code": "1118042019",
+    "name": "Lhok Pusong",
+    "poscode": "24188",
+    "provinsi": {
+        "code": "11",
+        "name": "Aceh (NAD)"
+    },
+    "kabupaten": {
+        "code": "1118",
+        "name": "Pidie Jaya"
+    },
+    "kecamatan": {
+        "code": "111804",
+        "name": "Bandar Dua"
+    }
+}

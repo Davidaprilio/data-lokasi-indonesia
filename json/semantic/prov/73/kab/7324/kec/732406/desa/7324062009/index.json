@@ -1,0 +1,17 @@
+{
+    "code": "7324062009",
+    "name": "Bahari",
+    "poscode": "92971",
+    "provinsi": {
+        "code": "73",
+        "name": "Sulawesi Selatan"
+    },
+    "kabupaten": {
+        "code": "7324",
+        "name": "Luwu Timur"
+    },
+    "kecamatan": {
+        "code": "732406",
+        "name": "Wotu"
+    }
+}

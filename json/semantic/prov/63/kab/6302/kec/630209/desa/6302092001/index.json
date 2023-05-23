@@ -1,0 +1,17 @@
+{
+    "code": "6302092001",
+    "name": "Tanjung Batu",
+    "poscode": "72164",
+    "provinsi": {
+        "code": "63",
+        "name": "Kalimantan Selatan"
+    },
+    "kabupaten": {
+        "code": "6302",
+        "name": "Kotabaru"
+    },
+    "kecamatan": {
+        "code": "630209",
+        "name": "Kelumpang Tengah"
+    }
+}

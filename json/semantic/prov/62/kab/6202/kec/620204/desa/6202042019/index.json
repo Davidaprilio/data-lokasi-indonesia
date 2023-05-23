@@ -1,0 +1,17 @@
+{
+    "code": "6202042019",
+    "name": "Bajarau",
+    "poscode": "74355",
+    "provinsi": {
+        "code": "62",
+        "name": "Kalimantan Tengah"
+    },
+    "kabupaten": {
+        "code": "6202",
+        "name": "Kotawaringin Timur"
+    },
+    "kecamatan": {
+        "code": "620204",
+        "name": "Parenggean"
+    }
+}

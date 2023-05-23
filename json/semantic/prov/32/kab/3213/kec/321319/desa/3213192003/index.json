@@ -1,0 +1,17 @@
+{
+    "code": "3213192003",
+    "name": "Cirangkong",
+    "poscode": "41286",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3213",
+        "name": "Subang"
+    },
+    "kecamatan": {
+        "code": "321319",
+        "name": "Cijambe"
+    }
+}

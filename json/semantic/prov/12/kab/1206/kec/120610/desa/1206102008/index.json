@@ -1,0 +1,17 @@
+{
+    "code": "1206102008",
+    "name": "Mardingding",
+    "poscode": "22165",
+    "provinsi": {
+        "code": "12",
+        "name": "Sumatera Utara"
+    },
+    "kabupaten": {
+        "code": "1206",
+        "name": "Karo"
+    },
+    "kecamatan": {
+        "code": "120610",
+        "name": "Mardingding (Mardinding)"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "1101022018",
+    "name": "Pasi Kuala Ba'u (Pasi Kuala Bau)",
+    "poscode": "23771",
+    "provinsi": {
+        "code": "11",
+        "name": "Aceh (NAD)"
+    },
+    "kabupaten": {
+        "code": "1101",
+        "name": "Aceh Selatan"
+    },
+    "kecamatan": {
+        "code": "110102",
+        "name": "Kluet Utara"
+    }
+}

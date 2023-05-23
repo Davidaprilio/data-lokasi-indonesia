@@ -1,0 +1,17 @@
+{
+    "code": "1803162011",
+    "name": "Suka Maju (Bunga Maju)",
+    "poscode": "34555",
+    "provinsi": {
+        "code": "18",
+        "name": "Lampung"
+    },
+    "kabupaten": {
+        "code": "1803",
+        "name": "Lampung Utara"
+    },
+    "kecamatan": {
+        "code": "180316",
+        "name": "Bunga Mayang"
+    }
+}

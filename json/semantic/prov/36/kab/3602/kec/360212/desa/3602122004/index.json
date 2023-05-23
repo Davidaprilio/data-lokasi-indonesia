@@ -1,0 +1,17 @@
+{
+    "code": "3602122004",
+    "name": "Calungbungur",
+    "poscode": "42371",
+    "provinsi": {
+        "code": "36",
+        "name": "Banten"
+    },
+    "kabupaten": {
+        "code": "3602",
+        "name": "Lebak"
+    },
+    "kecamatan": {
+        "code": "360212",
+        "name": "Sajira"
+    }
+}

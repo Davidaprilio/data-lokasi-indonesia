@@ -1,0 +1,17 @@
+{
+    "code": "3301082006",
+    "name": "Cilibang",
+    "poscode": "53252",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3301",
+        "name": "Cilacap"
+    },
+    "kecamatan": {
+        "code": "330108",
+        "name": "Jeruklegi"
+    }
+}

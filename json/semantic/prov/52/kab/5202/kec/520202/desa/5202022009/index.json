@@ -1,0 +1,17 @@
+{
+    "code": "5202022009",
+    "name": "Nyerot",
+    "poscode": "83561",
+    "provinsi": {
+        "code": "52",
+        "name": "Nusa Tenggara Barat (NTB)"
+    },
+    "kabupaten": {
+        "code": "5202",
+        "name": "Lombok Tengah"
+    },
+    "kecamatan": {
+        "code": "520202",
+        "name": "Jonggat"
+    }
+}

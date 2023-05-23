@@ -1,0 +1,17 @@
+{
+    "code": "1605212003",
+    "name": "Bangun Rejo",
+    "poscode": "31665",
+    "provinsi": {
+        "code": "16",
+        "name": "Sumatera Selatan"
+    },
+    "kabupaten": {
+        "code": "1605",
+        "name": "Musi Rawas"
+    },
+    "kecamatan": {
+        "code": "160521",
+        "name": "Suka Karya (Sukakarya)"
+    }
+}

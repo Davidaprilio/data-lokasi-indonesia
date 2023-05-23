@@ -1,0 +1,17 @@
+{
+    "code": "1813032003",
+    "name": "Way Batang",
+    "poscode": "34877",
+    "provinsi": {
+        "code": "18",
+        "name": "Lampung"
+    },
+    "kabupaten": {
+        "code": "1813",
+        "name": "Pesisir Barat"
+    },
+    "kecamatan": {
+        "code": "181303",
+        "name": "Lemong"
+    }
+}

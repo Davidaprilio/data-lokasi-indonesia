@@ -1,0 +1,17 @@
+{
+    "code": "1601292001",
+    "name": "Karya Jaya",
+    "poscode": "32159",
+    "provinsi": {
+        "code": "16",
+        "name": "Sumatera Selatan"
+    },
+    "kabupaten": {
+        "code": "1601",
+        "name": "Ogan Komering Ulu"
+    },
+    "kecamatan": {
+        "code": "160129",
+        "name": "Sinar Peninjauan"
+    }
+}

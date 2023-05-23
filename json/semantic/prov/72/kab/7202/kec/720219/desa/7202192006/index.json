@@ -1,0 +1,17 @@
+{
+    "code": "7202192006",
+    "name": "Betalemba",
+    "poscode": "94650",
+    "provinsi": {
+        "code": "72",
+        "name": "Sulawesi Tengah"
+    },
+    "kabupaten": {
+        "code": "7202",
+        "name": "Poso"
+    },
+    "kecamatan": {
+        "code": "720219",
+        "name": "Poso Pesisir Selatan"
+    }
+}

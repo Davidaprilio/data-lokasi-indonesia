@@ -1,0 +1,58 @@
+[
+    {
+        "code": "620908",
+        "name": "Batang Kawa",
+        "count": {
+            "desa": 9
+        }
+    },
+    {
+        "code": "620907",
+        "name": "Belantikan Raya",
+        "count": {
+            "desa": 12
+        }
+    },
+    {
+        "code": "620903",
+        "name": "Bulik",
+        "count": {
+            "desa": 14
+        }
+    },
+    {
+        "code": "620904",
+        "name": "Bulik Timur",
+        "count": {
+            "desa": 12
+        }
+    },
+    {
+        "code": "620902",
+        "name": "Delang",
+        "count": {
+            "desa": 11
+        }
+    },
+    {
+        "code": "620901",
+        "name": "Lamandau",
+        "count": {
+            "desa": 11
+        }
+    },
+    {
+        "code": "620905",
+        "name": "Menthobi Raya",
+        "count": {
+            "desa": 11
+        }
+    },
+    {
+        "code": "620906",
+        "name": "Sematu Jaya",
+        "count": {
+            "desa": 8
+        }
+    }
+]

@@ -1,0 +1,17 @@
+{
+    "code": "1506112007",
+    "name": "Jati Emas",
+    "poscode": "36514",
+    "provinsi": {
+        "code": "15",
+        "name": "Jambi"
+    },
+    "kabupaten": {
+        "code": "1506",
+        "name": "Tanjung Jabung Barat"
+    },
+    "kecamatan": {
+        "code": "150611",
+        "name": "Bram Itam"
+    }
+}

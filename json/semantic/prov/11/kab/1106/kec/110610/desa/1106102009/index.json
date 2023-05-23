@@ -1,0 +1,17 @@
+{
+    "code": "1106102009",
+    "name": "Dham Ceukok",
+    "poscode": "23371",
+    "provinsi": {
+        "code": "11",
+        "name": "Aceh (NAD)"
+    },
+    "kabupaten": {
+        "code": "1106",
+        "name": "Aceh Besar"
+    },
+    "kecamatan": {
+        "code": "110610",
+        "name": "Ingin Jaya"
+    }
+}

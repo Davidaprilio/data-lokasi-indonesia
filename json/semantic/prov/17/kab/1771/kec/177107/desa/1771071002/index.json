@@ -1,0 +1,17 @@
+{
+    "code": "1771071002",
+    "name": "Kebun Dahri",
+    "poscode": "38221",
+    "provinsi": {
+        "code": "17",
+        "name": "Bengkulu"
+    },
+    "kabupaten": {
+        "code": "1771",
+        "name": "Bengkulu"
+    },
+    "kecamatan": {
+        "code": "177107",
+        "name": "Ratu Samban"
+    }
+}

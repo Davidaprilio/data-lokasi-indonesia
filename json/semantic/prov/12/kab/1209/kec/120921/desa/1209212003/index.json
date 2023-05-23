@@ -1,0 +1,17 @@
+{
+    "code": "1209212003",
+    "name": "Perkebunan Bandar Pulau",
+    "poscode": "21274",
+    "provinsi": {
+        "code": "12",
+        "name": "Sumatera Utara"
+    },
+    "kabupaten": {
+        "code": "1209",
+        "name": "Asahan"
+    },
+    "kecamatan": {
+        "code": "120921",
+        "name": "Aek Songsongan"
+    }
+}

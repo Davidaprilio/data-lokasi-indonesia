@@ -1,0 +1,47 @@
+[
+    {
+        "code": "1771071006",
+        "name": "Anggut Atas",
+        "poscode": "38222"
+    },
+    {
+        "code": "1771071005",
+        "name": "Anggut Bawah",
+        "poscode": "38223"
+    },
+    {
+        "code": "1771071007",
+        "name": "Anggut Dalam",
+        "poscode": "38222"
+    },
+    {
+        "code": "1771071003",
+        "name": "Belakang Pondok",
+        "poscode": "38221"
+    },
+    {
+        "code": "1771071002",
+        "name": "Kebun Dahri",
+        "poscode": "38221"
+    },
+    {
+        "code": "1771071008",
+        "name": "Kebun Geran (Gerand)",
+        "poscode": "38222"
+    },
+    {
+        "code": "1771071001",
+        "name": "Padang Jati",
+        "poscode": "38227"
+    },
+    {
+        "code": "1771071009",
+        "name": "Pengantungan (Penggantungan)",
+        "poscode": "38221"
+    },
+    {
+        "code": "1771071004",
+        "name": "Penurunan",
+        "poscode": "38223"
+    }
+]

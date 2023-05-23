@@ -1,0 +1,17 @@
+{
+    "code": "5318042021",
+    "name": "Sangu Ate",
+    "poscode": "87253",
+    "provinsi": {
+        "code": "53",
+        "name": "Nusa Tenggara Timur (NTT)"
+    },
+    "kabupaten": {
+        "code": "5318",
+        "name": "Sumba Barat Daya"
+    },
+    "kecamatan": {
+        "code": "531804",
+        "name": "Wewewa Barat"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "7415052002",
+    "name": "Mbanua",
+    "poscode": "93744",
+    "provinsi": {
+        "code": "74",
+        "name": "Sulawesi Tenggara"
+    },
+    "kabupaten": {
+        "code": "7415",
+        "name": "Buton Selatan"
+    },
+    "kecamatan": {
+        "code": "741505",
+        "name": "Siompu Barat"
+    }
+}

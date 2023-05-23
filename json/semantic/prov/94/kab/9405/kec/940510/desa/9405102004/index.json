@@ -1,0 +1,17 @@
+{
+    "code": "9405102004",
+    "name": "Mugulip",
+    "poscode": "98952",
+    "provinsi": {
+        "code": "94",
+        "name": "Papua Tengah"
+    },
+    "kabupaten": {
+        "code": "9405",
+        "name": "Puncak"
+    },
+    "kecamatan": {
+        "code": "940510",
+        "name": "Beoga Barat"
+    }
+}

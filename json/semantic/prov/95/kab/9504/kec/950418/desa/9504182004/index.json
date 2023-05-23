@@ -1,0 +1,17 @@
+{
+    "code": "9504182004",
+    "name": "Kumbo",
+    "poscode": "99045",
+    "provinsi": {
+        "code": "95",
+        "name": "Papua Pegunungan"
+    },
+    "kabupaten": {
+        "code": "9504",
+        "name": "Tolikara"
+    },
+    "kecamatan": {
+        "code": "950418",
+        "name": "Nabunage"
+    }
+}

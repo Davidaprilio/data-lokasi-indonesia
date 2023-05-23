@@ -1,0 +1,17 @@
+{
+    "code": "6401022006",
+    "name": "Tanjung Aru",
+    "poscode": "76260",
+    "provinsi": {
+        "code": "64",
+        "name": "Kalimantan Timur"
+    },
+    "kabupaten": {
+        "code": "6401",
+        "name": "Paser"
+    },
+    "kecamatan": {
+        "code": "640102",
+        "name": "Tanjung Harapan"
+    }
+}

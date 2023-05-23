@@ -1,0 +1,17 @@
+{
+    "code": "6503082001",
+    "name": "Liang Bunyu",
+    "poscode": "77486",
+    "provinsi": {
+        "code": "65",
+        "name": "Kalimantan Utara"
+    },
+    "kabupaten": {
+        "code": "6503",
+        "name": "Nunukan"
+    },
+    "kecamatan": {
+        "code": "650308",
+        "name": "Sebatik Barat"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "6202102001",
+    "name": "Tumbang Kalang",
+    "poscode": "74352",
+    "provinsi": {
+        "code": "62",
+        "name": "Kalimantan Tengah"
+    },
+    "kabupaten": {
+        "code": "6202",
+        "name": "Kotawaringin Timur"
+    },
+    "kecamatan": {
+        "code": "620210",
+        "name": "Antang Kalang"
+    }
+}

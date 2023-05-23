@@ -1,0 +1,72 @@
+[
+    {
+        "code": "121603",
+        "name": "Baktiraja (Bakti Raja)",
+        "count": {
+            "desa": 7
+        }
+    },
+    {
+        "code": "121606",
+        "name": "Dolok Sanggul",
+        "count": {
+            "desa": 28
+        }
+    },
+    {
+        "code": "121605",
+        "name": "Lintong Nihuta",
+        "count": {
+            "desa": 22
+        }
+    },
+    {
+        "code": "121608",
+        "name": "Onan Ganjang",
+        "count": {
+            "desa": 12
+        }
+    },
+    {
+        "code": "121609",
+        "name": "Pakkat",
+        "count": {
+            "desa": 22
+        }
+    },
+    {
+        "code": "121604",
+        "name": "Paranginan",
+        "count": {
+            "desa": 11
+        }
+    },
+    {
+        "code": "121601",
+        "name": "Parlilitan",
+        "count": {
+            "desa": 20
+        }
+    },
+    {
+        "code": "121602",
+        "name": "Pollung",
+        "count": {
+            "desa": 13
+        }
+    },
+    {
+        "code": "121607",
+        "name": "Sijamapolang (Sijama Polang)",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "121610",
+        "name": "Tarabintang (Tara Bintang)",
+        "count": {
+            "desa": 9
+        }
+    }
+]

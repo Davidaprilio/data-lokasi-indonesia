@@ -1,0 +1,17 @@
+{
+    "code": "3273251003",
+    "name": "Pasir Biru (Pasirbiru)",
+    "poscode": "40615",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3273",
+        "name": "Bandung"
+    },
+    "kecamatan": {
+        "code": "327325",
+        "name": "Cibiru"
+    }
+}

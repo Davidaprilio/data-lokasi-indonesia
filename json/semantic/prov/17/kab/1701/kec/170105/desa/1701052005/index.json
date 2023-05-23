@@ -1,0 +1,17 @@
+{
+    "code": "1701052005",
+    "name": "Tebat Kubu",
+    "poscode": "38511",
+    "provinsi": {
+        "code": "17",
+        "name": "Bengkulu"
+    },
+    "kabupaten": {
+        "code": "1701",
+        "name": "Bengkulu Selatan"
+    },
+    "kecamatan": {
+        "code": "170105",
+        "name": "Kota Manna"
+    }
+}

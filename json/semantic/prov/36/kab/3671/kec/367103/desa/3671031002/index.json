@@ -1,0 +1,17 @@
+{
+    "code": "3671031002",
+    "name": "Batujaya (Batu Jaya)",
+    "poscode": "15121",
+    "provinsi": {
+        "code": "36",
+        "name": "Banten"
+    },
+    "kabupaten": {
+        "code": "3671",
+        "name": "Tangerang"
+    },
+    "kecamatan": {
+        "code": "367103",
+        "name": "Batuceper"
+    }
+}

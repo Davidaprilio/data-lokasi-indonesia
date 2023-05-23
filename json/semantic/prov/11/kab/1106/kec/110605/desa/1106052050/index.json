@@ -1,0 +1,17 @@
+{
+    "code": "1106052050",
+    "name": "Piyeung Manee",
+    "poscode": "23362",
+    "provinsi": {
+        "code": "11",
+        "name": "Aceh (NAD)"
+    },
+    "kabupaten": {
+        "code": "1106",
+        "name": "Aceh Besar"
+    },
+    "kecamatan": {
+        "code": "110605",
+        "name": "Mantasiek (Montasik)"
+    }
+}

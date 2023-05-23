@@ -1,0 +1,17 @@
+{
+    "code": "3604122001",
+    "name": "Pontang",
+    "poscode": "42192",
+    "provinsi": {
+        "code": "36",
+        "name": "Banten"
+    },
+    "kabupaten": {
+        "code": "3604",
+        "name": "Serang"
+    },
+    "kecamatan": {
+        "code": "360412",
+        "name": "Pontang"
+    }
+}

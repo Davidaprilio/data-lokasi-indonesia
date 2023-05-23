@@ -1,0 +1,17 @@
+{
+    "code": "6171041003",
+    "name": "Siantan Hilir",
+    "poscode": "78243",
+    "provinsi": {
+        "code": "61",
+        "name": "Kalimantan Barat"
+    },
+    "kabupaten": {
+        "code": "6171",
+        "name": "Pontianak"
+    },
+    "kecamatan": {
+        "code": "617104",
+        "name": "Pontianak Utara"
+    }
+}

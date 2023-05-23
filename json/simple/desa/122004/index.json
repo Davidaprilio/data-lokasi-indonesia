@@ -1,0 +1,312 @@
+[
+    {
+        "code": "1220042075",
+        "name": "Aek Gambir",
+        "poscode": "22754"
+    },
+    {
+        "code": "1220042077",
+        "name": "Aek Jangkang",
+        "poscode": "22754"
+    },
+    {
+        "code": "1220042031",
+        "name": "Aek Suhat",
+        "poscode": "22754"
+    },
+    {
+        "code": "1220042013",
+        "name": "Ambasang Natigor",
+        "poscode": "22754"
+    },
+    {
+        "code": "1220042043",
+        "name": "Batang Baruhar Jae",
+        "poscode": "22754"
+    },
+    {
+        "code": "1220042042",
+        "name": "Batang Baruhar Julu",
+        "poscode": "22754"
+    },
+    {
+        "code": "1220042027",
+        "name": "Batu Mamak",
+        "poscode": "22754"
+    },
+    {
+        "code": "1220042054",
+        "name": "Batu Sundung",
+        "poscode": "22754"
+    },
+    {
+        "code": "1220042050",
+        "name": "Batu Tambun",
+        "poscode": "22754"
+    },
+    {
+        "code": "1220042020",
+        "name": "Botung",
+        "poscode": "22754"
+    },
+    {
+        "code": "1220042076",
+        "name": "Bukit Raya Sordang",
+        "poscode": "22754"
+    },
+    {
+        "code": "1220042022",
+        "name": "Dolok Sae",
+        "poscode": "22754"
+    },
+    {
+        "code": "1220042052",
+        "name": "Garoga",
+        "poscode": "22754"
+    },
+    {
+        "code": "1220042055",
+        "name": "Garonggang",
+        "poscode": "22754"
+    },
+    {
+        "code": "1220042069",
+        "name": "Gunung Manaon II",
+        "poscode": "22754"
+    },
+    {
+        "code": "1220042029",
+        "name": "Gunung Tua Baru",
+        "poscode": "22754"
+    },
+    {
+        "code": "1220042039",
+        "name": "Gunung Tua Jae",
+        "poscode": "22754"
+    },
+    {
+        "code": "1220042040",
+        "name": "Gunung Tua Julu",
+        "poscode": "22754"
+    },
+    {
+        "code": "1220042038",
+        "name": "Gunung Tua Tonga",
+        "poscode": "22754"
+    },
+    {
+        "code": "1220042053",
+        "name": "Hajoran",
+        "poscode": "22754"
+    },
+    {
+        "code": "1220042045",
+        "name": "Hambiri",
+        "poscode": "22754"
+    },
+    {
+        "code": "1220042073",
+        "name": "Hutaimbaru II",
+        "poscode": "22754"
+    },
+    {
+        "code": "1220042041",
+        "name": "Hutalombang",
+        "poscode": "22754"
+    },
+    {
+        "code": "1220042057",
+        "name": "Liang Hasona",
+        "poscode": "22754"
+    },
+    {
+        "code": "1220042026",
+        "name": "Losung Batu",
+        "poscode": "22754"
+    },
+    {
+        "code": "1220042008",
+        "name": "Lubuk Torop",
+        "poscode": "22754"
+    },
+    {
+        "code": "1220042017",
+        "name": "Mananti",
+        "poscode": "22754"
+    },
+    {
+        "code": "1220042056",
+        "name": "Nabonggal",
+        "poscode": "22754"
+    },
+    {
+        "code": "1220042014",
+        "name": "Napagadung Laut",
+        "poscode": "22754"
+    },
+    {
+        "code": "1220042060",
+        "name": "Padang Garugur",
+        "poscode": "22754"
+    },
+    {
+        "code": "1220042047",
+        "name": "Pagaran Singkam",
+        "poscode": "22754"
+    },
+    {
+        "code": "1220042048",
+        "name": "Pagaran Tonga",
+        "poscode": "22754"
+    },
+    {
+        "code": "1220042018",
+        "name": "Paran Padang",
+        "poscode": "22754"
+    },
+    {
+        "code": "1220042064",
+        "name": "Parlimbatan",
+        "poscode": "22754"
+    },
+    {
+        "code": "1220041001",
+        "name": "Pasar Gunung Tua",
+        "poscode": "22754"
+    },
+    {
+        "code": "1220042044",
+        "name": "Purba Sinomba",
+        "poscode": "22754"
+    },
+    {
+        "code": "1220042070",
+        "name": "Purba Tua",
+        "poscode": "22754"
+    },
+    {
+        "code": "1220042019",
+        "name": "Rahuning Jae",
+        "poscode": "22754"
+    },
+    {
+        "code": "1220042015",
+        "name": "Rampa Jae",
+        "poscode": "22754"
+    },
+    {
+        "code": "1220042016",
+        "name": "Rampa Julu",
+        "poscode": "22754"
+    },
+    {
+        "code": "1220042066",
+        "name": "Saba Bangunan",
+        "poscode": "22754"
+    },
+    {
+        "code": "1220042065",
+        "name": "Saba Sitahul tahul",
+        "poscode": "22754"
+    },
+    {
+        "code": "1220042028",
+        "name": "Sampuran",
+        "poscode": "22754"
+    },
+    {
+        "code": "1220042049",
+        "name": "Sibagasi",
+        "poscode": "22754"
+    },
+    {
+        "code": "1220042030",
+        "name": "Sibatang Kayu",
+        "poscode": "22754"
+    },
+    {
+        "code": "1220042067",
+        "name": "Sidingkat",
+        "poscode": "22754"
+    },
+    {
+        "code": "1220042062",
+        "name": "Sigama",
+        "poscode": "22754"
+    },
+    {
+        "code": "1220042063",
+        "name": "Sigama Ujung Gading",
+        "poscode": "22754"
+    },
+    {
+        "code": "1220042021",
+        "name": "Sigimbal",
+        "poscode": "22754"
+    },
+    {
+        "code": "1220042024",
+        "name": "Sihapas Hapas",
+        "poscode": "22754"
+    },
+    {
+        "code": "1220042058",
+        "name": "Simandiangin Dolok",
+        "poscode": "22754"
+    },
+    {
+        "code": "1220042059",
+        "name": "Simandiangin Lombang",
+        "poscode": "22754"
+    },
+    {
+        "code": "1220042061",
+        "name": "Simanosor",
+        "poscode": "22754"
+    },
+    {
+        "code": "1220042023",
+        "name": "Simasi",
+        "poscode": "22754"
+    },
+    {
+        "code": "1220042078",
+        "name": "Simbolon",
+        "poscode": "22754"
+    },
+    {
+        "code": "1220042074",
+        "name": "Siombob",
+        "poscode": "22754"
+    },
+    {
+        "code": "1220042046",
+        "name": "Sosopan",
+        "poscode": "22754"
+    },
+    {
+        "code": "1220042071",
+        "name": "Sungai Durian",
+        "poscode": "22754"
+    },
+    {
+        "code": "1220042072",
+        "name": "Sungai Orosan",
+        "poscode": "22754"
+    },
+    {
+        "code": "1220042025",
+        "name": "Sungai Tolang",
+        "poscode": "22754"
+    },
+    {
+        "code": "1220042012",
+        "name": "Tanjung Marulak",
+        "poscode": "22754"
+    },
+    {
+        "code": "1220042051",
+        "name": "Tanjung Tiram",
+        "poscode": "22754"
+    }
+]

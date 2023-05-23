@@ -1,0 +1,17 @@
+{
+    "code": "1503031025",
+    "name": "Gunung Kembang",
+    "poscode": "37481",
+    "provinsi": {
+        "code": "15",
+        "name": "Jambi"
+    },
+    "kabupaten": {
+        "code": "1503",
+        "name": "Sarolangun"
+    },
+    "kecamatan": {
+        "code": "150303",
+        "name": "Sarolangun"
+    }
+}

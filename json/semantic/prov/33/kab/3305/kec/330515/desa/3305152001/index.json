@@ -1,0 +1,17 @@
+{
+    "code": "3305152001",
+    "name": "Sugihwaras",
+    "poscode": "54363",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3305",
+        "name": "Kebumen"
+    },
+    "kecamatan": {
+        "code": "330515",
+        "name": "Adimulyo"
+    }
+}

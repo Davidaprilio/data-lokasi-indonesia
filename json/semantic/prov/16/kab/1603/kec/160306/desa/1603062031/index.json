@@ -1,0 +1,17 @@
+{
+    "code": "1603062031",
+    "name": "Karang Endah Selatan",
+    "poscode": "31170",
+    "provinsi": {
+        "code": "16",
+        "name": "Sumatera Selatan"
+    },
+    "kabupaten": {
+        "code": "1603",
+        "name": "Muara Enim"
+    },
+    "kecamatan": {
+        "code": "160306",
+        "name": "Gelumbang"
+    }
+}

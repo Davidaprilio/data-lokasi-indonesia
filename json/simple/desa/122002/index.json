@@ -1,0 +1,432 @@
+[
+    {
+        "code": "1220022004",
+        "name": "Aek Haruaya",
+        "poscode": "22756"
+    },
+    {
+        "code": "1220022025",
+        "name": "Aek Ilung",
+        "poscode": "22756"
+    },
+    {
+        "code": "1220022020",
+        "name": "Aek Rao TN",
+        "poscode": "22756"
+    },
+    {
+        "code": "1220022010",
+        "name": "Aek Suhat Jae",
+        "poscode": "22756"
+    },
+    {
+        "code": "1220022070",
+        "name": "Aek Suhat TR",
+        "poscode": "22756"
+    },
+    {
+        "code": "1220022057",
+        "name": "Aek Sundur",
+        "poscode": "22756"
+    },
+    {
+        "code": "1220022083",
+        "name": "Aek Tangga",
+        "poscode": "22756"
+    },
+    {
+        "code": "1220022047",
+        "name": "Arse",
+        "poscode": "22756"
+    },
+    {
+        "code": "1220022024",
+        "name": "Bahap",
+        "poscode": "22756"
+    },
+    {
+        "code": "1220022079",
+        "name": "Bandar Nauli",
+        "poscode": "22756"
+    },
+    {
+        "code": "1220022058",
+        "name": "Baringin Sil",
+        "poscode": "22756"
+    },
+    {
+        "code": "1220022017",
+        "name": "Baringin Sip",
+        "poscode": "22756"
+    },
+    {
+        "code": "1220022022",
+        "name": "Batu Runding",
+        "poscode": "22756"
+    },
+    {
+        "code": "1220022075",
+        "name": "Binanga Gumbot",
+        "poscode": "22756"
+    },
+    {
+        "code": "1220022003",
+        "name": "Binanga Panasahan",
+        "poscode": "22756"
+    },
+    {
+        "code": "1220022007",
+        "name": "Bintais Julu",
+        "poscode": "22756"
+    },
+    {
+        "code": "1220022077",
+        "name": "Bukit Tinggi",
+        "poscode": "22756"
+    },
+    {
+        "code": "1220022008",
+        "name": "Bunut",
+        "poscode": "22756"
+    },
+    {
+        "code": "1220022044",
+        "name": "Dalihan Natolu",
+        "poscode": "22756"
+    },
+    {
+        "code": "1220022051",
+        "name": "Dolok Sanggul",
+        "poscode": "22756"
+    },
+    {
+        "code": "1220022071",
+        "name": "Gumaruntar",
+        "poscode": "22756"
+    },
+    {
+        "code": "1220022031",
+        "name": "Gumbot",
+        "poscode": "22756"
+    },
+    {
+        "code": "1220022018",
+        "name": "Gunung Maria",
+        "poscode": "22756"
+    },
+    {
+        "code": "1220022032",
+        "name": "Gunung Selamat",
+        "poscode": "22756"
+    },
+    {
+        "code": "1220022059",
+        "name": "Hula Baringin",
+        "poscode": "22756"
+    },
+    {
+        "code": "1220022011",
+        "name": "Huta Baru Sil",
+        "poscode": "22756"
+    },
+    {
+        "code": "1220022066",
+        "name": "Huta Baru Sip",
+        "poscode": "22756"
+    },
+    {
+        "code": "1220022029",
+        "name": "Hutaimbaru Gul",
+        "poscode": "22756"
+    },
+    {
+        "code": "1220022035",
+        "name": "Jambur Batu",
+        "poscode": "22756"
+    },
+    {
+        "code": "1220022040",
+        "name": "Janji Manahan Gul",
+        "poscode": "22756"
+    },
+    {
+        "code": "1220022016",
+        "name": "Janji Manahan Sil",
+        "poscode": "22756"
+    },
+    {
+        "code": "1220022073",
+        "name": "Janji Matogu",
+        "poscode": "22756"
+    },
+    {
+        "code": "1220022023",
+        "name": "Lubuk Godang",
+        "poscode": "22756"
+    },
+    {
+        "code": "1220022034",
+        "name": "Lubuk Kundur",
+        "poscode": "22756"
+    },
+    {
+        "code": "1220022046",
+        "name": "Lubuk Lanjang",
+        "poscode": "22756"
+    },
+    {
+        "code": "1220022019",
+        "name": "Mompang Dolok",
+        "poscode": "22756"
+    },
+    {
+        "code": "1220022015",
+        "name": "Mompang Lombang",
+        "poscode": "22756"
+    },
+    {
+        "code": "1220022060",
+        "name": "Nabonggal",
+        "poscode": "22756"
+    },
+    {
+        "code": "1220022038",
+        "name": "Naga Saribu",
+        "poscode": "22756"
+    },
+    {
+        "code": "1220022069",
+        "name": "Napasundali",
+        "poscode": "22756"
+    },
+    {
+        "code": "1220022054",
+        "name": "Pagaran Julu II",
+        "poscode": "22756"
+    },
+    {
+        "code": "1220022067",
+        "name": "Pagaran Siregar",
+        "poscode": "22756"
+    },
+    {
+        "code": "1220022043",
+        "name": "Panca",
+        "poscode": "22756"
+    },
+    {
+        "code": "1220022014",
+        "name": "Pangaran Julu I",
+        "poscode": "22756"
+    },
+    {
+        "code": "1220022068",
+        "name": "Parigi",
+        "poscode": "22756"
+    },
+    {
+        "code": "1220022042",
+        "name": "Parmeraan",
+        "poscode": "22756"
+    },
+    {
+        "code": "1220022006",
+        "name": "Pasar Sipiongot",
+        "poscode": "22756"
+    },
+    {
+        "code": "1220022009",
+        "name": "Paya Ombik",
+        "poscode": "22756"
+    },
+    {
+        "code": "1220022053",
+        "name": "Pijor Koling",
+        "poscode": "22756"
+    },
+    {
+        "code": "1220022086",
+        "name": "Pintu Padang Merdeka",
+        "poscode": "22756"
+    },
+    {
+        "code": "1220022061",
+        "name": "Purba Tua",
+        "poscode": "22756"
+    },
+    {
+        "code": "1220022037",
+        "name": "Rancaran",
+        "poscode": "22756"
+    },
+    {
+        "code": "1220022084",
+        "name": "Rongkare",
+        "poscode": "22756"
+    },
+    {
+        "code": "1220022055",
+        "name": "Siala Gundi",
+        "poscode": "22756"
+    },
+    {
+        "code": "1220022074",
+        "name": "Sialang Dolok",
+        "poscode": "22756"
+    },
+    {
+        "code": "1220022080",
+        "name": "Sibayo",
+        "poscode": "22756"
+    },
+    {
+        "code": "1220022050",
+        "name": "Sibayo Jae",
+        "poscode": "22756"
+    },
+    {
+        "code": "1220022063",
+        "name": "Sibio Bio",
+        "poscode": "22756"
+    },
+    {
+        "code": "1220022085",
+        "name": "Siburbur",
+        "poscode": "22756"
+    },
+    {
+        "code": "1220022049",
+        "name": "Sigala Gala",
+        "poscode": "22756"
+    },
+    {
+        "code": "1220022001",
+        "name": "Siguga",
+        "poscode": "22756"
+    },
+    {
+        "code": "1220022072",
+        "name": "Sijantung Jae",
+        "poscode": "22756"
+    },
+    {
+        "code": "1220022021",
+        "name": "Sijantung Julu",
+        "poscode": "22756"
+    },
+    {
+        "code": "1220022065",
+        "name": "Sijara Jara",
+        "poscode": "22756"
+    },
+    {
+        "code": "1220022012",
+        "name": "Sijorang",
+        "poscode": "22756"
+    },
+    {
+        "code": "1220022052",
+        "name": "Silangge",
+        "poscode": "22756"
+    },
+    {
+        "code": "1220022033",
+        "name": "Silogo Logo",
+        "poscode": "22756"
+    },
+    {
+        "code": "1220022028",
+        "name": "Siloung",
+        "poscode": "22756"
+    },
+    {
+        "code": "1220022078",
+        "name": "Simambal",
+        "poscode": "22756"
+    },
+    {
+        "code": "1220022048",
+        "name": "Simangambat Tua",
+        "poscode": "22756"
+    },
+    {
+        "code": "1220022013",
+        "name": "Simaninggir Sip",
+        "poscode": "22756"
+    },
+    {
+        "code": "1220022076",
+        "name": "Simanosor",
+        "poscode": "22756"
+    },
+    {
+        "code": "1220022041",
+        "name": "Simataniari",
+        "poscode": "22756"
+    },
+    {
+        "code": "1220022039",
+        "name": "Simataniari Jae",
+        "poscode": "22756"
+    },
+    {
+        "code": "1220022036",
+        "name": "Simatorkis",
+        "poscode": "22756"
+    },
+    {
+        "code": "1220022081",
+        "name": "Sinabongan",
+        "poscode": "22756"
+    },
+    {
+        "code": "1220022002",
+        "name": "Singanyal",
+        "poscode": "22756"
+    },
+    {
+        "code": "1220022030",
+        "name": "Sipiongot",
+        "poscode": "22756"
+    },
+    {
+        "code": "1220022056",
+        "name": "Siraga HP",
+        "poscode": "22756"
+    },
+    {
+        "code": "1220022082",
+        "name": "Siranap",
+        "poscode": "22756"
+    },
+    {
+        "code": "1220022064",
+        "name": "Situmbaga",
+        "poscode": "22756"
+    },
+    {
+        "code": "1220022045",
+        "name": "Sungai Datar",
+        "poscode": "22756"
+    },
+    {
+        "code": "1220022027",
+        "name": "Sungai Pining",
+        "poscode": "22756"
+    },
+    {
+        "code": "1220022005",
+        "name": "Tanjung Baru B",
+        "poscode": "22756"
+    },
+    {
+        "code": "1220022062",
+        "name": "Tanjung Longat",
+        "poscode": "22756"
+    },
+    {
+        "code": "1220022026",
+        "name": "Tarutung Bolak",
+        "poscode": "22756"
+    }
+]

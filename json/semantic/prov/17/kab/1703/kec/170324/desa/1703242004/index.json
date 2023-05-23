@@ -1,0 +1,17 @@
+{
+    "code": "1703242004",
+    "name": "Bukit Makmur",
+    "poscode": "38362",
+    "provinsi": {
+        "code": "17",
+        "name": "Bengkulu"
+    },
+    "kabupaten": {
+        "code": "1703",
+        "name": "Bengkulu Utara"
+    },
+    "kecamatan": {
+        "code": "170324",
+        "name": "Pinang Raya"
+    }
+}

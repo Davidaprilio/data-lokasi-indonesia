@@ -1,0 +1,17 @@
+{
+    "code": "5317012019",
+    "name": "Umbu Riri",
+    "poscode": "87282",
+    "provinsi": {
+        "code": "53",
+        "name": "Nusa Tenggara Timur (NTT)"
+    },
+    "kabupaten": {
+        "code": "5317",
+        "name": "Sumba Tengah"
+    },
+    "kecamatan": {
+        "code": "531701",
+        "name": "Katiku Tana"
+    }
+}

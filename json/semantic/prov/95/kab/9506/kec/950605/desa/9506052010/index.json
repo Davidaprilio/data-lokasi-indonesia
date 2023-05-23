@@ -1,0 +1,17 @@
+{
+    "code": "9506052010",
+    "name": "Kampol",
+    "poscode": "99083",
+    "provinsi": {
+        "code": "95",
+        "name": "Papua Pegunungan"
+    },
+    "kabupaten": {
+        "code": "9506",
+        "name": "Yalimo"
+    },
+    "kecamatan": {
+        "code": "950605",
+        "name": "Welarek"
+    }
+}

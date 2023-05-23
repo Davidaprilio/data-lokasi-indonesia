@@ -1,0 +1,17 @@
+{
+    "code": "9205222005",
+    "name": "Waimeci",
+    "poscode": "98494",
+    "provinsi": {
+        "code": "96",
+        "name": "Papua Barat Daya"
+    },
+    "kabupaten": {
+        "code": "9205",
+        "name": "Raja Ampat"
+    },
+    "kecamatan": {
+        "code": "920522",
+        "name": "Salawati Tengah"
+    }
+}

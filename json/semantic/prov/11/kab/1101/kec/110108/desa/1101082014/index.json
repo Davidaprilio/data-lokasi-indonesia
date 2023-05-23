@@ -1,0 +1,17 @@
+{
+    "code": "1101082014",
+    "name": "Lhok Rukam",
+    "poscode": "23711",
+    "provinsi": {
+        "code": "11",
+        "name": "Aceh (NAD)"
+    },
+    "kabupaten": {
+        "code": "1101",
+        "name": "Aceh Selatan"
+    },
+    "kecamatan": {
+        "code": "110108",
+        "name": "Tapaktuan (Tapak Tuan)"
+    }
+}

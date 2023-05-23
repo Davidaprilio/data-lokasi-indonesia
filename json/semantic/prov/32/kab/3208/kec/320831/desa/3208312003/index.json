@@ -1,0 +1,17 @@
+{
+    "code": "3208312003",
+    "name": "Kertaungaran",
+    "poscode": "45573",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3208",
+        "name": "Kuningan"
+    },
+    "kecamatan": {
+        "code": "320831",
+        "name": "Sindang Agung (Sindangagung)"
+    }
+}

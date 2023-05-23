@@ -1,0 +1,17 @@
+{
+    "code": "1409152002",
+    "name": "Ibul",
+    "poscode": "29557",
+    "provinsi": {
+        "code": "14",
+        "name": "Riau"
+    },
+    "kabupaten": {
+        "code": "1409",
+        "name": "Kuantan Singingi"
+    },
+    "kecamatan": {
+        "code": "140915",
+        "name": "Pucuk Rantau"
+    }
+}

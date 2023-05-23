@@ -1,0 +1,17 @@
+{
+    "code": "3512042002",
+    "name": "Sumberanyar (Sumber Anyar)",
+    "poscode": "68353",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3512",
+        "name": "Situbondo"
+    },
+    "kecamatan": {
+        "code": "351204",
+        "name": "Mlandingan"
+    }
+}

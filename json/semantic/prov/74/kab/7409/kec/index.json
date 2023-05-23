@@ -1,0 +1,93 @@
+[
+    {
+        "code": "740909",
+        "name": "Andowia",
+        "count": {
+            "desa": 15
+        }
+    },
+    {
+        "code": "740901",
+        "name": "Asera",
+        "count": {
+            "desa": 19
+        }
+    },
+    {
+        "code": "740913",
+        "name": "Landawe",
+        "count": {
+            "desa": 11
+        }
+    },
+    {
+        "code": "740903",
+        "name": "Langgikima",
+        "count": {
+            "desa": 12
+        }
+    },
+    {
+        "code": "740905",
+        "name": "Lasolo",
+        "count": {
+            "desa": 17
+        }
+    },
+    {
+        "code": "740912",
+        "name": "Lasolo Kepulauan",
+        "count": {
+            "desa": 6
+        }
+    },
+    {
+        "code": "740906",
+        "name": "Lembo",
+        "count": {
+            "desa": 12
+        }
+    },
+    {
+        "code": "740904",
+        "name": "Molawe",
+        "count": {
+            "desa": 9
+        }
+    },
+    {
+        "code": "740910",
+        "name": "Motui",
+        "count": {
+            "desa": 15
+        }
+    },
+    {
+        "code": "740908",
+        "name": "Oheo",
+        "count": {
+            "desa": 17
+        }
+    },
+    {
+        "code": "740907",
+        "name": "Sawa",
+        "count": {
+            "desa": 14
+        }
+    },
+    {
+        "code": "740911",
+        "name": "Wawolesea",
+        "count": {
+            "desa": 8
+        }
+    },
+    {
+        "code": "740902",
+        "name": "Wiwirano",
+        "count": {
+            "desa": 15
+        }
+    }
+]

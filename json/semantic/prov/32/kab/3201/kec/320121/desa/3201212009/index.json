@@ -1,0 +1,17 @@
+{
+    "code": "3201212009",
+    "name": "Pangkaljaya (Pangkal Jaya)",
+    "poscode": "16650",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3201",
+        "name": "Bogor"
+    },
+    "kecamatan": {
+        "code": "320121",
+        "name": "Nanggung"
+    }
+}

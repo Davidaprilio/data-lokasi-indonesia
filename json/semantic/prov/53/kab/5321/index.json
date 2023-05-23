@@ -1,0 +1,10 @@
+{
+    "code": "5321",
+    "type": "Kabupaten",
+    "name": "Malaka",
+    "fullname": "Kabupaten Malaka",
+    "jumlah": {
+        "kecamatan": 12,
+        "desa": 127
+    }
+}

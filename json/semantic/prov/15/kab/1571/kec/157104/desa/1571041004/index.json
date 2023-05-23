@@ -1,0 +1,17 @@
+{
+    "code": "1571041004",
+    "name": "Sungai Asam",
+    "poscode": "36134",
+    "provinsi": {
+        "code": "15",
+        "name": "Jambi"
+    },
+    "kabupaten": {
+        "code": "1571",
+        "name": "Jambi"
+    },
+    "kecamatan": {
+        "code": "157104",
+        "name": "Pasar Jambi"
+    }
+}

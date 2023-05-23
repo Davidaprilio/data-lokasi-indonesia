@@ -1,0 +1,10 @@
+{
+    "code": "1802",
+    "type": "Kabupaten",
+    "name": "Lampung Tengah",
+    "fullname": "Kabupaten Lampung Tengah",
+    "jumlah": {
+        "kecamatan": 28,
+        "desa": 311
+    }
+}

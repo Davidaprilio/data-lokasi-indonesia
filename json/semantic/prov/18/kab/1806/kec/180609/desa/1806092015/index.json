@@ -1,0 +1,17 @@
+{
+    "code": "1806092015",
+    "name": "Tanjung Betuah",
+    "poscode": "35683",
+    "provinsi": {
+        "code": "18",
+        "name": "Lampung"
+    },
+    "kabupaten": {
+        "code": "1806",
+        "name": "Tanggamus"
+    },
+    "kecamatan": {
+        "code": "180609",
+        "name": "Cukuh Balak"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "code": "2172",
+    "type": "Kota",
+    "name": "Tanjung Pinang",
+    "fullname": "Kota Tanjung Pinang",
+    "jumlah": {
+        "kecamatan": 4,
+        "desa": 18
+    }
+}

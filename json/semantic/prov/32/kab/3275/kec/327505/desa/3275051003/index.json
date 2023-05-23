@@ -1,0 +1,17 @@
+{
+    "code": "3275051003",
+    "name": "Sepanjangjaya (Sepanjang Jaya)",
+    "poscode": "17114",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3275",
+        "name": "Bekasi"
+    },
+    "kecamatan": {
+        "code": "327505",
+        "name": "Rawalumbu"
+    }
+}

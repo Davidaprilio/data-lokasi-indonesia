@@ -1,0 +1,10 @@
+{
+    "code": "3575",
+    "type": "Kota",
+    "name": "Pasuruan",
+    "fullname": "Kota Pasuruan",
+    "jumlah": {
+        "kecamatan": 4,
+        "desa": 34
+    }
+}

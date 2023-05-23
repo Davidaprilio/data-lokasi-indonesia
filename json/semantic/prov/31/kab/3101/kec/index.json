@@ -1,0 +1,16 @@
+[
+    {
+        "code": "310102",
+        "name": "Kepulauan Seribu Selatan",
+        "count": {
+            "desa": 3
+        }
+    },
+    {
+        "code": "310101",
+        "name": "Kepulauan Seribu Utara",
+        "count": {
+            "desa": 3
+        }
+    }
+]

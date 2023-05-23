@@ -1,0 +1,10 @@
+{
+    "code": "3372",
+    "type": "Kota",
+    "name": "Surakarta",
+    "fullname": "Kota Surakarta",
+    "jumlah": {
+        "kecamatan": 5,
+        "desa": 54
+    }
+}

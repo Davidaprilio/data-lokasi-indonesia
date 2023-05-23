@@ -1,0 +1,17 @@
+{
+    "code": "7402152020",
+    "name": "Andalambe",
+    "poscode": "93460",
+    "provinsi": {
+        "code": "74",
+        "name": "Sulawesi Tenggara"
+    },
+    "kabupaten": {
+        "code": "7402",
+        "name": "Konawe"
+    },
+    "kecamatan": {
+        "code": "740215",
+        "name": "Tongauna"
+    }
+}

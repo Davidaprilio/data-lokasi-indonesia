@@ -1,0 +1,17 @@
+{
+    "code": "6202142004",
+    "name": "Kenyala",
+    "poscode": "74350",
+    "provinsi": {
+        "code": "62",
+        "name": "Kalimantan Tengah"
+    },
+    "kabupaten": {
+        "code": "6202",
+        "name": "Kotawaringin Timur"
+    },
+    "kecamatan": {
+        "code": "620214",
+        "name": "Telawang"
+    }
+}

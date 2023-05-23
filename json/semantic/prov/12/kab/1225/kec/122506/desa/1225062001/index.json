@@ -1,0 +1,17 @@
+{
+    "code": "1225062001",
+    "name": "Balodano",
+    "poscode": "22813",
+    "provinsi": {
+        "code": "12",
+        "name": "Sumatera Utara"
+    },
+    "kabupaten": {
+        "code": "1225",
+        "name": "Nias Barat"
+    },
+    "kecamatan": {
+        "code": "122506",
+        "name": "Mandrehe Utara"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "1103172001",
+    "name": "Babah Krueng",
+    "poscode": "24440",
+    "provinsi": {
+        "code": "11",
+        "name": "Aceh (NAD)"
+    },
+    "kabupaten": {
+        "code": "1103",
+        "name": "Aceh Timur"
+    },
+    "kecamatan": {
+        "code": "110317",
+        "name": "Peureulak Timur"
+    }
+}

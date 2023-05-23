@@ -1,0 +1,17 @@
+{
+    "code": "9504292011",
+    "name": "Kubur",
+    "poscode": "99021",
+    "provinsi": {
+        "code": "95",
+        "name": "Papua Pegunungan"
+    },
+    "kabupaten": {
+        "code": "9504",
+        "name": "Tolikara"
+    },
+    "kecamatan": {
+        "code": "950429",
+        "name": "Airgaram"
+    }
+}

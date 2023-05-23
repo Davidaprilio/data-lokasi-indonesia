@@ -1,0 +1,17 @@
+{
+    "code": "9501032020",
+    "name": "Umpagalo",
+    "poscode": "99521",
+    "provinsi": {
+        "code": "95",
+        "name": "Papua Pegunungan"
+    },
+    "kabupaten": {
+        "code": "9501",
+        "name": "Jayawijaya"
+    },
+    "kecamatan": {
+        "code": "950103",
+        "name": "Kurulu"
+    }
+}

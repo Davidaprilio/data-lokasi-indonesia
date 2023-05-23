@@ -1,0 +1,17 @@
+{
+    "code": "1507052006",
+    "name": "Sungai Benuh",
+    "poscode": "36773",
+    "provinsi": {
+        "code": "15",
+        "name": "Jambi"
+    },
+    "kabupaten": {
+        "code": "1507",
+        "name": "Tanjung Jabung Timur"
+    },
+    "kecamatan": {
+        "code": "150705",
+        "name": "Sadu"
+    }
+}

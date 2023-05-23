@@ -1,0 +1,17 @@
+{
+    "code": "1804112002",
+    "name": "Hanakau",
+    "poscode": "34868",
+    "provinsi": {
+        "code": "18",
+        "name": "Lampung"
+    },
+    "kabupaten": {
+        "code": "1804",
+        "name": "Lampung Barat"
+    },
+    "kecamatan": {
+        "code": "180411",
+        "name": "Sukau"
+    }
+}

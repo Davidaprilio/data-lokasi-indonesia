@@ -1,0 +1,17 @@
+{
+    "code": "9205062012",
+    "name": "Limalas Timur",
+    "poscode": "98486",
+    "provinsi": {
+        "code": "96",
+        "name": "Papua Barat Daya"
+    },
+    "kabupaten": {
+        "code": "9205",
+        "name": "Raja Ampat"
+    },
+    "kecamatan": {
+        "code": "920506",
+        "name": "Misool Timur"
+    }
+}

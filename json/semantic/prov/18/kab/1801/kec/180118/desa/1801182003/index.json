@@ -1,0 +1,17 @@
+{
+    "code": "1801182003",
+    "name": "Tanjung Baru",
+    "poscode": "35357",
+    "provinsi": {
+        "code": "18",
+        "name": "Lampung"
+    },
+    "kabupaten": {
+        "code": "1801",
+        "name": "Lampung Selatan"
+    },
+    "kecamatan": {
+        "code": "180118",
+        "name": "Merbau Mataram"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "3508142009",
+    "name": "Tanggung",
+    "poscode": "67352",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3508",
+        "name": "Lumajang"
+    },
+    "kecamatan": {
+        "code": "350814",
+        "name": "Padang"
+    }
+}

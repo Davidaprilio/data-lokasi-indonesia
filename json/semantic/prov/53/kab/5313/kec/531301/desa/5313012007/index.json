@@ -1,0 +1,17 @@
+{
+    "code": "5313012007",
+    "name": "Babokerong",
+    "poscode": "86684",
+    "provinsi": {
+        "code": "53",
+        "name": "Nusa Tenggara Timur (NTT)"
+    },
+    "kabupaten": {
+        "code": "5313",
+        "name": "Lembata"
+    },
+    "kecamatan": {
+        "code": "531301",
+        "name": "Naga Wutung"
+    }
+}

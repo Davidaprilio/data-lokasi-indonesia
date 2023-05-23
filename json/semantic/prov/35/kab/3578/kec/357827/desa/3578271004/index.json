@@ -1,0 +1,17 @@
+{
+    "code": "3578271004",
+    "name": "Putat Gede",
+    "poscode": "60189",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3578",
+        "name": "Surabaya"
+    },
+    "kecamatan": {
+        "code": "357827",
+        "name": "Sukomanunggal"
+    }
+}

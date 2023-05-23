@@ -1,0 +1,17 @@
+{
+    "code": "7205042017",
+    "name": "Pokobo",
+    "poscode": "94567",
+    "provinsi": {
+        "code": "72",
+        "name": "Sulawesi Tengah"
+    },
+    "kabupaten": {
+        "code": "7205",
+        "name": "Buol"
+    },
+    "kecamatan": {
+        "code": "720504",
+        "name": "Bunobogu"
+    }
+}

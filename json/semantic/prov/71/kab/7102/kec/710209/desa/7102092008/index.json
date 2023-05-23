@@ -1,0 +1,17 @@
+{
+    "code": "7102092008",
+    "name": "Amongena Satu (I)",
+    "poscode": "95696",
+    "provinsi": {
+        "code": "71",
+        "name": "Sulawesi Utara"
+    },
+    "kabupaten": {
+        "code": "7102",
+        "name": "Minahasa"
+    },
+    "kecamatan": {
+        "code": "710209",
+        "name": "Langowan Timur"
+    }
+}

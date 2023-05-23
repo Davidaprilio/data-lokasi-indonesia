@@ -1,0 +1,10 @@
+{
+    "code": "3271",
+    "type": "Kota",
+    "name": "Bogor",
+    "fullname": "Kota Bogor",
+    "jumlah": {
+        "kecamatan": 6,
+        "desa": 68
+    }
+}

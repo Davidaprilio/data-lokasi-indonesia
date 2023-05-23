@@ -1,0 +1,17 @@
+{
+    "code": "3175071001",
+    "name": "Duren Sawit",
+    "poscode": "13440",
+    "provinsi": {
+        "code": "31",
+        "name": "DKI Jakarta"
+    },
+    "kabupaten": {
+        "code": "3175",
+        "name": "Jakarta Timur"
+    },
+    "kecamatan": {
+        "code": "317507",
+        "name": "Duren Sawit"
+    }
+}

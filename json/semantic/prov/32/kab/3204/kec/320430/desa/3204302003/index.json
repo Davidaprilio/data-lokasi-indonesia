@@ -1,0 +1,17 @@
+{
+    "code": "3204302003",
+    "name": "Cananggela (Cinanggela)",
+    "poscode": "40385",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3204",
+        "name": "Bandung"
+    },
+    "kecamatan": {
+        "code": "320430",
+        "name": "Pacet"
+    }
+}

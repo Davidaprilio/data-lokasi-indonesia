@@ -1,0 +1,17 @@
+{
+    "code": "1108142009",
+    "name": "Tanjong Dalam Utara",
+    "poscode": "24395",
+    "provinsi": {
+        "code": "11",
+        "name": "Aceh (NAD)"
+    },
+    "kabupaten": {
+        "code": "1108",
+        "name": "Aceh Utara"
+    },
+    "kecamatan": {
+        "code": "110814",
+        "name": "Tanah Jambo Aye"
+    }
+}

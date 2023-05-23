@@ -1,0 +1,17 @@
+{
+    "code": "1212212005",
+    "name": "Napajoring (Napajoriho)",
+    "poscode": "22383",
+    "provinsi": {
+        "code": "12",
+        "name": "Sumatera Utara"
+    },
+    "kabupaten": {
+        "code": "1212",
+        "name": "Toba"
+    },
+    "kecamatan": {
+        "code": "121221",
+        "name": "Nassau"
+    }
+}

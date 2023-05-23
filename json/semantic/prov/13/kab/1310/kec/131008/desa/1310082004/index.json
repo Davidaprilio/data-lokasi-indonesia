@@ -1,0 +1,17 @@
+{
+    "code": "1310082004",
+    "name": "Sipangkur",
+    "poscode": "27687",
+    "provinsi": {
+        "code": "13",
+        "name": "Sumatera Barat"
+    },
+    "kabupaten": {
+        "code": "1310",
+        "name": "Dharmasraya"
+    },
+    "kecamatan": {
+        "code": "131008",
+        "name": "Tiumang"
+    }
+}

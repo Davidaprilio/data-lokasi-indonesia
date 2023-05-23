@@ -1,0 +1,17 @@
+{
+    "code": "7201062016",
+    "name": "Tanotu",
+    "poscode": "94773",
+    "provinsi": {
+        "code": "72",
+        "name": "Sulawesi Tengah"
+    },
+    "kabupaten": {
+        "code": "7201",
+        "name": "Banggai"
+    },
+    "kecamatan": {
+        "code": "720106",
+        "name": "Balantak"
+    }
+}

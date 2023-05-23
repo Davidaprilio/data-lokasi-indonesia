@@ -1,0 +1,17 @@
+{
+    "code": "1114082014",
+    "name": "Ujong Rimba",
+    "poscode": "23656",
+    "provinsi": {
+        "code": "11",
+        "name": "Aceh (NAD)"
+    },
+    "kabupaten": {
+        "code": "1114",
+        "name": "Aceh Jaya"
+    },
+    "kecamatan": {
+        "code": "111408",
+        "name": "Darul Hikmah"
+    }
+}

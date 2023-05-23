@@ -1,0 +1,57 @@
+[
+    {
+        "code": "1709112010",
+        "name": "Bukit",
+        "poscode": "38385"
+    },
+    {
+        "code": "1709112004",
+        "name": "Gajah Mati",
+        "poscode": "38382"
+    },
+    {
+        "code": "1709112002",
+        "name": "Karang Nanding",
+        "poscode": "38382"
+    },
+    {
+        "code": "1709112011",
+        "name": "Kota Niur",
+        "poscode": "38388"
+    },
+    {
+        "code": "1709112009",
+        "name": "Lagan",
+        "poscode": "38385"
+    },
+    {
+        "code": "1709112006",
+        "name": "Lagan Bungin",
+        "poscode": "38385"
+    },
+    {
+        "code": "1709112005",
+        "name": "Padang Siring",
+        "poscode": "38382"
+    },
+    {
+        "code": "1709112001",
+        "name": "Pagar Gunung",
+        "poscode": "38382"
+    },
+    {
+        "code": "1709112007",
+        "name": "Pagar Jati",
+        "poscode": "38385"
+    },
+    {
+        "code": "1709112003",
+        "name": "Semidang",
+        "poscode": "38382"
+    },
+    {
+        "code": "1709112008",
+        "name": "Taba Lagan",
+        "poscode": "38385"
+    }
+]

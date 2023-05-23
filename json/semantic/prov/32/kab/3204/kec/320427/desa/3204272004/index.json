@@ -1,0 +1,17 @@
+{
+    "code": "3204272004",
+    "name": "Cihanyir",
+    "poscode": "40396",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3204",
+        "name": "Bandung"
+    },
+    "kecamatan": {
+        "code": "320427",
+        "name": "Cikancung"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "5310121011",
+    "name": "Carep",
+    "poscode": "86519",
+    "provinsi": {
+        "code": "53",
+        "name": "Nusa Tenggara Timur (NTT)"
+    },
+    "kabupaten": {
+        "code": "5310",
+        "name": "Manggarai"
+    },
+    "kecamatan": {
+        "code": "531012",
+        "name": "Langke Rembong"
+    }
+}

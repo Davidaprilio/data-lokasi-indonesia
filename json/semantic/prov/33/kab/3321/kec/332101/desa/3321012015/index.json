@@ -1,0 +1,17 @@
+{
+    "code": "3321012015",
+    "name": "Jamus",
+    "poscode": "59567",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3321",
+        "name": "Demak"
+    },
+    "kecamatan": {
+        "code": "332101",
+        "name": "Mranggen"
+    }
+}

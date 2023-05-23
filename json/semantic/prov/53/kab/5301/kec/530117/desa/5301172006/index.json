@@ -1,0 +1,17 @@
+{
+    "code": "5301172006",
+    "name": "Nekbaun",
+    "poscode": "85376",
+    "provinsi": {
+        "code": "53",
+        "name": "Nusa Tenggara Timur (NTT)"
+    },
+    "kabupaten": {
+        "code": "5301",
+        "name": "Kupang"
+    },
+    "kecamatan": {
+        "code": "530117",
+        "name": "Amarasi Barat"
+    }
+}

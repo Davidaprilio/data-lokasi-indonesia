@@ -1,0 +1,17 @@
+{
+    "code": "1307042004",
+    "name": "Andaleh",
+    "poscode": "26261",
+    "provinsi": {
+        "code": "13",
+        "name": "Sumatera Barat"
+    },
+    "kabupaten": {
+        "code": "1307",
+        "name": "Lima Puluh Kota"
+    },
+    "kecamatan": {
+        "code": "130704",
+        "name": "Luak (Luhak)"
+    }
+}

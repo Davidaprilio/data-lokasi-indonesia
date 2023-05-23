@@ -1,0 +1,17 @@
+{
+    "code": "7604082018",
+    "name": "Rappang Barat",
+    "poscode": "91359",
+    "provinsi": {
+        "code": "76",
+        "name": "Sulawesi Barat"
+    },
+    "kabupaten": {
+        "code": "7604",
+        "name": "Polewali Mandar"
+    },
+    "kecamatan": {
+        "code": "760408",
+        "name": "Mapilli"
+    }
+}

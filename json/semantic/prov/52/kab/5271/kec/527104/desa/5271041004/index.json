@@ -1,0 +1,17 @@
+{
+    "code": "5271041004",
+    "name": "Tanjung Karang Permai",
+    "poscode": "83116",
+    "provinsi": {
+        "code": "52",
+        "name": "Nusa Tenggara Barat (NTB)"
+    },
+    "kabupaten": {
+        "code": "5271",
+        "name": "Mataram"
+    },
+    "kecamatan": {
+        "code": "527104",
+        "name": "Sekarbela"
+    }
+}

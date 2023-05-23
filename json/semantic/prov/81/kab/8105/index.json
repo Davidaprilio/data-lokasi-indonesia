@@ -1,0 +1,10 @@
+{
+    "code": "8105",
+    "type": "Kabupaten",
+    "name": "Seram Bagian Timur",
+    "fullname": "Kabupaten Seram Bagian Timur",
+    "jumlah": {
+        "kecamatan": 15,
+        "desa": 198
+    }
+}

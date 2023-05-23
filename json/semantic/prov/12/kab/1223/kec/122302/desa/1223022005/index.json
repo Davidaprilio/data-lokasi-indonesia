@@ -1,0 +1,17 @@
+{
+    "code": "1223022005",
+    "name": "Simandulang",
+    "poscode": "21475",
+    "provinsi": {
+        "code": "12",
+        "name": "Sumatera Utara"
+    },
+    "kabupaten": {
+        "code": "1223",
+        "name": "Labuhanbatu Utara"
+    },
+    "kecamatan": {
+        "code": "122302",
+        "name": "Kualuh Leidong"
+    }
+}

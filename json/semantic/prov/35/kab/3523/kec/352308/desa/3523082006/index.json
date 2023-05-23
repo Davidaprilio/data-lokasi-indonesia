@@ -1,0 +1,17 @@
+{
+    "code": "3523082006",
+    "name": "Gaji",
+    "poscode": "62356",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3523",
+        "name": "Tuban"
+    },
+    "kecamatan": {
+        "code": "352308",
+        "name": "Kerek"
+    }
+}

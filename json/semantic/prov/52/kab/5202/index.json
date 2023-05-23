@@ -1,0 +1,10 @@
+{
+    "code": "5202",
+    "type": "Kabupaten",
+    "name": "Lombok Tengah",
+    "fullname": "Kabupaten Lombok Tengah",
+    "jumlah": {
+        "kecamatan": 12,
+        "desa": 139
+    }
+}

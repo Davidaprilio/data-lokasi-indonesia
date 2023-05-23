@@ -1,0 +1,17 @@
+{
+    "code": "9408052004",
+    "name": "Idego",
+    "poscode": "98752",
+    "provinsi": {
+        "code": "94",
+        "name": "Papua Tengah"
+    },
+    "kabupaten": {
+        "code": "9408",
+        "name": "Deiyai"
+    },
+    "kecamatan": {
+        "code": "940805",
+        "name": "Kapiraya"
+    }
+}

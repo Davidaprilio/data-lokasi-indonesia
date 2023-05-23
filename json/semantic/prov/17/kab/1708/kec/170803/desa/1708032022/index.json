@@ -1,0 +1,17 @@
+{
+    "code": "1708032022",
+    "name": "Taba Saling",
+    "poscode": "39373",
+    "provinsi": {
+        "code": "17",
+        "name": "Bengkulu"
+    },
+    "kabupaten": {
+        "code": "1708",
+        "name": "Kepahiang"
+    },
+    "kecamatan": {
+        "code": "170803",
+        "name": "Tebat Karai"
+    }
+}

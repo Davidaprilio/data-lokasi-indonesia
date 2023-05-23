@@ -1,0 +1,17 @@
+{
+    "code": "3214162007",
+    "name": "Salamjaya",
+    "poscode": "41115",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3214",
+        "name": "Purwakarta"
+    },
+    "kecamatan": {
+        "code": "321416",
+        "name": "Pondoksalam"
+    }
+}

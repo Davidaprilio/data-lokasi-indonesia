@@ -1,0 +1,17 @@
+{
+    "code": "3328092016",
+    "name": "Talok",
+    "poscode": "52471",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3328",
+        "name": "Tegal"
+    },
+    "kecamatan": {
+        "code": "332809",
+        "name": "Pangkah"
+    }
+}

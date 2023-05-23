@@ -1,0 +1,17 @@
+{
+    "code": "7571051004",
+    "name": "Heledulaa Selatan",
+    "poscode": "96114",
+    "provinsi": {
+        "code": "75",
+        "name": "Gorontalo"
+    },
+    "kabupaten": {
+        "code": "7571",
+        "name": "Gorontalo"
+    },
+    "kecamatan": {
+        "code": "757105",
+        "name": "Kota Timur"
+    }
+}

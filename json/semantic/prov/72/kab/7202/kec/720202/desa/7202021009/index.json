@@ -1,0 +1,17 @@
+{
+    "code": "7202021009",
+    "name": "Mapane",
+    "poscode": "94652",
+    "provinsi": {
+        "code": "72",
+        "name": "Sulawesi Tengah"
+    },
+    "kabupaten": {
+        "code": "7202",
+        "name": "Poso"
+    },
+    "kecamatan": {
+        "code": "720202",
+        "name": "Poso Pesisir"
+    }
+}

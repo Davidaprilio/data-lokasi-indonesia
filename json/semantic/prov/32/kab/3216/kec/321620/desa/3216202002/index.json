@@ -1,0 +1,17 @@
+{
+    "code": "3216202002",
+    "name": "Sukamahi",
+    "poscode": "17531",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3216",
+        "name": "Bekasi"
+    },
+    "kecamatan": {
+        "code": "321620",
+        "name": "Cikarang Pusat"
+    }
+}

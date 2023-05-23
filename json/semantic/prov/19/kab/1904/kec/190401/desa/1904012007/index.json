@@ -1,0 +1,17 @@
+{
+    "code": "1904012007",
+    "name": "Penyak",
+    "poscode": "33681",
+    "provinsi": {
+        "code": "19",
+        "name": "Kepulauan Bangka Belitung"
+    },
+    "kabupaten": {
+        "code": "1904",
+        "name": "Bangka Tengah"
+    },
+    "kecamatan": {
+        "code": "190401",
+        "name": "Koba"
+    }
+}

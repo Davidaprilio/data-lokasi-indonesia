@@ -1,0 +1,17 @@
+{
+    "code": "7208132009",
+    "name": "Tomoli Utara",
+    "poscode": "94466",
+    "provinsi": {
+        "code": "72",
+        "name": "Sulawesi Tengah"
+    },
+    "kabupaten": {
+        "code": "7208",
+        "name": "Parigi Moutong"
+    },
+    "kecamatan": {
+        "code": "720813",
+        "name": "Toribulu"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "1606082006",
+    "name": "Sumber Agung",
+    "poscode": "30754",
+    "provinsi": {
+        "code": "16",
+        "name": "Sumatera Selatan"
+    },
+    "kabupaten": {
+        "code": "1606",
+        "name": "Musi Banyuasin"
+    },
+    "kecamatan": {
+        "code": "160608",
+        "name": "Keluang"
+    }
+}

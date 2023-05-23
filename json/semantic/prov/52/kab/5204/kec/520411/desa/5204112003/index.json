@@ -1,0 +1,17 @@
+{
+    "code": "5204112003",
+    "name": "Lebangkar",
+    "poscode": "84375",
+    "provinsi": {
+        "code": "52",
+        "name": "Nusa Tenggara Barat (NTB)"
+    },
+    "kabupaten": {
+        "code": "5204",
+        "name": "Sumbawa"
+    },
+    "kecamatan": {
+        "code": "520411",
+        "name": "Ropang"
+    }
+}

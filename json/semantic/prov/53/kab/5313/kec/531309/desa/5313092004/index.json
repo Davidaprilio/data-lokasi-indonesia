@@ -1,0 +1,17 @@
+{
+    "code": "5313092004",
+    "name": "Lamatokan",
+    "poscode": "86687",
+    "provinsi": {
+        "code": "53",
+        "name": "Nusa Tenggara Timur (NTT)"
+    },
+    "kabupaten": {
+        "code": "5313",
+        "name": "Lembata"
+    },
+    "kecamatan": {
+        "code": "531309",
+        "name": "Ile Ape Timur"
+    }
+}

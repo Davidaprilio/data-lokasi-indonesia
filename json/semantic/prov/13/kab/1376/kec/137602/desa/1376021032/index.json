@@ -1,0 +1,17 @@
+{
+    "code": "1376021032",
+    "name": "Ompang Tanah Sirah",
+    "poscode": "26216",
+    "provinsi": {
+        "code": "13",
+        "name": "Sumatera Barat"
+    },
+    "kabupaten": {
+        "code": "1376",
+        "name": "Payakumbuh"
+    },
+    "kecamatan": {
+        "code": "137602",
+        "name": "Payakumbuh Utara"
+    }
+}

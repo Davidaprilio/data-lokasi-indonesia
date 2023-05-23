@@ -1,0 +1,10 @@
+{
+    "code": "9171",
+    "type": "Kota",
+    "name": "Jayapura",
+    "fullname": "Kota Jayapura",
+    "jumlah": {
+        "kecamatan": 5,
+        "desa": 39
+    }
+}

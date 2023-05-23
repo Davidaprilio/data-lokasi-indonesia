@@ -1,0 +1,10 @@
+{
+    "code": "3673",
+    "type": "Kota",
+    "name": "Serang",
+    "fullname": "Kota Serang",
+    "jumlah": {
+        "kecamatan": 6,
+        "desa": 66
+    }
+}

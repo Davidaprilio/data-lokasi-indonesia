@@ -1,0 +1,17 @@
+{
+    "code": "6502062005",
+    "name": "Nunuk Tanah Kibang",
+    "poscode": "77551",
+    "provinsi": {
+        "code": "65",
+        "name": "Kalimantan Utara"
+    },
+    "kabupaten": {
+        "code": "6502",
+        "name": "Malinau"
+    },
+    "kecamatan": {
+        "code": "650206",
+        "name": "Malinau Selatan"
+    }
+}

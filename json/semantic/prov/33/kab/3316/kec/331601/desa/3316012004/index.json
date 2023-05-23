@@ -1,0 +1,17 @@
+{
+    "code": "3316012004",
+    "name": "Pelem",
+    "poscode": "58384",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3316",
+        "name": "Blora"
+    },
+    "kecamatan": {
+        "code": "331601",
+        "name": "Jati"
+    }
+}

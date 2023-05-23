@@ -1,0 +1,17 @@
+{
+    "code": "3529172014",
+    "name": "Sergang",
+    "poscode": "69453",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3529",
+        "name": "Sumenep"
+    },
+    "kecamatan": {
+        "code": "352917",
+        "name": "Batuputih"
+    }
+}

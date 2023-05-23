@@ -1,0 +1,17 @@
+{
+    "code": "9405242003",
+    "name": "Tobenggi",
+    "poscode": "98964",
+    "provinsi": {
+        "code": "94",
+        "name": "Papua Tengah"
+    },
+    "kabupaten": {
+        "code": "9405",
+        "name": "Puncak"
+    },
+    "kecamatan": {
+        "code": "940524",
+        "name": "Gome Utara"
+    }
+}

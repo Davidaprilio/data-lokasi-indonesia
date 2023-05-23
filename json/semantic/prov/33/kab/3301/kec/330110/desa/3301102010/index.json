@@ -1,0 +1,17 @@
+{
+    "code": "3301102010",
+    "name": "Layansari",
+    "poscode": "53254",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3301",
+        "name": "Cilacap"
+    },
+    "kecamatan": {
+        "code": "330110",
+        "name": "Gandrungmangu"
+    }
+}

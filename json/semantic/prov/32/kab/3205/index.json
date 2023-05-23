@@ -1,0 +1,10 @@
+{
+    "code": "3205",
+    "type": "Kabupaten",
+    "name": "Garut",
+    "fullname": "Kabupaten Garut",
+    "jumlah": {
+        "kecamatan": 42,
+        "desa": 442
+    }
+}

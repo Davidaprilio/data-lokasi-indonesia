@@ -1,0 +1,17 @@
+{
+    "code": "3517052008",
+    "name": "Sumberjo",
+    "poscode": "61476",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3517",
+        "name": "Jombang"
+    },
+    "kecamatan": {
+        "code": "351705",
+        "name": "Wonosalam"
+    }
+}

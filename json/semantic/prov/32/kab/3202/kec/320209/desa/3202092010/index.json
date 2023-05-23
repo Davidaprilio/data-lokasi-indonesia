@@ -1,0 +1,17 @@
+{
+    "code": "3202092010",
+    "name": "Mekarjaya",
+    "poscode": "43362",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3202",
+        "name": "Sukabumi"
+    },
+    "kecamatan": {
+        "code": "320209",
+        "name": "Warungkiara"
+    }
+}

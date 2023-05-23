@@ -1,0 +1,17 @@
+{
+    "code": "3276031011",
+    "name": "Sawangan Baru",
+    "poscode": "16511",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3276",
+        "name": "Depok"
+    },
+    "kecamatan": {
+        "code": "327603",
+        "name": "Sawangan"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "6408162002",
+    "name": "Batu Lepoq",
+    "poscode": "75684",
+    "provinsi": {
+        "code": "64",
+        "name": "Kalimantan Timur"
+    },
+    "kabupaten": {
+        "code": "6408",
+        "name": "Kutai Timur"
+    },
+    "kecamatan": {
+        "code": "640816",
+        "name": "Karangan"
+    }
+}

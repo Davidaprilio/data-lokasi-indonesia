@@ -1,0 +1,135 @@
+[
+    {
+        "code": "910316",
+        "name": "Airu",
+        "count": {
+            "desa": 6
+        }
+    },
+    {
+        "code": "910310",
+        "name": "Demta",
+        "count": {
+            "desa": 7
+        }
+    },
+    {
+        "code": "910303",
+        "name": "Depapre",
+        "count": {
+            "desa": 8
+        }
+    },
+    {
+        "code": "910312",
+        "name": "Ebungfao (Ebungfau / Ebungfa)",
+        "count": {
+            "desa": 5
+        }
+    },
+    {
+        "code": "910318",
+        "name": "Gresi Selatan",
+        "count": {
+            "desa": 4
+        }
+    },
+    {
+        "code": "910311",
+        "name": "Kaureh",
+        "count": {
+            "desa": 5
+        }
+    },
+    {
+        "code": "910305",
+        "name": "Kemtuk",
+        "count": {
+            "desa": 12
+        }
+    },
+    {
+        "code": "910306",
+        "name": "Kemtuk Gresi",
+        "count": {
+            "desa": 12
+        }
+    },
+    {
+        "code": "910314",
+        "name": "Nambluong",
+        "count": {
+            "desa": 9
+        }
+    },
+    {
+        "code": "910308",
+        "name": "Nimbokrang",
+        "count": {
+            "desa": 9
+        }
+    },
+    {
+        "code": "910307",
+        "name": "Nimboran",
+        "count": {
+            "desa": 14
+        }
+    },
+    {
+        "code": "910317",
+        "name": "Raveni Rara (Ravenirara)",
+        "count": {
+            "desa": 4
+        }
+    },
+    {
+        "code": "910301",
+        "name": "Sentani",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "910304",
+        "name": "Sentani Barat",
+        "count": {
+            "desa": 5
+        }
+    },
+    {
+        "code": "910302",
+        "name": "Sentani Timur",
+        "count": {
+            "desa": 7
+        }
+    },
+    {
+        "code": "910309",
+        "name": "Unurum Guay",
+        "count": {
+            "desa": 6
+        }
+    },
+    {
+        "code": "910313",
+        "name": "Waibu",
+        "count": {
+            "desa": 7
+        }
+    },
+    {
+        "code": "910315",
+        "name": "Yapsi",
+        "count": {
+            "desa": 9
+        }
+    },
+    {
+        "code": "910319",
+        "name": "Yokari",
+        "count": {
+            "desa": 5
+        }
+    }
+]

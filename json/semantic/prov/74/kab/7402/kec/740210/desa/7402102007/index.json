@@ -1,0 +1,17 @@
+{
+    "code": "7402102007",
+    "name": "Sambeani",
+    "poscode": "93452",
+    "provinsi": {
+        "code": "74",
+        "name": "Sulawesi Tenggara"
+    },
+    "kabupaten": {
+        "code": "7402",
+        "name": "Konawe"
+    },
+    "kecamatan": {
+        "code": "740210",
+        "name": "Abuki"
+    }
+}

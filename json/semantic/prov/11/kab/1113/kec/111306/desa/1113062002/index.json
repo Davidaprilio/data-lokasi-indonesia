@@ -1,0 +1,17 @@
+{
+    "code": "1113062002",
+    "name": "Kutebukit (Kute / Kuta Bukit)",
+    "poscode": "24653",
+    "provinsi": {
+        "code": "11",
+        "name": "Aceh (NAD)"
+    },
+    "kabupaten": {
+        "code": "1113",
+        "name": "Gayo Lues"
+    },
+    "kecamatan": {
+        "code": "111306",
+        "name": "Blangpegayon (Blang Pegayon)"
+    }
+}

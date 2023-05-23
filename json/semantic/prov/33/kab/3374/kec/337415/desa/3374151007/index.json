@@ -1,0 +1,17 @@
+{
+    "code": "3374151007",
+    "name": "Ngaliyan",
+    "poscode": "50181",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3374",
+        "name": "Semarang"
+    },
+    "kecamatan": {
+        "code": "337415",
+        "name": "Ngaliyan"
+    }
+}

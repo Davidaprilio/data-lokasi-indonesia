@@ -1,0 +1,17 @@
+{
+    "code": "7415022001",
+    "name": "Bangun",
+    "poscode": "93747",
+    "provinsi": {
+        "code": "74",
+        "name": "Sulawesi Tenggara"
+    },
+    "kabupaten": {
+        "code": "7415",
+        "name": "Buton Selatan"
+    },
+    "kecamatan": {
+        "code": "741502",
+        "name": "Sampolawa"
+    }
+}

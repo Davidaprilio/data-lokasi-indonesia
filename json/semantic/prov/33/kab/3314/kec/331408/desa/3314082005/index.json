@@ -1,0 +1,17 @@
+{
+    "code": "3314082005",
+    "name": "Kebonromo",
+    "poscode": "57252",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3314",
+        "name": "Sragen"
+    },
+    "kecamatan": {
+        "code": "331408",
+        "name": "Ngrampal"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "1102072019",
+    "name": "Tanjung Bakhu (Tanjung Mbakhu)",
+    "poscode": "24663",
+    "provinsi": {
+        "code": "11",
+        "name": "Aceh (NAD)"
+    },
+    "kabupaten": {
+        "code": "1102",
+        "name": "Aceh Tenggara"
+    },
+    "kecamatan": {
+        "code": "110207",
+        "name": "Darul Hasanah"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "3507232007",
+    "name": "Bocek",
+    "poscode": "65152",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3507",
+        "name": "Malang"
+    },
+    "kecamatan": {
+        "code": "350723",
+        "name": "Karang Ploso (Karangploso)"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "code": "3279",
+    "type": "Kota",
+    "name": "Banjar",
+    "fullname": "Kota Banjar",
+    "jumlah": {
+        "kecamatan": 4,
+        "desa": 25
+    }
+}

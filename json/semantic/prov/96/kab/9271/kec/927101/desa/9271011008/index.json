@@ -1,0 +1,17 @@
+{
+    "code": "9271011008",
+    "name": "Remu",
+    "poscode": "98416",
+    "provinsi": {
+        "code": "96",
+        "name": "Papua Barat Daya"
+    },
+    "kabupaten": {
+        "code": "9271",
+        "name": "Sorong"
+    },
+    "kecamatan": {
+        "code": "927101",
+        "name": "Sorong"
+    }
+}

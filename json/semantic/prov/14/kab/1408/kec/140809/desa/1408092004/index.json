@@ -1,0 +1,17 @@
+{
+    "code": "1408092004",
+    "name": "Buatan I",
+    "poscode": "28672",
+    "provinsi": {
+        "code": "14",
+        "name": "Riau"
+    },
+    "kabupaten": {
+        "code": "1408",
+        "name": "Siak"
+    },
+    "kecamatan": {
+        "code": "140809",
+        "name": "Koto Gasib"
+    }
+}

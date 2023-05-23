@@ -1,0 +1,17 @@
+{
+    "code": "3201122007",
+    "name": "Jampang",
+    "poscode": "16310",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3201",
+        "name": "Bogor"
+    },
+    "kecamatan": {
+        "code": "320112",
+        "name": "Kemang"
+    }
+}

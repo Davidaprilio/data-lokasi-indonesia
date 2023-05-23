@@ -1,0 +1,17 @@
+{
+    "code": "7201172007",
+    "name": "Simpang Satu",
+    "poscode": "94755",
+    "provinsi": {
+        "code": "72",
+        "name": "Sulawesi Tengah"
+    },
+    "kabupaten": {
+        "code": "7201",
+        "name": "Banggai"
+    },
+    "kecamatan": {
+        "code": "720117",
+        "name": "Simpang Raya"
+    }
+}

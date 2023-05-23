@@ -1,0 +1,17 @@
+{
+    "code": "6310062005",
+    "name": "Sei/Sungai Dua",
+    "poscode": "72211",
+    "provinsi": {
+        "code": "63",
+        "name": "Kalimantan Selatan"
+    },
+    "kabupaten": {
+        "code": "6310",
+        "name": "Tanah Bumbu"
+    },
+    "kecamatan": {
+        "code": "631006",
+        "name": "Simpang Empat"
+    }
+}

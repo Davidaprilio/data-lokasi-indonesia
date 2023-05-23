@@ -1,0 +1,17 @@
+{
+    "code": "3577031003",
+    "name": "Banjarejo",
+    "poscode": "63137",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3577",
+        "name": "Madiun"
+    },
+    "kecamatan": {
+        "code": "357703",
+        "name": "Taman"
+    }
+}

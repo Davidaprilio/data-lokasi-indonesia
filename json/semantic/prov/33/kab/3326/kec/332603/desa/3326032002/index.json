@@ -1,0 +1,17 @@
+{
+    "code": "3326032002",
+    "name": "Pamutuh",
+    "poscode": "51183",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3326",
+        "name": "Pekalongan"
+    },
+    "kecamatan": {
+        "code": "332603",
+        "name": "Lebakbarang"
+    }
+}

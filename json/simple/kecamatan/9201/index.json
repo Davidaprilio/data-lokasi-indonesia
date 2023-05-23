@@ -1,0 +1,212 @@
+[
+    {
+        "code": "920107",
+        "name": "Aimas",
+        "count": {
+            "desa": 14
+        }
+    },
+    {
+        "code": "920144",
+        "name": "Bagun",
+        "count": {
+            "desa": 9
+        }
+    },
+    {
+        "code": "920104",
+        "name": "Beraur",
+        "count": {
+            "desa": 13
+        }
+    },
+    {
+        "code": "920154",
+        "name": "Botain",
+        "count": {
+            "desa": 4
+        }
+    },
+    {
+        "code": "920147",
+        "name": "Buk",
+        "count": {
+            "desa": 7
+        }
+    },
+    {
+        "code": "920152",
+        "name": "Hobard",
+        "count": {
+            "desa": 7
+        }
+    },
+    {
+        "code": "920117",
+        "name": "Klabot",
+        "count": {
+            "desa": 8
+        }
+    },
+    {
+        "code": "920108",
+        "name": "Klamono",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "920151",
+        "name": "Klasafet",
+        "count": {
+            "desa": 5
+        }
+    },
+    {
+        "code": "920141",
+        "name": "Klaso",
+        "count": {
+            "desa": 7
+        }
+    },
+    {
+        "code": "920118",
+        "name": "Klawak",
+        "count": {
+            "desa": 11
+        }
+    },
+    {
+        "code": "920140",
+        "name": "Klayili",
+        "count": {
+            "desa": 8
+        }
+    },
+    {
+        "code": "920150",
+        "name": "Konhir",
+        "count": {
+            "desa": 9
+        }
+    },
+    {
+        "code": "920101",
+        "name": "Makbon",
+        "count": {
+            "desa": 15
+        }
+    },
+    {
+        "code": "920149",
+        "name": "Malabotom",
+        "count": {
+            "desa": 9
+        }
+    },
+    {
+        "code": "920139",
+        "name": "Mariat",
+        "count": {
+            "desa": 11
+        }
+    },
+    {
+        "code": "920120",
+        "name": "Maudus",
+        "count": {
+            "desa": 9
+        }
+    },
+    {
+        "code": "920113",
+        "name": "Mayamuk",
+        "count": {
+            "desa": 11
+        }
+    },
+    {
+        "code": "920142",
+        "name": "Moisegen",
+        "count": {
+            "desa": 9
+        }
+    },
+    {
+        "code": "920148",
+        "name": "Saengkeduk",
+        "count": {
+            "desa": 6
+        }
+    },
+    {
+        "code": "920105",
+        "name": "Salawati",
+        "count": {
+            "desa": 7
+        }
+    },
+    {
+        "code": "920114",
+        "name": "Salawati Selatan",
+        "count": {
+            "desa": 6
+        }
+    },
+    {
+        "code": "920153",
+        "name": "Salawati Tengah",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "920110",
+        "name": "Sayosa",
+        "count": {
+            "desa": 6
+        }
+    },
+    {
+        "code": "920155",
+        "name": "Sayosa Timur",
+        "count": {
+            "desa": 6
+        }
+    },
+    {
+        "code": "920106",
+        "name": "Seget",
+        "count": {
+            "desa": 9
+        }
+    },
+    {
+        "code": "920112",
+        "name": "Segun",
+        "count": {
+            "desa": 9
+        }
+    },
+    {
+        "code": "920143",
+        "name": "Sorong",
+        "count": {
+            "desa": 4
+        }
+    },
+    {
+        "code": "920146",
+        "name": "Sunook",
+        "count": {
+            "desa": 7
+        }
+    },
+    {
+        "code": "920145",
+        "name": "Wemak",
+        "count": {
+            "desa": 6
+        }
+    }
+]

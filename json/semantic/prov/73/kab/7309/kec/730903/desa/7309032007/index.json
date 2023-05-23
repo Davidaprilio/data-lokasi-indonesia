@@ -1,0 +1,17 @@
+{
+    "code": "7309032007",
+    "name": "Mangeloreng",
+    "poscode": "90561",
+    "provinsi": {
+        "code": "73",
+        "name": "Sulawesi Selatan"
+    },
+    "kabupaten": {
+        "code": "7309",
+        "name": "Maros"
+    },
+    "kecamatan": {
+        "code": "730903",
+        "name": "Bantimurung"
+    }
+}

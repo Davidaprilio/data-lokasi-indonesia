@@ -1,0 +1,17 @@
+{
+    "code": "7406012011",
+    "name": "Pallimae",
+    "poscode": "93772",
+    "provinsi": {
+        "code": "74",
+        "name": "Sulawesi Tenggara"
+    },
+    "kabupaten": {
+        "code": "7406",
+        "name": "Bombana"
+    },
+    "kecamatan": {
+        "code": "740601",
+        "name": "Poleang"
+    }
+}

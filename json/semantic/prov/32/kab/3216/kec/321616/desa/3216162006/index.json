@@ -1,0 +1,17 @@
+{
+    "code": "3216162006",
+    "name": "Setiajaya (Setia Jaya)",
+    "poscode": "17720",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3216",
+        "name": "Bekasi"
+    },
+    "kecamatan": {
+        "code": "321616",
+        "name": "Cabangbungin"
+    }
+}

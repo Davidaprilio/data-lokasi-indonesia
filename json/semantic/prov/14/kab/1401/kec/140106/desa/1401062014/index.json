@@ -1,0 +1,17 @@
+{
+    "code": "1401062014",
+    "name": "Kepau Jaya",
+    "poscode": "28452",
+    "provinsi": {
+        "code": "14",
+        "name": "Riau"
+    },
+    "kabupaten": {
+        "code": "1401",
+        "name": "Kampar"
+    },
+    "kecamatan": {
+        "code": "140106",
+        "name": "Siak Hulu"
+    }
+}

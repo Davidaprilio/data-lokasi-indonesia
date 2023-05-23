@@ -1,0 +1,17 @@
+{
+    "code": "3314062003",
+    "name": "Tunggul",
+    "poscode": "57254",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3314",
+        "name": "Sragen"
+    },
+    "kecamatan": {
+        "code": "331406",
+        "name": "Gondang"
+    }
+}

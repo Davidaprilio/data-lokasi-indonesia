@@ -1,0 +1,10 @@
+{
+    "code": "6504",
+    "type": "Kabupaten",
+    "name": "Tana Tidung",
+    "fullname": "Kabupaten Tana Tidung",
+    "jumlah": {
+        "kecamatan": 5,
+        "desa": 32
+    }
+}

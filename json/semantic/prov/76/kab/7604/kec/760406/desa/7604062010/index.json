@@ -1,0 +1,17 @@
+{
+    "code": "7604062010",
+    "name": "Rea",
+    "poscode": "91312",
+    "provinsi": {
+        "code": "76",
+        "name": "Sulawesi Barat"
+    },
+    "kabupaten": {
+        "code": "7604",
+        "name": "Polewali Mandar"
+    },
+    "kecamatan": {
+        "code": "760406",
+        "name": "Binuang"
+    }
+}

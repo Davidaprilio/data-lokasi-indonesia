@@ -1,0 +1,17 @@
+{
+    "code": "9504332011",
+    "name": "Umar",
+    "poscode": "99037",
+    "provinsi": {
+        "code": "95",
+        "name": "Papua Pegunungan"
+    },
+    "kabupaten": {
+        "code": "9504",
+        "name": "Tolikara"
+    },
+    "kecamatan": {
+        "code": "950433",
+        "name": "Yuneri"
+    }
+}

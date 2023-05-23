@@ -1,0 +1,17 @@
+{
+    "code": "1703071027",
+    "name": "Gunung Alam",
+    "poscode": "38611",
+    "provinsi": {
+        "code": "17",
+        "name": "Bengkulu"
+    },
+    "kabupaten": {
+        "code": "1703",
+        "name": "Bengkulu Utara"
+    },
+    "kecamatan": {
+        "code": "170307",
+        "name": "Kota Arga Makmur"
+    }
+}

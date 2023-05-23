@@ -1,0 +1,17 @@
+{
+    "code": "1217062002",
+    "name": "Singkam",
+    "poscode": "22396",
+    "provinsi": {
+        "code": "12",
+        "name": "Sumatera Utara"
+    },
+    "kabupaten": {
+        "code": "1217",
+        "name": "Samosir"
+    },
+    "kecamatan": {
+        "code": "121706",
+        "name": "Sianjur / Sianjar Mula Mula"
+    }
+}

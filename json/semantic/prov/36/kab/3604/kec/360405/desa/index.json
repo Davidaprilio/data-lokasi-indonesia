@@ -1,0 +1,77 @@
+[
+    {
+        "code": "3604052005",
+        "name": "Harjatani",
+        "poscode": "42161"
+    },
+    {
+        "code": "3604052001",
+        "name": "Kramatwatu",
+        "poscode": "42161"
+    },
+    {
+        "code": "3604052011",
+        "name": "Lebakwana",
+        "poscode": "42161"
+    },
+    {
+        "code": "3604052002",
+        "name": "Margasana",
+        "poscode": "42161"
+    },
+    {
+        "code": "3604052015",
+        "name": "Margatani",
+        "poscode": "42161"
+    },
+    {
+        "code": "3604052009",
+        "name": "Pamengkang",
+        "poscode": "42161"
+    },
+    {
+        "code": "3604052010",
+        "name": "Pegadingan",
+        "poscode": "42161"
+    },
+    {
+        "code": "3604052003",
+        "name": "Pejaten",
+        "poscode": "42161"
+    },
+    {
+        "code": "3604052013",
+        "name": "Pelamunan",
+        "poscode": "42161"
+    },
+    {
+        "code": "3604052006",
+        "name": "Serdang",
+        "poscode": "42161"
+    },
+    {
+        "code": "3604052014",
+        "name": "Teluk Terate",
+        "poscode": "42161"
+    },
+    {
+        "code": "3604052007",
+        "name": "Terate",
+        "poscode": "42161"
+    },
+    {
+        "code": "3604052008",
+        "name": "Tonjong",
+        "poscode": "42161"
+    },
+    {
+        "code": "3604052004",
+        "name": "Toyomerto",
+        "poscode": "42161"
+    },
+    {
+        "code": "3604052012",
+        "name": "Wanayasa",
+        "poscode": "42161"
+    }
+]

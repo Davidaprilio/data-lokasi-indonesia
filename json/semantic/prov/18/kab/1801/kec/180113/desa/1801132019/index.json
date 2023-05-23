@@ -1,0 +1,17 @@
+{
+    "code": "1801132019",
+    "name": "Karang Sari",
+    "poscode": "35365",
+    "provinsi": {
+        "code": "18",
+        "name": "Lampung"
+    },
+    "kabupaten": {
+        "code": "1801",
+        "name": "Lampung Selatan"
+    },
+    "kecamatan": {
+        "code": "180113",
+        "name": "Jati Agung"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "3205142003",
+    "name": "Cibunar",
+    "poscode": "44188",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3205",
+        "name": "Garut"
+    },
+    "kecamatan": {
+        "code": "320514",
+        "name": "Malangbong"
+    }
+}

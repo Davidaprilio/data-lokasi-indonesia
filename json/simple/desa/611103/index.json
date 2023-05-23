@@ -1,0 +1,37 @@
+[
+    {
+        "code": "6111032002",
+        "name": "Alur Bandung",
+        "poscode": "78856"
+    },
+    {
+        "code": "6111032005",
+        "name": "Banyu Abang",
+        "poscode": "78856"
+    },
+    {
+        "code": "6111032001",
+        "name": "Mas Bangun",
+        "poscode": "78856"
+    },
+    {
+        "code": "6111032004",
+        "name": "Sei/Sungai Paduan",
+        "poscode": "78856"
+    },
+    {
+        "code": "6111032003",
+        "name": "Telukbatang (Teluk Batang)",
+        "poscode": "78856"
+    },
+    {
+        "code": "6111032006",
+        "name": "Telukbatang Selatan (Teluk Batang Selatan)",
+        "poscode": "78856"
+    },
+    {
+        "code": "6111032007",
+        "name": "Telukbatang Utara (Teluk Batang Utara)",
+        "poscode": "78856"
+    }
+]

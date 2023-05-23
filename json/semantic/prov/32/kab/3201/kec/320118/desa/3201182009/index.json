@@ -1,0 +1,17 @@
+{
+    "code": "3201182009",
+    "name": "Sukasari",
+    "poscode": "16350",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3201",
+        "name": "Bogor"
+    },
+    "kecamatan": {
+        "code": "320118",
+        "name": "Rumpin"
+    }
+}

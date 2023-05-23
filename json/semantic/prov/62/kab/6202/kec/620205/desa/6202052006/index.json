@@ -1,0 +1,17 @@
+{
+    "code": "6202052006",
+    "name": "Tinduk",
+    "poscode": "74316",
+    "provinsi": {
+        "code": "62",
+        "name": "Kalimantan Tengah"
+    },
+    "kabupaten": {
+        "code": "6202",
+        "name": "Kotawaringin Timur"
+    },
+    "kecamatan": {
+        "code": "620205",
+        "name": "Baamang"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "1802152007",
+    "name": "Goras Jaya",
+    "poscode": "34162",
+    "provinsi": {
+        "code": "18",
+        "name": "Lampung"
+    },
+    "kabupaten": {
+        "code": "1802",
+        "name": "Lampung Tengah"
+    },
+    "kecamatan": {
+        "code": "180215",
+        "name": "Bekri"
+    }
+}

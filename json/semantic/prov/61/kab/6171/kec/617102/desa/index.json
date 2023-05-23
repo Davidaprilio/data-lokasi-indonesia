@@ -1,0 +1,37 @@
+[
+    {
+        "code": "6171021002",
+        "name": "Banjar Serasan",
+        "poscode": "78233"
+    },
+    {
+        "code": "6171021006",
+        "name": "Dalambugis (Dalam Bugis)",
+        "poscode": "78235"
+    },
+    {
+        "code": "6171021001",
+        "name": "Paritmayor (Parit Mayor)",
+        "poscode": "78231"
+    },
+    {
+        "code": "6171021003",
+        "name": "Saigon",
+        "poscode": "78132"
+    },
+    {
+        "code": "6171021007",
+        "name": "Tambelansampit (Tambelan Sampit)",
+        "poscode": "78234"
+    },
+    {
+        "code": "6171021005",
+        "name": "Tanjunghilir (Tanjung Hilir)",
+        "poscode": "78236"
+    },
+    {
+        "code": "6171021004",
+        "name": "Tanjunghulu (Tanjung Hulu)",
+        "poscode": "78137"
+    }
+]

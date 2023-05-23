@@ -1,0 +1,17 @@
+{
+    "code": "1208272016",
+    "name": "Pardomuan Bandar",
+    "poscode": "21157",
+    "provinsi": {
+        "code": "12",
+        "name": "Sumatera Utara"
+    },
+    "kabupaten": {
+        "code": "1208",
+        "name": "Simalungun"
+    },
+    "kecamatan": {
+        "code": "120827",
+        "name": "Silou Kahean"
+    }
+}

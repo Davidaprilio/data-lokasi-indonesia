@@ -1,0 +1,17 @@
+{
+    "code": "3209102005",
+    "name": "Sidamulya",
+    "poscode": "45181",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3209",
+        "name": "Cirebon"
+    },
+    "kecamatan": {
+        "code": "320910",
+        "name": "Astanajapura"
+    }
+}

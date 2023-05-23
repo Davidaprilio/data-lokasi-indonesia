@@ -1,0 +1,17 @@
+{
+    "code": "3214092002",
+    "name": "Sukadami",
+    "poscode": "41174",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3214",
+        "name": "Purwakarta"
+    },
+    "kecamatan": {
+        "code": "321409",
+        "name": "Wanayasa"
+    }
+}

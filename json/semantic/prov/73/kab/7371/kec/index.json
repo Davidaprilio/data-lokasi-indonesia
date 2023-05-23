@@ -1,0 +1,107 @@
+[
+    {
+        "code": "737111",
+        "name": "Biringkanaya (Biring Kanaya)",
+        "count": {
+            "desa": 11
+        }
+    },
+    {
+        "code": "737106",
+        "name": "Bontoala",
+        "count": {
+            "desa": 12
+        }
+    },
+    {
+        "code": "737115",
+        "name": "Kepulauan Sangkarrang",
+        "count": {
+            "desa": 3
+        }
+    },
+    {
+        "code": "737103",
+        "name": "Makassar",
+        "count": {
+            "desa": 14
+        }
+    },
+    {
+        "code": "737102",
+        "name": "Mamajang",
+        "count": {
+            "desa": 13
+        }
+    },
+    {
+        "code": "737112",
+        "name": "Manggala",
+        "count": {
+            "desa": 8
+        }
+    },
+    {
+        "code": "737101",
+        "name": "Mariso",
+        "count": {
+            "desa": 9
+        }
+    },
+    {
+        "code": "737109",
+        "name": "Panakkukang",
+        "count": {
+            "desa": 11
+        }
+    },
+    {
+        "code": "737113",
+        "name": "Rappocini",
+        "count": {
+            "desa": 11
+        }
+    },
+    {
+        "code": "737107",
+        "name": "Tallo",
+        "count": {
+            "desa": 15
+        }
+    },
+    {
+        "code": "737114",
+        "name": "Tamalanrea",
+        "count": {
+            "desa": 8
+        }
+    },
+    {
+        "code": "737110",
+        "name": "Tamalate",
+        "count": {
+            "desa": 11
+        }
+    },
+    {
+        "code": "737104",
+        "name": "Ujung Pandang",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "737108",
+        "name": "Ujung Tanah",
+        "count": {
+            "desa": 9
+        }
+    },
+    {
+        "code": "737105",
+        "name": "Wajo",
+        "count": {
+            "desa": 8
+        }
+    }
+]

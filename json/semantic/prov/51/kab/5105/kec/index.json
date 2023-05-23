@@ -1,0 +1,30 @@
+[
+    {
+        "code": "510502",
+        "name": "Banjarangkan",
+        "count": {
+            "desa": 13
+        }
+    },
+    {
+        "code": "510504",
+        "name": "Dawan",
+        "count": {
+            "desa": 12
+        }
+    },
+    {
+        "code": "510503",
+        "name": "Klungkung",
+        "count": {
+            "desa": 18
+        }
+    },
+    {
+        "code": "510501",
+        "name": "Nusa Penida (Nusapenida)",
+        "count": {
+            "desa": 16
+        }
+    }
+]

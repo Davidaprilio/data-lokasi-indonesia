@@ -1,0 +1,17 @@
+{
+    "code": "1707072002",
+    "name": "Bukit Nibung",
+    "poscode": "39262",
+    "provinsi": {
+        "code": "17",
+        "name": "Bengkulu"
+    },
+    "kabupaten": {
+        "code": "1707",
+        "name": "Lebong"
+    },
+    "kecamatan": {
+        "code": "170707",
+        "name": "Bingin Kuning"
+    }
+}

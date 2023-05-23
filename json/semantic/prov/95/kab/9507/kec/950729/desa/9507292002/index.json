@@ -1,0 +1,17 @@
+{
+    "code": "9507292002",
+    "name": "Gondura",
+    "poscode": "99561",
+    "provinsi": {
+        "code": "95",
+        "name": "Papua Pegunungan"
+    },
+    "kabupaten": {
+        "code": "9507",
+        "name": "Lanny Jaya"
+    },
+    "kecamatan": {
+        "code": "950729",
+        "name": "Gelok Beam"
+    }
+}

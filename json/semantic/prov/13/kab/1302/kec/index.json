@@ -1,0 +1,100 @@
+[
+    {
+        "code": "130208",
+        "name": "Bukit Sundi",
+        "count": {
+            "desa": 5
+        }
+    },
+    {
+        "code": "130219",
+        "name": "Danau Kembar",
+        "count": {
+            "desa": 2
+        }
+    },
+    {
+        "code": "130207",
+        "name": "Gunung Talang",
+        "count": {
+            "desa": 8
+        }
+    },
+    {
+        "code": "130217",
+        "name": "Hiliran Gumanti",
+        "count": {
+            "desa": 3
+        }
+    },
+    {
+        "code": "130209",
+        "name": "IX Koto Sungai Lasi",
+        "count": {
+            "desa": 9
+        }
+    },
+    {
+        "code": "130213",
+        "name": "Junjung Sirih",
+        "count": {
+            "desa": 2
+        }
+    },
+    {
+        "code": "130210",
+        "name": "Kubung",
+        "count": {
+            "desa": 8
+        }
+    },
+    {
+        "code": "130204",
+        "name": "Lembah Gumanti",
+        "count": {
+            "desa": 4
+        }
+    },
+    {
+        "code": "130206",
+        "name": "Lembang Jaya",
+        "count": {
+            "desa": 6
+        }
+    },
+    {
+        "code": "130203",
+        "name": "Pantai Cermin",
+        "count": {
+            "desa": 2
+        }
+    },
+    {
+        "code": "130205",
+        "name": "Payung Sekaki",
+        "count": {
+            "desa": 3
+        }
+    },
+    {
+        "code": "130218",
+        "name": "Tigo Lurah",
+        "count": {
+            "desa": 5
+        }
+    },
+    {
+        "code": "130212",
+        "name": "X Koto Diatas",
+        "count": {
+            "desa": 9
+        }
+    },
+    {
+        "code": "130211",
+        "name": "X Koto Singkarak",
+        "count": {
+            "desa": 8
+        }
+    }
+]

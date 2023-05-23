@@ -1,0 +1,17 @@
+{
+    "code": "6171031001",
+    "name": "Pallima (Pal Lima)",
+    "poscode": "78114",
+    "provinsi": {
+        "code": "61",
+        "name": "Kalimantan Barat"
+    },
+    "kabupaten": {
+        "code": "6171",
+        "name": "Pontianak"
+    },
+    "kecamatan": {
+        "code": "617103",
+        "name": "Pontianak Barat"
+    }
+}

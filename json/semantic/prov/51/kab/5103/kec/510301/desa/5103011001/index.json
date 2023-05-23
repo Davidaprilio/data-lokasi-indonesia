@@ -1,0 +1,17 @@
+{
+    "code": "5103011001",
+    "name": "Tuban",
+    "poscode": "80361",
+    "provinsi": {
+        "code": "51",
+        "name": "Bali"
+    },
+    "kabupaten": {
+        "code": "5103",
+        "name": "Badung"
+    },
+    "kecamatan": {
+        "code": "510301",
+        "name": "Kuta"
+    }
+}

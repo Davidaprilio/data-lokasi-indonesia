@@ -1,0 +1,17 @@
+{
+    "code": "1223012006",
+    "name": "Londut (Perkebunan Londut)",
+    "poscode": "21457",
+    "provinsi": {
+        "code": "12",
+        "name": "Sumatera Utara"
+    },
+    "kabupaten": {
+        "code": "1223",
+        "name": "Labuhanbatu Utara"
+    },
+    "kecamatan": {
+        "code": "122301",
+        "name": "Kualuh Hulu"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "3603142002",
+    "name": "Kosambi Timur",
+    "poscode": "15213",
+    "provinsi": {
+        "code": "36",
+        "name": "Banten"
+    },
+    "kabupaten": {
+        "code": "3603",
+        "name": "Tangerang"
+    },
+    "kecamatan": {
+        "code": "360314",
+        "name": "Kosambi"
+    }
+}

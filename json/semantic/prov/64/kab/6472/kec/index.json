@@ -1,0 +1,72 @@
+[
+    {
+        "code": "647210",
+        "name": "Loa Janan Ilir",
+        "count": {
+            "desa": 5
+        }
+    },
+    {
+        "code": "647201",
+        "name": "Palaran",
+        "count": {
+            "desa": 5
+        }
+    },
+    {
+        "code": "647204",
+        "name": "Samarinda Ilir",
+        "count": {
+            "desa": 5
+        }
+    },
+    {
+        "code": "647209",
+        "name": "Samarinda Kota",
+        "count": {
+            "desa": 5
+        }
+    },
+    {
+        "code": "647202",
+        "name": "Samarinda Seberang",
+        "count": {
+            "desa": 6
+        }
+    },
+    {
+        "code": "647203",
+        "name": "Samarinda Ulu",
+        "count": {
+            "desa": 8
+        }
+    },
+    {
+        "code": "647205",
+        "name": "Samarinda Utara",
+        "count": {
+            "desa": 8
+        }
+    },
+    {
+        "code": "647207",
+        "name": "Sambutan",
+        "count": {
+            "desa": 5
+        }
+    },
+    {
+        "code": "647206",
+        "name": "Sungai Kunjang",
+        "count": {
+            "desa": 7
+        }
+    },
+    {
+        "code": "647208",
+        "name": "Sungai Pinang",
+        "count": {
+            "desa": 5
+        }
+    }
+]

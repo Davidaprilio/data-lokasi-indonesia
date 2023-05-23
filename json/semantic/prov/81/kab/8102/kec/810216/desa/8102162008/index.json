@@ -1,0 +1,17 @@
+{
+    "code": "8102162008",
+    "name": "Wirin",
+    "poscode": "97621",
+    "provinsi": {
+        "code": "81",
+        "name": "Maluku"
+    },
+    "kabupaten": {
+        "code": "8102",
+        "name": "Maluku Tenggara"
+    },
+    "kecamatan": {
+        "code": "810216",
+        "name": "Hoat Sorbay"
+    }
+}

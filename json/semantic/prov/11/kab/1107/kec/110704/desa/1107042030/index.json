@@ -1,0 +1,17 @@
+{
+    "code": "1107042030",
+    "name": "Ceurih Alue",
+    "poscode": "24162",
+    "provinsi": {
+        "code": "11",
+        "name": "Aceh (NAD)"
+    },
+    "kabupaten": {
+        "code": "1107",
+        "name": "Pidie"
+    },
+    "kecamatan": {
+        "code": "110704",
+        "name": "Delima"
+    }
+}

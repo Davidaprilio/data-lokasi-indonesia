@@ -1,0 +1,17 @@
+{
+    "code": "3574011003",
+    "name": "Triwung Kidul",
+    "poscode": "67224",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3574",
+        "name": "Probolinggo"
+    },
+    "kecamatan": {
+        "code": "357401",
+        "name": "Kademangan"
+    }
+}

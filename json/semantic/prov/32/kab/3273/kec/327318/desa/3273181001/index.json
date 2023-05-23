@@ -1,0 +1,17 @@
+{
+    "code": "3273181001",
+    "name": "Cihaur Geulis",
+    "poscode": "40122",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3273",
+        "name": "Bandung"
+    },
+    "kecamatan": {
+        "code": "327318",
+        "name": "Cibeunying Kaler"
+    }
+}

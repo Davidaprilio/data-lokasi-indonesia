@@ -1,0 +1,17 @@
+{
+    "code": "3273131001",
+    "name": "Cijagra",
+    "poscode": "40265",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3273",
+        "name": "Bandung"
+    },
+    "kecamatan": {
+        "code": "327313",
+        "name": "Lengkong"
+    }
+}

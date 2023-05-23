@@ -1,0 +1,42 @@
+[
+    {
+        "code": "7310101003",
+        "name": "Biraeng",
+        "poscode": "90614"
+    },
+    {
+        "code": "7310101004",
+        "name": "Bonto Kio (Bontokio)",
+        "poscode": "90614"
+    },
+    {
+        "code": "7310101006",
+        "name": "Bonto Langkasa",
+        "poscode": "90618"
+    },
+    {
+        "code": "7310101005",
+        "name": "Bontoa",
+        "poscode": "90615"
+    },
+    {
+        "code": "7310102007",
+        "name": "Kabba",
+        "poscode": "90619"
+    },
+    {
+        "code": "7310101002",
+        "name": "Kalabbirang",
+        "poscode": "90615"
+    },
+    {
+        "code": "7310101001",
+        "name": "Minasa Tene",
+        "poscode": "90615"
+    },
+    {
+        "code": "7310102008",
+        "name": "Panaikang",
+        "poscode": "90619"
+    }
+]

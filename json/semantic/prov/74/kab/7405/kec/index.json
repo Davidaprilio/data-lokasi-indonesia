@@ -1,0 +1,177 @@
+[
+    {
+        "code": "740503",
+        "name": "Andoolo",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "740525",
+        "name": "Andoolo Barat",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "740502",
+        "name": "Angata",
+        "count": {
+            "desa": 24
+        }
+    },
+    {
+        "code": "740520",
+        "name": "Baito",
+        "count": {
+            "desa": 8
+        }
+    },
+    {
+        "code": "740521",
+        "name": "Basala",
+        "count": {
+            "desa": 9
+        }
+    },
+    {
+        "code": "740513",
+        "name": "Benua",
+        "count": {
+            "desa": 12
+        }
+    },
+    {
+        "code": "740517",
+        "name": "Buke",
+        "count": {
+            "desa": 16
+        }
+    },
+    {
+        "code": "740509",
+        "name": "Kolono",
+        "count": {
+            "desa": 21
+        }
+    },
+    {
+        "code": "740523",
+        "name": "Kolono Timur",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "740507",
+        "name": "Konda",
+        "count": {
+            "desa": 18
+        }
+    },
+    {
+        "code": "740519",
+        "name": "Laeya",
+        "count": {
+            "desa": 17
+        }
+    },
+    {
+        "code": "740506",
+        "name": "Lainea",
+        "count": {
+            "desa": 12
+        }
+    },
+    {
+        "code": "740512",
+        "name": "Lalembuu",
+        "count": {
+            "desa": 18
+        }
+    },
+    {
+        "code": "740505",
+        "name": "Landono",
+        "count": {
+            "desa": 13
+        }
+    },
+    {
+        "code": "740511",
+        "name": "Laonti",
+        "count": {
+            "desa": 19
+        }
+    },
+    {
+        "code": "740510",
+        "name": "Moramo",
+        "count": {
+            "desa": 20
+        }
+    },
+    {
+        "code": "740516",
+        "name": "Moramo Utara",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "740515",
+        "name": "Mowila",
+        "count": {
+            "desa": 20
+        }
+    },
+    {
+        "code": "740504",
+        "name": "Palangga",
+        "count": {
+            "desa": 15
+        }
+    },
+    {
+        "code": "740514",
+        "name": "Palangga Selatan",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "740508",
+        "name": "Ranomeeto",
+        "count": {
+            "desa": 12
+        }
+    },
+    {
+        "code": "740522",
+        "name": "Ranomeeto Barat",
+        "count": {
+            "desa": 9
+        }
+    },
+    {
+        "code": "740524",
+        "name": "Sabulakoa",
+        "count": {
+            "desa": 8
+        }
+    },
+    {
+        "code": "740501",
+        "name": "Tinanggea",
+        "count": {
+            "desa": 24
+        }
+    },
+    {
+        "code": "740518",
+        "name": "Wolasi",
+        "count": {
+            "desa": 6
+        }
+    }
+]

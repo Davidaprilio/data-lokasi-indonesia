@@ -1,0 +1,17 @@
+{
+    "code": "3303022007",
+    "name": "Karangnangka",
+    "poscode": "53382",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3303",
+        "name": "Purbalingga"
+    },
+    "kecamatan": {
+        "code": "330302",
+        "name": "Bukateja"
+    }
+}

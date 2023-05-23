@@ -1,0 +1,17 @@
+{
+    "code": "7312041005",
+    "name": "Bila",
+    "poscode": "90814",
+    "provinsi": {
+        "code": "73",
+        "name": "Sulawesi Selatan"
+    },
+    "kabupaten": {
+        "code": "7312",
+        "name": "Soppeng"
+    },
+    "kecamatan": {
+        "code": "731204",
+        "name": "Lalabata"
+    }
+}

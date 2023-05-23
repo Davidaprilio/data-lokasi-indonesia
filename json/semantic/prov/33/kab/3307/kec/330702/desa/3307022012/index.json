@@ -1,0 +1,17 @@
+{
+    "code": "3307022012",
+    "name": "Randusari",
+    "poscode": "56374",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3307",
+        "name": "Wonosobo"
+    },
+    "kecamatan": {
+        "code": "330702",
+        "name": "Kepil"
+    }
+}

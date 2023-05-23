@@ -1,0 +1,58 @@
+[
+    {
+        "code": "510705",
+        "name": "Abang",
+        "count": {
+            "desa": 14
+        }
+    },
+    {
+        "code": "510706",
+        "name": "Bebandem",
+        "count": {
+            "desa": 8
+        }
+    },
+    {
+        "code": "510704",
+        "name": "Karangasem (Karang Asem)",
+        "count": {
+            "desa": 11
+        }
+    },
+    {
+        "code": "510708",
+        "name": "Kubu",
+        "count": {
+            "desa": 9
+        }
+    },
+    {
+        "code": "510703",
+        "name": "Manggis",
+        "count": {
+            "desa": 12
+        }
+    },
+    {
+        "code": "510701",
+        "name": "Rendang",
+        "count": {
+            "desa": 6
+        }
+    },
+    {
+        "code": "510707",
+        "name": "Selat",
+        "count": {
+            "desa": 8
+        }
+    },
+    {
+        "code": "510702",
+        "name": "Sidemen",
+        "count": {
+            "desa": 10
+        }
+    }
+]

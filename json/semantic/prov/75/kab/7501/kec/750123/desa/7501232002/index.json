@@ -1,0 +1,17 @@
+{
+    "code": "7501232002",
+    "name": "Bilato",
+    "poscode": "96234",
+    "provinsi": {
+        "code": "75",
+        "name": "Gorontalo"
+    },
+    "kabupaten": {
+        "code": "7501",
+        "name": "Gorontalo"
+    },
+    "kecamatan": {
+        "code": "750123",
+        "name": "Bilato"
+    }
+}

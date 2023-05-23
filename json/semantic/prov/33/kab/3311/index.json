@@ -1,0 +1,10 @@
+{
+    "code": "3311",
+    "type": "Kabupaten",
+    "name": "Sukoharjo",
+    "fullname": "Kabupaten Sukoharjo",
+    "jumlah": {
+        "kecamatan": 12,
+        "desa": 167
+    }
+}

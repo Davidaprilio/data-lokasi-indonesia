@@ -1,0 +1,10 @@
+{
+    "code": "1116",
+    "type": "Kabupaten",
+    "name": "Aceh Tamiang",
+    "fullname": "Kabupaten Aceh Tamiang",
+    "jumlah": {
+        "kecamatan": 12,
+        "desa": 213
+    }
+}

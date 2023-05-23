@@ -1,0 +1,17 @@
+{
+    "code": "7102161001",
+    "name": "Sumalangka",
+    "poscode": "95615",
+    "provinsi": {
+        "code": "71",
+        "name": "Sulawesi Utara"
+    },
+    "kabupaten": {
+        "code": "7102",
+        "name": "Minahasa"
+    },
+    "kecamatan": {
+        "code": "710216",
+        "name": "Tondano Utara"
+    }
+}

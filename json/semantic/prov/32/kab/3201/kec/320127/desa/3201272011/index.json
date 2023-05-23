@@ -1,0 +1,17 @@
+{
+    "code": "3201272011",
+    "name": "Lemah Duhur",
+    "poscode": "16730",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3201",
+        "name": "Bogor"
+    },
+    "kecamatan": {
+        "code": "320127",
+        "name": "Caringin"
+    }
+}

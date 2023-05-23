@@ -1,0 +1,17 @@
+{
+    "code": "3211102001",
+    "name": "Buahdua",
+    "poscode": "45392",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3211",
+        "name": "Sumedang"
+    },
+    "kecamatan": {
+        "code": "321110",
+        "name": "Buahdua"
+    }
+}

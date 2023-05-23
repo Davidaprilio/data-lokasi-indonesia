@@ -1,0 +1,10 @@
+{
+    "code": "3671",
+    "type": "Kota",
+    "name": "Tangerang",
+    "fullname": "Kota Tangerang",
+    "jumlah": {
+        "kecamatan": 13,
+        "desa": 104
+    }
+}

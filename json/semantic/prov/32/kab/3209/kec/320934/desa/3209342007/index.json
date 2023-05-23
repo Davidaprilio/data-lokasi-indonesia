@@ -1,0 +1,17 @@
+{
+    "code": "3209342007",
+    "name": "Karangwangi",
+    "poscode": "45184",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3209",
+        "name": "Cirebon"
+    },
+    "kecamatan": {
+        "code": "320934",
+        "name": "Karangwareng"
+    }
+}

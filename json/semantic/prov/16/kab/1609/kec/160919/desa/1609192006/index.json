@@ -1,0 +1,17 @@
+{
+    "code": "1609192006",
+    "name": "Bumi Jaya (Bumijaya)",
+    "poscode": "32211",
+    "provinsi": {
+        "code": "16",
+        "name": "Sumatera Selatan"
+    },
+    "kabupaten": {
+        "code": "1609",
+        "name": "Ogan Komering Ulu Selatan"
+    },
+    "kecamatan": {
+        "code": "160919",
+        "name": "Buay Rawan"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "3212312004",
+    "name": "Patrol Lor (Patrollor)",
+    "poscode": "45257",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3212",
+        "name": "Indramayu"
+    },
+    "kecamatan": {
+        "code": "321231",
+        "name": "Patrol"
+    }
+}

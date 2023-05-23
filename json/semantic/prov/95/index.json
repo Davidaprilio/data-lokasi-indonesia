@@ -1,0 +1,10 @@
+{
+    "code": "95",
+    "name": "Papua Pegunungan",
+    "jumlah": {
+        "kota": 0,
+        "kabupaten": 8,
+        "kecamatan": 252,
+        "desa": 2
+    }
+}

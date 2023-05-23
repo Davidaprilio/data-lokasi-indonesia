@@ -1,0 +1,17 @@
+{
+    "code": "1771041003",
+    "name": "Pematang Gubernur",
+    "poscode": "38125",
+    "provinsi": {
+        "code": "17",
+        "name": "Bengkulu"
+    },
+    "kabupaten": {
+        "code": "1771",
+        "name": "Bengkulu"
+    },
+    "kecamatan": {
+        "code": "177104",
+        "name": "Muara Bangka Hulu"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "3201011011",
+    "name": "Cirimekar",
+    "poscode": "16917",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3201",
+        "name": "Bogor"
+    },
+    "kecamatan": {
+        "code": "320101",
+        "name": "Cibinong"
+    }
+}

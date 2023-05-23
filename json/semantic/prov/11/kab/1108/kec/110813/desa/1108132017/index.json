@@ -1,0 +1,17 @@
+{
+    "code": "1108132017",
+    "name": "Matang Janeng",
+    "poscode": "24390",
+    "provinsi": {
+        "code": "11",
+        "name": "Aceh (NAD)"
+    },
+    "kabupaten": {
+        "code": "1108",
+        "name": "Aceh Utara"
+    },
+    "kecamatan": {
+        "code": "110813",
+        "name": "Tanah Pasir"
+    }
+}

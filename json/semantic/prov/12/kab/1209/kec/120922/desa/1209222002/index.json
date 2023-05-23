@@ -1,0 +1,17 @@
+{
+    "code": "1209222002",
+    "name": "Perkebunan Gunung Melayu",
+    "poscode": "21276",
+    "provinsi": {
+        "code": "12",
+        "name": "Sumatera Utara"
+    },
+    "kabupaten": {
+        "code": "1209",
+        "name": "Asahan"
+    },
+    "kecamatan": {
+        "code": "120922",
+        "name": "Rahunig (Rahuning)"
+    }
+}

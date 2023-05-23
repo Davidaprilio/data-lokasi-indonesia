@@ -1,0 +1,17 @@
+{
+    "code": "3307052005",
+    "name": "Besani",
+    "poscode": "56362",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3307",
+        "name": "Wonosobo"
+    },
+    "kecamatan": {
+        "code": "330705",
+        "name": "Leksono"
+    }
+}

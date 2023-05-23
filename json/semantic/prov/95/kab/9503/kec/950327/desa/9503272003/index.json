@@ -1,0 +1,17 @@
+{
+    "code": "9503272003",
+    "name": "Hontulun",
+    "poscode": "99765",
+    "provinsi": {
+        "code": "95",
+        "name": "Papua Pegunungan"
+    },
+    "kabupaten": {
+        "code": "9503",
+        "name": "Yahukimo"
+    },
+    "kecamatan": {
+        "code": "950327",
+        "name": "Walma"
+    }
+}

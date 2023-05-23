@@ -1,0 +1,17 @@
+{
+    "code": "1308072001",
+    "name": "Panti",
+    "poscode": "26351",
+    "provinsi": {
+        "code": "13",
+        "name": "Sumatera Barat"
+    },
+    "kabupaten": {
+        "code": "1308",
+        "name": "Pasaman"
+    },
+    "kecamatan": {
+        "code": "130807",
+        "name": "Panti"
+    }
+}

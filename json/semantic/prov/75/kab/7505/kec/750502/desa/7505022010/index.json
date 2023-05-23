@@ -1,0 +1,17 @@
+{
+    "code": "7505022010",
+    "name": "Mootinelo",
+    "poscode": "96518",
+    "provinsi": {
+        "code": "75",
+        "name": "Gorontalo"
+    },
+    "kabupaten": {
+        "code": "7505",
+        "name": "Gorontalo Utara"
+    },
+    "kecamatan": {
+        "code": "750502",
+        "name": "Kwandang"
+    }
+}

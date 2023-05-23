@@ -1,0 +1,17 @@
+{
+    "code": "1172012007",
+    "name": "Kuta Barat (Kota Bawah Barat)",
+    "poscode": "23512",
+    "provinsi": {
+        "code": "11",
+        "name": "Aceh (NAD)"
+    },
+    "kabupaten": {
+        "code": "1172",
+        "name": "Sabang"
+    },
+    "kecamatan": {
+        "code": "117201",
+        "name": "Sukakarya"
+    }
+}

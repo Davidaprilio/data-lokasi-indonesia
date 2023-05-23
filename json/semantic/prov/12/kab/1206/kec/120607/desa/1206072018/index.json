@@ -1,0 +1,17 @@
+{
+    "code": "1206072018",
+    "name": "Ketawaren",
+    "poscode": "22163",
+    "provinsi": {
+        "code": "12",
+        "name": "Sumatera Utara"
+    },
+    "kabupaten": {
+        "code": "1206",
+        "name": "Karo"
+    },
+    "kecamatan": {
+        "code": "120607",
+        "name": "Juhar"
+    }
+}

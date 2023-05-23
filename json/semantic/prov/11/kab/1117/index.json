@@ -1,0 +1,10 @@
+{
+    "code": "1117",
+    "type": "Kabupaten",
+    "name": "Bener Meriah",
+    "fullname": "Kabupaten Bener Meriah",
+    "jumlah": {
+        "kecamatan": 10,
+        "desa": 232
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "1509092004",
+    "name": "Rantau Api",
+    "poscode": "37574",
+    "provinsi": {
+        "code": "15",
+        "name": "Jambi"
+    },
+    "kabupaten": {
+        "code": "1509",
+        "name": "Tebo"
+    },
+    "kecamatan": {
+        "code": "150909",
+        "name": "Tengah Ilir"
+    }
+}

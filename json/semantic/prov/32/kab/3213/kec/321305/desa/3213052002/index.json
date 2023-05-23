@@ -1,0 +1,17 @@
+{
+    "code": "3213052002",
+    "name": "Siluman",
+    "poscode": "41262",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3213",
+        "name": "Subang"
+    },
+    "kecamatan": {
+        "code": "321305",
+        "name": "Pabuaran"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "3513122001",
+    "name": "Jabungsisir (Jabung Sisir)",
+    "poscode": "67291",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3513",
+        "name": "Probolinggo"
+    },
+    "kecamatan": {
+        "code": "351312",
+        "name": "Paiton"
+    }
+}

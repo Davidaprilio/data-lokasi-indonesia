@@ -1,0 +1,17 @@
+{
+    "code": "3319021008",
+    "name": "Mlati Kidul",
+    "poscode": "59319",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3319",
+        "name": "Kudus"
+    },
+    "kecamatan": {
+        "code": "331902",
+        "name": "Kota Kudus (Kudus Kota)"
+    }
+}

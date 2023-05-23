@@ -1,0 +1,17 @@
+{
+    "code": "6304012001",
+    "name": "Kuala Lupak",
+    "poscode": "70567",
+    "provinsi": {
+        "code": "63",
+        "name": "Kalimantan Selatan"
+    },
+    "kabupaten": {
+        "code": "6304",
+        "name": "Barito Kuala"
+    },
+    "kecamatan": {
+        "code": "630401",
+        "name": "Tabunganen"
+    }
+}

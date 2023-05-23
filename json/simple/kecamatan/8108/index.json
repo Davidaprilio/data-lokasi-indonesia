@@ -1,0 +1,121 @@
+[
+    {
+        "code": "810802",
+        "name": "Damer",
+        "count": {
+            "desa": 7
+        }
+    },
+    {
+        "code": "810810",
+        "name": "Dawelor Dawera",
+        "count": {
+            "desa": 6
+        }
+    },
+    {
+        "code": "810816",
+        "name": "Kepulauan Romang",
+        "count": {
+            "desa": 3
+        }
+    },
+    {
+        "code": "810817",
+        "name": "Kisar Utara",
+        "count": {
+            "desa": 3
+        }
+    },
+    {
+        "code": "810803",
+        "name": "Mndona Hiera (Mdona Hyera / Hiera)",
+        "count": {
+            "desa": 11
+        }
+    },
+    {
+        "code": "810801",
+        "name": "Moa Lakor",
+        "count": {
+            "desa": 8
+        }
+    },
+    {
+        "code": "810812",
+        "name": "Pulau Lakor",
+        "count": {
+            "desa": 5
+        }
+    },
+    {
+        "code": "810808",
+        "name": "Pulau Leti / Letti (Leti Moa Lakor)",
+        "count": {
+            "desa": 7
+        }
+    },
+    {
+        "code": "810809",
+        "name": "Pulau Masela",
+        "count": {
+            "desa": 11
+        }
+    },
+    {
+        "code": "810804",
+        "name": "Pulau Pulau Babar",
+        "count": {
+            "desa": 9
+        }
+    },
+    {
+        "code": "810807",
+        "name": "Pulau Pulau Terselatan",
+        "count": {
+            "desa": 6
+        }
+    },
+    {
+        "code": "810811",
+        "name": "Pulau Wetang",
+        "count": {
+            "desa": 8
+        }
+    },
+    {
+        "code": "810805",
+        "name": "Pulau-Pulau Babar Timur",
+        "count": {
+            "desa": 11
+        }
+    },
+    {
+        "code": "810806",
+        "name": "Wetar",
+        "count": {
+            "desa": 6
+        }
+    },
+    {
+        "code": "810814",
+        "name": "Wetar Barat",
+        "count": {
+            "desa": 5
+        }
+    },
+    {
+        "code": "810815",
+        "name": "Wetar Timur",
+        "count": {
+            "desa": 6
+        }
+    },
+    {
+        "code": "810813",
+        "name": "Wetar Utara",
+        "count": {
+            "desa": 6
+        }
+    }
+]

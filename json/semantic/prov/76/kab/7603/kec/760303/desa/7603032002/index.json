@@ -1,0 +1,17 @@
+{
+    "code": "7603032002",
+    "name": "Rambusaratu",
+    "poscode": "91362",
+    "provinsi": {
+        "code": "76",
+        "name": "Sulawesi Barat"
+    },
+    "kabupaten": {
+        "code": "7603",
+        "name": "Mamasa"
+    },
+    "kecamatan": {
+        "code": "760303",
+        "name": "Mamasa"
+    }
+}

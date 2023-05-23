@@ -1,0 +1,17 @@
+{
+    "code": "7406102004",
+    "name": "Toburi",
+    "poscode": "93777",
+    "provinsi": {
+        "code": "74",
+        "name": "Sulawesi Tenggara"
+    },
+    "kabupaten": {
+        "code": "7406",
+        "name": "Bombana"
+    },
+    "kecamatan": {
+        "code": "740610",
+        "name": "Poleang Utara"
+    }
+}

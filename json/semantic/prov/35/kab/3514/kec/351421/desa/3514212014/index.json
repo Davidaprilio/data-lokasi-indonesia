@@ -1,0 +1,17 @@
+{
+    "code": "3514212014",
+    "name": "Kapasan",
+    "poscode": "67185",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3514",
+        "name": "Pasuruan"
+    },
+    "kecamatan": {
+        "code": "351421",
+        "name": "Nguling"
+    }
+}

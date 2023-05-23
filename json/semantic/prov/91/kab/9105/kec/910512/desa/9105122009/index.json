@@ -1,0 +1,17 @@
+{
+    "code": "9105122009",
+    "name": "Aryobu",
+    "poscode": "98651",
+    "provinsi": {
+        "code": "91",
+        "name": "Papua"
+    },
+    "kabupaten": {
+        "code": "9105",
+        "name": "Kepulauan Yapen"
+    },
+    "kecamatan": {
+        "code": "910512",
+        "name": "Windesi"
+    }
+}

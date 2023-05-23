@@ -1,0 +1,42 @@
+[
+    {
+        "code": "1207212001",
+        "name": "Lantasan Baru",
+        "poscode": "20361"
+    },
+    {
+        "code": "1207212004",
+        "name": "Lantasan Lama",
+        "poscode": "20361"
+    },
+    {
+        "code": "1207212006",
+        "name": "Marendal I (Marindal Satu)",
+        "poscode": "20361"
+    },
+    {
+        "code": "1207212007",
+        "name": "Marindal II (Marindal Dua)",
+        "poscode": "20361"
+    },
+    {
+        "code": "1207212002",
+        "name": "Patumbak I (Patumbak Satu)",
+        "poscode": "20361"
+    },
+    {
+        "code": "1207212003",
+        "name": "Patumbak II (Patumbak Dua)",
+        "poscode": "20361"
+    },
+    {
+        "code": "1207212008",
+        "name": "Patumbak Kampung",
+        "poscode": "20361"
+    },
+    {
+        "code": "1207212005",
+        "name": "Sigara Gara",
+        "poscode": "20361"
+    }
+]

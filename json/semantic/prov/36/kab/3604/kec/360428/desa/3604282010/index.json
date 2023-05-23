@@ -1,0 +1,17 @@
+{
+    "code": "3604282010",
+    "name": "Sindangsari",
+    "poscode": "42163",
+    "provinsi": {
+        "code": "36",
+        "name": "Banten"
+    },
+    "kabupaten": {
+        "code": "3604",
+        "name": "Serang"
+    },
+    "kecamatan": {
+        "code": "360428",
+        "name": "Pabuaran"
+    }
+}

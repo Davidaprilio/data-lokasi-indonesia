@@ -1,0 +1,17 @@
+{
+    "code": "6101142002",
+    "name": "Tengguli",
+    "poscode": "79462",
+    "provinsi": {
+        "code": "61",
+        "name": "Kalimantan Barat"
+    },
+    "kabupaten": {
+        "code": "6101",
+        "name": "Sambas"
+    },
+    "kecamatan": {
+        "code": "610114",
+        "name": "Sajad"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "code": "7210",
+    "type": "Kabupaten",
+    "name": "Sigi",
+    "fullname": "Kabupaten Sigi",
+    "jumlah": {
+        "kecamatan": 15,
+        "desa": 176
+    }
+}

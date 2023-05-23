@@ -1,0 +1,17 @@
+{
+    "code": "1223072007",
+    "name": "Pangkalan",
+    "poscode": "21456",
+    "provinsi": {
+        "code": "12",
+        "name": "Sumatera Utara"
+    },
+    "kabupaten": {
+        "code": "1223",
+        "name": "Labuhanbatu Utara"
+    },
+    "kecamatan": {
+        "code": "122307",
+        "name": "Aek Natas"
+    }
+}

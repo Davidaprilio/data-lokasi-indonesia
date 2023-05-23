@@ -1,0 +1,17 @@
+{
+    "code": "5205062007",
+    "name": "Doro Peti",
+    "poscode": "84260",
+    "provinsi": {
+        "code": "52",
+        "name": "Nusa Tenggara Barat (NTB)"
+    },
+    "kabupaten": {
+        "code": "5205",
+        "name": "Dompu"
+    },
+    "kecamatan": {
+        "code": "520506",
+        "name": "Pekat"
+    }
+}

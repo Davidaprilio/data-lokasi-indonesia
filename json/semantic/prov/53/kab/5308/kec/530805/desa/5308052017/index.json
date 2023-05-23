@@ -1,0 +1,17 @@
+{
+    "code": "5308052017",
+    "name": "Wolokota",
+    "poscode": "86360",
+    "provinsi": {
+        "code": "53",
+        "name": "Nusa Tenggara Timur (NTT)"
+    },
+    "kabupaten": {
+        "code": "5308",
+        "name": "Ende"
+    },
+    "kecamatan": {
+        "code": "530805",
+        "name": "Ndona"
+    }
+}

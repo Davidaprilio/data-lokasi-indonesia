@@ -1,0 +1,17 @@
+{
+    "code": "1209262003",
+    "name": "Terusan Tengah",
+    "poscode": "21261",
+    "provinsi": {
+        "code": "12",
+        "name": "Sumatera Utara"
+    },
+    "kabupaten": {
+        "code": "1209",
+        "name": "Asahan"
+    },
+    "kecamatan": {
+        "code": "120926",
+        "name": "Tinggi Raja"
+    }
+}

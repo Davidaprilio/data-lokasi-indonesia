@@ -1,0 +1,17 @@
+{
+    "code": "6101112002",
+    "name": "Sei/Sungai Palah",
+    "poscode": "79453",
+    "provinsi": {
+        "code": "61",
+        "name": "Kalimantan Barat"
+    },
+    "kabupaten": {
+        "code": "6101",
+        "name": "Sambas"
+    },
+    "kecamatan": {
+        "code": "610111",
+        "name": "Galing"
+    }
+}

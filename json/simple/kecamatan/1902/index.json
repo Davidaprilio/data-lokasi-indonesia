@@ -1,0 +1,37 @@
+[
+    {
+        "code": "190205",
+        "name": "Badau",
+        "count": {
+            "desa": 7
+        }
+    },
+    {
+        "code": "190202",
+        "name": "Membalong",
+        "count": {
+            "desa": 12
+        }
+    },
+    {
+        "code": "190203",
+        "name": "Selat Nasik",
+        "count": {
+            "desa": 4
+        }
+    },
+    {
+        "code": "190204",
+        "name": "Sijuk",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "190201",
+        "name": "Tanjung Pandan",
+        "count": {
+            "desa": 16
+        }
+    }
+]

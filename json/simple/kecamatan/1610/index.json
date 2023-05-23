@@ -1,0 +1,114 @@
+[
+    {
+        "code": "161004",
+        "name": "Indralaya",
+        "count": {
+            "desa": 20
+        }
+    },
+    {
+        "code": "161008",
+        "name": "Indralaya Selatan",
+        "count": {
+            "desa": 14
+        }
+    },
+    {
+        "code": "161007",
+        "name": "Indralaya Utara",
+        "count": {
+            "desa": 16
+        }
+    },
+    {
+        "code": "161013",
+        "name": "Kandis",
+        "count": {
+            "desa": 12
+        }
+    },
+    {
+        "code": "161015",
+        "name": "Lubuk Keliat",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "161001",
+        "name": "Muara Kuang",
+        "count": {
+            "desa": 14
+        }
+    },
+    {
+        "code": "161016",
+        "name": "Payaraman",
+        "count": {
+            "desa": 13
+        }
+    },
+    {
+        "code": "161005",
+        "name": "Pemulutan",
+        "count": {
+            "desa": 25
+        }
+    },
+    {
+        "code": "161010",
+        "name": "Pemulutan Barat",
+        "count": {
+            "desa": 11
+        }
+    },
+    {
+        "code": "161009",
+        "name": "Pemulutan Selatan",
+        "count": {
+            "desa": 15
+        }
+    },
+    {
+        "code": "161014",
+        "name": "Rambang Kuang",
+        "count": {
+            "desa": 13
+        }
+    },
+    {
+        "code": "161006",
+        "name": "Rantau Alai",
+        "count": {
+            "desa": 13
+        }
+    },
+    {
+        "code": "161011",
+        "name": "Rantau Panjang",
+        "count": {
+            "desa": 12
+        }
+    },
+    {
+        "code": "161012",
+        "name": "Sungai Pinang",
+        "count": {
+            "desa": 13
+        }
+    },
+    {
+        "code": "161002",
+        "name": "Tanjung Batu",
+        "count": {
+            "desa": 21
+        }
+    },
+    {
+        "code": "161003",
+        "name": "Tanjung Raja",
+        "count": {
+            "desa": 19
+        }
+    }
+]

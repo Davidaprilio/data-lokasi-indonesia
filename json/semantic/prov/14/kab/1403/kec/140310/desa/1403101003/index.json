@@ -1,0 +1,17 @@
+{
+    "code": "1403101003",
+    "name": "Terkul",
+    "poscode": "28781",
+    "provinsi": {
+        "code": "14",
+        "name": "Riau"
+    },
+    "kabupaten": {
+        "code": "1403",
+        "name": "Bengkalis"
+    },
+    "kecamatan": {
+        "code": "140310",
+        "name": "Rupat"
+    }
+}

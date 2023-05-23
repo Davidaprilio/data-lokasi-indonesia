@@ -1,0 +1,17 @@
+{
+    "code": "7411052022",
+    "name": "Mondoke",
+    "poscode": "93578",
+    "provinsi": {
+        "code": "74",
+        "name": "Sulawesi Tenggara"
+    },
+    "kabupaten": {
+        "code": "7411",
+        "name": "Kolaka Timur"
+    },
+    "kecamatan": {
+        "code": "741105",
+        "name": "Lambandia"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "3210102010",
+    "name": "Ciparay",
+    "poscode": "45473",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3210",
+        "name": "Majalengka"
+    },
+    "kecamatan": {
+        "code": "321010",
+        "name": "Leuwimunding"
+    }
+}

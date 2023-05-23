@@ -1,0 +1,17 @@
+{
+    "code": "3201202005",
+    "name": "Cikuda",
+    "poscode": "16360",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3201",
+        "name": "Bogor"
+    },
+    "kecamatan": {
+        "code": "320120",
+        "name": "Parung Panjang"
+    }
+}

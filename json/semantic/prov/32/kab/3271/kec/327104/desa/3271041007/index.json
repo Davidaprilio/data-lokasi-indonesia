@@ -1,0 +1,17 @@
+{
+    "code": "3271041007",
+    "name": "Semplak",
+    "poscode": "16114",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3271",
+        "name": "Bogor"
+    },
+    "kecamatan": {
+        "code": "327104",
+        "name": "Bogor Barat"
+    }
+}

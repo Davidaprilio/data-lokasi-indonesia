@@ -1,0 +1,17 @@
+{
+    "code": "3524102009",
+    "name": "Parengan",
+    "poscode": "62261",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3524",
+        "name": "Lamongan"
+    },
+    "kecamatan": {
+        "code": "352410",
+        "name": "Maduran"
+    }
+}

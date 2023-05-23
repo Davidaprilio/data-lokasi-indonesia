@@ -1,0 +1,17 @@
+{
+    "code": "1701042021",
+    "name": "Lubuk Sirih Ilir",
+    "poscode": "38511",
+    "provinsi": {
+        "code": "17",
+        "name": "Bengkulu"
+    },
+    "kabupaten": {
+        "code": "1701",
+        "name": "Bengkulu Selatan"
+    },
+    "kecamatan": {
+        "code": "170104",
+        "name": "Manna"
+    }
+}

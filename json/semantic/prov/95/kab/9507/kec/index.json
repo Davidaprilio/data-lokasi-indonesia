@@ -1,0 +1,275 @@
+[
+    {
+        "code": "950721",
+        "name": "Awina",
+        "count": {
+            "desa": 9
+        }
+    },
+    {
+        "code": "950722",
+        "name": "Ayumnati",
+        "count": {
+            "desa": 9
+        }
+    },
+    {
+        "code": "950707",
+        "name": "Balingga",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "950726",
+        "name": "Balingga Barat",
+        "count": {
+            "desa": 8
+        }
+    },
+    {
+        "code": "950725",
+        "name": "Bruwa",
+        "count": {
+            "desa": 9
+        }
+    },
+    {
+        "code": "950738",
+        "name": "Buguk Gona",
+        "count": {
+            "desa": 13
+        }
+    },
+    {
+        "code": "950705",
+        "name": "Dimba",
+        "count": {
+            "desa": 8
+        }
+    },
+    {
+        "code": "950704",
+        "name": "Gamelia",
+        "count": {
+            "desa": 8
+        }
+    },
+    {
+        "code": "950729",
+        "name": "Gelok Beam",
+        "count": {
+            "desa": 9
+        }
+    },
+    {
+        "code": "950724",
+        "name": "Goa Balim",
+        "count": {
+            "desa": 7
+        }
+    },
+    {
+        "code": "950720",
+        "name": "Gollo",
+        "count": {
+            "desa": 11
+        }
+    },
+    {
+        "code": "950734",
+        "name": "Guna",
+        "count": {
+            "desa": 7
+        }
+    },
+    {
+        "code": "950727",
+        "name": "Gupura",
+        "count": {
+            "desa": 12
+        }
+    },
+    {
+        "code": "950732",
+        "name": "Karu",
+        "count": {
+            "desa": 8
+        }
+    },
+    {
+        "code": "950735",
+        "name": "Kelulome",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "950728",
+        "name": "Kolawa",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "950730",
+        "name": "Kuly Lanny",
+        "count": {
+            "desa": 8
+        }
+    },
+    {
+        "code": "950709",
+        "name": "Kuyawage",
+        "count": {
+            "desa": 8
+        }
+    },
+    {
+        "code": "950731",
+        "name": "Lannyna",
+        "count": {
+            "desa": 11
+        }
+    },
+    {
+        "code": "950703",
+        "name": "Makki",
+        "count": {
+            "desa": 8
+        }
+    },
+    {
+        "code": "950739",
+        "name": "Melagi",
+        "count": {
+            "desa": 8
+        }
+    },
+    {
+        "code": "950706",
+        "name": "Melagineri",
+        "count": {
+            "desa": 8
+        }
+    },
+    {
+        "code": "950718",
+        "name": "Milimbo",
+        "count": {
+            "desa": 8
+        }
+    },
+    {
+        "code": "950716",
+        "name": "Mokoni",
+        "count": {
+            "desa": 9
+        }
+    },
+    {
+        "code": "950737",
+        "name": "Muara",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "950736",
+        "name": "Nikogwe",
+        "count": {
+            "desa": 9
+        }
+    },
+    {
+        "code": "950711",
+        "name": "Niname",
+        "count": {
+            "desa": 7
+        }
+    },
+    {
+        "code": "950712",
+        "name": "Nogi",
+        "count": {
+            "desa": 8
+        }
+    },
+    {
+        "code": "950702",
+        "name": "Pirime",
+        "count": {
+            "desa": 8
+        }
+    },
+    {
+        "code": "950710",
+        "name": "Poga",
+        "count": {
+            "desa": 13
+        }
+    },
+    {
+        "code": "950701",
+        "name": "Tiom",
+        "count": {
+            "desa": 11
+        }
+    },
+    {
+        "code": "950714",
+        "name": "Tiom Ollo",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "950708",
+        "name": "Tiomneri",
+        "count": {
+            "desa": 9
+        }
+    },
+    {
+        "code": "950723",
+        "name": "Wano Barat",
+        "count": {
+            "desa": 11
+        }
+    },
+    {
+        "code": "950717",
+        "name": "Wereka",
+        "count": {
+            "desa": 9
+        }
+    },
+    {
+        "code": "950719",
+        "name": "Wiringgambut",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "950713",
+        "name": "Yiginua",
+        "count": {
+            "desa": 7
+        }
+    },
+    {
+        "code": "950733",
+        "name": "Yiluk",
+        "count": {
+            "desa": 8
+        }
+    },
+    {
+        "code": "950715",
+        "name": "Yugungwi",
+        "count": {
+            "desa": 9
+        }
+    }
+]

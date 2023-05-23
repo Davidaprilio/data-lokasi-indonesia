@@ -1,0 +1,17 @@
+{
+    "code": "5302122010",
+    "name": "Mutis",
+    "poscode": "85561",
+    "provinsi": {
+        "code": "53",
+        "name": "Nusa Tenggara Timur (NTT)"
+    },
+    "kabupaten": {
+        "code": "5302",
+        "name": "Timor Tengah Selatan"
+    },
+    "kecamatan": {
+        "code": "530212",
+        "name": "Fatumnasi"
+    }
+}

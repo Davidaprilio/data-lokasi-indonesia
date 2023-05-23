@@ -1,0 +1,17 @@
+{
+    "code": "3517092009",
+    "name": "Sengon",
+    "poscode": "61418",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3517",
+        "name": "Jombang"
+    },
+    "kecamatan": {
+        "code": "351709",
+        "name": "Jombang"
+    }
+}

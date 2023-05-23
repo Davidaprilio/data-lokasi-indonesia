@@ -1,0 +1,17 @@
+{
+    "code": "3329032011",
+    "name": "Laren",
+    "poscode": "52273",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3329",
+        "name": "Brebes"
+    },
+    "kecamatan": {
+        "code": "332903",
+        "name": "Bumiayu"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "1201112005",
+    "name": "Simpang III Lae Bingke (Simpang Tiga Lae Bingke)",
+    "poscode": "22566",
+    "provinsi": {
+        "code": "12",
+        "name": "Sumatera Utara"
+    },
+    "kabupaten": {
+        "code": "1201",
+        "name": "Tapanuli Tengah"
+    },
+    "kecamatan": {
+        "code": "120111",
+        "name": "Sirandorung"
+    }
+}

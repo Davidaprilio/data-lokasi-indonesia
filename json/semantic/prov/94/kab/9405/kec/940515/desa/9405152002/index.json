@@ -1,0 +1,17 @@
+{
+    "code": "9405152002",
+    "name": "Bakcini",
+    "poscode": "98978",
+    "provinsi": {
+        "code": "94",
+        "name": "Papua Tengah"
+    },
+    "kabupaten": {
+        "code": "9405",
+        "name": "Puncak"
+    },
+    "kecamatan": {
+        "code": "940515",
+        "name": "Sinak Barat"
+    }
+}

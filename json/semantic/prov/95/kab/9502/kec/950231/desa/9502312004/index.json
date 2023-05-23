@@ -1,0 +1,17 @@
+{
+    "code": "9502312004",
+    "name": "Murme",
+    "poscode": "99405",
+    "provinsi": {
+        "code": "95",
+        "name": "Papua Pegunungan"
+    },
+    "kabupaten": {
+        "code": "9502",
+        "name": "Pegunungan Bintang"
+    },
+    "kecamatan": {
+        "code": "950231",
+        "name": "Teiraplu"
+    }
+}

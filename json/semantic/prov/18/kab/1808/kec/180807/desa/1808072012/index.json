@@ -1,0 +1,17 @@
+{
+    "code": "1808072012",
+    "name": "Kali Papan",
+    "poscode": "34773",
+    "provinsi": {
+        "code": "18",
+        "name": "Lampung"
+    },
+    "kabupaten": {
+        "code": "1808",
+        "name": "Way Kanan"
+    },
+    "kecamatan": {
+        "code": "180807",
+        "name": "Negeri Agung"
+    }
+}

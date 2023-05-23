@@ -1,0 +1,17 @@
+{
+    "code": "3505062007",
+    "name": "Ponggok",
+    "poscode": "66153",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3505",
+        "name": "Blitar"
+    },
+    "kecamatan": {
+        "code": "350506",
+        "name": "Ponggok"
+    }
+}

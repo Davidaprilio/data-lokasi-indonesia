@@ -1,0 +1,17 @@
+{
+    "code": "7405122004",
+    "name": "Lambandia",
+    "poscode": "93885",
+    "provinsi": {
+        "code": "74",
+        "name": "Sulawesi Tenggara"
+    },
+    "kabupaten": {
+        "code": "7405",
+        "name": "Konawe Selatan"
+    },
+    "kecamatan": {
+        "code": "740512",
+        "name": "Lalembuu"
+    }
+}

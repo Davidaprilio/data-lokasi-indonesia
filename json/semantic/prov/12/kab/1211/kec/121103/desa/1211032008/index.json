@@ -1,0 +1,17 @@
+{
+    "code": "1211032008",
+    "name": "Bertungen Julu",
+    "poscode": "22252",
+    "provinsi": {
+        "code": "12",
+        "name": "Sumatera Utara"
+    },
+    "kabupaten": {
+        "code": "1211",
+        "name": "Dairi"
+    },
+    "kecamatan": {
+        "code": "121103",
+        "name": "Tigalingga (Tiga Lingga)"
+    }
+}

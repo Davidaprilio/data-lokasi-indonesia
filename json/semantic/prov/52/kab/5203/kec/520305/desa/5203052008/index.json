@@ -1,0 +1,17 @@
+{
+    "code": "5203052008",
+    "name": "Masbagik Utara Baru",
+    "poscode": "83661",
+    "provinsi": {
+        "code": "52",
+        "name": "Nusa Tenggara Barat (NTB)"
+    },
+    "kabupaten": {
+        "code": "5203",
+        "name": "Lombok Timur"
+    },
+    "kecamatan": {
+        "code": "520305",
+        "name": "Masbagik"
+    }
+}

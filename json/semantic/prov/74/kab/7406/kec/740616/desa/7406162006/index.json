@@ -1,0 +1,17 @@
+{
+    "code": "7406162006",
+    "name": "Lengora Selatan",
+    "poscode": "93783",
+    "provinsi": {
+        "code": "74",
+        "name": "Sulawesi Tenggara"
+    },
+    "kabupaten": {
+        "code": "7406",
+        "name": "Bombana"
+    },
+    "kecamatan": {
+        "code": "740616",
+        "name": "Kabaena Tengah"
+    }
+}

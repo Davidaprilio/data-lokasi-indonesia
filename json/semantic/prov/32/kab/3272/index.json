@@ -1,0 +1,10 @@
+{
+    "code": "3272",
+    "type": "Kota",
+    "name": "Sukabumi",
+    "fullname": "Kota Sukabumi",
+    "jumlah": {
+        "kecamatan": 7,
+        "desa": 33
+    }
+}

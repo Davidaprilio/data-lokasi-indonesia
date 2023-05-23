@@ -1,0 +1,17 @@
+{
+    "code": "7271071002",
+    "name": "Pantoloan Boya",
+    "poscode": "94143",
+    "provinsi": {
+        "code": "72",
+        "name": "Sulawesi Tengah"
+    },
+    "kabupaten": {
+        "code": "7271",
+        "name": "Palu"
+    },
+    "kecamatan": {
+        "code": "727107",
+        "name": "Tawaeli"
+    }
+}

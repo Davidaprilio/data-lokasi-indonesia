@@ -1,0 +1,17 @@
+{
+    "code": "3523042018",
+    "name": "Sukoharjo",
+    "poscode": "62354",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3523",
+        "name": "Tuban"
+    },
+    "kecamatan": {
+        "code": "352304",
+        "name": "Bancar"
+    }
+}

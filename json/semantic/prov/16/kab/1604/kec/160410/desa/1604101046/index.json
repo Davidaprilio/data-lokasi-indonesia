@@ -1,0 +1,17 @@
+{
+    "code": "1604101046",
+    "name": "Bandar Agung",
+    "poscode": "31414",
+    "provinsi": {
+        "code": "16",
+        "name": "Sumatera Selatan"
+    },
+    "kabupaten": {
+        "code": "1604",
+        "name": "Lahat"
+    },
+    "kecamatan": {
+        "code": "160410",
+        "name": "Lahat"
+    }
+}

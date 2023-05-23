@@ -1,0 +1,17 @@
+{
+    "code": "3517092007",
+    "name": "Kepatihan",
+    "poscode": "61417",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3517",
+        "name": "Jombang"
+    },
+    "kecamatan": {
+        "code": "351709",
+        "name": "Jombang"
+    }
+}

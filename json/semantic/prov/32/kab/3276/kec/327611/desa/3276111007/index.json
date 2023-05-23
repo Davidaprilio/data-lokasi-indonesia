@@ -1,0 +1,17 @@
+{
+    "code": "3276111007",
+    "name": "Duren Seribu",
+    "poscode": "16518",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3276",
+        "name": "Depok"
+    },
+    "kecamatan": {
+        "code": "327611",
+        "name": "Bojongsari"
+    }
+}

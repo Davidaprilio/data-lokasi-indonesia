@@ -1,0 +1,17 @@
+{
+    "code": "1271191005",
+    "name": "Sei Putih Tengah",
+    "poscode": "20118",
+    "provinsi": {
+        "code": "12",
+        "name": "Sumatera Utara"
+    },
+    "kabupaten": {
+        "code": "1271",
+        "name": "Medan"
+    },
+    "kecamatan": {
+        "code": "127119",
+        "name": "Medan Petisah"
+    }
+}

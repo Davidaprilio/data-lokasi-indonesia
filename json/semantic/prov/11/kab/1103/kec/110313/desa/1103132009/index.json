@@ -1,0 +1,17 @@
+{
+    "code": "1103132009",
+    "name": "Jambo Lubok",
+    "poscode": "24457",
+    "provinsi": {
+        "code": "11",
+        "name": "Aceh (NAD)"
+    },
+    "kabupaten": {
+        "code": "1103",
+        "name": "Aceh Timur"
+    },
+    "kecamatan": {
+        "code": "110313",
+        "name": "Indra Makmu (Indra Makmur)"
+    }
+}

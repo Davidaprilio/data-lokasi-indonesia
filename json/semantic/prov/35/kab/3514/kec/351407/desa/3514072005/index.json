@@ -1,0 +1,17 @@
+{
+    "code": "3514072005",
+    "name": "Wonorejo",
+    "poscode": "67173",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3514",
+        "name": "Pasuruan"
+    },
+    "kecamatan": {
+        "code": "351407",
+        "name": "Wonorejo"
+    }
+}

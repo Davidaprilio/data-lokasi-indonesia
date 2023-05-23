@@ -1,0 +1,37 @@
+[
+    {
+        "code": "3579032002",
+        "name": "Beji",
+        "poscode": "65326"
+    },
+    {
+        "code": "3579031001",
+        "name": "Dadaprejo",
+        "poscode": "65323"
+    },
+    {
+        "code": "3579032003",
+        "name": "Junrejo",
+        "poscode": "65321"
+    },
+    {
+        "code": "3579032005",
+        "name": "Mojorejo",
+        "poscode": "65322"
+    },
+    {
+        "code": "3579032006",
+        "name": "Pendem",
+        "poscode": "65324"
+    },
+    {
+        "code": "3579032004",
+        "name": "Tlekung",
+        "poscode": "65327"
+    },
+    {
+        "code": "3579032007",
+        "name": "Torongrejo",
+        "poscode": "65325"
+    }
+]

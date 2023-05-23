@@ -1,0 +1,17 @@
+{
+    "code": "7571061001",
+    "name": "Wumialo",
+    "poscode": "96128",
+    "provinsi": {
+        "code": "75",
+        "name": "Gorontalo"
+    },
+    "kabupaten": {
+        "code": "7571",
+        "name": "Gorontalo"
+    },
+    "kecamatan": {
+        "code": "757106",
+        "name": "Kota Tengah"
+    }
+}

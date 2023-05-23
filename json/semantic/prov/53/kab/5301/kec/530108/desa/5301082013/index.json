@@ -1,0 +1,17 @@
+{
+    "code": "5301082013",
+    "name": "Mata Air",
+    "poscode": "85361",
+    "provinsi": {
+        "code": "53",
+        "name": "Nusa Tenggara Timur (NTT)"
+    },
+    "kabupaten": {
+        "code": "5301",
+        "name": "Kupang"
+    },
+    "kecamatan": {
+        "code": "530108",
+        "name": "Kupang Tengah"
+    }
+}

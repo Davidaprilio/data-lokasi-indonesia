@@ -1,0 +1,17 @@
+{
+    "code": "1271061001",
+    "name": "Titipapan (Titi Papan)",
+    "poscode": "20244",
+    "provinsi": {
+        "code": "12",
+        "name": "Sumatera Utara"
+    },
+    "kabupaten": {
+        "code": "1271",
+        "name": "Medan"
+    },
+    "kecamatan": {
+        "code": "127106",
+        "name": "Medan Deli"
+    }
+}

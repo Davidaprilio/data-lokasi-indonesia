@@ -1,0 +1,17 @@
+{
+    "code": "9401072013",
+    "name": "Wanggar Makmur",
+    "poscode": "98854",
+    "provinsi": {
+        "code": "94",
+        "name": "Papua Tengah"
+    },
+    "kabupaten": {
+        "code": "9401",
+        "name": "Nabire"
+    },
+    "kecamatan": {
+        "code": "940107",
+        "name": "Wanggar"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "1116062013",
+    "name": "Jawa (Kampung Jawa)",
+    "poscode": "24477",
+    "provinsi": {
+        "code": "11",
+        "name": "Aceh (NAD)"
+    },
+    "kabupaten": {
+        "code": "1116",
+        "name": "Aceh Tamiang"
+    },
+    "kecamatan": {
+        "code": "111606",
+        "name": "Kejuruan Muda"
+    }
+}

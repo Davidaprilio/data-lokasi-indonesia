@@ -1,0 +1,37 @@
+[
+    {
+        "code": "3174041003",
+        "name": "Cilandak Timur",
+        "poscode": "12560"
+    },
+    {
+        "code": "3174041002",
+        "name": "Jati Padang",
+        "poscode": "12540"
+    },
+    {
+        "code": "3174041007",
+        "name": "Kebagusan",
+        "poscode": "12520"
+    },
+    {
+        "code": "3174041001",
+        "name": "Pasar Minggu",
+        "poscode": "12520"
+    },
+    {
+        "code": "3174041006",
+        "name": "Pejaten Barat",
+        "poscode": "12510"
+    },
+    {
+        "code": "3174041005",
+        "name": "Pejaten Timur",
+        "poscode": "12510"
+    },
+    {
+        "code": "3174041004",
+        "name": "Ragunan",
+        "poscode": "12550"
+    }
+]

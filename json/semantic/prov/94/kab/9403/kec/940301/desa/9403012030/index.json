@@ -1,0 +1,17 @@
+{
+    "code": "9403012030",
+    "name": "Kagupago",
+    "poscode": "98711",
+    "provinsi": {
+        "code": "94",
+        "name": "Papua Tengah"
+    },
+    "kabupaten": {
+        "code": "9403",
+        "name": "Paniai"
+    },
+    "kecamatan": {
+        "code": "940301",
+        "name": "Paniai Timur"
+    }
+}

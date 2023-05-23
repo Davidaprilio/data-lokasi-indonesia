@@ -1,0 +1,17 @@
+{
+    "code": "3205172006",
+    "name": "Mulyasari",
+    "poscode": "44162",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3205",
+        "name": "Garut"
+    },
+    "kecamatan": {
+        "code": "320517",
+        "name": "Bayongbong"
+    }
+}

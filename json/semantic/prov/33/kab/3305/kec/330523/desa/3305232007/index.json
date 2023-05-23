@@ -1,0 +1,17 @@
+{
+    "code": "3305232007",
+    "name": "Bonorowo",
+    "poscode": "54395",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3305",
+        "name": "Kebumen"
+    },
+    "kecamatan": {
+        "code": "330523",
+        "name": "Bonorowo"
+    }
+}

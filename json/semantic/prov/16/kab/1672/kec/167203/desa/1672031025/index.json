@@ -1,0 +1,17 @@
+{
+    "code": "1672031025",
+    "name": "Reba Tinggi",
+    "poscode": "31510",
+    "provinsi": {
+        "code": "16",
+        "name": "Sumatera Selatan"
+    },
+    "kabupaten": {
+        "code": "1672",
+        "name": "Pagar Alam"
+    },
+    "kecamatan": {
+        "code": "167203",
+        "name": "Dempo Utara"
+    }
+}

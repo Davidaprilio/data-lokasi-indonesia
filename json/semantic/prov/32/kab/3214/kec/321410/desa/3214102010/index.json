@@ -1,0 +1,17 @@
+{
+    "code": "3214102010",
+    "name": "Margasari",
+    "poscode": "41171",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3214",
+        "name": "Purwakarta"
+    },
+    "kecamatan": {
+        "code": "321410",
+        "name": "Pasawahan"
+    }
+}

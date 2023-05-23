@@ -1,0 +1,17 @@
+{
+    "code": "9503362002",
+    "name": "Danggema",
+    "poscode": "99733",
+    "provinsi": {
+        "code": "95",
+        "name": "Papua Pegunungan"
+    },
+    "kabupaten": {
+        "code": "9503",
+        "name": "Yahukimo"
+    },
+    "kecamatan": {
+        "code": "950336",
+        "name": "Holuon"
+    }
+}

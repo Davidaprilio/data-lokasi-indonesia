@@ -1,0 +1,17 @@
+{
+    "code": "1803122008",
+    "name": "Kebun Dalam",
+    "poscode": "34556",
+    "provinsi": {
+        "code": "18",
+        "name": "Lampung"
+    },
+    "kabupaten": {
+        "code": "1803",
+        "name": "Lampung Utara"
+    },
+    "kecamatan": {
+        "code": "180312",
+        "name": "Abung Tinggi"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "3309092008",
+    "name": "Bendan",
+    "poscode": "57373",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3309",
+        "name": "Boyolali"
+    },
+    "kecamatan": {
+        "code": "330909",
+        "name": "Banyudono"
+    }
+}

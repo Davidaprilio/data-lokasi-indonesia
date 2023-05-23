@@ -1,0 +1,17 @@
+{
+    "code": "3209302012",
+    "name": "Pelayangan (Playangan)",
+    "poscode": "45190",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3209",
+        "name": "Cirebon"
+    },
+    "kecamatan": {
+        "code": "320930",
+        "name": "Gebang"
+    }
+}

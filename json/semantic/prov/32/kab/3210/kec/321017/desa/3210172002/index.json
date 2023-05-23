@@ -1,0 +1,17 @@
+{
+    "code": "3210172002",
+    "name": "Bongas Kulon",
+    "poscode": "45455",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3210",
+        "name": "Majalengka"
+    },
+    "kecamatan": {
+        "code": "321017",
+        "name": "Sumberjaya"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "code": "1805",
+    "type": "Kabupaten",
+    "name": "Tulang Bawang",
+    "fullname": "Kabupaten Tulang Bawang",
+    "jumlah": {
+        "kecamatan": 15,
+        "desa": 151
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "1603242005",
+    "name": "Talang Balai",
+    "poscode": "31171",
+    "provinsi": {
+        "code": "16",
+        "name": "Sumatera Selatan"
+    },
+    "kabupaten": {
+        "code": "1603",
+        "name": "Muara Enim"
+    },
+    "kecamatan": {
+        "code": "160324",
+        "name": "Belida Darat"
+    }
+}

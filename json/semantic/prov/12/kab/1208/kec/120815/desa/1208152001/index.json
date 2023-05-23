@@ -1,0 +1,17 @@
+{
+    "code": "1208152001",
+    "name": "Nagori Purba (Nagori Purba Saribu)",
+    "poscode": "21177",
+    "provinsi": {
+        "code": "12",
+        "name": "Sumatera Utara"
+    },
+    "kabupaten": {
+        "code": "1208",
+        "name": "Simalungun"
+    },
+    "kecamatan": {
+        "code": "120815",
+        "name": "Haranggaol Horison"
+    }
+}

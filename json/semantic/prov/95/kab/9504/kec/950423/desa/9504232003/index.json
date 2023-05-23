@@ -1,0 +1,17 @@
+{
+    "code": "9504232003",
+    "name": "Tirib",
+    "poscode": "99060",
+    "provinsi": {
+        "code": "95",
+        "name": "Papua Pegunungan"
+    },
+    "kabupaten": {
+        "code": "9504",
+        "name": "Tolikara"
+    },
+    "kecamatan": {
+        "code": "950423",
+        "name": "Timori"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "8171052004",
+    "name": "Naku",
+    "poscode": "97129",
+    "provinsi": {
+        "code": "81",
+        "name": "Maluku"
+    },
+    "kabupaten": {
+        "code": "8171",
+        "name": "Ambon"
+    },
+    "kecamatan": {
+        "code": "817105",
+        "name": "Leitimur Selatan"
+    }
+}

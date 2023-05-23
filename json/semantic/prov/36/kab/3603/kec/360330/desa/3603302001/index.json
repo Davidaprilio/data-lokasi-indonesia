@@ -1,0 +1,17 @@
+{
+    "code": "3603302001",
+    "name": "Kedaung Barat",
+    "poscode": "15521",
+    "provinsi": {
+        "code": "36",
+        "name": "Banten"
+    },
+    "kabupaten": {
+        "code": "3603",
+        "name": "Tangerang"
+    },
+    "kecamatan": {
+        "code": "360330",
+        "name": "Sepatan Timur"
+    }
+}

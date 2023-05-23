@@ -1,0 +1,17 @@
+{
+    "code": "1171052009",
+    "name": "Lampaloh",
+    "poscode": "23248",
+    "provinsi": {
+        "code": "11",
+        "name": "Aceh (NAD)"
+    },
+    "kabupaten": {
+        "code": "1171",
+        "name": "Banda Aceh"
+    },
+    "kecamatan": {
+        "code": "117105",
+        "name": "Lueng Bata"
+    }
+}

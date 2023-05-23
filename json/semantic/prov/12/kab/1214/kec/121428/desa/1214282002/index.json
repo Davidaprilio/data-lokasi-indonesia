@@ -1,0 +1,17 @@
+{
+    "code": "1214282002",
+    "name": "Silina",
+    "poscode": "22886",
+    "provinsi": {
+        "code": "12",
+        "name": "Sumatera Utara"
+    },
+    "kabupaten": {
+        "code": "1214",
+        "name": "Nias Selatan"
+    },
+    "kecamatan": {
+        "code": "121428",
+        "name": "Simuk"
+    }
+}

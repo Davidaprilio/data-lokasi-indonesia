@@ -1,0 +1,72 @@
+[
+    {
+        "code": "531410",
+        "name": "Landu Leko",
+        "count": {
+            "desa": 7
+        }
+    },
+    {
+        "code": "531403",
+        "name": "Lobalain",
+        "count": {
+            "desa": 18
+        }
+    },
+    {
+        "code": "531409",
+        "name": "Ndao Nuse",
+        "count": {
+            "desa": 5
+        }
+    },
+    {
+        "code": "531405",
+        "name": "Pantai Baru",
+        "count": {
+            "desa": 15
+        }
+    },
+    {
+        "code": "531407",
+        "name": "Rote Barat",
+        "count": {
+            "desa": 7
+        }
+    },
+    {
+        "code": "531401",
+        "name": "Rote Barat Daya",
+        "count": {
+            "desa": 19
+        }
+    },
+    {
+        "code": "531402",
+        "name": "Rote Barat Laut",
+        "count": {
+            "desa": 22
+        }
+    },
+    {
+        "code": "531408",
+        "name": "Rote Selatan",
+        "count": {
+            "desa": 7
+        }
+    },
+    {
+        "code": "531404",
+        "name": "Rote Tengah",
+        "count": {
+            "desa": 8
+        }
+    },
+    {
+        "code": "531406",
+        "name": "Rote Timur",
+        "count": {
+            "desa": 11
+        }
+    }
+]

@@ -1,0 +1,17 @@
+{
+    "code": "1107092002",
+    "name": "Benteng",
+    "poscode": "24112",
+    "provinsi": {
+        "code": "11",
+        "name": "Aceh (NAD)"
+    },
+    "kabupaten": {
+        "code": "1107",
+        "name": "Pidie"
+    },
+    "kecamatan": {
+        "code": "110709",
+        "name": "Kota Sigli"
+    }
+}

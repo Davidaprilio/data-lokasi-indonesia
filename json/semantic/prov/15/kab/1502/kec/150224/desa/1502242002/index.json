@@ -1,0 +1,17 @@
+{
+    "code": "1502242002",
+    "name": "Sekancing Ilir",
+    "poscode": "37371",
+    "provinsi": {
+        "code": "15",
+        "name": "Jambi"
+    },
+    "kabupaten": {
+        "code": "1502",
+        "name": "Merangin"
+    },
+    "kecamatan": {
+        "code": "150224",
+        "name": "Tiang Pumpung"
+    }
+}

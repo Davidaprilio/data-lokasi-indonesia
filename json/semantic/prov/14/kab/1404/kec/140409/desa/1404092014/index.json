@@ -1,0 +1,17 @@
+{
+    "code": "1404092014",
+    "name": "Petalongan",
+    "poscode": "29275",
+    "provinsi": {
+        "code": "14",
+        "name": "Riau"
+    },
+    "kabupaten": {
+        "code": "1404",
+        "name": "Indragiri Hilir"
+    },
+    "kecamatan": {
+        "code": "140409",
+        "name": "Keritang"
+    }
+}

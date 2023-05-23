@@ -1,0 +1,17 @@
+{
+    "code": "3318102023",
+    "name": "Sidokerto",
+    "poscode": "59111",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3318",
+        "name": "Pati"
+    },
+    "kecamatan": {
+        "code": "331810",
+        "name": "Pati"
+    }
+}

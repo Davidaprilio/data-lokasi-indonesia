@@ -1,0 +1,17 @@
+{
+    "code": "1703062029",
+    "name": "Penyangkak",
+    "poscode": "38379",
+    "provinsi": {
+        "code": "17",
+        "name": "Bengkulu"
+    },
+    "kabupaten": {
+        "code": "1703",
+        "name": "Bengkulu Utara"
+    },
+    "kecamatan": {
+        "code": "170306",
+        "name": "Kerkap"
+    }
+}

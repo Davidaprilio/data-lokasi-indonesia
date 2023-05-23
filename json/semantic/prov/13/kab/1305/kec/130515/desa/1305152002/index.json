@@ -1,0 +1,17 @@
+{
+    "code": "1305152002",
+    "name": "Guguak",
+    "poscode": "25585",
+    "provinsi": {
+        "code": "13",
+        "name": "Sumatera Barat"
+    },
+    "kabupaten": {
+        "code": "1305",
+        "name": "Padang Pariaman"
+    },
+    "kecamatan": {
+        "code": "130515",
+        "name": "2 X 11 Kayu Tanam"
+    }
+}

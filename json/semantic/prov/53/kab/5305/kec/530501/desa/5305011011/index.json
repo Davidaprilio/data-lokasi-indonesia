@@ -1,0 +1,17 @@
+{
+    "code": "5305011011",
+    "name": "Wetabua",
+    "poscode": "85819",
+    "provinsi": {
+        "code": "53",
+        "name": "Nusa Tenggara Timur (NTT)"
+    },
+    "kabupaten": {
+        "code": "5305",
+        "name": "Alor"
+    },
+    "kecamatan": {
+        "code": "530501",
+        "name": "Teluk Mutiara"
+    }
+}

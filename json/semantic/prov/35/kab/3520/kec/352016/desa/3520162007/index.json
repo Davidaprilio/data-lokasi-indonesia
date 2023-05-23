@@ -1,0 +1,17 @@
+{
+    "code": "3520162007",
+    "name": "Balegondo",
+    "poscode": "63351",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3520",
+        "name": "Magetan"
+    },
+    "kecamatan": {
+        "code": "352016",
+        "name": "Ngariboyo"
+    }
+}

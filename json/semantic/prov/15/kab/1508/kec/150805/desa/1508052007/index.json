@@ -1,0 +1,17 @@
+{
+    "code": "1508052007",
+    "name": "Sungai Gambir",
+    "poscode": "37263",
+    "provinsi": {
+        "code": "15",
+        "name": "Jambi"
+    },
+    "kabupaten": {
+        "code": "1508",
+        "name": "Bungo"
+    },
+    "kecamatan": {
+        "code": "150805",
+        "name": "Tanah Sepenggal"
+    }
+}

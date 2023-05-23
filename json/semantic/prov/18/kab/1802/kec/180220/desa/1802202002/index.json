@@ -1,0 +1,17 @@
+{
+    "code": "1802202002",
+    "name": "Lingga Pura",
+    "poscode": "34177",
+    "provinsi": {
+        "code": "18",
+        "name": "Lampung"
+    },
+    "kabupaten": {
+        "code": "1802",
+        "name": "Lampung Tengah"
+    },
+    "kecamatan": {
+        "code": "180220",
+        "name": "Selagai Lingga"
+    }
+}

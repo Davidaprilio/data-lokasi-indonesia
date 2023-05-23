@@ -1,0 +1,17 @@
+{
+    "code": "1214042026",
+    "name": "Hilinifaese",
+    "poscode": "22881",
+    "provinsi": {
+        "code": "12",
+        "name": "Sumatera Utara"
+    },
+    "kabupaten": {
+        "code": "1214",
+        "name": "Nias Selatan"
+    },
+    "kecamatan": {
+        "code": "121404",
+        "name": "Hibala"
+    }
+}

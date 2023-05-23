@@ -1,0 +1,10 @@
+{
+    "code": "3329",
+    "type": "Kabupaten",
+    "name": "Brebes",
+    "fullname": "Kabupaten Brebes",
+    "jumlah": {
+        "kecamatan": 17,
+        "desa": 297
+    }
+}

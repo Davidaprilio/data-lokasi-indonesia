@@ -1,0 +1,17 @@
+{
+    "code": "6302032006",
+    "name": "Teluk Sirih",
+    "poscode": "72157",
+    "provinsi": {
+        "code": "63",
+        "name": "Kalimantan Selatan"
+    },
+    "kabupaten": {
+        "code": "6302",
+        "name": "Kotabaru"
+    },
+    "kecamatan": {
+        "code": "630203",
+        "name": "Pulau Laut / Pulaulaut Selatan"
+    }
+}

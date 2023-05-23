@@ -1,0 +1,37 @@
+[
+    {
+        "code": "510105",
+        "name": "Jembrana",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "510104",
+        "name": "Melaya",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "510102",
+        "name": "Mendoyo",
+        "count": {
+            "desa": 11
+        }
+    },
+    {
+        "code": "510101",
+        "name": "Negara",
+        "count": {
+            "desa": 12
+        }
+    },
+    {
+        "code": "510103",
+        "name": "Pekutatan",
+        "count": {
+            "desa": 8
+        }
+    }
+]

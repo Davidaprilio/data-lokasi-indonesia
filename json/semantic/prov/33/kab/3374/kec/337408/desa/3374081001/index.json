@@ -1,0 +1,17 @@
+{
+    "code": "3374081001",
+    "name": "Candi",
+    "poscode": "50257",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3374",
+        "name": "Semarang"
+    },
+    "kecamatan": {
+        "code": "337408",
+        "name": "Candisari"
+    }
+}

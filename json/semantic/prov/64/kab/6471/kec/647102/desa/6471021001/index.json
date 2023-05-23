@@ -1,0 +1,17 @@
+{
+    "code": "6471021001",
+    "name": "Baru Ilir",
+    "poscode": "76131",
+    "provinsi": {
+        "code": "64",
+        "name": "Kalimantan Timur"
+    },
+    "kabupaten": {
+        "code": "6471",
+        "name": "Balikpapan"
+    },
+    "kecamatan": {
+        "code": "647102",
+        "name": "Balikpapan Barat"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "7411081006",
+    "name": "Sanggona",
+    "poscode": "93574",
+    "provinsi": {
+        "code": "74",
+        "name": "Sulawesi Tenggara"
+    },
+    "kabupaten": {
+        "code": "7411",
+        "name": "Kolaka Timur"
+    },
+    "kecamatan": {
+        "code": "741108",
+        "name": "Uluiwoi"
+    }
+}

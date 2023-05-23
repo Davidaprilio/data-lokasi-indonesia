@@ -1,0 +1,17 @@
+{
+    "code": "1110112006",
+    "name": "Sintuban Makmur (Situban Makmur)",
+    "poscode": "24784",
+    "provinsi": {
+        "code": "11",
+        "name": "Aceh (NAD)"
+    },
+    "kabupaten": {
+        "code": "1110",
+        "name": "Aceh Singkil"
+    },
+    "kecamatan": {
+        "code": "111011",
+        "name": "Danau Paris"
+    }
+}

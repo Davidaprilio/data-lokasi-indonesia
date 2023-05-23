@@ -1,0 +1,17 @@
+{
+    "code": "1971041001",
+    "name": "Pintu Air",
+    "poscode": "33133",
+    "provinsi": {
+        "code": "19",
+        "name": "Kepulauan Bangka Belitung"
+    },
+    "kabupaten": {
+        "code": "1971",
+        "name": "Pangkal Pinang"
+    },
+    "kecamatan": {
+        "code": "197104",
+        "name": "Rangkui"
+    }
+}

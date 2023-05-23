@@ -1,0 +1,17 @@
+{
+    "code": "3308062011",
+    "name": "Sewukan",
+    "poscode": "56482",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3308",
+        "name": "Magelang"
+    },
+    "kecamatan": {
+        "code": "330806",
+        "name": "Dukun"
+    }
+}

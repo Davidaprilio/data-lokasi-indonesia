@@ -1,0 +1,17 @@
+{
+    "code": "9210192006",
+    "name": "Kona",
+    "poscode": "98249",
+    "provinsi": {
+        "code": "96",
+        "name": "Papua Barat Daya"
+    },
+    "kabupaten": {
+        "code": "9210",
+        "name": "Maybrat"
+    },
+    "kecamatan": {
+        "code": "921019",
+        "name": "Ayamaru Utara Timur"
+    }
+}

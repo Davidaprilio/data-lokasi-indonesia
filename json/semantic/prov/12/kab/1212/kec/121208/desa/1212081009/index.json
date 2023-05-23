@@ -1,0 +1,17 @@
+{
+    "code": "1212081009",
+    "name": "Parsaoran Ajibata",
+    "poscode": "22386",
+    "provinsi": {
+        "code": "12",
+        "name": "Sumatera Utara"
+    },
+    "kabupaten": {
+        "code": "1212",
+        "name": "Toba"
+    },
+    "kecamatan": {
+        "code": "121208",
+        "name": "Ajibata"
+    }
+}

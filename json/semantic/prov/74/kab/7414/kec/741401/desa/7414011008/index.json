@@ -1,0 +1,17 @@
+{
+    "code": "7414011008",
+    "name": "Gu Timur",
+    "poscode": "93763",
+    "provinsi": {
+        "code": "74",
+        "name": "Sulawesi Tenggara"
+    },
+    "kabupaten": {
+        "code": "7414",
+        "name": "Buton Tengah"
+    },
+    "kecamatan": {
+        "code": "741401",
+        "name": "Lakudo"
+    }
+}

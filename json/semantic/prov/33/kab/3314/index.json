@@ -1,0 +1,10 @@
+{
+    "code": "3314",
+    "type": "Kabupaten",
+    "name": "Sragen",
+    "fullname": "Kabupaten Sragen",
+    "jumlah": {
+        "kecamatan": 20,
+        "desa": 208
+    }
+}

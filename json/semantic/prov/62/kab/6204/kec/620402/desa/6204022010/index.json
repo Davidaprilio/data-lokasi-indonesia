@@ -1,0 +1,17 @@
+{
+    "code": "6204022010",
+    "name": "Mangkatir",
+    "poscode": "73762",
+    "provinsi": {
+        "code": "62",
+        "name": "Kalimantan Tengah"
+    },
+    "kabupaten": {
+        "code": "6204",
+        "name": "Barito Selatan"
+    },
+    "kecamatan": {
+        "code": "620402",
+        "name": "Dusun Hilir"
+    }
+}

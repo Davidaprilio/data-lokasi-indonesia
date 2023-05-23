@@ -1,0 +1,121 @@
+[
+    {
+        "code": "150810",
+        "name": "Bathin / Batin II Babeko",
+        "count": {
+            "desa": 6
+        }
+    },
+    {
+        "code": "150815",
+        "name": "Bathin II Pelayang",
+        "count": {
+            "desa": 5
+        }
+    },
+    {
+        "code": "150811",
+        "name": "Bathin III",
+        "count": {
+            "desa": 8
+        }
+    },
+    {
+        "code": "150814",
+        "name": "Bathin III Ulu",
+        "count": {
+            "desa": 9
+        }
+    },
+    {
+        "code": "150812",
+        "name": "Bungo Dani",
+        "count": {
+            "desa": 5
+        }
+    },
+    {
+        "code": "150804",
+        "name": "Jujuhan",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "150816",
+        "name": "Jujuhan Ilir",
+        "count": {
+            "desa": 7
+        }
+    },
+    {
+        "code": "150807",
+        "name": "Limbur Lubuk Mengkuang",
+        "count": {
+            "desa": 14
+        }
+    },
+    {
+        "code": "150808",
+        "name": "Muko-muko Bathin VII",
+        "count": {
+            "desa": 9
+        }
+    },
+    {
+        "code": "150803",
+        "name": "Pasar Muaro Bungo (Pasar Muara Bungo)",
+        "count": {
+            "desa": 5
+        }
+    },
+    {
+        "code": "150806",
+        "name": "Pelepat",
+        "count": {
+            "desa": 15
+        }
+    },
+    {
+        "code": "150809",
+        "name": "Pelepat Ilir",
+        "count": {
+            "desa": 17
+        }
+    },
+    {
+        "code": "150802",
+        "name": "Rantau Pandan",
+        "count": {
+            "desa": 6
+        }
+    },
+    {
+        "code": "150813",
+        "name": "Rimbo Tengah",
+        "count": {
+            "desa": 4
+        }
+    },
+    {
+        "code": "150805",
+        "name": "Tanah Sepenggal",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "150817",
+        "name": "Tanah Sepenggal Lintas",
+        "count": {
+            "desa": 12
+        }
+    },
+    {
+        "code": "150801",
+        "name": "Tanah Tumbuh",
+        "count": {
+            "desa": 11
+        }
+    }
+]

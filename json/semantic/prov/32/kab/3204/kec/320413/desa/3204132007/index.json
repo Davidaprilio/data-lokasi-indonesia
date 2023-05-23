@@ -1,0 +1,17 @@
+{
+    "code": "3204132007",
+    "name": "Kiangroke",
+    "poscode": "40377",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3204",
+        "name": "Bandung"
+    },
+    "kecamatan": {
+        "code": "320413",
+        "name": "Banjaran"
+    }
+}

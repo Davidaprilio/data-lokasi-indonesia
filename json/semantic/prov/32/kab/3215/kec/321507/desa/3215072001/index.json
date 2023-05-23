@@ -1,0 +1,17 @@
+{
+    "code": "3215072001",
+    "name": "Waluya",
+    "poscode": "41358",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3215",
+        "name": "Karawang"
+    },
+    "kecamatan": {
+        "code": "321507",
+        "name": "Kutawaluya"
+    }
+}

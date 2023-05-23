@@ -1,0 +1,149 @@
+[
+    {
+        "code": "331807",
+        "name": "Batangan",
+        "count": {
+            "desa": 18
+        }
+    },
+    {
+        "code": "331818",
+        "name": "Cluwak",
+        "count": {
+            "desa": 13
+        }
+    },
+    {
+        "code": "331820",
+        "name": "Dukuhseti",
+        "count": {
+            "desa": 12
+        }
+    },
+    {
+        "code": "331811",
+        "name": "Gabus",
+        "count": {
+            "desa": 24
+        }
+    },
+    {
+        "code": "331813",
+        "name": "Gembong",
+        "count": {
+            "desa": 11
+        }
+    },
+    {
+        "code": "331817",
+        "name": "Gunungwungkal",
+        "count": {
+            "desa": 15
+        }
+    },
+    {
+        "code": "331806",
+        "name": "Jaken",
+        "count": {
+            "desa": 21
+        }
+    },
+    {
+        "code": "331809",
+        "name": "Jakenan",
+        "count": {
+            "desa": 23
+        }
+    },
+    {
+        "code": "331808",
+        "name": "Juwana",
+        "count": {
+            "desa": 29
+        }
+    },
+    {
+        "code": "331802",
+        "name": "Kayen",
+        "count": {
+            "desa": 17
+        }
+    },
+    {
+        "code": "331812",
+        "name": "Margorejo",
+        "count": {
+            "desa": 18
+        }
+    },
+    {
+        "code": "331816",
+        "name": "Margoyoso",
+        "count": {
+            "desa": 22
+        }
+    },
+    {
+        "code": "331810",
+        "name": "Pati",
+        "count": {
+            "desa": 29
+        }
+    },
+    {
+        "code": "331805",
+        "name": "Pucakwangi",
+        "count": {
+            "desa": 20
+        }
+    },
+    {
+        "code": "331801",
+        "name": "Sukolilo",
+        "count": {
+            "desa": 16
+        }
+    },
+    {
+        "code": "331803",
+        "name": "Tambakromo",
+        "count": {
+            "desa": 18
+        }
+    },
+    {
+        "code": "331819",
+        "name": "Tayu",
+        "count": {
+            "desa": 21
+        }
+    },
+    {
+        "code": "331814",
+        "name": "Tlogowungu",
+        "count": {
+            "desa": 15
+        }
+    },
+    {
+        "code": "331821",
+        "name": "Trangkil",
+        "count": {
+            "desa": 16
+        }
+    },
+    {
+        "code": "331815",
+        "name": "Wedarijaksa",
+        "count": {
+            "desa": 18
+        }
+    },
+    {
+        "code": "331804",
+        "name": "Winong",
+        "count": {
+            "desa": 30
+        }
+    }
+]

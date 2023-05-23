@@ -1,0 +1,17 @@
+{
+    "code": "3278011004",
+    "name": "Argasari",
+    "poscode": "46122",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3278",
+        "name": "Tasikmalaya"
+    },
+    "kecamatan": {
+        "code": "327801",
+        "name": "Cihideung"
+    }
+}

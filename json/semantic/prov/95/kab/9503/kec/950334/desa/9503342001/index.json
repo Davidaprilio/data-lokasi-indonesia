@@ -1,0 +1,17 @@
+{
+    "code": "9503342001",
+    "name": "Kona (Konda)",
+    "poscode": "99721",
+    "provinsi": {
+        "code": "95",
+        "name": "Papua Pegunungan"
+    },
+    "kabupaten": {
+        "code": "9503",
+        "name": "Yahukimo"
+    },
+    "kecamatan": {
+        "code": "950334",
+        "name": "Kona"
+    }
+}

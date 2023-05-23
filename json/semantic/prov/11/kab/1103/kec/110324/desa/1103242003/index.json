@@ -1,0 +1,17 @@
+{
+    "code": "1103242003",
+    "name": "Peunaron Lama",
+    "poscode": "24461",
+    "provinsi": {
+        "code": "11",
+        "name": "Aceh (NAD)"
+    },
+    "kabupaten": {
+        "code": "1103",
+        "name": "Aceh Timur"
+    },
+    "kecamatan": {
+        "code": "110324",
+        "name": "Peunaron"
+    }
+}

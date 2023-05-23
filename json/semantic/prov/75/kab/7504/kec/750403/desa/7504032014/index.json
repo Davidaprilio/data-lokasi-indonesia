@@ -1,0 +1,17 @@
+{
+    "code": "7504032014",
+    "name": "Patuhu",
+    "poscode": "96469",
+    "provinsi": {
+        "code": "75",
+        "name": "Gorontalo"
+    },
+    "kabupaten": {
+        "code": "7504",
+        "name": "Pahuwato"
+    },
+    "kecamatan": {
+        "code": "750403",
+        "name": "Randangan"
+    }
+}

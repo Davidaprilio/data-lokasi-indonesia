@@ -1,0 +1,17 @@
+{
+    "code": "3501041013",
+    "name": "Pacitan",
+    "poscode": "63512",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3501",
+        "name": "Pacitan"
+    },
+    "kecamatan": {
+        "code": "350104",
+        "name": "Pacitan"
+    }
+}

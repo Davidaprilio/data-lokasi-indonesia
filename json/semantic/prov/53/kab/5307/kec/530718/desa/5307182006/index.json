@@ -1,0 +1,17 @@
+{
+    "code": "5307182006",
+    "name": "Heopuat",
+    "poscode": "86181",
+    "provinsi": {
+        "code": "53",
+        "name": "Nusa Tenggara Timur (NTT)"
+    },
+    "kabupaten": {
+        "code": "5307",
+        "name": "Sikka"
+    },
+    "kecamatan": {
+        "code": "530718",
+        "name": "Hewokloang"
+    }
+}

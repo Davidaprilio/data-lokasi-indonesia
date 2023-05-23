@@ -1,0 +1,17 @@
+{
+    "code": "1503092011",
+    "name": "Bukit Bumi Raya (Bukitbumi Raya)",
+    "poscode": "37483",
+    "provinsi": {
+        "code": "15",
+        "name": "Jambi"
+    },
+    "kabupaten": {
+        "code": "1503",
+        "name": "Sarolangun"
+    },
+    "kecamatan": {
+        "code": "150309",
+        "name": "Singkut"
+    }
+}

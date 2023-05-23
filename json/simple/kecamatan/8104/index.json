@@ -1,0 +1,72 @@
+[
+    {
+        "code": "810402",
+        "name": "Air Buaya (Airbuaya)",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "810410",
+        "name": "Batabual",
+        "count": {
+            "desa": 5
+        }
+    },
+    {
+        "code": "810413",
+        "name": "Fena Leisela",
+        "count": {
+            "desa": 13
+        }
+    },
+    {
+        "code": "810415",
+        "name": "Lilialy",
+        "count": {
+            "desa": 5
+        }
+    },
+    {
+        "code": "810411",
+        "name": "Lolong Guba",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "810401",
+        "name": "Namlea",
+        "count": {
+            "desa": 7
+        }
+    },
+    {
+        "code": "810414",
+        "name": "Teluk Kaiely",
+        "count": {
+            "desa": 5
+        }
+    },
+    {
+        "code": "810403",
+        "name": "Waeapo",
+        "count": {
+            "desa": 7
+        }
+    },
+    {
+        "code": "810412",
+        "name": "Waelata",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "810406",
+        "name": "Waplau",
+        "count": {
+            "desa": 10
+        }
+    }
+]

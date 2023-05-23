@@ -1,0 +1,17 @@
+{
+    "code": "3523032001",
+    "name": "Klakeh",
+    "poscode": "62364",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3523",
+        "name": "Tuban"
+    },
+    "kecamatan": {
+        "code": "352303",
+        "name": "Bangilan"
+    }
+}

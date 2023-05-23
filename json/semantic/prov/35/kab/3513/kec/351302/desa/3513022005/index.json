@@ -1,0 +1,17 @@
+{
+    "code": "3513022005",
+    "name": "Gemito",
+    "poscode": "67263",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3513",
+        "name": "Probolinggo"
+    },
+    "kecamatan": {
+        "code": "351302",
+        "name": "Sumber"
+    }
+}

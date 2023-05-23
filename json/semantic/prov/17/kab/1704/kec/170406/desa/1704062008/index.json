@@ -1,0 +1,17 @@
+{
+    "code": "1704062008",
+    "name": "Tanjung Aur",
+    "poscode": "38965",
+    "provinsi": {
+        "code": "17",
+        "name": "Bengkulu"
+    },
+    "kabupaten": {
+        "code": "1704",
+        "name": "Kaur"
+    },
+    "kecamatan": {
+        "code": "170406",
+        "name": "Maje"
+    }
+}

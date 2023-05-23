@@ -1,0 +1,17 @@
+{
+    "code": "3671011007",
+    "name": "Sukasari",
+    "poscode": "15118",
+    "provinsi": {
+        "code": "36",
+        "name": "Banten"
+    },
+    "kabupaten": {
+        "code": "3671",
+        "name": "Tangerang"
+    },
+    "kecamatan": {
+        "code": "367101",
+        "name": "Tangerang"
+    }
+}

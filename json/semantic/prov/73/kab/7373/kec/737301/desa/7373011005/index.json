@@ -1,0 +1,17 @@
+{
+    "code": "7373011005",
+    "name": "Lagaligo",
+    "poscode": "91921",
+    "provinsi": {
+        "code": "73",
+        "name": "Sulawesi Selatan"
+    },
+    "kabupaten": {
+        "code": "7373",
+        "name": "Palopo"
+    },
+    "kecamatan": {
+        "code": "737301",
+        "name": "Wara"
+    }
+}

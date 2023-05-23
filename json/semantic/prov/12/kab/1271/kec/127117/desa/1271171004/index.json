@@ -1,0 +1,17 @@
+{
+    "code": "1271171004",
+    "name": "Darat",
+    "poscode": "20153",
+    "provinsi": {
+        "code": "12",
+        "name": "Sumatera Utara"
+    },
+    "kabupaten": {
+        "code": "1271",
+        "name": "Medan"
+    },
+    "kecamatan": {
+        "code": "127117",
+        "name": "Medan Baru"
+    }
+}

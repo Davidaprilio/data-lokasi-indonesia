@@ -1,0 +1,17 @@
+{
+    "code": "5204132008",
+    "name": "UPT. Perode SP I (Sp I Prode / Perode)",
+    "poscode": "84386",
+    "provinsi": {
+        "code": "52",
+        "name": "Nusa Tenggara Barat (NTB)"
+    },
+    "kabupaten": {
+        "code": "5204",
+        "name": "Sumbawa"
+    },
+    "kecamatan": {
+        "code": "520413",
+        "name": "Plampang"
+    }
+}

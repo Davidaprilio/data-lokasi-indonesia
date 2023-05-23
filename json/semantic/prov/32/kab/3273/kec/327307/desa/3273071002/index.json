@@ -1,0 +1,17 @@
+{
+    "code": "3273071002",
+    "name": "Cipedes",
+    "poscode": "40162",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3273",
+        "name": "Bandung"
+    },
+    "kecamatan": {
+        "code": "327307",
+        "name": "Sukajadi"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "1872011005",
+    "name": "Yosomulyo",
+    "poscode": "34111",
+    "provinsi": {
+        "code": "18",
+        "name": "Lampung"
+    },
+    "kabupaten": {
+        "code": "1872",
+        "name": "Metro"
+    },
+    "kecamatan": {
+        "code": "187201",
+        "name": "Metro Pusat"
+    }
+}

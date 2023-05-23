@@ -1,0 +1,17 @@
+{
+    "code": "6301012011",
+    "name": "Telaga Langsat",
+    "poscode": "70861",
+    "provinsi": {
+        "code": "63",
+        "name": "Kalimantan Selatan"
+    },
+    "kabupaten": {
+        "code": "6301",
+        "name": "Tanah Laut"
+    },
+    "kecamatan": {
+        "code": "630101",
+        "name": "Takisung"
+    }
+}

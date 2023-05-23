@@ -1,0 +1,17 @@
+{
+    "code": "9508162007",
+    "name": "Sitdobo",
+    "poscode": "99942",
+    "provinsi": {
+        "code": "95",
+        "name": "Papua Pegunungan"
+    },
+    "kabupaten": {
+        "code": "9508",
+        "name": "Nduga"
+    },
+    "kecamatan": {
+        "code": "950816",
+        "name": "Yal"
+    }
+}

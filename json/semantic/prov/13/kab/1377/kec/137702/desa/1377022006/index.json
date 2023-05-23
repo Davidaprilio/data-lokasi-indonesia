@@ -1,0 +1,17 @@
+{
+    "code": "1377022006",
+    "name": "Apar",
+    "poscode": "25522",
+    "provinsi": {
+        "code": "13",
+        "name": "Sumatera Barat"
+    },
+    "kabupaten": {
+        "code": "1377",
+        "name": "Pariaman"
+    },
+    "kecamatan": {
+        "code": "137702",
+        "name": "Pariaman Utara"
+    }
+}

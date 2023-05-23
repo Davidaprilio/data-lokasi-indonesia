@@ -1,0 +1,17 @@
+{
+    "code": "1271071008",
+    "name": "Simalingkar B",
+    "poscode": "20135",
+    "provinsi": {
+        "code": "12",
+        "name": "Sumatera Utara"
+    },
+    "kabupaten": {
+        "code": "1271",
+        "name": "Medan"
+    },
+    "kecamatan": {
+        "code": "127107",
+        "name": "Medan Tuntungan"
+    }
+}

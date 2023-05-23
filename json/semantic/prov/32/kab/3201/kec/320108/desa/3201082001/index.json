@@ -1,0 +1,17 @@
+{
+    "code": "3201082001",
+    "name": "Karyamekar (Karya Mekar)",
+    "poscode": "16840",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3201",
+        "name": "Bogor"
+    },
+    "kecamatan": {
+        "code": "320108",
+        "name": "Cariu"
+    }
+}

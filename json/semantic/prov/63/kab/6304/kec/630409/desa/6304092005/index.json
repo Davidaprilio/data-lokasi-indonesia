@@ -1,0 +1,17 @@
+{
+    "code": "6304092005",
+    "name": "Bantuil",
+    "poscode": "70571",
+    "provinsi": {
+        "code": "63",
+        "name": "Kalimantan Selatan"
+    },
+    "kabupaten": {
+        "code": "6304",
+        "name": "Barito Kuala"
+    },
+    "kecamatan": {
+        "code": "630409",
+        "name": "Cerbon"
+    }
+}

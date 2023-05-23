@@ -1,0 +1,17 @@
+{
+    "code": "3326162005",
+    "name": "Wiradesa",
+    "poscode": "51152",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3326",
+        "name": "Pekalongan"
+    },
+    "kecamatan": {
+        "code": "332616",
+        "name": "Wiradesa"
+    }
+}

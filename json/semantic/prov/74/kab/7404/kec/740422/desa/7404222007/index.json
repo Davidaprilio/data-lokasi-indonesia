@@ -1,0 +1,17 @@
+{
+    "code": "7404222007",
+    "name": "Todanga",
+    "poscode": "93755",
+    "provinsi": {
+        "code": "74",
+        "name": "Sulawesi Tenggara"
+    },
+    "kabupaten": {
+        "code": "7404",
+        "name": "Buton"
+    },
+    "kecamatan": {
+        "code": "740422",
+        "name": "Kapontori"
+    }
+}

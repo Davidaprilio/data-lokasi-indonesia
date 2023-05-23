@@ -1,0 +1,17 @@
+{
+    "code": "6202051008",
+    "name": "Baamang Barat",
+    "poscode": "74312",
+    "provinsi": {
+        "code": "62",
+        "name": "Kalimantan Tengah"
+    },
+    "kabupaten": {
+        "code": "6202",
+        "name": "Kotawaringin Timur"
+    },
+    "kecamatan": {
+        "code": "620205",
+        "name": "Baamang"
+    }
+}

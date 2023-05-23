@@ -1,0 +1,17 @@
+{
+    "code": "7407071011",
+    "name": "Rukuwa",
+    "poscode": "93797",
+    "provinsi": {
+        "code": "74",
+        "name": "Sulawesi Tenggara"
+    },
+    "kabupaten": {
+        "code": "7407",
+        "name": "Wakatobi"
+    },
+    "kecamatan": {
+        "code": "740707",
+        "name": "Tomia Timur"
+    }
+}

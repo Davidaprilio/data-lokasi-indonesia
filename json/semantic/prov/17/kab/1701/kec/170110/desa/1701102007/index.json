@@ -1,0 +1,17 @@
+{
+    "code": "1701102007",
+    "name": "Tanjung Tebat",
+    "poscode": "38511",
+    "provinsi": {
+        "code": "17",
+        "name": "Bengkulu"
+    },
+    "kabupaten": {
+        "code": "1701",
+        "name": "Bengkulu Selatan"
+    },
+    "kecamatan": {
+        "code": "170110",
+        "name": "Bunga Mas"
+    }
+}

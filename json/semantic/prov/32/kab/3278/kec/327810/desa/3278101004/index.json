@@ -1,0 +1,17 @@
+{
+    "code": "3278101004",
+    "name": "Sukaasih",
+    "poscode": "46190",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3278",
+        "name": "Tasikmalaya"
+    },
+    "kecamatan": {
+        "code": "327810",
+        "name": "Purbaratu"
+    }
+}

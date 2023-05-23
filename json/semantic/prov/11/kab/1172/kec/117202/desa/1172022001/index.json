@@ -1,0 +1,17 @@
+{
+    "code": "1172022001",
+    "name": "Paya",
+    "poscode": "23529",
+    "provinsi": {
+        "code": "11",
+        "name": "Aceh (NAD)"
+    },
+    "kabupaten": {
+        "code": "1172",
+        "name": "Sabang"
+    },
+    "kecamatan": {
+        "code": "117202",
+        "name": "Sukajaya"
+    }
+}

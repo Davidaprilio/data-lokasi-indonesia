@@ -1,0 +1,10 @@
+{
+    "code": "3577",
+    "type": "Kota",
+    "name": "Madiun",
+    "fullname": "Kota Madiun",
+    "jumlah": {
+        "kecamatan": 3,
+        "desa": 27
+    }
+}

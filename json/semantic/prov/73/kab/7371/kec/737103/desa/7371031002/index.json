@@ -1,0 +1,17 @@
+{
+    "code": "7371031002",
+    "name": "Bara-Baraya",
+    "poscode": "90143",
+    "provinsi": {
+        "code": "73",
+        "name": "Sulawesi Selatan"
+    },
+    "kabupaten": {
+        "code": "7371",
+        "name": "Makassar"
+    },
+    "kecamatan": {
+        "code": "737103",
+        "name": "Makassar"
+    }
+}

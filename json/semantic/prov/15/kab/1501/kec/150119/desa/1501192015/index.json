@@ -1,0 +1,17 @@
+{
+    "code": "1501192015",
+    "name": "Sungaiasam (Sungai Asam)",
+    "poscode": "37165",
+    "provinsi": {
+        "code": "15",
+        "name": "Jambi"
+    },
+    "kabupaten": {
+        "code": "1501",
+        "name": "Kerinci"
+    },
+    "kecamatan": {
+        "code": "150119",
+        "name": "Kayu Aro Barat"
+    }
+}

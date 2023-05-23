@@ -1,0 +1,10 @@
+{
+    "code": "3212",
+    "type": "Kabupaten",
+    "name": "Indramayu",
+    "fullname": "Kabupaten Indramayu",
+    "jumlah": {
+        "kecamatan": 31,
+        "desa": 317
+    }
+}

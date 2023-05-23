@@ -1,0 +1,17 @@
+{
+    "code": "1806152006",
+    "name": "Ngarip",
+    "poscode": "35387",
+    "provinsi": {
+        "code": "18",
+        "name": "Lampung"
+    },
+    "kabupaten": {
+        "code": "1806",
+        "name": "Tanggamus"
+    },
+    "kecamatan": {
+        "code": "180615",
+        "name": "Ulu Belu (Ulubelu)"
+    }
+}

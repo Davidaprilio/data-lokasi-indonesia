@@ -1,0 +1,17 @@
+{
+    "code": "1208312010",
+    "name": "Bandar Saribu",
+    "poscode": "21167",
+    "provinsi": {
+        "code": "12",
+        "name": "Sumatera Utara"
+    },
+    "kabupaten": {
+        "code": "1208",
+        "name": "Simalungun"
+    },
+    "kecamatan": {
+        "code": "120831",
+        "name": "Pematang / Pamatang Silima Huta"
+    }
+}

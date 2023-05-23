@@ -1,0 +1,17 @@
+{
+    "code": "3211132011",
+    "name": "Citali",
+    "poscode": "45365",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3211",
+        "name": "Sumedang"
+    },
+    "kecamatan": {
+        "code": "321113",
+        "name": "Pamulihan"
+    }
+}

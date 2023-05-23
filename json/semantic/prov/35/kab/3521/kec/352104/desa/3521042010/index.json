@@ -1,0 +1,17 @@
+{
+    "code": "3521042010",
+    "name": "Patalan",
+    "poscode": "63261",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3521",
+        "name": "Ngawi"
+    },
+    "kecamatan": {
+        "code": "352104",
+        "name": "Kendal"
+    }
+}

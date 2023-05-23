@@ -1,0 +1,17 @@
+{
+    "code": "3522242008",
+    "name": "Pacing",
+    "poscode": "62185",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3522",
+        "name": "Bojonegoro"
+    },
+    "kecamatan": {
+        "code": "352224",
+        "name": "Sukosewu"
+    }
+}

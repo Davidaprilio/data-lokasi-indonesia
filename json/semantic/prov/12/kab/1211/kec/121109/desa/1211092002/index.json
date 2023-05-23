@@ -1,0 +1,17 @@
+{
+    "code": "1211092002",
+    "name": "Bandar Huta Usang",
+    "poscode": "22283",
+    "provinsi": {
+        "code": "12",
+        "name": "Sumatera Utara"
+    },
+    "kabupaten": {
+        "code": "1211",
+        "name": "Dairi"
+    },
+    "kecamatan": {
+        "code": "121109",
+        "name": "Pegagan Hilir"
+    }
+}

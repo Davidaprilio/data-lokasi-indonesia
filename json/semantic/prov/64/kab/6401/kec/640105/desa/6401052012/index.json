@@ -1,0 +1,17 @@
+{
+    "code": "6401052012",
+    "name": "Klempang Sari",
+    "poscode": "76281",
+    "provinsi": {
+        "code": "64",
+        "name": "Kalimantan Timur"
+    },
+    "kabupaten": {
+        "code": "6401",
+        "name": "Paser"
+    },
+    "kecamatan": {
+        "code": "640105",
+        "name": "Kuaro"
+    }
+}

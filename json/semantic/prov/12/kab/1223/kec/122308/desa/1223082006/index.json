@@ -1,0 +1,17 @@
+{
+    "code": "1223082006",
+    "name": "Damuli Kebun (Perkebunan Damuli)",
+    "poscode": "21458",
+    "provinsi": {
+        "code": "12",
+        "name": "Sumatera Utara"
+    },
+    "kabupaten": {
+        "code": "1223",
+        "name": "Labuhanbatu Utara"
+    },
+    "kecamatan": {
+        "code": "122308",
+        "name": "Kualuh Selatan"
+    }
+}

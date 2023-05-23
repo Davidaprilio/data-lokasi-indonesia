@@ -1,0 +1,17 @@
+{
+    "code": "3509122002",
+    "name": "Sabrang",
+    "poscode": "68172",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3509",
+        "name": "Jember"
+    },
+    "kecamatan": {
+        "code": "350912",
+        "name": "Ambulu"
+    }
+}

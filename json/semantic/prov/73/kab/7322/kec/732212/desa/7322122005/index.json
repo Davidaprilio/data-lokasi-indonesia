@@ -1,0 +1,17 @@
+{
+    "code": "7322122005",
+    "name": "Patila",
+    "poscode": "92967",
+    "provinsi": {
+        "code": "73",
+        "name": "Sulawesi Selatan"
+    },
+    "kabupaten": {
+        "code": "7322",
+        "name": "Luwu Utara"
+    },
+    "kecamatan": {
+        "code": "732212",
+        "name": "Tana Lili"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "6409032007",
+    "name": "Rawa Mulia",
+    "poscode": "76285",
+    "provinsi": {
+        "code": "64",
+        "name": "Kalimantan Timur"
+    },
+    "kabupaten": {
+        "code": "6409",
+        "name": "Penajam Paser Utara"
+    },
+    "kecamatan": {
+        "code": "640903",
+        "name": "Babulu"
+    }
+}

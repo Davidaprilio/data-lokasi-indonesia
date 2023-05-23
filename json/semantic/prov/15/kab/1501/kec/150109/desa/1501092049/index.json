@@ -1,0 +1,17 @@
+{
+    "code": "1501092049",
+    "name": "Bendung Air Timur",
+    "poscode": "37164",
+    "provinsi": {
+        "code": "15",
+        "name": "Jambi"
+    },
+    "kabupaten": {
+        "code": "1501",
+        "name": "Kerinci"
+    },
+    "kecamatan": {
+        "code": "150109",
+        "name": "Kayu Aro"
+    }
+}

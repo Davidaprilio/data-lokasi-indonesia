@@ -1,0 +1,17 @@
+{
+    "code": "1108062007",
+    "name": "Kuala Dua (Dewa)",
+    "poscode": "24355",
+    "provinsi": {
+        "code": "11",
+        "name": "Aceh (NAD)"
+    },
+    "kabupaten": {
+        "code": "1108",
+        "name": "Aceh Utara"
+    },
+    "kecamatan": {
+        "code": "110806",
+        "name": "Muara Batu"
+    }
+}

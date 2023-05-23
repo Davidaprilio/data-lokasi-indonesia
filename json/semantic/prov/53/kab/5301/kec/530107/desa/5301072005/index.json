@@ -1,0 +1,17 @@
+{
+    "code": "5301072005",
+    "name": "Bipolo",
+    "poscode": "85368",
+    "provinsi": {
+        "code": "53",
+        "name": "Nusa Tenggara Timur (NTT)"
+    },
+    "kabupaten": {
+        "code": "5301",
+        "name": "Kupang"
+    },
+    "kecamatan": {
+        "code": "530107",
+        "name": "Sulamu"
+    }
+}

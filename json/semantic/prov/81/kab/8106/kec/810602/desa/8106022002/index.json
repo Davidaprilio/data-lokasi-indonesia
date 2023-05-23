@@ -1,0 +1,17 @@
+{
+    "code": "8106022002",
+    "name": "Kawa",
+    "poscode": "97562",
+    "provinsi": {
+        "code": "81",
+        "name": "Maluku"
+    },
+    "kabupaten": {
+        "code": "8106",
+        "name": "Seram Bagian Barat"
+    },
+    "kecamatan": {
+        "code": "810602",
+        "name": "Seram Barat"
+    }
+}

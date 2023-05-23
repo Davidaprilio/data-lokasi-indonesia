@@ -1,0 +1,17 @@
+{
+    "code": "6408062004",
+    "name": "Mekar Baru",
+    "poscode": "75556",
+    "provinsi": {
+        "code": "64",
+        "name": "Kalimantan Timur"
+    },
+    "kabupaten": {
+        "code": "6408",
+        "name": "Kutai Timur"
+    },
+    "kecamatan": {
+        "code": "640806",
+        "name": "Busang"
+    }
+}

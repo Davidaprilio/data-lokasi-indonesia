@@ -1,0 +1,17 @@
+{
+    "code": "1704032030",
+    "name": "Perugaian (Perugian)",
+    "poscode": "38956",
+    "provinsi": {
+        "code": "17",
+        "name": "Bengkulu"
+    },
+    "kabupaten": {
+        "code": "1704",
+        "name": "Kaur"
+    },
+    "kecamatan": {
+        "code": "170403",
+        "name": "Kaur Utara"
+    }
+}

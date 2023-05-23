@@ -1,0 +1,17 @@
+{
+    "code": "1101142005",
+    "name": "Lawe Sawah",
+    "poscode": "23779",
+    "provinsi": {
+        "code": "11",
+        "name": "Aceh (NAD)"
+    },
+    "kabupaten": {
+        "code": "1101",
+        "name": "Aceh Selatan"
+    },
+    "kecamatan": {
+        "code": "110114",
+        "name": "Kluet Timur"
+    }
+}

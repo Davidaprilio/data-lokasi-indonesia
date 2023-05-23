@@ -1,0 +1,17 @@
+{
+    "code": "3517082010",
+    "name": "Pundong",
+    "poscode": "61471",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3517",
+        "name": "Jombang"
+    },
+    "kecamatan": {
+        "code": "351708",
+        "name": "Diwek"
+    }
+}

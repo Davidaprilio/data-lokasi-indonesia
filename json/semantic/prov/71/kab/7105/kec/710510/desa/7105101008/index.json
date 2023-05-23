@@ -1,0 +1,17 @@
+{
+    "code": "7105101008",
+    "name": "Lewet",
+    "poscode": "95957",
+    "provinsi": {
+        "code": "71",
+        "name": "Sulawesi Utara"
+    },
+    "kabupaten": {
+        "code": "7105",
+        "name": "Minahasa Selatan"
+    },
+    "kecamatan": {
+        "code": "710510",
+        "name": "Amurang"
+    }
+}

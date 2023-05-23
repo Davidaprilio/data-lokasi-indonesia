@@ -1,0 +1,17 @@
+{
+    "code": "1172012006",
+    "name": "Kuta Timu (Kota Bawah Timur)",
+    "poscode": "23513",
+    "provinsi": {
+        "code": "11",
+        "name": "Aceh (NAD)"
+    },
+    "kabupaten": {
+        "code": "1172",
+        "name": "Sabang"
+    },
+    "kecamatan": {
+        "code": "117201",
+        "name": "Sukakarya"
+    }
+}

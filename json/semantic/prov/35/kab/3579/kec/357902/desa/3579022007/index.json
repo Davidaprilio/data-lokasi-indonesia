@@ -1,0 +1,17 @@
+{
+    "code": "3579022007",
+    "name": "Giripurno",
+    "poscode": "65333",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3579",
+        "name": "Batu"
+    },
+    "kecamatan": {
+        "code": "357902",
+        "name": "Bumiaji"
+    }
+}

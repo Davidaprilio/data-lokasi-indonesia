@@ -1,0 +1,17 @@
+{
+    "code": "2171111004",
+    "name": "Sagulung Kota",
+    "poscode": "29439",
+    "provinsi": {
+        "code": "21",
+        "name": "Kepulauan Riau"
+    },
+    "kabupaten": {
+        "code": "2171",
+        "name": "Batam"
+    },
+    "kecamatan": {
+        "code": "217111",
+        "name": "Sagulung"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "1213192008",
+    "name": "Mondan",
+    "poscode": "22978",
+    "provinsi": {
+        "code": "12",
+        "name": "Sumatera Utara"
+    },
+    "kabupaten": {
+        "code": "1213",
+        "name": "Mandailing Natal"
+    },
+    "kecamatan": {
+        "code": "121319",
+        "name": "Huta Bargot"
+    }
+}

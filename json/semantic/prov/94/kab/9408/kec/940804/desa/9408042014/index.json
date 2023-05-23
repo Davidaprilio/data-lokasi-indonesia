@@ -1,0 +1,17 @@
+{
+    "code": "9408042014",
+    "name": "Obai",
+    "poscode": "98761",
+    "provinsi": {
+        "code": "94",
+        "name": "Papua Tengah"
+    },
+    "kabupaten": {
+        "code": "9408",
+        "name": "Deiyai"
+    },
+    "kecamatan": {
+        "code": "940804",
+        "name": "Tigi Barat"
+    }
+}

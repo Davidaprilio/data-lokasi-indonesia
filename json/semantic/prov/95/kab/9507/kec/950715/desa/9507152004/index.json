@@ -1,0 +1,17 @@
+{
+    "code": "9507152004",
+    "name": "Mabume",
+    "poscode": "99599",
+    "provinsi": {
+        "code": "95",
+        "name": "Papua Pegunungan"
+    },
+    "kabupaten": {
+        "code": "9507",
+        "name": "Lanny Jaya"
+    },
+    "kecamatan": {
+        "code": "950715",
+        "name": "Yugungwi"
+    }
+}

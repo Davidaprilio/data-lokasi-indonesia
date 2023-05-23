@@ -1,0 +1,17 @@
+{
+    "code": "9403342003",
+    "name": "Momageida",
+    "poscode": "98734",
+    "provinsi": {
+        "code": "94",
+        "name": "Papua Tengah"
+    },
+    "kabupaten": {
+        "code": "9403",
+        "name": "Paniai"
+    },
+    "kecamatan": {
+        "code": "940334",
+        "name": "Topiyai"
+    }
+}

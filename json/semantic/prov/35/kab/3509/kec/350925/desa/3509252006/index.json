@@ -1,0 +1,17 @@
+{
+    "code": "3509252006",
+    "name": "Sugerkidul (Suger Kidul)",
+    "poscode": "68192",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3509",
+        "name": "Jember"
+    },
+    "kecamatan": {
+        "code": "350925",
+        "name": "Jelbuk"
+    }
+}

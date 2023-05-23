@@ -1,0 +1,17 @@
+{
+    "code": "1803162006",
+    "name": "Haduyang Ratu",
+    "poscode": "34555",
+    "provinsi": {
+        "code": "18",
+        "name": "Lampung"
+    },
+    "kabupaten": {
+        "code": "1803",
+        "name": "Lampung Utara"
+    },
+    "kecamatan": {
+        "code": "180316",
+        "name": "Bunga Mayang"
+    }
+}

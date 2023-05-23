@@ -1,0 +1,17 @@
+{
+    "code": "1704122010",
+    "name": "Kasuk Baru",
+    "poscode": "38968",
+    "provinsi": {
+        "code": "17",
+        "name": "Bengkulu"
+    },
+    "kabupaten": {
+        "code": "1704",
+        "name": "Kaur"
+    },
+    "kecamatan": {
+        "code": "170412",
+        "name": "Tetap (Muara Tetap)"
+    }
+}

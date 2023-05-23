@@ -1,0 +1,17 @@
+{
+    "code": "9508292003",
+    "name": "Wuone",
+    "poscode": "99917",
+    "provinsi": {
+        "code": "95",
+        "name": "Papua Pegunungan"
+    },
+    "kabupaten": {
+        "code": "9508",
+        "name": "Nduga"
+    },
+    "kecamatan": {
+        "code": "950829",
+        "name": "Wutpaga"
+    }
+}

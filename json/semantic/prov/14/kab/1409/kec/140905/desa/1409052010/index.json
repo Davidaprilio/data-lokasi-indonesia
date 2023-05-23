@@ -1,0 +1,17 @@
+{
+    "code": "1409052010",
+    "name": "Pesikaian/Pasikaian",
+    "poscode": "29555",
+    "provinsi": {
+        "code": "14",
+        "name": "Riau"
+    },
+    "kabupaten": {
+        "code": "1409",
+        "name": "Kuantan Singingi"
+    },
+    "kecamatan": {
+        "code": "140905",
+        "name": "Cerenti"
+    }
+}

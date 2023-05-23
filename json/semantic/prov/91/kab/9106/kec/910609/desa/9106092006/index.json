@@ -1,0 +1,17 @@
+{
+    "code": "9106092006",
+    "name": "Aman",
+    "poscode": "98553",
+    "provinsi": {
+        "code": "91",
+        "name": "Papua"
+    },
+    "kabupaten": {
+        "code": "9106",
+        "name": "Biak Numfor"
+    },
+    "kecamatan": {
+        "code": "910609",
+        "name": "Warsa"
+    }
+}

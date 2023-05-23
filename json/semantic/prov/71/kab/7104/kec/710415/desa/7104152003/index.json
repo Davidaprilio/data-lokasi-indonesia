@@ -1,0 +1,17 @@
+{
+    "code": "7104152003",
+    "name": "Pulutan Selatan",
+    "poscode": "95878",
+    "provinsi": {
+        "code": "71",
+        "name": "Sulawesi Utara"
+    },
+    "kabupaten": {
+        "code": "7104",
+        "name": "Kepulauan Talaud"
+    },
+    "kecamatan": {
+        "code": "710415",
+        "name": "Pulutan"
+    }
+}

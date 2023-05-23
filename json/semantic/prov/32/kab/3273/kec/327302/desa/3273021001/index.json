@@ -1,0 +1,17 @@
+{
+    "code": "3273021001",
+    "name": "Cipaganti",
+    "poscode": "40131",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3273",
+        "name": "Bandung"
+    },
+    "kecamatan": {
+        "code": "327302",
+        "name": "Coblong"
+    }
+}

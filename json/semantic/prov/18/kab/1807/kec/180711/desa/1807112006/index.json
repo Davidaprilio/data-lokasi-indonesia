@@ -1,0 +1,17 @@
+{
+    "code": "1807112006",
+    "name": "Sukaraja Tiga",
+    "poscode": "34386",
+    "provinsi": {
+        "code": "18",
+        "name": "Lampung"
+    },
+    "kabupaten": {
+        "code": "1807",
+        "name": "Lampung Timur"
+    },
+    "kecamatan": {
+        "code": "180711",
+        "name": "Marga Tiga (Margatiga)"
+    }
+}

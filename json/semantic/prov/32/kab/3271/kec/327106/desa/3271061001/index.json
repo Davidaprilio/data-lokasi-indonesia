@@ -1,0 +1,17 @@
+{
+    "code": "3271061001",
+    "name": "Tanah Sareal",
+    "poscode": "16161",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3271",
+        "name": "Bogor"
+    },
+    "kecamatan": {
+        "code": "327106",
+        "name": "Tanah Sareal (Tanah Sereal)"
+    }
+}

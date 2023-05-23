@@ -1,0 +1,17 @@
+{
+    "code": "9502342004",
+    "name": "Yarigon",
+    "poscode": "99445",
+    "provinsi": {
+        "code": "95",
+        "name": "Papua Pegunungan"
+    },
+    "kabupaten": {
+        "code": "9502",
+        "name": "Pegunungan Bintang"
+    },
+    "kecamatan": {
+        "code": "950234",
+        "name": "Nongme"
+    }
+}

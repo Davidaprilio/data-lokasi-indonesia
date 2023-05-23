@@ -1,0 +1,17 @@
+{
+    "code": "7471081003",
+    "name": "Pondambea",
+    "poscode": "93117",
+    "provinsi": {
+        "code": "74",
+        "name": "Sulawesi Tenggara"
+    },
+    "kabupaten": {
+        "code": "7471",
+        "name": "Kendari"
+    },
+    "kecamatan": {
+        "code": "747108",
+        "name": "Kadia"
+    }
+}

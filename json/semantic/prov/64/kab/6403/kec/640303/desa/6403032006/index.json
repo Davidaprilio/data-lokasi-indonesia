@@ -1,0 +1,17 @@
+{
+    "code": "6403032006",
+    "name": "Rantau Panjang",
+    "poscode": "77371",
+    "provinsi": {
+        "code": "64",
+        "name": "Kalimantan Timur"
+    },
+    "kabupaten": {
+        "code": "6403",
+        "name": "Berau"
+    },
+    "kecamatan": {
+        "code": "640303",
+        "name": "Sambaliung"
+    }
+}

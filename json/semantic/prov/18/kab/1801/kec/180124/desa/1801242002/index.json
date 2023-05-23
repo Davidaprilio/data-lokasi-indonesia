@@ -1,0 +1,17 @@
+{
+    "code": "1801242002",
+    "name": "Sidomakmur (Sido Makmur)",
+    "poscode": "35354",
+    "provinsi": {
+        "code": "18",
+        "name": "Lampung"
+    },
+    "kabupaten": {
+        "code": "1801",
+        "name": "Lampung Selatan"
+    },
+    "kecamatan": {
+        "code": "180124",
+        "name": "Way Panji"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "5311052011",
+    "name": "Bangga Watu",
+    "poscode": "87160",
+    "provinsi": {
+        "code": "53",
+        "name": "Nusa Tenggara Timur (NTT)"
+    },
+    "kabupaten": {
+        "code": "5311",
+        "name": "Sumba Timur"
+    },
+    "kecamatan": {
+        "code": "531105",
+        "name": "Tabundung"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "3671021003",
+    "name": "Pasir Jaya",
+    "poscode": "15135",
+    "provinsi": {
+        "code": "36",
+        "name": "Banten"
+    },
+    "kabupaten": {
+        "code": "3671",
+        "name": "Tangerang"
+    },
+    "kecamatan": {
+        "code": "367102",
+        "name": "Jatiuwung"
+    }
+}

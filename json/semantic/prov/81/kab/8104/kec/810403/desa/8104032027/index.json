@@ -1,0 +1,17 @@
+{
+    "code": "8104032027",
+    "name": "Gogorea",
+    "poscode": "97578",
+    "provinsi": {
+        "code": "81",
+        "name": "Maluku"
+    },
+    "kabupaten": {
+        "code": "8104",
+        "name": "Buru"
+    },
+    "kecamatan": {
+        "code": "810403",
+        "name": "Waeapo"
+    }
+}

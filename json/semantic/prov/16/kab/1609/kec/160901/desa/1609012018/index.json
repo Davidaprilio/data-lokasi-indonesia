@@ -1,0 +1,17 @@
+{
+    "code": "1609012018",
+    "name": "Mehanggin",
+    "poscode": "32212",
+    "provinsi": {
+        "code": "16",
+        "name": "Sumatera Selatan"
+    },
+    "kabupaten": {
+        "code": "1609",
+        "name": "Ogan Komering Ulu Selatan"
+    },
+    "kecamatan": {
+        "code": "160901",
+        "name": "Muara Dua (Muaradua)"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "1610152009",
+    "name": "Betung I",
+    "poscode": "30868",
+    "provinsi": {
+        "code": "16",
+        "name": "Sumatera Selatan"
+    },
+    "kabupaten": {
+        "code": "1610",
+        "name": "Ogan Ilir"
+    },
+    "kecamatan": {
+        "code": "161015",
+        "name": "Lubuk Keliat"
+    }
+}

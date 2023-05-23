@@ -1,0 +1,17 @@
+{
+    "code": "3671131003",
+    "name": "Cipadu",
+    "poscode": "15155",
+    "provinsi": {
+        "code": "36",
+        "name": "Banten"
+    },
+    "kabupaten": {
+        "code": "3671",
+        "name": "Tangerang"
+    },
+    "kecamatan": {
+        "code": "367113",
+        "name": "Larangan"
+    }
+}

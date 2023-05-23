@@ -1,0 +1,10 @@
+{
+    "code": "21",
+    "name": "Kepulauan Riau",
+    "jumlah": {
+        "kota": 2,
+        "kabupaten": 5,
+        "kecamatan": 80,
+        "desa": 419
+    }
+}

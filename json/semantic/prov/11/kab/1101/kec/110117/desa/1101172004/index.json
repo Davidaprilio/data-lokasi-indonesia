@@ -1,0 +1,17 @@
+{
+    "code": "1101172004",
+    "name": "Seuneubok Alur Buloh (Seneubok Alur Bulah)",
+    "poscode": "23778",
+    "provinsi": {
+        "code": "11",
+        "name": "Aceh (NAD)"
+    },
+    "kabupaten": {
+        "code": "1101",
+        "name": "Aceh Selatan"
+    },
+    "kecamatan": {
+        "code": "110117",
+        "name": "Kota Bahagia"
+    }
+}

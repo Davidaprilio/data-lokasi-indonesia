@@ -1,0 +1,17 @@
+{
+    "code": "3213172001",
+    "name": "Sumurbarang",
+    "poscode": "41285",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3213",
+        "name": "Subang"
+    },
+    "kecamatan": {
+        "code": "321317",
+        "name": "Cibogo"
+    }
+}

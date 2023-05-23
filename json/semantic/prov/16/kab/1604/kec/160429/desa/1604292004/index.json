@@ -1,0 +1,17 @@
+{
+    "code": "1604292004",
+    "name": "Gunung Liwat",
+    "poscode": "31350",
+    "provinsi": {
+        "code": "16",
+        "name": "Sumatera Selatan"
+    },
+    "kabupaten": {
+        "code": "1604",
+        "name": "Lahat"
+    },
+    "kecamatan": {
+        "code": "160429",
+        "name": "Sukamerindu"
+    }
+}

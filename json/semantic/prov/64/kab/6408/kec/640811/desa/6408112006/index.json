@@ -1,0 +1,17 @@
+{
+    "code": "6408112006",
+    "name": "Susuk Dalam",
+    "poscode": "75685",
+    "provinsi": {
+        "code": "64",
+        "name": "Kalimantan Timur"
+    },
+    "kabupaten": {
+        "code": "6408",
+        "name": "Kutai Timur"
+    },
+    "kecamatan": {
+        "code": "640811",
+        "name": "Sandaran"
+    }
+}

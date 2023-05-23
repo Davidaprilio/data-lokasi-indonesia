@@ -1,0 +1,17 @@
+{
+    "code": "3515102008",
+    "name": "Sumberrejo (Sumberejo)",
+    "poscode": "61261",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3515",
+        "name": "Sidoarjo"
+    },
+    "kecamatan": {
+        "code": "351510",
+        "name": "Wonoayu"
+    }
+}

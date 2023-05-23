@@ -1,0 +1,17 @@
+{
+    "code": "1104182006",
+    "name": "Kepala Akal",
+    "poscode": "24563",
+    "provinsi": {
+        "code": "11",
+        "name": "Aceh (NAD)"
+    },
+    "kabupaten": {
+        "code": "1104",
+        "name": "Aceh Tengah"
+    },
+    "kecamatan": {
+        "code": "110418",
+        "name": "Atu Lintang"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "1610042014",
+    "name": "Ulak Banding",
+    "poscode": "30862",
+    "provinsi": {
+        "code": "16",
+        "name": "Sumatera Selatan"
+    },
+    "kabupaten": {
+        "code": "1610",
+        "name": "Ogan Ilir"
+    },
+    "kecamatan": {
+        "code": "161004",
+        "name": "Indralaya"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "3521102009",
+    "name": "Teguhan",
+    "poscode": "63253",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3521",
+        "name": "Ngawi"
+    },
+    "kecamatan": {
+        "code": "352110",
+        "name": "Paron"
+    }
+}

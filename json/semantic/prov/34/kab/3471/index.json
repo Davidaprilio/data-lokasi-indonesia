@@ -1,0 +1,10 @@
+{
+    "code": "3471",
+    "type": "Kota",
+    "name": "Yogyakarta",
+    "fullname": "Kota Yogyakarta",
+    "jumlah": {
+        "kecamatan": 14,
+        "desa": 45
+    }
+}

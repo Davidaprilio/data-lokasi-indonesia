@@ -1,0 +1,10 @@
+{
+    "code": "9303",
+    "type": "Kabupaten",
+    "name": "Mappi",
+    "fullname": "Kabupaten Mappi",
+    "jumlah": {
+        "kecamatan": 15,
+        "desa": 164
+    }
+}

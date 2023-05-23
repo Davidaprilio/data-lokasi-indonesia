@@ -1,0 +1,17 @@
+{
+    "code": "1706132002",
+    "name": "Manjunto Jaya",
+    "poscode": "38767",
+    "provinsi": {
+        "code": "17",
+        "name": "Bengkulu"
+    },
+    "kabupaten": {
+        "code": "1706",
+        "name": "Muko Muko"
+    },
+    "kecamatan": {
+        "code": "170613",
+        "name": "Air Majunto"
+    }
+}

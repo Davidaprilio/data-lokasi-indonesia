@@ -1,0 +1,17 @@
+{
+    "code": "7101142003",
+    "name": "Tapa Aog",
+    "poscode": "95737",
+    "provinsi": {
+        "code": "71",
+        "name": "Sulawesi Utara"
+    },
+    "kabupaten": {
+        "code": "7101",
+        "name": "Bolaang Mongondow"
+    },
+    "kecamatan": {
+        "code": "710114",
+        "name": "Lolayan"
+    }
+}

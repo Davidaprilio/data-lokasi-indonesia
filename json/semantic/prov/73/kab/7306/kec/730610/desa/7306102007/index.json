@@ -1,0 +1,17 @@
+{
+    "code": "7306102007",
+    "name": "Mamampang",
+    "poscode": "92170",
+    "provinsi": {
+        "code": "73",
+        "name": "Sulawesi Selatan"
+    },
+    "kabupaten": {
+        "code": "7306",
+        "name": "Gowa"
+    },
+    "kecamatan": {
+        "code": "730610",
+        "name": "Tombolopao (Tombolo Pao)"
+    }
+}

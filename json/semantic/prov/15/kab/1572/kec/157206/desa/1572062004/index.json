@@ -1,0 +1,17 @@
+{
+    "code": "1572062004",
+    "name": "Permanti",
+    "poscode": "37111",
+    "provinsi": {
+        "code": "15",
+        "name": "Jambi"
+    },
+    "kabupaten": {
+        "code": "1572",
+        "name": "Sungai Penuh"
+    },
+    "kecamatan": {
+        "code": "157206",
+        "name": "Pondok Tinggi"
+    }
+}

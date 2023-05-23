@@ -1,0 +1,77 @@
+[
+    {
+        "code": "1407021016",
+        "name": "Bagan Barat",
+        "poscode": "28912"
+    },
+    {
+        "code": "1407021015",
+        "name": "Bagan Hulu",
+        "poscode": "28912"
+    },
+    {
+        "code": "1407022013",
+        "name": "Bagan Jawa",
+        "poscode": "28913"
+    },
+    {
+        "code": "1407022021",
+        "name": "Bagan Jawa Pesisir",
+        "poscode": "28912"
+    },
+    {
+        "code": "1407021012",
+        "name": "Bagan Kota",
+        "poscode": "28911"
+    },
+    {
+        "code": "1407021011",
+        "name": "Bagan Punak",
+        "poscode": "28912"
+    },
+    {
+        "code": "1407022024",
+        "name": "Bagan Punak Meranti",
+        "poscode": "28912"
+    },
+    {
+        "code": "1407022025",
+        "name": "Bagan Punak Pesisir",
+        "poscode": "28912"
+    },
+    {
+        "code": "1407021017",
+        "name": "Bagan Timur",
+        "poscode": "28912"
+    },
+    {
+        "code": "1407022019",
+        "name": "Labuhan Tangga Baru",
+        "poscode": "28912"
+    },
+    {
+        "code": "1407022010",
+        "name": "Labuhan Tangga Besar",
+        "poscode": "28913"
+    },
+    {
+        "code": "1407022023",
+        "name": "Labuhan Tangga Hilir",
+        "poscode": "28912"
+    },
+    {
+        "code": "1407022009",
+        "name": "Labuhan Tangga Kecil",
+        "poscode": "28912"
+    },
+    {
+        "code": "1407022014",
+        "name": "Parit Aman",
+        "poscode": "28914"
+    },
+    {
+        "code": "1407022022",
+        "name": "Serusa",
+        "poscode": "28912"
+    }
+]

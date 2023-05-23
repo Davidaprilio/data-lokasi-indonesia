@@ -1,0 +1,17 @@
+{
+    "code": "3471131003",
+    "name": "Tahunan",
+    "poscode": "55167",
+    "provinsi": {
+        "code": "34",
+        "name": "DI Yogyakarta"
+    },
+    "kabupaten": {
+        "code": "3471",
+        "name": "Yogyakarta"
+    },
+    "kecamatan": {
+        "code": "347113",
+        "name": "Umbulharjo"
+    }
+}

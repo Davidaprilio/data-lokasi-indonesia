@@ -1,0 +1,17 @@
+{
+    "code": "8107032003",
+    "name": "Gardakau",
+    "poscode": "97661",
+    "provinsi": {
+        "code": "81",
+        "name": "Maluku"
+    },
+    "kabupaten": {
+        "code": "8107",
+        "name": "Kepulauan Aru"
+    },
+    "kecamatan": {
+        "code": "810703",
+        "name": "Aru Tengah"
+    }
+}

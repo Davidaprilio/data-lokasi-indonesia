@@ -1,0 +1,17 @@
+{
+    "code": "1103192010",
+    "name": "Seuneubok Aceh",
+    "poscode": "24466",
+    "provinsi": {
+        "code": "11",
+        "name": "Aceh (NAD)"
+    },
+    "kabupaten": {
+        "code": "1103",
+        "name": "Aceh Timur"
+    },
+    "kecamatan": {
+        "code": "110319",
+        "name": "Sungai Raya"
+    }
+}

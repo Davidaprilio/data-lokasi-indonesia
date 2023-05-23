@@ -1,0 +1,17 @@
+{
+    "code": "3508072007",
+    "name": "Krai",
+    "poscode": "67382",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3508",
+        "name": "Lumajang"
+    },
+    "kecamatan": {
+        "code": "350807",
+        "name": "Yosowilangun"
+    }
+}

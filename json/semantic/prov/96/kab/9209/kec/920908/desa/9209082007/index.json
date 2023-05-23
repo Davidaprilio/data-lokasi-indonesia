@@ -1,0 +1,17 @@
+{
+    "code": "9209082007",
+    "name": "Kwade",
+    "poscode": "98361",
+    "provinsi": {
+        "code": "96",
+        "name": "Papua Barat Daya"
+    },
+    "kabupaten": {
+        "code": "9209",
+        "name": "Tambrauw"
+    },
+    "kecamatan": {
+        "code": "920908",
+        "name": "Moraid"
+    }
+}

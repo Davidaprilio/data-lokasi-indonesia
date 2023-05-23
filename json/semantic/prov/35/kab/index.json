@@ -1,0 +1,382 @@
+[
+    {
+        "code": "3526",
+        "type": "Kabupaten",
+        "name": "Bangkalan",
+        "fullname": "Kabupaten Bangkalan",
+        "jumlah": {
+            "kecamatan": 18,
+            "desa": 281
+        }
+    },
+    {
+        "code": "3510",
+        "type": "Kabupaten",
+        "name": "Banyuwangi",
+        "fullname": "Kabupaten Banyuwangi",
+        "jumlah": {
+            "kecamatan": 25,
+            "desa": 217
+        }
+    },
+    {
+        "code": "3579",
+        "type": "Kota",
+        "name": "Batu",
+        "fullname": "Kota Batu",
+        "jumlah": {
+            "kecamatan": 3,
+            "desa": 24
+        }
+    },
+    {
+        "code": "3505",
+        "type": "Kabupaten",
+        "name": "Blitar",
+        "fullname": "Kabupaten Blitar",
+        "jumlah": {
+            "kecamatan": 22,
+            "desa": 248
+        }
+    },
+    {
+        "code": "3572",
+        "type": "Kota",
+        "name": "Blitar",
+        "fullname": "Kota Blitar",
+        "jumlah": {
+            "kecamatan": 3,
+            "desa": 21
+        }
+    },
+    {
+        "code": "3522",
+        "type": "Kabupaten",
+        "name": "Bojonegoro",
+        "fullname": "Kabupaten Bojonegoro",
+        "jumlah": {
+            "kecamatan": 28,
+            "desa": 430
+        }
+    },
+    {
+        "code": "3511",
+        "type": "Kabupaten",
+        "name": "Bondowoso",
+        "fullname": "Kabupaten Bondowoso",
+        "jumlah": {
+            "kecamatan": 23,
+            "desa": 219
+        }
+    },
+    {
+        "code": "3525",
+        "type": "Kabupaten",
+        "name": "Gresik",
+        "fullname": "Kabupaten Gresik",
+        "jumlah": {
+            "kecamatan": 18,
+            "desa": 356
+        }
+    },
+    {
+        "code": "3509",
+        "type": "Kabupaten",
+        "name": "Jember",
+        "fullname": "Kabupaten Jember",
+        "jumlah": {
+            "kecamatan": 31,
+            "desa": 248
+        }
+    },
+    {
+        "code": "3517",
+        "type": "Kabupaten",
+        "name": "Jombang",
+        "fullname": "Kabupaten Jombang",
+        "jumlah": {
+            "kecamatan": 21,
+            "desa": 306
+        }
+    },
+    {
+        "code": "3571",
+        "type": "Kota",
+        "name": "Kediri",
+        "fullname": "Kota Kediri",
+        "jumlah": {
+            "kecamatan": 3,
+            "desa": 46
+        }
+    },
+    {
+        "code": "3506",
+        "type": "Kabupaten",
+        "name": "Kediri",
+        "fullname": "Kabupaten Kediri",
+        "jumlah": {
+            "kecamatan": 26,
+            "desa": 344
+        }
+    },
+    {
+        "code": "3524",
+        "type": "Kabupaten",
+        "name": "Lamongan",
+        "fullname": "Kabupaten Lamongan",
+        "jumlah": {
+            "kecamatan": 27,
+            "desa": 474
+        }
+    },
+    {
+        "code": "3508",
+        "type": "Kabupaten",
+        "name": "Lumajang",
+        "fullname": "Kabupaten Lumajang",
+        "jumlah": {
+            "kecamatan": 21,
+            "desa": 205
+        }
+    },
+    {
+        "code": "3519",
+        "type": "Kabupaten",
+        "name": "Madiun",
+        "fullname": "Kabupaten Madiun",
+        "jumlah": {
+            "kecamatan": 15,
+            "desa": 206
+        }
+    },
+    {
+        "code": "3577",
+        "type": "Kota",
+        "name": "Madiun",
+        "fullname": "Kota Madiun",
+        "jumlah": {
+            "kecamatan": 3,
+            "desa": 27
+        }
+    },
+    {
+        "code": "3520",
+        "type": "Kabupaten",
+        "name": "Magetan",
+        "fullname": "Kabupaten Magetan",
+        "jumlah": {
+            "kecamatan": 18,
+            "desa": 235
+        }
+    },
+    {
+        "code": "3507",
+        "type": "Kabupaten",
+        "name": "Malang",
+        "fullname": "Kabupaten Malang",
+        "jumlah": {
+            "kecamatan": 33,
+            "desa": 390
+        }
+    },
+    {
+        "code": "3573",
+        "type": "Kota",
+        "name": "Malang",
+        "fullname": "Kota Malang",
+        "jumlah": {
+            "kecamatan": 5,
+            "desa": 57
+        }
+    },
+    {
+        "code": "3516",
+        "type": "Kabupaten",
+        "name": "Mojokerto",
+        "fullname": "Kabupaten Mojokerto",
+        "jumlah": {
+            "kecamatan": 18,
+            "desa": 304
+        }
+    },
+    {
+        "code": "3576",
+        "type": "Kota",
+        "name": "Mojokerto",
+        "fullname": "Kota Mojokerto",
+        "jumlah": {
+            "kecamatan": 3,
+            "desa": 18
+        }
+    },
+    {
+        "code": "3518",
+        "type": "Kabupaten",
+        "name": "Nganjuk",
+        "fullname": "Kabupaten Nganjuk",
+        "jumlah": {
+            "kecamatan": 20,
+            "desa": 284
+        }
+    },
+    {
+        "code": "3521",
+        "type": "Kabupaten",
+        "name": "Ngawi",
+        "fullname": "Kabupaten Ngawi",
+        "jumlah": {
+            "kecamatan": 19,
+            "desa": 217
+        }
+    },
+    {
+        "code": "3501",
+        "type": "Kabupaten",
+        "name": "Pacitan",
+        "fullname": "Kabupaten Pacitan",
+        "jumlah": {
+            "kecamatan": 12,
+            "desa": 171
+        }
+    },
+    {
+        "code": "3528",
+        "type": "Kabupaten",
+        "name": "Pamekasan",
+        "fullname": "Kabupaten Pamekasan",
+        "jumlah": {
+            "kecamatan": 13,
+            "desa": 189
+        }
+    },
+    {
+        "code": "3514",
+        "type": "Kabupaten",
+        "name": "Pasuruan",
+        "fullname": "Kabupaten Pasuruan",
+        "jumlah": {
+            "kecamatan": 24,
+            "desa": 365
+        }
+    },
+    {
+        "code": "3575",
+        "type": "Kota",
+        "name": "Pasuruan",
+        "fullname": "Kota Pasuruan",
+        "jumlah": {
+            "kecamatan": 4,
+            "desa": 34
+        }
+    },
+    {
+        "code": "3502",
+        "type": "Kabupaten",
+        "name": "Ponorogo",
+        "fullname": "Kabupaten Ponorogo",
+        "jumlah": {
+            "kecamatan": 21,
+            "desa": 307
+        }
+    },
+    {
+        "code": "3574",
+        "type": "Kota",
+        "name": "Probolinggo",
+        "fullname": "Kota Probolinggo",
+        "jumlah": {
+            "kecamatan": 5,
+            "desa": 29
+        }
+    },
+    {
+        "code": "3513",
+        "type": "Kabupaten",
+        "name": "Probolinggo",
+        "fullname": "Kabupaten Probolinggo",
+        "jumlah": {
+            "kecamatan": 24,
+            "desa": 330
+        }
+    },
+    {
+        "code": "3527",
+        "type": "Kabupaten",
+        "name": "Sampang",
+        "fullname": "Kabupaten Sampang",
+        "jumlah": {
+            "kecamatan": 14,
+            "desa": 186
+        }
+    },
+    {
+        "code": "3515",
+        "type": "Kabupaten",
+        "name": "Sidoarjo",
+        "fullname": "Kabupaten Sidoarjo",
+        "jumlah": {
+            "kecamatan": 18,
+            "desa": 353
+        }
+    },
+    {
+        "code": "3512",
+        "type": "Kabupaten",
+        "name": "Situbondo",
+        "fullname": "Kabupaten Situbondo",
+        "jumlah": {
+            "kecamatan": 17,
+            "desa": 136
+        }
+    },
+    {
+        "code": "3529",
+        "type": "Kabupaten",
+        "name": "Sumenep",
+        "fullname": "Kabupaten Sumenep",
+        "jumlah": {
+            "kecamatan": 27,
+            "desa": 334
+        }
+    },
+    {
+        "code": "3578",
+        "type": "Kota",
+        "name": "Surabaya",
+        "fullname": "Kota Surabaya",
+        "jumlah": {
+            "kecamatan": 31,
+            "desa": 154
+        }
+    },
+    {
+        "code": "3503",
+        "type": "Kabupaten",
+        "name": "Trenggalek",
+        "fullname": "Kabupaten Trenggalek",
+        "jumlah": {
+            "kecamatan": 14,
+            "desa": 157
+        }
+    },
+    {
+        "code": "3523",
+        "type": "Kabupaten",
+        "name": "Tuban",
+        "fullname": "Kabupaten Tuban",
+        "jumlah": {
+            "kecamatan": 20,
+            "desa": 328
+        }
+    },
+    {
+        "code": "3504",
+        "type": "Kabupaten",
+        "name": "Tulungagung",
+        "fullname": "Kabupaten Tulungagung",
+        "jumlah": {
+            "kecamatan": 19,
+            "desa": 271
+        }
+    }
+]

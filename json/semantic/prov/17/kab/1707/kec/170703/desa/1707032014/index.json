@@ -1,0 +1,17 @@
+{
+    "code": "1707032014",
+    "name": "Semelako III",
+    "poscode": "39263",
+    "provinsi": {
+        "code": "17",
+        "name": "Bengkulu"
+    },
+    "kabupaten": {
+        "code": "1707",
+        "name": "Lebong"
+    },
+    "kecamatan": {
+        "code": "170703",
+        "name": "Lebong Tengah"
+    }
+}

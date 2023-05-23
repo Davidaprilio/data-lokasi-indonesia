@@ -1,0 +1,17 @@
+{
+    "code": "3308072007",
+    "name": "Banyuroto",
+    "poscode": "56481",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3308",
+        "name": "Magelang"
+    },
+    "kecamatan": {
+        "code": "330807",
+        "name": "Sawangan"
+    }
+}

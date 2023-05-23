@@ -1,0 +1,17 @@
+{
+    "code": "1605121021",
+    "name": "Talang Ubi",
+    "poscode": "31657",
+    "provinsi": {
+        "code": "16",
+        "name": "Sumatera Selatan"
+    },
+    "kabupaten": {
+        "code": "1605",
+        "name": "Musi Rawas"
+    },
+    "kecamatan": {
+        "code": "160512",
+        "name": "Megang Sakti"
+    }
+}

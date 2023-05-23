@@ -1,0 +1,51 @@
+[
+    {
+        "code": "711002",
+        "name": "Kotabunan",
+        "count": {
+            "desa": 15
+        }
+    },
+    {
+        "code": "711004",
+        "name": "Modayag",
+        "count": {
+            "desa": 14
+        }
+    },
+    {
+        "code": "711005",
+        "name": "Modayag Barat",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "711007",
+        "name": "Mooat",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "711006",
+        "name": "Motongkad",
+        "count": {
+            "desa": 11
+        }
+    },
+    {
+        "code": "711003",
+        "name": "Nuangan",
+        "count": {
+            "desa": 11
+        }
+    },
+    {
+        "code": "711001",
+        "name": "Tutuyan",
+        "count": {
+            "desa": 10
+        }
+    }
+]

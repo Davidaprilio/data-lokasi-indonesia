@@ -1,0 +1,17 @@
+{
+    "code": "1673081008",
+    "name": "Puncak Kemuning",
+    "poscode": "31619",
+    "provinsi": {
+        "code": "16",
+        "name": "Sumatera Selatan"
+    },
+    "kabupaten": {
+        "code": "1673",
+        "name": "Lubuk Linggau"
+    },
+    "kecamatan": {
+        "code": "167308",
+        "name": "Lubuk Linggau Utara Dua (II)"
+    }
+}

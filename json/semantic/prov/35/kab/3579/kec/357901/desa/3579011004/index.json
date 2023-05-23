@@ -1,0 +1,17 @@
+{
+    "code": "3579011004",
+    "name": "Sisir",
+    "poscode": "65314",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3579",
+        "name": "Batu"
+    },
+    "kecamatan": {
+        "code": "357901",
+        "name": "Batu"
+    }
+}

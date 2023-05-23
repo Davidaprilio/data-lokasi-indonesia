@@ -1,0 +1,17 @@
+{
+    "code": "9503162002",
+    "name": "Dugumhad",
+    "poscode": "99703",
+    "provinsi": {
+        "code": "95",
+        "name": "Papua Pegunungan"
+    },
+    "kabupaten": {
+        "code": "9503",
+        "name": "Yahukimo"
+    },
+    "kecamatan": {
+        "code": "950316",
+        "name": "Hogio (Hugio)"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "3522192013",
+    "name": "Ngradin",
+    "poscode": "62162",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3522",
+        "name": "Bojonegoro"
+    },
+    "kecamatan": {
+        "code": "352219",
+        "name": "Padangan"
+    }
+}

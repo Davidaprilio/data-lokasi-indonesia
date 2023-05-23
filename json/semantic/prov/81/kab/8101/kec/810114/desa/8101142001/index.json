@@ -1,0 +1,17 @@
+{
+    "code": "8101142001",
+    "name": "Liang",
+    "poscode": "97582",
+    "provinsi": {
+        "code": "81",
+        "name": "Maluku"
+    },
+    "kabupaten": {
+        "code": "8101",
+        "name": "Maluku Tengah"
+    },
+    "kecamatan": {
+        "code": "810114",
+        "name": "Salahutu"
+    }
+}

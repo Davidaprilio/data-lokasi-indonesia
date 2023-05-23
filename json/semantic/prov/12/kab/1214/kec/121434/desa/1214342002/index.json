@@ -1,0 +1,17 @@
+{
+    "code": "1214342002",
+    "name": "Fanedanu Sibohou",
+    "poscode": "22877",
+    "provinsi": {
+        "code": "12",
+        "name": "Sumatera Utara"
+    },
+    "kabupaten": {
+        "code": "1214",
+        "name": "Nias Selatan"
+    },
+    "kecamatan": {
+        "code": "121434",
+        "name": "Ulu Idanotae"
+    }
+}

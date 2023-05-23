@@ -1,0 +1,17 @@
+{
+    "code": "3513042010",
+    "name": "Karanganyar (Karang Anyar)",
+    "poscode": "67261",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3513",
+        "name": "Probolinggo"
+    },
+    "kecamatan": {
+        "code": "351304",
+        "name": "Bantaran"
+    }
+}

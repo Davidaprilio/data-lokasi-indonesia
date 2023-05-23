@@ -1,0 +1,17 @@
+{
+    "code": "1105012008",
+    "name": "Pasir (Kampung Pasir)",
+    "poscode": "23611",
+    "provinsi": {
+        "code": "11",
+        "name": "Aceh (NAD)"
+    },
+    "kabupaten": {
+        "code": "1105",
+        "name": "Aceh Barat"
+    },
+    "kecamatan": {
+        "code": "110501",
+        "name": "Johan Pahwalan (Johan Pahlawan)"
+    }
+}

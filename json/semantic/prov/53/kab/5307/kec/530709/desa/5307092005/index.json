@@ -1,0 +1,17 @@
+{
+    "code": "5307092005",
+    "name": "Wairbleler",
+    "poscode": "86185",
+    "provinsi": {
+        "code": "53",
+        "name": "Nusa Tenggara Timur (NTT)"
+    },
+    "kabupaten": {
+        "code": "5307",
+        "name": "Sikka"
+    },
+    "kecamatan": {
+        "code": "530709",
+        "name": "Waigete"
+    }
+}

@@ -1,0 +1,127 @@
+[
+    {
+        "code": "1501112008",
+        "name": "Air Hangat",
+        "poscode": "37167"
+    },
+    {
+        "code": "1501112027",
+        "name": "Air Panas Sungaiabu",
+        "poscode": "37167"
+    },
+    {
+        "code": "1501112026",
+        "name": "Baru Air Hangat",
+        "poscode": "37167"
+    },
+    {
+        "code": "1501112009",
+        "name": "Baru Sungai Tutung",
+        "poscode": "37167"
+    },
+    {
+        "code": "1501112028",
+        "name": "Baru Sungaiabu",
+        "poscode": "37167"
+    },
+    {
+        "code": "1501112022",
+        "name": "Baru Sungaideras",
+        "poscode": "37167"
+    },
+    {
+        "code": "1501112024",
+        "name": "Baru Sungaimedang",
+        "poscode": "37167"
+    },
+    {
+        "code": "1501112018",
+        "name": "Kemantan Agung",
+        "poscode": "37167"
+    },
+    {
+        "code": "1501112003",
+        "name": "Kemantan Darat",
+        "poscode": "37167"
+    },
+    {
+        "code": "1501112014",
+        "name": "Kemantan Hilir",
+        "poscode": "37167"
+    },
+    {
+        "code": "1501112002",
+        "name": "Kemantan Kebalai",
+        "poscode": "37167"
+    },
+    {
+        "code": "1501112020",
+        "name": "Kemantan Mudik",
+        "poscode": "37167"
+    },
+    {
+        "code": "1501112025",
+        "name": "Kemantan Raya",
+        "poscode": "37167"
+    },
+    {
+        "code": "1501112001",
+        "name": "Kemantan Tinggi",
+        "poscode": "37167"
+    },
+    {
+        "code": "1501112006",
+        "name": "Koto Tebat",
+        "poscode": "37167"
+    },
+    {
+        "code": "1501112005",
+        "name": "Pondok Sungaiabu (Pondok Sungai Abu)",
+        "poscode": "37167"
+    },
+    {
+        "code": "1501112011",
+        "name": "Pungut Hilir",
+        "poscode": "37167"
+    },
+    {
+        "code": "1501112012",
+        "name": "Pungut Mudik",
+        "poscode": "37167"
+    },
+    {
+        "code": "1501112010",
+        "name": "Pungut Tengah",
+        "poscode": "37167"
+    },
+    {
+        "code": "1501112021",
+        "name": "Simpang Empat Sungai Tutung",
+        "poscode": "37167"
+    },
+    {
+        "code": "1501112004",
+        "name": "Sungaiabu (Sungai Abu)",
+        "poscode": "37167"
+    },
+    {
+        "code": "1501112019",
+        "name": "Sungaideras (Sungai Deras)",
+        "poscode": "37167"
+    },
+    {
+        "code": "1501112007",
+        "name": "Sungaimedang (Sungai Medang)",
+        "poscode": "37167"
+    },
+    {
+        "code": "1501112015",
+        "name": "Sungaitutung (Sungai Tutung)",
+        "poscode": "37167"
+    },
+    {
+        "code": "1501112023",
+        "name": "Taman Jernih Sungaitutung",
+        "poscode": "37167"
+    }
+]

@@ -1,0 +1,17 @@
+{
+    "code": "3305092001",
+    "name": "Tersobo",
+    "poscode": "54397",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3305",
+        "name": "Kebumen"
+    },
+    "kecamatan": {
+        "code": "330509",
+        "name": "Prembun"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "6309061003",
+    "name": "Sulingan",
+    "poscode": "71571",
+    "provinsi": {
+        "code": "63",
+        "name": "Kalimantan Selatan"
+    },
+    "kabupaten": {
+        "code": "6309",
+        "name": "Tabalong"
+    },
+    "kecamatan": {
+        "code": "630906",
+        "name": "Murung Pudak"
+    }
+}

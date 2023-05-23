@@ -1,0 +1,17 @@
+{
+    "code": "6403051006",
+    "name": "Gayam",
+    "poscode": "77315",
+    "provinsi": {
+        "code": "64",
+        "name": "Kalimantan Timur"
+    },
+    "kabupaten": {
+        "code": "6403",
+        "name": "Berau"
+    },
+    "kecamatan": {
+        "code": "640305",
+        "name": "Tanjung Redeb"
+    }
+}

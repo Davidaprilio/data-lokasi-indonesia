@@ -1,0 +1,17 @@
+{
+    "code": "1671051004",
+    "name": "14 Ilir",
+    "poscode": "30124",
+    "provinsi": {
+        "code": "16",
+        "name": "Sumatera Selatan"
+    },
+    "kabupaten": {
+        "code": "1671",
+        "name": "Palembang"
+    },
+    "kecamatan": {
+        "code": "167105",
+        "name": "Ilir Timur I"
+    }
+}

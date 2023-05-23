@@ -1,0 +1,17 @@
+{
+    "code": "3208042008",
+    "name": "Citundun",
+    "poscode": "45583",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3208",
+        "name": "Kuningan"
+    },
+    "kecamatan": {
+        "code": "320804",
+        "name": "Ciwaru"
+    }
+}

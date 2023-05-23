@@ -1,0 +1,17 @@
+{
+    "code": "3603052001",
+    "name": "Cisoka",
+    "poscode": "15730",
+    "provinsi": {
+        "code": "36",
+        "name": "Banten"
+    },
+    "kabupaten": {
+        "code": "3603",
+        "name": "Tangerang"
+    },
+    "kecamatan": {
+        "code": "360305",
+        "name": "Cisoka"
+    }
+}

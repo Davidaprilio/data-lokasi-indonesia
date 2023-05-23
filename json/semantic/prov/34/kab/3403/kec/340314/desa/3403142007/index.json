@@ -1,0 +1,17 @@
+{
+    "code": "3403142007",
+    "name": "Tegalrejo",
+    "poscode": "55863",
+    "provinsi": {
+        "code": "34",
+        "name": "DI Yogyakarta"
+    },
+    "kabupaten": {
+        "code": "3403",
+        "name": "Gunungkidul"
+    },
+    "kecamatan": {
+        "code": "340314",
+        "name": "Gedangsari (Gedang Sari)"
+    }
+}

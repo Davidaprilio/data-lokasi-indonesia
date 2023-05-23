@@ -1,0 +1,17 @@
+{
+    "code": "7171041007",
+    "name": "Pinaesaan",
+    "poscode": "95122",
+    "provinsi": {
+        "code": "71",
+        "name": "Sulawesi Utara"
+    },
+    "kabupaten": {
+        "code": "7171",
+        "name": "Manado"
+    },
+    "kecamatan": {
+        "code": "717104",
+        "name": "Wenang"
+    }
+}

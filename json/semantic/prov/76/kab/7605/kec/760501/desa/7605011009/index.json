@@ -1,0 +1,17 @@
+{
+    "code": "7605011009",
+    "name": "Totoli",
+    "poscode": "91415",
+    "provinsi": {
+        "code": "76",
+        "name": "Sulawesi Barat"
+    },
+    "kabupaten": {
+        "code": "7605",
+        "name": "Majene"
+    },
+    "kecamatan": {
+        "code": "760501",
+        "name": "Banggae"
+    }
+}

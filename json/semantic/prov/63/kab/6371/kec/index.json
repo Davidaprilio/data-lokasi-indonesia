@@ -1,0 +1,37 @@
+[
+    {
+        "code": "637103",
+        "name": "Banjarmasin Barat",
+        "count": {
+            "desa": 9
+        }
+    },
+    {
+        "code": "637101",
+        "name": "Banjarmasin Selatan",
+        "count": {
+            "desa": 12
+        }
+    },
+    {
+        "code": "637105",
+        "name": "Banjarmasin Tengah",
+        "count": {
+            "desa": 12
+        }
+    },
+    {
+        "code": "637102",
+        "name": "Banjarmasin Timur",
+        "count": {
+            "desa": 9
+        }
+    },
+    {
+        "code": "637104",
+        "name": "Banjarmasin Utara",
+        "count": {
+            "desa": 10
+        }
+    }
+]

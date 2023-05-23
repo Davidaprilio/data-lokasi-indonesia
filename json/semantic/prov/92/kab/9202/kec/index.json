@@ -1,0 +1,65 @@
+[
+    {
+        "code": "920212",
+        "name": "Manokwari Barat",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "920215",
+        "name": "Manokwari Selatan",
+        "count": {
+            "desa": 18
+        }
+    },
+    {
+        "code": "920213",
+        "name": "Manokwari Timur",
+        "count": {
+            "desa": 7
+        }
+    },
+    {
+        "code": "920214",
+        "name": "Manokwari Utara",
+        "count": {
+            "desa": 22
+        }
+    },
+    {
+        "code": "920205",
+        "name": "Masni",
+        "count": {
+            "desa": 33
+        }
+    },
+    {
+        "code": "920204",
+        "name": "Prafi",
+        "count": {
+            "desa": 16
+        }
+    },
+    {
+        "code": "920221",
+        "name": "Sidey",
+        "count": {
+            "desa": 12
+        }
+    },
+    {
+        "code": "920217",
+        "name": "Tanah Rubuh",
+        "count": {
+            "desa": 24
+        }
+    },
+    {
+        "code": "920203",
+        "name": "Warmare",
+        "count": {
+            "desa": 31
+        }
+    }
+]

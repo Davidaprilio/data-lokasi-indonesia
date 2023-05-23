@@ -1,0 +1,17 @@
+{
+    "code": "3572011005",
+    "name": "Tanggung",
+    "poscode": "66115",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3572",
+        "name": "Blitar"
+    },
+    "kecamatan": {
+        "code": "357201",
+        "name": "Kepanjenkidul (Kepanjen Kidul)"
+    }
+}

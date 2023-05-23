@@ -1,0 +1,17 @@
+{
+    "code": "3205082007",
+    "name": "Barusari",
+    "poscode": "44161",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3205",
+        "name": "Garut"
+    },
+    "kecamatan": {
+        "code": "320508",
+        "name": "Pasirwangi"
+    }
+}

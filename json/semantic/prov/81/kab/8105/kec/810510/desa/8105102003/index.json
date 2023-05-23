@@ -1,0 +1,17 @@
+{
+    "code": "8105102003",
+    "name": "Ker Ker",
+    "poscode": "97597",
+    "provinsi": {
+        "code": "81",
+        "name": "Maluku"
+    },
+    "kabupaten": {
+        "code": "8105",
+        "name": "Seram Bagian Timur"
+    },
+    "kecamatan": {
+        "code": "810510",
+        "name": "Teor"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "6303132012",
+    "name": "Muara Halayung",
+    "poscode": "70656",
+    "provinsi": {
+        "code": "63",
+        "name": "Kalimantan Selatan"
+    },
+    "kabupaten": {
+        "code": "6303",
+        "name": "Banjar"
+    },
+    "kecamatan": {
+        "code": "630313",
+        "name": "Beruntung Baru"
+    }
+}

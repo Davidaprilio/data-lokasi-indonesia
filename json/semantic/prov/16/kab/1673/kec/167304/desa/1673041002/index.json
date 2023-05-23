@@ -1,0 +1,17 @@
+{
+    "code": "1673041002",
+    "name": "Tanjung Raya",
+    "poscode": "31619",
+    "provinsi": {
+        "code": "16",
+        "name": "Sumatera Selatan"
+    },
+    "kabupaten": {
+        "code": "1673",
+        "name": "Lubuk Linggau"
+    },
+    "kecamatan": {
+        "code": "167304",
+        "name": "Lubuk Linggau Utara Satu (I)"
+    }
+}

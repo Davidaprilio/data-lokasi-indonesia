@@ -1,0 +1,17 @@
+{
+    "code": "3310042013",
+    "name": "Talang",
+    "poscode": "57462",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3310",
+        "name": "Klaten"
+    },
+    "kecamatan": {
+        "code": "331004",
+        "name": "Bayat"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "6203172014",
+    "name": "Terusan Raya Hulu (Terusan Raya Hilir)",
+    "poscode": "73516",
+    "provinsi": {
+        "code": "62",
+        "name": "Kalimantan Tengah"
+    },
+    "kabupaten": {
+        "code": "6203",
+        "name": "Kapuas"
+    },
+    "kecamatan": {
+        "code": "620317",
+        "name": "Bataguh"
+    }
+}

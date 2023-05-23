@@ -1,0 +1,17 @@
+{
+    "code": "7108052014",
+    "name": "Inomunga Utara",
+    "poscode": "95765",
+    "provinsi": {
+        "code": "71",
+        "name": "Sulawesi Utara"
+    },
+    "kabupaten": {
+        "code": "7108",
+        "name": "Bolaang Mongondow Utara"
+    },
+    "kecamatan": {
+        "code": "710805",
+        "name": "Kaidipang"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "3214132009",
+    "name": "Cibodas",
+    "poscode": "41181",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3214",
+        "name": "Purwakarta"
+    },
+    "kecamatan": {
+        "code": "321413",
+        "name": "Bungursari"
+    }
+}

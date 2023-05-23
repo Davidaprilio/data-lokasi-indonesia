@@ -1,0 +1,17 @@
+{
+    "code": "5206092004",
+    "name": "Taloko",
+    "poscode": "84191",
+    "provinsi": {
+        "code": "52",
+        "name": "Nusa Tenggara Barat (NTB)"
+    },
+    "kabupaten": {
+        "code": "5206",
+        "name": "Bima"
+    },
+    "kecamatan": {
+        "code": "520609",
+        "name": "Sanggar"
+    }
+}

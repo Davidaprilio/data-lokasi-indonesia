@@ -1,0 +1,17 @@
+{
+    "code": "1508162002",
+    "name": "Aur Gading",
+    "poscode": "37257",
+    "provinsi": {
+        "code": "15",
+        "name": "Jambi"
+    },
+    "kabupaten": {
+        "code": "1508",
+        "name": "Bungo"
+    },
+    "kecamatan": {
+        "code": "150816",
+        "name": "Jujuhan Ilir"
+    }
+}

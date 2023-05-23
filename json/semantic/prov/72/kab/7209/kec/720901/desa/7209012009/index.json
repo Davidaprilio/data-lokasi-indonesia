@@ -1,0 +1,17 @@
+{
+    "code": "7209012009",
+    "name": "Tanjung Pude",
+    "poscode": "94690",
+    "provinsi": {
+        "code": "72",
+        "name": "Sulawesi Tengah"
+    },
+    "kabupaten": {
+        "code": "7209",
+        "name": "Tojo Una Una"
+    },
+    "kecamatan": {
+        "code": "720901",
+        "name": "Una Una"
+    }
+}

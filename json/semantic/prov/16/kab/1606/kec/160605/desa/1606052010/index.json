@@ -1,0 +1,17 @@
+{
+    "code": "1606052010",
+    "name": "Terusan",
+    "poscode": "30759",
+    "provinsi": {
+        "code": "16",
+        "name": "Sumatera Selatan"
+    },
+    "kabupaten": {
+        "code": "1606",
+        "name": "Musi Banyuasin"
+    },
+    "kecamatan": {
+        "code": "160605",
+        "name": "Sanga Desa"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "1210021004",
+    "name": "Ujung Bandar",
+    "poscode": "21422",
+    "provinsi": {
+        "code": "12",
+        "name": "Sumatera Utara"
+    },
+    "kabupaten": {
+        "code": "1210",
+        "name": "Labuhanbatu"
+    },
+    "kecamatan": {
+        "code": "121002",
+        "name": "Rantau Selatan"
+    }
+}

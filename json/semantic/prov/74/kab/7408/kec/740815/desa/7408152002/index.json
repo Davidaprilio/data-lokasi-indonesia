@@ -1,0 +1,17 @@
+{
+    "code": "7408152002",
+    "name": "Patikala",
+    "poscode": "93951",
+    "provinsi": {
+        "code": "74",
+        "name": "Sulawesi Tenggara"
+    },
+    "kabupaten": {
+        "code": "7408",
+        "name": "Kolaka Utara"
+    },
+    "kecamatan": {
+        "code": "740815",
+        "name": "Tolala"
+    }
+}

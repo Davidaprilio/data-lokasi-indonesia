@@ -1,0 +1,17 @@
+{
+    "code": "1101182001",
+    "name": "Ladang Rimba",
+    "poscode": "23775",
+    "provinsi": {
+        "code": "11",
+        "name": "Aceh (NAD)"
+    },
+    "kabupaten": {
+        "code": "1101",
+        "name": "Aceh Selatan"
+    },
+    "kecamatan": {
+        "code": "110118",
+        "name": "Trumon Tengah"
+    }
+}

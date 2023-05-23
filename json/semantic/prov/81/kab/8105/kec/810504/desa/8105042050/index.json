@@ -1,0 +1,17 @@
+{
+    "code": "8105042050",
+    "name": "Buan Kataloka",
+    "poscode": "97593",
+    "provinsi": {
+        "code": "81",
+        "name": "Maluku"
+    },
+    "kabupaten": {
+        "code": "8105",
+        "name": "Seram Bagian Timur"
+    },
+    "kecamatan": {
+        "code": "810504",
+        "name": "Pulau Gorom"
+    }
+}

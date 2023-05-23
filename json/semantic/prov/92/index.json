@@ -1,0 +1,10 @@
+{
+    "code": "92",
+    "name": "Papua Barat",
+    "jumlah": {
+        "kota": 0,
+        "kabupaten": 7,
+        "kecamatan": 86,
+        "desa": 824
+    }
+}

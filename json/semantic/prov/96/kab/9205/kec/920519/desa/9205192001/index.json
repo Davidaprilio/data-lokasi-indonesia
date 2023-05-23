@@ -1,0 +1,17 @@
+{
+    "code": "9205192001",
+    "name": "Go",
+    "poscode": "98474",
+    "provinsi": {
+        "code": "96",
+        "name": "Papua Barat Daya"
+    },
+    "kabupaten": {
+        "code": "9205",
+        "name": "Raja Ampat"
+    },
+    "kecamatan": {
+        "code": "920519",
+        "name": "Tiplol Mayalibit"
+    }
+}

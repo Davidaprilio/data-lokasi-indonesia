@@ -1,0 +1,128 @@
+[
+    {
+        "code": "640204",
+        "name": "Anggana",
+        "count": {
+            "desa": 8
+        }
+    },
+    {
+        "code": "640210",
+        "name": "Kembang Janggut",
+        "count": {
+            "desa": 11
+        }
+    },
+    {
+        "code": "640209",
+        "name": "Kenohan",
+        "count": {
+            "desa": 9
+        }
+    },
+    {
+        "code": "640208",
+        "name": "Kota Bangun",
+        "count": {
+            "desa": 21
+        }
+    },
+    {
+        "code": "640203",
+        "name": "Loa Janan",
+        "count": {
+            "desa": 8
+        }
+    },
+    {
+        "code": "640202",
+        "name": "Loa Kulu",
+        "count": {
+            "desa": 15
+        }
+    },
+    {
+        "code": "640217",
+        "name": "Marang Kayu",
+        "count": {
+            "desa": 11
+        }
+    },
+    {
+        "code": "640205",
+        "name": "Muara Badak",
+        "count": {
+            "desa": 13
+        }
+    },
+    {
+        "code": "640214",
+        "name": "Muara Jawa",
+        "count": {
+            "desa": 8
+        }
+    },
+    {
+        "code": "640211",
+        "name": "Muara Kaman",
+        "count": {
+            "desa": 20
+        }
+    },
+    {
+        "code": "640201",
+        "name": "Muara Muntai",
+        "count": {
+            "desa": 13
+        }
+    },
+    {
+        "code": "640218",
+        "name": "Muara Wis",
+        "count": {
+            "desa": 7
+        }
+    },
+    {
+        "code": "640213",
+        "name": "Samboja (Semboja)",
+        "count": {
+            "desa": 23
+        }
+    },
+    {
+        "code": "640215",
+        "name": "Sanga-Sanga",
+        "count": {
+            "desa": 5
+        }
+    },
+    {
+        "code": "640207",
+        "name": "Sebulu",
+        "count": {
+            "desa": 14
+        }
+    },
+    {
+        "code": "640212",
+        "name": "Tabang",
+        "count": {
+            "desa": 19
+        }
+    },
+    {
+        "code": "640206",
+        "name": "Tenggarong",
+        "count": {
+            "desa": 14
+        }
+    },
+    {
+        "code": "640216",
+        "name": "Tenggarong Seberang",
+        "count": {
+            "desa": 18
+        }
+    }
+]

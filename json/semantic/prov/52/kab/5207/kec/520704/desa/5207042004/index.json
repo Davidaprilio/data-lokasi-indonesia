@@ -1,0 +1,17 @@
+{
+    "code": "5207042004",
+    "name": "Ai Kangkung",
+    "poscode": "84457",
+    "provinsi": {
+        "code": "52",
+        "name": "Nusa Tenggara Barat (NTB)"
+    },
+    "kabupaten": {
+        "code": "5207",
+        "name": "Sumbawa Barat"
+    },
+    "kecamatan": {
+        "code": "520704",
+        "name": "Sekongkang"
+    }
+}

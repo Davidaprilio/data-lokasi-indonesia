@@ -1,0 +1,17 @@
+{
+    "code": "7413022003",
+    "name": "Waulai",
+    "poscode": "93650",
+    "provinsi": {
+        "code": "74",
+        "name": "Sulawesi Tenggara"
+    },
+    "kabupaten": {
+        "code": "7413",
+        "name": "Muna Barat"
+    },
+    "kecamatan": {
+        "code": "741302",
+        "name": "Barangka"
+    }
+}

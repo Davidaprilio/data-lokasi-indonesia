@@ -1,0 +1,17 @@
+{
+    "code": "1706092005",
+    "name": "Pondok Baru",
+    "poscode": "38769",
+    "provinsi": {
+        "code": "17",
+        "name": "Bengkulu"
+    },
+    "kabupaten": {
+        "code": "1706",
+        "name": "Muko Muko"
+    },
+    "kecamatan": {
+        "code": "170609",
+        "name": "Selagan Raya"
+    }
+}

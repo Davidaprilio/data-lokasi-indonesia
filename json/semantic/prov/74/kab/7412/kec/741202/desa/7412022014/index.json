@@ -1,0 +1,17 @@
+{
+    "code": "7412022014",
+    "name": "Labisa",
+    "poscode": "93398",
+    "provinsi": {
+        "code": "74",
+        "name": "Sulawesi Tenggara"
+    },
+    "kabupaten": {
+        "code": "7412",
+        "name": "Konawe Kepulauan"
+    },
+    "kecamatan": {
+        "code": "741202",
+        "name": "Wawonii Utara"
+    }
+}

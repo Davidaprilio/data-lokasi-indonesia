@@ -1,0 +1,10 @@
+{
+    "code": "96",
+    "name": "Papua Barat Daya",
+    "jumlah": {
+        "kota": 1,
+        "kabupaten": 5,
+        "kecamatan": 132,
+        "desa": 1
+    }
+}

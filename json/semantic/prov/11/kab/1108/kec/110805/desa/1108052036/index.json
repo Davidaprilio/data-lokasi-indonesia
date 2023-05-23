@@ -1,0 +1,17 @@
+{
+    "code": "1108052036",
+    "name": "Hagu",
+    "poscode": "24386",
+    "provinsi": {
+        "code": "11",
+        "name": "Aceh (NAD)"
+    },
+    "kabupaten": {
+        "code": "1108",
+        "name": "Aceh Utara"
+    },
+    "kecamatan": {
+        "code": "110805",
+        "name": "Matangkuli"
+    }
+}

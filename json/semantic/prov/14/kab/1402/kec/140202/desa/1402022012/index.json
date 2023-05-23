@@ -1,0 +1,17 @@
+{
+    "code": "1402022012",
+    "name": "Pematang Jaya",
+    "poscode": "29351",
+    "provinsi": {
+        "code": "14",
+        "name": "Riau"
+    },
+    "kabupaten": {
+        "code": "1402",
+        "name": "Indragiri Hulu"
+    },
+    "kecamatan": {
+        "code": "140202",
+        "name": "Rengat Barat"
+    }
+}

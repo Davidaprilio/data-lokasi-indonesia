@@ -1,0 +1,17 @@
+{
+    "code": "7211062002",
+    "name": "Tolokibit",
+    "poscode": "94890",
+    "provinsi": {
+        "code": "72",
+        "name": "Sulawesi Tengah"
+    },
+    "kabupaten": {
+        "code": "7211",
+        "name": "Banggai Laut"
+    },
+    "kecamatan": {
+        "code": "721106",
+        "name": "Banggai Selatan"
+    }
+}

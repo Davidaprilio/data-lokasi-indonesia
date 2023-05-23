@@ -1,0 +1,17 @@
+{
+    "code": "7402192008",
+    "name": "Wawoone",
+    "poscode": "93468",
+    "provinsi": {
+        "code": "74",
+        "name": "Sulawesi Tenggara"
+    },
+    "kabupaten": {
+        "code": "7402",
+        "name": "Konawe"
+    },
+    "kecamatan": {
+        "code": "740219",
+        "name": "Wonggeduku"
+    }
+}

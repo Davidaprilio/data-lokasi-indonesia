@@ -1,0 +1,17 @@
+{
+    "code": "3504062002",
+    "name": "Kedungcangkring",
+    "poscode": "66262",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3504",
+        "name": "Tulungagung"
+    },
+    "kecamatan": {
+        "code": "350406",
+        "name": "Pagerwojo"
+    }
+}

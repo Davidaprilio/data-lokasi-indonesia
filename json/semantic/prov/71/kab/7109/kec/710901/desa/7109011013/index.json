@@ -1,0 +1,17 @@
+{
+    "code": "7109011013",
+    "name": "Bahu",
+    "poscode": "95861",
+    "provinsi": {
+        "code": "71",
+        "name": "Sulawesi Utara"
+    },
+    "kabupaten": {
+        "code": "7109",
+        "name": "Kepulauan Siau Tagulandang Biaro (Sitaro)"
+    },
+    "kecamatan": {
+        "code": "710901",
+        "name": "Siau Timur"
+    }
+}

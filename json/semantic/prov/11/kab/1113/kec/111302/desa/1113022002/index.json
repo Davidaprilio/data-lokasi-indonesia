@@ -1,0 +1,17 @@
+{
+    "code": "1113022002",
+    "name": "Tampeng",
+    "poscode": "24650",
+    "provinsi": {
+        "code": "11",
+        "name": "Aceh (NAD)"
+    },
+    "kabupaten": {
+        "code": "1113",
+        "name": "Gayo Lues"
+    },
+    "kecamatan": {
+        "code": "111302",
+        "name": "Kutapanjang (Kuta Panjang)"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "3507012005",
+    "name": "Tempursari",
+    "poscode": "65167",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3507",
+        "name": "Malang"
+    },
+    "kecamatan": {
+        "code": "350701",
+        "name": "Donomulyo"
+    }
+}

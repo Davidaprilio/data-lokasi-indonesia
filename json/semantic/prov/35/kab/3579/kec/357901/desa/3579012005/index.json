@@ -1,0 +1,17 @@
+{
+    "code": "3579012005",
+    "name": "Sumberejo (Sumber Rejo)",
+    "poscode": "65318",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3579",
+        "name": "Batu"
+    },
+    "kecamatan": {
+        "code": "357901",
+        "name": "Batu"
+    }
+}

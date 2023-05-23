@@ -1,0 +1,17 @@
+{
+    "code": "1505062018",
+    "name": "Sungai Terap",
+    "poscode": "36373",
+    "provinsi": {
+        "code": "15",
+        "name": "Jambi"
+    },
+    "kabupaten": {
+        "code": "1505",
+        "name": "Muaro Jambi"
+    },
+    "kecamatan": {
+        "code": "150506",
+        "name": "Kumpeh Ulu"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "9403222001",
+    "name": "Uwamani",
+    "poscode": "98717",
+    "provinsi": {
+        "code": "94",
+        "name": "Papua Tengah"
+    },
+    "kabupaten": {
+        "code": "9403",
+        "name": "Paniai"
+    },
+    "kecamatan": {
+        "code": "940322",
+        "name": "Wegee Muka"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "9206202004",
+    "name": "Bibiram",
+    "poscode": "98152",
+    "provinsi": {
+        "code": "92",
+        "name": "Papua Barat"
+    },
+    "kabupaten": {
+        "code": "9206",
+        "name": "Teluk Bintuni"
+    },
+    "kecamatan": {
+        "code": "920620",
+        "name": "Kamundan"
+    }
+}

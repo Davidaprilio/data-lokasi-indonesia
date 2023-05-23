@@ -1,0 +1,17 @@
+{
+    "code": "6106192010",
+    "name": "Tubang Jaya",
+    "poscode": "78758",
+    "provinsi": {
+        "code": "61",
+        "name": "Kalimantan Barat"
+    },
+    "kabupaten": {
+        "code": "6106",
+        "name": "Kapuas Hulu"
+    },
+    "kecamatan": {
+        "code": "610619",
+        "name": "Boyan Tanjung"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "3603132004",
+    "name": "Keboncau (Kebon Cau)",
+    "poscode": "15510",
+    "provinsi": {
+        "code": "36",
+        "name": "Banten"
+    },
+    "kabupaten": {
+        "code": "3603",
+        "name": "Tangerang"
+    },
+    "kecamatan": {
+        "code": "360313",
+        "name": "Teluknaga"
+    }
+}

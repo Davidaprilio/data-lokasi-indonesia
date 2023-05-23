@@ -1,0 +1,17 @@
+{
+    "code": "1572011003",
+    "name": "Pasar Sungai Penuh",
+    "poscode": "37113",
+    "provinsi": {
+        "code": "15",
+        "name": "Jambi"
+    },
+    "kabupaten": {
+        "code": "1572",
+        "name": "Sungai Penuh"
+    },
+    "kecamatan": {
+        "code": "157201",
+        "name": "Sungai Penuh"
+    }
+}

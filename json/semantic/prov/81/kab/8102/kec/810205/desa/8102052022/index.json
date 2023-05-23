@@ -1,0 +1,17 @@
+{
+    "code": "8102052022",
+    "name": "Banda Suku Tigapuluh",
+    "poscode": "97635",
+    "provinsi": {
+        "code": "81",
+        "name": "Maluku"
+    },
+    "kabupaten": {
+        "code": "8102",
+        "name": "Maluku Tenggara"
+    },
+    "kecamatan": {
+        "code": "810205",
+        "name": "Kei Besar Utara Timur"
+    }
+}

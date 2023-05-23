@@ -1,0 +1,17 @@
+{
+    "code": "1613062012",
+    "name": "Embacang Lama",
+    "poscode": "31654",
+    "provinsi": {
+        "code": "16",
+        "name": "Sumatera Selatan"
+    },
+    "kabupaten": {
+        "code": "1613",
+        "name": "Musi Rawas Utara"
+    },
+    "kecamatan": {
+        "code": "161306",
+        "name": "Karang Jaya"
+    }
+}

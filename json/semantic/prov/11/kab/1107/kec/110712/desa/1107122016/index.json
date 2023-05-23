@@ -1,0 +1,17 @@
+{
+    "code": "1107122016",
+    "name": "Papeun",
+    "poscode": "24153",
+    "provinsi": {
+        "code": "11",
+        "name": "Aceh (NAD)"
+    },
+    "kabupaten": {
+        "code": "1107",
+        "name": "Pidie"
+    },
+    "kecamatan": {
+        "code": "110712",
+        "name": "Muara Tiga"
+    }
+}

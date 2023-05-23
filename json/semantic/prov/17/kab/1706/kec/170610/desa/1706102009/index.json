@@ -1,0 +1,17 @@
+{
+    "code": "1706102009",
+    "name": "Sendang Mulyo",
+    "poscode": "38768",
+    "provinsi": {
+        "code": "17",
+        "name": "Bengkulu"
+    },
+    "kabupaten": {
+        "code": "1706",
+        "name": "Muko Muko"
+    },
+    "kecamatan": {
+        "code": "170610",
+        "name": "Penarik"
+    }
+}

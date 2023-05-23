@@ -1,0 +1,17 @@
+{
+    "code": "3209332007",
+    "name": "Hulubanteng Lor",
+    "poscode": "45194",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3209",
+        "name": "Cirebon"
+    },
+    "kecamatan": {
+        "code": "320933",
+        "name": "Pabuaran"
+    }
+}

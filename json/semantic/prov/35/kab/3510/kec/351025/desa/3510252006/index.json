@@ -1,0 +1,17 @@
+{
+    "code": "3510252006",
+    "name": "Patoman",
+    "poscode": "68460",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3510",
+        "name": "Banyuwangi"
+    },
+    "kecamatan": {
+        "code": "351025",
+        "name": "Blimbingsari"
+    }
+}

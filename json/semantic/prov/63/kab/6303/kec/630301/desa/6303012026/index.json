@@ -1,0 +1,17 @@
+{
+    "code": "6303012026",
+    "name": "Simpang Warga Dalam",
+    "poscode": "70655",
+    "provinsi": {
+        "code": "63",
+        "name": "Kalimantan Selatan"
+    },
+    "kabupaten": {
+        "code": "6303",
+        "name": "Banjar"
+    },
+    "kecamatan": {
+        "code": "630301",
+        "name": "Aluh-Aluh"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "3309082008",
+    "name": "Kemasan",
+    "poscode": "57374",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3309",
+        "name": "Boyolali"
+    },
+    "kecamatan": {
+        "code": "330908",
+        "name": "Sawit"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "7107011004",
+    "name": "Tosuraya",
+    "poscode": "95994",
+    "provinsi": {
+        "code": "71",
+        "name": "Sulawesi Utara"
+    },
+    "kabupaten": {
+        "code": "7107",
+        "name": "Minahasa Tenggara"
+    },
+    "kecamatan": {
+        "code": "710701",
+        "name": "Ratahan"
+    }
+}

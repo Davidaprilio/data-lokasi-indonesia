@@ -1,0 +1,17 @@
+{
+    "code": "1114052031",
+    "name": "Putue",
+    "poscode": "23658",
+    "provinsi": {
+        "code": "11",
+        "name": "Aceh (NAD)"
+    },
+    "kabupaten": {
+        "code": "1114",
+        "name": "Aceh Jaya"
+    },
+    "kecamatan": {
+        "code": "111405",
+        "name": "Jaya"
+    }
+}

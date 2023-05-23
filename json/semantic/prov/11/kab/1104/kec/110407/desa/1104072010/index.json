@@ -1,0 +1,17 @@
+{
+    "code": "1104072010",
+    "name": "Kayu Kul",
+    "poscode": "24560",
+    "provinsi": {
+        "code": "11",
+        "name": "Aceh (NAD)"
+    },
+    "kabupaten": {
+        "code": "1104",
+        "name": "Aceh Tengah"
+    },
+    "kecamatan": {
+        "code": "110407",
+        "name": "Pegasing"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "3209012012",
+    "name": "Ambit",
+    "poscode": "45180",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3209",
+        "name": "Cirebon"
+    },
+    "kecamatan": {
+        "code": "320901",
+        "name": "Waled"
+    }
+}

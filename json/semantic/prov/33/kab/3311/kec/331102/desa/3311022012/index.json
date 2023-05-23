@@ -1,0 +1,17 @@
+{
+    "code": "3311022012",
+    "name": "Ngasinan",
+    "poscode": "57563",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3311",
+        "name": "Sukoharjo"
+    },
+    "kecamatan": {
+        "code": "331102",
+        "name": "Bulu"
+    }
+}

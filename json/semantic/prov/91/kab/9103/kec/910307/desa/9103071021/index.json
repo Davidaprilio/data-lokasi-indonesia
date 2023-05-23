@@ -1,0 +1,17 @@
+{
+    "code": "9103071021",
+    "name": "Tabri",
+    "poscode": "99361",
+    "provinsi": {
+        "code": "91",
+        "name": "Papua"
+    },
+    "kabupaten": {
+        "code": "9103",
+        "name": "Jayapura"
+    },
+    "kecamatan": {
+        "code": "910307",
+        "name": "Nimboran"
+    }
+}

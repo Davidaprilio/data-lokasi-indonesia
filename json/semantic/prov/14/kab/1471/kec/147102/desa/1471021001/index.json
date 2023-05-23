@@ -1,0 +1,17 @@
+{
+    "code": "1471021001",
+    "name": "Simpang Empat",
+    "poscode": "28116",
+    "provinsi": {
+        "code": "14",
+        "name": "Riau"
+    },
+    "kabupaten": {
+        "code": "1471",
+        "name": "Pekanbaru"
+    },
+    "kecamatan": {
+        "code": "147102",
+        "name": "Pekanbaru Kota"
+    }
+}

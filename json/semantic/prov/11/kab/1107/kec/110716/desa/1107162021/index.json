@@ -1,0 +1,17 @@
+{
+    "code": "1107162021",
+    "name": "Labui",
+    "poscode": "24151",
+    "provinsi": {
+        "code": "11",
+        "name": "Aceh (NAD)"
+    },
+    "kabupaten": {
+        "code": "1107",
+        "name": "Pidie"
+    },
+    "kecamatan": {
+        "code": "110716",
+        "name": "Pidie"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "7504122006",
+    "name": "Maleo",
+    "poscode": "96367",
+    "provinsi": {
+        "code": "75",
+        "name": "Gorontalo"
+    },
+    "kabupaten": {
+        "code": "7504",
+        "name": "Pahuwato"
+    },
+    "kecamatan": {
+        "code": "750412",
+        "name": "Popayato Timur"
+    }
+}

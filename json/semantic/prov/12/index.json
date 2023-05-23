@@ -1,0 +1,10 @@
+{
+    "code": "12",
+    "name": "Sumatera Utara",
+    "jumlah": {
+        "kota": 8,
+        "kabupaten": 25,
+        "kecamatan": 455,
+        "desa": 6
+    }
+}

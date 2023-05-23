@@ -1,0 +1,17 @@
+{
+    "code": "1213012008",
+    "name": "Gunung Tua Julu",
+    "poscode": "22918",
+    "provinsi": {
+        "code": "12",
+        "name": "Sumatera Utara"
+    },
+    "kabupaten": {
+        "code": "1213",
+        "name": "Mandailing Natal"
+    },
+    "kecamatan": {
+        "code": "121301",
+        "name": "Panyabungan"
+    }
+}

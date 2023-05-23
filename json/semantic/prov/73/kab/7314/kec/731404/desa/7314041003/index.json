@@ -1,0 +1,17 @@
+{
+    "code": "7314041003",
+    "name": "Benteng",
+    "poscode": "91652",
+    "provinsi": {
+        "code": "73",
+        "name": "Sulawesi Selatan"
+    },
+    "kabupaten": {
+        "code": "7314",
+        "name": "Sidenreng Rappang"
+    },
+    "kecamatan": {
+        "code": "731404",
+        "name": "Baranti"
+    }
+}

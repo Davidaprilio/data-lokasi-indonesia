@@ -1,0 +1,17 @@
+{
+    "code": "6402092007",
+    "name": "Teluk Muda",
+    "poscode": "75564",
+    "provinsi": {
+        "code": "64",
+        "name": "Kalimantan Timur"
+    },
+    "kabupaten": {
+        "code": "6402",
+        "name": "Kutai Kartanegara"
+    },
+    "kecamatan": {
+        "code": "640209",
+        "name": "Kenohan"
+    }
+}

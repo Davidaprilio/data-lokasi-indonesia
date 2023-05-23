@@ -1,0 +1,17 @@
+{
+    "code": "7403242002",
+    "name": "Kawite Wite",
+    "poscode": "93661",
+    "provinsi": {
+        "code": "74",
+        "name": "Sulawesi Tenggara"
+    },
+    "kabupaten": {
+        "code": "7403",
+        "name": "Muna"
+    },
+    "kecamatan": {
+        "code": "740324",
+        "name": "Kabawo"
+    }
+}

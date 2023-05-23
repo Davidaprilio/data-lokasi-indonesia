@@ -1,0 +1,17 @@
+{
+    "code": "7201092001",
+    "name": "Cendana Pura (Cendanapura)",
+    "poscode": "94764",
+    "provinsi": {
+        "code": "72",
+        "name": "Sulawesi Tengah"
+    },
+    "kabupaten": {
+        "code": "7201",
+        "name": "Banggai"
+    },
+    "kecamatan": {
+        "code": "720109",
+        "name": "Toili"
+    }
+}

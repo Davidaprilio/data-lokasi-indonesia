@@ -1,0 +1,17 @@
+{
+    "code": "1107252015",
+    "name": "Sukon",
+    "poscode": "24150",
+    "provinsi": {
+        "code": "11",
+        "name": "Aceh (NAD)"
+    },
+    "kabupaten": {
+        "code": "1107",
+        "name": "Pidie"
+    },
+    "kecamatan": {
+        "code": "110725",
+        "name": "Grong Grong"
+    }
+}

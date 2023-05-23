@@ -1,0 +1,17 @@
+{
+    "code": "3507212003",
+    "name": "Sitirejo",
+    "poscode": "65158",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3507",
+        "name": "Malang"
+    },
+    "kecamatan": {
+        "code": "350721",
+        "name": "Wagir"
+    }
+}

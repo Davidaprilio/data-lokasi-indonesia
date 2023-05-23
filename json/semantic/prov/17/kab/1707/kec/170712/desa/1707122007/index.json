@@ -1,0 +1,17 @@
+{
+    "code": "1707122007",
+    "name": "Sebelat",
+    "poscode": "39269",
+    "provinsi": {
+        "code": "17",
+        "name": "Bengkulu"
+    },
+    "kabupaten": {
+        "code": "1707",
+        "name": "Lebong"
+    },
+    "kecamatan": {
+        "code": "170712",
+        "name": "Pinang Belapis"
+    }
+}

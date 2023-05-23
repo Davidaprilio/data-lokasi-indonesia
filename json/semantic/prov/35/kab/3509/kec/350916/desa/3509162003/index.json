@@ -1,0 +1,17 @@
+{
+    "code": "3509162003",
+    "name": "Jenggawah",
+    "poscode": "68171",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3509",
+        "name": "Jember"
+    },
+    "kecamatan": {
+        "code": "350916",
+        "name": "Jenggawah"
+    }
+}

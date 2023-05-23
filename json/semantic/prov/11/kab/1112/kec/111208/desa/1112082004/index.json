@@ -1,0 +1,17 @@
+{
+    "code": "1112082004",
+    "name": "Alue Sungai Pinang",
+    "poscode": "23769",
+    "provinsi": {
+        "code": "11",
+        "name": "Aceh (NAD)"
+    },
+    "kabupaten": {
+        "code": "1112",
+        "name": "Aceh Barat Daya"
+    },
+    "kecamatan": {
+        "code": "111208",
+        "name": "Jeumpa"
+    }
+}

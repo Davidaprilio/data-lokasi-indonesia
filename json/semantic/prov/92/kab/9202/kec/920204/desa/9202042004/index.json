@@ -1,0 +1,17 @@
+{
+    "code": "9202042004",
+    "name": "Aimasi",
+    "poscode": "98316",
+    "provinsi": {
+        "code": "92",
+        "name": "Papua Barat"
+    },
+    "kabupaten": {
+        "code": "9202",
+        "name": "Manokwari"
+    },
+    "kecamatan": {
+        "code": "920204",
+        "name": "Prafi"
+    }
+}

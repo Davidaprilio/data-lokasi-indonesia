@@ -1,0 +1,17 @@
+{
+    "code": "1801232007",
+    "name": "Banjarsari",
+    "poscode": "35456",
+    "provinsi": {
+        "code": "18",
+        "name": "Lampung"
+    },
+    "kabupaten": {
+        "code": "1801",
+        "name": "Lampung Selatan"
+    },
+    "kecamatan": {
+        "code": "180123",
+        "name": "Way Sulan"
+    }
+}

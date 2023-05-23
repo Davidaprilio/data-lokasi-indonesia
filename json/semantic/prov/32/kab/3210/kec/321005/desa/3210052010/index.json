@@ -1,0 +1,17 @@
+{
+    "code": "3210052010",
+    "name": "Cikaracak",
+    "poscode": "45462",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3210",
+        "name": "Majalengka"
+    },
+    "kecamatan": {
+        "code": "321005",
+        "name": "Argapura"
+    }
+}

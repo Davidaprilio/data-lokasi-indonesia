@@ -1,0 +1,17 @@
+{
+    "code": "1406102001",
+    "name": "Pasir Agung",
+    "poscode": "28557",
+    "provinsi": {
+        "code": "14",
+        "name": "Riau"
+    },
+    "kabupaten": {
+        "code": "1406",
+        "name": "Rokan Hulu"
+    },
+    "kecamatan": {
+        "code": "140610",
+        "name": "Bangun Purba"
+    }
+}

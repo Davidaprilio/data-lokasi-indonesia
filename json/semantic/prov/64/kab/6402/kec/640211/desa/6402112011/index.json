@@ -1,0 +1,17 @@
+{
+    "code": "6402112011",
+    "name": "Menamang Kanan",
+    "poscode": "75553",
+    "provinsi": {
+        "code": "64",
+        "name": "Kalimantan Timur"
+    },
+    "kabupaten": {
+        "code": "6402",
+        "name": "Kutai Kartanegara"
+    },
+    "kecamatan": {
+        "code": "640211",
+        "name": "Muara Kaman"
+    }
+}

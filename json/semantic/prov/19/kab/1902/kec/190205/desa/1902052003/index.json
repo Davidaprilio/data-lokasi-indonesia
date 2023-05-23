@@ -1,0 +1,17 @@
+{
+    "code": "1902052003",
+    "name": "Sungai Samak",
+    "poscode": "33451",
+    "provinsi": {
+        "code": "19",
+        "name": "Kepulauan Bangka Belitung"
+    },
+    "kabupaten": {
+        "code": "1902",
+        "name": "Belitung"
+    },
+    "kecamatan": {
+        "code": "190205",
+        "name": "Badau"
+    }
+}

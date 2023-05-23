@@ -1,0 +1,17 @@
+{
+    "code": "1213082024",
+    "name": "Singengu Julu",
+    "poscode": "22994",
+    "provinsi": {
+        "code": "12",
+        "name": "Sumatera Utara"
+    },
+    "kabupaten": {
+        "code": "1213",
+        "name": "Mandailing Natal"
+    },
+    "kecamatan": {
+        "code": "121308",
+        "name": "Kotanopan"
+    }
+}

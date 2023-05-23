@@ -1,0 +1,17 @@
+{
+    "code": "5311011002",
+    "name": "Hambala",
+    "poscode": "87112",
+    "provinsi": {
+        "code": "53",
+        "name": "Nusa Tenggara Timur (NTT)"
+    },
+    "kabupaten": {
+        "code": "5311",
+        "name": "Sumba Timur"
+    },
+    "kecamatan": {
+        "code": "531101",
+        "name": "Kota Waingapu"
+    }
+}

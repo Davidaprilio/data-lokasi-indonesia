@@ -1,0 +1,17 @@
+{
+    "code": "3211252009",
+    "name": "Cibuluh",
+    "poscode": "45383",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3211",
+        "name": "Sumedang"
+    },
+    "kecamatan": {
+        "code": "321125",
+        "name": "Ujungjaya"
+    }
+}

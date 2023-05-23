@@ -1,0 +1,17 @@
+{
+    "code": "3603142006",
+    "name": "Rawa Burung",
+    "poscode": "15215",
+    "provinsi": {
+        "code": "36",
+        "name": "Banten"
+    },
+    "kabupaten": {
+        "code": "3603",
+        "name": "Tangerang"
+    },
+    "kecamatan": {
+        "code": "360314",
+        "name": "Kosambi"
+    }
+}

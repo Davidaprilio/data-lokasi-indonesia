@@ -1,0 +1,17 @@
+{
+    "code": "7316092002",
+    "name": "Bonto",
+    "poscode": "91751",
+    "provinsi": {
+        "code": "73",
+        "name": "Sulawesi Selatan"
+    },
+    "kabupaten": {
+        "code": "7316",
+        "name": "Enrekang"
+    },
+    "kecamatan": {
+        "code": "731609",
+        "name": "Malua"
+    }
+}

@@ -1,0 +1,65 @@
+[
+    {
+        "code": "177102",
+        "name": "Gading Cempaka",
+        "count": {
+            "desa": 5
+        }
+    },
+    {
+        "code": "177105",
+        "name": "Kampung Melayu",
+        "count": {
+            "desa": 6
+        }
+    },
+    {
+        "code": "177104",
+        "name": "Muara Bangka Hulu",
+        "count": {
+            "desa": 7
+        }
+    },
+    {
+        "code": "177106",
+        "name": "Ratu Agung",
+        "count": {
+            "desa": 8
+        }
+    },
+    {
+        "code": "177107",
+        "name": "Ratu Samban",
+        "count": {
+            "desa": 9
+        }
+    },
+    {
+        "code": "177101",
+        "name": "Selebar",
+        "count": {
+            "desa": 6
+        }
+    },
+    {
+        "code": "177109",
+        "name": "Singaran Pati",
+        "count": {
+            "desa": 6
+        }
+    },
+    {
+        "code": "177108",
+        "name": "Sungai Serut",
+        "count": {
+            "desa": 7
+        }
+    },
+    {
+        "code": "177103",
+        "name": "Teluk Segara",
+        "count": {
+            "desa": 13
+        }
+    }
+]

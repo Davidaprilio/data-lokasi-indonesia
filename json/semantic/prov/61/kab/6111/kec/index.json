@@ -1,0 +1,44 @@
+[
+    {
+        "code": "611106",
+        "name": "Kepulauan Karimata",
+        "count": {
+            "desa": 3
+        }
+    },
+    {
+        "code": "611104",
+        "name": "Pulau Maya (Pulau Maya Karimata)",
+        "count": {
+            "desa": 5
+        }
+    },
+    {
+        "code": "611105",
+        "name": "Seponti",
+        "count": {
+            "desa": 6
+        }
+    },
+    {
+        "code": "611102",
+        "name": "Simpang Hilir",
+        "count": {
+            "desa": 12
+        }
+    },
+    {
+        "code": "611101",
+        "name": "Sukadana",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "611103",
+        "name": "Teluk Batang",
+        "count": {
+            "desa": 7
+        }
+    }
+]

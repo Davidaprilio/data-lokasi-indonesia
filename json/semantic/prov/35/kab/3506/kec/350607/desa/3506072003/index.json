@@ -1,0 +1,17 @@
+{
+    "code": "3506072003",
+    "name": "Margourip",
+    "poscode": "64291",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3506",
+        "name": "Kediri"
+    },
+    "kecamatan": {
+        "code": "350607",
+        "name": "Ngancar"
+    }
+}

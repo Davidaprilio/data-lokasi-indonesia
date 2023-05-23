@@ -1,0 +1,17 @@
+{
+    "code": "5321112002",
+    "name": "Babulu Selatan",
+    "poscode": "85766",
+    "provinsi": {
+        "code": "53",
+        "name": "Nusa Tenggara Timur (NTT)"
+    },
+    "kabupaten": {
+        "code": "5321",
+        "name": "Malaka"
+    },
+    "kecamatan": {
+        "code": "532111",
+        "name": "Kobalima"
+    }
+}

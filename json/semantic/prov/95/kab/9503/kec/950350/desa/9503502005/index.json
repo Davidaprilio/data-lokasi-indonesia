@@ -1,0 +1,17 @@
+{
+    "code": "9503502005",
+    "name": "Dengat",
+    "poscode": "99753",
+    "provinsi": {
+        "code": "95",
+        "name": "Papua Pegunungan"
+    },
+    "kabupaten": {
+        "code": "9503",
+        "name": "Yahukimo"
+    },
+    "kecamatan": {
+        "code": "950350",
+        "name": "Duram"
+    }
+}

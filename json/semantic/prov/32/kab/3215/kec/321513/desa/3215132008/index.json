@@ -1,0 +1,17 @@
+{
+    "code": "3215132008",
+    "name": "Cikampek Barat",
+    "poscode": "41373",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3215",
+        "name": "Karawang"
+    },
+    "kecamatan": {
+        "code": "321513",
+        "name": "Cikampek"
+    }
+}

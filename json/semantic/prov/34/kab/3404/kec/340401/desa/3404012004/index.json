@@ -1,0 +1,17 @@
+{
+    "code": "3404012004",
+    "name": "Nogotirto",
+    "poscode": "55592",
+    "provinsi": {
+        "code": "34",
+        "name": "DI Yogyakarta"
+    },
+    "kabupaten": {
+        "code": "3404",
+        "name": "Sleman"
+    },
+    "kecamatan": {
+        "code": "340401",
+        "name": "Gamping"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "3507072009",
+    "name": "Ngebruk",
+    "poscode": "65157",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3507",
+        "name": "Malang"
+    },
+    "kecamatan": {
+        "code": "350707",
+        "name": "Poncokusumo"
+    }
+}

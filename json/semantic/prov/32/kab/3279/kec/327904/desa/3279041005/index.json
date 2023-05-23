@@ -1,0 +1,17 @@
+{
+    "code": "3279041005",
+    "name": "Bojongkantong",
+    "poscode": "46325",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3279",
+        "name": "Banjar"
+    },
+    "kecamatan": {
+        "code": "327904",
+        "name": "Langensari"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "3327042004",
+    "name": "Cikadu",
+    "poscode": "52357",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3327",
+        "name": "Pemalang"
+    },
+    "kecamatan": {
+        "code": "332704",
+        "name": "Watukumpul"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "7209082011",
+    "name": "Podi",
+    "poscode": "94681",
+    "provinsi": {
+        "code": "72",
+        "name": "Sulawesi Tengah"
+    },
+    "kabupaten": {
+        "code": "7209",
+        "name": "Tojo Una Una"
+    },
+    "kecamatan": {
+        "code": "720908",
+        "name": "Tojo"
+    }
+}

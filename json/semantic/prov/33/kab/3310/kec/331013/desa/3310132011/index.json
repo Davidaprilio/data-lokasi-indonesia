@@ -1,0 +1,17 @@
+{
+    "code": "3310132011",
+    "name": "Sentono",
+    "poscode": "57464",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3310",
+        "name": "Klaten"
+    },
+    "kecamatan": {
+        "code": "331013",
+        "name": "Karangdowo"
+    }
+}

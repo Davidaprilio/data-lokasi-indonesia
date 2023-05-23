@@ -1,0 +1,17 @@
+{
+    "code": "3376021002",
+    "name": "Slerok",
+    "poscode": "52125",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3376",
+        "name": "Tegal"
+    },
+    "kecamatan": {
+        "code": "337602",
+        "name": "Tegal Timur"
+    }
+}

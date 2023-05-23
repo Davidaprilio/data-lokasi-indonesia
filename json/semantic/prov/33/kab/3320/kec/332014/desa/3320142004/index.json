@@ -1,0 +1,17 @@
+{
+    "code": "3320142004",
+    "name": "Cepogo",
+    "poscode": "59457",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3320",
+        "name": "Jepara"
+    },
+    "kecamatan": {
+        "code": "332014",
+        "name": "Kembang"
+    }
+}

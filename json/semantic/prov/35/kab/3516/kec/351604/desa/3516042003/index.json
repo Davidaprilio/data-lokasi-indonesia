@@ -1,0 +1,17 @@
+{
+    "code": "3516042003",
+    "name": "Selotapak",
+    "poscode": "61375",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3516",
+        "name": "Mojokerto"
+    },
+    "kecamatan": {
+        "code": "351604",
+        "name": "Trawas"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "7103112001",
+    "name": "Kalama",
+    "poscode": "95851",
+    "provinsi": {
+        "code": "71",
+        "name": "Sulawesi Utara"
+    },
+    "kabupaten": {
+        "code": "7103",
+        "name": "Kepulauan Sangihe"
+    },
+    "kecamatan": {
+        "code": "710311",
+        "name": "Tatoareng"
+    }
+}

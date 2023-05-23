@@ -1,0 +1,17 @@
+{
+    "code": "3514212001",
+    "name": "Sanganom (Sang Anom)",
+    "poscode": "67185",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3514",
+        "name": "Pasuruan"
+    },
+    "kecamatan": {
+        "code": "351421",
+        "name": "Nguling"
+    }
+}

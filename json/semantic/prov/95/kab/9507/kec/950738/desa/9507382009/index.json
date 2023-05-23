@@ -1,0 +1,17 @@
+{
+    "code": "9507382009",
+    "name": "Genena",
+    "poscode": "99574",
+    "provinsi": {
+        "code": "95",
+        "name": "Papua Pegunungan"
+    },
+    "kabupaten": {
+        "code": "9507",
+        "name": "Lanny Jaya"
+    },
+    "kecamatan": {
+        "code": "950738",
+        "name": "Buguk Gona"
+    }
+}

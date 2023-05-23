@@ -1,0 +1,17 @@
+{
+    "code": "3313122009",
+    "name": "Tohudan",
+    "poscode": "57173",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3313",
+        "name": "Karanganyar"
+    },
+    "kecamatan": {
+        "code": "331312",
+        "name": "Colomadu"
+    }
+}

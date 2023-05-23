@@ -1,0 +1,17 @@
+{
+    "code": "3303062006",
+    "name": "Kalimanah Kulon",
+    "poscode": "53371",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3303",
+        "name": "Purbalingga"
+    },
+    "kecamatan": {
+        "code": "330306",
+        "name": "Kalimanah"
+    }
+}

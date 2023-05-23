@@ -1,0 +1,17 @@
+{
+    "code": "7111022019",
+    "name": "Molosipat",
+    "poscode": "95774",
+    "provinsi": {
+        "code": "71",
+        "name": "Sulawesi Utara"
+    },
+    "kabupaten": {
+        "code": "7111",
+        "name": "Bolaang Mongondow Selatan"
+    },
+    "kecamatan": {
+        "code": "711102",
+        "name": "Posigadan"
+    }
+}

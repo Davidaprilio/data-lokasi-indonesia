@@ -1,0 +1,10 @@
+{
+    "code": "3304",
+    "type": "Kabupaten",
+    "name": "Banjarnegara",
+    "fullname": "Kabupaten Banjarnegara",
+    "jumlah": {
+        "kecamatan": 20,
+        "desa": 278
+    }
+}

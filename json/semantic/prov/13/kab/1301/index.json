@@ -1,0 +1,10 @@
+{
+    "code": "1301",
+    "type": "Kabupaten",
+    "name": "Pesisir Selatan",
+    "fullname": "Kabupaten Pesisir Selatan",
+    "jumlah": {
+        "kecamatan": 15,
+        "desa": 182
+    }
+}

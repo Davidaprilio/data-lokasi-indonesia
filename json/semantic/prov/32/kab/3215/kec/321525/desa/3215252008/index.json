@@ -1,0 +1,17 @@
+{
+    "code": "3215252008",
+    "name": "Sarimulya",
+    "poscode": "41376",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3215",
+        "name": "Karawang"
+    },
+    "kecamatan": {
+        "code": "321525",
+        "name": "Kota Baru (Kotabaru)"
+    }
+}

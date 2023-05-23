@@ -1,0 +1,17 @@
+{
+    "code": "1110042005",
+    "name": "Kuta Simboling (Kota Simboling)",
+    "poscode": "24785",
+    "provinsi": {
+        "code": "11",
+        "name": "Aceh (NAD)"
+    },
+    "kabupaten": {
+        "code": "1110",
+        "name": "Aceh Singkil"
+    },
+    "kecamatan": {
+        "code": "111004",
+        "name": "Singkil"
+    }
+}

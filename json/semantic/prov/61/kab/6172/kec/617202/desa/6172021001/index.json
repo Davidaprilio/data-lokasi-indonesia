@@ -1,0 +1,17 @@
+{
+    "code": "6172021001",
+    "name": "Pasiran",
+    "poscode": "79123",
+    "provinsi": {
+        "code": "61",
+        "name": "Kalimantan Barat"
+    },
+    "kabupaten": {
+        "code": "6172",
+        "name": "Singkawang"
+    },
+    "kecamatan": {
+        "code": "617202",
+        "name": "Singkawang Barat"
+    }
+}

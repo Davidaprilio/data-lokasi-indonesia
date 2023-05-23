@@ -1,0 +1,10 @@
+{
+    "code": "6303",
+    "type": "Kabupaten",
+    "name": "Banjar",
+    "fullname": "Kabupaten Banjar",
+    "jumlah": {
+        "kecamatan": 20,
+        "desa": 290
+    }
+}

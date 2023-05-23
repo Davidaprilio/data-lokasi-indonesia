@@ -1,0 +1,17 @@
+{
+    "code": "1813072003",
+    "name": "Banjar Agung",
+    "poscode": "34898",
+    "provinsi": {
+        "code": "18",
+        "name": "Lampung"
+    },
+    "kabupaten": {
+        "code": "1813",
+        "name": "Pesisir Barat"
+    },
+    "kecamatan": {
+        "code": "181307",
+        "name": "Way Krui"
+    }
+}

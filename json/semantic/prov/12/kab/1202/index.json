@@ -1,0 +1,10 @@
+{
+    "code": "1202",
+    "type": "Kabupaten",
+    "name": "Tapanuli Utara",
+    "fullname": "Kabupaten Tapanuli Utara",
+    "jumlah": {
+        "kecamatan": 15,
+        "desa": 252
+    }
+}

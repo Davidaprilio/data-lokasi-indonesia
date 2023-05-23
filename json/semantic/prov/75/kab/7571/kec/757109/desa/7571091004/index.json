@@ -1,0 +1,17 @@
+{
+    "code": "7571091004",
+    "name": "Donggala",
+    "poscode": "96116",
+    "provinsi": {
+        "code": "75",
+        "name": "Gorontalo"
+    },
+    "kabupaten": {
+        "code": "7571",
+        "name": "Gorontalo"
+    },
+    "kecamatan": {
+        "code": "757109",
+        "name": "Hulonthalangi"
+    }
+}

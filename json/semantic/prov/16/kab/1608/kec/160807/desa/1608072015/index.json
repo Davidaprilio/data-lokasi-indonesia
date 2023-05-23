@@ -1,0 +1,17 @@
+{
+    "code": "1608072015",
+    "name": "Jaya Bakti",
+    "poscode": "32362",
+    "provinsi": {
+        "code": "16",
+        "name": "Sumatera Selatan"
+    },
+    "kabupaten": {
+        "code": "1608",
+        "name": "Ogan Komering Ulu Timur"
+    },
+    "kecamatan": {
+        "code": "160807",
+        "name": "Madang Suku I"
+    }
+}

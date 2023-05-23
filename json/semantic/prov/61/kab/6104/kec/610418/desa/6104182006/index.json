@@ -1,0 +1,17 @@
+{
+    "code": "6104182006",
+    "name": "Suka Baru",
+    "poscode": "78822",
+    "provinsi": {
+        "code": "61",
+        "name": "Kalimantan Barat"
+    },
+    "kabupaten": {
+        "code": "6104",
+        "name": "Ketapang"
+    },
+    "kecamatan": {
+        "code": "610418",
+        "name": "Benua Kayong"
+    }
+}

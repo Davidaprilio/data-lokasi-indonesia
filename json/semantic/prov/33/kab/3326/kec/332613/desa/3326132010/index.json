@@ -1,0 +1,17 @@
+{
+    "code": "3326132010",
+    "name": "Podo",
+    "poscode": "51173",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3326",
+        "name": "Pekalongan"
+    },
+    "kecamatan": {
+        "code": "332613",
+        "name": "Kedungwuni"
+    }
+}

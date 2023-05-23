@@ -1,0 +1,17 @@
+{
+    "code": "1613022003",
+    "name": "Teladas",
+    "poscode": "31656",
+    "provinsi": {
+        "code": "16",
+        "name": "Sumatera Selatan"
+    },
+    "kabupaten": {
+        "code": "1613",
+        "name": "Musi Rawas Utara"
+    },
+    "kecamatan": {
+        "code": "161302",
+        "name": "Rawas Ulu"
+    }
+}

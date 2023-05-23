@@ -1,0 +1,17 @@
+{
+    "code": "9203102007",
+    "name": "Torea",
+    "poscode": "98013",
+    "provinsi": {
+        "code": "92",
+        "name": "Papua Barat"
+    },
+    "kabupaten": {
+        "code": "9203",
+        "name": "Fak Fak"
+    },
+    "kecamatan": {
+        "code": "920310",
+        "name": "Pariwari"
+    }
+}

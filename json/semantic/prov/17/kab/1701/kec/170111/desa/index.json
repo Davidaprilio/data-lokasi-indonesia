@@ -1,0 +1,47 @@
+[
+    {
+        "code": "1701112001",
+        "name": "Batu Kuning",
+        "poscode": "38518"
+    },
+    {
+        "code": "1701112002",
+        "name": "Batu Lambang",
+        "poscode": "38513"
+    },
+    {
+        "code": "1701111005",
+        "name": "Belakang Gedung",
+        "poscode": "38514"
+    },
+    {
+        "code": "1701111006",
+        "name": "Gunung Mesir",
+        "poscode": "38517"
+    },
+    {
+        "code": "1701111008",
+        "name": "Ketapang Besar",
+        "poscode": "38516"
+    },
+    {
+        "code": "1701111007",
+        "name": "Padang Sialang",
+        "poscode": "38517"
+    },
+    {
+        "code": "1701111009",
+        "name": "Pasar Bawah",
+        "poscode": "38515"
+    },
+    {
+        "code": "1701111004",
+        "name": "Pasar Mulia",
+        "poscode": "38518"
+    },
+    {
+        "code": "1701111003",
+        "name": "Tanjung Mulia",
+        "poscode": "38518"
+    }
+]

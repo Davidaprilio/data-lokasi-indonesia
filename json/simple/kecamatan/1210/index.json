@@ -1,0 +1,65 @@
+[
+    {
+        "code": "121007",
+        "name": "Bilah Barat",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "121008",
+        "name": "Bilah Hilir",
+        "count": {
+            "desa": 13
+        }
+    },
+    {
+        "code": "121009",
+        "name": "Bilah Hulu",
+        "count": {
+            "desa": 24
+        }
+    },
+    {
+        "code": "121019",
+        "name": "Panai Hilir",
+        "count": {
+            "desa": 8
+        }
+    },
+    {
+        "code": "121020",
+        "name": "Panai Hulu",
+        "count": {
+            "desa": 7
+        }
+    },
+    {
+        "code": "121018",
+        "name": "Panai Tengah",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "121014",
+        "name": "Pangkatan",
+        "count": {
+            "desa": 7
+        }
+    },
+    {
+        "code": "121002",
+        "name": "Rantau Selatan",
+        "count": {
+            "desa": 9
+        }
+    },
+    {
+        "code": "121001",
+        "name": "Rantau Utara",
+        "count": {
+            "desa": 10
+        }
+    }
+]

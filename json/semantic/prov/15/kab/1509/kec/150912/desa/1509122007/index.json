@@ -1,0 +1,17 @@
+{
+    "code": "1509122007",
+    "name": "Bangko Pintas",
+    "poscode": "37570",
+    "provinsi": {
+        "code": "15",
+        "name": "Jambi"
+    },
+    "kabupaten": {
+        "code": "1509",
+        "name": "Tebo"
+    },
+    "kecamatan": {
+        "code": "150912",
+        "name": "Muara Tabir"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "1307012003",
+    "name": "Tanjuang Bungo",
+    "poscode": "26255",
+    "provinsi": {
+        "code": "13",
+        "name": "Sumatera Barat"
+    },
+    "kabupaten": {
+        "code": "1307",
+        "name": "Lima Puluh Kota"
+    },
+    "kecamatan": {
+        "code": "130701",
+        "name": "Suliki"
+    }
+}

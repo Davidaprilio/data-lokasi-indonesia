@@ -1,0 +1,17 @@
+{
+    "code": "1606152005",
+    "name": "Talang Mandung",
+    "poscode": "30751",
+    "provinsi": {
+        "code": "16",
+        "name": "Sumatera Selatan"
+    },
+    "kabupaten": {
+        "code": "1606",
+        "name": "Musi Banyuasin"
+    },
+    "kecamatan": {
+        "code": "160615",
+        "name": "Jirak Jaya"
+    }
+}

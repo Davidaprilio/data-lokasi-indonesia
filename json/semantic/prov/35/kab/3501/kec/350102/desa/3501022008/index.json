@@ -1,0 +1,17 @@
+{
+    "code": "3501022008",
+    "name": "Pringkuku",
+    "poscode": "63552",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3501",
+        "name": "Pacitan"
+    },
+    "kecamatan": {
+        "code": "350102",
+        "name": "Pringkuku"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "7606022008",
+    "name": "Kombiling",
+    "poscode": "91462",
+    "provinsi": {
+        "code": "76",
+        "name": "Sulawesi Barat"
+    },
+    "kabupaten": {
+        "code": "7606",
+        "name": "Mamuju Tengah"
+    },
+    "kecamatan": {
+        "code": "760602",
+        "name": "Pangale"
+    }
+}

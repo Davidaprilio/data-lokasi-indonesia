@@ -1,0 +1,17 @@
+{
+    "code": "1608182004",
+    "name": "Tulus Ayu",
+    "poscode": "32363",
+    "provinsi": {
+        "code": "16",
+        "name": "Sumatera Selatan"
+    },
+    "kabupaten": {
+        "code": "1608",
+        "name": "Ogan Komering Ulu Timur"
+    },
+    "kecamatan": {
+        "code": "160818",
+        "name": "Belitang Madang Raya"
+    }
+}

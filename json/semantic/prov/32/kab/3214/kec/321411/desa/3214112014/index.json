@@ -1,0 +1,17 @@
+{
+    "code": "3214112014",
+    "name": "Pasanggrahan",
+    "poscode": "41164",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3214",
+        "name": "Purwakarta"
+    },
+    "kecamatan": {
+        "code": "321411",
+        "name": "Bojong"
+    }
+}

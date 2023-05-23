@@ -1,0 +1,17 @@
+{
+    "code": "1113112003",
+    "name": "Kenyaran",
+    "poscode": "24654",
+    "provinsi": {
+        "code": "11",
+        "name": "Aceh (NAD)"
+    },
+    "kabupaten": {
+        "code": "1113",
+        "name": "Gayo Lues"
+    },
+    "kecamatan": {
+        "code": "111311",
+        "name": "Pantan Cuaca"
+    }
+}

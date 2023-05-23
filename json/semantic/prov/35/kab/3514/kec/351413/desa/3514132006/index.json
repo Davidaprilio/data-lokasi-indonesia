@@ -1,0 +1,17 @@
+{
+    "code": "3514132006",
+    "name": "Gunung Gangsir",
+    "poscode": "67154",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3514",
+        "name": "Pasuruan"
+    },
+    "kecamatan": {
+        "code": "351413",
+        "name": "Beji"
+    }
+}

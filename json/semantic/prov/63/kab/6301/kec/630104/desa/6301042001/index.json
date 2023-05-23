@@ -1,0 +1,17 @@
+{
+    "code": "6301042001",
+    "name": "Sungai Bakau (Sei Bakau)",
+    "poscode": "70851",
+    "provinsi": {
+        "code": "63",
+        "name": "Kalimantan Selatan"
+    },
+    "kabupaten": {
+        "code": "6301",
+        "name": "Tanah Laut"
+    },
+    "kecamatan": {
+        "code": "630104",
+        "name": "Kurau"
+    }
+}

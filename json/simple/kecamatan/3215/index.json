@@ -1,0 +1,212 @@
+[
+    {
+        "code": "321524",
+        "name": "Banyusari",
+        "count": {
+            "desa": 12
+        }
+    },
+    {
+        "code": "321508",
+        "name": "Batujaya",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "321504",
+        "name": "Ciampel",
+        "count": {
+            "desa": 7
+        }
+    },
+    {
+        "code": "321511",
+        "name": "Cibuaya",
+        "count": {
+            "desa": 11
+        }
+    },
+    {
+        "code": "321513",
+        "name": "Cikampek",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "321523",
+        "name": "Cilamaya Kulon",
+        "count": {
+            "desa": 12
+        }
+    },
+    {
+        "code": "321515",
+        "name": "Cilamaya Wetan",
+        "count": {
+            "desa": 12
+        }
+    },
+    {
+        "code": "321530",
+        "name": "Cilebar",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "321514",
+        "name": "Jatisari",
+        "count": {
+            "desa": 14
+        }
+    },
+    {
+        "code": "321522",
+        "name": "Jayakerta",
+        "count": {
+            "desa": 8
+        }
+    },
+    {
+        "code": "321501",
+        "name": "Karawang Barat",
+        "count": {
+            "desa": 8
+        }
+    },
+    {
+        "code": "321526",
+        "name": "Karawang Timur",
+        "count": {
+            "desa": 8
+        }
+    },
+    {
+        "code": "321505",
+        "name": "Klari",
+        "count": {
+            "desa": 13
+        }
+    },
+    {
+        "code": "321525",
+        "name": "Kota Baru (Kotabaru)",
+        "count": {
+            "desa": 9
+        }
+    },
+    {
+        "code": "321507",
+        "name": "Kutawaluya",
+        "count": {
+            "desa": 12
+        }
+    },
+    {
+        "code": "321519",
+        "name": "Lemahabang",
+        "count": {
+            "desa": 11
+        }
+    },
+    {
+        "code": "321521",
+        "name": "Majalaya",
+        "count": {
+            "desa": 7
+        }
+    },
+    {
+        "code": "321512",
+        "name": "Pakisjaya",
+        "count": {
+            "desa": 8
+        }
+    },
+    {
+        "code": "321502",
+        "name": "Pangkalan",
+        "count": {
+            "desa": 8
+        }
+    },
+    {
+        "code": "321510",
+        "name": "Pedes",
+        "count": {
+            "desa": 12
+        }
+    },
+    {
+        "code": "321529",
+        "name": "Purwasari",
+        "count": {
+            "desa": 8
+        }
+    },
+    {
+        "code": "321518",
+        "name": "Rawamerta",
+        "count": {
+            "desa": 13
+        }
+    },
+    {
+        "code": "321506",
+        "name": "Rengasdengklok",
+        "count": {
+            "desa": 9
+        }
+    },
+    {
+        "code": "321528",
+        "name": "Tegalwaru",
+        "count": {
+            "desa": 9
+        }
+    },
+    {
+        "code": "321517",
+        "name": "Telagasari (Talagasari)",
+        "count": {
+            "desa": 14
+        }
+    },
+    {
+        "code": "321527",
+        "name": "Telukjambe Barat",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "321503",
+        "name": "Telukjambe Timur",
+        "count": {
+            "desa": 9
+        }
+    },
+    {
+        "code": "321520",
+        "name": "Tempuran",
+        "count": {
+            "desa": 14
+        }
+    },
+    {
+        "code": "321509",
+        "name": "Tirtajaya",
+        "count": {
+            "desa": 11
+        }
+    },
+    {
+        "code": "321516",
+        "name": "Tirtamulya",
+        "count": {
+            "desa": 10
+        }
+    }
+]

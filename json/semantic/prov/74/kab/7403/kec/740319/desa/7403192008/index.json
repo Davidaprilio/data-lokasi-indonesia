@@ -1,0 +1,17 @@
+{
+    "code": "7403192008",
+    "name": "Labaha",
+    "poscode": "93624",
+    "provinsi": {
+        "code": "74",
+        "name": "Sulawesi Tenggara"
+    },
+    "kabupaten": {
+        "code": "7403",
+        "name": "Muna"
+    },
+    "kecamatan": {
+        "code": "740319",
+        "name": "Watopute"
+    }
+}

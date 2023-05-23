@@ -1,0 +1,17 @@
+{
+    "code": "1903042002",
+    "name": "Gudang",
+    "poscode": "33777",
+    "provinsi": {
+        "code": "19",
+        "name": "Kepulauan Bangka Belitung"
+    },
+    "kabupaten": {
+        "code": "1903",
+        "name": "Bangka Selatan"
+    },
+    "kecamatan": {
+        "code": "190304",
+        "name": "Simpang Rimba"
+    }
+}

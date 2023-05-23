@@ -1,0 +1,17 @@
+{
+    "code": "3301112004",
+    "name": "Kunci",
+    "poscode": "53261",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3301",
+        "name": "Cilacap"
+    },
+    "kecamatan": {
+        "code": "330111",
+        "name": "Sidareja"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "5107052003",
+    "name": "Bunutan",
+    "poscode": "80852",
+    "provinsi": {
+        "code": "51",
+        "name": "Bali"
+    },
+    "kabupaten": {
+        "code": "5107",
+        "name": "Karangasem"
+    },
+    "kecamatan": {
+        "code": "510705",
+        "name": "Abang"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "3175101007",
+    "name": "Lubang Buaya",
+    "poscode": "13810",
+    "provinsi": {
+        "code": "31",
+        "name": "DKI Jakarta"
+    },
+    "kabupaten": {
+        "code": "3175",
+        "name": "Jakarta Timur"
+    },
+    "kecamatan": {
+        "code": "317510",
+        "name": "Cipayung"
+    }
+}

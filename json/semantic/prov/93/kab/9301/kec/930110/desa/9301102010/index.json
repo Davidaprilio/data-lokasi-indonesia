@@ -1,0 +1,17 @@
+{
+    "code": "9301102010",
+    "name": "Bunggay",
+    "poscode": "99633",
+    "provinsi": {
+        "code": "93",
+        "name": "Papua Selatan"
+    },
+    "kabupaten": {
+        "code": "9301",
+        "name": "Merauke"
+    },
+    "kecamatan": {
+        "code": "930110",
+        "name": "Elikobal"
+    }
+}

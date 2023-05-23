@@ -1,0 +1,17 @@
+{
+    "code": "3215292002",
+    "name": "Tegalsari",
+    "poscode": "41377",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3215",
+        "name": "Karawang"
+    },
+    "kecamatan": {
+        "code": "321529",
+        "name": "Purwasari"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "1604252010",
+    "name": "Trans SP II Padang Muaradua",
+    "poscode": "31461",
+    "provinsi": {
+        "code": "16",
+        "name": "Sumatera Selatan"
+    },
+    "kabupaten": {
+        "code": "1604",
+        "name": "Lahat"
+    },
+    "kecamatan": {
+        "code": "160425",
+        "name": "Gumay Ulu"
+    }
+}

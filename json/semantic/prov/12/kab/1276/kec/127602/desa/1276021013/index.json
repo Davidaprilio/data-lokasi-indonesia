@@ -1,0 +1,17 @@
+{
+    "code": "1276021013",
+    "name": "Mekar Sentosa",
+    "poscode": "20616",
+    "provinsi": {
+        "code": "12",
+        "name": "Sumatera Utara"
+    },
+    "kabupaten": {
+        "code": "1276",
+        "name": "Tebing Tinggi"
+    },
+    "kecamatan": {
+        "code": "127602",
+        "name": "Rambutan"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "6202172001",
+    "name": "Tumbang Boloi",
+    "poscode": "74352",
+    "provinsi": {
+        "code": "62",
+        "name": "Kalimantan Tengah"
+    },
+    "kabupaten": {
+        "code": "6202",
+        "name": "Kotawaringin Timur"
+    },
+    "kecamatan": {
+        "code": "620217",
+        "name": "Telaga Antang"
+    }
+}

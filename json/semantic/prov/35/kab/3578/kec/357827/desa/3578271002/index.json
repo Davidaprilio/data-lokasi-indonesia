@@ -1,0 +1,17 @@
+{
+    "code": "3578271002",
+    "name": "Tanjungsari",
+    "poscode": "60187",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3578",
+        "name": "Surabaya"
+    },
+    "kecamatan": {
+        "code": "357827",
+        "name": "Sukomanunggal"
+    }
+}

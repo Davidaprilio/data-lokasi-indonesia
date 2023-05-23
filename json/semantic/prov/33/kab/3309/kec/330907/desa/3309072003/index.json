@@ -1,0 +1,17 @@
+{
+    "code": "3309072003",
+    "name": "Kadireso",
+    "poscode": "57372",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3309",
+        "name": "Boyolali"
+    },
+    "kecamatan": {
+        "code": "330907",
+        "name": "Teras"
+    }
+}

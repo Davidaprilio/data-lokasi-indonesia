@@ -1,0 +1,17 @@
+{
+    "code": "9302032013",
+    "name": "Upkim",
+    "poscode": "99684",
+    "provinsi": {
+        "code": "93",
+        "name": "Papua Selatan"
+    },
+    "kabupaten": {
+        "code": "9302",
+        "name": "Boven Digoel"
+    },
+    "kecamatan": {
+        "code": "930203",
+        "name": "Waropko"
+    }
+}

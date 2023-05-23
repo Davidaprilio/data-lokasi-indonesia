@@ -1,0 +1,17 @@
+{
+    "code": "1304052003",
+    "name": "Koto Tangah",
+    "poscode": "27280",
+    "provinsi": {
+        "code": "13",
+        "name": "Sumatera Barat"
+    },
+    "kabupaten": {
+        "code": "1304",
+        "name": "Tanah Datar"
+    },
+    "kecamatan": {
+        "code": "130405",
+        "name": "Tanjung Emas"
+    }
+}

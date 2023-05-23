@@ -1,0 +1,17 @@
+{
+    "code": "7205052002",
+    "name": "Mulangato",
+    "poscode": "94569",
+    "provinsi": {
+        "code": "72",
+        "name": "Sulawesi Tengah"
+    },
+    "kabupaten": {
+        "code": "7205",
+        "name": "Buol"
+    },
+    "kecamatan": {
+        "code": "720505",
+        "name": "Paleleh"
+    }
+}

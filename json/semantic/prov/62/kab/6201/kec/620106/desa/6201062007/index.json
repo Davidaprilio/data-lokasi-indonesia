@@ -1,0 +1,17 @@
+{
+    "code": "6201062007",
+    "name": "Amin Jaya",
+    "poscode": "74183",
+    "provinsi": {
+        "code": "62",
+        "name": "Kalimantan Tengah"
+    },
+    "kabupaten": {
+        "code": "6201",
+        "name": "Kotawaringin Barat"
+    },
+    "kecamatan": {
+        "code": "620106",
+        "name": "Pangkalan Banteng"
+    }
+}

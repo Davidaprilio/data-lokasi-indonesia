@@ -1,0 +1,17 @@
+{
+    "code": "3514192015",
+    "name": "Winongan Kidul",
+    "poscode": "67182",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3514",
+        "name": "Pasuruan"
+    },
+    "kecamatan": {
+        "code": "351419",
+        "name": "Winongan"
+    }
+}

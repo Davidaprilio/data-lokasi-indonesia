@@ -1,0 +1,17 @@
+{
+    "code": "2104112005",
+    "name": "Pulau Medang",
+    "poscode": "29873",
+    "provinsi": {
+        "code": "21",
+        "name": "Kepulauan Riau"
+    },
+    "kabupaten": {
+        "code": "2104",
+        "name": "Lingga"
+    },
+    "kecamatan": {
+        "code": "210411",
+        "name": "Katang Bidare"
+    }
+}

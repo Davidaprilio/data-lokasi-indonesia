@@ -1,0 +1,17 @@
+{
+    "code": "1174022017",
+    "name": "Kuala Langsa",
+    "poscode": "24410",
+    "provinsi": {
+        "code": "11",
+        "name": "Aceh (NAD)"
+    },
+    "kabupaten": {
+        "code": "1174",
+        "name": "Langsa"
+    },
+    "kecamatan": {
+        "code": "117402",
+        "name": "Langsa Barat"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "1271021002",
+    "name": "Sei Sikambing B",
+    "poscode": "20122",
+    "provinsi": {
+        "code": "12",
+        "name": "Sumatera Utara"
+    },
+    "kabupaten": {
+        "code": "1271",
+        "name": "Medan"
+    },
+    "kecamatan": {
+        "code": "127102",
+        "name": "Medan Sunggal"
+    }
+}

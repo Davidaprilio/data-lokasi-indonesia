@@ -1,0 +1,17 @@
+{
+    "code": "7603112002",
+    "name": "Masoso",
+    "poscode": "91371",
+    "provinsi": {
+        "code": "76",
+        "name": "Sulawesi Barat"
+    },
+    "kabupaten": {
+        "code": "7603",
+        "name": "Mamasa"
+    },
+    "kecamatan": {
+        "code": "760311",
+        "name": "Bambang"
+    }
+}

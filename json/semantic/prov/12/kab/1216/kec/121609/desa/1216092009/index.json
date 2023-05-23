@@ -1,0 +1,17 @@
+{
+    "code": "1216092009",
+    "name": "Sipagabu",
+    "poscode": "22455",
+    "provinsi": {
+        "code": "12",
+        "name": "Sumatera Utara"
+    },
+    "kabupaten": {
+        "code": "1216",
+        "name": "Humbang Hasundutan"
+    },
+    "kecamatan": {
+        "code": "121609",
+        "name": "Pakkat"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "9106012009",
+    "name": "Mokmer",
+    "poscode": "98528",
+    "provinsi": {
+        "code": "91",
+        "name": "Papua"
+    },
+    "kabupaten": {
+        "code": "9106",
+        "name": "Biak Numfor"
+    },
+    "kecamatan": {
+        "code": "910601",
+        "name": "Biak Kota"
+    }
+}

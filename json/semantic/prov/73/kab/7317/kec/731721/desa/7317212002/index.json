@@ -1,0 +1,17 @@
+{
+    "code": "7317212002",
+    "name": "Bakti",
+    "poscode": "91989",
+    "provinsi": {
+        "code": "73",
+        "name": "Sulawesi Selatan"
+    },
+    "kabupaten": {
+        "code": "7317",
+        "name": "Luwu"
+    },
+    "kecamatan": {
+        "code": "731721",
+        "name": "Ponrang Selatan"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "1105082003",
+    "name": "Babah Iseung",
+    "poscode": "23680",
+    "provinsi": {
+        "code": "11",
+        "name": "Aceh (NAD)"
+    },
+    "kabupaten": {
+        "code": "1105",
+        "name": "Aceh Barat"
+    },
+    "kecamatan": {
+        "code": "110508",
+        "name": "Pante Ceureumen (Pantai Ceuremen)"
+    }
+}

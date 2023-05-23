@@ -1,0 +1,17 @@
+{
+    "code": "3207172010",
+    "name": "Cintajaya",
+    "poscode": "46385",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3207",
+        "name": "Ciamis"
+    },
+    "kecamatan": {
+        "code": "320717",
+        "name": "Lakbok"
+    }
+}

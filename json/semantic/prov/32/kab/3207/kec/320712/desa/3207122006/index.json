@@ -1,0 +1,17 @@
+{
+    "code": "3207122006",
+    "name": "Bayasari",
+    "poscode": "46273",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3207",
+        "name": "Ciamis"
+    },
+    "kecamatan": {
+        "code": "320712",
+        "name": "Jatinagara"
+    }
+}

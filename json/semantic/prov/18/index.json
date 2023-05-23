@@ -1,0 +1,10 @@
+{
+    "code": "18",
+    "name": "Lampung",
+    "jumlah": {
+        "kota": 2,
+        "kabupaten": 13,
+        "kecamatan": 229,
+        "desa": 2
+    }
+}

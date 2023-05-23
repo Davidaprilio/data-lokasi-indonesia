@@ -1,0 +1,17 @@
+{
+    "code": "1271171003",
+    "name": "Merdeka",
+    "poscode": "20154",
+    "provinsi": {
+        "code": "12",
+        "name": "Sumatera Utara"
+    },
+    "kabupaten": {
+        "code": "1271",
+        "name": "Medan"
+    },
+    "kecamatan": {
+        "code": "127117",
+        "name": "Medan Baru"
+    }
+}

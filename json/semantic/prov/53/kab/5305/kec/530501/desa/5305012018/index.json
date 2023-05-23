@@ -1,0 +1,17 @@
+{
+    "code": "5305012018",
+    "name": "Teluk Kenari",
+    "poscode": "85819",
+    "provinsi": {
+        "code": "53",
+        "name": "Nusa Tenggara Timur (NTT)"
+    },
+    "kabupaten": {
+        "code": "5305",
+        "name": "Alor"
+    },
+    "kecamatan": {
+        "code": "530501",
+        "name": "Teluk Mutiara"
+    }
+}

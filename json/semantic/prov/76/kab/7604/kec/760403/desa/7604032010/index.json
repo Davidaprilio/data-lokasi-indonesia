@@ -1,0 +1,17 @@
+{
+    "code": "7604032010",
+    "name": "Bumimulyo (Bumi Mulyo)",
+    "poscode": "91342",
+    "provinsi": {
+        "code": "76",
+        "name": "Sulawesi Barat"
+    },
+    "kabupaten": {
+        "code": "7604",
+        "name": "Polewali Mandar"
+    },
+    "kecamatan": {
+        "code": "760403",
+        "name": "Wonomulyo"
+    }
+}

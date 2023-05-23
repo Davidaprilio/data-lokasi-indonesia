@@ -1,0 +1,17 @@
+{
+    "code": "5202072007",
+    "name": "Durian",
+    "poscode": "83554",
+    "provinsi": {
+        "code": "52",
+        "name": "Nusa Tenggara Barat (NTB)"
+    },
+    "kabupaten": {
+        "code": "5202",
+        "name": "Lombok Tengah"
+    },
+    "kecamatan": {
+        "code": "520207",
+        "name": "Janapria"
+    }
+}

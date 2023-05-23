@@ -1,0 +1,10 @@
+{
+    "code": "3401",
+    "type": "Kabupaten",
+    "name": "Kulon Progo",
+    "fullname": "Kabupaten Kulon Progo",
+    "jumlah": {
+        "kecamatan": 12,
+        "desa": 88
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "1706052030",
+    "name": "Tirta Mulya",
+    "poscode": "38763",
+    "provinsi": {
+        "code": "17",
+        "name": "Bengkulu"
+    },
+    "kabupaten": {
+        "code": "1706",
+        "name": "Muko Muko"
+    },
+    "kecamatan": {
+        "code": "170605",
+        "name": "Ipuh (Muko Muko Selatan)"
+    }
+}

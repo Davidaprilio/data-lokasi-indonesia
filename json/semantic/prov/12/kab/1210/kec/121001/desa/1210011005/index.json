@@ -1,0 +1,17 @@
+{
+    "code": "1210011005",
+    "name": "Kartini",
+    "poscode": "21418",
+    "provinsi": {
+        "code": "12",
+        "name": "Sumatera Utara"
+    },
+    "kabupaten": {
+        "code": "1210",
+        "name": "Labuhanbatu"
+    },
+    "kecamatan": {
+        "code": "121001",
+        "name": "Rantau Utara"
+    }
+}

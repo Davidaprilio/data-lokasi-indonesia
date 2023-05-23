@@ -1,0 +1,17 @@
+{
+    "code": "1213092009",
+    "name": "Siantona (Sian Tona)",
+    "poscode": "22993",
+    "provinsi": {
+        "code": "12",
+        "name": "Sumatera Utara"
+    },
+    "kabupaten": {
+        "code": "1213",
+        "name": "Mandailing Natal"
+    },
+    "kecamatan": {
+        "code": "121309",
+        "name": "Lembah Sorik Marapi"
+    }
+}

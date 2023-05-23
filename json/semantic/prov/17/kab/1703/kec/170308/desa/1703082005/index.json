@@ -1,0 +1,17 @@
+{
+    "code": "1703082005",
+    "name": "Rena Jaya",
+    "poscode": "38655",
+    "provinsi": {
+        "code": "17",
+        "name": "Bengkulu"
+    },
+    "kabupaten": {
+        "code": "1703",
+        "name": "Bengkulu Utara"
+    },
+    "kecamatan": {
+        "code": "170308",
+        "name": "Giri Mulia (Giri Mulya)"
+    }
+}

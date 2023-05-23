@@ -1,0 +1,17 @@
+{
+    "code": "3604162006",
+    "name": "Barengkok",
+    "poscode": "42185",
+    "provinsi": {
+        "code": "36",
+        "name": "Banten"
+    },
+    "kabupaten": {
+        "code": "3604",
+        "name": "Serang"
+    },
+    "kecamatan": {
+        "code": "360416",
+        "name": "Kibin"
+    }
+}

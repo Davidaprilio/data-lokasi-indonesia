@@ -1,0 +1,10 @@
+{
+    "code": "7404",
+    "type": "Kabupaten",
+    "name": "Buton",
+    "fullname": "Kabupaten Buton",
+    "jumlah": {
+        "kecamatan": 7,
+        "desa": 95
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "3271011002",
+    "name": "Bondongan",
+    "poscode": "16131",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3271",
+        "name": "Bogor"
+    },
+    "kecamatan": {
+        "code": "327101",
+        "name": "Bogor Selatan"
+    }
+}

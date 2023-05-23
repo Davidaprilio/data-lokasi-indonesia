@@ -1,0 +1,17 @@
+{
+    "code": "3671111010",
+    "name": "Panunggangan Utara",
+    "poscode": "15143",
+    "provinsi": {
+        "code": "36",
+        "name": "Banten"
+    },
+    "kabupaten": {
+        "code": "3671",
+        "name": "Tangerang"
+    },
+    "kecamatan": {
+        "code": "367111",
+        "name": "Pinang (Penang)"
+    }
+}

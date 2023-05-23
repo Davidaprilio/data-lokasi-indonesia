@@ -1,0 +1,17 @@
+{
+    "code": "7210132010",
+    "name": "Kayumpia",
+    "poscode": "94362",
+    "provinsi": {
+        "code": "72",
+        "name": "Sulawesi Tengah"
+    },
+    "kabupaten": {
+        "code": "7210",
+        "name": "Sigi"
+    },
+    "kecamatan": {
+        "code": "721013",
+        "name": "Kinovaro"
+    }
+}

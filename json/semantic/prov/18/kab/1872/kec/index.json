@@ -1,0 +1,37 @@
+[
+    {
+        "code": "187203",
+        "name": "Metro Barat",
+        "count": {
+            "desa": 4
+        }
+    },
+    {
+        "code": "187201",
+        "name": "Metro Pusat",
+        "count": {
+            "desa": 5
+        }
+    },
+    {
+        "code": "187205",
+        "name": "Metro Selatan",
+        "count": {
+            "desa": 4
+        }
+    },
+    {
+        "code": "187204",
+        "name": "Metro Timur",
+        "count": {
+            "desa": 5
+        }
+    },
+    {
+        "code": "187202",
+        "name": "Metro Utara",
+        "count": {
+            "desa": 4
+        }
+    }
+]

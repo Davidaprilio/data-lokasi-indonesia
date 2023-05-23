@@ -1,0 +1,17 @@
+{
+    "code": "1224052010",
+    "name": "Orahili",
+    "poscode": "22816",
+    "provinsi": {
+        "code": "12",
+        "name": "Sumatera Utara"
+    },
+    "kabupaten": {
+        "code": "1224",
+        "name": "Nias Utara"
+    },
+    "kecamatan": {
+        "code": "122405",
+        "name": "Namohalu Esiwa"
+    }
+}

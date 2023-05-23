@@ -1,0 +1,17 @@
+{
+    "code": "6401092006",
+    "name": "Langgai",
+    "poscode": "76261",
+    "provinsi": {
+        "code": "64",
+        "name": "Kalimantan Timur"
+    },
+    "kabupaten": {
+        "code": "6401",
+        "name": "Paser"
+    },
+    "kecamatan": {
+        "code": "640109",
+        "name": "Batu Engau"
+    }
+}

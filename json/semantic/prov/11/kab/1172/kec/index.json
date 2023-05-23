@@ -1,0 +1,16 @@
+[
+    {
+        "code": "117202",
+        "name": "Sukajaya",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "117201",
+        "name": "Sukakarya",
+        "count": {
+            "desa": 8
+        }
+    }
+]

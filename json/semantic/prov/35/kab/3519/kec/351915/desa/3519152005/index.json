@@ -1,0 +1,17 @@
+{
+    "code": "3519152005",
+    "name": "Wonoasri",
+    "poscode": "63157",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3519",
+        "name": "Madiun"
+    },
+    "kecamatan": {
+        "code": "351915",
+        "name": "Wonoasri"
+    }
+}

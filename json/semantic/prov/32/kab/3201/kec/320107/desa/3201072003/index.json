@@ -1,0 +1,17 @@
+{
+    "code": "3201072003",
+    "name": "Mampir",
+    "poscode": "16820",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3201",
+        "name": "Bogor"
+    },
+    "kecamatan": {
+        "code": "320107",
+        "name": "Cileungsi"
+    }
+}

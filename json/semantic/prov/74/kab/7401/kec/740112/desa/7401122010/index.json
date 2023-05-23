@@ -1,0 +1,17 @@
+{
+    "code": "7401122010",
+    "name": "Ulu Baula",
+    "poscode": "93561",
+    "provinsi": {
+        "code": "74",
+        "name": "Sulawesi Tenggara"
+    },
+    "kabupaten": {
+        "code": "7401",
+        "name": "Kolaka"
+    },
+    "kecamatan": {
+        "code": "740112",
+        "name": "Baula"
+    }
+}

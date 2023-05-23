@@ -1,0 +1,17 @@
+{
+    "code": "3209372006",
+    "name": "Walahar",
+    "poscode": "45161",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3209",
+        "name": "Cirebon"
+    },
+    "kecamatan": {
+        "code": "320937",
+        "name": "Gempol"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "3204372019",
+    "name": "Cingcin",
+    "poscode": "40914",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3204",
+        "name": "Bandung"
+    },
+    "kecamatan": {
+        "code": "320437",
+        "name": "Soreang"
+    }
+}

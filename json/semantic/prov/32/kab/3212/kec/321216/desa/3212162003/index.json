@@ -1,0 +1,17 @@
+{
+    "code": "3212162003",
+    "name": "Panyindangan Wetan",
+    "poscode": "45225",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3212",
+        "name": "Indramayu"
+    },
+    "kecamatan": {
+        "code": "321216",
+        "name": "Sindang"
+    }
+}

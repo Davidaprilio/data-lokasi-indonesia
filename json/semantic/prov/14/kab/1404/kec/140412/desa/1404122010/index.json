@@ -1,0 +1,17 @@
+{
+    "code": "1404122010",
+    "name": "Jerambang",
+    "poscode": "29282",
+    "provinsi": {
+        "code": "14",
+        "name": "Riau"
+    },
+    "kabupaten": {
+        "code": "1404",
+        "name": "Indragiri Hilir"
+    },
+    "kecamatan": {
+        "code": "140412",
+        "name": "Gaung"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "1101062018",
+    "name": "Suaq Hulu",
+    "poscode": "23752",
+    "provinsi": {
+        "code": "11",
+        "name": "Aceh (NAD)"
+    },
+    "kabupaten": {
+        "code": "1101",
+        "name": "Aceh Selatan"
+    },
+    "kecamatan": {
+        "code": "110106",
+        "name": "Samadua (Sama Dua)"
+    }
+}

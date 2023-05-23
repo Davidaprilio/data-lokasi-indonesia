@@ -1,0 +1,17 @@
+{
+    "code": "2104082004",
+    "name": "Pantai Harapan",
+    "poscode": "29877",
+    "provinsi": {
+        "code": "21",
+        "name": "Kepulauan Riau"
+    },
+    "kabupaten": {
+        "code": "2104",
+        "name": "Lingga"
+    },
+    "kecamatan": {
+        "code": "210408",
+        "name": "Selayar"
+    }
+}

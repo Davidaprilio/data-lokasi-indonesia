@@ -1,0 +1,17 @@
+{
+    "code": "9209222003",
+    "name": "Bisaud",
+    "poscode": "98395",
+    "provinsi": {
+        "code": "96",
+        "name": "Papua Barat Daya"
+    },
+    "kabupaten": {
+        "code": "9209",
+        "name": "Tambrauw"
+    },
+    "kecamatan": {
+        "code": "920922",
+        "name": "Mawabuan"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "3327102012",
+    "name": "Panjunan",
+    "poscode": "52362",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3327",
+        "name": "Pemalang"
+    },
+    "kecamatan": {
+        "code": "332710",
+        "name": "Petarukan"
+    }
+}

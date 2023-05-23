@@ -1,0 +1,17 @@
+{
+    "code": "1116052002",
+    "name": "Perdamaian",
+    "poscode": "24475",
+    "provinsi": {
+        "code": "11",
+        "name": "Aceh (NAD)"
+    },
+    "kabupaten": {
+        "code": "1116",
+        "name": "Aceh Tamiang"
+    },
+    "kecamatan": {
+        "code": "111605",
+        "name": "Kota Kualasinpang (Kota Kuala Simpang)"
+    }
+}

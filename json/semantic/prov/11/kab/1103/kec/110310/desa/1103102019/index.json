@@ -1,0 +1,17 @@
+{
+    "code": "1103102019",
+    "name": "Alue Geunteng",
+    "poscode": "24441",
+    "provinsi": {
+        "code": "11",
+        "name": "Aceh (NAD)"
+    },
+    "kabupaten": {
+        "code": "1103",
+        "name": "Aceh Timur"
+    },
+    "kecamatan": {
+        "code": "110310",
+        "name": "Rantau Peureulak (Ranto Peureulak)"
+    }
+}

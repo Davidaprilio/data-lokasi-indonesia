@@ -1,0 +1,17 @@
+{
+    "code": "6108092003",
+    "name": "Nyayum",
+    "poscode": "79367",
+    "provinsi": {
+        "code": "61",
+        "name": "Kalimantan Barat"
+    },
+    "kabupaten": {
+        "code": "6108",
+        "name": "Landak"
+    },
+    "kecamatan": {
+        "code": "610809",
+        "name": "Kuala Behe"
+    }
+}

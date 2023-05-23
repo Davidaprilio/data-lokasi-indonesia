@@ -1,0 +1,17 @@
+{
+    "code": "9402302007",
+    "name": "Wutime",
+    "poscode": "98932",
+    "provinsi": {
+        "code": "94",
+        "name": "Papua Tengah"
+    },
+    "kabupaten": {
+        "code": "9402",
+        "name": "Puncak Jaya"
+    },
+    "kecamatan": {
+        "code": "940230",
+        "name": "Nioga"
+    }
+}

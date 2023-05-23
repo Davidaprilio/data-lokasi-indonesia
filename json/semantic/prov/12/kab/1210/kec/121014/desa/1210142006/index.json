@@ -1,0 +1,17 @@
+{
+    "code": "1210142006",
+    "name": "Sennah (Kampung Sennah)",
+    "poscode": "21462",
+    "provinsi": {
+        "code": "12",
+        "name": "Sumatera Utara"
+    },
+    "kabupaten": {
+        "code": "1210",
+        "name": "Labuhanbatu"
+    },
+    "kecamatan": {
+        "code": "121014",
+        "name": "Pangkatan"
+    }
+}

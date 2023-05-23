@@ -1,0 +1,17 @@
+{
+    "code": "6209042001",
+    "name": "Nanga Palikodan",
+    "poscode": "74163",
+    "provinsi": {
+        "code": "62",
+        "name": "Kalimantan Tengah"
+    },
+    "kabupaten": {
+        "code": "6209",
+        "name": "Lamandau"
+    },
+    "kecamatan": {
+        "code": "620904",
+        "name": "Bulik Timur"
+    }
+}

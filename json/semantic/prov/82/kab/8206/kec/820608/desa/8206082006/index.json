@@ -1,0 +1,17 @@
+{
+    "code": "8206082006",
+    "name": "Dorolamo",
+    "poscode": "97863",
+    "provinsi": {
+        "code": "82",
+        "name": "Maluku Utara"
+    },
+    "kabupaten": {
+        "code": "8206",
+        "name": "Halmahera Timur"
+    },
+    "kecamatan": {
+        "code": "820608",
+        "name": "Maba Tengah"
+    }
+}

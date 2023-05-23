@@ -1,0 +1,17 @@
+{
+    "code": "3510082002",
+    "name": "Wonosobo",
+    "poscode": "68471",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3510",
+        "name": "Banyuwangi"
+    },
+    "kecamatan": {
+        "code": "351008",
+        "name": "Srono"
+    }
+}

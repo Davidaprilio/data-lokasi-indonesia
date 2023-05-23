@@ -1,0 +1,17 @@
+{
+    "code": "1201072007",
+    "name": "Mela I",
+    "poscode": "22618",
+    "provinsi": {
+        "code": "12",
+        "name": "Sumatera Utara"
+    },
+    "kabupaten": {
+        "code": "1201",
+        "name": "Tapanuli Tengah"
+    },
+    "kecamatan": {
+        "code": "120107",
+        "name": "Tapian Nauli"
+    }
+}

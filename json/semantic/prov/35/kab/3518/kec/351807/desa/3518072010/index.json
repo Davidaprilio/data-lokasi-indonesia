@@ -1,0 +1,17 @@
+{
+    "code": "3518072010",
+    "name": "Dadapan",
+    "poscode": "64395",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3518",
+        "name": "Nganjuk"
+    },
+    "kecamatan": {
+        "code": "351807",
+        "name": "Ngronggot"
+    }
+}

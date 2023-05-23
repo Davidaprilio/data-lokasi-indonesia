@@ -1,0 +1,17 @@
+{
+    "code": "9402112008",
+    "name": "Kikup",
+    "poscode": "98926",
+    "provinsi": {
+        "code": "94",
+        "name": "Papua Tengah"
+    },
+    "kabupaten": {
+        "code": "9402",
+        "name": "Puncak Jaya"
+    },
+    "kecamatan": {
+        "code": "940211",
+        "name": "Torere"
+    }
+}

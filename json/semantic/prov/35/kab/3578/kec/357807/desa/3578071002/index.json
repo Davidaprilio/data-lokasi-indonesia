@@ -1,0 +1,17 @@
+{
+    "code": "3578071002",
+    "name": "Genteng",
+    "poscode": "60275",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3578",
+        "name": "Surabaya"
+    },
+    "kecamatan": {
+        "code": "357807",
+        "name": "Genteng"
+    }
+}

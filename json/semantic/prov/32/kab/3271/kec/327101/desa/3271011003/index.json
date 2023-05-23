@@ -1,0 +1,17 @@
+{
+    "code": "3271011003",
+    "name": "Empang",
+    "poscode": "16132",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3271",
+        "name": "Bogor"
+    },
+    "kecamatan": {
+        "code": "327101",
+        "name": "Bogor Selatan"
+    }
+}

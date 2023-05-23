@@ -1,0 +1,17 @@
+{
+    "code": "3602242007",
+    "name": "Cikatapis",
+    "poscode": "42311",
+    "provinsi": {
+        "code": "36",
+        "name": "Banten"
+    },
+    "kabupaten": {
+        "code": "3602",
+        "name": "Lebak"
+    },
+    "kecamatan": {
+        "code": "360224",
+        "name": "Kalanganyar"
+    }
+}

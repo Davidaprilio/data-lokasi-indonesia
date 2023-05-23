@@ -1,0 +1,17 @@
+{
+    "code": "9171052003",
+    "name": "Yoka",
+    "poscode": "99334",
+    "provinsi": {
+        "code": "91",
+        "name": "Papua"
+    },
+    "kabupaten": {
+        "code": "9171",
+        "name": "Jayapura"
+    },
+    "kecamatan": {
+        "code": "917105",
+        "name": "Heram"
+    }
+}

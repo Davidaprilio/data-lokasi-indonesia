@@ -1,0 +1,17 @@
+{
+    "code": "6110112006",
+    "name": "Bukit Raya",
+    "poscode": "79676",
+    "provinsi": {
+        "code": "61",
+        "name": "Kalimantan Barat"
+    },
+    "kabupaten": {
+        "code": "6110",
+        "name": "Melawi"
+    },
+    "kecamatan": {
+        "code": "611011",
+        "name": "Tanah Pinoh Barat"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "3602082002",
+    "name": "Cimanyangray",
+    "poscode": "42354",
+    "provinsi": {
+        "code": "36",
+        "name": "Banten"
+    },
+    "kabupaten": {
+        "code": "3602",
+        "name": "Lebak"
+    },
+    "kecamatan": {
+        "code": "360208",
+        "name": "Gunungkencana (Gunung Kencana)"
+    }
+}

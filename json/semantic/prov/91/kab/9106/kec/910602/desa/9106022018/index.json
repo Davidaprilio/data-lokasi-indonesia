@@ -1,0 +1,17 @@
+{
+    "code": "9106022018",
+    "name": "Korem",
+    "poscode": "98544",
+    "provinsi": {
+        "code": "91",
+        "name": "Papua"
+    },
+    "kabupaten": {
+        "code": "9106",
+        "name": "Biak Numfor"
+    },
+    "kecamatan": {
+        "code": "910602",
+        "name": "Biak Utara"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "1219092010",
+    "name": "Gunung Bandung",
+    "poscode": "21255",
+    "provinsi": {
+        "code": "12",
+        "name": "Sumatera Utara"
+    },
+    "kabupaten": {
+        "code": "1219",
+        "name": "Batu Bara"
+    },
+    "kecamatan": {
+        "code": "121909",
+        "name": "Lima Puluh Pesisir"
+    }
+}

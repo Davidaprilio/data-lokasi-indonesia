@@ -1,0 +1,17 @@
+{
+    "code": "3509282001",
+    "name": "Lembengan",
+    "poscode": "68196",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3509",
+        "name": "Jember"
+    },
+    "kecamatan": {
+        "code": "350928",
+        "name": "Ledokombo"
+    }
+}

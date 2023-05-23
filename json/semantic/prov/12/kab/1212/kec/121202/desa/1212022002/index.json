@@ -1,0 +1,17 @@
+{
+    "code": "1212022002",
+    "name": "Sibuea",
+    "poscode": "22381",
+    "provinsi": {
+        "code": "12",
+        "name": "Sumatera Utara"
+    },
+    "kabupaten": {
+        "code": "1212",
+        "name": "Toba"
+    },
+    "kecamatan": {
+        "code": "121202",
+        "name": "Laguboti"
+    }
+}

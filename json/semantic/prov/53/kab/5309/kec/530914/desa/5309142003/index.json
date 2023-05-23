@@ -1,0 +1,17 @@
+{
+    "code": "5309142003",
+    "name": "Wolomeze",
+    "poscode": "86421",
+    "provinsi": {
+        "code": "53",
+        "name": "Nusa Tenggara Timur (NTT)"
+    },
+    "kabupaten": {
+        "code": "5309",
+        "name": "Ngada"
+    },
+    "kecamatan": {
+        "code": "530914",
+        "name": "Riung Barat"
+    }
+}

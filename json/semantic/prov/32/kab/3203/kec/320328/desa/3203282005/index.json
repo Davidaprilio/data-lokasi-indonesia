@@ -1,0 +1,17 @@
+{
+    "code": "3203282005",
+    "name": "Batulawang",
+    "poscode": "43253",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3203",
+        "name": "Cianjur"
+    },
+    "kecamatan": {
+        "code": "320328",
+        "name": "Cipanas"
+    }
+}

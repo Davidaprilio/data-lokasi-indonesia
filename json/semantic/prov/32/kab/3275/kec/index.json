@@ -1,0 +1,86 @@
+[
+    {
+        "code": "327507",
+        "name": "Bantargebang (Bantar Gebang)",
+        "count": {
+            "desa": 4
+        }
+    },
+    {
+        "code": "327502",
+        "name": "Bekasi Barat",
+        "count": {
+            "desa": 5
+        }
+    },
+    {
+        "code": "327504",
+        "name": "Bekasi Selatan",
+        "count": {
+            "desa": 5
+        }
+    },
+    {
+        "code": "327501",
+        "name": "Bekasi Timur",
+        "count": {
+            "desa": 4
+        }
+    },
+    {
+        "code": "327503",
+        "name": "Bekasi Utara",
+        "count": {
+            "desa": 6
+        }
+    },
+    {
+        "code": "327509",
+        "name": "Jatiasih",
+        "count": {
+            "desa": 6
+        }
+    },
+    {
+        "code": "327510",
+        "name": "Jatisampurna (Jati Sampurna)",
+        "count": {
+            "desa": 5
+        }
+    },
+    {
+        "code": "327506",
+        "name": "Medansatria (Medan Satria)",
+        "count": {
+            "desa": 4
+        }
+    },
+    {
+        "code": "327511",
+        "name": "Mustikajaya (Mustika Jaya)",
+        "count": {
+            "desa": 4
+        }
+    },
+    {
+        "code": "327508",
+        "name": "Pondokgede (Pondok Gede)",
+        "count": {
+            "desa": 5
+        }
+    },
+    {
+        "code": "327512",
+        "name": "Pondokmelati (Pondok Melati)",
+        "count": {
+            "desa": 4
+        }
+    },
+    {
+        "code": "327505",
+        "name": "Rawalumbu",
+        "count": {
+            "desa": 4
+        }
+    }
+]

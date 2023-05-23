@@ -1,0 +1,10 @@
+{
+    "code": "6104",
+    "type": "Kabupaten",
+    "name": "Ketapang",
+    "fullname": "Kabupaten Ketapang",
+    "jumlah": {
+        "kecamatan": 20,
+        "desa": 262
+    }
+}

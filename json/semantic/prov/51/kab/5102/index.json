@@ -1,0 +1,10 @@
+{
+    "code": "5102",
+    "type": "Kabupaten",
+    "name": "Tabanan",
+    "fullname": "Kabupaten Tabanan",
+    "jumlah": {
+        "kecamatan": 10,
+        "desa": 133
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "1219072012",
+    "name": "Benteng Jaya",
+    "poscode": "21252",
+    "provinsi": {
+        "code": "12",
+        "name": "Sumatera Utara"
+    },
+    "kabupaten": {
+        "code": "1219",
+        "name": "Batu Bara"
+    },
+    "kecamatan": {
+        "code": "121907",
+        "name": "Sei Balai"
+    }
+}

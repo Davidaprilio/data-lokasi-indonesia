@@ -1,0 +1,37 @@
+[
+    {
+        "code": "127503",
+        "name": "Binjai Barat",
+        "count": {
+            "desa": 6
+        }
+    },
+    {
+        "code": "127502",
+        "name": "Binjai Kota",
+        "count": {
+            "desa": 7
+        }
+    },
+    {
+        "code": "127505",
+        "name": "Binjai Selatan",
+        "count": {
+            "desa": 8
+        }
+    },
+    {
+        "code": "127504",
+        "name": "Binjai Timur",
+        "count": {
+            "desa": 7
+        }
+    },
+    {
+        "code": "127501",
+        "name": "Binjai Utara",
+        "count": {
+            "desa": 9
+        }
+    }
+]

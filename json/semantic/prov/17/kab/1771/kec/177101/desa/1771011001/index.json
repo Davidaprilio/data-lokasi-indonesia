@@ -1,0 +1,17 @@
+{
+    "code": "1771011001",
+    "name": "Pagar Dewa",
+    "poscode": "38211",
+    "provinsi": {
+        "code": "17",
+        "name": "Bengkulu"
+    },
+    "kabupaten": {
+        "code": "1771",
+        "name": "Bengkulu"
+    },
+    "kecamatan": {
+        "code": "177101",
+        "name": "Selebar"
+    }
+}

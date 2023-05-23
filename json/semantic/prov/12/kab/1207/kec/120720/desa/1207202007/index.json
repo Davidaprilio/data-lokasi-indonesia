@@ -1,0 +1,17 @@
+{
+    "code": "1207202007",
+    "name": "Gunung Manupak A (Gunung Manumpak A)",
+    "poscode": "20582",
+    "provinsi": {
+        "code": "12",
+        "name": "Sumatera Utara"
+    },
+    "kabupaten": {
+        "code": "1207",
+        "name": "Deli Serdang"
+    },
+    "kecamatan": {
+        "code": "120720",
+        "name": "Sinembah Tanjung Muda Hulu"
+    }
+}

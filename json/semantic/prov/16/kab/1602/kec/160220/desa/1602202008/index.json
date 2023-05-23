@@ -1,0 +1,17 @@
+{
+    "code": "1602202008",
+    "name": "Cahaya Mas",
+    "poscode": "30682",
+    "provinsi": {
+        "code": "16",
+        "name": "Sumatera Selatan"
+    },
+    "kabupaten": {
+        "code": "1602",
+        "name": "Ogan Komering Ilir"
+    },
+    "kecamatan": {
+        "code": "160220",
+        "name": "Mesuji Makmur"
+    }
+}

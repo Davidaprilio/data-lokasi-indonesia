@@ -1,0 +1,17 @@
+{
+    "code": "1209191008",
+    "name": "Sei Renggas",
+    "poscode": "21213",
+    "provinsi": {
+        "code": "12",
+        "name": "Sumatera Utara"
+    },
+    "kabupaten": {
+        "code": "1209",
+        "name": "Asahan"
+    },
+    "kecamatan": {
+        "code": "120919",
+        "name": "Kota Kisaran Barat"
+    }
+}

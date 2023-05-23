@@ -1,0 +1,17 @@
+{
+    "code": "6471011002",
+    "name": "Lamaru",
+    "poscode": "76117",
+    "provinsi": {
+        "code": "64",
+        "name": "Kalimantan Timur"
+    },
+    "kabupaten": {
+        "code": "6471",
+        "name": "Balikpapan"
+    },
+    "kecamatan": {
+        "code": "647101",
+        "name": "Balikpapan Timur"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "code": "1703",
+    "type": "Kabupaten",
+    "name": "Bengkulu Utara",
+    "fullname": "Kabupaten Bengkulu Utara",
+    "jumlah": {
+        "kecamatan": 19,
+        "desa": 220
+    }
+}

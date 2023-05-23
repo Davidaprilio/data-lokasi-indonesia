@@ -1,0 +1,17 @@
+{
+    "code": "9103132003",
+    "name": "Kwadeware (Kanda)",
+    "poscode": "99368",
+    "provinsi": {
+        "code": "91",
+        "name": "Papua"
+    },
+    "kabupaten": {
+        "code": "9103",
+        "name": "Jayapura"
+    },
+    "kecamatan": {
+        "code": "910313",
+        "name": "Waibu"
+    }
+}

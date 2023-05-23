@@ -1,0 +1,17 @@
+{
+    "code": "9405062017",
+    "name": "Pasir Putih",
+    "poscode": "98977",
+    "provinsi": {
+        "code": "94",
+        "name": "Papua Tengah"
+    },
+    "kabupaten": {
+        "code": "9405",
+        "name": "Puncak"
+    },
+    "kecamatan": {
+        "code": "940506",
+        "name": "Sinak"
+    }
+}

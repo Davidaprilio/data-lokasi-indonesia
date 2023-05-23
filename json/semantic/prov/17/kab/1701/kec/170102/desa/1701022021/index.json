@@ -1,0 +1,17 @@
+{
+    "code": "1701022021",
+    "name": "Pajar Bulan",
+    "poscode": "38552",
+    "provinsi": {
+        "code": "17",
+        "name": "Bengkulu"
+    },
+    "kabupaten": {
+        "code": "1701",
+        "name": "Bengkulu Selatan"
+    },
+    "kecamatan": {
+        "code": "170102",
+        "name": "Seginim"
+    }
+}

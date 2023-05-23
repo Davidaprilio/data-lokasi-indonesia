@@ -1,0 +1,17 @@
+{
+    "code": "9303042014",
+    "name": "Banamepe",
+    "poscode": "99852",
+    "provinsi": {
+        "code": "93",
+        "name": "Papua Selatan"
+    },
+    "kabupaten": {
+        "code": "9303",
+        "name": "Mappi"
+    },
+    "kecamatan": {
+        "code": "930304",
+        "name": "Edera"
+    }
+}

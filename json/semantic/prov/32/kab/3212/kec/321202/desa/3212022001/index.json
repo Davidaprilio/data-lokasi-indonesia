@@ -1,0 +1,17 @@
+{
+    "code": "3212022001",
+    "name": "Tanjungkerta",
+    "poscode": "45265",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3212",
+        "name": "Indramayu"
+    },
+    "kecamatan": {
+        "code": "321202",
+        "name": "Kroya"
+    }
+}

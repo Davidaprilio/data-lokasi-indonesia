@@ -1,0 +1,17 @@
+{
+    "code": "3209152001",
+    "name": "Matangaji",
+    "poscode": "45611",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3209",
+        "name": "Cirebon"
+    },
+    "kecamatan": {
+        "code": "320915",
+        "name": "Sumber"
+    }
+}

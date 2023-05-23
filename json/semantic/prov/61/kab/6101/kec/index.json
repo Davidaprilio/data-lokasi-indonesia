@@ -1,0 +1,135 @@
+[
+    {
+        "code": "610111",
+        "name": "Galing",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "610103",
+        "name": "Jawai",
+        "count": {
+            "desa": 13
+        }
+    },
+    {
+        "code": "610116",
+        "name": "Jawai Selatan",
+        "count": {
+            "desa": 9
+        }
+    },
+    {
+        "code": "610108",
+        "name": "Paloh",
+        "count": {
+            "desa": 8
+        }
+    },
+    {
+        "code": "610105",
+        "name": "Pemangkat",
+        "count": {
+            "desa": 8
+        }
+    },
+    {
+        "code": "610114",
+        "name": "Sajad",
+        "count": {
+            "desa": 4
+        }
+    },
+    {
+        "code": "610109",
+        "name": "Sajingan Besar",
+        "count": {
+            "desa": 5
+        }
+    },
+    {
+        "code": "610118",
+        "name": "Salatiga",
+        "count": {
+            "desa": 5
+        }
+    },
+    {
+        "code": "610101",
+        "name": "Sambas",
+        "count": {
+            "desa": 18
+        }
+    },
+    {
+        "code": "610115",
+        "name": "Sebawi",
+        "count": {
+            "desa": 7
+        }
+    },
+    {
+        "code": "610106",
+        "name": "Sejangkung",
+        "count": {
+            "desa": 12
+        }
+    },
+    {
+        "code": "610107",
+        "name": "Selakau",
+        "count": {
+            "desa": 11
+        }
+    },
+    {
+        "code": "610119",
+        "name": "Selakau Timur",
+        "count": {
+            "desa": 4
+        }
+    },
+    {
+        "code": "610113",
+        "name": "Semparuk",
+        "count": {
+            "desa": 5
+        }
+    },
+    {
+        "code": "610110",
+        "name": "Subah",
+        "count": {
+            "desa": 11
+        }
+    },
+    {
+        "code": "610117",
+        "name": "Tangaran",
+        "count": {
+            "desa": 8
+        }
+    },
+    {
+        "code": "610104",
+        "name": "Tebas",
+        "count": {
+            "desa": 23
+        }
+    },
+    {
+        "code": "610112",
+        "name": "Tekarang",
+        "count": {
+            "desa": 7
+        }
+    },
+    {
+        "code": "610102",
+        "name": "Teluk Keramat",
+        "count": {
+            "desa": 25
+        }
+    }
+]

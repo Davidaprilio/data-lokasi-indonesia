@@ -1,0 +1,17 @@
+{
+    "code": "7503142003",
+    "name": "Mongiilo Utara",
+    "poscode": "96543",
+    "provinsi": {
+        "code": "75",
+        "name": "Gorontalo"
+    },
+    "kabupaten": {
+        "code": "7503",
+        "name": "Bone Bolango"
+    },
+    "kecamatan": {
+        "code": "750314",
+        "name": "Bulango Ulu"
+    }
+}

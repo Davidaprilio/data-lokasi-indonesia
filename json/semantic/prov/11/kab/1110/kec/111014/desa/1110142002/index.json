@@ -1,0 +1,17 @@
+{
+    "code": "1110142002",
+    "name": "Kuala Baru Sungai",
+    "poscode": "24789",
+    "provinsi": {
+        "code": "11",
+        "name": "Aceh (NAD)"
+    },
+    "kabupaten": {
+        "code": "1110",
+        "name": "Aceh Singkil"
+    },
+    "kecamatan": {
+        "code": "111014",
+        "name": "Kuala Baru"
+    }
+}

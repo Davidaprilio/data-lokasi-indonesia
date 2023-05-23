@@ -1,0 +1,17 @@
+{
+    "code": "7210122007",
+    "name": "Kotarindau",
+    "poscode": "94361",
+    "provinsi": {
+        "code": "72",
+        "name": "Sulawesi Tengah"
+    },
+    "kabupaten": {
+        "code": "7210",
+        "name": "Sigi"
+    },
+    "kecamatan": {
+        "code": "721012",
+        "name": "Dolo"
+    }
+}

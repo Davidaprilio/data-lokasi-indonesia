@@ -1,0 +1,17 @@
+{
+    "code": "1507092002",
+    "name": "Pematang Rahim",
+    "poscode": "36766",
+    "provinsi": {
+        "code": "15",
+        "name": "Jambi"
+    },
+    "kabupaten": {
+        "code": "1507",
+        "name": "Tanjung Jabung Timur"
+    },
+    "kecamatan": {
+        "code": "150709",
+        "name": "Mendahara Ulu"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "1219072001",
+    "name": "Kwala Sikasim",
+    "poscode": "21252",
+    "provinsi": {
+        "code": "12",
+        "name": "Sumatera Utara"
+    },
+    "kabupaten": {
+        "code": "1219",
+        "name": "Batu Bara"
+    },
+    "kecamatan": {
+        "code": "121907",
+        "name": "Sei Balai"
+    }
+}

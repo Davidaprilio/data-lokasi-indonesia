@@ -1,0 +1,17 @@
+{
+    "code": "9301011002",
+    "name": "Samkai",
+    "poscode": "99615",
+    "provinsi": {
+        "code": "93",
+        "name": "Papua Selatan"
+    },
+    "kabupaten": {
+        "code": "9301",
+        "name": "Merauke"
+    },
+    "kecamatan": {
+        "code": "930101",
+        "name": "Merauke"
+    }
+}

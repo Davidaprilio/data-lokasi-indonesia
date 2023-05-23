@@ -1,0 +1,17 @@
+{
+    "code": "3278081004",
+    "name": "Linggajaya",
+    "poscode": "46181",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3278",
+        "name": "Tasikmalaya"
+    },
+    "kecamatan": {
+        "code": "327808",
+        "name": "Mangkubumi"
+    }
+}

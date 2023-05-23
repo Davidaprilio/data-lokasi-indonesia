@@ -1,0 +1,17 @@
+{
+    "code": "8105072007",
+    "name": "Nayet",
+    "poscode": "97523",
+    "provinsi": {
+        "code": "81",
+        "name": "Maluku"
+    },
+    "kabupaten": {
+        "code": "8105",
+        "name": "Seram Bagian Timur"
+    },
+    "kecamatan": {
+        "code": "810507",
+        "name": "Siwalalat"
+    }
+}

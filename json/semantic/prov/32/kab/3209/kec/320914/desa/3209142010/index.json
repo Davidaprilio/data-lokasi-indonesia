@@ -1,0 +1,17 @@
+{
+    "code": "3209142010",
+    "name": "Sarwadadi",
+    "poscode": "45171",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3209",
+        "name": "Cirebon"
+    },
+    "kecamatan": {
+        "code": "320914",
+        "name": "Talun (Cirebon Selatan)"
+    }
+}

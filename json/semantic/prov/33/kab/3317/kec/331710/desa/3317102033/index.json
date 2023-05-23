@@ -1,0 +1,17 @@
+{
+    "code": "3317102033",
+    "name": "Kabongan Kidul",
+    "poscode": "59218",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3317",
+        "name": "Rembang"
+    },
+    "kecamatan": {
+        "code": "331710",
+        "name": "Rembang"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "9210072005",
+    "name": "Asmuruf U",
+    "poscode": "98265",
+    "provinsi": {
+        "code": "96",
+        "name": "Papua Barat Daya"
+    },
+    "kabupaten": {
+        "code": "9210",
+        "name": "Maybrat"
+    },
+    "kecamatan": {
+        "code": "921007",
+        "name": "Aitinyo Utara"
+    }
+}

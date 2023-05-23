@@ -1,0 +1,17 @@
+{
+    "code": "7413072004",
+    "name": "Mekar Jaya",
+    "poscode": "93654",
+    "provinsi": {
+        "code": "74",
+        "name": "Sulawesi Tenggara"
+    },
+    "kabupaten": {
+        "code": "7413",
+        "name": "Muna Barat"
+    },
+    "kecamatan": {
+        "code": "741307",
+        "name": "Tiworo Tengah"
+    }
+}

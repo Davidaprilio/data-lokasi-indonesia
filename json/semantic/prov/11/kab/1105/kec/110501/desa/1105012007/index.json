@@ -1,0 +1,17 @@
+{
+    "code": "1105012007",
+    "name": "Drien Rampak",
+    "poscode": "23617",
+    "provinsi": {
+        "code": "11",
+        "name": "Aceh (NAD)"
+    },
+    "kabupaten": {
+        "code": "1105",
+        "name": "Aceh Barat"
+    },
+    "kecamatan": {
+        "code": "110501",
+        "name": "Johan Pahwalan (Johan Pahlawan)"
+    }
+}

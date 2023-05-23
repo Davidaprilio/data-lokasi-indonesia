@@ -1,0 +1,10 @@
+{
+    "code": "1406",
+    "type": "Kabupaten",
+    "name": "Rokan Hulu",
+    "fullname": "Kabupaten Rokan Hulu",
+    "jumlah": {
+        "kecamatan": 16,
+        "desa": 145
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "7204042008",
+    "name": "Galandau",
+    "poscode": "94552",
+    "provinsi": {
+        "code": "72",
+        "name": "Sulawesi Tengah"
+    },
+    "kabupaten": {
+        "code": "7204",
+        "name": "Toli Toli"
+    },
+    "kecamatan": {
+        "code": "720404",
+        "name": "Basidondo"
+    }
+}

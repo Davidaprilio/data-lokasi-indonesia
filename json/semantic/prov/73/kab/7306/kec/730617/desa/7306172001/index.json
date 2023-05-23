@@ -1,0 +1,17 @@
+{
+    "code": "7306172001",
+    "name": "Majannang",
+    "poscode": "92174",
+    "provinsi": {
+        "code": "73",
+        "name": "Sulawesi Selatan"
+    },
+    "kabupaten": {
+        "code": "7306",
+        "name": "Gowa"
+    },
+    "kecamatan": {
+        "code": "730617",
+        "name": "Parigi"
+    }
+}

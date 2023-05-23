@@ -1,0 +1,17 @@
+{
+    "code": "3277031002",
+    "name": "Cibabat",
+    "poscode": "40513",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3277",
+        "name": "Cimahi"
+    },
+    "kecamatan": {
+        "code": "327703",
+        "name": "Cimahi Utara"
+    }
+}

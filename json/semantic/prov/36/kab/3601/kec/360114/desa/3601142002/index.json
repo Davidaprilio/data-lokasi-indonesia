@@ -1,0 +1,17 @@
+{
+    "code": "3601142002",
+    "name": "Medalsari",
+    "poscode": "42278",
+    "provinsi": {
+        "code": "36",
+        "name": "Banten"
+    },
+    "kabupaten": {
+        "code": "3601",
+        "name": "Pandeglang"
+    },
+    "kecamatan": {
+        "code": "360114",
+        "name": "Saketi"
+    }
+}

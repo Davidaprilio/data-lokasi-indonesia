@@ -1,0 +1,17 @@
+{
+    "code": "3207112007",
+    "name": "Muktisari",
+    "poscode": "46252",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3207",
+        "name": "Ciamis"
+    },
+    "kecamatan": {
+        "code": "320711",
+        "name": "Cipaku"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "6171061002",
+    "name": "Bansir Darat",
+    "poscode": "78124",
+    "provinsi": {
+        "code": "61",
+        "name": "Kalimantan Barat"
+    },
+    "kabupaten": {
+        "code": "6171",
+        "name": "Pontianak"
+    },
+    "kecamatan": {
+        "code": "617106",
+        "name": "Pontianak Tenggara"
+    }
+}

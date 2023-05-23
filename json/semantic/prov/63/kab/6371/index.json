@@ -1,0 +1,10 @@
+{
+    "code": "6371",
+    "type": "Kota",
+    "name": "Banjarmasin",
+    "fullname": "Kota Banjarmasin",
+    "jumlah": {
+        "kecamatan": 5,
+        "desa": 52
+    }
+}

@@ -1,0 +1,114 @@
+[
+    {
+        "code": "337411",
+        "name": "Banyumanik",
+        "count": {
+            "desa": 11
+        }
+    },
+    {
+        "code": "337408",
+        "name": "Candisari",
+        "count": {
+            "desa": 7
+        }
+    },
+    {
+        "code": "337409",
+        "name": "Gajahmungkur (Gajah Mungkur)",
+        "count": {
+            "desa": 8
+        }
+    },
+    {
+        "code": "337404",
+        "name": "Gayamsari",
+        "count": {
+            "desa": 7
+        }
+    },
+    {
+        "code": "337405",
+        "name": "Genuk",
+        "count": {
+            "desa": 13
+        }
+    },
+    {
+        "code": "337412",
+        "name": "Gunungpati",
+        "count": {
+            "desa": 16
+        }
+    },
+    {
+        "code": "337414",
+        "name": "Mijen",
+        "count": {
+            "desa": 14
+        }
+    },
+    {
+        "code": "337415",
+        "name": "Ngaliyan",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "337406",
+        "name": "Pedurungan",
+        "count": {
+            "desa": 12
+        }
+    },
+    {
+        "code": "337413",
+        "name": "Semarang Barat",
+        "count": {
+            "desa": 16
+        }
+    },
+    {
+        "code": "337407",
+        "name": "Semarang Selatan",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "337401",
+        "name": "Semarang Tengah",
+        "count": {
+            "desa": 15
+        }
+    },
+    {
+        "code": "337403",
+        "name": "Semarang Timur",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "337402",
+        "name": "Semarang Utara",
+        "count": {
+            "desa": 9
+        }
+    },
+    {
+        "code": "337410",
+        "name": "Tembalang",
+        "count": {
+            "desa": 12
+        }
+    },
+    {
+        "code": "337416",
+        "name": "Tugu",
+        "count": {
+            "desa": 7
+        }
+    }
+]

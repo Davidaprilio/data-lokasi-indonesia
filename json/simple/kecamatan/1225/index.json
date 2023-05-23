@@ -1,0 +1,58 @@
+[
+    {
+        "code": "122501",
+        "name": "Lahomi (Gahori)",
+        "count": {
+            "desa": 11
+        }
+    },
+    {
+        "code": "122507",
+        "name": "Lolofitu Moi",
+        "count": {
+            "desa": 8
+        }
+    },
+    {
+        "code": "122505",
+        "name": "Mandrehe",
+        "count": {
+            "desa": 20
+        }
+    },
+    {
+        "code": "122503",
+        "name": "Mandrehe Barat",
+        "count": {
+            "desa": 14
+        }
+    },
+    {
+        "code": "122506",
+        "name": "Mandrehe Utara",
+        "count": {
+            "desa": 12
+        }
+    },
+    {
+        "code": "122504",
+        "name": "Moro'o",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "122502",
+        "name": "Sirombu",
+        "count": {
+            "desa": 25
+        }
+    },
+    {
+        "code": "122508",
+        "name": "Ulu Moro'o (Ulu Narwo)",
+        "count": {
+            "desa": 5
+        }
+    }
+]

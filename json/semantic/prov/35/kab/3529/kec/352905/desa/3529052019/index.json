@@ -1,0 +1,17 @@
+{
+    "code": "3529052019",
+    "name": "Errabu",
+    "poscode": "69466",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3529",
+        "name": "Sumenep"
+    },
+    "kecamatan": {
+        "code": "352905",
+        "name": "Bluto"
+    }
+}

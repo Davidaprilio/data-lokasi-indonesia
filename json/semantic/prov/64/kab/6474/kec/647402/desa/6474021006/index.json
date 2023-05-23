@@ -1,0 +1,17 @@
+{
+    "code": "6474021006",
+    "name": "Tanjung Laut Indah",
+    "poscode": "75325",
+    "provinsi": {
+        "code": "64",
+        "name": "Kalimantan Timur"
+    },
+    "kabupaten": {
+        "code": "6474",
+        "name": "Bontang"
+    },
+    "kecamatan": {
+        "code": "647402",
+        "name": "Bontang Selatan"
+    }
+}

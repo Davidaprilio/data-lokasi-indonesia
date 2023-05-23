@@ -1,0 +1,10 @@
+{
+    "code": "6304",
+    "type": "Kabupaten",
+    "name": "Barito Kuala",
+    "fullname": "Kabupaten Barito Kuala",
+    "jumlah": {
+        "kecamatan": 17,
+        "desa": 201
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "6101102010",
+    "name": "Mensade",
+    "poscode": "79417",
+    "provinsi": {
+        "code": "61",
+        "name": "Kalimantan Barat"
+    },
+    "kabupaten": {
+        "code": "6101",
+        "name": "Sambas"
+    },
+    "kecamatan": {
+        "code": "610110",
+        "name": "Subah"
+    }
+}

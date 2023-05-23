@@ -1,0 +1,17 @@
+{
+    "code": "9403252002",
+    "name": "Mogoya",
+    "poscode": "98721",
+    "provinsi": {
+        "code": "94",
+        "name": "Papua Tengah"
+    },
+    "kabupaten": {
+        "code": "9403",
+        "name": "Paniai"
+    },
+    "kecamatan": {
+        "code": "940325",
+        "name": "Muye"
+    }
+}

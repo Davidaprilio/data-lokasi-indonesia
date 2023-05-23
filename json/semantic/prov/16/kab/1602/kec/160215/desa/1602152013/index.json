@@ -1,0 +1,17 @@
+{
+    "code": "1602152013",
+    "name": "Gajah Makmur",
+    "poscode": "30684",
+    "provinsi": {
+        "code": "16",
+        "name": "Sumatera Selatan"
+    },
+    "kabupaten": {
+        "code": "1602",
+        "name": "Ogan Komering Ilir"
+    },
+    "kecamatan": {
+        "code": "160215",
+        "name": "Sungai Menang"
+    }
+}

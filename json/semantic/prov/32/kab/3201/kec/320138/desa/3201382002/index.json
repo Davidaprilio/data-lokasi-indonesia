@@ -1,0 +1,17 @@
+{
+    "code": "3201382002",
+    "name": "Watesjaya",
+    "poscode": "16110",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3201",
+        "name": "Bogor"
+    },
+    "kecamatan": {
+        "code": "320138",
+        "name": "Cigombong"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "3514042004",
+    "name": "Watu Lumbung (Watulumbung)",
+    "poscode": "67183",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3514",
+        "name": "Pasuruan"
+    },
+    "kecamatan": {
+        "code": "351404",
+        "name": "Lumbang"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "6202032008",
+    "name": "Santilik",
+    "poscode": "74357",
+    "provinsi": {
+        "code": "62",
+        "name": "Kalimantan Tengah"
+    },
+    "kabupaten": {
+        "code": "6202",
+        "name": "Kotawaringin Timur"
+    },
+    "kecamatan": {
+        "code": "620203",
+        "name": "Mentaya Hulu"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "9204202003",
+    "name": "Saga",
+    "poscode": "98225",
+    "provinsi": {
+        "code": "96",
+        "name": "Papua Barat Daya"
+    },
+    "kabupaten": {
+        "code": "9204",
+        "name": "Sorong Selatan"
+    },
+    "kecamatan": {
+        "code": "920420",
+        "name": "Matemani"
+    }
+}

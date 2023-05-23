@@ -1,0 +1,17 @@
+{
+    "code": "1507082006",
+    "name": "Manunggal Makmur",
+    "poscode": "36760",
+    "provinsi": {
+        "code": "15",
+        "name": "Jambi"
+    },
+    "kabupaten": {
+        "code": "1507",
+        "name": "Tanjung Jabung Timur"
+    },
+    "kecamatan": {
+        "code": "150708",
+        "name": "Kuala Jambi"
+    }
+}

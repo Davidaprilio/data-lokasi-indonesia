@@ -1,0 +1,17 @@
+{
+    "code": "7472021002",
+    "name": "Tomba",
+    "poscode": "93712",
+    "provinsi": {
+        "code": "74",
+        "name": "Sulawesi Tenggara"
+    },
+    "kabupaten": {
+        "code": "7472",
+        "name": "Bau Bau"
+    },
+    "kecamatan": {
+        "code": "747202",
+        "name": "Wolio"
+    }
+}

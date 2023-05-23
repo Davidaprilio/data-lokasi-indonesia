@@ -1,0 +1,32 @@
+[
+    {
+        "code": "7104162004",
+        "name": "Bowombaru (Bawombaru)",
+        "poscode": "95886"
+    },
+    {
+        "code": "7104162005",
+        "name": "Bowombaru Tengah",
+        "poscode": "95886"
+    },
+    {
+        "code": "7104162006",
+        "name": "Bowombaru Utara",
+        "poscode": "95886"
+    },
+    {
+        "code": "7104162001",
+        "name": "Tule",
+        "poscode": "95886"
+    },
+    {
+        "code": "7104162002",
+        "name": "Tule Tengah",
+        "poscode": "95886"
+    },
+    {
+        "code": "7104162003",
+        "name": "Tule Utara",
+        "poscode": "95886"
+    }
+]

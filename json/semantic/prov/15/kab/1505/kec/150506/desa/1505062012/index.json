@@ -1,0 +1,17 @@
+{
+    "code": "1505062012",
+    "name": "Ramin",
+    "poscode": "36373",
+    "provinsi": {
+        "code": "15",
+        "name": "Jambi"
+    },
+    "kabupaten": {
+        "code": "1505",
+        "name": "Muaro Jambi"
+    },
+    "kecamatan": {
+        "code": "150506",
+        "name": "Kumpeh Ulu"
+    }
+}

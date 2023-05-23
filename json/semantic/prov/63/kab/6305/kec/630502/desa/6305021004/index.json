@@ -1,0 +1,17 @@
+{
+    "code": "6305021004",
+    "name": "Tambarangan",
+    "poscode": "71181",
+    "provinsi": {
+        "code": "63",
+        "name": "Kalimantan Selatan"
+    },
+    "kabupaten": {
+        "code": "6305",
+        "name": "Tapin"
+    },
+    "kecamatan": {
+        "code": "630502",
+        "name": "Tapin Selatan"
+    }
+}

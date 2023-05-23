@@ -1,0 +1,17 @@
+{
+    "code": "6107052006",
+    "name": "Setangau Jaya (Sentangau Jaya)",
+    "poscode": "79285",
+    "provinsi": {
+        "code": "61",
+        "name": "Kalimantan Barat"
+    },
+    "kabupaten": {
+        "code": "6107",
+        "name": "Bengkayang"
+    },
+    "kecamatan": {
+        "code": "610705",
+        "name": "Seluas"
+    }
+}

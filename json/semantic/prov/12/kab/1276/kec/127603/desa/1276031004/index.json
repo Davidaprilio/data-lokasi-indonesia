@@ -1,0 +1,17 @@
+{
+    "code": "1276031004",
+    "name": "Tebing Tinggi",
+    "poscode": "20631",
+    "provinsi": {
+        "code": "12",
+        "name": "Sumatera Utara"
+    },
+    "kabupaten": {
+        "code": "1276",
+        "name": "Tebing Tinggi"
+    },
+    "kecamatan": {
+        "code": "127603",
+        "name": "Padang Hilir"
+    }
+}

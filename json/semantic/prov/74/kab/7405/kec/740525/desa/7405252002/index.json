@@ -1,0 +1,17 @@
+{
+    "code": "7405252002",
+    "name": "Anese",
+    "poscode": "93813",
+    "provinsi": {
+        "code": "74",
+        "name": "Sulawesi Tenggara"
+    },
+    "kabupaten": {
+        "code": "7405",
+        "name": "Konawe Selatan"
+    },
+    "kecamatan": {
+        "code": "740525",
+        "name": "Andoolo Barat"
+    }
+}

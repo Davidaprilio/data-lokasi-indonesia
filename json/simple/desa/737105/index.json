@@ -1,0 +1,42 @@
+[
+    {
+        "code": "7371051003",
+        "name": "Butung",
+        "poscode": "90173"
+    },
+    {
+        "code": "7371051005",
+        "name": "Ende",
+        "poscode": "90174"
+    },
+    {
+        "code": "7371051007",
+        "name": "Malimongan",
+        "poscode": "90172"
+    },
+    {
+        "code": "7371051004",
+        "name": "Malimongan Tua",
+        "poscode": "90172"
+    },
+    {
+        "code": "7371051006",
+        "name": "Mampu",
+        "poscode": "90173"
+    },
+    {
+        "code": "7371051002",
+        "name": "Melayu",
+        "poscode": "90171"
+    },
+    {
+        "code": "7371051008",
+        "name": "Melayu Baru",
+        "poscode": "90171"
+    },
+    {
+        "code": "7371051001",
+        "name": "Pattunuang",
+        "poscode": "90174"
+    }
+]

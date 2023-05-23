@@ -1,0 +1,17 @@
+{
+    "code": "5302052004",
+    "name": "Baki",
+    "poscode": "85571",
+    "provinsi": {
+        "code": "53",
+        "name": "Nusa Tenggara Timur (NTT)"
+    },
+    "kabupaten": {
+        "code": "5302",
+        "name": "Timor Tengah Selatan"
+    },
+    "kecamatan": {
+        "code": "530205",
+        "name": "Amanuban Tengah"
+    }
+}

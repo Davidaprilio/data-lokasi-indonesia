@@ -1,0 +1,17 @@
+{
+    "code": "3206382010",
+    "name": "Sukadana",
+    "poscode": "46413",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3206",
+        "name": "Tasikmalaya"
+    },
+    "kecamatan": {
+        "code": "320638",
+        "name": "Pagerageung"
+    }
+}

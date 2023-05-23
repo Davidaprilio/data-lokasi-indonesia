@@ -1,0 +1,17 @@
+{
+    "code": "5306112005",
+    "name": "Sukutokan",
+    "poscode": "86265",
+    "provinsi": {
+        "code": "53",
+        "name": "Nusa Tenggara Timur (NTT)"
+    },
+    "kabupaten": {
+        "code": "5306",
+        "name": "Flores Timur"
+    },
+    "kecamatan": {
+        "code": "530611",
+        "name": "Kelubagolit"
+    }
+}

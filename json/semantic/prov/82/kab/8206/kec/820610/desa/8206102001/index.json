@@ -1,0 +1,17 @@
+{
+    "code": "8206102001",
+    "name": "Wai Lukum (Wailukum)",
+    "poscode": "97862",
+    "provinsi": {
+        "code": "82",
+        "name": "Maluku Utara"
+    },
+    "kabupaten": {
+        "code": "8206",
+        "name": "Halmahera Timur"
+    },
+    "kecamatan": {
+        "code": "820610",
+        "name": "Kota Maba"
+    }
+}

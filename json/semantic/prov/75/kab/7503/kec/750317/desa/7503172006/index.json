@@ -1,0 +1,17 @@
+{
+    "code": "7503172006",
+    "name": "Mamungaa Timur",
+    "poscode": "96574",
+    "provinsi": {
+        "code": "75",
+        "name": "Gorontalo"
+    },
+    "kabupaten": {
+        "code": "7503",
+        "name": "Bone Bolango"
+    },
+    "kecamatan": {
+        "code": "750317",
+        "name": "Bulawa"
+    }
+}

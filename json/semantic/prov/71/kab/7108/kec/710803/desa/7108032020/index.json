@@ -1,0 +1,17 @@
+{
+    "code": "7108032020",
+    "name": "Saleo Satu",
+    "poscode": "95767",
+    "provinsi": {
+        "code": "71",
+        "name": "Sulawesi Utara"
+    },
+    "kabupaten": {
+        "code": "7108",
+        "name": "Bolaang Mongondow Utara"
+    },
+    "kecamatan": {
+        "code": "710803",
+        "name": "Bolangitang Timur (Bolang Itang Timur)"
+    }
+}

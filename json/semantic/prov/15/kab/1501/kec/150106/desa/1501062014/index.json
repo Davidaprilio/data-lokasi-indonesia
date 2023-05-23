@@ -1,0 +1,17 @@
+{
+    "code": "1501062014",
+    "name": "Suko Pangkat",
+    "poscode": "37162",
+    "provinsi": {
+        "code": "15",
+        "name": "Jambi"
+    },
+    "kabupaten": {
+        "code": "1501",
+        "name": "Kerinci"
+    },
+    "kecamatan": {
+        "code": "150106",
+        "name": "Gunung Kerinci"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "1101152008",
+    "name": "Seulekat (Seuleukat)",
+    "poscode": "23777",
+    "provinsi": {
+        "code": "11",
+        "name": "Aceh (NAD)"
+    },
+    "kabupaten": {
+        "code": "1101",
+        "name": "Aceh Selatan"
+    },
+    "kecamatan": {
+        "code": "110115",
+        "name": "Bakongan Timur"
+    }
+}

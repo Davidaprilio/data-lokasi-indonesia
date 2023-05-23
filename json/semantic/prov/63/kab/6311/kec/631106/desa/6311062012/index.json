@@ -1,0 +1,17 @@
+{
+    "code": "6311062012",
+    "name": "Murung Ilung",
+    "poscode": "71662",
+    "provinsi": {
+        "code": "63",
+        "name": "Kalimantan Selatan"
+    },
+    "kabupaten": {
+        "code": "6311",
+        "name": "Balangan"
+    },
+    "kecamatan": {
+        "code": "631106",
+        "name": "Paringin"
+    }
+}

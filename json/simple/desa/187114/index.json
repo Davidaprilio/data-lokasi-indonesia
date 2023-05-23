@@ -1,0 +1,32 @@
+[
+    {
+        "code": "1871141007",
+        "name": "Kampung Baru",
+        "poscode": "35149"
+    },
+    {
+        "code": "1871141006",
+        "name": "Kampung Baru Raya",
+        "poscode": "35149"
+    },
+    {
+        "code": "1871141004",
+        "name": "Kota Sepang",
+        "poscode": "35148"
+    },
+    {
+        "code": "1871141001",
+        "name": "Labuhan Ratu",
+        "poscode": "35142"
+    },
+    {
+        "code": "1871141002",
+        "name": "Labuhan Ratu Raya",
+        "poscode": "35142"
+    },
+    {
+        "code": "1871141003",
+        "name": "Sepang Jaya",
+        "poscode": "35148"
+    }
+]

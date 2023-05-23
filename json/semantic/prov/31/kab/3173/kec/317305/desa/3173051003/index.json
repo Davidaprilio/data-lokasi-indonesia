@@ -1,0 +1,17 @@
+{
+    "code": "3173051003",
+    "name": "Sukabumi Selatan (Udik)",
+    "poscode": "11560",
+    "provinsi": {
+        "code": "31",
+        "name": "DKI Jakarta"
+    },
+    "kabupaten": {
+        "code": "3173",
+        "name": "Jakarta Barat"
+    },
+    "kecamatan": {
+        "code": "317305",
+        "name": "Kebon Jeruk"
+    }
+}

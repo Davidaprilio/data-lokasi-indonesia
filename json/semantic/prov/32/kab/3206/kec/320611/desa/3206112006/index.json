@@ -1,0 +1,17 @@
+{
+    "code": "3206112006",
+    "name": "Campakasari",
+    "poscode": "46476",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3206",
+        "name": "Tasikmalaya"
+    },
+    "kecamatan": {
+        "code": "320611",
+        "name": "Bojonggambir"
+    }
+}

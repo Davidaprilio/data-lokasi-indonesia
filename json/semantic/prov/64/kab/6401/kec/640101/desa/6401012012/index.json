@@ -1,0 +1,17 @@
+{
+    "code": "6401012012",
+    "name": "Legai",
+    "poscode": "76252",
+    "provinsi": {
+        "code": "64",
+        "name": "Kalimantan Timur"
+    },
+    "kabupaten": {
+        "code": "6401",
+        "name": "Paser"
+    },
+    "kecamatan": {
+        "code": "640101",
+        "name": "Batu Sopang"
+    }
+}

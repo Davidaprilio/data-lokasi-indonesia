@@ -1,0 +1,17 @@
+{
+    "code": "7315021002",
+    "name": "Tellumpanua",
+    "poscode": "91273",
+    "provinsi": {
+        "code": "73",
+        "name": "Sulawesi Selatan"
+    },
+    "kabupaten": {
+        "code": "7315",
+        "name": "Pinrang"
+    },
+    "kecamatan": {
+        "code": "731502",
+        "name": "Suppa"
+    }
+}

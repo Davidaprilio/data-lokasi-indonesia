@@ -1,0 +1,17 @@
+{
+    "code": "1707041002",
+    "name": "Tes",
+    "poscode": "39258",
+    "provinsi": {
+        "code": "17",
+        "name": "Bengkulu"
+    },
+    "kabupaten": {
+        "code": "1707",
+        "name": "Lebong"
+    },
+    "kecamatan": {
+        "code": "170704",
+        "name": "Lebong Selatan"
+    }
+}

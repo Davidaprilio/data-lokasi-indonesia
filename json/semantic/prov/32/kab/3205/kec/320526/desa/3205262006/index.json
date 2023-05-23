@@ -1,0 +1,17 @@
+{
+    "code": "3205262006",
+    "name": "Purwajaya",
+    "poscode": "44178",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3205",
+        "name": "Garut"
+    },
+    "kecamatan": {
+        "code": "320526",
+        "name": "Peundeuy"
+    }
+}

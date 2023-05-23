@@ -1,0 +1,17 @@
+{
+    "code": "3511042002",
+    "name": "Nogosari",
+    "poscode": "68287",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3511",
+        "name": "Bondowoso"
+    },
+    "kecamatan": {
+        "code": "351104",
+        "name": "Sukosari"
+    }
+}

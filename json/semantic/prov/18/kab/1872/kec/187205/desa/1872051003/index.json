@@ -1,0 +1,17 @@
+{
+    "code": "1872051003",
+    "name": "Sumbersari Bantul (Sumbersari)",
+    "poscode": "34122",
+    "provinsi": {
+        "code": "18",
+        "name": "Lampung"
+    },
+    "kabupaten": {
+        "code": "1872",
+        "name": "Metro"
+    },
+    "kecamatan": {
+        "code": "187205",
+        "name": "Metro Selatan"
+    }
+}

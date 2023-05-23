@@ -1,0 +1,17 @@
+{
+    "code": "9504012056",
+    "name": "Kolilan",
+    "poscode": "99027",
+    "provinsi": {
+        "code": "95",
+        "name": "Papua Pegunungan"
+    },
+    "kabupaten": {
+        "code": "9504",
+        "name": "Tolikara"
+    },
+    "kecamatan": {
+        "code": "950401",
+        "name": "Karubaga"
+    }
+}

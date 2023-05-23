@@ -1,0 +1,17 @@
+{
+    "code": "6306072012",
+    "name": "Parigi",
+    "poscode": "71251",
+    "provinsi": {
+        "code": "63",
+        "name": "Kalimantan Selatan"
+    },
+    "kabupaten": {
+        "code": "6306",
+        "name": "Hulu Sungai Selatan"
+    },
+    "kecamatan": {
+        "code": "630607",
+        "name": "Daha Selatan"
+    }
+}

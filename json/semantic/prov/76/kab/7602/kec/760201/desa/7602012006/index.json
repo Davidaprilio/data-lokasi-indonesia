@@ -1,0 +1,17 @@
+{
+    "code": "7602012006",
+    "name": "Karampuang",
+    "poscode": "91515",
+    "provinsi": {
+        "code": "76",
+        "name": "Sulawesi Barat"
+    },
+    "kabupaten": {
+        "code": "7602",
+        "name": "Mamuju"
+    },
+    "kecamatan": {
+        "code": "760201",
+        "name": "Mamuju"
+    }
+}

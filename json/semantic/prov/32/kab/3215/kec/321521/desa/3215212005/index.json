@@ -1,0 +1,17 @@
+{
+    "code": "3215212005",
+    "name": "Sarijaya",
+    "poscode": "41370",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3215",
+        "name": "Karawang"
+    },
+    "kecamatan": {
+        "code": "321521",
+        "name": "Majalaya"
+    }
+}

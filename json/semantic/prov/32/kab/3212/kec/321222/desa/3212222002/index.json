@@ -1,0 +1,17 @@
+{
+    "code": "3212222002",
+    "name": "Sidamulya",
+    "poscode": "45255",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3212",
+        "name": "Indramayu"
+    },
+    "kecamatan": {
+        "code": "321222",
+        "name": "Bongas"
+    }
+}

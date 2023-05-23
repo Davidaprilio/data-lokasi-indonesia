@@ -1,0 +1,17 @@
+{
+    "code": "9106082013",
+    "name": "Opuri",
+    "poscode": "98545",
+    "provinsi": {
+        "code": "91",
+        "name": "Papua"
+    },
+    "kabupaten": {
+        "code": "9106",
+        "name": "Biak Numfor"
+    },
+    "kecamatan": {
+        "code": "910608",
+        "name": "Biak Barat"
+    }
+}

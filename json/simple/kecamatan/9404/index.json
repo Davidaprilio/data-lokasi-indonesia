@@ -1,0 +1,128 @@
+[
+    {
+        "code": "940402",
+        "name": "Agimuga",
+        "count": {
+            "desa": 8
+        }
+    },
+    {
+        "code": "940418",
+        "name": "Alama",
+        "count": {
+            "desa": 11
+        }
+    },
+    {
+        "code": "940417",
+        "name": "Amar",
+        "count": {
+            "desa": 6
+        }
+    },
+    {
+        "code": "940414",
+        "name": "Hoya",
+        "count": {
+            "desa": 6
+        }
+    },
+    {
+        "code": "940415",
+        "name": "Iwaka",
+        "count": {
+            "desa": 7
+        }
+    },
+    {
+        "code": "940406",
+        "name": "Jila",
+        "count": {
+            "desa": 12
+        }
+    },
+    {
+        "code": "940405",
+        "name": "Jita",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "940409",
+        "name": "Kuala Kencana",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "940413",
+        "name": "Kwamki Narama",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "940404",
+        "name": "Mimika Barat",
+        "count": {
+            "desa": 7
+        }
+    },
+    {
+        "code": "940411",
+        "name": "Mimika Barat Jauh",
+        "count": {
+            "desa": 5
+        }
+    },
+    {
+        "code": "940412",
+        "name": "Mimika Barat Tengah",
+        "count": {
+            "desa": 9
+        }
+    },
+    {
+        "code": "940401",
+        "name": "Mimika Baru",
+        "count": {
+            "desa": 14
+        }
+    },
+    {
+        "code": "940408",
+        "name": "Mimika Tengah",
+        "count": {
+            "desa": 5
+        }
+    },
+    {
+        "code": "940403",
+        "name": "Mimika Timur",
+        "count": {
+            "desa": 6
+        }
+    },
+    {
+        "code": "940407",
+        "name": "Mimika Timur Jauh",
+        "count": {
+            "desa": 5
+        }
+    },
+    {
+        "code": "940410",
+        "name": "Tembagapura",
+        "count": {
+            "desa": 14
+        }
+    },
+    {
+        "code": "940416",
+        "name": "Wania",
+        "count": {
+            "desa": 7
+        }
+    }
+]

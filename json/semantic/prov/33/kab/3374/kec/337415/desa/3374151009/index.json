@@ -1,0 +1,17 @@
+{
+    "code": "3374151009",
+    "name": "Wonosari",
+    "poscode": "50244",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3374",
+        "name": "Semarang"
+    },
+    "kecamatan": {
+        "code": "337415",
+        "name": "Ngaliyan"
+    }
+}

@@ -1,0 +1,37 @@
+[
+    {
+        "code": "760603",
+        "name": "Budong-Budong",
+        "count": {
+            "desa": 11
+        }
+    },
+    {
+        "code": "760605",
+        "name": "Karossa",
+        "count": {
+            "desa": 11
+        }
+    },
+    {
+        "code": "760602",
+        "name": "Pangale",
+        "count": {
+            "desa": 9
+        }
+    },
+    {
+        "code": "760601",
+        "name": "Tobadak",
+        "count": {
+            "desa": 8
+        }
+    },
+    {
+        "code": "760604",
+        "name": "Topoyo",
+        "count": {
+            "desa": 15
+        }
+    }
+]

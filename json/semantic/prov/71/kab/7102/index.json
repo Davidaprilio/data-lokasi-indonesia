@@ -1,0 +1,10 @@
+{
+    "code": "7102",
+    "type": "Kabupaten",
+    "name": "Minahasa",
+    "fullname": "Kabupaten Minahasa",
+    "jumlah": {
+        "kecamatan": 25,
+        "desa": 270
+    }
+}

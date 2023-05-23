@@ -1,0 +1,17 @@
+{
+    "code": "1971011007",
+    "name": "Air Itam",
+    "poscode": "33149",
+    "provinsi": {
+        "code": "19",
+        "name": "Kepulauan Bangka Belitung"
+    },
+    "kabupaten": {
+        "code": "1971",
+        "name": "Pangkal Pinang"
+    },
+    "kecamatan": {
+        "code": "197101",
+        "name": "Bukitintan (Bukit Intan)"
+    }
+}

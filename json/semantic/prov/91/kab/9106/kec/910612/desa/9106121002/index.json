@@ -1,0 +1,17 @@
+{
+    "code": "9106121002",
+    "name": "Brambaken",
+    "poscode": "98551",
+    "provinsi": {
+        "code": "91",
+        "name": "Papua"
+    },
+    "kabupaten": {
+        "code": "9106",
+        "name": "Biak Numfor"
+    },
+    "kecamatan": {
+        "code": "910612",
+        "name": "Samofa"
+    }
+}

@@ -1,0 +1,86 @@
+[
+    {
+        "code": "122111",
+        "name": "Aek Nabara Barumun",
+        "count": {
+            "desa": 25
+        }
+    },
+    {
+        "code": "122107",
+        "name": "Barumun",
+        "count": {
+            "desa": 30
+        }
+    },
+    {
+        "code": "122110",
+        "name": "Barumun Selatan",
+        "count": {
+            "desa": 11
+        }
+    },
+    {
+        "code": "122102",
+        "name": "Barumun Tengah",
+        "count": {
+            "desa": 39
+        }
+    },
+    {
+        "code": "122109",
+        "name": "Batang Lubu Sutam",
+        "count": {
+            "desa": 28
+        }
+    },
+    {
+        "code": "122103",
+        "name": "Huristak",
+        "count": {
+            "desa": 27
+        }
+    },
+    {
+        "code": "122105",
+        "name": "Huta Raja Tinggi",
+        "count": {
+            "desa": 31
+        }
+    },
+    {
+        "code": "122104",
+        "name": "Lubuk Barumun",
+        "count": {
+            "desa": 24
+        }
+    },
+    {
+        "code": "122112",
+        "name": "Sihapas Barumun",
+        "count": {
+            "desa": 13
+        }
+    },
+    {
+        "code": "122108",
+        "name": "Sosa",
+        "count": {
+            "desa": 39
+        }
+    },
+    {
+        "code": "122101",
+        "name": "Sosopan",
+        "count": {
+            "desa": 22
+        }
+    },
+    {
+        "code": "122106",
+        "name": "Ulu Barumun",
+        "count": {
+            "desa": 15
+        }
+    }
+]

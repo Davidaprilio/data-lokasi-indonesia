@@ -1,0 +1,17 @@
+{
+    "code": "3307142006",
+    "name": "Sempol",
+    "poscode": "56363",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3307",
+        "name": "Wonosobo"
+    },
+    "kecamatan": {
+        "code": "330714",
+        "name": "Sukoharjo"
+    }
+}

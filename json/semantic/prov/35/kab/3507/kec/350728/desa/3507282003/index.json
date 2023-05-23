@@ -1,0 +1,17 @@
+{
+    "code": "3507282003",
+    "name": "Pait",
+    "poscode": "65393",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3507",
+        "name": "Malang"
+    },
+    "kecamatan": {
+        "code": "350728",
+        "name": "Kasembon"
+    }
+}

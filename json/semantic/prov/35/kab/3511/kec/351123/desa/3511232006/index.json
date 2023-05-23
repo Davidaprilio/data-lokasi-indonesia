@@ -1,0 +1,17 @@
+{
+    "code": "3511232006",
+    "name": "Pengarang",
+    "poscode": "68271",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3511",
+        "name": "Bondowoso"
+    },
+    "kecamatan": {
+        "code": "351123",
+        "name": "Jambesari Darus Sholah"
+    }
+}

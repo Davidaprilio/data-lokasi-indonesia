@@ -1,0 +1,72 @@
+[
+    {
+        "code": "940610",
+        "name": "Dogiyai",
+        "count": {
+            "desa": 9
+        }
+    },
+    {
+        "code": "940601",
+        "name": "Kamu",
+        "count": {
+            "desa": 8
+        }
+    },
+    {
+        "code": "940607",
+        "name": "Kamu Selatan",
+        "count": {
+            "desa": 12
+        }
+    },
+    {
+        "code": "940608",
+        "name": "Kamu Timur",
+        "count": {
+            "desa": 7
+        }
+    },
+    {
+        "code": "940604",
+        "name": "Kamu Utara (Ikrar/Ikrat)",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "940602",
+        "name": "Mapia",
+        "count": {
+            "desa": 7
+        }
+    },
+    {
+        "code": "940606",
+        "name": "Mapia Barat",
+        "count": {
+            "desa": 4
+        }
+    },
+    {
+        "code": "940609",
+        "name": "Mapia Tengah",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "940603",
+        "name": "Piyaiye (Sukikai)",
+        "count": {
+            "desa": 8
+        }
+    },
+    {
+        "code": "940605",
+        "name": "Sukikai Selatan",
+        "count": {
+            "desa": 4
+        }
+    }
+]

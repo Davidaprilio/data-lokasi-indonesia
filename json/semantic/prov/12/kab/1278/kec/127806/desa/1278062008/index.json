@@ -1,0 +1,17 @@
+{
+    "code": "1278062008",
+    "name": "Onozikho",
+    "poscode": "22811",
+    "provinsi": {
+        "code": "12",
+        "name": "Sumatera Utara"
+    },
+    "kabupaten": {
+        "code": "1278",
+        "name": "Gunungsitoli"
+    },
+    "kecamatan": {
+        "code": "127806",
+        "name": "Gunungsitoli Barat"
+    }
+}

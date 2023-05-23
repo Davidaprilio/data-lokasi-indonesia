@@ -1,0 +1,17 @@
+{
+    "code": "1701012030",
+    "name": "Muara Tiga Ilir",
+    "poscode": "38553",
+    "provinsi": {
+        "code": "17",
+        "name": "Bengkulu"
+    },
+    "kabupaten": {
+        "code": "1701",
+        "name": "Bengkulu Selatan"
+    },
+    "kecamatan": {
+        "code": "170101",
+        "name": "Kedurang"
+    }
+}

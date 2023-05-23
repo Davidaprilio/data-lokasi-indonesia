@@ -1,0 +1,17 @@
+{
+    "code": "6207072001",
+    "name": "Terawan",
+    "poscode": "74260",
+    "provinsi": {
+        "code": "62",
+        "name": "Kalimantan Tengah"
+    },
+    "kabupaten": {
+        "code": "6207",
+        "name": "Seruyan"
+    },
+    "kecamatan": {
+        "code": "620707",
+        "name": "Seruyan Raya"
+    }
+}

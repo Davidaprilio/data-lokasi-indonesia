@@ -1,0 +1,17 @@
+{
+    "code": "2103052012",
+    "name": "Binjai",
+    "poscode": "29782",
+    "provinsi": {
+        "code": "21",
+        "name": "Kepulauan Riau"
+    },
+    "kabupaten": {
+        "code": "2103",
+        "name": "Natuna"
+    },
+    "kecamatan": {
+        "code": "210305",
+        "name": "Bunguran Barat"
+    }
+}

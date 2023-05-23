@@ -1,0 +1,17 @@
+{
+    "code": "7303021006",
+    "name": "Lamalaka",
+    "poscode": "92412",
+    "provinsi": {
+        "code": "73",
+        "name": "Sulawesi Selatan"
+    },
+    "kabupaten": {
+        "code": "7303",
+        "name": "Bantaeng"
+    },
+    "kecamatan": {
+        "code": "730302",
+        "name": "Bantaeng"
+    }
+}

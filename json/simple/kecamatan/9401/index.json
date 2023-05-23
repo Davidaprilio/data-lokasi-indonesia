@@ -1,0 +1,107 @@
+[
+    {
+        "code": "940124",
+        "name": "Dipa",
+        "count": {
+            "desa": 5
+        }
+    },
+    {
+        "code": "940111",
+        "name": "Makimi",
+        "count": {
+            "desa": 6
+        }
+    },
+    {
+        "code": "940125",
+        "name": "Menou",
+        "count": {
+            "desa": 4
+        }
+    },
+    {
+        "code": "940123",
+        "name": "Moora",
+        "count": {
+            "desa": 5
+        }
+    },
+    {
+        "code": "940101",
+        "name": "Nabire",
+        "count": {
+            "desa": 12
+        }
+    },
+    {
+        "code": "940122",
+        "name": "Nabire Barat",
+        "count": {
+            "desa": 5
+        }
+    },
+    {
+        "code": "940102",
+        "name": "Napan",
+        "count": {
+            "desa": 3
+        }
+    },
+    {
+        "code": "940110",
+        "name": "Siriwo",
+        "count": {
+            "desa": 6
+        }
+    },
+    {
+        "code": "940116",
+        "name": "Teluk Kimi",
+        "count": {
+            "desa": 5
+        }
+    },
+    {
+        "code": "940112",
+        "name": "Teluk Umar",
+        "count": {
+            "desa": 4
+        }
+    },
+    {
+        "code": "940106",
+        "name": "Uwapa",
+        "count": {
+            "desa": 6
+        }
+    },
+    {
+        "code": "940107",
+        "name": "Wanggar",
+        "count": {
+            "desa": 3
+        }
+    },
+    {
+        "code": "940121",
+        "name": "Wapoga",
+        "count": {
+            "desa": 5
+        }
+    },
+    {
+        "code": "940117",
+        "name": "Yaro (Yaro Kabisay)",
+        "count": {
+            "desa": 8
+        }
+    },
+    {
+        "code": "940103",
+        "name": "Yaur",
+        "count": {
+            "desa": 4
+        }
+    }
+]

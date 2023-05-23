@@ -1,0 +1,17 @@
+{
+    "code": "1707102001",
+    "name": "Nangai Tayau",
+    "poscode": "39264",
+    "provinsi": {
+        "code": "17",
+        "name": "Bengkulu"
+    },
+    "kabupaten": {
+        "code": "1707",
+        "name": "Lebong"
+    },
+    "kecamatan": {
+        "code": "170710",
+        "name": "Amen"
+    }
+}

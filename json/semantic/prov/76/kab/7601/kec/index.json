@@ -1,0 +1,86 @@
+[
+    {
+        "code": "760110",
+        "name": "Bambaira",
+        "count": {
+            "desa": 4
+        }
+    },
+    {
+        "code": "760101",
+        "name": "Bambalamotu",
+        "count": {
+            "desa": 6
+        }
+    },
+    {
+        "code": "760103",
+        "name": "Baras",
+        "count": {
+            "desa": 6
+        }
+    },
+    {
+        "code": "760107",
+        "name": "Bulu Taba",
+        "count": {
+            "desa": 7
+        }
+    },
+    {
+        "code": "760105",
+        "name": "Dapurang",
+        "count": {
+            "desa": 5
+        }
+    },
+    {
+        "code": "760106",
+        "name": "Duripoku",
+        "count": {
+            "desa": 4
+        }
+    },
+    {
+        "code": "760112",
+        "name": "Lariang",
+        "count": {
+            "desa": 7
+        }
+    },
+    {
+        "code": "760102",
+        "name": "Pasangkayu",
+        "count": {
+            "desa": 6
+        }
+    },
+    {
+        "code": "760109",
+        "name": "Pedongga",
+        "count": {
+            "desa": 4
+        }
+    },
+    {
+        "code": "760111",
+        "name": "Sarjo",
+        "count": {
+            "desa": 4
+        }
+    },
+    {
+        "code": "760104",
+        "name": "Sarudu",
+        "count": {
+            "desa": 5
+        }
+    },
+    {
+        "code": "760108",
+        "name": "Tikke Raya",
+        "count": {
+            "desa": 5
+        }
+    }
+]

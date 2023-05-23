@@ -1,0 +1,17 @@
+{
+    "code": "3277011003",
+    "name": "Utama",
+    "poscode": "40533",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3277",
+        "name": "Cimahi"
+    },
+    "kecamatan": {
+        "code": "327701",
+        "name": "Cimahi Selatan"
+    }
+}

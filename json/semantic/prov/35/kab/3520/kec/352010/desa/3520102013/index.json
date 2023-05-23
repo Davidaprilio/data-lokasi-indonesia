@@ -1,0 +1,17 @@
+{
+    "code": "3520102013",
+    "name": "Bulugledeg",
+    "poscode": "63384",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3520",
+        "name": "Magetan"
+    },
+    "kecamatan": {
+        "code": "352010",
+        "name": "Bendo"
+    }
+}

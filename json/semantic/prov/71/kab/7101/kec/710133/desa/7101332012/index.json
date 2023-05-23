@@ -1,0 +1,17 @@
+{
+    "code": "7101332012",
+    "name": "Pusian Barat",
+    "poscode": "95733",
+    "provinsi": {
+        "code": "71",
+        "name": "Sulawesi Utara"
+    },
+    "kabupaten": {
+        "code": "7101",
+        "name": "Bolaang Mongondow"
+    },
+    "kecamatan": {
+        "code": "710133",
+        "name": "Dumoga"
+    }
+}

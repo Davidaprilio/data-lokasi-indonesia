@@ -1,0 +1,72 @@
+[
+    {
+        "code": "650110",
+        "name": "Bunyu (Pulau Bunyu)",
+        "count": {
+            "desa": 3
+        }
+    },
+    {
+        "code": "650107",
+        "name": "Peso",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "650108",
+        "name": "Peso Hilir/Ilir",
+        "count": {
+            "desa": 6
+        }
+    },
+    {
+        "code": "650109",
+        "name": "Sekatak",
+        "count": {
+            "desa": 22
+        }
+    },
+    {
+        "code": "650101",
+        "name": "Tanjung Palas",
+        "count": {
+            "desa": 9
+        }
+    },
+    {
+        "code": "650102",
+        "name": "Tanjung Palas Barat",
+        "count": {
+            "desa": 5
+        }
+    },
+    {
+        "code": "650106",
+        "name": "Tanjung Palas Tengah",
+        "count": {
+            "desa": 3
+        }
+    },
+    {
+        "code": "650104",
+        "name": "Tanjung Palas Timur",
+        "count": {
+            "desa": 8
+        }
+    },
+    {
+        "code": "650103",
+        "name": "Tanjung Palas Utara",
+        "count": {
+            "desa": 6
+        }
+    },
+    {
+        "code": "650105",
+        "name": "Tanjung Selor",
+        "count": {
+            "desa": 9
+        }
+    }
+]

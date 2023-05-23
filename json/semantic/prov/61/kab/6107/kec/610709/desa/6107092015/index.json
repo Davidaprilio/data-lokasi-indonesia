@@ -1,0 +1,17 @@
+{
+    "code": "6107092015",
+    "name": "Sebente",
+    "poscode": "79214",
+    "provinsi": {
+        "code": "61",
+        "name": "Kalimantan Barat"
+    },
+    "kabupaten": {
+        "code": "6107",
+        "name": "Bengkayang"
+    },
+    "kecamatan": {
+        "code": "610709",
+        "name": "Teriak"
+    }
+}

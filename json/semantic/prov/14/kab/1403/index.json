@@ -1,0 +1,10 @@
+{
+    "code": "1403",
+    "type": "Kabupaten",
+    "name": "Bengkalis",
+    "fullname": "Kabupaten Bengkalis",
+    "jumlah": {
+        "kecamatan": 11,
+        "desa": 155
+    }
+}

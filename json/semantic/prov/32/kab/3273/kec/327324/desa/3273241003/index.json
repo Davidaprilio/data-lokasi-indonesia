@@ -1,0 +1,17 @@
+{
+    "code": "3273241003",
+    "name": "Cisaranten Kulon",
+    "poscode": "40293",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3273",
+        "name": "Bandung"
+    },
+    "kecamatan": {
+        "code": "327324",
+        "name": "Arcamanik"
+    }
+}

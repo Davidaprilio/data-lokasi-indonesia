@@ -1,0 +1,17 @@
+{
+    "code": "5303242001",
+    "name": "Naku",
+    "poscode": "85682",
+    "provinsi": {
+        "code": "53",
+        "name": "Nusa Tenggara Timur (NTT)"
+    },
+    "kabupaten": {
+        "code": "5303",
+        "name": "Timor Tengah Utara"
+    },
+    "kecamatan": {
+        "code": "530324",
+        "name": "Biboki Feotleu"
+    }
+}

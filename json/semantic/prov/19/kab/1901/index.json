@@ -1,0 +1,10 @@
+{
+    "code": "1901",
+    "type": "Kabupaten",
+    "name": "Bangka",
+    "fullname": "Kabupaten Bangka",
+    "jumlah": {
+        "kecamatan": 8,
+        "desa": 81
+    }
+}

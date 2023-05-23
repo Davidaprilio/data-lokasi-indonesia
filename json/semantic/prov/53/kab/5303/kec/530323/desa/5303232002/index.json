@@ -1,0 +1,17 @@
+{
+    "code": "5303232002",
+    "name": "Luniup",
+    "poscode": "85681",
+    "provinsi": {
+        "code": "53",
+        "name": "Nusa Tenggara Timur (NTT)"
+    },
+    "kabupaten": {
+        "code": "5303",
+        "name": "Timor Tengah Utara"
+    },
+    "kecamatan": {
+        "code": "530323",
+        "name": "Biboki Moenleu"
+    }
+}

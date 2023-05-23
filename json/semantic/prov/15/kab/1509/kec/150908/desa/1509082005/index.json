@@ -1,0 +1,17 @@
+{
+    "code": "1509082005",
+    "name": "Giri Purno",
+    "poscode": "37552",
+    "provinsi": {
+        "code": "15",
+        "name": "Jambi"
+    },
+    "kabupaten": {
+        "code": "1509",
+        "name": "Tebo"
+    },
+    "kecamatan": {
+        "code": "150908",
+        "name": "Rimbo Ilir"
+    }
+}

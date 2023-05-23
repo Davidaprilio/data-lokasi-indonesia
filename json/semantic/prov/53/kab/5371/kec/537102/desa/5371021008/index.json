@@ -1,0 +1,17 @@
+{
+    "code": "5371021008",
+    "name": "Sikumana",
+    "poscode": "85143",
+    "provinsi": {
+        "code": "53",
+        "name": "Nusa Tenggara Timur (NTT)"
+    },
+    "kabupaten": {
+        "code": "5371",
+        "name": "Kupang"
+    },
+    "kecamatan": {
+        "code": "537102",
+        "name": "Maulafa"
+    }
+}

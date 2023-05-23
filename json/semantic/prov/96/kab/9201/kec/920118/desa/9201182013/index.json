@@ -1,0 +1,17 @@
+{
+    "code": "9201182013",
+    "name": "Klasawon",
+    "poscode": "98437",
+    "provinsi": {
+        "code": "96",
+        "name": "Papua Barat Daya"
+    },
+    "kabupaten": {
+        "code": "9201",
+        "name": "Sorong"
+    },
+    "kecamatan": {
+        "code": "920118",
+        "name": "Klawak"
+    }
+}

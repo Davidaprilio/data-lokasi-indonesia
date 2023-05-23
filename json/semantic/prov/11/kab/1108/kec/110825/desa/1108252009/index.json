@@ -1,0 +1,17 @@
+{
+    "code": "1108252009",
+    "name": "Krueng Mbang",
+    "poscode": "24373",
+    "provinsi": {
+        "code": "11",
+        "name": "Aceh (NAD)"
+    },
+    "kabupaten": {
+        "code": "1108",
+        "name": "Aceh Utara"
+    },
+    "kecamatan": {
+        "code": "110825",
+        "name": "Geuredong Pase"
+    }
+}

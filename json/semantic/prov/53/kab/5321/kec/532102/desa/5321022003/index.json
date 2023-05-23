@@ -1,0 +1,17 @@
+{
+    "code": "5321022003",
+    "name": "Fafoe",
+    "poscode": "85763",
+    "provinsi": {
+        "code": "53",
+        "name": "Nusa Tenggara Timur (NTT)"
+    },
+    "kabupaten": {
+        "code": "5321",
+        "name": "Malaka"
+    },
+    "kecamatan": {
+        "code": "532102",
+        "name": "Malaka Barat"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "7208212007",
+    "name": "Beringin Jaya",
+    "poscode": "94479",
+    "provinsi": {
+        "code": "72",
+        "name": "Sulawesi Tengah"
+    },
+    "kabupaten": {
+        "code": "7208",
+        "name": "Parigi Moutong"
+    },
+    "kecamatan": {
+        "code": "720821",
+        "name": "Bolano"
+    }
+}

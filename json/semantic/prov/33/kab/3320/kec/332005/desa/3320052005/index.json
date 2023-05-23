@@ -1,0 +1,17 @@
+{
+    "code": "3320052005",
+    "name": "Mindahan",
+    "poscode": "59461",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3320",
+        "name": "Jepara"
+    },
+    "kecamatan": {
+        "code": "332005",
+        "name": "Batealit"
+    }
+}

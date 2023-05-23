@@ -1,0 +1,17 @@
+{
+    "code": "1803132002",
+    "name": "Semuli Raya",
+    "poscode": "34580",
+    "provinsi": {
+        "code": "18",
+        "name": "Lampung"
+    },
+    "kabupaten": {
+        "code": "1803",
+        "name": "Lampung Utara"
+    },
+    "kecamatan": {
+        "code": "180313",
+        "name": "Abung Semuli"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "3316062004",
+    "name": "Sambong",
+    "poscode": "58371",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3316",
+        "name": "Blora"
+    },
+    "kecamatan": {
+        "code": "331606",
+        "name": "Sambong"
+    }
+}

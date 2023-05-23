@@ -1,0 +1,17 @@
+{
+    "code": "7173041002",
+    "name": "Woloan Dua",
+    "poscode": "95422",
+    "provinsi": {
+        "code": "71",
+        "name": "Sulawesi Utara"
+    },
+    "kabupaten": {
+        "code": "7173",
+        "name": "Tomohon"
+    },
+    "kecamatan": {
+        "code": "717304",
+        "name": "Tomohon Barat"
+    }
+}

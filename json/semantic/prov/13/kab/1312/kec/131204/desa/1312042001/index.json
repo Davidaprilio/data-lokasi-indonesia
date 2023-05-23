@@ -1,0 +1,17 @@
+{
+    "code": "1312042001",
+    "name": "Kajai",
+    "poscode": "26561",
+    "provinsi": {
+        "code": "13",
+        "name": "Sumatera Barat"
+    },
+    "kabupaten": {
+        "code": "1312",
+        "name": "Pasaman Barat"
+    },
+    "kecamatan": {
+        "code": "131204",
+        "name": "Talamau"
+    }
+}

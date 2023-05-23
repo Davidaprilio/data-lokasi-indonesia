@@ -1,0 +1,17 @@
+{
+    "code": "7408052001",
+    "name": "Awo",
+    "poscode": "93957",
+    "provinsi": {
+        "code": "74",
+        "name": "Sulawesi Tenggara"
+    },
+    "kabupaten": {
+        "code": "7408",
+        "name": "Kolaka Utara"
+    },
+    "kecamatan": {
+        "code": "740805",
+        "name": "Kodeoha"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "code": "1671",
+    "type": "Kota",
+    "name": "Palembang",
+    "fullname": "Kota Palembang",
+    "jumlah": {
+        "kecamatan": 18,
+        "desa": 107
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "1707062003",
+    "name": "Suka Negeri",
+    "poscode": "39260",
+    "provinsi": {
+        "code": "17",
+        "name": "Bengkulu"
+    },
+    "kabupaten": {
+        "code": "1707",
+        "name": "Lebong"
+    },
+    "kecamatan": {
+        "code": "170706",
+        "name": "Topos"
+    }
+}

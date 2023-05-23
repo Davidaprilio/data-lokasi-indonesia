@@ -1,0 +1,17 @@
+{
+    "code": "3175101001",
+    "name": "Cipayung",
+    "poscode": "13840",
+    "provinsi": {
+        "code": "31",
+        "name": "DKI Jakarta"
+    },
+    "kabupaten": {
+        "code": "3175",
+        "name": "Jakarta Timur"
+    },
+    "kecamatan": {
+        "code": "317510",
+        "name": "Cipayung"
+    }
+}

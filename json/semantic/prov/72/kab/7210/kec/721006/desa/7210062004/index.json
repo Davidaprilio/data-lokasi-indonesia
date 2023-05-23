@@ -1,0 +1,17 @@
+{
+    "code": "7210062004",
+    "name": "Tompi Bugis",
+    "poscode": "94373",
+    "provinsi": {
+        "code": "72",
+        "name": "Sulawesi Tengah"
+    },
+    "kabupaten": {
+        "code": "7210",
+        "name": "Sigi"
+    },
+    "kecamatan": {
+        "code": "721006",
+        "name": "Kulawi Selatan"
+    }
+}

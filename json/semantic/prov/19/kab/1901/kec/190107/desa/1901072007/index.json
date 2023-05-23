@@ -1,0 +1,17 @@
+{
+    "code": "1901072007",
+    "name": "Mapur",
+    "poscode": "33254",
+    "provinsi": {
+        "code": "19",
+        "name": "Kepulauan Bangka Belitung"
+    },
+    "kabupaten": {
+        "code": "1901",
+        "name": "Bangka"
+    },
+    "kecamatan": {
+        "code": "190107",
+        "name": "Riau Silip"
+    }
+}

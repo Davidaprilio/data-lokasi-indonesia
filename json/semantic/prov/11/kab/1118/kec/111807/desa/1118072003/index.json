@@ -1,0 +1,17 @@
+{
+    "code": "1118072003",
+    "name": "Hagu",
+    "poscode": "24185",
+    "provinsi": {
+        "code": "11",
+        "name": "Aceh (NAD)"
+    },
+    "kabupaten": {
+        "code": "1118",
+        "name": "Pidie Jaya"
+    },
+    "kecamatan": {
+        "code": "111807",
+        "name": "Panteraja"
+    }
+}

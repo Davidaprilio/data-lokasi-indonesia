@@ -1,0 +1,17 @@
+{
+    "code": "2105092003",
+    "name": "Sunggak",
+    "poscode": "29792",
+    "provinsi": {
+        "code": "21",
+        "name": "Kepulauan Riau"
+    },
+    "kabupaten": {
+        "code": "2105",
+        "name": "Kepulauan Anambas"
+    },
+    "kecamatan": {
+        "code": "210509",
+        "name": "Jemaja Barat"
+    }
+}

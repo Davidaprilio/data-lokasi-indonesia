@@ -1,0 +1,44 @@
+[
+    {
+        "code": "127706",
+        "name": "Padangsidimpuan Angkola Julu",
+        "count": {
+            "desa": 8
+        }
+    },
+    {
+        "code": "127703",
+        "name": "Padangsidimpuan Batunadua",
+        "count": {
+            "desa": 15
+        }
+    },
+    {
+        "code": "127704",
+        "name": "Padangsidimpuan Hutaimbaru",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "127702",
+        "name": "Padangsidimpuan Selatan",
+        "count": {
+            "desa": 12
+        }
+    },
+    {
+        "code": "127705",
+        "name": "Padangsidimpuan Tenggara",
+        "count": {
+            "desa": 18
+        }
+    },
+    {
+        "code": "127701",
+        "name": "Padangsidimpuan Utara",
+        "count": {
+            "desa": 16
+        }
+    }
+]

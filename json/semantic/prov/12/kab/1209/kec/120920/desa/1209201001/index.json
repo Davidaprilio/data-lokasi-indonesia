@@ -1,0 +1,17 @@
+{
+    "code": "1209201001",
+    "name": "Teladan",
+    "poscode": "21222",
+    "provinsi": {
+        "code": "12",
+        "name": "Sumatera Utara"
+    },
+    "kabupaten": {
+        "code": "1209",
+        "name": "Asahan"
+    },
+    "kecamatan": {
+        "code": "120920",
+        "name": "Kota Kisaran Timur"
+    }
+}

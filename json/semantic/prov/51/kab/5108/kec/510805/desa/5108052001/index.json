@@ -1,0 +1,17 @@
+{
+    "code": "5108052001",
+    "name": "Pancasari",
+    "poscode": "81161",
+    "provinsi": {
+        "code": "51",
+        "name": "Bali"
+    },
+    "kabupaten": {
+        "code": "5108",
+        "name": "Buleleng"
+    },
+    "kecamatan": {
+        "code": "510805",
+        "name": "Sukasada"
+    }
+}

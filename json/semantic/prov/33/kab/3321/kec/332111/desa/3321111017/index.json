@@ -1,0 +1,17 @@
+{
+    "code": "3321111017",
+    "name": "Betokan",
+    "poscode": "59512",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3321",
+        "name": "Demak"
+    },
+    "kecamatan": {
+        "code": "332111",
+        "name": "Demak"
+    }
+}

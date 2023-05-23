@@ -1,0 +1,17 @@
+{
+    "code": "1402112003",
+    "name": "Pasir Selabu (Pasir Selabau)",
+    "poscode": "29363",
+    "provinsi": {
+        "code": "14",
+        "name": "Riau"
+    },
+    "kabupaten": {
+        "code": "1402",
+        "name": "Indragiri Hulu"
+    },
+    "kecamatan": {
+        "code": "140211",
+        "name": "Sungai Lala"
+    }
+}

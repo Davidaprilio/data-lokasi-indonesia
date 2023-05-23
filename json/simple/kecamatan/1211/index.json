@@ -1,0 +1,107 @@
+[
+    {
+        "code": "121113",
+        "name": "Berampu (Brampu)",
+        "count": {
+            "desa": 5
+        }
+    },
+    {
+        "code": "121112",
+        "name": "Gunung Sitember",
+        "count": {
+            "desa": 8
+        }
+    },
+    {
+        "code": "121111",
+        "name": "Lae Parira",
+        "count": {
+            "desa": 9
+        }
+    },
+    {
+        "code": "121110",
+        "name": "Parbuluan",
+        "count": {
+            "desa": 11
+        }
+    },
+    {
+        "code": "121109",
+        "name": "Pegagan Hilir",
+        "count": {
+            "desa": 13
+        }
+    },
+    {
+        "code": "121101",
+        "name": "Sidikalang",
+        "count": {
+            "desa": 11
+        }
+    },
+    {
+        "code": "121104",
+        "name": "Siempat Nempu",
+        "count": {
+            "desa": 13
+        }
+    },
+    {
+        "code": "121108",
+        "name": "Siempat Nempu Hilir",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "121107",
+        "name": "Siempat Nempu Hulu",
+        "count": {
+            "desa": 12
+        }
+    },
+    {
+        "code": "121114",
+        "name": "Silahisabungan (Silahi Sabungan)",
+        "count": {
+            "desa": 5
+        }
+    },
+    {
+        "code": "121105",
+        "name": "Silima Pungga Pungga",
+        "count": {
+            "desa": 16
+        }
+    },
+    {
+        "code": "121115",
+        "name": "Sitinjo",
+        "count": {
+            "desa": 4
+        }
+    },
+    {
+        "code": "121102",
+        "name": "Sumbul",
+        "count": {
+            "desa": 19
+        }
+    },
+    {
+        "code": "121106",
+        "name": "Tanah Pinem",
+        "count": {
+            "desa": 19
+        }
+    },
+    {
+        "code": "121103",
+        "name": "Tigalingga (Tiga Lingga)",
+        "count": {
+            "desa": 14
+        }
+    }
+]

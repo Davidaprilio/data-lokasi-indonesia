@@ -1,0 +1,17 @@
+{
+    "code": "7171111003",
+    "name": "Paal Dua",
+    "poscode": "95129",
+    "provinsi": {
+        "code": "71",
+        "name": "Sulawesi Utara"
+    },
+    "kabupaten": {
+        "code": "7171",
+        "name": "Manado"
+    },
+    "kecamatan": {
+        "code": "717111",
+        "name": "Paal Dua"
+    }
+}

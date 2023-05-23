@@ -1,0 +1,17 @@
+{
+    "code": "3320072014",
+    "name": "Karanggondang",
+    "poscode": "59452",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3320",
+        "name": "Jepara"
+    },
+    "kecamatan": {
+        "code": "332007",
+        "name": "Mlonggo"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "1674051004",
+    "name": "Mangga Besar",
+    "poscode": "31125",
+    "provinsi": {
+        "code": "16",
+        "name": "Sumatera Selatan"
+    },
+    "kabupaten": {
+        "code": "1674",
+        "name": "Prabumulih"
+    },
+    "kecamatan": {
+        "code": "167405",
+        "name": "Prabumulih Utara"
+    }
+}

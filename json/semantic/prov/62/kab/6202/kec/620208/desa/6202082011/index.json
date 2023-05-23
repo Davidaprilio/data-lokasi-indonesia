@@ -1,0 +1,17 @@
+{
+    "code": "6202082011",
+    "name": "Basirih Hulu",
+    "poscode": "74363",
+    "provinsi": {
+        "code": "62",
+        "name": "Kalimantan Tengah"
+    },
+    "kabupaten": {
+        "code": "6202",
+        "name": "Kotawaringin Timur"
+    },
+    "kecamatan": {
+        "code": "620208",
+        "name": "Mentaya Hilir Selatan"
+    }
+}

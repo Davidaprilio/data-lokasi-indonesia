@@ -1,0 +1,17 @@
+{
+    "code": "9504032045",
+    "name": "Purugi",
+    "poscode": "99044",
+    "provinsi": {
+        "code": "95",
+        "name": "Papua Pegunungan"
+    },
+    "kabupaten": {
+        "code": "9504",
+        "name": "Tolikara"
+    },
+    "kecamatan": {
+        "code": "950403",
+        "name": "Kanggime (Kanggima )"
+    }
+}

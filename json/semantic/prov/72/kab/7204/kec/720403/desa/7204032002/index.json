@@ -1,0 +1,17 @@
+{
+    "code": "7204032002",
+    "name": "Salumbia",
+    "poscode": "94551",
+    "provinsi": {
+        "code": "72",
+        "name": "Sulawesi Tengah"
+    },
+    "kabupaten": {
+        "code": "7204",
+        "name": "Toli Toli"
+    },
+    "kecamatan": {
+        "code": "720403",
+        "name": "Dondo"
+    }
+}

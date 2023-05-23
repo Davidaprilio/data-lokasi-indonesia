@@ -1,0 +1,82 @@
+[
+    {
+        "code": "1101082011",
+        "name": "Air Berundang (Air Berudang)",
+        "poscode": "23711"
+    },
+    {
+        "code": "1101082015",
+        "name": "Air Pinang",
+        "poscode": "23711"
+    },
+    {
+        "code": "1101082012",
+        "name": "Batu Itam",
+        "poscode": "23711"
+    },
+    {
+        "code": "1101082010",
+        "name": "Gunung Kerambil",
+        "poscode": "23711"
+    },
+    {
+        "code": "1101082002",
+        "name": "Hilir",
+        "poscode": "23717"
+    },
+    {
+        "code": "1101082004",
+        "name": "Hulu",
+        "poscode": "23714"
+    },
+    {
+        "code": "1101082005",
+        "name": "Jambo Apha",
+        "poscode": "23716"
+    },
+    {
+        "code": "1101082008",
+        "name": "Lhok Bengkuang",
+        "poscode": "23715"
+    },
+    {
+        "code": "1101082016",
+        "name": "Lhok Bengkuang Timur",
+        "poscode": "23712"
+    },
+    {
+        "code": "1101082001",
+        "name": "Lhok Keutapang (Ketapang)",
+        "poscode": "23718"
+    },
+    {
+        "code": "1101082014",
+        "name": "Lhok Rukam",
+        "poscode": "23711"
+    },
+    {
+        "code": "1101082003",
+        "name": "Padang",
+        "poscode": "23713"
+    },
+    {
+        "code": "1101082013",
+        "name": "Panjupian",
+        "poscode": "23711"
+    },
+    {
+        "code": "1101082009",
+        "name": "Panton Luas",
+        "poscode": "23711"
+    },
+    {
+        "code": "1101082007",
+        "name": "Pasar",
+        "poscode": "23711"
+    },
+    {
+        "code": "1101082006",
+        "name": "Tepi Air",
+        "poscode": "23712"
+    }
+]

@@ -1,0 +1,17 @@
+{
+    "code": "7307051002",
+    "name": "Lamatti Rilau",
+    "poscode": "92613",
+    "provinsi": {
+        "code": "73",
+        "name": "Sulawesi Selatan"
+    },
+    "kabupaten": {
+        "code": "7307",
+        "name": "Sinjai"
+    },
+    "kecamatan": {
+        "code": "730705",
+        "name": "Sinjai Utara"
+    }
+}

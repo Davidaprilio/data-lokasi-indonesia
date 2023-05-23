@@ -1,0 +1,44 @@
+[
+    {
+        "code": "620102",
+        "name": "Arut Selatan",
+        "count": {
+            "desa": 20
+        }
+    },
+    {
+        "code": "620104",
+        "name": "Arut Utara",
+        "count": {
+            "desa": 11
+        }
+    },
+    {
+        "code": "620103",
+        "name": "Kotawaringin Lama",
+        "count": {
+            "desa": 17
+        }
+    },
+    {
+        "code": "620101",
+        "name": "Kumai",
+        "count": {
+            "desa": 18
+        }
+    },
+    {
+        "code": "620106",
+        "name": "Pangkalan Banteng",
+        "count": {
+            "desa": 17
+        }
+    },
+    {
+        "code": "620105",
+        "name": "Pangkalan Lada",
+        "count": {
+            "desa": 11
+        }
+    }
+]

@@ -1,0 +1,17 @@
+{
+    "code": "3503012004",
+    "name": "Wonocoyo",
+    "poscode": "66364",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3503",
+        "name": "Trenggalek"
+    },
+    "kecamatan": {
+        "code": "350301",
+        "name": "Panggul"
+    }
+}

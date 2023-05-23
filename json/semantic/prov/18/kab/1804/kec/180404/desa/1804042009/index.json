@@ -1,0 +1,17 @@
+{
+    "code": "1804042009",
+    "name": "Padang Dalom",
+    "poscode": "34818",
+    "provinsi": {
+        "code": "18",
+        "name": "Lampung"
+    },
+    "kabupaten": {
+        "code": "1804",
+        "name": "Lampung Barat"
+    },
+    "kecamatan": {
+        "code": "180404",
+        "name": "Balik Bukit"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "6108112010",
+    "name": "Pawis Hilir",
+    "poscode": "79357",
+    "provinsi": {
+        "code": "61",
+        "name": "Kalimantan Barat"
+    },
+    "kabupaten": {
+        "code": "6108",
+        "name": "Landak"
+    },
+    "kecamatan": {
+        "code": "610811",
+        "name": "Jelimpo"
+    }
+}

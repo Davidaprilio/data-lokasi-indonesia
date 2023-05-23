@@ -1,0 +1,17 @@
+{
+    "code": "3574021003",
+    "name": "Kedunggaleng",
+    "poscode": "67239",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3574",
+        "name": "Probolinggo"
+    },
+    "kecamatan": {
+        "code": "357402",
+        "name": "Wonoasih"
+    }
+}

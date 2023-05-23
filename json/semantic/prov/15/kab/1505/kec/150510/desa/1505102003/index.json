@@ -1,0 +1,17 @@
+{
+    "code": "1505102003",
+    "name": "Mekar Jaya",
+    "poscode": "36366",
+    "provinsi": {
+        "code": "15",
+        "name": "Jambi"
+    },
+    "kabupaten": {
+        "code": "1505",
+        "name": "Muaro Jambi"
+    },
+    "kecamatan": {
+        "code": "150510",
+        "name": "Bahar Selatan"
+    }
+}

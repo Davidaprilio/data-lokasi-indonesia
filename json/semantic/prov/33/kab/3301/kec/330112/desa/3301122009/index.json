@@ -1,0 +1,17 @@
+{
+    "code": "3301122009",
+    "name": "Surusunda",
+    "poscode": "53255",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3301",
+        "name": "Cilacap"
+    },
+    "kecamatan": {
+        "code": "330112",
+        "name": "Karangpucung"
+    }
+}

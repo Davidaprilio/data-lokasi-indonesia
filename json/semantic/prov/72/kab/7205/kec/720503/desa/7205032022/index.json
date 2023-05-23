@@ -1,0 +1,17 @@
+{
+    "code": "7205032022",
+    "name": "Tang",
+    "poscode": "94564",
+    "provinsi": {
+        "code": "72",
+        "name": "Sulawesi Tengah"
+    },
+    "kabupaten": {
+        "code": "7205",
+        "name": "Buol"
+    },
+    "kecamatan": {
+        "code": "720503",
+        "name": "Bokat"
+    }
+}

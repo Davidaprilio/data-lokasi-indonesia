@@ -1,0 +1,170 @@
+[
+    {
+        "code": "150202",
+        "name": "Bangko",
+        "count": {
+            "desa": 8
+        }
+    },
+    {
+        "code": "150210",
+        "name": "Bangko Barat",
+        "count": {
+            "desa": 6
+        }
+    },
+    {
+        "code": "150212",
+        "name": "Batang Masumai",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "150201",
+        "name": "Jangkat",
+        "count": {
+            "desa": 11
+        }
+    },
+    {
+        "code": "150218",
+        "name": "Jangkat Timur (Sungai Tenang)",
+        "count": {
+            "desa": 14
+        }
+    },
+    {
+        "code": "150209",
+        "name": "Lembah Masurai",
+        "count": {
+            "desa": 15
+        }
+    },
+    {
+        "code": "150221",
+        "name": "Margo Tabir",
+        "count": {
+            "desa": 6
+        }
+    },
+    {
+        "code": "150203",
+        "name": "Muara Siau",
+        "count": {
+            "desa": 17
+        }
+    },
+    {
+        "code": "150211",
+        "name": "Nalo Tatan (Nalo Tantan)",
+        "count": {
+            "desa": 7
+        }
+    },
+    {
+        "code": "150206",
+        "name": "Pamenang",
+        "count": {
+            "desa": 14
+        }
+    },
+    {
+        "code": "150213",
+        "name": "Pamenang Barat",
+        "count": {
+            "desa": 8
+        }
+    },
+    {
+        "code": "150220",
+        "name": "Pamenang Selatan",
+        "count": {
+            "desa": 4
+        }
+    },
+    {
+        "code": "150217",
+        "name": "Pangkalan Jambu",
+        "count": {
+            "desa": 8
+        }
+    },
+    {
+        "code": "150219",
+        "name": "Renah Pamenang (Renah Pemenang)",
+        "count": {
+            "desa": 4
+        }
+    },
+    {
+        "code": "150216",
+        "name": "Renah Pembarap",
+        "count": {
+            "desa": 12
+        }
+    },
+    {
+        "code": "150204",
+        "name": "Sungai Manau",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "150205",
+        "name": "Tabir",
+        "count": {
+            "desa": 11
+        }
+    },
+    {
+        "code": "150223",
+        "name": "Tabir Barat",
+        "count": {
+            "desa": 14
+        }
+    },
+    {
+        "code": "150214",
+        "name": "Tabir Ilir",
+        "count": {
+            "desa": 7
+        }
+    },
+    {
+        "code": "150222",
+        "name": "Tabir Lintas",
+        "count": {
+            "desa": 5
+        }
+    },
+    {
+        "code": "150208",
+        "name": "Tabir Selatan",
+        "count": {
+            "desa": 8
+        }
+    },
+    {
+        "code": "150215",
+        "name": "Tabir Timur",
+        "count": {
+            "desa": 4
+        }
+    },
+    {
+        "code": "150207",
+        "name": "Tabir Ulu",
+        "count": {
+            "desa": 6
+        }
+    },
+    {
+        "code": "150224",
+        "name": "Tiang Pumpung",
+        "count": {
+            "desa": 6
+        }
+    }
+]

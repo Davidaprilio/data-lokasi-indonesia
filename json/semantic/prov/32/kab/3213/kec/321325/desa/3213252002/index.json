@@ -1,0 +1,17 @@
+{
+    "code": "3213252002",
+    "name": "Wanajaya",
+    "poscode": "41267",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3213",
+        "name": "Subang"
+    },
+    "kecamatan": {
+        "code": "321325",
+        "name": "Tambakdahan"
+    }
+}

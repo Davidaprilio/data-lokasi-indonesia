@@ -1,0 +1,17 @@
+{
+    "code": "1671021002",
+    "name": "1 Ulu",
+    "poscode": "30257",
+    "provinsi": {
+        "code": "16",
+        "name": "Sumatera Selatan"
+    },
+    "kabupaten": {
+        "code": "1671",
+        "name": "Palembang"
+    },
+    "kecamatan": {
+        "code": "167102",
+        "name": "Seberang Ulu I"
+    }
+}

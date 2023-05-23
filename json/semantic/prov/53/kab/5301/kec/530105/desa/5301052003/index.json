@@ -1,0 +1,17 @@
+{
+    "code": "5301052003",
+    "name": "Manulai I",
+    "poscode": "85351",
+    "provinsi": {
+        "code": "53",
+        "name": "Nusa Tenggara Timur (NTT)"
+    },
+    "kabupaten": {
+        "code": "5301",
+        "name": "Kupang"
+    },
+    "kecamatan": {
+        "code": "530105",
+        "name": "Kupang Barat"
+    }
+}

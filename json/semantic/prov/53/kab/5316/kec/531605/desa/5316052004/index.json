@@ -1,0 +1,17 @@
+{
+    "code": "5316052004",
+    "name": "Anakoli",
+    "poscode": "86471",
+    "provinsi": {
+        "code": "53",
+        "name": "Nusa Tenggara Timur (NTT)"
+    },
+    "kabupaten": {
+        "code": "5316",
+        "name": "Nagekeo"
+    },
+    "kecamatan": {
+        "code": "531605",
+        "name": "Wolowae"
+    }
+}

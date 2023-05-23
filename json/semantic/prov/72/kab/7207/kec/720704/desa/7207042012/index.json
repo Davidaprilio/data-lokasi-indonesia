@@ -1,0 +1,17 @@
+{
+    "code": "7207042012",
+    "name": "Tompudau",
+    "poscode": "94885",
+    "provinsi": {
+        "code": "72",
+        "name": "Sulawesi Tengah"
+    },
+    "kabupaten": {
+        "code": "7207",
+        "name": "Banggai Kepulauan"
+    },
+    "kecamatan": {
+        "code": "720704",
+        "name": "Tinangkung"
+    }
+}

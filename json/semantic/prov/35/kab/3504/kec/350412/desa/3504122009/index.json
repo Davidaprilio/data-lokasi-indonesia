@@ -1,0 +1,17 @@
+{
+    "code": "3504122009",
+    "name": "Demuk",
+    "poscode": "66284",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3504",
+        "name": "Tulungagung"
+    },
+    "kecamatan": {
+        "code": "350412",
+        "name": "Pucanglaban"
+    }
+}

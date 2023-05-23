@@ -1,0 +1,17 @@
+{
+    "code": "9302192003",
+    "name": "Watemu",
+    "poscode": "99652",
+    "provinsi": {
+        "code": "93",
+        "name": "Papua Selatan"
+    },
+    "kabupaten": {
+        "code": "9302",
+        "name": "Boven Digoel"
+    },
+    "kecamatan": {
+        "code": "930219",
+        "name": "Ki"
+    }
+}

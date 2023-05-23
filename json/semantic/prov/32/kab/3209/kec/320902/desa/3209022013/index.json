@@ -1,0 +1,17 @@
+{
+    "code": "3209022013",
+    "name": "Ciledug Kulon",
+    "poscode": "45188",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3209",
+        "name": "Cirebon"
+    },
+    "kecamatan": {
+        "code": "320902",
+        "name": "Ciledug"
+    }
+}

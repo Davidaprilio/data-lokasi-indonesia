@@ -1,0 +1,17 @@
+{
+    "code": "1301012009",
+    "name": "Simpang Lama Inderapura",
+    "poscode": "25671",
+    "provinsi": {
+        "code": "13",
+        "name": "Sumatera Barat"
+    },
+    "kabupaten": {
+        "code": "1301",
+        "name": "Pesisir Selatan"
+    },
+    "kecamatan": {
+        "code": "130101",
+        "name": "Pancung Soal"
+    }
+}

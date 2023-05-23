@@ -1,0 +1,226 @@
+[
+    {
+        "code": "320810",
+        "name": "Ciawigebang",
+        "count": {
+            "desa": 24
+        }
+    },
+    {
+        "code": "320828",
+        "name": "Cibeureum",
+        "count": {
+            "desa": 8
+        }
+    },
+    {
+        "code": "320805",
+        "name": "Cibingbin",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "320811",
+        "name": "Cidahu",
+        "count": {
+            "desa": 12
+        }
+    },
+    {
+        "code": "320832",
+        "name": "Cigandamekar",
+        "count": {
+            "desa": 11
+        }
+    },
+    {
+        "code": "320818",
+        "name": "Cigugur",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "320825",
+        "name": "Cilebak",
+        "count": {
+            "desa": 7
+        }
+    },
+    {
+        "code": "320813",
+        "name": "Cilimus",
+        "count": {
+            "desa": 13
+        }
+    },
+    {
+        "code": "320824",
+        "name": "Cimahi",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "320802",
+        "name": "Ciniru",
+        "count": {
+            "desa": 9
+        }
+    },
+    {
+        "code": "320821",
+        "name": "Cipicung",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "320804",
+        "name": "Ciwaru",
+        "count": {
+            "desa": 12
+        }
+    },
+    {
+        "code": "320817",
+        "name": "Darma",
+        "count": {
+            "desa": 19
+        }
+    },
+    {
+        "code": "320808",
+        "name": "Garawangi",
+        "count": {
+            "desa": 17
+        }
+    },
+    {
+        "code": "320826",
+        "name": "Hantara",
+        "count": {
+            "desa": 8
+        }
+    },
+    {
+        "code": "320812",
+        "name": "Jalaksana",
+        "count": {
+            "desa": 15
+        }
+    },
+    {
+        "code": "320823",
+        "name": "Japara",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "320801",
+        "name": "Kadugede",
+        "count": {
+            "desa": 12
+        }
+    },
+    {
+        "code": "320827",
+        "name": "Kalimanggis",
+        "count": {
+            "desa": 6
+        }
+    },
+    {
+        "code": "320829",
+        "name": "Karang Kancana (Karangkancana)",
+        "count": {
+            "desa": 9
+        }
+    },
+    {
+        "code": "320816",
+        "name": "Kramatmulya (Kramat Mulya)",
+        "count": {
+            "desa": 14
+        }
+    },
+    {
+        "code": "320809",
+        "name": "Kuningan",
+        "count": {
+            "desa": 16
+        }
+    },
+    {
+        "code": "320807",
+        "name": "Lebakwangi",
+        "count": {
+            "desa": 13
+        }
+    },
+    {
+        "code": "320806",
+        "name": "Luragung",
+        "count": {
+            "desa": 16
+        }
+    },
+    {
+        "code": "320830",
+        "name": "Maleber",
+        "count": {
+            "desa": 16
+        }
+    },
+    {
+        "code": "320814",
+        "name": "Mandirancan",
+        "count": {
+            "desa": 12
+        }
+    },
+    {
+        "code": "320820",
+        "name": "Nusaherang",
+        "count": {
+            "desa": 8
+        }
+    },
+    {
+        "code": "320822",
+        "name": "Pancalang",
+        "count": {
+            "desa": 13
+        }
+    },
+    {
+        "code": "320819",
+        "name": "Pasawahan",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "320815",
+        "name": "Selajambe",
+        "count": {
+            "desa": 7
+        }
+    },
+    {
+        "code": "320831",
+        "name": "Sindang Agung (Sindangagung)",
+        "count": {
+            "desa": 12
+        }
+    },
+    {
+        "code": "320803",
+        "name": "Subang",
+        "count": {
+            "desa": 7
+        }
+    }
+]

@@ -1,0 +1,17 @@
+{
+    "code": "1106202005",
+    "name": "Klieng Muria (Klieng Meuria)",
+    "poscode": "23373",
+    "provinsi": {
+        "code": "11",
+        "name": "Aceh (NAD)"
+    },
+    "kabupaten": {
+        "code": "1106",
+        "name": "Aceh Besar"
+    },
+    "kecamatan": {
+        "code": "110620",
+        "name": "Baitussalam"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "3401122003",
+    "name": "Banjarharjo",
+    "poscode": "55672",
+    "provinsi": {
+        "code": "34",
+        "name": "DI Yogyakarta"
+    },
+    "kabupaten": {
+        "code": "3401",
+        "name": "Kulon Progo"
+    },
+    "kecamatan": {
+        "code": "340112",
+        "name": "Kalibawang"
+    }
+}

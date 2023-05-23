@@ -1,0 +1,17 @@
+{
+    "code": "6402162010",
+    "name": "Loa Ulung",
+    "poscode": "75572",
+    "provinsi": {
+        "code": "64",
+        "name": "Kalimantan Timur"
+    },
+    "kabupaten": {
+        "code": "6402",
+        "name": "Kutai Kartanegara"
+    },
+    "kecamatan": {
+        "code": "640216",
+        "name": "Tenggarong Seberang"
+    }
+}

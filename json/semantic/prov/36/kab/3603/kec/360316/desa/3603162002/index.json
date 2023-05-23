@@ -1,0 +1,17 @@
+{
+    "code": "3603162002",
+    "name": "Karet",
+    "poscode": "15520",
+    "provinsi": {
+        "code": "36",
+        "name": "Banten"
+    },
+    "kabupaten": {
+        "code": "3603",
+        "name": "Tangerang"
+    },
+    "kecamatan": {
+        "code": "360316",
+        "name": "Sepatan"
+    }
+}

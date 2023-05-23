@@ -1,0 +1,17 @@
+{
+    "code": "3304092001",
+    "name": "Jenggawur",
+    "poscode": "53452",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3304",
+        "name": "Banjarnegara"
+    },
+    "kecamatan": {
+        "code": "330409",
+        "name": "Banjarmangu"
+    }
+}

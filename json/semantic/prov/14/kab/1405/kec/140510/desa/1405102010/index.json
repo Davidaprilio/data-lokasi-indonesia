@@ -1,0 +1,17 @@
+{
+    "code": "1405102010",
+    "name": "Teluk Bakau",
+    "poscode": "28385",
+    "provinsi": {
+        "code": "14",
+        "name": "Riau"
+    },
+    "kabupaten": {
+        "code": "1405",
+        "name": "Pelalawan"
+    },
+    "kecamatan": {
+        "code": "140510",
+        "name": "Kuala Kampar"
+    }
+}

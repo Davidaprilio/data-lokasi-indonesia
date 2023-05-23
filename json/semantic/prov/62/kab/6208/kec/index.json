@@ -1,0 +1,37 @@
+[
+    {
+        "code": "620803",
+        "name": "Balai Riam",
+        "count": {
+            "desa": 8
+        }
+    },
+    {
+        "code": "620802",
+        "name": "Jelai",
+        "count": {
+            "desa": 5
+        }
+    },
+    {
+        "code": "620804",
+        "name": "Pantai Lunci",
+        "count": {
+            "desa": 4
+        }
+    },
+    {
+        "code": "620805",
+        "name": "Permata Kecubung",
+        "count": {
+            "desa": 7
+        }
+    },
+    {
+        "code": "620801",
+        "name": "Sukamara",
+        "count": {
+            "desa": 8
+        }
+    }
+]

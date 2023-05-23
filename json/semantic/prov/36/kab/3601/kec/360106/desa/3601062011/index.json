@@ -1,0 +1,17 @@
+{
+    "code": "3601062011",
+    "name": "Citeureup",
+    "poscode": "42281",
+    "provinsi": {
+        "code": "36",
+        "name": "Banten"
+    },
+    "kabupaten": {
+        "code": "3601",
+        "name": "Pandeglang"
+    },
+    "kecamatan": {
+        "code": "360106",
+        "name": "Panimbang"
+    }
+}

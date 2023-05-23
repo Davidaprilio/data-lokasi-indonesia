@@ -1,0 +1,44 @@
+[
+    {
+        "code": "921104",
+        "name": "Dataran Isim",
+        "count": {
+            "desa": 12
+        }
+    },
+    {
+        "code": "921105",
+        "name": "Momi Waren",
+        "count": {
+            "desa": 7
+        }
+    },
+    {
+        "code": "921103",
+        "name": "Neney",
+        "count": {
+            "desa": 7
+        }
+    },
+    {
+        "code": "921102",
+        "name": "Oransbari",
+        "count": {
+            "desa": 14
+        }
+    },
+    {
+        "code": "921101",
+        "name": "Ransiki",
+        "count": {
+            "desa": 13
+        }
+    },
+    {
+        "code": "921106",
+        "name": "Tahota",
+        "count": {
+            "desa": 4
+        }
+    }
+]

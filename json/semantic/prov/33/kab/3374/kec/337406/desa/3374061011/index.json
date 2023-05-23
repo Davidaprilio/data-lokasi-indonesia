@@ -1,0 +1,17 @@
+{
+    "code": "3374061011",
+    "name": "Palebon",
+    "poscode": "50246",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3374",
+        "name": "Semarang"
+    },
+    "kecamatan": {
+        "code": "337406",
+        "name": "Pedurungan"
+    }
+}

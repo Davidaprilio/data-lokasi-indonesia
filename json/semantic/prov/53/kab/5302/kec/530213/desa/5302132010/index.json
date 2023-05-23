@@ -1,0 +1,17 @@
+{
+    "code": "5302132010",
+    "name": "Balu",
+    "poscode": "85545",
+    "provinsi": {
+        "code": "53",
+        "name": "Nusa Tenggara Timur (NTT)"
+    },
+    "kabupaten": {
+        "code": "5302",
+        "name": "Timor Tengah Selatan"
+    },
+    "kecamatan": {
+        "code": "530213",
+        "name": "Polen"
+    }
+}

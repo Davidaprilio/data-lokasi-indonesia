@@ -1,0 +1,17 @@
+{
+    "code": "1508112005",
+    "name": "Air Gemuruh",
+    "poscode": "37211",
+    "provinsi": {
+        "code": "15",
+        "name": "Jambi"
+    },
+    "kabupaten": {
+        "code": "1508",
+        "name": "Bungo"
+    },
+    "kecamatan": {
+        "code": "150811",
+        "name": "Bathin III"
+    }
+}

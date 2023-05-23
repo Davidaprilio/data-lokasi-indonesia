@@ -1,0 +1,17 @@
+{
+    "code": "3523072002",
+    "name": "Lajo Lor",
+    "poscode": "62361",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3523",
+        "name": "Tuban"
+    },
+    "kecamatan": {
+        "code": "352307",
+        "name": "Singgahan"
+    }
+}

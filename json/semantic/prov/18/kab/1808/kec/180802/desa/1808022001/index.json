@@ -1,0 +1,17 @@
+{
+    "code": "1808022001",
+    "name": "Datar Bancong",
+    "poscode": "34765",
+    "provinsi": {
+        "code": "18",
+        "name": "Lampung"
+    },
+    "kabupaten": {
+        "code": "1808",
+        "name": "Way Kanan"
+    },
+    "kecamatan": {
+        "code": "180802",
+        "name": "Kasui"
+    }
+}

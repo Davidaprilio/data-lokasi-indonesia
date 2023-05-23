@@ -1,0 +1,17 @@
+{
+    "code": "8101242006",
+    "name": "Waiputih",
+    "poscode": "97534",
+    "provinsi": {
+        "code": "81",
+        "name": "Maluku"
+    },
+    "kabupaten": {
+        "code": "8101",
+        "name": "Maluku Tengah"
+    },
+    "kecamatan": {
+        "code": "810124",
+        "name": "Seram Utara Timur Seti"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "7326172004",
+    "name": "Tampan Bonga",
+    "poscode": "91853",
+    "provinsi": {
+        "code": "73",
+        "name": "Sulawesi Selatan"
+    },
+    "kabupaten": {
+        "code": "7326",
+        "name": "Toraja Utara"
+    },
+    "kecamatan": {
+        "code": "732617",
+        "name": "Bangkelekila"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "1508172004",
+    "name": "Rantau Embacang",
+    "poscode": "37264",
+    "provinsi": {
+        "code": "15",
+        "name": "Jambi"
+    },
+    "kabupaten": {
+        "code": "1508",
+        "name": "Bungo"
+    },
+    "kecamatan": {
+        "code": "150817",
+        "name": "Tanah Sepenggal Lintas"
+    }
+}

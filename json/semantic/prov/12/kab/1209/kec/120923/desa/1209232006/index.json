@@ -1,0 +1,17 @@
+{
+    "code": "1209232006",
+    "name": "Bahung Sibatu-Batu",
+    "poscode": "21279",
+    "provinsi": {
+        "code": "12",
+        "name": "Sumatera Utara"
+    },
+    "kabupaten": {
+        "code": "1209",
+        "name": "Asahan"
+    },
+    "kecamatan": {
+        "code": "120923",
+        "name": "Sei Dadap"
+    }
+}

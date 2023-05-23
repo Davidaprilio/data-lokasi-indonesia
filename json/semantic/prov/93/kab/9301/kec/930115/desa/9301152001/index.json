@@ -1,0 +1,17 @@
+{
+    "code": "9301152001",
+    "name": "Yowit (Yowied)",
+    "poscode": "99639",
+    "provinsi": {
+        "code": "93",
+        "name": "Papua Selatan"
+    },
+    "kabupaten": {
+        "code": "9301",
+        "name": "Merauke"
+    },
+    "kecamatan": {
+        "code": "930115",
+        "name": "Tubang"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "5202011003",
+    "name": "Gerunung",
+    "poscode": "83514",
+    "provinsi": {
+        "code": "52",
+        "name": "Nusa Tenggara Barat (NTB)"
+    },
+    "kabupaten": {
+        "code": "5202",
+        "name": "Lombok Tengah"
+    },
+    "kecamatan": {
+        "code": "520201",
+        "name": "Praya"
+    }
+}

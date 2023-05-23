@@ -1,0 +1,17 @@
+{
+    "code": "5301202002",
+    "name": "Oemofa",
+    "poscode": "85363",
+    "provinsi": {
+        "code": "53",
+        "name": "Nusa Tenggara Timur (NTT)"
+    },
+    "kabupaten": {
+        "code": "5301",
+        "name": "Kupang"
+    },
+    "kecamatan": {
+        "code": "530120",
+        "name": "Amabi Oefeto Timur"
+    }
+}

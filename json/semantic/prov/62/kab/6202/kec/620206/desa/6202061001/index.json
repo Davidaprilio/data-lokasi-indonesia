@@ -1,0 +1,17 @@
+{
+    "code": "6202061001",
+    "name": "Mentawa Baru Hulu",
+    "poscode": "74322",
+    "provinsi": {
+        "code": "62",
+        "name": "Kalimantan Tengah"
+    },
+    "kabupaten": {
+        "code": "6202",
+        "name": "Kotawaringin Timur"
+    },
+    "kecamatan": {
+        "code": "620206",
+        "name": "Mentawa Baru Ketapang"
+    }
+}

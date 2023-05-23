@@ -1,0 +1,17 @@
+{
+    "code": "7602152004",
+    "name": "Tamalea (Talondo I)",
+    "poscode": "91562",
+    "provinsi": {
+        "code": "76",
+        "name": "Sulawesi Barat"
+    },
+    "kabupaten": {
+        "code": "7602",
+        "name": "Mamuju"
+    },
+    "kecamatan": {
+        "code": "760215",
+        "name": "Bonehau"
+    }
+}

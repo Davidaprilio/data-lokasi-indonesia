@@ -1,0 +1,198 @@
+[
+    {
+        "code": "180227",
+        "name": "Anak Ratu Aji",
+        "count": {
+            "desa": 6
+        }
+    },
+    {
+        "code": "180221",
+        "name": "Anak Tuha",
+        "count": {
+            "desa": 12
+        }
+    },
+    {
+        "code": "180218",
+        "name": "Bandar Mataram",
+        "count": {
+            "desa": 9
+        }
+    },
+    {
+        "code": "180226",
+        "name": "Bandar Surabaya",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "180202",
+        "name": "Bangun Rejo",
+        "count": {
+            "desa": 17
+        }
+    },
+    {
+        "code": "180215",
+        "name": "Bekri",
+        "count": {
+            "desa": 8
+        }
+    },
+    {
+        "code": "180224",
+        "name": "Bumi Nabung",
+        "count": {
+            "desa": 7
+        }
+    },
+    {
+        "code": "180214",
+        "name": "Bumi Ratu Nuban",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "180204",
+        "name": "Gunung Sugih",
+        "count": {
+            "desa": 15
+        }
+    },
+    {
+        "code": "180201",
+        "name": "Kalirejo",
+        "count": {
+            "desa": 17
+        }
+    },
+    {
+        "code": "180223",
+        "name": "Kota Gajah",
+        "count": {
+            "desa": 7
+        }
+    },
+    {
+        "code": "180203",
+        "name": "Padang Ratu",
+        "count": {
+            "desa": 15
+        }
+    },
+    {
+        "code": "180219",
+        "name": "Pubian",
+        "count": {
+            "desa": 20
+        }
+    },
+    {
+        "code": "180206",
+        "name": "Punggur",
+        "count": {
+            "desa": 9
+        }
+    },
+    {
+        "code": "180228",
+        "name": "Putra Rumbia",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "180209",
+        "name": "Rumbia",
+        "count": {
+            "desa": 9
+        }
+    },
+    {
+        "code": "180220",
+        "name": "Selagai Lingga",
+        "count": {
+            "desa": 14
+        }
+    },
+    {
+        "code": "180222",
+        "name": "Sendang Agung",
+        "count": {
+            "desa": 9
+        }
+    },
+    {
+        "code": "180216",
+        "name": "Seputih Agung",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "180210",
+        "name": "Seputih Banyak",
+        "count": {
+            "desa": 13
+        }
+    },
+    {
+        "code": "180211",
+        "name": "Seputih Mataram",
+        "count": {
+            "desa": 12
+        }
+    },
+    {
+        "code": "180208",
+        "name": "Seputih Raman",
+        "count": {
+            "desa": 14
+        }
+    },
+    {
+        "code": "180212",
+        "name": "Seputih Surabaya",
+        "count": {
+            "desa": 13
+        }
+    },
+    {
+        "code": "180207",
+        "name": "Terbanggi Besar",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "180213",
+        "name": "Terusan Nunyai",
+        "count": {
+            "desa": 7
+        }
+    },
+    {
+        "code": "180205",
+        "name": "Trimurjo",
+        "count": {
+            "desa": 14
+        }
+    },
+    {
+        "code": "180217",
+        "name": "Way Pangubuan",
+        "count": {
+            "desa": 8
+        }
+    },
+    {
+        "code": "180225",
+        "name": "Way Seputih",
+        "count": {
+            "desa": 6
+        }
+    }
+]

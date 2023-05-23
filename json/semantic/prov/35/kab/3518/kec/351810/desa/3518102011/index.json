@@ -1,0 +1,17 @@
+{
+    "code": "3518102011",
+    "name": "Jambi",
+    "poscode": "64394",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3518",
+        "name": "Nganjuk"
+    },
+    "kecamatan": {
+        "code": "351810",
+        "name": "Baron"
+    }
+}

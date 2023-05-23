@@ -1,0 +1,17 @@
+{
+    "code": "9508052001",
+    "name": "Geselma (Geselema)",
+    "poscode": "99903",
+    "provinsi": {
+        "code": "95",
+        "name": "Papua Pegunungan"
+    },
+    "kabupaten": {
+        "code": "9508",
+        "name": "Nduga"
+    },
+    "kecamatan": {
+        "code": "950805",
+        "name": "Geselma (Geselema)"
+    }
+}

@@ -1,0 +1,172 @@
+[
+    {
+        "code": "1607",
+        "type": "Kabupaten",
+        "name": "Banyuasin",
+        "fullname": "Kabupaten Banyuasin",
+        "jumlah": {
+            "kecamatan": 21,
+            "desa": 305
+        }
+    },
+    {
+        "code": "1611",
+        "type": "Kabupaten",
+        "name": "Empat Lawang",
+        "fullname": "Kabupaten Empat Lawang",
+        "jumlah": {
+            "kecamatan": 10,
+            "desa": 156
+        }
+    },
+    {
+        "code": "1604",
+        "type": "Kabupaten",
+        "name": "Lahat",
+        "fullname": "Kabupaten Lahat",
+        "jumlah": {
+            "kecamatan": 24,
+            "desa": 378
+        }
+    },
+    {
+        "code": "1673",
+        "type": "Kota",
+        "name": "Lubuk Linggau",
+        "fullname": "Kota Lubuk Linggau",
+        "jumlah": {
+            "kecamatan": 8,
+            "desa": 72
+        }
+    },
+    {
+        "code": "1603",
+        "type": "Kabupaten",
+        "name": "Muara Enim",
+        "fullname": "Kabupaten Muara Enim",
+        "jumlah": {
+            "kecamatan": 22,
+            "desa": 255
+        }
+    },
+    {
+        "code": "1606",
+        "type": "Kabupaten",
+        "name": "Musi Banyuasin",
+        "fullname": "Kabupaten Musi Banyuasin",
+        "jumlah": {
+            "kecamatan": 15,
+            "desa": 240
+        }
+    },
+    {
+        "code": "1605",
+        "type": "Kabupaten",
+        "name": "Musi Rawas",
+        "fullname": "Kabupaten Musi Rawas",
+        "jumlah": {
+            "kecamatan": 14,
+            "desa": 199
+        }
+    },
+    {
+        "code": "1613",
+        "type": "Kabupaten",
+        "name": "Musi Rawas Utara",
+        "fullname": "Kabupaten Musi Rawas Utara",
+        "jumlah": {
+            "kecamatan": 7,
+            "desa": 89
+        }
+    },
+    {
+        "code": "1610",
+        "type": "Kabupaten",
+        "name": "Ogan Ilir",
+        "fullname": "Kabupaten Ogan Ilir",
+        "jumlah": {
+            "kecamatan": 16,
+            "desa": 241
+        }
+    },
+    {
+        "code": "1602",
+        "type": "Kabupaten",
+        "name": "Ogan Komering Ilir",
+        "fullname": "Kabupaten Ogan Komering Ilir",
+        "jumlah": {
+            "kecamatan": 18,
+            "desa": 327
+        }
+    },
+    {
+        "code": "1601",
+        "type": "Kabupaten",
+        "name": "Ogan Komering Ulu",
+        "fullname": "Kabupaten Ogan Komering Ulu",
+        "jumlah": {
+            "kecamatan": 13,
+            "desa": 157
+        }
+    },
+    {
+        "code": "1609",
+        "type": "Kabupaten",
+        "name": "Ogan Komering Ulu Selatan",
+        "fullname": "Kabupaten Ogan Komering Ulu Selatan",
+        "jumlah": {
+            "kecamatan": 19,
+            "desa": 259
+        }
+    },
+    {
+        "code": "1608",
+        "type": "Kabupaten",
+        "name": "Ogan Komering Ulu Timur",
+        "fullname": "Kabupaten Ogan Komering Ulu Timur",
+        "jumlah": {
+            "kecamatan": 20,
+            "desa": 312
+        }
+    },
+    {
+        "code": "1672",
+        "type": "Kota",
+        "name": "Pagar Alam",
+        "fullname": "Kota Pagar Alam",
+        "jumlah": {
+            "kecamatan": 5,
+            "desa": 35
+        }
+    },
+    {
+        "code": "1671",
+        "type": "Kota",
+        "name": "Palembang",
+        "fullname": "Kota Palembang",
+        "jumlah": {
+            "kecamatan": 18,
+            "desa": 107
+        }
+    },
+    {
+        "code": "1612",
+        "type": "Kabupaten",
+        "name": "Penukal Abab Lematang Ilir",
+        "fullname": "Kabupaten Penukal Abab Lematang Ilir",
+        "jumlah": {
+            "kecamatan": 5,
+            "desa": 71
+        }
+    },
+    {
+        "code": "1674",
+        "type": "Kota",
+        "name": "Prabumulih",
+        "fullname": "Kota Prabumulih",
+        "jumlah": {
+            "kecamatan": 6,
+            "desa": 37
+        }
+    }
+]

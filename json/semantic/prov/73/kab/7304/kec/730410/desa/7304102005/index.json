@@ -1,0 +1,17 @@
+{
+    "code": "7304102005",
+    "name": "Loka",
+    "poscode": "92516",
+    "provinsi": {
+        "code": "73",
+        "name": "Sulawesi Selatan"
+    },
+    "kabupaten": {
+        "code": "7304",
+        "name": "Jeneponto"
+    },
+    "kecamatan": {
+        "code": "730410",
+        "name": "Rumbia"
+    }
+}

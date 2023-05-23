@@ -1,0 +1,17 @@
+{
+    "code": "3503042002",
+    "name": "Siki",
+    "poscode": "66363",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3503",
+        "name": "Trenggalek"
+    },
+    "kecamatan": {
+        "code": "350304",
+        "name": "Dongko"
+    }
+}

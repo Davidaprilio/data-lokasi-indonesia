@@ -1,0 +1,17 @@
+{
+    "code": "6110042018",
+    "name": "Lihai",
+    "poscode": "79682",
+    "provinsi": {
+        "code": "61",
+        "name": "Kalimantan Barat"
+    },
+    "kabupaten": {
+        "code": "6110",
+        "name": "Melawi"
+    },
+    "kecamatan": {
+        "code": "611004",
+        "name": "Menukung"
+    }
+}

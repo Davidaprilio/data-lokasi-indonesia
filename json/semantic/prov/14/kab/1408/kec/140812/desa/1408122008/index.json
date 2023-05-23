@@ -1,0 +1,17 @@
+{
+    "code": "1408122008",
+    "name": "Selat Guntung",
+    "poscode": "28684",
+    "provinsi": {
+        "code": "14",
+        "name": "Riau"
+    },
+    "kabupaten": {
+        "code": "1408",
+        "name": "Siak"
+    },
+    "kecamatan": {
+        "code": "140812",
+        "name": "Sabak Auh"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "9209242002",
+    "name": "Ajami",
+    "poscode": "98392",
+    "provinsi": {
+        "code": "96",
+        "name": "Papua Barat Daya"
+    },
+    "kabupaten": {
+        "code": "9209",
+        "name": "Tambrauw"
+    },
+    "kecamatan": {
+        "code": "920924",
+        "name": "Kebar Selatan"
+    }
+}

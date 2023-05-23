@@ -1,0 +1,17 @@
+{
+    "code": "7412032003",
+    "name": "Tangkombuno",
+    "poscode": "93397",
+    "provinsi": {
+        "code": "74",
+        "name": "Sulawesi Tenggara"
+    },
+    "kabupaten": {
+        "code": "7412",
+        "name": "Konawe Kepulauan"
+    },
+    "kecamatan": {
+        "code": "741203",
+        "name": "Wawonii Timur Laut"
+    }
+}

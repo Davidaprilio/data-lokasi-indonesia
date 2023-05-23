@@ -1,0 +1,17 @@
+{
+    "code": "3312252006",
+    "name": "Golo",
+    "poscode": "57698",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3312",
+        "name": "Wonogiri"
+    },
+    "kecamatan": {
+        "code": "331225",
+        "name": "Puhpelem"
+    }
+}

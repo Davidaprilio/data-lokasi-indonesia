@@ -1,0 +1,58 @@
+[
+    {
+        "code": "167306",
+        "name": "Lubuk Linggau Barat Dua (II)",
+        "count": {
+            "desa": 8
+        }
+    },
+    {
+        "code": "167302",
+        "name": "Lubuk Linggau Barat Satu (I)",
+        "count": {
+            "desa": 11
+        }
+    },
+    {
+        "code": "167307",
+        "name": "Lubuk Linggau Selatan Dua (II)",
+        "count": {
+            "desa": 9
+        }
+    },
+    {
+        "code": "167303",
+        "name": "Lubuk Linggau Selatan Satu (I)",
+        "count": {
+            "desa": 7
+        }
+    },
+    {
+        "code": "167305",
+        "name": "Lubuk Linggau Timur Dua (II)",
+        "count": {
+            "desa": 9
+        }
+    },
+    {
+        "code": "167301",
+        "name": "Lubuk Linggau Timur Satu (I)",
+        "count": {
+            "desa": 8
+        }
+    },
+    {
+        "code": "167308",
+        "name": "Lubuk Linggau Utara Dua (II)",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "167304",
+        "name": "Lubuk Linggau Utara Satu (I)",
+        "count": {
+            "desa": 10
+        }
+    }
+]

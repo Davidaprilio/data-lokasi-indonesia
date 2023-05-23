@@ -1,0 +1,17 @@
+{
+    "code": "6306092002",
+    "name": "Karang Paci",
+    "poscode": "71262",
+    "provinsi": {
+        "code": "63",
+        "name": "Kalimantan Selatan"
+    },
+    "kabupaten": {
+        "code": "6306",
+        "name": "Hulu Sungai Selatan"
+    },
+    "kecamatan": {
+        "code": "630609",
+        "name": "Kalumpang (Kelumpang)"
+    }
+}

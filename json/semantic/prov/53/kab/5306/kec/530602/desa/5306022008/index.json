@@ -1,0 +1,17 @@
+{
+    "code": "5306022008",
+    "name": "Watowara",
+    "poscode": "86255",
+    "provinsi": {
+        "code": "53",
+        "name": "Nusa Tenggara Timur (NTT)"
+    },
+    "kabupaten": {
+        "code": "5306",
+        "name": "Flores Timur"
+    },
+    "kecamatan": {
+        "code": "530602",
+        "name": "Titehena"
+    }
+}

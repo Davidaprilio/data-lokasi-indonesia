@@ -1,0 +1,17 @@
+{
+    "code": "6305041002",
+    "name": "Kupang",
+    "poscode": "71113",
+    "provinsi": {
+        "code": "63",
+        "name": "Kalimantan Selatan"
+    },
+    "kabupaten": {
+        "code": "6305",
+        "name": "Tapin"
+    },
+    "kecamatan": {
+        "code": "630504",
+        "name": "Tapin Utara"
+    }
+}

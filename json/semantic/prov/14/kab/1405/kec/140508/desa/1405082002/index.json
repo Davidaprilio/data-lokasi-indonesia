@@ -1,0 +1,17 @@
+{
+    "code": "1405082002",
+    "name": "Merbau",
+    "poscode": "28386",
+    "provinsi": {
+        "code": "14",
+        "name": "Riau"
+    },
+    "kabupaten": {
+        "code": "1405",
+        "name": "Pelalawan"
+    },
+    "kecamatan": {
+        "code": "140508",
+        "name": "Bunut"
+    }
+}

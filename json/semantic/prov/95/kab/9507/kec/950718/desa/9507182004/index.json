@@ -1,0 +1,17 @@
+{
+    "code": "9507182004",
+    "name": "Wamindik",
+    "poscode": "99579",
+    "provinsi": {
+        "code": "95",
+        "name": "Papua Pegunungan"
+    },
+    "kabupaten": {
+        "code": "9507",
+        "name": "Lanny Jaya"
+    },
+    "kecamatan": {
+        "code": "950718",
+        "name": "Milimbo"
+    }
+}

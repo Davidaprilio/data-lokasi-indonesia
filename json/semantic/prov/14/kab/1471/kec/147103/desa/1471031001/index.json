@@ -1,0 +1,17 @@
+{
+    "code": "1471031001",
+    "name": "Cinta Raja",
+    "poscode": "28131",
+    "provinsi": {
+        "code": "14",
+        "name": "Riau"
+    },
+    "kabupaten": {
+        "code": "1471",
+        "name": "Pekanbaru"
+    },
+    "kecamatan": {
+        "code": "147103",
+        "name": "Sail"
+    }
+}

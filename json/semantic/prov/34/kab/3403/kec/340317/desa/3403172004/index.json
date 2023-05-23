@@ -1,0 +1,17 @@
+{
+    "code": "3403172004",
+    "name": "Banjarejo",
+    "poscode": "55881",
+    "provinsi": {
+        "code": "34",
+        "name": "DI Yogyakarta"
+    },
+    "kabupaten": {
+        "code": "3403",
+        "name": "Gunungkidul"
+    },
+    "kecamatan": {
+        "code": "340317",
+        "name": "Tanjungsari"
+    }
+}

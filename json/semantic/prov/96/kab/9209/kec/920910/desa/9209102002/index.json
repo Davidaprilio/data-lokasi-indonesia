@@ -1,0 +1,17 @@
+{
+    "code": "9209102002",
+    "name": "Saukorem",
+    "poscode": "98381",
+    "provinsi": {
+        "code": "96",
+        "name": "Papua Barat Daya"
+    },
+    "kabupaten": {
+        "code": "9209",
+        "name": "Tambrauw"
+    },
+    "kecamatan": {
+        "code": "920910",
+        "name": "Amberbaken"
+    }
+}

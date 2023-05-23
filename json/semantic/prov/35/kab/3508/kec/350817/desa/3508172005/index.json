@@ -1,0 +1,17 @@
+{
+    "code": "3508172005",
+    "name": "Sukosari",
+    "poscode": "67355",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3508",
+        "name": "Lumajang"
+    },
+    "kecamatan": {
+        "code": "350817",
+        "name": "Jatiroto"
+    }
+}

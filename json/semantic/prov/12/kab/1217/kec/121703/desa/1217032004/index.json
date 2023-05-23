@@ -1,0 +1,17 @@
+{
+    "code": "1217032004",
+    "name": "Toguan Galung",
+    "poscode": "22394",
+    "provinsi": {
+        "code": "12",
+        "name": "Sumatera Utara"
+    },
+    "kabupaten": {
+        "code": "1217",
+        "name": "Samosir"
+    },
+    "kecamatan": {
+        "code": "121703",
+        "name": "Nainggolan"
+    }
+}

@@ -1,0 +1,100 @@
+[
+    {
+        "code": "731307",
+        "name": "Belawa",
+        "count": {
+            "desa": 9
+        }
+    },
+    {
+        "code": "731311",
+        "name": "Bola",
+        "count": {
+            "desa": 11
+        }
+    },
+    {
+        "code": "731313",
+        "name": "Gilireng",
+        "count": {
+            "desa": 9
+        }
+    },
+    {
+        "code": "731314",
+        "name": "Keera",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "731305",
+        "name": "Majauleng",
+        "count": {
+            "desa": 18
+        }
+    },
+    {
+        "code": "731309",
+        "name": "Maniangpajo",
+        "count": {
+            "desa": 8
+        }
+    },
+    {
+        "code": "731302",
+        "name": "Pammana",
+        "count": {
+            "desa": 16
+        }
+    },
+    {
+        "code": "731312",
+        "name": "Penrang",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "731310",
+        "name": "Pitumpanua",
+        "count": {
+            "desa": 27
+        }
+    },
+    {
+        "code": "731301",
+        "name": "Sabangparu",
+        "count": {
+            "desa": 15
+        }
+    },
+    {
+        "code": "731304",
+        "name": "Sajoanging",
+        "count": {
+            "desa": 9
+        }
+    },
+    {
+        "code": "731303",
+        "name": "Takkalalla",
+        "count": {
+            "desa": 13
+        }
+    },
+    {
+        "code": "731308",
+        "name": "Tanasitolo",
+        "count": {
+            "desa": 19
+        }
+    },
+    {
+        "code": "731306",
+        "name": "Tempe",
+        "count": {
+            "desa": 16
+        }
+    }
+]

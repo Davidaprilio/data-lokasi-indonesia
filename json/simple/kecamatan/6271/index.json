@@ -1,0 +1,37 @@
+[
+    {
+        "code": "627102",
+        "name": "Bukit Batu",
+        "count": {
+            "desa": 7
+        }
+    },
+    {
+        "code": "627103",
+        "name": "Jekan Raya",
+        "count": {
+            "desa": 4
+        }
+    },
+    {
+        "code": "627101",
+        "name": "Pahandut",
+        "count": {
+            "desa": 6
+        }
+    },
+    {
+        "code": "627105",
+        "name": "Rakumpit",
+        "count": {
+            "desa": 7
+        }
+    },
+    {
+        "code": "627104",
+        "name": "Sabangau (Sebangau)",
+        "count": {
+            "desa": 6
+        }
+    }
+]

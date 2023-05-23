@@ -1,0 +1,17 @@
+{
+    "code": "1212232014",
+    "name": "Lumban Sangkalan",
+    "poscode": "22387",
+    "provinsi": {
+        "code": "12",
+        "name": "Sumatera Utara"
+    },
+    "kabupaten": {
+        "code": "1212",
+        "name": "Toba"
+    },
+    "kecamatan": {
+        "code": "121223",
+        "name": "Bonatua Lunasi"
+    }
+}

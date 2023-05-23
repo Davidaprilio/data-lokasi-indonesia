@@ -1,0 +1,17 @@
+{
+    "code": "1173042009",
+    "name": "Padang Sakti",
+    "poscode": "24353",
+    "provinsi": {
+        "code": "11",
+        "name": "Aceh (NAD)"
+    },
+    "kabupaten": {
+        "code": "1173",
+        "name": "Lhokseumawe"
+    },
+    "kecamatan": {
+        "code": "117304",
+        "name": "Muara Satu"
+    }
+}

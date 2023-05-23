@@ -1,0 +1,17 @@
+{
+    "code": "1301052001",
+    "name": "Painan",
+    "poscode": "25651",
+    "provinsi": {
+        "code": "13",
+        "name": "Sumatera Barat"
+    },
+    "kabupaten": {
+        "code": "1301",
+        "name": "Pesisir Selatan"
+    },
+    "kecamatan": {
+        "code": "130105",
+        "name": "IV Jurai"
+    }
+}

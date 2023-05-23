@@ -1,0 +1,17 @@
+{
+    "code": "1103122020",
+    "name": "Pante Merbo (Meureubo)",
+    "poscode": "24462",
+    "provinsi": {
+        "code": "11",
+        "name": "Aceh (NAD)"
+    },
+    "kabupaten": {
+        "code": "1103",
+        "name": "Aceh Timur"
+    },
+    "kecamatan": {
+        "code": "110312",
+        "name": "Madat"
+    }
+}

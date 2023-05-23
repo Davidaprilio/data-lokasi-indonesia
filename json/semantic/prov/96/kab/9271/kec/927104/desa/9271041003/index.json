@@ -1,0 +1,17 @@
+{
+    "code": "9271041003",
+    "name": "Soop",
+    "poscode": "98413",
+    "provinsi": {
+        "code": "96",
+        "name": "Papua Barat Daya"
+    },
+    "kabupaten": {
+        "code": "9271",
+        "name": "Sorong"
+    },
+    "kecamatan": {
+        "code": "927104",
+        "name": "Sorong Kepulauan"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "7401041004",
+    "name": "Lalombaa",
+    "poscode": "93518",
+    "provinsi": {
+        "code": "74",
+        "name": "Sulawesi Tenggara"
+    },
+    "kabupaten": {
+        "code": "7401",
+        "name": "Kolaka"
+    },
+    "kecamatan": {
+        "code": "740104",
+        "name": "Kolaka"
+    }
+}

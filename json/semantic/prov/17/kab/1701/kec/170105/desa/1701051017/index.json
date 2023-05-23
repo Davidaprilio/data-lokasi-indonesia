@@ -1,0 +1,17 @@
+{
+    "code": "1701051017",
+    "name": "Pasar Baru",
+    "poscode": "38512",
+    "provinsi": {
+        "code": "17",
+        "name": "Bengkulu"
+    },
+    "kabupaten": {
+        "code": "1701",
+        "name": "Bengkulu Selatan"
+    },
+    "kecamatan": {
+        "code": "170105",
+        "name": "Kota Manna"
+    }
+}

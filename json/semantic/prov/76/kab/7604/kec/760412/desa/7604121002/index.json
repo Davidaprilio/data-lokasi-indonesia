@@ -1,0 +1,17 @@
+{
+    "code": "7604121002",
+    "name": "Balanipa",
+    "poscode": "91354",
+    "provinsi": {
+        "code": "76",
+        "name": "Sulawesi Barat"
+    },
+    "kabupaten": {
+        "code": "7604",
+        "name": "Polewali Mandar"
+    },
+    "kecamatan": {
+        "code": "760412",
+        "name": "Balanipa"
+    }
+}

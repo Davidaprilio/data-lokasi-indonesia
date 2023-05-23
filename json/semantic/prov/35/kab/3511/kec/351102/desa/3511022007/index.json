@@ -1,0 +1,17 @@
+{
+    "code": "3511022007",
+    "name": "Kalianyar",
+    "poscode": "68263",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3511",
+        "name": "Bondowoso"
+    },
+    "kecamatan": {
+        "code": "351102",
+        "name": "Tamanan"
+    }
+}

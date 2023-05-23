@@ -1,0 +1,17 @@
+{
+    "code": "3214172009",
+    "name": "Pusakamulya",
+    "poscode": "41175",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3214",
+        "name": "Purwakarta"
+    },
+    "kecamatan": {
+        "code": "321417",
+        "name": "Kiarapedes"
+    }
+}

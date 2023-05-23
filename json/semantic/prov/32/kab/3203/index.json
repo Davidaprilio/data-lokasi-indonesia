@@ -1,0 +1,10 @@
+{
+    "code": "3203",
+    "type": "Kabupaten",
+    "name": "Cianjur",
+    "fullname": "Kabupaten Cianjur",
+    "jumlah": {
+        "kecamatan": 32,
+        "desa": 360
+    }
+}

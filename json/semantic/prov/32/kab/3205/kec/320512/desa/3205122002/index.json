@@ -1,0 +1,17 @@
+{
+    "code": "3205122002",
+    "name": "Mekarsari",
+    "poscode": "44185",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3205",
+        "name": "Garut"
+    },
+    "kecamatan": {
+        "code": "320512",
+        "name": "Cibatu"
+    }
+}

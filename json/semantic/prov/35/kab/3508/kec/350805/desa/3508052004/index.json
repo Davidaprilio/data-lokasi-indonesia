@@ -1,0 +1,17 @@
+{
+    "code": "3508052004",
+    "name": "Lempeni",
+    "poscode": "67371",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3508",
+        "name": "Lumajang"
+    },
+    "kecamatan": {
+        "code": "350805",
+        "name": "Tempeh"
+    }
+}

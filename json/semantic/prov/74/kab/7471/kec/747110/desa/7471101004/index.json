@@ -1,0 +1,17 @@
+{
+    "code": "7471101004",
+    "name": "Lalolara",
+    "poscode": "93231",
+    "provinsi": {
+        "code": "74",
+        "name": "Sulawesi Tenggara"
+    },
+    "kabupaten": {
+        "code": "7471",
+        "name": "Kendari"
+    },
+    "kecamatan": {
+        "code": "747110",
+        "name": "Kambu"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "1805132005",
+    "name": "Sidoharjo",
+    "poscode": "34593",
+    "provinsi": {
+        "code": "18",
+        "name": "Lampung"
+    },
+    "kabupaten": {
+        "code": "1805",
+        "name": "Tulang Bawang"
+    },
+    "kecamatan": {
+        "code": "180513",
+        "name": "Penawar Tama"
+    }
+}

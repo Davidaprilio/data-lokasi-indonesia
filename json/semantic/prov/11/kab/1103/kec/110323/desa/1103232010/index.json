@@ -1,0 +1,17 @@
+{
+    "code": "1103232010",
+    "name": "Seuneubok Timu (Seuneubok Timur)",
+    "poscode": "24456",
+    "provinsi": {
+        "code": "11",
+        "name": "Aceh (NAD)"
+    },
+    "kabupaten": {
+        "code": "1103",
+        "name": "Aceh Timur"
+    },
+    "kecamatan": {
+        "code": "110323",
+        "name": "Idi Timur"
+    }
+}

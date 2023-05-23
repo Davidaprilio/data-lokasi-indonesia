@@ -1,0 +1,17 @@
+{
+    "code": "3309012003",
+    "name": "Jrakah",
+    "poscode": "57363",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3309",
+        "name": "Boyolali"
+    },
+    "kecamatan": {
+        "code": "330901",
+        "name": "Selo"
+    }
+}

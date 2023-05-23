@@ -1,0 +1,17 @@
+{
+    "code": "8105012023",
+    "name": "Kampung Wailola",
+    "poscode": "97521",
+    "provinsi": {
+        "code": "81",
+        "name": "Maluku"
+    },
+    "kabupaten": {
+        "code": "8105",
+        "name": "Seram Bagian Timur"
+    },
+    "kecamatan": {
+        "code": "810501",
+        "name": "Bula"
+    }
+}

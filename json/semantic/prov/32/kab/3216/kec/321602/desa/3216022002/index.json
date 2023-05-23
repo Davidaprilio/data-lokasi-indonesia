@@ -1,0 +1,17 @@
+{
+    "code": "3216022002",
+    "name": "Muarabakti (Muara Bakti)",
+    "poscode": "17610",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3216",
+        "name": "Bekasi"
+    },
+    "kecamatan": {
+        "code": "321602",
+        "name": "Babelan"
+    }
+}

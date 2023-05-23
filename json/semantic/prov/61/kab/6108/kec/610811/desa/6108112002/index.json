@@ -1,0 +1,17 @@
+{
+    "code": "6108112002",
+    "name": "Kersik Belantian",
+    "poscode": "79357",
+    "provinsi": {
+        "code": "61",
+        "name": "Kalimantan Barat"
+    },
+    "kabupaten": {
+        "code": "6108",
+        "name": "Landak"
+    },
+    "kecamatan": {
+        "code": "610811",
+        "name": "Jelimpo"
+    }
+}

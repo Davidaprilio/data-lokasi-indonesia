@@ -1,0 +1,17 @@
+{
+    "code": "3205222007",
+    "name": "Mekarjaya",
+    "poscode": "44171",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3205",
+        "name": "Garut"
+    },
+    "kecamatan": {
+        "code": "320522",
+        "name": "Cikajang"
+    }
+}

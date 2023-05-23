@@ -1,0 +1,17 @@
+{
+    "code": "3508101004",
+    "name": "Ditotrunan",
+    "poscode": "67313",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3508",
+        "name": "Lumajang"
+    },
+    "kecamatan": {
+        "code": "350810",
+        "name": "Lumajang"
+    }
+}

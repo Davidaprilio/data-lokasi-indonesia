@@ -1,0 +1,17 @@
+{
+    "code": "6212032018",
+    "name": "Tawai Haui",
+    "poscode": "73992",
+    "provinsi": {
+        "code": "62",
+        "name": "Kalimantan Tengah"
+    },
+    "kabupaten": {
+        "code": "6212",
+        "name": "Murung Raya"
+    },
+    "kecamatan": {
+        "code": "621203",
+        "name": "Laung Tuhup"
+    }
+}

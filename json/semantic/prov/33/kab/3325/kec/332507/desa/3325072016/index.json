@@ -1,0 +1,17 @@
+{
+    "code": "3325072016",
+    "name": "Kebondalem",
+    "poscode": "51281",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3325",
+        "name": "Batang"
+    },
+    "kecamatan": {
+        "code": "332507",
+        "name": "Gringsing"
+    }
+}

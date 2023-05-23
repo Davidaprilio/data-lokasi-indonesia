@@ -1,0 +1,17 @@
+{
+    "code": "3309132008",
+    "name": "Gunung",
+    "poscode": "57377",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3309",
+        "name": "Boyolali"
+    },
+    "kecamatan": {
+        "code": "330913",
+        "name": "Simo"
+    }
+}

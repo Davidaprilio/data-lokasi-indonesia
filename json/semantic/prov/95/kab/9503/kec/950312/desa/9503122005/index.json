@@ -1,0 +1,17 @@
+{
+    "code": "9503122005",
+    "name": "Suok",
+    "poscode": "99719",
+    "provinsi": {
+        "code": "95",
+        "name": "Papua Pegunungan"
+    },
+    "kabupaten": {
+        "code": "9503",
+        "name": "Yahukimo"
+    },
+    "kecamatan": {
+        "code": "950312",
+        "name": "Wusama (Wusuma)"
+    }
+}

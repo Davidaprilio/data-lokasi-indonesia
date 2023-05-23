@@ -1,0 +1,17 @@
+{
+    "code": "1213112012",
+    "name": "Simpang Pining",
+    "poscode": "22999",
+    "provinsi": {
+        "code": "12",
+        "name": "Sumatera Utara"
+    },
+    "kabupaten": {
+        "code": "1213",
+        "name": "Mandailing Natal"
+    },
+    "kecamatan": {
+        "code": "121311",
+        "name": "Ulu Pungkut"
+    }
+}

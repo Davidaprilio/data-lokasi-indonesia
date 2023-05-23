@@ -1,0 +1,17 @@
+{
+    "code": "1110132002",
+    "name": "Lae Sipola",
+    "poscode": "24788",
+    "provinsi": {
+        "code": "11",
+        "name": "Aceh (NAD)"
+    },
+    "kabupaten": {
+        "code": "1110",
+        "name": "Aceh Singkil"
+    },
+    "kecamatan": {
+        "code": "111013",
+        "name": "Singkohor"
+    }
+}

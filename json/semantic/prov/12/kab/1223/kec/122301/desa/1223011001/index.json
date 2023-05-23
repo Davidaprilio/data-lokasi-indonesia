@@ -1,0 +1,17 @@
+{
+    "code": "1223011001",
+    "name": "Aek Kanopan",
+    "poscode": "21457",
+    "provinsi": {
+        "code": "12",
+        "name": "Sumatera Utara"
+    },
+    "kabupaten": {
+        "code": "1223",
+        "name": "Labuhanbatu Utara"
+    },
+    "kecamatan": {
+        "code": "122301",
+        "name": "Kualuh Hulu"
+    }
+}

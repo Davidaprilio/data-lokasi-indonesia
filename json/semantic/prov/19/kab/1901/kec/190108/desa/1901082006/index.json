@@ -1,0 +1,17 @@
+{
+    "code": "1901082006",
+    "name": "Kota Waringin",
+    "poscode": "33179",
+    "provinsi": {
+        "code": "19",
+        "name": "Kepulauan Bangka Belitung"
+    },
+    "kabupaten": {
+        "code": "1901",
+        "name": "Bangka"
+    },
+    "kecamatan": {
+        "code": "190108",
+        "name": "Puding Besar"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "3271021002",
+    "name": "Baranangsiang",
+    "poscode": "16143",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3271",
+        "name": "Bogor"
+    },
+    "kecamatan": {
+        "code": "327102",
+        "name": "Bogor Timur"
+    }
+}

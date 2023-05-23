@@ -1,0 +1,17 @@
+{
+    "code": "1223062004",
+    "name": "Sungai Raja",
+    "poscode": "21454",
+    "provinsi": {
+        "code": "12",
+        "name": "Sumatera Utara"
+    },
+    "kabupaten": {
+        "code": "1223",
+        "name": "Labuhanbatu Utara"
+    },
+    "kecamatan": {
+        "code": "122306",
+        "name": "Na IX-X"
+    }
+}

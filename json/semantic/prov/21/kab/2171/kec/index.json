@@ -1,0 +1,86 @@
+[
+    {
+        "code": "217110",
+        "name": "Batam Kota",
+        "count": {
+            "desa": 6
+        }
+    },
+    {
+        "code": "217112",
+        "name": "Batu Aji",
+        "count": {
+            "desa": 4
+        }
+    },
+    {
+        "code": "217102",
+        "name": "Batu Ampar",
+        "count": {
+            "desa": 4
+        }
+    },
+    {
+        "code": "217101",
+        "name": "Belakang Padang",
+        "count": {
+            "desa": 6
+        }
+    },
+    {
+        "code": "217109",
+        "name": "Bengkong",
+        "count": {
+            "desa": 4
+        }
+    },
+    {
+        "code": "217105",
+        "name": "Bulang",
+        "count": {
+            "desa": 6
+        }
+    },
+    {
+        "code": "217108",
+        "name": "Galang",
+        "count": {
+            "desa": 8
+        }
+    },
+    {
+        "code": "217106",
+        "name": "Lubuk Baja",
+        "count": {
+            "desa": 5
+        }
+    },
+    {
+        "code": "217104",
+        "name": "Nongsa",
+        "count": {
+            "desa": 4
+        }
+    },
+    {
+        "code": "217111",
+        "name": "Sagulung",
+        "count": {
+            "desa": 6
+        }
+    },
+    {
+        "code": "217107",
+        "name": "Sei/Sungai Beduk",
+        "count": {
+            "desa": 4
+        }
+    },
+    {
+        "code": "217103",
+        "name": "Sekupang",
+        "count": {
+            "desa": 7
+        }
+    }
+]

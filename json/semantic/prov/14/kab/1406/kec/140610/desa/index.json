@@ -1,0 +1,37 @@
+[
+    {
+        "code": "1406102004",
+        "name": "Bangun Purba",
+        "poscode": "28557"
+    },
+    {
+        "code": "1406102006",
+        "name": "Bangun Purba Barat",
+        "poscode": "28557"
+    },
+    {
+        "code": "1406102005",
+        "name": "Bangun Purba Timur Jaya",
+        "poscode": "28557"
+    },
+    {
+        "code": "1406102001",
+        "name": "Pasir Agung",
+        "poscode": "28557"
+    },
+    {
+        "code": "1406102002",
+        "name": "Pasir Intan",
+        "poscode": "28557"
+    },
+    {
+        "code": "1406102003",
+        "name": "Rambah Jaya",
+        "poscode": "28557"
+    },
+    {
+        "code": "1406102007",
+        "name": "Tangun",
+        "poscode": "28557"
+    }
+]

@@ -1,0 +1,17 @@
+{
+    "code": "1803042012",
+    "name": "Sindang Marga",
+    "poscode": "34557",
+    "provinsi": {
+        "code": "18",
+        "name": "Lampung"
+    },
+    "kabupaten": {
+        "code": "1803",
+        "name": "Lampung Utara"
+    },
+    "kecamatan": {
+        "code": "180304",
+        "name": "Tanjung Raja"
+    }
+}

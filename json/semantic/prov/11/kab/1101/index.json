@@ -1,0 +1,10 @@
+{
+    "code": "1101",
+    "type": "Kabupaten",
+    "name": "Aceh Selatan",
+    "fullname": "Kabupaten Aceh Selatan",
+    "jumlah": {
+        "kecamatan": 18,
+        "desa": 260
+    }
+}

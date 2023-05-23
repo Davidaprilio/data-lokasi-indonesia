@@ -1,0 +1,17 @@
+{
+    "code": "5306092009",
+    "name": "Samsoge",
+    "poscode": "86260",
+    "provinsi": {
+        "code": "53",
+        "name": "Nusa Tenggara Timur (NTT)"
+    },
+    "kabupaten": {
+        "code": "5306",
+        "name": "Flores Timur"
+    },
+    "kecamatan": {
+        "code": "530609",
+        "name": "Wotan Ulumando"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "6112032008",
+    "name": "Pancaroba",
+    "poscode": "78393",
+    "provinsi": {
+        "code": "61",
+        "name": "Kalimantan Barat"
+    },
+    "kabupaten": {
+        "code": "6112",
+        "name": "Kubu Raya"
+    },
+    "kecamatan": {
+        "code": "611203",
+        "name": "Sungai Ambawang"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "1810092008",
+    "name": "Madaraya",
+    "poscode": "35370",
+    "provinsi": {
+        "code": "18",
+        "name": "Lampung"
+    },
+    "kabupaten": {
+        "code": "1810",
+        "name": "Pringsewu"
+    },
+    "kecamatan": {
+        "code": "181009",
+        "name": "Pagelaran Utara"
+    }
+}

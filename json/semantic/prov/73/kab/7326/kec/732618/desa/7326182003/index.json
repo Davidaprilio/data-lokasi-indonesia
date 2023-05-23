@@ -1,0 +1,17 @@
+{
+    "code": "7326182003",
+    "name": "Pitung Penanian",
+    "poscode": "91842",
+    "provinsi": {
+        "code": "73",
+        "name": "Sulawesi Selatan"
+    },
+    "kabupaten": {
+        "code": "7326",
+        "name": "Toraja Utara"
+    },
+    "kecamatan": {
+        "code": "732618",
+        "name": "Rantebua"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "1871021008",
+    "name": "Korpri Jaya",
+    "poscode": "35131",
+    "provinsi": {
+        "code": "18",
+        "name": "Lampung"
+    },
+    "kabupaten": {
+        "code": "1871",
+        "name": "Bandar Lampung"
+    },
+    "kecamatan": {
+        "code": "187102",
+        "name": "Sukarame"
+    }
+}

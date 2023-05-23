@@ -1,0 +1,192 @@
+[
+    {
+        "code": "1306",
+        "type": "Kabupaten",
+        "name": "Agam",
+        "fullname": "Kabupaten Agam",
+        "jumlah": {
+            "kecamatan": 16,
+            "desa": 82
+        }
+    },
+    {
+        "code": "1375",
+        "type": "Kota",
+        "name": "Bukittinggi",
+        "fullname": "Kota Bukittinggi",
+        "jumlah": {
+            "kecamatan": 3,
+            "desa": 24
+        }
+    },
+    {
+        "code": "1310",
+        "type": "Kabupaten",
+        "name": "Dharmasraya",
+        "fullname": "Kabupaten Dharmasraya",
+        "jumlah": {
+            "kecamatan": 11,
+            "desa": 52
+        }
+    },
+    {
+        "code": "1309",
+        "type": "Kabupaten",
+        "name": "Kepulauan Mentawai",
+        "fullname": "Kabupaten Kepulauan Mentawai",
+        "jumlah": {
+            "kecamatan": 10,
+            "desa": 43
+        }
+    },
+    {
+        "code": "1307",
+        "type": "Kabupaten",
+        "name": "Lima Puluh Kota",
+        "fullname": "Kabupaten Lima Puluh Kota",
+        "jumlah": {
+            "kecamatan": 13,
+            "desa": 79
+        }
+    },
+    {
+        "code": "1371",
+        "type": "Kota",
+        "name": "Padang",
+        "fullname": "Kota Padang",
+        "jumlah": {
+            "kecamatan": 11,
+            "desa": 104
+        }
+    },
+    {
+        "code": "1374",
+        "type": "Kota",
+        "name": "Padang Panjang",
+        "fullname": "Kota Padang Panjang",
+        "jumlah": {
+            "kecamatan": 2,
+            "desa": 16
+        }
+    },
+    {
+        "code": "1305",
+        "type": "Kabupaten",
+        "name": "Padang Pariaman",
+        "fullname": "Kabupaten Padang Pariaman",
+        "jumlah": {
+            "kecamatan": 17,
+            "desa": 103
+        }
+    },
+    {
+        "code": "1377",
+        "type": "Kota",
+        "name": "Pariaman",
+        "fullname": "Kota Pariaman",
+        "jumlah": {
+            "kecamatan": 4,
+            "desa": 71
+        }
+    },
+    {
+        "code": "1308",
+        "type": "Kabupaten",
+        "name": "Pasaman",
+        "fullname": "Kabupaten Pasaman",
+        "jumlah": {
+            "kecamatan": 12,
+            "desa": 37
+        }
+    },
+    {
+        "code": "1312",
+        "type": "Kabupaten",
+        "name": "Pasaman Barat",
+        "fullname": "Kabupaten Pasaman Barat",
+        "jumlah": {
+            "kecamatan": 11,
+            "desa": 19
+        }
+    },
+    {
+        "code": "1376",
+        "type": "Kota",
+        "name": "Payakumbuh",
+        "fullname": "Kota Payakumbuh",
+        "jumlah": {
+            "kecamatan": 5,
+            "desa": 47
+        }
+    },
+    {
+        "code": "1301",
+        "type": "Kabupaten",
+        "name": "Pesisir Selatan",
+        "fullname": "Kabupaten Pesisir Selatan",
+        "jumlah": {
+            "kecamatan": 15,
+            "desa": 182
+        }
+    },
+    {
+        "code": "1373",
+        "type": "Kota",
+        "name": "Sawahlunto",
+        "fullname": "Kota Sawahlunto",
+        "jumlah": {
+            "kecamatan": 4,
+            "desa": 37
+        }
+    },
+    {
+        "code": "1303",
+        "type": "Kabupaten",
+        "name": "Sijunjung",
+        "fullname": "Kabupaten Sijunjung",
+        "jumlah": {
+            "kecamatan": 8,
+            "desa": 61
+        }
+    },
+    {
+        "code": "1302",
+        "type": "Kabupaten",
+        "name": "Solok",
+        "fullname": "Kabupaten Solok",
+        "jumlah": {
+            "kecamatan": 14,
+            "desa": 74
+        }
+    },
+    {
+        "code": "1372",
+        "type": "Kota",
+        "name": "Solok",
+        "fullname": "Kota Solok",
+        "jumlah": {
+            "kecamatan": 2,
+            "desa": 13
+        }
+    },
+    {
+        "code": "1311",
+        "type": "Kabupaten",
+        "name": "Solok Selatan",
+        "fullname": "Kabupaten Solok Selatan",
+        "jumlah": {
+            "kecamatan": 7,
+            "desa": 39
+        }
+    },
+    {
+        "code": "1304",
+        "type": "Kabupaten",
+        "name": "Tanah Datar",
+        "fullname": "Kabupaten Tanah Datar",
+        "jumlah": {
+            "kecamatan": 14,
+            "desa": 75
+        }
+    }
+]

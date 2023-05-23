@@ -1,0 +1,17 @@
+{
+    "code": "3575031006",
+    "name": "Krampyangan",
+    "poscode": "67127",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3575",
+        "name": "Pasuruan"
+    },
+    "kecamatan": {
+        "code": "357503",
+        "name": "Bugul Kidul"
+    }
+}

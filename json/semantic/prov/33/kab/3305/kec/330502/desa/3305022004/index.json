@@ -1,0 +1,17 @@
+{
+    "code": "3305022004",
+    "name": "Rangkah",
+    "poscode": "54474",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3305",
+        "name": "Kebumen"
+    },
+    "kecamatan": {
+        "code": "330502",
+        "name": "Buayan"
+    }
+}

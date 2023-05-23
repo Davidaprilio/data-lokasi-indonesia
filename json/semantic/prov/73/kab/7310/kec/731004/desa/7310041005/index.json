@@ -1,0 +1,17 @@
+{
+    "code": "7310041005",
+    "name": "Sibatua",
+    "poscode": "90613",
+    "provinsi": {
+        "code": "73",
+        "name": "Sulawesi Selatan"
+    },
+    "kabupaten": {
+        "code": "7310",
+        "name": "Pangkajene Kepulauan"
+    },
+    "kecamatan": {
+        "code": "731004",
+        "name": "Pangkajene"
+    }
+}

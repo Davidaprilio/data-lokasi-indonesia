@@ -1,0 +1,17 @@
+{
+    "code": "9210182004",
+    "name": "Isusu",
+    "poscode": "98247",
+    "provinsi": {
+        "code": "96",
+        "name": "Papua Barat Daya"
+    },
+    "kabupaten": {
+        "code": "9210",
+        "name": "Maybrat"
+    },
+    "kecamatan": {
+        "code": "921018",
+        "name": "Ayamaru Timur Selatan"
+    }
+}

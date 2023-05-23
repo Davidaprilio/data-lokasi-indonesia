@@ -1,0 +1,17 @@
+{
+    "code": "3212192004",
+    "name": "Cidempet",
+    "poscode": "45267",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3212",
+        "name": "Indramayu"
+    },
+    "kecamatan": {
+        "code": "321219",
+        "name": "Arahan"
+    }
+}

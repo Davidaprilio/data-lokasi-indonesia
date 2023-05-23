@@ -1,0 +1,17 @@
+{
+    "code": "7402392005",
+    "name": "Puuruy",
+    "poscode": "93456",
+    "provinsi": {
+        "code": "74",
+        "name": "Sulawesi Tenggara"
+    },
+    "kabupaten": {
+        "code": "7402",
+        "name": "Konawe"
+    },
+    "kecamatan": {
+        "code": "740239",
+        "name": "Morosi"
+    }
+}

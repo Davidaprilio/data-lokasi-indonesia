@@ -1,0 +1,17 @@
+{
+    "code": "3510042003",
+    "name": "Kedungasri",
+    "poscode": "68484",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3510",
+        "name": "Banyuwangi"
+    },
+    "kecamatan": {
+        "code": "351004",
+        "name": "Tegaldlimo"
+    }
+}

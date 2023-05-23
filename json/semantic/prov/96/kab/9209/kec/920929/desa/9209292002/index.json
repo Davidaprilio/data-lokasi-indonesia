@@ -1,0 +1,17 @@
+{
+    "code": "9209292002",
+    "name": "Megame",
+    "poscode": "98362",
+    "provinsi": {
+        "code": "96",
+        "name": "Papua Barat Daya"
+    },
+    "kabupaten": {
+        "code": "9209",
+        "name": "Tambrauw"
+    },
+    "kecamatan": {
+        "code": "920929",
+        "name": "Selemkai"
+    }
+}

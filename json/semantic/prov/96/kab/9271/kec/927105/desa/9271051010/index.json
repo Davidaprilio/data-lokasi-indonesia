@@ -1,0 +1,17 @@
+{
+    "code": "9271051010",
+    "name": "Matalamagi",
+    "poscode": "98410",
+    "provinsi": {
+        "code": "96",
+        "name": "Papua Barat Daya"
+    },
+    "kabupaten": {
+        "code": "9271",
+        "name": "Sorong"
+    },
+    "kecamatan": {
+        "code": "927105",
+        "name": "Sorong Utara"
+    }
+}

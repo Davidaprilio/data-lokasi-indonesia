@@ -1,0 +1,17 @@
+{
+    "code": "3305192011",
+    "name": "Semanding",
+    "poscode": "54414",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3305",
+        "name": "Kebumen"
+    },
+    "kecamatan": {
+        "code": "330519",
+        "name": "Gombong"
+    }
+}

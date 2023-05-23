@@ -1,0 +1,93 @@
+[
+    {
+        "code": "160113",
+        "name": "Baturaja Barat",
+        "count": {
+            "desa": 12
+        }
+    },
+    {
+        "code": "160114",
+        "name": "Baturaja Timur",
+        "count": {
+            "desa": 13
+        }
+    },
+    {
+        "code": "160132",
+        "name": "Kedaton Peninjauan Raya",
+        "count": {
+            "desa": 8
+        }
+    },
+    {
+        "code": "160128",
+        "name": "Lengkiti",
+        "count": {
+            "desa": 22
+        }
+    },
+    {
+        "code": "160122",
+        "name": "Lubuk Batang",
+        "count": {
+            "desa": 15
+        }
+    },
+    {
+        "code": "160130",
+        "name": "Lubuk Raja",
+        "count": {
+            "desa": 7
+        }
+    },
+    {
+        "code": "160131",
+        "name": "Muara Jaya",
+        "count": {
+            "desa": 7
+        }
+    },
+    {
+        "code": "160108",
+        "name": "Pengandonan",
+        "count": {
+            "desa": 12
+        }
+    },
+    {
+        "code": "160109",
+        "name": "Peninjauan",
+        "count": {
+            "desa": 16
+        }
+    },
+    {
+        "code": "160121",
+        "name": "Semidang Aji",
+        "count": {
+            "desa": 21
+        }
+    },
+    {
+        "code": "160129",
+        "name": "Sinar Peninjauan",
+        "count": {
+            "desa": 6
+        }
+    },
+    {
+        "code": "160107",
+        "name": "Sosoh Buay Rayap",
+        "count": {
+            "desa": 11
+        }
+    },
+    {
+        "code": "160120",
+        "name": "Ulu Ogan",
+        "count": {
+            "desa": 7
+        }
+    }
+]

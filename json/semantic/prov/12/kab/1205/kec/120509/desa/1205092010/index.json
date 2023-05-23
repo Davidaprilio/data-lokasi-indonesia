@@ -1,0 +1,17 @@
+{
+    "code": "1205092010",
+    "name": "Karang Gading",
+    "poscode": "20855",
+    "provinsi": {
+        "code": "12",
+        "name": "Sumatera Utara"
+    },
+    "kabupaten": {
+        "code": "1205",
+        "name": "Langkat"
+    },
+    "kecamatan": {
+        "code": "120509",
+        "name": "Secanggang"
+    }
+}

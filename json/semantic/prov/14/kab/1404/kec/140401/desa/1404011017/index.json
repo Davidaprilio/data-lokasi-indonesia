@@ -1,0 +1,17 @@
+{
+    "code": "1404011017",
+    "name": "Metro",
+    "poscode": "29273",
+    "provinsi": {
+        "code": "14",
+        "name": "Riau"
+    },
+    "kabupaten": {
+        "code": "1404",
+        "name": "Indragiri Hilir"
+    },
+    "kecamatan": {
+        "code": "140401",
+        "name": "Reteh"
+    }
+}

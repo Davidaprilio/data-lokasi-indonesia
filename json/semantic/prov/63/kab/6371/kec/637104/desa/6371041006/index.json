@@ -1,0 +1,17 @@
+{
+    "code": "6371041006",
+    "name": "Surgi Mufti",
+    "poscode": "70122",
+    "provinsi": {
+        "code": "63",
+        "name": "Kalimantan Selatan"
+    },
+    "kabupaten": {
+        "code": "6371",
+        "name": "Banjarmasin"
+    },
+    "kecamatan": {
+        "code": "637104",
+        "name": "Banjarmasin Utara"
+    }
+}

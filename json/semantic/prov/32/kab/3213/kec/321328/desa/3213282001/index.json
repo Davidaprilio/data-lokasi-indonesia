@@ -1,0 +1,17 @@
+{
+    "code": "3213282001",
+    "name": "Mekarwangi",
+    "poscode": "41252",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3213",
+        "name": "Subang"
+    },
+    "kecamatan": {
+        "code": "321328",
+        "name": "Pagaden Barat"
+    }
+}

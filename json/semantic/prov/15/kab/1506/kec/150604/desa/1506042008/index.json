@@ -1,0 +1,17 @@
+{
+    "code": "1506042008",
+    "name": "Makmur Jaya",
+    "poscode": "36555",
+    "provinsi": {
+        "code": "15",
+        "name": "Jambi"
+    },
+    "kabupaten": {
+        "code": "1506",
+        "name": "Tanjung Jabung Barat"
+    },
+    "kecamatan": {
+        "code": "150604",
+        "name": "Betara"
+    }
+}

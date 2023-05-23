@@ -1,0 +1,17 @@
+{
+    "code": "3206012007",
+    "name": "Nagrog",
+    "poscode": "46187",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3206",
+        "name": "Tasikmalaya"
+    },
+    "kecamatan": {
+        "code": "320601",
+        "name": "Cipatujah"
+    }
+}

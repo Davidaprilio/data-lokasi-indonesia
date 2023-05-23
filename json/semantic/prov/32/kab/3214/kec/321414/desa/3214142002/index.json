@@ -1,0 +1,17 @@
+{
+    "code": "3214142002",
+    "name": "Cilandak",
+    "poscode": "41182",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3214",
+        "name": "Purwakarta"
+    },
+    "kecamatan": {
+        "code": "321414",
+        "name": "Cibatu"
+    }
+}

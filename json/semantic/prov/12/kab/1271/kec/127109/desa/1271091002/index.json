@@ -1,0 +1,17 @@
+{
+    "code": "1271091002",
+    "name": "Sitirejo II",
+    "poscode": "20219",
+    "provinsi": {
+        "code": "12",
+        "name": "Sumatera Utara"
+    },
+    "kabupaten": {
+        "code": "1271",
+        "name": "Medan"
+    },
+    "kecamatan": {
+        "code": "127109",
+        "name": "Medan Amplas"
+    }
+}

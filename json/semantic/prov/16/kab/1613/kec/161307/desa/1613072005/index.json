@@ -1,0 +1,17 @@
+{
+    "code": "1613072005",
+    "name": "Muara Kuis",
+    "poscode": "31669",
+    "provinsi": {
+        "code": "16",
+        "name": "Sumatera Selatan"
+    },
+    "kabupaten": {
+        "code": "1613",
+        "name": "Musi Rawas Utara"
+    },
+    "kecamatan": {
+        "code": "161307",
+        "name": "Ulu Rawas"
+    }
+}

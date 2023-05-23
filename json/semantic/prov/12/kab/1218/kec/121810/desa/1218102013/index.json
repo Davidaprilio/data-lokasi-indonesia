@@ -1,0 +1,17 @@
+{
+    "code": "1218102013",
+    "name": "Bandar Bayu",
+    "poscode": "20982",
+    "provinsi": {
+        "code": "12",
+        "name": "Sumatera Utara"
+    },
+    "kabupaten": {
+        "code": "1218",
+        "name": "Serdang Bedagai"
+    },
+    "kecamatan": {
+        "code": "121810",
+        "name": "Kotarih"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "3210022017",
+    "name": "Babakansari",
+    "poscode": "45464",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3210",
+        "name": "Majalengka"
+    },
+    "kecamatan": {
+        "code": "321002",
+        "name": "Bantarujeg"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "6471061004",
+    "name": "Klandasan Ilir",
+    "poscode": "76113",
+    "provinsi": {
+        "code": "64",
+        "name": "Kalimantan Timur"
+    },
+    "kabupaten": {
+        "code": "6471",
+        "name": "Balikpapan"
+    },
+    "kecamatan": {
+        "code": "647106",
+        "name": "Balikpapan Kota"
+    }
+}

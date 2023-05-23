@@ -1,0 +1,17 @@
+{
+    "code": "3510171002",
+    "name": "Boyolangu",
+    "poscode": "68424",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3510",
+        "name": "Banyuwangi"
+    },
+    "kecamatan": {
+        "code": "351017",
+        "name": "Giri"
+    }
+}

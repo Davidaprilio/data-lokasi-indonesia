@@ -1,0 +1,17 @@
+{
+    "code": "8203192010",
+    "name": "Cera",
+    "poscode": "97763",
+    "provinsi": {
+        "code": "82",
+        "name": "Maluku Utara"
+    },
+    "kabupaten": {
+        "code": "8203",
+        "name": "Halmahera Utara"
+    },
+    "kecamatan": {
+        "code": "820319",
+        "name": "Loloda Kepulauan"
+    }
+}

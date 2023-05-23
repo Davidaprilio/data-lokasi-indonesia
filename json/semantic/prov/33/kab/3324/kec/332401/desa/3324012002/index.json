@@ -1,0 +1,17 @@
+{
+    "code": "3324012002",
+    "name": "Kediten",
+    "poscode": "51362",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3324",
+        "name": "Kendal"
+    },
+    "kecamatan": {
+        "code": "332401",
+        "name": "Plantungan"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "3576011008",
+    "name": "Blooto",
+    "poscode": "61327",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3576",
+        "name": "Mojokerto"
+    },
+    "kecamatan": {
+        "code": "357601",
+        "name": "Prajuritkulon (Prajurit Kulon)"
+    }
+}

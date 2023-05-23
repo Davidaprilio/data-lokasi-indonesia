@@ -1,0 +1,17 @@
+{
+    "code": "1809032001",
+    "name": "Bumi Agung (Bumiagung)",
+    "poscode": "35363",
+    "provinsi": {
+        "code": "18",
+        "name": "Lampung"
+    },
+    "kabupaten": {
+        "code": "1809",
+        "name": "Pesawaran"
+    },
+    "kecamatan": {
+        "code": "180903",
+        "name": "Tegineneng"
+    }
+}

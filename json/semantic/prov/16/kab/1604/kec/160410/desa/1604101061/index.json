@@ -1,0 +1,17 @@
+{
+    "code": "1604101061",
+    "name": "Talang Jawa Utara",
+    "poscode": "31416",
+    "provinsi": {
+        "code": "16",
+        "name": "Sumatera Selatan"
+    },
+    "kabupaten": {
+        "code": "1604",
+        "name": "Lahat"
+    },
+    "kecamatan": {
+        "code": "160410",
+        "name": "Lahat"
+    }
+}

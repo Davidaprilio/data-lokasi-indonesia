@@ -1,0 +1,17 @@
+{
+    "code": "9503482004",
+    "name": "Monin",
+    "poscode": "99737",
+    "provinsi": {
+        "code": "95",
+        "name": "Papua Pegunungan"
+    },
+    "kabupaten": {
+        "code": "9503",
+        "name": "Yahukimo"
+    },
+    "kecamatan": {
+        "code": "950348",
+        "name": "Kwikma"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "7208172003",
+    "name": "Silanga",
+    "poscode": "94467",
+    "provinsi": {
+        "code": "72",
+        "name": "Sulawesi Tengah"
+    },
+    "kabupaten": {
+        "code": "7208",
+        "name": "Parigi Moutong"
+    },
+    "kecamatan": {
+        "code": "720817",
+        "name": "Siniu"
+    }
+}

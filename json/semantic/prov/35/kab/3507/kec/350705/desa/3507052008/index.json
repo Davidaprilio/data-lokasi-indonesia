@@ -1,0 +1,17 @@
+{
+    "code": "3507052008",
+    "name": "Pamotan",
+    "poscode": "65181",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3507",
+        "name": "Malang"
+    },
+    "kecamatan": {
+        "code": "350705",
+        "name": "Dampit"
+    }
+}

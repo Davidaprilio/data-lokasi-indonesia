@@ -1,0 +1,10 @@
+{
+    "code": "3604",
+    "type": "Kabupaten",
+    "name": "Serang",
+    "fullname": "Kabupaten Serang",
+    "jumlah": {
+        "kecamatan": 29,
+        "desa": 326
+    }
+}

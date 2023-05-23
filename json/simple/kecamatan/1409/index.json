@@ -1,0 +1,107 @@
+[
+    {
+        "code": "140906",
+        "name": "Benai",
+        "count": {
+            "desa": 16
+        }
+    },
+    {
+        "code": "140905",
+        "name": "Cerenti",
+        "count": {
+            "desa": 13
+        }
+    },
+    {
+        "code": "140907",
+        "name": "Gunungtoar (Gunung Toar)",
+        "count": {
+            "desa": 14
+        }
+    },
+    {
+        "code": "140912",
+        "name": "Hulu Kuantan",
+        "count": {
+            "desa": 12
+        }
+    },
+    {
+        "code": "140911",
+        "name": "Inuman",
+        "count": {
+            "desa": 14
+        }
+    },
+    {
+        "code": "140904",
+        "name": "Kuantan Hilir",
+        "count": {
+            "desa": 16
+        }
+    },
+    {
+        "code": "140913",
+        "name": "Kuantan Hilir Seberang",
+        "count": {
+            "desa": 14
+        }
+    },
+    {
+        "code": "140901",
+        "name": "Kuantan Mudik",
+        "count": {
+            "desa": 24
+        }
+    },
+    {
+        "code": "140902",
+        "name": "Kuantan Tengah",
+        "count": {
+            "desa": 23
+        }
+    },
+    {
+        "code": "140910",
+        "name": "Logas Tanah Darat",
+        "count": {
+            "desa": 15
+        }
+    },
+    {
+        "code": "140909",
+        "name": "Pangean",
+        "count": {
+            "desa": 17
+        }
+    },
+    {
+        "code": "140915",
+        "name": "Pucuk Rantau",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "140914",
+        "name": "Sentajo Raya",
+        "count": {
+            "desa": 15
+        }
+    },
+    {
+        "code": "140903",
+        "name": "Singingi",
+        "count": {
+            "desa": 14
+        }
+    },
+    {
+        "code": "140908",
+        "name": "Singingi Hilir",
+        "count": {
+            "desa": 12
+        }
+    }
+]

@@ -1,0 +1,17 @@
+{
+    "code": "7305011001",
+    "name": "Takalar (Takalar Kota)",
+    "poscode": "92232",
+    "provinsi": {
+        "code": "73",
+        "name": "Sulawesi Selatan"
+    },
+    "kabupaten": {
+        "code": "7305",
+        "name": "Takalar"
+    },
+    "kecamatan": {
+        "code": "730501",
+        "name": "Mappakasunggu"
+    }
+}

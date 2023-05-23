@@ -1,0 +1,17 @@
+{
+    "code": "3511192003",
+    "name": "Jampit",
+    "poscode": "68288",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3511",
+        "name": "Bondowoso"
+    },
+    "kecamatan": {
+        "code": "351119",
+        "name": "Sempol"
+    }
+}

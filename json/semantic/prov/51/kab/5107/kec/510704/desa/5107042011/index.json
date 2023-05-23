@@ -1,0 +1,17 @@
+{
+    "code": "5107042011",
+    "name": "Bukit",
+    "poscode": "80811",
+    "provinsi": {
+        "code": "51",
+        "name": "Bali"
+    },
+    "kabupaten": {
+        "code": "5107",
+        "name": "Karangasem"
+    },
+    "kecamatan": {
+        "code": "510704",
+        "name": "Karangasem (Karang Asem)"
+    }
+}

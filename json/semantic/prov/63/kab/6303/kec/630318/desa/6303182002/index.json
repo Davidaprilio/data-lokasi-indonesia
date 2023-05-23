@@ -1,0 +1,17 @@
+{
+    "code": "6303182002",
+    "name": "Lok Tanah (Loktanah)",
+    "poscode": "70673",
+    "provinsi": {
+        "code": "63",
+        "name": "Kalimantan Selatan"
+    },
+    "kabupaten": {
+        "code": "6303",
+        "name": "Banjar"
+    },
+    "kecamatan": {
+        "code": "630318",
+        "name": "Telaga Bauntung"
+    }
+}

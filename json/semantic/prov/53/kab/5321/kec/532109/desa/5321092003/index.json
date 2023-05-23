@@ -1,0 +1,17 @@
+{
+    "code": "5321092003",
+    "name": "Kusa",
+    "poscode": "85761",
+    "provinsi": {
+        "code": "53",
+        "name": "Nusa Tenggara Timur (NTT)"
+    },
+    "kabupaten": {
+        "code": "5321",
+        "name": "Malaka"
+    },
+    "kecamatan": {
+        "code": "532109",
+        "name": "Malaka Timur"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "3673051006",
+    "name": "Tembong",
+    "poscode": "42126",
+    "provinsi": {
+        "code": "36",
+        "name": "Banten"
+    },
+    "kabupaten": {
+        "code": "3673",
+        "name": "Serang"
+    },
+    "kecamatan": {
+        "code": "367305",
+        "name": "Cipocok Jaya"
+    }
+}

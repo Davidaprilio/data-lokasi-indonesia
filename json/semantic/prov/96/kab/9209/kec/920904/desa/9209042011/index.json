@@ -1,0 +1,17 @@
+{
+    "code": "9209042011",
+    "name": "Orwen",
+    "poscode": "98369",
+    "provinsi": {
+        "code": "96",
+        "name": "Papua Barat Daya"
+    },
+    "kabupaten": {
+        "code": "9209",
+        "name": "Tambrauw"
+    },
+    "kecamatan": {
+        "code": "920904",
+        "name": "Kwoor"
+    }
+}

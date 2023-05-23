@@ -1,0 +1,17 @@
+{
+    "code": "8201032022",
+    "name": "Tobaol",
+    "poscode": "97754",
+    "provinsi": {
+        "code": "82",
+        "name": "Maluku Utara"
+    },
+    "kabupaten": {
+        "code": "8201",
+        "name": "Halmahera Barat"
+    },
+    "kecamatan": {
+        "code": "820103",
+        "name": "Ibu"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "6302192005",
+    "name": "Batuah",
+    "poscode": "72169",
+    "provinsi": {
+        "code": "63",
+        "name": "Kalimantan Selatan"
+    },
+    "kabupaten": {
+        "code": "6302",
+        "name": "Kotabaru"
+    },
+    "kecamatan": {
+        "code": "630219",
+        "name": "Pamukan Barat"
+    }
+}

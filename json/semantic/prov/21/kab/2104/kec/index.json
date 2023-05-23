@@ -1,0 +1,93 @@
+[
+    {
+        "code": "210413",
+        "name": "Bakung Serumpun",
+        "count": {
+            "desa": 6
+        }
+    },
+    {
+        "code": "210411",
+        "name": "Katang Bidare",
+        "count": {
+            "desa": 5
+        }
+    },
+    {
+        "code": "210410",
+        "name": "Kepulauan Posek",
+        "count": {
+            "desa": 3
+        }
+    },
+    {
+        "code": "210402",
+        "name": "Lingga",
+        "count": {
+            "desa": 11
+        }
+    },
+    {
+        "code": "210407",
+        "name": "Lingga Timur",
+        "count": {
+            "desa": 6
+        }
+    },
+    {
+        "code": "210405",
+        "name": "Lingga Utara",
+        "count": {
+            "desa": 12
+        }
+    },
+    {
+        "code": "210408",
+        "name": "Selayar",
+        "count": {
+            "desa": 4
+        }
+    },
+    {
+        "code": "210403",
+        "name": "Senayang",
+        "count": {
+            "desa": 5
+        }
+    },
+    {
+        "code": "210401",
+        "name": "Singkep",
+        "count": {
+            "desa": 6
+        }
+    },
+    {
+        "code": "210404",
+        "name": "Singkep Barat",
+        "count": {
+            "desa": 12
+        }
+    },
+    {
+        "code": "210406",
+        "name": "Singkep Pesisir",
+        "count": {
+            "desa": 6
+        }
+    },
+    {
+        "code": "210409",
+        "name": "Singkep Selatan",
+        "count": {
+            "desa": 3
+        }
+    },
+    {
+        "code": "210412",
+        "name": "Temiang Pesisir",
+        "count": {
+            "desa": 3
+        }
+    }
+]

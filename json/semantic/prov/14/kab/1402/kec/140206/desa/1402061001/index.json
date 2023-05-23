@@ -1,0 +1,17 @@
+{
+    "code": "1402061001",
+    "name": "Pangkalan Kasai",
+    "poscode": "29371",
+    "provinsi": {
+        "code": "14",
+        "name": "Riau"
+    },
+    "kabupaten": {
+        "code": "1402",
+        "name": "Indragiri Hulu"
+    },
+    "kecamatan": {
+        "code": "140206",
+        "name": "Siberida (Seberida)"
+    }
+}

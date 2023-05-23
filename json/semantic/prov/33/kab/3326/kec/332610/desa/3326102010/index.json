@@ -1,0 +1,17 @@
+{
+    "code": "3326102010",
+    "name": "Bulakpelem (Bulak Pelem)",
+    "poscode": "51155",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3326",
+        "name": "Pekalongan"
+    },
+    "kecamatan": {
+        "code": "332610",
+        "name": "Sragi"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "1275051001",
+    "name": "Tanah Merah",
+    "poscode": "20725",
+    "provinsi": {
+        "code": "12",
+        "name": "Sumatera Utara"
+    },
+    "kabupaten": {
+        "code": "1275",
+        "name": "Binjai"
+    },
+    "kecamatan": {
+        "code": "127505",
+        "name": "Binjai Selatan"
+    }
+}

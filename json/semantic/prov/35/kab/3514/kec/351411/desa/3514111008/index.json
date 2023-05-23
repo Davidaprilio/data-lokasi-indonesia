@@ -1,0 +1,17 @@
+{
+    "code": "3514111008",
+    "name": "Petungasri",
+    "poscode": "67156",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3514",
+        "name": "Pasuruan"
+    },
+    "kecamatan": {
+        "code": "351411",
+        "name": "Pandaan"
+    }
+}

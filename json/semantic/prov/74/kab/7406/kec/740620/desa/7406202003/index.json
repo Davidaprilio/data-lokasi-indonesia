@@ -1,0 +1,17 @@
+{
+    "code": "7406202003",
+    "name": "Tete Haka",
+    "poscode": "93789",
+    "provinsi": {
+        "code": "74",
+        "name": "Sulawesi Tenggara"
+    },
+    "kabupaten": {
+        "code": "7406",
+        "name": "Bombana"
+    },
+    "kecamatan": {
+        "code": "740620",
+        "name": "Tontonunu"
+    }
+}

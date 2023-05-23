@@ -1,0 +1,17 @@
+{
+    "code": "6371011009",
+    "name": "Tanjung Pagar",
+    "poscode": "70247",
+    "provinsi": {
+        "code": "63",
+        "name": "Kalimantan Selatan"
+    },
+    "kabupaten": {
+        "code": "6371",
+        "name": "Banjarmasin"
+    },
+    "kecamatan": {
+        "code": "637101",
+        "name": "Banjarmasin Selatan"
+    }
+}

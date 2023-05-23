@@ -1,0 +1,17 @@
+{
+    "code": "3571021001",
+    "name": "Semampir",
+    "poscode": "64121",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3571",
+        "name": "Kediri"
+    },
+    "kecamatan": {
+        "code": "357102",
+        "name": "Kota (Kediri Kota)"
+    }
+}

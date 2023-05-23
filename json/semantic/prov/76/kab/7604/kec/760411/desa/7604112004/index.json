@@ -1,0 +1,17 @@
+{
+    "code": "7604112004",
+    "name": "Samasundu",
+    "poscode": "91321",
+    "provinsi": {
+        "code": "76",
+        "name": "Sulawesi Barat"
+    },
+    "kabupaten": {
+        "code": "7604",
+        "name": "Polewali Mandar"
+    },
+    "kecamatan": {
+        "code": "760411",
+        "name": "Limboro"
+    }
+}

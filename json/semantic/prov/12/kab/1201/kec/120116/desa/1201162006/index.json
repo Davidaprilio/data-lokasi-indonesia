@@ -1,0 +1,17 @@
+{
+    "code": "1201162006",
+    "name": "Simargarap",
+    "poscode": "22563",
+    "provinsi": {
+        "code": "12",
+        "name": "Sumatera Utara"
+    },
+    "kabupaten": {
+        "code": "1201",
+        "name": "Tapanuli Tengah"
+    },
+    "kecamatan": {
+        "code": "120116",
+        "name": "Pasaribu Tobing"
+    }
+}

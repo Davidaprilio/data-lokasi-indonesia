@@ -1,0 +1,17 @@
+{
+    "code": "6407202003",
+    "name": "Sekolaq Oday",
+    "poscode": "75764",
+    "provinsi": {
+        "code": "64",
+        "name": "Kalimantan Timur"
+    },
+    "kabupaten": {
+        "code": "6407",
+        "name": "Kutai Barat"
+    },
+    "kecamatan": {
+        "code": "640720",
+        "name": "Sekolaq Darat"
+    }
+}

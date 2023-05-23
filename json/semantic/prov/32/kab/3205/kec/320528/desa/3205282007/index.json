@@ -1,0 +1,17 @@
+{
+    "code": "3205282007",
+    "name": "Depok",
+    "poscode": "44174",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3205",
+        "name": "Garut"
+    },
+    "kecamatan": {
+        "code": "320528",
+        "name": "Cisompet"
+    }
+}

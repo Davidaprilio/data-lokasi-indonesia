@@ -1,0 +1,17 @@
+{
+    "code": "9206162002",
+    "name": "Yaru",
+    "poscode": "98131",
+    "provinsi": {
+        "code": "92",
+        "name": "Papua Barat"
+    },
+    "kabupaten": {
+        "code": "9206",
+        "name": "Teluk Bintuni"
+    },
+    "kecamatan": {
+        "code": "920616",
+        "name": "Aroba"
+    }
+}

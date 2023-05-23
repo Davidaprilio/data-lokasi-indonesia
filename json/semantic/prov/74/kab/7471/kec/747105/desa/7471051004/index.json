@@ -1,0 +1,17 @@
+{
+    "code": "7471051004",
+    "name": "Punggaloba",
+    "poscode": "93123",
+    "provinsi": {
+        "code": "74",
+        "name": "Sulawesi Tenggara"
+    },
+    "kabupaten": {
+        "code": "7471",
+        "name": "Kendari"
+    },
+    "kecamatan": {
+        "code": "747105",
+        "name": "Kendari Barat"
+    }
+}

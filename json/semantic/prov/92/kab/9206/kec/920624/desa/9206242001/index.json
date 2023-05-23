@@ -1,0 +1,17 @@
+{
+    "code": "9206242001",
+    "name": "Igomu",
+    "poscode": "98164",
+    "provinsi": {
+        "code": "92",
+        "name": "Papua Barat"
+    },
+    "kabupaten": {
+        "code": "9206",
+        "name": "Teluk Bintuni"
+    },
+    "kecamatan": {
+        "code": "920624",
+        "name": "Moskona Timur"
+    }
+}

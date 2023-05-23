@@ -1,0 +1,10 @@
+{
+    "code": "1204",
+    "type": "Kabupaten",
+    "name": "Nias",
+    "fullname": "Kabupaten Nias",
+    "jumlah": {
+        "kecamatan": 10,
+        "desa": 170
+    }
+}

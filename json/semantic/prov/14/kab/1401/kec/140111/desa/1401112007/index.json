@@ -1,0 +1,17 @@
+{
+    "code": "1401112007",
+    "name": "Kota Baru",
+    "poscode": "28465",
+    "provinsi": {
+        "code": "14",
+        "name": "Riau"
+    },
+    "kabupaten": {
+        "code": "1401",
+        "name": "Kampar"
+    },
+    "kecamatan": {
+        "code": "140111",
+        "name": "Tapung Hilir"
+    }
+}

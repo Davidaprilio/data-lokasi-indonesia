@@ -1,0 +1,17 @@
+{
+    "code": "3175011001",
+    "name": "Pisangan Baru",
+    "poscode": "13110",
+    "provinsi": {
+        "code": "31",
+        "name": "DKI Jakarta"
+    },
+    "kabupaten": {
+        "code": "3175",
+        "name": "Jakarta Timur"
+    },
+    "kecamatan": {
+        "code": "317501",
+        "name": "Matraman"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "1116012017",
+    "name": "Meunasah Paya",
+    "poscode": "24471",
+    "provinsi": {
+        "code": "11",
+        "name": "Aceh (NAD)"
+    },
+    "kabupaten": {
+        "code": "1116",
+        "name": "Aceh Tamiang"
+    },
+    "kecamatan": {
+        "code": "111601",
+        "name": "Manyak Payed"
+    }
+}

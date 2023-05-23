@@ -1,0 +1,17 @@
+{
+    "code": "3673031010",
+    "name": "Teritih",
+    "poscode": "42183",
+    "provinsi": {
+        "code": "36",
+        "name": "Banten"
+    },
+    "kabupaten": {
+        "code": "3673",
+        "name": "Serang"
+    },
+    "kecamatan": {
+        "code": "367303",
+        "name": "Walantaka"
+    }
+}

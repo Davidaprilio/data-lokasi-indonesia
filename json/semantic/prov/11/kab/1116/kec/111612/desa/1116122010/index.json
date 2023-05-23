@@ -1,0 +1,17 @@
+{
+    "code": "1116122010",
+    "name": "Pematang Durian",
+    "poscode": "24476",
+    "provinsi": {
+        "code": "11",
+        "name": "Aceh (NAD)"
+    },
+    "kabupaten": {
+        "code": "1116",
+        "name": "Aceh Tamiang"
+    },
+    "kecamatan": {
+        "code": "111612",
+        "name": "Sekerak"
+    }
+}

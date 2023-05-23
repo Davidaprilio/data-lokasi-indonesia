@@ -1,0 +1,17 @@
+{
+    "code": "3509201003",
+    "name": "Gebang",
+    "poscode": "68117",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3509",
+        "name": "Jember"
+    },
+    "kecamatan": {
+        "code": "350920",
+        "name": "Patrang"
+    }
+}

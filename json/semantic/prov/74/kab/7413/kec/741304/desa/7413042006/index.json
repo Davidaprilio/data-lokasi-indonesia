@@ -1,0 +1,17 @@
+{
+    "code": "7413042006",
+    "name": "Lindo",
+    "poscode": "93652",
+    "provinsi": {
+        "code": "74",
+        "name": "Sulawesi Tenggara"
+    },
+    "kabupaten": {
+        "code": "7413",
+        "name": "Muna Barat"
+    },
+    "kecamatan": {
+        "code": "741304",
+        "name": "Wadaga"
+    }
+}

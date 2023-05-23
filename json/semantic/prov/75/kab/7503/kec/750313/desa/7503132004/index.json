@@ -1,0 +1,17 @@
+{
+    "code": "7503132004",
+    "name": "Tolomato",
+    "poscode": "96564",
+    "provinsi": {
+        "code": "75",
+        "name": "Gorontalo"
+    },
+    "kabupaten": {
+        "code": "7503",
+        "name": "Bone Bolango"
+    },
+    "kecamatan": {
+        "code": "750313",
+        "name": "Suwawa Tengah"
+    }
+}

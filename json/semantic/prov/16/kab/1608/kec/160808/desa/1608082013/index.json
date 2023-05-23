@@ -1,0 +1,17 @@
+{
+    "code": "1608082013",
+    "name": "Karang Endah",
+    "poscode": "32386",
+    "provinsi": {
+        "code": "16",
+        "name": "Sumatera Selatan"
+    },
+    "kabupaten": {
+        "code": "1608",
+        "name": "Ogan Komering Ulu Timur"
+    },
+    "kecamatan": {
+        "code": "160808",
+        "name": "Semendawai Suku III"
+    }
+}

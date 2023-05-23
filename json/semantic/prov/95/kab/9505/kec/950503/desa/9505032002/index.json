@@ -1,0 +1,17 @@
+{
+    "code": "9505032002",
+    "name": "Mogonik",
+    "poscode": "99071",
+    "provinsi": {
+        "code": "95",
+        "name": "Papua Pegunungan"
+    },
+    "kabupaten": {
+        "code": "9505",
+        "name": "Mamberamo Tengah"
+    },
+    "kecamatan": {
+        "code": "950503",
+        "name": "Eragayam"
+    }
+}

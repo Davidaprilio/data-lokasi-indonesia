@@ -1,0 +1,17 @@
+{
+    "code": "3302261002",
+    "name": "Kranji",
+    "poscode": "53116",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3302",
+        "name": "Banyumas"
+    },
+    "kecamatan": {
+        "code": "330226",
+        "name": "Purwokerto Timur"
+    }
+}

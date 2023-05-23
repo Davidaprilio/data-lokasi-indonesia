@@ -1,0 +1,17 @@
+{
+    "code": "3579032002",
+    "name": "Beji",
+    "poscode": "65326",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3579",
+        "name": "Batu"
+    },
+    "kecamatan": {
+        "code": "357903",
+        "name": "Junrejo"
+    }
+}

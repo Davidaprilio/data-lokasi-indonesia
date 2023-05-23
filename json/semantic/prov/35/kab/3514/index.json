@@ -1,0 +1,10 @@
+{
+    "code": "3514",
+    "type": "Kabupaten",
+    "name": "Pasuruan",
+    "fullname": "Kabupaten Pasuruan",
+    "jumlah": {
+        "kecamatan": 24,
+        "desa": 365
+    }
+}

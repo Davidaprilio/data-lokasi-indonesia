@@ -1,0 +1,17 @@
+{
+    "code": "3301062008",
+    "name": "Mergawati",
+    "poscode": "53282",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3301",
+        "name": "Cilacap"
+    },
+    "kecamatan": {
+        "code": "330106",
+        "name": "Kroya"
+    }
+}

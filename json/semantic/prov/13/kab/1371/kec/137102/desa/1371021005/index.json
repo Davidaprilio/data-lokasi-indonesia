@@ -1,0 +1,17 @@
+{
+    "code": "1371021005",
+    "name": "Simpang Haru",
+    "poscode": "25123",
+    "provinsi": {
+        "code": "13",
+        "name": "Sumatera Barat"
+    },
+    "kabupaten": {
+        "code": "1371",
+        "name": "Padang"
+    },
+    "kecamatan": {
+        "code": "137102",
+        "name": "Padang Timur"
+    }
+}

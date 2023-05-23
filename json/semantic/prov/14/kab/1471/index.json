@@ -1,0 +1,10 @@
+{
+    "code": "1471",
+    "type": "Kota",
+    "name": "Pekanbaru",
+    "fullname": "Kota Pekanbaru",
+    "jumlah": {
+        "kecamatan": 12,
+        "desa": 83
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "5201082011",
+    "name": "Bagik Polak Barat",
+    "poscode": "83361",
+    "provinsi": {
+        "code": "52",
+        "name": "Nusa Tenggara Barat (NTB)"
+    },
+    "kabupaten": {
+        "code": "5201",
+        "name": "Lombok Barat"
+    },
+    "kecamatan": {
+        "code": "520108",
+        "name": "Labuapi"
+    }
+}

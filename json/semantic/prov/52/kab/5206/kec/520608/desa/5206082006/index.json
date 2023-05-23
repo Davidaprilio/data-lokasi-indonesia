@@ -1,0 +1,17 @@
+{
+    "code": "5206082006",
+    "name": "Kala",
+    "poscode": "84162",
+    "provinsi": {
+        "code": "52",
+        "name": "Nusa Tenggara Barat (NTB)"
+    },
+    "kabupaten": {
+        "code": "5206",
+        "name": "Bima"
+    },
+    "kecamatan": {
+        "code": "520608",
+        "name": "Donggo"
+    }
+}

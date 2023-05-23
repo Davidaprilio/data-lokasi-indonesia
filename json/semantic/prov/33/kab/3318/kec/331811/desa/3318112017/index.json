@@ -1,0 +1,17 @@
+{
+    "code": "3318112017",
+    "name": "Plumbungan",
+    "poscode": "59173",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3318",
+        "name": "Pati"
+    },
+    "kecamatan": {
+        "code": "331811",
+        "name": "Gabus"
+    }
+}

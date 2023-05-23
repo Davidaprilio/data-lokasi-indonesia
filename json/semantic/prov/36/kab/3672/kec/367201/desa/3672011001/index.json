@@ -1,0 +1,17 @@
+{
+    "code": "3672011001",
+    "name": "Cibeber",
+    "poscode": "42423",
+    "provinsi": {
+        "code": "36",
+        "name": "Banten"
+    },
+    "kabupaten": {
+        "code": "3672",
+        "name": "Cilegon"
+    },
+    "kecamatan": {
+        "code": "367201",
+        "name": "Cibeber"
+    }
+}

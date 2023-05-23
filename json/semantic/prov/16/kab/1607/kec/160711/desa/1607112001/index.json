@@ -1,0 +1,17 @@
+{
+    "code": "1607112001",
+    "name": "Muaraabab (Muara Abab)",
+    "poscode": "30968",
+    "provinsi": {
+        "code": "16",
+        "name": "Sumatera Selatan"
+    },
+    "kabupaten": {
+        "code": "1607",
+        "name": "Banyuasin"
+    },
+    "kecamatan": {
+        "code": "160711",
+        "name": "Rantau Bayur"
+    }
+}

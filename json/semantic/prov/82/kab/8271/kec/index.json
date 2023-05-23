@@ -1,0 +1,58 @@
+[
+    {
+        "code": "827102",
+        "name": "Kota Ternate Selatan",
+        "count": {
+            "desa": 17
+        }
+    },
+    {
+        "code": "827106",
+        "name": "Kota Ternate Tengah",
+        "count": {
+            "desa": 16
+        }
+    },
+    {
+        "code": "827103",
+        "name": "Kota Ternate Utara",
+        "count": {
+            "desa": 14
+        }
+    },
+    {
+        "code": "827104",
+        "name": "Moti",
+        "count": {
+            "desa": 6
+        }
+    },
+    {
+        "code": "827105",
+        "name": "Pulau Batang Dua",
+        "count": {
+            "desa": 6
+        }
+    },
+    {
+        "code": "827107",
+        "name": "Pulau Hiri",
+        "count": {
+            "desa": 6
+        }
+    },
+    {
+        "code": "827101",
+        "name": "Pulau Ternate",
+        "count": {
+            "desa": 6
+        }
+    },
+    {
+        "code": "827108",
+        "name": "Ternate Barat",
+        "count": {
+            "desa": 7
+        }
+    }
+]

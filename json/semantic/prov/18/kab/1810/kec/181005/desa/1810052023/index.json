@@ -1,0 +1,17 @@
+{
+    "code": "1810052023",
+    "name": "Pasir Ukir",
+    "poscode": "35375",
+    "provinsi": {
+        "code": "18",
+        "name": "Lampung"
+    },
+    "kabupaten": {
+        "code": "1810",
+        "name": "Pringsewu"
+    },
+    "kecamatan": {
+        "code": "181005",
+        "name": "Pagelaran"
+    }
+}

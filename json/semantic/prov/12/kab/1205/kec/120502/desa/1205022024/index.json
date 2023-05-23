@@ -1,0 +1,17 @@
+{
+    "code": "1205022024",
+    "name": "Adin Tengah",
+    "poscode": "20777",
+    "provinsi": {
+        "code": "12",
+        "name": "Sumatera Utara"
+    },
+    "kabupaten": {
+        "code": "1205",
+        "name": "Langkat"
+    },
+    "kecamatan": {
+        "code": "120502",
+        "name": "Salapian"
+    }
+}

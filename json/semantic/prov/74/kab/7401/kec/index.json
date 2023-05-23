@@ -1,0 +1,86 @@
+[
+    {
+        "code": "740112",
+        "name": "Baula",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "740127",
+        "name": "Iwoimendaa",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "740104",
+        "name": "Kolaka",
+        "count": {
+            "desa": 7
+        }
+    },
+    {
+        "code": "740114",
+        "name": "Latambaga",
+        "count": {
+            "desa": 7
+        }
+    },
+    {
+        "code": "740125",
+        "name": "Polinggona",
+        "count": {
+            "desa": 7
+        }
+    },
+    {
+        "code": "740107",
+        "name": "Pomalaa",
+        "count": {
+            "desa": 12
+        }
+    },
+    {
+        "code": "740120",
+        "name": "Samaturu",
+        "count": {
+            "desa": 19
+        }
+    },
+    {
+        "code": "740118",
+        "name": "Tanggetada",
+        "count": {
+            "desa": 14
+        }
+    },
+    {
+        "code": "740124",
+        "name": "Toari",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "740108",
+        "name": "Watubangga",
+        "count": {
+            "desa": 14
+        }
+    },
+    {
+        "code": "740110",
+        "name": "Wolo",
+        "count": {
+            "desa": 14
+        }
+    },
+    {
+        "code": "740101",
+        "name": "Wundulako",
+        "count": {
+            "desa": 11
+        }
+    }
+]

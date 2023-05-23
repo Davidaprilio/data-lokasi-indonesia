@@ -1,0 +1,10 @@
+{
+    "code": "1108",
+    "type": "Kabupaten",
+    "name": "Aceh Utara",
+    "fullname": "Kabupaten Aceh Utara",
+    "jumlah": {
+        "kecamatan": 27,
+        "desa": 852
+    }
+}

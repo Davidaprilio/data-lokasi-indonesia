@@ -1,0 +1,44 @@
+[
+    {
+        "code": "127405",
+        "name": "Datuk Bandar",
+        "count": {
+            "desa": 5
+        }
+    },
+    {
+        "code": "127406",
+        "name": "Datuk Bandar Timur",
+        "count": {
+            "desa": 5
+        }
+    },
+    {
+        "code": "127403",
+        "name": "Sei Tualang Raso",
+        "count": {
+            "desa": 5
+        }
+    },
+    {
+        "code": "127401",
+        "name": "Tanjung Balai Selatan",
+        "count": {
+            "desa": 6
+        }
+    },
+    {
+        "code": "127402",
+        "name": "Tanjung Balai Utara",
+        "count": {
+            "desa": 5
+        }
+    },
+    {
+        "code": "127404",
+        "name": "Teluk Nibung",
+        "count": {
+            "desa": 5
+        }
+    }
+]

@@ -1,0 +1,17 @@
+{
+    "code": "6212072001",
+    "name": "Oreng",
+    "poscode": "73960",
+    "provinsi": {
+        "code": "62",
+        "name": "Kalimantan Tengah"
+    },
+    "kabupaten": {
+        "code": "6212",
+        "name": "Murung Raya"
+    },
+    "kecamatan": {
+        "code": "621207",
+        "name": "Tanah Siang Selatan"
+    }
+}

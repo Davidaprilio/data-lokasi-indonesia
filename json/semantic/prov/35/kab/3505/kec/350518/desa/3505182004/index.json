@@ -1,0 +1,17 @@
+{
+    "code": "3505182004",
+    "name": "Sumberurip (Sumber Urip)",
+    "poscode": "66186",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3505",
+        "name": "Blitar"
+    },
+    "kecamatan": {
+        "code": "350518",
+        "name": "Doko"
+    }
+}

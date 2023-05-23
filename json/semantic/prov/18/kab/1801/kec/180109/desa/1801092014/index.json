@@ -1,0 +1,17 @@
+{
+    "code": "1801092014",
+    "name": "Gedung Harta (Gedungharta)",
+    "poscode": "35593",
+    "provinsi": {
+        "code": "18",
+        "name": "Lampung"
+    },
+    "kabupaten": {
+        "code": "1801",
+        "name": "Lampung Selatan"
+    },
+    "kecamatan": {
+        "code": "180109",
+        "name": "Penengahan"
+    }
+}

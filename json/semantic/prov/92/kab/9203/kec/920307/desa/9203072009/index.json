@@ -1,0 +1,17 @@
+{
+    "code": "9203072009",
+    "name": "Pinang Agung",
+    "poscode": "98026",
+    "provinsi": {
+        "code": "92",
+        "name": "Papua Barat"
+    },
+    "kabupaten": {
+        "code": "9203",
+        "name": "Fak Fak"
+    },
+    "kecamatan": {
+        "code": "920307",
+        "name": "Bomberay"
+    }
+}

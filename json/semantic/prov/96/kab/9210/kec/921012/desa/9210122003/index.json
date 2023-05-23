@@ -1,0 +1,17 @@
+{
+    "code": "9210122003",
+    "name": "Frambu",
+    "poscode": "98276",
+    "provinsi": {
+        "code": "96",
+        "name": "Papua Barat Daya"
+    },
+    "kabupaten": {
+        "code": "9210",
+        "name": "Maybrat"
+    },
+    "kecamatan": {
+        "code": "921012",
+        "name": "Aifat Timur Tengah"
+    }
+}

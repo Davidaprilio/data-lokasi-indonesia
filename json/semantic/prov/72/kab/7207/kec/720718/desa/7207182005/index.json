@@ -1,0 +1,17 @@
+{
+    "code": "7207182005",
+    "name": "Palapat",
+    "poscode": "94880",
+    "provinsi": {
+        "code": "72",
+        "name": "Sulawesi Tengah"
+    },
+    "kabupaten": {
+        "code": "7207",
+        "name": "Banggai Kepulauan"
+    },
+    "kecamatan": {
+        "code": "720718",
+        "name": "Buko Selatan"
+    }
+}

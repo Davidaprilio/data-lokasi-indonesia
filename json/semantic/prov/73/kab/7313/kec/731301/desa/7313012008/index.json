@@ -1,0 +1,17 @@
+{
+    "code": "7313012008",
+    "name": "Worongnge",
+    "poscode": "90961",
+    "provinsi": {
+        "code": "73",
+        "name": "Sulawesi Selatan"
+    },
+    "kabupaten": {
+        "code": "7313",
+        "name": "Wajo"
+    },
+    "kecamatan": {
+        "code": "731301",
+        "name": "Sabangparu"
+    }
+}

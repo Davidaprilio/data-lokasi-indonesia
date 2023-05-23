@@ -1,0 +1,17 @@
+{
+    "code": "5102062007",
+    "name": "Kaba-Kaba",
+    "poscode": "82121",
+    "provinsi": {
+        "code": "51",
+        "name": "Bali"
+    },
+    "kabupaten": {
+        "code": "5102",
+        "name": "Tabanan"
+    },
+    "kecamatan": {
+        "code": "510206",
+        "name": "Kediri"
+    }
+}

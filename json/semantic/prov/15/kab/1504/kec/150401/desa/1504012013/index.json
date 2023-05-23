@@ -1,0 +1,17 @@
+{
+    "code": "1504012013",
+    "name": "Belanti Jaya",
+    "poscode": "36654",
+    "provinsi": {
+        "code": "15",
+        "name": "Jambi"
+    },
+    "kabupaten": {
+        "code": "1504",
+        "name": "Batanghari"
+    },
+    "kecamatan": {
+        "code": "150401",
+        "name": "Mersam"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "3209202004",
+    "name": "Kedungdawa",
+    "poscode": "45153",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3209",
+        "name": "Cirebon"
+    },
+    "kecamatan": {
+        "code": "320920",
+        "name": "Kedawung"
+    }
+}

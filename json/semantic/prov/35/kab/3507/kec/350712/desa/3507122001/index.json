@@ -1,0 +1,17 @@
+{
+    "code": "3507122001",
+    "name": "Ternyang",
+    "poscode": "65160",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3507",
+        "name": "Malang"
+    },
+    "kecamatan": {
+        "code": "350712",
+        "name": "Sumberpucung"
+    }
+}

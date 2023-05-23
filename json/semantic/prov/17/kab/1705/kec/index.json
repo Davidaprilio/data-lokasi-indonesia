@@ -1,0 +1,100 @@
+[
+    {
+        "code": "170506",
+        "name": "Air Periukan",
+        "count": {
+            "desa": 16
+        }
+    },
+    {
+        "code": "170514",
+        "name": "Ilir Talo",
+        "count": {
+            "desa": 15
+        }
+    },
+    {
+        "code": "170507",
+        "name": "Lubuk Sandi",
+        "count": {
+            "desa": 14
+        }
+    },
+    {
+        "code": "170502",
+        "name": "Seluma",
+        "count": {
+            "desa": 7
+        }
+    },
+    {
+        "code": "170508",
+        "name": "Seluma Barat",
+        "count": {
+            "desa": 9
+        }
+    },
+    {
+        "code": "170511",
+        "name": "Seluma Selatan",
+        "count": {
+            "desa": 12
+        }
+    },
+    {
+        "code": "170509",
+        "name": "Seluma Timur",
+        "count": {
+            "desa": 8
+        }
+    },
+    {
+        "code": "170510",
+        "name": "Seluma Utara",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "170504",
+        "name": "Semidang Alas",
+        "count": {
+            "desa": 24
+        }
+    },
+    {
+        "code": "170505",
+        "name": "Semidang Alas Maras",
+        "count": {
+            "desa": 26
+        }
+    },
+    {
+        "code": "170501",
+        "name": "Sukaraja",
+        "count": {
+            "desa": 21
+        }
+    },
+    {
+        "code": "170503",
+        "name": "Talo",
+        "count": {
+            "desa": 16
+        }
+    },
+    {
+        "code": "170512",
+        "name": "Talo Kecil",
+        "count": {
+            "desa": 11
+        }
+    },
+    {
+        "code": "170513",
+        "name": "Ulu Talo",
+        "count": {
+            "desa": 13
+        }
+    }
+]

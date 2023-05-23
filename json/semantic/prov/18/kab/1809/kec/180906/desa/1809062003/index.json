@@ -1,0 +1,17 @@
+{
+    "code": "1809062003",
+    "name": "Batu Raja",
+    "poscode": "35454",
+    "provinsi": {
+        "code": "18",
+        "name": "Lampung"
+    },
+    "kabupaten": {
+        "code": "1809",
+        "name": "Pesawaran"
+    },
+    "kecamatan": {
+        "code": "180906",
+        "name": "Punduh Pidada"
+    }
+}

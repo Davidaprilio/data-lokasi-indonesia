@@ -1,0 +1,17 @@
+{
+    "code": "5307132001",
+    "name": "Natarmage",
+    "poscode": "86184",
+    "provinsi": {
+        "code": "53",
+        "name": "Nusa Tenggara Timur (NTT)"
+    },
+    "kabupaten": {
+        "code": "5307",
+        "name": "Sikka"
+    },
+    "kecamatan": {
+        "code": "530713",
+        "name": "Waiblama"
+    }
+}

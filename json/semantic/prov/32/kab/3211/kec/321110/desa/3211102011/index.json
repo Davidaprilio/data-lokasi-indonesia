@@ -1,0 +1,17 @@
+{
+    "code": "3211102011",
+    "name": "Cilangkap",
+    "poscode": "45392",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3211",
+        "name": "Sumedang"
+    },
+    "kecamatan": {
+        "code": "321110",
+        "name": "Buahdua"
+    }
+}

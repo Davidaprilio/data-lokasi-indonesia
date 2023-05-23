@@ -1,0 +1,17 @@
+{
+    "code": "3171031006",
+    "name": "Cempaka Baru",
+    "poscode": "10640",
+    "provinsi": {
+        "code": "31",
+        "name": "DKI Jakarta"
+    },
+    "kabupaten": {
+        "code": "3171",
+        "name": "Jakarta Pusat"
+    },
+    "kecamatan": {
+        "code": "317103",
+        "name": "Kemayoran"
+    }
+}

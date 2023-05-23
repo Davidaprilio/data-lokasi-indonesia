@@ -1,0 +1,17 @@
+{
+    "code": "1113092004",
+    "name": "Gegarang",
+    "poscode": "24655",
+    "provinsi": {
+        "code": "11",
+        "name": "Aceh (NAD)"
+    },
+    "kabupaten": {
+        "code": "1113",
+        "name": "Gayo Lues"
+    },
+    "kecamatan": {
+        "code": "111309",
+        "name": "Blangjerango (Blang Jerango)"
+    }
+}

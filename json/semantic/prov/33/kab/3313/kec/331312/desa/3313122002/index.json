@@ -1,0 +1,17 @@
+{
+    "code": "3313122002",
+    "name": "Bolon",
+    "poscode": "57178",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3313",
+        "name": "Karanganyar"
+    },
+    "kecamatan": {
+        "code": "331312",
+        "name": "Colomadu"
+    }
+}

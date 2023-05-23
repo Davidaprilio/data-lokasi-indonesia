@@ -1,0 +1,79 @@
+[
+    {
+        "code": "170108",
+        "name": "Air Nipis",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "170110",
+        "name": "Bunga Mas",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "170101",
+        "name": "Kedurang",
+        "count": {
+            "desa": 19
+        }
+    },
+    {
+        "code": "170107",
+        "name": "Kedurang Ilir",
+        "count": {
+            "desa": 12
+        }
+    },
+    {
+        "code": "170105",
+        "name": "Kota Manna",
+        "count": {
+            "desa": 11
+        }
+    },
+    {
+        "code": "170104",
+        "name": "Manna",
+        "count": {
+            "desa": 18
+        }
+    },
+    {
+        "code": "170111",
+        "name": "Pasar Manna",
+        "count": {
+            "desa": 9
+        }
+    },
+    {
+        "code": "170103",
+        "name": "Pino",
+        "count": {
+            "desa": 16
+        }
+    },
+    {
+        "code": "170106",
+        "name": "Pino Raya (Pinoraya)",
+        "count": {
+            "desa": 21
+        }
+    },
+    {
+        "code": "170102",
+        "name": "Seginim",
+        "count": {
+            "desa": 22
+        }
+    },
+    {
+        "code": "170109",
+        "name": "Ulu Manna",
+        "count": {
+            "desa": 10
+        }
+    }
+]

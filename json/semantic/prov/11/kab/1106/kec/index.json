@@ -1,0 +1,163 @@
+[
+    {
+        "code": "110620",
+        "name": "Baitussalam",
+        "count": {
+            "desa": 13
+        }
+    },
+    {
+        "code": "110623",
+        "name": "Blang Bintang (Blank Bintang)",
+        "count": {
+            "desa": 26
+        }
+    },
+    {
+        "code": "110607",
+        "name": "Darul Imarah",
+        "count": {
+            "desa": 32
+        }
+    },
+    {
+        "code": "110619",
+        "name": "Darul Kamal",
+        "count": {
+            "desa": 14
+        }
+    },
+    {
+        "code": "110612",
+        "name": "Darussalam",
+        "count": {
+            "desa": 29
+        }
+    },
+    {
+        "code": "110603",
+        "name": "Indrapuri",
+        "count": {
+            "desa": 52
+        }
+    },
+    {
+        "code": "110610",
+        "name": "Ingin Jaya",
+        "count": {
+            "desa": 50
+        }
+    },
+    {
+        "code": "110616",
+        "name": "Kota Cot Glie (Kuta Cot Glie)",
+        "count": {
+            "desa": 32
+        }
+    },
+    {
+        "code": "110615",
+        "name": "Kota Jantho",
+        "count": {
+            "desa": 13
+        }
+    },
+    {
+        "code": "110617",
+        "name": "Kota Malaka (Kuta Malaka)",
+        "count": {
+            "desa": 15
+        }
+    },
+    {
+        "code": "110621",
+        "name": "Krueng Barona Jaya",
+        "count": {
+            "desa": 12
+        }
+    },
+    {
+        "code": "110611",
+        "name": "Kuta Baro",
+        "count": {
+            "desa": 47
+        }
+    },
+    {
+        "code": "110614",
+        "name": "Lembah Seulawah",
+        "count": {
+            "desa": 12
+        }
+    },
+    {
+        "code": "110622",
+        "name": "Leupung",
+        "count": {
+            "desa": 6
+        }
+    },
+    {
+        "code": "110602",
+        "name": "Lhoknga (Lho'nga)",
+        "count": {
+            "desa": 28
+        }
+    },
+    {
+        "code": "110601",
+        "name": "Lhoong",
+        "count": {
+            "desa": 28
+        }
+    },
+    {
+        "code": "110605",
+        "name": "Mantasiek (Montasik)",
+        "count": {
+            "desa": 39
+        }
+    },
+    {
+        "code": "110609",
+        "name": "Mesjid Raya",
+        "count": {
+            "desa": 13
+        }
+    },
+    {
+        "code": "110608",
+        "name": "Peukan Bada",
+        "count": {
+            "desa": 26
+        }
+    },
+    {
+        "code": "110613",
+        "name": "Pulo Aceh",
+        "count": {
+            "desa": 17
+        }
+    },
+    {
+        "code": "110604",
+        "name": "Seulimeum",
+        "count": {
+            "desa": 47
+        }
+    },
+    {
+        "code": "110618",
+        "name": "Simpang Tiga",
+        "count": {
+            "desa": 18
+        }
+    },
+    {
+        "code": "110606",
+        "name": "Sukamakmur (Suka Makmur)",
+        "count": {
+            "desa": 35
+        }
+    }
+]

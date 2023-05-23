@@ -1,0 +1,17 @@
+{
+    "code": "3278031004",
+    "name": "Cikalang",
+    "poscode": "46114",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3278",
+        "name": "Tasikmalaya"
+    },
+    "kecamatan": {
+        "code": "327803",
+        "name": "Tawang"
+    }
+}

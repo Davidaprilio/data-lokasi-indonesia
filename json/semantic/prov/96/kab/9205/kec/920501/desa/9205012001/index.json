@@ -1,0 +1,17 @@
+{
+    "code": "9205012001",
+    "name": "Waigama",
+    "poscode": "98483",
+    "provinsi": {
+        "code": "96",
+        "name": "Papua Barat Daya"
+    },
+    "kabupaten": {
+        "code": "9205",
+        "name": "Raja Ampat"
+    },
+    "kecamatan": {
+        "code": "920501",
+        "name": "Misool (Misool Utara)"
+    }
+}

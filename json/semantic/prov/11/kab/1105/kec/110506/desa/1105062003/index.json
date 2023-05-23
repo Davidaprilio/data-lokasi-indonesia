@@ -1,0 +1,17 @@
+{
+    "code": "1105062003",
+    "name": "Berawang (Beurawang)",
+    "poscode": "23651",
+    "provinsi": {
+        "code": "11",
+        "name": "Aceh (NAD)"
+    },
+    "kabupaten": {
+        "code": "1105",
+        "name": "Aceh Barat"
+    },
+    "kecamatan": {
+        "code": "110506",
+        "name": "Bubon"
+    }
+}

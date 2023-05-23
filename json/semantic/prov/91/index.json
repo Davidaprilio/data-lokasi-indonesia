@@ -1,0 +1,10 @@
+{
+    "code": "91",
+    "name": "Papua",
+    "jumlah": {
+        "kota": 1,
+        "kabupaten": 8,
+        "kecamatan": 105,
+        "desa": 999
+    }
+}

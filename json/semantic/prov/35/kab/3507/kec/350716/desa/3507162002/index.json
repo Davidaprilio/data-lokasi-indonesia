@@ -1,0 +1,17 @@
+{
+    "code": "3507162002",
+    "name": "Kidal",
+    "poscode": "65156",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3507",
+        "name": "Malang"
+    },
+    "kecamatan": {
+        "code": "350716",
+        "name": "Tumpang"
+    }
+}

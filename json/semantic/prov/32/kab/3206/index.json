@@ -1,0 +1,10 @@
+{
+    "code": "3206",
+    "type": "Kabupaten",
+    "name": "Tasikmalaya",
+    "fullname": "Kabupaten Tasikmalaya",
+    "jumlah": {
+        "kecamatan": 39,
+        "desa": 351
+    }
+}

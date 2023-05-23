@@ -1,0 +1,17 @@
+{
+    "code": "3506142003",
+    "name": "Minggiran",
+    "poscode": "64153",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3506",
+        "name": "Kediri"
+    },
+    "kecamatan": {
+        "code": "350614",
+        "name": "Papar"
+    }
+}

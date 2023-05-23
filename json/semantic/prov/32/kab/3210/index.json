@@ -1,0 +1,10 @@
+{
+    "code": "3210",
+    "type": "Kabupaten",
+    "name": "Majalengka",
+    "fullname": "Kabupaten Majalengka",
+    "jumlah": {
+        "kecamatan": 26,
+        "desa": 343
+    }
+}

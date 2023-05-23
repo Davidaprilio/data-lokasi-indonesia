@@ -1,0 +1,17 @@
+{
+    "code": "3527042012",
+    "name": "Madupat",
+    "poscode": "69281",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3527",
+        "name": "Sampang"
+    },
+    "kecamatan": {
+        "code": "352704",
+        "name": "Camplong"
+    }
+}

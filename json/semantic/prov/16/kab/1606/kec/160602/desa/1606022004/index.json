@@ -1,0 +1,17 @@
+{
+    "code": "1606022004",
+    "name": "Petaling",
+    "poscode": "30757",
+    "provinsi": {
+        "code": "16",
+        "name": "Sumatera Selatan"
+    },
+    "kabupaten": {
+        "code": "1606",
+        "name": "Musi Banyuasin"
+    },
+    "kecamatan": {
+        "code": "160602",
+        "name": "Lais"
+    }
+}

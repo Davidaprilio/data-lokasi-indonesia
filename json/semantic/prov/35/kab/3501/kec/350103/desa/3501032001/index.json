@@ -1,0 +1,17 @@
+{
+    "code": "3501032001",
+    "name": "Bomo",
+    "poscode": "63553",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3501",
+        "name": "Pacitan"
+    },
+    "kecamatan": {
+        "code": "350103",
+        "name": "Punung"
+    }
+}

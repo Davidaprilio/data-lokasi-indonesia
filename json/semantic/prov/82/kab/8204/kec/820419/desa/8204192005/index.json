@@ -1,0 +1,17 @@
+{
+    "code": "8204192005",
+    "name": "Tabalema",
+    "poscode": "97791",
+    "provinsi": {
+        "code": "82",
+        "name": "Maluku Utara"
+    },
+    "kabupaten": {
+        "code": "8204",
+        "name": "Halmahera Selatan"
+    },
+    "kecamatan": {
+        "code": "820419",
+        "name": "Mandioli Selatan"
+    }
+}

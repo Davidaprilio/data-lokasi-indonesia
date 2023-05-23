@@ -1,0 +1,17 @@
+{
+    "code": "9502212012",
+    "name": "Paune",
+    "poscode": "99426",
+    "provinsi": {
+        "code": "95",
+        "name": "Papua Pegunungan"
+    },
+    "kabupaten": {
+        "code": "9502",
+        "name": "Pegunungan Bintang"
+    },
+    "kecamatan": {
+        "code": "950221",
+        "name": "Oksamol"
+    }
+}

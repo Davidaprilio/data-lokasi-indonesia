@@ -1,0 +1,10 @@
+{
+    "code": "3320",
+    "type": "Kabupaten",
+    "name": "Jepara",
+    "fullname": "Kabupaten Jepara",
+    "jumlah": {
+        "kecamatan": 16,
+        "desa": 195
+    }
+}

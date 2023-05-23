@@ -1,0 +1,17 @@
+{
+    "code": "3201222006",
+    "name": "Argapura",
+    "poscode": "16660",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3201",
+        "name": "Bogor"
+    },
+    "kecamatan": {
+        "code": "320122",
+        "name": "Cigudeg"
+    }
+}

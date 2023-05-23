@@ -1,0 +1,17 @@
+{
+    "code": "1613012014",
+    "name": "Beringin Jaya",
+    "poscode": "31653",
+    "provinsi": {
+        "code": "16",
+        "name": "Sumatera Selatan"
+    },
+    "kabupaten": {
+        "code": "1613",
+        "name": "Musi Rawas Utara"
+    },
+    "kecamatan": {
+        "code": "161301",
+        "name": "Rupit"
+    }
+}

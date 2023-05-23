@@ -1,0 +1,17 @@
+{
+    "code": "1401102024",
+    "name": "Bencah Kelubi",
+    "poscode": "28464",
+    "provinsi": {
+        "code": "14",
+        "name": "Riau"
+    },
+    "kabupaten": {
+        "code": "1401",
+        "name": "Kampar"
+    },
+    "kecamatan": {
+        "code": "140110",
+        "name": "Tapung"
+    }
+}

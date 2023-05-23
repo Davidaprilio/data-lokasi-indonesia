@@ -1,0 +1,17 @@
+{
+    "code": "1208242001",
+    "name": "Bandar Masilam",
+    "poscode": "21185",
+    "provinsi": {
+        "code": "12",
+        "name": "Sumatera Utara"
+    },
+    "kabupaten": {
+        "code": "1208",
+        "name": "Simalungun"
+    },
+    "kecamatan": {
+        "code": "120824",
+        "name": "Bandar Masilam"
+    }
+}

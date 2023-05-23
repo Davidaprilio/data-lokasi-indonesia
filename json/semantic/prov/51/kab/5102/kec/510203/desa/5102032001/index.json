@@ -1,0 +1,17 @@
+{
+    "code": "5102032001",
+    "name": "Mundeh",
+    "poscode": "82162",
+    "provinsi": {
+        "code": "51",
+        "name": "Bali"
+    },
+    "kabupaten": {
+        "code": "5102",
+        "name": "Tabanan"
+    },
+    "kecamatan": {
+        "code": "510203",
+        "name": "Salemadeg Barat"
+    }
+}

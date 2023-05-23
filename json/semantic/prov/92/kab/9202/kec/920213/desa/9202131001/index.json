@@ -1,0 +1,17 @@
+{
+    "code": "9202131001",
+    "name": "Pasir Putih",
+    "poscode": "98311",
+    "provinsi": {
+        "code": "92",
+        "name": "Papua Barat"
+    },
+    "kabupaten": {
+        "code": "9202",
+        "name": "Manokwari"
+    },
+    "kecamatan": {
+        "code": "920213",
+        "name": "Manokwari Timur"
+    }
+}

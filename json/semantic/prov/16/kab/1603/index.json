@@ -1,0 +1,10 @@
+{
+    "code": "1603",
+    "type": "Kabupaten",
+    "name": "Muara Enim",
+    "fullname": "Kabupaten Muara Enim",
+    "jumlah": {
+        "kecamatan": 22,
+        "desa": 255
+    }
+}

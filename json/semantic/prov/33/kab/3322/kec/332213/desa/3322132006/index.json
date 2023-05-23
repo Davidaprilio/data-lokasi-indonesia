@@ -1,0 +1,17 @@
+{
+    "code": "3322132006",
+    "name": "Gebugan",
+    "poscode": "50552",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3322",
+        "name": "Semarang"
+    },
+    "kecamatan": {
+        "code": "332213",
+        "name": "Bergas"
+    }
+}

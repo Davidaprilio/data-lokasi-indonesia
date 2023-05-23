@@ -1,0 +1,17 @@
+{
+    "code": "1202122012",
+    "name": "Tapian Nauli II",
+    "poscode": "22471",
+    "provinsi": {
+        "code": "12",
+        "name": "Sumatera Utara"
+    },
+    "kabupaten": {
+        "code": "1202",
+        "name": "Tapanuli Utara"
+    },
+    "kecamatan": {
+        "code": "120212",
+        "name": "Sipahutar"
+    }
+}

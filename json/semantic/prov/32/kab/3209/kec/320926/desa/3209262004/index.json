@@ -1,0 +1,17 @@
+{
+    "code": "3209262004",
+    "name": "Budur",
+    "poscode": "45167",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3209",
+        "name": "Cirebon"
+    },
+    "kecamatan": {
+        "code": "320926",
+        "name": "Ciwaringin"
+    }
+}

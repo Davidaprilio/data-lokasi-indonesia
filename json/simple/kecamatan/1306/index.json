@@ -1,0 +1,114 @@
+[
+    {
+        "code": "130613",
+        "name": "Ampek Nagari (IV Nagari )",
+        "count": {
+            "desa": 4
+        }
+    },
+    {
+        "code": "130606",
+        "name": "Banuhampu",
+        "count": {
+            "desa": 7
+        }
+    },
+    {
+        "code": "130608",
+        "name": "Baso",
+        "count": {
+            "desa": 6
+        }
+    },
+    {
+        "code": "130614",
+        "name": "Candung",
+        "count": {
+            "desa": 3
+        }
+    },
+    {
+        "code": "130607",
+        "name": "IV Angkat Candung (Ampek Angkek)",
+        "count": {
+            "desa": 7
+        }
+    },
+    {
+        "code": "130605",
+        "name": "IV Koto (Ampek Koto)",
+        "count": {
+            "desa": 7
+        }
+    },
+    {
+        "code": "130615",
+        "name": "Kamang Magek",
+        "count": {
+            "desa": 3
+        }
+    },
+    {
+        "code": "130602",
+        "name": "Lubuk Basung",
+        "count": {
+            "desa": 5
+        }
+    },
+    {
+        "code": "130616",
+        "name": "Malalak (Malakak)",
+        "count": {
+            "desa": 4
+        }
+    },
+    {
+        "code": "130604",
+        "name": "Matur",
+        "count": {
+            "desa": 6
+        }
+    },
+    {
+        "code": "130610",
+        "name": "Palupuh",
+        "count": {
+            "desa": 4
+        }
+    },
+    {
+        "code": "130611",
+        "name": "Pelembayan (Palembayan)",
+        "count": {
+            "desa": 6
+        }
+    },
+    {
+        "code": "130612",
+        "name": "Sungai Pua (Puar)",
+        "count": {
+            "desa": 5
+        }
+    },
+    {
+        "code": "130601",
+        "name": "Tanjung Mutiara",
+        "count": {
+            "desa": 3
+        }
+    },
+    {
+        "code": "130603",
+        "name": "Tanjung Raya",
+        "count": {
+            "desa": 9
+        }
+    },
+    {
+        "code": "130609",
+        "name": "Tilatang Kamang",
+        "count": {
+            "desa": 3
+        }
+    }
+]

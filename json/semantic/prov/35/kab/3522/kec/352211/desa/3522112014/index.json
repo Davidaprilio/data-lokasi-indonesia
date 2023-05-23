@@ -1,0 +1,17 @@
+{
+    "code": "3522112014",
+    "name": "Caruban",
+    "poscode": "62193",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3522",
+        "name": "Bojonegoro"
+    },
+    "kecamatan": {
+        "code": "352211",
+        "name": "Kanor"
+    }
+}

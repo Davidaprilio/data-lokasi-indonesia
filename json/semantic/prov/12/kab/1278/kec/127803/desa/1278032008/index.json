@@ -1,0 +1,17 @@
+{
+    "code": "1278032008",
+    "name": "Olora",
+    "poscode": "22851",
+    "provinsi": {
+        "code": "12",
+        "name": "Sumatera Utara"
+    },
+    "kabupaten": {
+        "code": "1278",
+        "name": "Gunungsitoli"
+    },
+    "kecamatan": {
+        "code": "127803",
+        "name": "Gunungsitoli Utara"
+    }
+}

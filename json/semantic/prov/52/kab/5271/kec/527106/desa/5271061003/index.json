@@ -1,0 +1,17 @@
+{
+    "code": "5271061003",
+    "name": "Bertais",
+    "poscode": "83236",
+    "provinsi": {
+        "code": "52",
+        "name": "Nusa Tenggara Barat (NTB)"
+    },
+    "kabupaten": {
+        "code": "5271",
+        "name": "Mataram"
+    },
+    "kecamatan": {
+        "code": "527106",
+        "name": "Sandubaya (Sandujaya)"
+    }
+}

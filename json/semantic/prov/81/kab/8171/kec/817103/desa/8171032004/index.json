@@ -1,0 +1,17 @@
+{
+    "code": "8171032004",
+    "name": "Negeri Lama",
+    "poscode": "97232",
+    "provinsi": {
+        "code": "81",
+        "name": "Maluku"
+    },
+    "kabupaten": {
+        "code": "8171",
+        "name": "Ambon"
+    },
+    "kecamatan": {
+        "code": "817103",
+        "name": "Baguala"
+    }
+}

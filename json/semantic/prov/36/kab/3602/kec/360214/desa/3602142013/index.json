@@ -1,0 +1,17 @@
+{
+    "code": "3602142013",
+    "name": "Jatimulya",
+    "poscode": "42315",
+    "provinsi": {
+        "code": "36",
+        "name": "Banten"
+    },
+    "kabupaten": {
+        "code": "3602",
+        "name": "Lebak"
+    },
+    "kecamatan": {
+        "code": "360214",
+        "name": "Rangkasbitung"
+    }
+}

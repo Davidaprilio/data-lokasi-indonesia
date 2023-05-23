@@ -1,0 +1,17 @@
+{
+    "code": "9303072007",
+    "name": "Binerbis",
+    "poscode": "99876",
+    "provinsi": {
+        "code": "93",
+        "name": "Papua Selatan"
+    },
+    "kabupaten": {
+        "code": "9303",
+        "name": "Mappi"
+    },
+    "kecamatan": {
+        "code": "930307",
+        "name": "Kaibar"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "9201402002",
+    "name": "Klawuluh",
+    "poscode": "98451",
+    "provinsi": {
+        "code": "96",
+        "name": "Papua Barat Daya"
+    },
+    "kabupaten": {
+        "code": "9201",
+        "name": "Sorong"
+    },
+    "kecamatan": {
+        "code": "920140",
+        "name": "Klayili"
+    }
+}

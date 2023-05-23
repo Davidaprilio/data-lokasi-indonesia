@@ -1,0 +1,17 @@
+{
+    "code": "7414072001",
+    "name": "Baruta Lestari",
+    "poscode": "93760",
+    "provinsi": {
+        "code": "74",
+        "name": "Sulawesi Tenggara"
+    },
+    "kabupaten": {
+        "code": "7414",
+        "name": "Buton Tengah"
+    },
+    "kecamatan": {
+        "code": "741407",
+        "name": "Sangia Wambulu"
+    }
+}

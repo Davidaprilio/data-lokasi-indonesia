@@ -1,0 +1,17 @@
+{
+    "code": "3510132006",
+    "name": "Gladag",
+    "poscode": "68462",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3510",
+        "name": "Banyuwangi"
+    },
+    "kecamatan": {
+        "code": "351013",
+        "name": "Rogojampi"
+    }
+}

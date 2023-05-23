@@ -1,0 +1,17 @@
+{
+    "code": "7104192002",
+    "name": "Sambuara",
+    "poscode": "95887",
+    "provinsi": {
+        "code": "71",
+        "name": "Sulawesi Utara"
+    },
+    "kabupaten": {
+        "code": "7104",
+        "name": "Kepulauan Talaud"
+    },
+    "kecamatan": {
+        "code": "710419",
+        "name": "Essang Selatan"
+    }
+}

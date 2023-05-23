@@ -1,0 +1,17 @@
+{
+    "code": "3210082001",
+    "name": "Ciomas",
+    "poscode": "45470",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3210",
+        "name": "Majalengka"
+    },
+    "kecamatan": {
+        "code": "321008",
+        "name": "Sukahaji"
+    }
+}

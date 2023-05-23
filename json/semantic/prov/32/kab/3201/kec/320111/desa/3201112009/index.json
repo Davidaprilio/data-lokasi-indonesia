@@ -1,0 +1,17 @@
+{
+    "code": "3201112009",
+    "name": "Rawakalong",
+    "poscode": "16340",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3201",
+        "name": "Bogor"
+    },
+    "kecamatan": {
+        "code": "320111",
+        "name": "Gunung Sindur"
+    }
+}

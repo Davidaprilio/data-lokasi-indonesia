@@ -1,0 +1,17 @@
+{
+    "code": "5204102006",
+    "name": "Mokong",
+    "poscode": "84371",
+    "provinsi": {
+        "code": "52",
+        "name": "Nusa Tenggara Barat (NTB)"
+    },
+    "kabupaten": {
+        "code": "5204",
+        "name": "Sumbawa"
+    },
+    "kecamatan": {
+        "code": "520410",
+        "name": "Moyo Hulu"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "1223052003",
+    "name": "Perkebunan Marbau Selatan",
+    "poscode": "21452",
+    "provinsi": {
+        "code": "12",
+        "name": "Sumatera Utara"
+    },
+    "kabupaten": {
+        "code": "1223",
+        "name": "Labuhanbatu Utara"
+    },
+    "kecamatan": {
+        "code": "122305",
+        "name": "Marbau"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "3276101005",
+    "name": "Jatijajar",
+    "poscode": "16451",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3276",
+        "name": "Depok"
+    },
+    "kecamatan": {
+        "code": "327610",
+        "name": "Tapos"
+    }
+}

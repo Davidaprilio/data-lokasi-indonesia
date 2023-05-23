@@ -1,0 +1,17 @@
+{
+    "code": "3203192002",
+    "name": "Rawagede",
+    "poscode": "43267",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3203",
+        "name": "Cianjur"
+    },
+    "kecamatan": {
+        "code": "320319",
+        "name": "Tanggeung"
+    }
+}

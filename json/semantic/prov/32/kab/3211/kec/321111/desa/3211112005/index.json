@@ -1,0 +1,17 @@
+{
+    "code": "3211112005",
+    "name": "Kutamandiri",
+    "poscode": "45362",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3211",
+        "name": "Sumedang"
+    },
+    "kecamatan": {
+        "code": "321111",
+        "name": "Tanjungsari"
+    }
+}

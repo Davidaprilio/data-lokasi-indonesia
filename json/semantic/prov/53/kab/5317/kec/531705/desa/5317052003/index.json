@@ -1,0 +1,17 @@
+{
+    "code": "5317052003",
+    "name": "Malinjak",
+    "poscode": "87280",
+    "provinsi": {
+        "code": "53",
+        "name": "Nusa Tenggara Timur (NTT)"
+    },
+    "kabupaten": {
+        "code": "5317",
+        "name": "Sumba Tengah"
+    },
+    "kecamatan": {
+        "code": "531705",
+        "name": "Katiku Tana Selatan (Katikutana Selatan)"
+    }
+}

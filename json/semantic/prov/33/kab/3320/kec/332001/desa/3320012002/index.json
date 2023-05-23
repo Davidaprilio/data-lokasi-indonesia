@@ -1,0 +1,17 @@
+{
+    "code": "3320012002",
+    "name": "Kalianyar",
+    "poscode": "59463",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3320",
+        "name": "Jepara"
+    },
+    "kecamatan": {
+        "code": "332001",
+        "name": "Kedung"
+    }
+}

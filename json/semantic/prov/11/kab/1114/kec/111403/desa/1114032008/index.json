@@ -1,0 +1,17 @@
+{
+    "code": "1114032008",
+    "name": "Gampong Baroh",
+    "poscode": "23655",
+    "provinsi": {
+        "code": "11",
+        "name": "Aceh (NAD)"
+    },
+    "kabupaten": {
+        "code": "1114",
+        "name": "Aceh Jaya"
+    },
+    "kecamatan": {
+        "code": "111403",
+        "name": "Setia Bhakti (Setia Bakti)"
+    }
+}

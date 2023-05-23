@@ -1,0 +1,17 @@
+{
+    "code": "6301072005",
+    "name": "Riam Adungan",
+    "poscode": "70883",
+    "provinsi": {
+        "code": "63",
+        "name": "Kalimantan Selatan"
+    },
+    "kabupaten": {
+        "code": "6301",
+        "name": "Tanah Laut"
+    },
+    "kecamatan": {
+        "code": "630107",
+        "name": "Kintap"
+    }
+}

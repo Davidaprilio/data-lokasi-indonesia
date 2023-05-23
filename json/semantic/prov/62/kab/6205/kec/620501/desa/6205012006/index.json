@@ -1,0 +1,17 @@
+{
+    "code": "6205012006",
+    "name": "Rubei",
+    "poscode": "73861",
+    "provinsi": {
+        "code": "62",
+        "name": "Kalimantan Tengah"
+    },
+    "kabupaten": {
+        "code": "6205",
+        "name": "Barito Utara"
+    },
+    "kecamatan": {
+        "code": "620501",
+        "name": "Montallat (Montalat)"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "1406032014",
+    "name": "Pasir Maju",
+    "poscode": "28560",
+    "provinsi": {
+        "code": "14",
+        "name": "Riau"
+    },
+    "kabupaten": {
+        "code": "1406",
+        "name": "Rokan Hulu"
+    },
+    "kecamatan": {
+        "code": "140603",
+        "name": "Rambah"
+    }
+}

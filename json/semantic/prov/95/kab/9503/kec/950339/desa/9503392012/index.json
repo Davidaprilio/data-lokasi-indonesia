@@ -1,0 +1,17 @@
+{
+    "code": "9503392012",
+    "name": "Sulda",
+    "poscode": "99741",
+    "provinsi": {
+        "code": "95",
+        "name": "Papua Pegunungan"
+    },
+    "kabupaten": {
+        "code": "9503",
+        "name": "Yahukimo"
+    },
+    "kecamatan": {
+        "code": "950339",
+        "name": "Sela"
+    }
+}

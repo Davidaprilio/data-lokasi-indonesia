@@ -1,0 +1,17 @@
+{
+    "code": "5204142015",
+    "name": "Bunga Eja",
+    "poscode": "84384",
+    "provinsi": {
+        "code": "52",
+        "name": "Nusa Tenggara Barat (NTB)"
+    },
+    "kabupaten": {
+        "code": "5204",
+        "name": "Sumbawa"
+    },
+    "kecamatan": {
+        "code": "520414",
+        "name": "Empang"
+    }
+}

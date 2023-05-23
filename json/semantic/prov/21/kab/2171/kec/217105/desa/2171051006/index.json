@@ -1,0 +1,17 @@
+{
+    "code": "2171051006",
+    "name": "Pulau Setokok",
+    "poscode": "29476",
+    "provinsi": {
+        "code": "21",
+        "name": "Kepulauan Riau"
+    },
+    "kabupaten": {
+        "code": "2171",
+        "name": "Batam"
+    },
+    "kecamatan": {
+        "code": "217105",
+        "name": "Bulang"
+    }
+}

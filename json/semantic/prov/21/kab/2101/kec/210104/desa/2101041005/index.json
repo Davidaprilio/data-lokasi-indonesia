@@ -1,0 +1,17 @@
+{
+    "code": "2101041005",
+    "name": "Kawal",
+    "poscode": "29155",
+    "provinsi": {
+        "code": "21",
+        "name": "Kepulauan Riau"
+    },
+    "kabupaten": {
+        "code": "2101",
+        "name": "Bintan"
+    },
+    "kecamatan": {
+        "code": "210104",
+        "name": "Gunung Kijang"
+    }
+}

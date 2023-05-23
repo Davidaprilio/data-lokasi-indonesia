@@ -1,0 +1,17 @@
+{
+    "code": "3310012005",
+    "name": "Kebondalem Kidul (Kebon Dalem Kidul)",
+    "poscode": "57454",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3310",
+        "name": "Klaten"
+    },
+    "kecamatan": {
+        "code": "331001",
+        "name": "Prambanan"
+    }
+}

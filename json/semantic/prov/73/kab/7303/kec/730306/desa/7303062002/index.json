@@ -1,0 +1,17 @@
+{
+    "code": "7303062002",
+    "name": "Bonto Tangnga",
+    "poscode": "92452",
+    "provinsi": {
+        "code": "73",
+        "name": "Sulawesi Selatan"
+    },
+    "kabupaten": {
+        "code": "7303",
+        "name": "Bantaeng"
+    },
+    "kecamatan": {
+        "code": "730306",
+        "name": "Uluere"
+    }
+}

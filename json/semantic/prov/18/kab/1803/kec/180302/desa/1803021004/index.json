@@ -1,0 +1,17 @@
+{
+    "code": "1803021004",
+    "name": "Kotabumi Tengah",
+    "poscode": "34516",
+    "provinsi": {
+        "code": "18",
+        "name": "Lampung"
+    },
+    "kabupaten": {
+        "code": "1803",
+        "name": "Lampung Utara"
+    },
+    "kecamatan": {
+        "code": "180302",
+        "name": "Kotabumi"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "3402032003",
+    "name": "Donotirto",
+    "poscode": "55772",
+    "provinsi": {
+        "code": "34",
+        "name": "DI Yogyakarta"
+    },
+    "kabupaten": {
+        "code": "3402",
+        "name": "Bantul"
+    },
+    "kecamatan": {
+        "code": "340203",
+        "name": "Kretek"
+    }
+}

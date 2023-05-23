@@ -1,0 +1,17 @@
+{
+    "code": "1304042003",
+    "name": "Parambahan",
+    "poscode": "27211",
+    "provinsi": {
+        "code": "13",
+        "name": "Sumatera Barat"
+    },
+    "kabupaten": {
+        "code": "1304",
+        "name": "Tanah Datar"
+    },
+    "kecamatan": {
+        "code": "130404",
+        "name": "Lima Kaum"
+    }
+}

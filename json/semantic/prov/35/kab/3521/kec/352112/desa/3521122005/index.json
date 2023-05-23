@@ -1,0 +1,17 @@
+{
+    "code": "3521122005",
+    "name": "Kayutrejo",
+    "poscode": "63256",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3521",
+        "name": "Ngawi"
+    },
+    "kecamatan": {
+        "code": "352112",
+        "name": "Widodaren"
+    }
+}

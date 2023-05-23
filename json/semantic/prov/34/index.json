@@ -1,0 +1,10 @@
+{
+    "code": "34",
+    "name": "DI Yogyakarta",
+    "jumlah": {
+        "kota": 1,
+        "kabupaten": 4,
+        "kecamatan": 78,
+        "desa": 438
+    }
+}

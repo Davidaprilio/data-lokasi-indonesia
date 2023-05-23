@@ -1,0 +1,37 @@
+[
+    {
+        "code": "817103",
+        "name": "Baguala",
+        "count": {
+            "desa": 7
+        }
+    },
+    {
+        "code": "817105",
+        "name": "Leitimur Selatan",
+        "count": {
+            "desa": 8
+        }
+    },
+    {
+        "code": "817101",
+        "name": "Nusaniwe (Nusanive)",
+        "count": {
+            "desa": 13
+        }
+    },
+    {
+        "code": "817102",
+        "name": "Sirimau",
+        "count": {
+            "desa": 14
+        }
+    },
+    {
+        "code": "817104",
+        "name": "Teluk Ambon",
+        "count": {
+            "desa": 8
+        }
+    }
+]

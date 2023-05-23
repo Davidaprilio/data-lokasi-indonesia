@@ -1,0 +1,17 @@
+{
+    "code": "3373021003",
+    "name": "Sidorejo Kidul",
+    "poscode": "50741",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3373",
+        "name": "Salatiga"
+    },
+    "kecamatan": {
+        "code": "337302",
+        "name": "Tingkir"
+    }
+}

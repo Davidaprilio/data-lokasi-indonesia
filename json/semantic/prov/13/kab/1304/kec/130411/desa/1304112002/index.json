@@ -1,0 +1,17 @@
+{
+    "code": "1304112002",
+    "name": "Padang Ganting",
+    "poscode": "27282",
+    "provinsi": {
+        "code": "13",
+        "name": "Sumatera Barat"
+    },
+    "kabupaten": {
+        "code": "1304",
+        "name": "Tanah Datar"
+    },
+    "kecamatan": {
+        "code": "130411",
+        "name": "Padang Ganting"
+    }
+}

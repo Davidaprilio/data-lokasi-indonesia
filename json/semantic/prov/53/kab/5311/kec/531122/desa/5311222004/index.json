@@ -1,0 +1,17 @@
+{
+    "code": "5311222004",
+    "name": "Praikalala",
+    "poscode": "87170",
+    "provinsi": {
+        "code": "53",
+        "name": "Nusa Tenggara Timur (NTT)"
+    },
+    "kabupaten": {
+        "code": "5311",
+        "name": "Sumba Timur"
+    },
+    "kecamatan": {
+        "code": "531122",
+        "name": "Mahu"
+    }
+}

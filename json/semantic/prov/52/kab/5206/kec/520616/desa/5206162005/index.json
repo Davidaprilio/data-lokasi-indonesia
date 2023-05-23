@@ -1,0 +1,17 @@
+{
+    "code": "5206162005",
+    "name": "Lere",
+    "poscode": "84170",
+    "provinsi": {
+        "code": "52",
+        "name": "Nusa Tenggara Barat (NTB)"
+    },
+    "kabupaten": {
+        "code": "5206",
+        "name": "Bima"
+    },
+    "kecamatan": {
+        "code": "520616",
+        "name": "Parado"
+    }
+}

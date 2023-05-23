@@ -1,0 +1,17 @@
+{
+    "code": "3503102008",
+    "name": "Karanganyar",
+    "poscode": "66372",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3503",
+        "name": "Trenggalek"
+    },
+    "kecamatan": {
+        "code": "350310",
+        "name": "Gandusari"
+    }
+}

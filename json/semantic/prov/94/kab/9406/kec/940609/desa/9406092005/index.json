@@ -1,0 +1,17 @@
+{
+    "code": "9406092005",
+    "name": "Modio",
+    "poscode": "98873",
+    "provinsi": {
+        "code": "94",
+        "name": "Papua Tengah"
+    },
+    "kabupaten": {
+        "code": "9406",
+        "name": "Dogiyai"
+    },
+    "kecamatan": {
+        "code": "940609",
+        "name": "Mapia Tengah"
+    }
+}

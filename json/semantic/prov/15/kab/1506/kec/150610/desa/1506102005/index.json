@@ -1,0 +1,17 @@
+{
+    "code": "1506102005",
+    "name": "Mekar Alam",
+    "poscode": "36511",
+    "provinsi": {
+        "code": "15",
+        "name": "Jambi"
+    },
+    "kabupaten": {
+        "code": "1506",
+        "name": "Tanjung Jabung Barat"
+    },
+    "kecamatan": {
+        "code": "150610",
+        "name": "Seberang Kota"
+    }
+}

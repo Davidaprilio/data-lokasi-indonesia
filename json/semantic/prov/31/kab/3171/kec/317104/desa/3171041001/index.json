@@ -1,0 +1,17 @@
+{
+    "code": "3171041001",
+    "name": "Senen",
+    "poscode": "10410",
+    "provinsi": {
+        "code": "31",
+        "name": "DKI Jakarta"
+    },
+    "kabupaten": {
+        "code": "3171",
+        "name": "Jakarta Pusat"
+    },
+    "kecamatan": {
+        "code": "317104",
+        "name": "Senen"
+    }
+}

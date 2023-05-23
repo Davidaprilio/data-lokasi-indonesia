@@ -1,0 +1,17 @@
+{
+    "code": "1305052012",
+    "name": "Balah Aie Timur",
+    "poscode": "25576",
+    "provinsi": {
+        "code": "13",
+        "name": "Sumatera Barat"
+    },
+    "kabupaten": {
+        "code": "1305",
+        "name": "Padang Pariaman"
+    },
+    "kecamatan": {
+        "code": "130505",
+        "name": "VII Koto Sungai Sarik"
+    }
+}

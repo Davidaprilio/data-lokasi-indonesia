@@ -1,0 +1,17 @@
+{
+    "code": "1502232009",
+    "name": "Pulau Lebar",
+    "poscode": "37356",
+    "provinsi": {
+        "code": "15",
+        "name": "Jambi"
+    },
+    "kabupaten": {
+        "code": "1502",
+        "name": "Merangin"
+    },
+    "kecamatan": {
+        "code": "150223",
+        "name": "Tabir Barat"
+    }
+}

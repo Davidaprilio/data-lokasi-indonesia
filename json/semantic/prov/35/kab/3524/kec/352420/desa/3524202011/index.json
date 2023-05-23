@@ -1,0 +1,17 @@
+{
+    "code": "3524202011",
+    "name": "Blajo",
+    "poscode": "62255",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3524",
+        "name": "Lamongan"
+    },
+    "kecamatan": {
+        "code": "352420",
+        "name": "Kalitengah"
+    }
+}

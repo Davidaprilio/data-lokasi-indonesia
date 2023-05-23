@@ -1,0 +1,17 @@
+{
+    "code": "3302082012",
+    "name": "Watuagung",
+    "poscode": "53196",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3302",
+        "name": "Banyumas"
+    },
+    "kecamatan": {
+        "code": "330208",
+        "name": "Tambak"
+    }
+}

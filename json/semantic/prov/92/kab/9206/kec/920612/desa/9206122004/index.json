@@ -1,0 +1,17 @@
+{
+    "code": "9206122004",
+    "name": "Sibena Raya (I)",
+    "poscode": "98145",
+    "provinsi": {
+        "code": "92",
+        "name": "Papua Barat"
+    },
+    "kabupaten": {
+        "code": "9206",
+        "name": "Teluk Bintuni"
+    },
+    "kecamatan": {
+        "code": "920612",
+        "name": "Tuhiba"
+    }
+}

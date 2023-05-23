@@ -1,0 +1,17 @@
+{
+    "code": "6411012001",
+    "name": "Long Hurai",
+    "poscode": "75767",
+    "provinsi": {
+        "code": "64",
+        "name": "Kalimantan Timur"
+    },
+    "kabupaten": {
+        "code": "6411",
+        "name": "Mahakam Ulu"
+    },
+    "kecamatan": {
+        "code": "641101",
+        "name": "Long Bagun"
+    }
+}

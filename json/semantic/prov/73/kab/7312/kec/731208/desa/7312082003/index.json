@@ -1,0 +1,17 @@
+{
+    "code": "7312082003",
+    "name": "Labae",
+    "poscode": "90861",
+    "provinsi": {
+        "code": "73",
+        "name": "Sulawesi Selatan"
+    },
+    "kabupaten": {
+        "code": "7312",
+        "name": "Soppeng"
+    },
+    "kecamatan": {
+        "code": "731208",
+        "name": "Citta"
+    }
+}

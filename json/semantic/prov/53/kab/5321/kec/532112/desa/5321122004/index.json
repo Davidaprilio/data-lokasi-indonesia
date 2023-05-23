@@ -1,0 +1,17 @@
+{
+    "code": "5321122004",
+    "name": "Babotin Selatan",
+    "poscode": "85765",
+    "provinsi": {
+        "code": "53",
+        "name": "Nusa Tenggara Timur (NTT)"
+    },
+    "kabupaten": {
+        "code": "5321",
+        "name": "Malaka"
+    },
+    "kecamatan": {
+        "code": "532112",
+        "name": "Botin Leobele"
+    }
+}

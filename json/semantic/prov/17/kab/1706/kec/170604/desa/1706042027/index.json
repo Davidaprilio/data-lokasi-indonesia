@@ -1,0 +1,17 @@
+{
+    "code": "1706042027",
+    "name": "Lubuk Bento",
+    "poscode": "38766",
+    "provinsi": {
+        "code": "17",
+        "name": "Bengkulu"
+    },
+    "kabupaten": {
+        "code": "1706",
+        "name": "Muko Muko"
+    },
+    "kecamatan": {
+        "code": "170604",
+        "name": "Pondok Suguh"
+    }
+}

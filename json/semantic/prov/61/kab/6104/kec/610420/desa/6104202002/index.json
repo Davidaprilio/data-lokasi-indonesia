@@ -1,0 +1,17 @@
+{
+    "code": "6104202002",
+    "name": "Gema",
+    "poscode": "78854",
+    "provinsi": {
+        "code": "61",
+        "name": "Kalimantan Barat"
+    },
+    "kabupaten": {
+        "code": "6104",
+        "name": "Ketapang"
+    },
+    "kecamatan": {
+        "code": "610420",
+        "name": "Simpang Dua"
+    }
+}

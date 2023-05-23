@@ -1,0 +1,86 @@
+[
+    {
+        "code": "741110",
+        "name": "Aere",
+        "count": {
+            "desa": 11
+        }
+    },
+    {
+        "code": "741112",
+        "name": "Dangia",
+        "count": {
+            "desa": 12
+        }
+    },
+    {
+        "code": "741103",
+        "name": "Ladongi",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "741106",
+        "name": "Lalolae",
+        "count": {
+            "desa": 5
+        }
+    },
+    {
+        "code": "741105",
+        "name": "Lambandia",
+        "count": {
+            "desa": 15
+        }
+    },
+    {
+        "code": "741102",
+        "name": "Loea",
+        "count": {
+            "desa": 9
+        }
+    },
+    {
+        "code": "741107",
+        "name": "Mowewe",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "741104",
+        "name": "Poli Polia",
+        "count": {
+            "desa": 12
+        }
+    },
+    {
+        "code": "741109",
+        "name": "Tinondo",
+        "count": {
+            "desa": 12
+        }
+    },
+    {
+        "code": "741101",
+        "name": "Tirawuta",
+        "count": {
+            "desa": 16
+        }
+    },
+    {
+        "code": "741111",
+        "name": "Ueesi",
+        "count": {
+            "desa": 11
+        }
+    },
+    {
+        "code": "741108",
+        "name": "Uluiwoi",
+        "count": {
+            "desa": 10
+        }
+    }
+]

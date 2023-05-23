@@ -1,0 +1,17 @@
+{
+    "code": "3307152006",
+    "name": "Mergolangu",
+    "poscode": "56373",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3307",
+        "name": "Wonosobo"
+    },
+    "kecamatan": {
+        "code": "330715",
+        "name": "Kalibawang"
+    }
+}

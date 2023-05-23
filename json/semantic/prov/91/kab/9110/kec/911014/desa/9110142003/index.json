@@ -1,0 +1,17 @@
+{
+    "code": "9110142003",
+    "name": "Timron/Keder",
+    "poscode": "99371",
+    "provinsi": {
+        "code": "91",
+        "name": "Papua"
+    },
+    "kabupaten": {
+        "code": "9110",
+        "name": "Sarmi"
+    },
+    "kecamatan": {
+        "code": "911014",
+        "name": "Pantai Timur Bagian Barat"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "1607012028",
+    "name": "Duren Ijo",
+    "poscode": "30963",
+    "provinsi": {
+        "code": "16",
+        "name": "Sumatera Selatan"
+    },
+    "kabupaten": {
+        "code": "1607",
+        "name": "Banyuasin"
+    },
+    "kecamatan": {
+        "code": "160701",
+        "name": "Banyuasin I"
+    }
+}

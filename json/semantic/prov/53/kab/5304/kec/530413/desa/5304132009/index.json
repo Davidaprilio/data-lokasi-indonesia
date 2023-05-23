@@ -1,0 +1,17 @@
+{
+    "code": "5304132009",
+    "name": "Tasain",
+    "poscode": "85760",
+    "provinsi": {
+        "code": "53",
+        "name": "Nusa Tenggara Timur (NTT)"
+    },
+    "kabupaten": {
+        "code": "5304",
+        "name": "Belu"
+    },
+    "kecamatan": {
+        "code": "530413",
+        "name": "Raimanuk"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "1207072005",
+    "name": "Kuala Dekah",
+    "poscode": "20358",
+    "provinsi": {
+        "code": "12",
+        "name": "Sumatera Utara"
+    },
+    "kabupaten": {
+        "code": "1207",
+        "name": "Deli Serdang"
+    },
+    "kecamatan": {
+        "code": "120707",
+        "name": "Sibiru-biru (Biru-Biru)"
+    }
+}

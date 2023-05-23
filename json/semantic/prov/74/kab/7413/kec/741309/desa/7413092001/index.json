@@ -1,0 +1,17 @@
+{
+    "code": "7413092001",
+    "name": "Katela",
+    "poscode": "93653",
+    "provinsi": {
+        "code": "74",
+        "name": "Sulawesi Tenggara"
+    },
+    "kabupaten": {
+        "code": "7413",
+        "name": "Muna Barat"
+    },
+    "kecamatan": {
+        "code": "741309",
+        "name": "Tiworo Kepulauan"
+    }
+}

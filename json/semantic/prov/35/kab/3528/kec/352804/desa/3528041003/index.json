@@ -1,0 +1,17 @@
+{
+    "code": "3528041003",
+    "name": "Patemon",
+    "poscode": "69312",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3528",
+        "name": "Pamekasan"
+    },
+    "kecamatan": {
+        "code": "352804",
+        "name": "Pamekasan"
+    }
+}

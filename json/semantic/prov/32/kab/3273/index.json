@@ -1,0 +1,10 @@
+{
+    "code": "3273",
+    "type": "Kota",
+    "name": "Bandung",
+    "fullname": "Kota Bandung",
+    "jumlah": {
+        "kecamatan": 30,
+        "desa": 151
+    }
+}

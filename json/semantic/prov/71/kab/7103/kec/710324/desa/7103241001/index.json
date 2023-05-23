@@ -1,0 +1,17 @@
+{
+    "code": "7103241001",
+    "name": "Lesa",
+    "poscode": "95812",
+    "provinsi": {
+        "code": "71",
+        "name": "Sulawesi Utara"
+    },
+    "kabupaten": {
+        "code": "7103",
+        "name": "Kepulauan Sangihe"
+    },
+    "kecamatan": {
+        "code": "710324",
+        "name": "Tahuna Timur"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "1109012020",
+    "name": "Suak Baru",
+    "poscode": "23894",
+    "provinsi": {
+        "code": "11",
+        "name": "Aceh (NAD)"
+    },
+    "kabupaten": {
+        "code": "1109",
+        "name": "Simeulue"
+    },
+    "kecamatan": {
+        "code": "110901",
+        "name": "Simeulue Tengah (Simeuleu Tengah)"
+    }
+}

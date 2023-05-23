@@ -1,0 +1,17 @@
+{
+    "code": "3316102005",
+    "name": "Tutup",
+    "poscode": "58252",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3316",
+        "name": "Blora"
+    },
+    "kecamatan": {
+        "code": "331610",
+        "name": "Tunjungan"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "3218012007",
+    "name": "Karangjaladri",
+    "poscode": "46393",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3218",
+        "name": "Pangandaran"
+    },
+    "kecamatan": {
+        "code": "321801",
+        "name": "Parigi"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "8102172011",
+    "name": "Uwat Reyaan",
+    "poscode": "97634",
+    "provinsi": {
+        "code": "81",
+        "name": "Maluku"
+    },
+    "kabupaten": {
+        "code": "8102",
+        "name": "Maluku Tenggara"
+    },
+    "kecamatan": {
+        "code": "810217",
+        "name": "Kei Besar Utara Barat"
+    }
+}

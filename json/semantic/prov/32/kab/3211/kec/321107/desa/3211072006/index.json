@@ -1,0 +1,17 @@
+{
+    "code": "3211072006",
+    "name": "Babakan Asem",
+    "poscode": "45391",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3211",
+        "name": "Sumedang"
+    },
+    "kecamatan": {
+        "code": "321107",
+        "name": "Conggeang"
+    }
+}

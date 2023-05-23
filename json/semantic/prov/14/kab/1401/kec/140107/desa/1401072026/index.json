@@ -1,0 +1,17 @@
+{
+    "code": "1401072026",
+    "name": "Sungai Sarik",
+    "poscode": "28472",
+    "provinsi": {
+        "code": "14",
+        "name": "Riau"
+    },
+    "kabupaten": {
+        "code": "1401",
+        "name": "Kampar"
+    },
+    "kecamatan": {
+        "code": "140107",
+        "name": "Kampar Kiri"
+    }
+}

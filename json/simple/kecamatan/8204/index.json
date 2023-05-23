@@ -1,0 +1,212 @@
+[
+    {
+        "code": "820408",
+        "name": "Bacan",
+        "count": {
+            "desa": 14
+        }
+    },
+    {
+        "code": "820409",
+        "name": "Bacan Barat",
+        "count": {
+            "desa": 7
+        }
+    },
+    {
+        "code": "820414",
+        "name": "Bacan Barat Utara",
+        "count": {
+            "desa": 8
+        }
+    },
+    {
+        "code": "820417",
+        "name": "Bacan Selatan",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "820407",
+        "name": "Bacan Timur",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "820421",
+        "name": "Bacan Timur Selatan",
+        "count": {
+            "desa": 7
+        }
+    },
+    {
+        "code": "820422",
+        "name": "Bacan Timur Tengah",
+        "count": {
+            "desa": 7
+        }
+    },
+    {
+        "code": "820404",
+        "name": "Gane Barat",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "820423",
+        "name": "Gane Barat Selatan",
+        "count": {
+            "desa": 8
+        }
+    },
+    {
+        "code": "820424",
+        "name": "Gane Barat Utara",
+        "count": {
+            "desa": 12
+        }
+    },
+    {
+        "code": "820403",
+        "name": "Gane Timur",
+        "count": {
+            "desa": 12
+        }
+    },
+    {
+        "code": "820426",
+        "name": "Gane Timur Selatan",
+        "count": {
+            "desa": 5
+        }
+    },
+    {
+        "code": "820427",
+        "name": "Gane Timur Tengah",
+        "count": {
+            "desa": 8
+        }
+    },
+    {
+        "code": "820415",
+        "name": "Kasiruta Barat",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "820416",
+        "name": "Kasiruta Timur",
+        "count": {
+            "desa": 8
+        }
+    },
+    {
+        "code": "820402",
+        "name": "Kayoa",
+        "count": {
+            "desa": 14
+        }
+    },
+    {
+        "code": "820411",
+        "name": "Kayoa Barat",
+        "count": {
+            "desa": 4
+        }
+    },
+    {
+        "code": "820412",
+        "name": "Kayoa Selatan",
+        "count": {
+            "desa": 6
+        }
+    },
+    {
+        "code": "820413",
+        "name": "Kayoa Utara",
+        "count": {
+            "desa": 6
+        }
+    },
+    {
+        "code": "820418",
+        "name": "Kepulauan Botanglomang",
+        "count": {
+            "desa": 8
+        }
+    },
+    {
+        "code": "820425",
+        "name": "Kepulauan Joronga",
+        "count": {
+            "desa": 7
+        }
+    },
+    {
+        "code": "820410",
+        "name": "Makian Barat",
+        "count": {
+            "desa": 7
+        }
+    },
+    {
+        "code": "820419",
+        "name": "Mandioli Selatan",
+        "count": {
+            "desa": 6
+        }
+    },
+    {
+        "code": "820420",
+        "name": "Mandioli Utara",
+        "count": {
+            "desa": 6
+        }
+    },
+    {
+        "code": "820406",
+        "name": "Obi",
+        "count": {
+            "desa": 9
+        }
+    },
+    {
+        "code": "820428",
+        "name": "Obi Barat",
+        "count": {
+            "desa": 6
+        }
+    },
+    {
+        "code": "820405",
+        "name": "Obi Selatan",
+        "count": {
+            "desa": 8
+        }
+    },
+    {
+        "code": "820429",
+        "name": "Obi Timur",
+        "count": {
+            "desa": 4
+        }
+    },
+    {
+        "code": "820430",
+        "name": "Obi Utara",
+        "count": {
+            "desa": 7
+        }
+    },
+    {
+        "code": "820401",
+        "name": "Pulau Makian",
+        "count": {
+            "desa": 15
+        }
+    }
+]

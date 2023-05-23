@@ -1,0 +1,32 @@
+[
+    {
+        "code": "2102041002",
+        "name": "Baran Barat",
+        "poscode": "29666"
+    },
+    {
+        "code": "2102041006",
+        "name": "Baran Timur",
+        "poscode": "29666"
+    },
+    {
+        "code": "2102041001",
+        "name": "Meral Kota",
+        "poscode": "29666"
+    },
+    {
+        "code": "2102041008",
+        "name": "Parit Benut (Pasir Benut)",
+        "poscode": "29666"
+    },
+    {
+        "code": "2102041003",
+        "name": "Sei/Sungai Raya",
+        "poscode": "29666"
+    },
+    {
+        "code": "2102041007",
+        "name": "Sungai Pasir",
+        "poscode": "29666"
+    }
+]

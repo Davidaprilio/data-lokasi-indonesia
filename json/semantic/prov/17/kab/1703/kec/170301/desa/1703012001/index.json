@@ -1,0 +1,17 @@
+{
+    "code": "1703012001",
+    "name": "Banjar Sari",
+    "poscode": "38387",
+    "provinsi": {
+        "code": "17",
+        "name": "Bengkulu"
+    },
+    "kabupaten": {
+        "code": "1703",
+        "name": "Bengkulu Utara"
+    },
+    "kecamatan": {
+        "code": "170301",
+        "name": "Enggano"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "7571071003",
+    "name": "Bulotadaa Barat",
+    "poscode": "96124",
+    "provinsi": {
+        "code": "75",
+        "name": "Gorontalo"
+    },
+    "kabupaten": {
+        "code": "7571",
+        "name": "Gorontalo"
+    },
+    "kecamatan": {
+        "code": "757107",
+        "name": "Sipatana"
+    }
+}

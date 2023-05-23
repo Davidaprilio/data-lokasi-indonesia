@@ -1,0 +1,17 @@
+{
+    "code": "3312072008",
+    "name": "Saradan",
+    "poscode": "57673",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3312",
+        "name": "Wonogiri"
+    },
+    "kecamatan": {
+        "code": "331207",
+        "name": "Baturetno"
+    }
+}

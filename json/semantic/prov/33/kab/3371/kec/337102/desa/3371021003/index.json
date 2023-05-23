@@ -1,0 +1,17 @@
+{
+    "code": "3371021003",
+    "name": "Wates",
+    "poscode": "56113",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3371",
+        "name": "Magelang"
+    },
+    "kecamatan": {
+        "code": "337102",
+        "name": "Magelang Utara"
+    }
+}

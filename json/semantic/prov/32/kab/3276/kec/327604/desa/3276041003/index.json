@@ -1,0 +1,17 @@
+{
+    "code": "3276041003",
+    "name": "Krukut",
+    "poscode": "16512",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3276",
+        "name": "Depok"
+    },
+    "kecamatan": {
+        "code": "327604",
+        "name": "Limo"
+    }
+}

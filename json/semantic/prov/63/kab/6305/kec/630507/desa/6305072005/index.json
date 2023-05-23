@@ -1,0 +1,17 @@
+{
+    "code": "6305072005",
+    "name": "Gadung",
+    "poscode": "71152",
+    "provinsi": {
+        "code": "63",
+        "name": "Kalimantan Selatan"
+    },
+    "kabupaten": {
+        "code": "6305",
+        "name": "Tapin"
+    },
+    "kecamatan": {
+        "code": "630507",
+        "name": "Bakarangan"
+    }
+}

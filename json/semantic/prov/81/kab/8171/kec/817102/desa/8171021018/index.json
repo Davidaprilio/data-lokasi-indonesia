@@ -1,0 +1,17 @@
+{
+    "code": "8171021018",
+    "name": "Honipopu",
+    "poscode": "97126",
+    "provinsi": {
+        "code": "81",
+        "name": "Maluku"
+    },
+    "kabupaten": {
+        "code": "8171",
+        "name": "Ambon"
+    },
+    "kecamatan": {
+        "code": "817102",
+        "name": "Sirimau"
+    }
+}

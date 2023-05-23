@@ -1,0 +1,17 @@
+{
+    "code": "5312151002",
+    "name": "Komerda",
+    "poscode": "87211",
+    "provinsi": {
+        "code": "53",
+        "name": "Nusa Tenggara Timur (NTT)"
+    },
+    "kabupaten": {
+        "code": "5312",
+        "name": "Sumba Barat"
+    },
+    "kecamatan": {
+        "code": "531215",
+        "name": "Kota Waikabubak"
+    }
+}

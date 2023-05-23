@@ -1,0 +1,17 @@
+{
+    "code": "5308112005",
+    "name": "Boafeo",
+    "poscode": "86352",
+    "provinsi": {
+        "code": "53",
+        "name": "Nusa Tenggara Timur (NTT)"
+    },
+    "kabupaten": {
+        "code": "5308",
+        "name": "Ende"
+    },
+    "kecamatan": {
+        "code": "530811",
+        "name": "Maukaro"
+    }
+}

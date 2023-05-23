@@ -1,0 +1,17 @@
+{
+    "code": "5302102004",
+    "name": "Belle",
+    "poscode": "85575",
+    "provinsi": {
+        "code": "53",
+        "name": "Nusa Tenggara Timur (NTT)"
+    },
+    "kabupaten": {
+        "code": "5302",
+        "name": "Timor Tengah Selatan"
+    },
+    "kecamatan": {
+        "code": "530210",
+        "name": "Kie (Ki'e)"
+    }
+}

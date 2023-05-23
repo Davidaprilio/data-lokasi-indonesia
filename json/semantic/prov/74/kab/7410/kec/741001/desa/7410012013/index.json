@@ -1,0 +1,17 @@
+{
+    "code": "7410012013",
+    "name": "Rombo",
+    "poscode": "93672",
+    "provinsi": {
+        "code": "74",
+        "name": "Sulawesi Tenggara"
+    },
+    "kabupaten": {
+        "code": "7410",
+        "name": "Buton Utara"
+    },
+    "kecamatan": {
+        "code": "741001",
+        "name": "Kulisusu (Kalingsusu/Kalisusu)"
+    }
+}

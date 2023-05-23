@@ -1,0 +1,17 @@
+{
+    "code": "3218042004",
+    "name": "Kertajaya",
+    "poscode": "46392",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3218",
+        "name": "Pangandaran"
+    },
+    "kecamatan": {
+        "code": "321804",
+        "name": "Cigugur"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "3327052008",
+    "name": "Payung",
+    "poscode": "52365",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3327",
+        "name": "Pemalang"
+    },
+    "kecamatan": {
+        "code": "332705",
+        "name": "Bodeh"
+    }
+}

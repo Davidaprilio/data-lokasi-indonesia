@@ -1,0 +1,17 @@
+{
+    "code": "3374111006",
+    "name": "Srondol Kulon",
+    "poscode": "50263",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3374",
+        "name": "Semarang"
+    },
+    "kecamatan": {
+        "code": "337411",
+        "name": "Banyumanik"
+    }
+}

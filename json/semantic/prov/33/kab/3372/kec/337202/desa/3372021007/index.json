@@ -1,0 +1,17 @@
+{
+    "code": "3372021007",
+    "name": "Kemlayan",
+    "poscode": "57151",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3372",
+        "name": "Surakarta"
+    },
+    "kecamatan": {
+        "code": "337202",
+        "name": "Serengan"
+    }
+}

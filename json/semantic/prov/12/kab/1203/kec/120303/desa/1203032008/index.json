@@ -1,0 +1,17 @@
+{
+    "code": "1203032008",
+    "name": "Huraba",
+    "poscode": "22733",
+    "provinsi": {
+        "code": "12",
+        "name": "Sumatera Utara"
+    },
+    "kabupaten": {
+        "code": "1203",
+        "name": "Tapanuli Selatan"
+    },
+    "kecamatan": {
+        "code": "120303",
+        "name": "Angkola Timur"
+    }
+}

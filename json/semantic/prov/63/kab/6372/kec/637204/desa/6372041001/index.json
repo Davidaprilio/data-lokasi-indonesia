@@ -1,0 +1,17 @@
+{
+    "code": "6372041001",
+    "name": "Loktabat Utara",
+    "poscode": "70714",
+    "provinsi": {
+        "code": "63",
+        "name": "Kalimantan Selatan"
+    },
+    "kabupaten": {
+        "code": "6372",
+        "name": "Banjarbaru"
+    },
+    "kecamatan": {
+        "code": "637204",
+        "name": "Banjarbaru Utara (Banjar Baru Utara)"
+    }
+}

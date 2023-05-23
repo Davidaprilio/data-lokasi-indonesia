@@ -1,0 +1,17 @@
+{
+    "code": "9502262002",
+    "name": "Batani",
+    "poscode": "99441",
+    "provinsi": {
+        "code": "95",
+        "name": "Papua Pegunungan"
+    },
+    "kabupaten": {
+        "code": "9502",
+        "name": "Pegunungan Bintang"
+    },
+    "kecamatan": {
+        "code": "950226",
+        "name": "Batani"
+    }
+}

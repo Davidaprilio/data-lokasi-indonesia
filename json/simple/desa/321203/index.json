@@ -1,0 +1,52 @@
+[
+    {
+        "code": "3212032002",
+        "name": "Babakan Jaya (Babakanjaya)",
+        "poscode": "45263"
+    },
+    {
+        "code": "3212032010",
+        "name": "Drunten Kulon",
+        "poscode": "45263"
+    },
+    {
+        "code": "3212032009",
+        "name": "Drunten Wetan",
+        "poscode": "45263"
+    },
+    {
+        "code": "3212032003",
+        "name": "Gabus Kulon (Gabuskulon)",
+        "poscode": "45263"
+    },
+    {
+        "code": "3212032008",
+        "name": "Gabus Wetan (Gabuswetan)",
+        "poscode": "45263"
+    },
+    {
+        "code": "3212032005",
+        "name": "Kedokan Gabus (Kedokangabus)",
+        "poscode": "45263"
+    },
+    {
+        "code": "3212032001",
+        "name": "Kedung Dawa (Kedungdawa)",
+        "poscode": "45263"
+    },
+    {
+        "code": "3212032007",
+        "name": "Rancahan",
+        "poscode": "45263"
+    },
+    {
+        "code": "3212032006",
+        "name": "Rancamulya",
+        "poscode": "45263"
+    },
+    {
+        "code": "3212032004",
+        "name": "Sekar Mulya (Sekarmulya)",
+        "poscode": "45263"
+    }
+]

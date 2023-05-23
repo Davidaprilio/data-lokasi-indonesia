@@ -1,0 +1,17 @@
+{
+    "code": "3302112008",
+    "name": "Sudagaran",
+    "poscode": "53192",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3302",
+        "name": "Banyumas"
+    },
+    "kecamatan": {
+        "code": "330211",
+        "name": "Banyumas"
+    }
+}

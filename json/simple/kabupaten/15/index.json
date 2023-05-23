@@ -1,0 +1,112 @@
+[
+    {
+        "code": "1504",
+        "type": "Kabupaten",
+        "name": "Batanghari",
+        "fullname": "Kabupaten Batanghari",
+        "jumlah": {
+            "kecamatan": 8,
+            "desa": 124
+        }
+    },
+    {
+        "code": "1508",
+        "type": "Kabupaten",
+        "name": "Bungo",
+        "fullname": "Kabupaten Bungo",
+        "jumlah": {
+            "kecamatan": 17,
+            "desa": 153
+        }
+    },
+    {
+        "code": "1571",
+        "type": "Kota",
+        "name": "Jambi",
+        "fullname": "Kota Jambi",
+        "jumlah": {
+            "kecamatan": 11,
+            "desa": 62
+        }
+    },
+    {
+        "code": "1501",
+        "type": "Kabupaten",
+        "name": "Kerinci",
+        "fullname": "Kabupaten Kerinci",
+        "jumlah": {
+            "kecamatan": 16,
+            "desa": 287
+        }
+    },
+    {
+        "code": "1502",
+        "type": "Kabupaten",
+        "name": "Merangin",
+        "fullname": "Kabupaten Merangin",
+        "jumlah": {
+            "kecamatan": 24,
+            "desa": 215
+        }
+    },
+    {
+        "code": "1505",
+        "type": "Kabupaten",
+        "name": "Muaro Jambi",
+        "fullname": "Kabupaten Muaro Jambi",
+        "jumlah": {
+            "kecamatan": 11,
+            "desa": 155
+        }
+    },
+    {
+        "code": "1503",
+        "type": "Kabupaten",
+        "name": "Sarolangun",
+        "fullname": "Kabupaten Sarolangun",
+        "jumlah": {
+            "kecamatan": 10,
+            "desa": 158
+        }
+    },
+    {
+        "code": "1572",
+        "type": "Kota",
+        "name": "Sungai Penuh",
+        "fullname": "Kota Sungai Penuh",
+        "jumlah": {
+            "kecamatan": 8,
+            "desa": 69
+        }
+    },
+    {
+        "code": "1506",
+        "type": "Kabupaten",
+        "name": "Tanjung Jabung Barat",
+        "fullname": "Kabupaten Tanjung Jabung Barat",
+        "jumlah": {
+            "kecamatan": 13,
+            "desa": 134
+        }
+    },
+    {
+        "code": "1507",
+        "type": "Kabupaten",
+        "name": "Tanjung Jabung Timur",
+        "fullname": "Kabupaten Tanjung Jabung Timur",
+        "jumlah": {
+            "kecamatan": 11,
+            "desa": 93
+        }
+    },
+    {
+        "code": "1509",
+        "type": "Kabupaten",
+        "name": "Tebo",
+        "fullname": "Kabupaten Tebo",
+        "jumlah": {
+            "kecamatan": 12,
+            "desa": 112
+        }
+    }
+]

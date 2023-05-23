@@ -1,0 +1,17 @@
+{
+    "code": "9502142005",
+    "name": "Alutbakon",
+    "poscode": "99416",
+    "provinsi": {
+        "code": "95",
+        "name": "Papua Pegunungan"
+    },
+    "kabupaten": {
+        "code": "9502",
+        "name": "Pegunungan Bintang"
+    },
+    "kecamatan": {
+        "code": "950214",
+        "name": "Oksop"
+    }
+}

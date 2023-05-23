@@ -1,0 +1,17 @@
+{
+    "code": "1904022007",
+    "name": "Tanjung Gunung",
+    "poscode": "33684",
+    "provinsi": {
+        "code": "19",
+        "name": "Kepulauan Bangka Belitung"
+    },
+    "kabupaten": {
+        "code": "1904",
+        "name": "Bangka Tengah"
+    },
+    "kecamatan": {
+        "code": "190402",
+        "name": "Pangkalan Baru"
+    }
+}

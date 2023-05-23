@@ -1,0 +1,17 @@
+{
+    "code": "3510012001",
+    "name": "Sarongan",
+    "poscode": "68488",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3510",
+        "name": "Banyuwangi"
+    },
+    "kecamatan": {
+        "code": "351001",
+        "name": "Pesanggaran"
+    }
+}

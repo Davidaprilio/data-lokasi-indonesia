@@ -1,0 +1,17 @@
+{
+    "code": "7403252003",
+    "name": "Laiba",
+    "poscode": "93667",
+    "provinsi": {
+        "code": "74",
+        "name": "Sulawesi Tenggara"
+    },
+    "kabupaten": {
+        "code": "7403",
+        "name": "Muna"
+    },
+    "kecamatan": {
+        "code": "740325",
+        "name": "Parigi"
+    }
+}

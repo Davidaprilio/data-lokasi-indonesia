@@ -1,0 +1,17 @@
+{
+    "code": "3514032007",
+    "name": "Keduwung",
+    "poscode": "67176",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3514",
+        "name": "Pasuruan"
+    },
+    "kecamatan": {
+        "code": "351403",
+        "name": "Puspo"
+    }
+}

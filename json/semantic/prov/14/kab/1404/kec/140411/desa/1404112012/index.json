@@ -1,0 +1,17 @@
+{
+    "code": "1404112012",
+    "name": "Pasir Emas",
+    "poscode": "29252",
+    "provinsi": {
+        "code": "14",
+        "name": "Riau"
+    },
+    "kabupaten": {
+        "code": "1404",
+        "name": "Indragiri Hilir"
+    },
+    "kecamatan": {
+        "code": "140411",
+        "name": "Batang Tuaka"
+    }
+}

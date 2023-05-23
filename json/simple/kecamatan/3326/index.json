@@ -1,0 +1,135 @@
+[
+    {
+        "code": "332611",
+        "name": "Bojong",
+        "count": {
+            "desa": 22
+        }
+    },
+    {
+        "code": "332614",
+        "name": "Buaran",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "332606",
+        "name": "Doro",
+        "count": {
+            "desa": 14
+        }
+    },
+    {
+        "code": "332608",
+        "name": "Kajen",
+        "count": {
+            "desa": 25
+        }
+    },
+    {
+        "code": "332601",
+        "name": "Kandangserang",
+        "count": {
+            "desa": 14
+        }
+    },
+    {
+        "code": "332607",
+        "name": "Karanganyar",
+        "count": {
+            "desa": 15
+        }
+    },
+    {
+        "code": "332618",
+        "name": "Karangdadap",
+        "count": {
+            "desa": 11
+        }
+    },
+    {
+        "code": "332613",
+        "name": "Kedungwuni",
+        "count": {
+            "desa": 19
+        }
+    },
+    {
+        "code": "332609",
+        "name": "Kesesi",
+        "count": {
+            "desa": 23
+        }
+    },
+    {
+        "code": "332603",
+        "name": "Lebakbarang",
+        "count": {
+            "desa": 11
+        }
+    },
+    {
+        "code": "332602",
+        "name": "Paninggaran",
+        "count": {
+            "desa": 15
+        }
+    },
+    {
+        "code": "332604",
+        "name": "Petungkriono/Petungkriyono",
+        "count": {
+            "desa": 9
+        }
+    },
+    {
+        "code": "332617",
+        "name": "Siwalan",
+        "count": {
+            "desa": 13
+        }
+    },
+    {
+        "code": "332610",
+        "name": "Sragi",
+        "count": {
+            "desa": 17
+        }
+    },
+    {
+        "code": "332605",
+        "name": "Talun",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "332615",
+        "name": "Tirto",
+        "count": {
+            "desa": 16
+        }
+    },
+    {
+        "code": "332616",
+        "name": "Wiradesa",
+        "count": {
+            "desa": 16
+        }
+    },
+    {
+        "code": "332619",
+        "name": "Wonokerto",
+        "count": {
+            "desa": 11
+        }
+    },
+    {
+        "code": "332612",
+        "name": "Wonopringgo",
+        "count": {
+            "desa": 14
+        }
+    }
+]

@@ -1,0 +1,17 @@
+{
+    "code": "3513212004",
+    "name": "Munengkidul (Muneng Kidul)",
+    "poscode": "67251",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3513",
+        "name": "Probolinggo"
+    },
+    "kecamatan": {
+        "code": "351321",
+        "name": "Sumberasih"
+    }
+}

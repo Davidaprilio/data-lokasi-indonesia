@@ -1,0 +1,17 @@
+{
+    "code": "7472031004",
+    "name": "Bugi",
+    "poscode": "93731",
+    "provinsi": {
+        "code": "74",
+        "name": "Sulawesi Tenggara"
+    },
+    "kabupaten": {
+        "code": "7472",
+        "name": "Bau Bau"
+    },
+    "kecamatan": {
+        "code": "747203",
+        "name": "Sorawolio (Sora Walio / Sorowalio)"
+    }
+}

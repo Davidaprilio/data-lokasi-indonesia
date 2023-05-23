@@ -1,0 +1,17 @@
+{
+    "code": "6103052006",
+    "name": "Empodis",
+    "poscode": "78552",
+    "provinsi": {
+        "code": "61",
+        "name": "Kalimantan Barat"
+    },
+    "kabupaten": {
+        "code": "6103",
+        "name": "Sanggau"
+    },
+    "kecamatan": {
+        "code": "610305",
+        "name": "Bonti"
+    }
+}

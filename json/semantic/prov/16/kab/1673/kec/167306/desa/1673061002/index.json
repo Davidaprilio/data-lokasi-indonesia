@@ -1,0 +1,17 @@
+{
+    "code": "1673061002",
+    "name": "Ulak Lebar",
+    "poscode": "31611",
+    "provinsi": {
+        "code": "16",
+        "name": "Sumatera Selatan"
+    },
+    "kabupaten": {
+        "code": "1673",
+        "name": "Lubuk Linggau"
+    },
+    "kecamatan": {
+        "code": "167306",
+        "name": "Lubuk Linggau Barat Dua (II)"
+    }
+}

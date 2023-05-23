@@ -1,0 +1,17 @@
+{
+    "code": "9301132003",
+    "name": "Senegi",
+    "poscode": "99644",
+    "provinsi": {
+        "code": "93",
+        "name": "Papua Selatan"
+    },
+    "kabupaten": {
+        "code": "9301",
+        "name": "Merauke"
+    },
+    "kecamatan": {
+        "code": "930113",
+        "name": "Animha"
+    }
+}

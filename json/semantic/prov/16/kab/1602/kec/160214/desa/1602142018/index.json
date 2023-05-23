@@ -1,0 +1,17 @@
+{
+    "code": "1602142018",
+    "name": "Bukit Batu",
+    "poscode": "30656",
+    "provinsi": {
+        "code": "16",
+        "name": "Sumatera Selatan"
+    },
+    "kabupaten": {
+        "code": "1602",
+        "name": "Ogan Komering Ilir"
+    },
+    "kecamatan": {
+        "code": "160214",
+        "name": "Air Sugihan"
+    }
+}

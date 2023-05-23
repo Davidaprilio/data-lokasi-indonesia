@@ -1,0 +1,17 @@
+{
+    "code": "3516102006",
+    "name": "Peterongan",
+    "poscode": "61381",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3516",
+        "name": "Mojokerto"
+    },
+    "kecamatan": {
+        "code": "351610",
+        "name": "Bangsal"
+    }
+}

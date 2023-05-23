@@ -1,0 +1,17 @@
+{
+    "code": "3671071016",
+    "name": "Koang Jaya",
+    "poscode": "15112",
+    "provinsi": {
+        "code": "36",
+        "name": "Banten"
+    },
+    "kabupaten": {
+        "code": "3671",
+        "name": "Tangerang"
+    },
+    "kecamatan": {
+        "code": "367107",
+        "name": "Karawaci"
+    }
+}

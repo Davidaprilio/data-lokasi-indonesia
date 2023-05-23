@@ -1,0 +1,17 @@
+{
+    "code": "1401202002",
+    "name": "Gunung Sahilan",
+    "poscode": "28471",
+    "provinsi": {
+        "code": "14",
+        "name": "Riau"
+    },
+    "kabupaten": {
+        "code": "1401",
+        "name": "Kampar"
+    },
+    "kecamatan": {
+        "code": "140120",
+        "name": "Gunung Sahilan"
+    }
+}

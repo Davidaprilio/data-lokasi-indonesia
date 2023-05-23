@@ -1,0 +1,17 @@
+{
+    "code": "3518082003",
+    "name": "Bangsri",
+    "poscode": "64315",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3518",
+        "name": "Nganjuk"
+    },
+    "kecamatan": {
+        "code": "351808",
+        "name": "Kertosono"
+    }
+}

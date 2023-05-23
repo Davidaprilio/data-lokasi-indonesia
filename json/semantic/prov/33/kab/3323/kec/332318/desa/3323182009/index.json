@@ -1,0 +1,17 @@
+{
+    "code": "3323182009",
+    "name": "Kemuning",
+    "poscode": "56258",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3323",
+        "name": "Temanggung"
+    },
+    "kecamatan": {
+        "code": "332318",
+        "name": "Bejen"
+    }
+}

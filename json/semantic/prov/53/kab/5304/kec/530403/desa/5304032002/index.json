@@ -1,0 +1,17 @@
+{
+    "code": "5304032002",
+    "name": "Tohe",
+    "poscode": "85773",
+    "provinsi": {
+        "code": "53",
+        "name": "Nusa Tenggara Timur (NTT)"
+    },
+    "kabupaten": {
+        "code": "5304",
+        "name": "Belu"
+    },
+    "kecamatan": {
+        "code": "530403",
+        "name": "Raihat"
+    }
+}

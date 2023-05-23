@@ -1,0 +1,10 @@
+{
+    "code": "3515",
+    "type": "Kabupaten",
+    "name": "Sidoarjo",
+    "fullname": "Kabupaten Sidoarjo",
+    "jumlah": {
+        "kecamatan": 18,
+        "desa": 353
+    }
+}

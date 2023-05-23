@@ -1,0 +1,17 @@
+{
+    "code": "8105092002",
+    "name": "Argam",
+    "poscode": "97599",
+    "provinsi": {
+        "code": "81",
+        "name": "Maluku"
+    },
+    "kabupaten": {
+        "code": "8105",
+        "name": "Seram Bagian Timur"
+    },
+    "kecamatan": {
+        "code": "810509",
+        "name": "Pulau Panjang"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "1508111003",
+    "name": "Bungo Taman Agung",
+    "poscode": "37211",
+    "provinsi": {
+        "code": "15",
+        "name": "Jambi"
+    },
+    "kabupaten": {
+        "code": "1508",
+        "name": "Bungo"
+    },
+    "kecamatan": {
+        "code": "150811",
+        "name": "Bathin III"
+    }
+}

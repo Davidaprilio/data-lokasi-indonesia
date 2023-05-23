@@ -1,0 +1,17 @@
+{
+    "code": "3674071006",
+    "name": "Bakti Jaya",
+    "poscode": "15315",
+    "provinsi": {
+        "code": "36",
+        "name": "Banten"
+    },
+    "kabupaten": {
+        "code": "3674",
+        "name": "Tangerang Selatan"
+    },
+    "kecamatan": {
+        "code": "367407",
+        "name": "Setu"
+    }
+}

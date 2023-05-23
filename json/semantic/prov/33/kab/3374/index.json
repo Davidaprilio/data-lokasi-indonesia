@@ -1,0 +1,10 @@
+{
+    "code": "3374",
+    "type": "Kota",
+    "name": "Semarang",
+    "fullname": "Kota Semarang",
+    "jumlah": {
+        "kecamatan": 16,
+        "desa": 177
+    }
+}

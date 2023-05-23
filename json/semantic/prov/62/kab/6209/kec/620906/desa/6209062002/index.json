@@ -1,0 +1,17 @@
+{
+    "code": "6209062002",
+    "name": "Wonorejo",
+    "poscode": "74165",
+    "provinsi": {
+        "code": "62",
+        "name": "Kalimantan Tengah"
+    },
+    "kabupaten": {
+        "code": "6209",
+        "name": "Lamandau"
+    },
+    "kecamatan": {
+        "code": "620906",
+        "name": "Sematu Jaya"
+    }
+}

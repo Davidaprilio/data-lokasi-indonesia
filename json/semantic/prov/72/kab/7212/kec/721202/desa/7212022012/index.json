@@ -1,0 +1,17 @@
+{
+    "code": "7212022012",
+    "name": "Peboa",
+    "poscode": "94963",
+    "provinsi": {
+        "code": "72",
+        "name": "Sulawesi Tengah"
+    },
+    "kabupaten": {
+        "code": "7212",
+        "name": "Morowali Utara"
+    },
+    "kecamatan": {
+        "code": "721202",
+        "name": "Petasia Timur"
+    }
+}

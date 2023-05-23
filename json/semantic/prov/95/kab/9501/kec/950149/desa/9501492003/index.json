@@ -1,0 +1,17 @@
+{
+    "code": "9501492003",
+    "name": "Wosiala",
+    "poscode": "99524",
+    "provinsi": {
+        "code": "95",
+        "name": "Papua Pegunungan"
+    },
+    "kabupaten": {
+        "code": "9501",
+        "name": "Jayawijaya"
+    },
+    "kecamatan": {
+        "code": "950149",
+        "name": "Usilimo"
+    }
+}

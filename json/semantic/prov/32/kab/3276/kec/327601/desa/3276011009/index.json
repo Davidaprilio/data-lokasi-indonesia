@@ -1,0 +1,17 @@
+{
+    "code": "3276011009",
+    "name": "Mampang",
+    "poscode": "16433",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3276",
+        "name": "Depok"
+    },
+    "kecamatan": {
+        "code": "327601",
+        "name": "Pancoran Mas"
+    }
+}

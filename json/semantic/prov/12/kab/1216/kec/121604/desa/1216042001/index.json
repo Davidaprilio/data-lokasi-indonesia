@@ -1,0 +1,17 @@
+{
+    "code": "1216042001",
+    "name": "Sihonongan",
+    "poscode": "22477",
+    "provinsi": {
+        "code": "12",
+        "name": "Sumatera Utara"
+    },
+    "kabupaten": {
+        "code": "1216",
+        "name": "Humbang Hasundutan"
+    },
+    "kecamatan": {
+        "code": "121604",
+        "name": "Paranginan"
+    }
+}

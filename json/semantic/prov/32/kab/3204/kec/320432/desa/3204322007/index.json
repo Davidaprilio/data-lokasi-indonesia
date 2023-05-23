@@ -1,0 +1,17 @@
+{
+    "code": "3204322007",
+    "name": "Malakasari",
+    "poscode": "40258",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3204",
+        "name": "Bandung"
+    },
+    "kecamatan": {
+        "code": "320432",
+        "name": "Baleendah"
+    }
+}

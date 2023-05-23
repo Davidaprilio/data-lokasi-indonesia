@@ -1,0 +1,17 @@
+{
+    "code": "3314162008",
+    "name": "Gemantar",
+    "poscode": "57271",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3314",
+        "name": "Sragen"
+    },
+    "kecamatan": {
+        "code": "331416",
+        "name": "Mondokan"
+    }
+}

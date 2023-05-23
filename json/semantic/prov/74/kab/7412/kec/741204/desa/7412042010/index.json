@@ -1,0 +1,17 @@
+{
+    "code": "7412042010",
+    "name": "Lembono",
+    "poscode": "93396",
+    "provinsi": {
+        "code": "74",
+        "name": "Sulawesi Tenggara"
+    },
+    "kabupaten": {
+        "code": "7412",
+        "name": "Konawe Kepulauan"
+    },
+    "kecamatan": {
+        "code": "741204",
+        "name": "Wawonii Timur"
+    }
+}

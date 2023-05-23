@@ -1,0 +1,17 @@
+{
+    "code": "1602222008",
+    "name": "Sukamaju (Suka Maju)",
+    "poscode": "30657",
+    "provinsi": {
+        "code": "16",
+        "name": "Sumatera Selatan"
+    },
+    "kabupaten": {
+        "code": "1602",
+        "name": "Ogan Komering Ilir"
+    },
+    "kecamatan": {
+        "code": "160222",
+        "name": "Lempuing Jaya"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "1213102021",
+    "name": "Rao Rao Lombang",
+    "poscode": "22996",
+    "provinsi": {
+        "code": "12",
+        "name": "Sumatera Utara"
+    },
+    "kabupaten": {
+        "code": "1213",
+        "name": "Mandailing Natal"
+    },
+    "kecamatan": {
+        "code": "121310",
+        "name": "Tambangan"
+    }
+}

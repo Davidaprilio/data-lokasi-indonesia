@@ -1,0 +1,17 @@
+{
+    "code": "3672041003",
+    "name": "Kubangsari",
+    "poscode": "42445",
+    "provinsi": {
+        "code": "36",
+        "name": "Banten"
+    },
+    "kabupaten": {
+        "code": "3672",
+        "name": "Cilegon"
+    },
+    "kecamatan": {
+        "code": "367204",
+        "name": "Ciwandan"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "7501212005",
+    "name": "Prima",
+    "poscode": "96221",
+    "provinsi": {
+        "code": "75",
+        "name": "Gorontalo"
+    },
+    "kabupaten": {
+        "code": "7501",
+        "name": "Gorontalo"
+    },
+    "kecamatan": {
+        "code": "750121",
+        "name": "Asparaga"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "1812022010",
+    "name": "Gunung Timbul",
+    "poscode": "34794",
+    "provinsi": {
+        "code": "18",
+        "name": "Lampung"
+    },
+    "kabupaten": {
+        "code": "1812",
+        "name": "Tulang Bawang Barat"
+    },
+    "kecamatan": {
+        "code": "181202",
+        "name": "Tumijajar"
+    }
+}

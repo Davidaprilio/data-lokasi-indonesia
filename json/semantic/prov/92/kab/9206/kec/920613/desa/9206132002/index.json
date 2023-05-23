@@ -1,0 +1,17 @@
+{
+    "code": "9206132002",
+    "name": "Cumnaji",
+    "poscode": "98142",
+    "provinsi": {
+        "code": "92",
+        "name": "Papua Barat"
+    },
+    "kabupaten": {
+        "code": "9206",
+        "name": "Teluk Bintuni"
+    },
+    "kecamatan": {
+        "code": "920613",
+        "name": "Dataran Beimes"
+    }
+}

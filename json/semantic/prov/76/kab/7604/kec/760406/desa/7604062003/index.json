@@ -1,0 +1,17 @@
+{
+    "code": "7604062003",
+    "name": "Paku",
+    "poscode": "91351",
+    "provinsi": {
+        "code": "76",
+        "name": "Sulawesi Barat"
+    },
+    "kabupaten": {
+        "code": "7604",
+        "name": "Polewali Mandar"
+    },
+    "kecamatan": {
+        "code": "760406",
+        "name": "Binuang"
+    }
+}

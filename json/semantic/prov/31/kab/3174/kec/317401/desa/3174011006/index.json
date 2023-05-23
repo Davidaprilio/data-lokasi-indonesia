@@ -1,0 +1,17 @@
+{
+    "code": "3174011006",
+    "name": "Manggarai Selatan",
+    "poscode": "12860",
+    "provinsi": {
+        "code": "31",
+        "name": "DKI Jakarta"
+    },
+    "kabupaten": {
+        "code": "3174",
+        "name": "Jakarta Selatan"
+    },
+    "kecamatan": {
+        "code": "317401",
+        "name": "Tebet"
+    }
+}

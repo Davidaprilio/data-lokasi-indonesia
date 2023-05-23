@@ -1,0 +1,17 @@
+{
+    "code": "6308032001",
+    "name": "Rantau Karau Hilir",
+    "poscode": "71455",
+    "provinsi": {
+        "code": "63",
+        "name": "Kalimantan Selatan"
+    },
+    "kabupaten": {
+        "code": "6308",
+        "name": "Hulu Sungai Utara"
+    },
+    "kecamatan": {
+        "code": "630803",
+        "name": "Sungai Pandan"
+    }
+}

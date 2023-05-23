@@ -1,0 +1,184 @@
+[
+    {
+        "code": "321005",
+        "name": "Argapura",
+        "count": {
+            "desa": 14
+        }
+    },
+    {
+        "code": "321022",
+        "name": "Banjaran",
+        "count": {
+            "desa": 13
+        }
+    },
+    {
+        "code": "321002",
+        "name": "Bantarujeg",
+        "count": {
+            "desa": 13
+        }
+    },
+    {
+        "code": "321020",
+        "name": "Cigasong",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "321003",
+        "name": "Cikijing",
+        "count": {
+            "desa": 15
+        }
+    },
+    {
+        "code": "321023",
+        "name": "Cingambul",
+        "count": {
+            "desa": 13
+        }
+    },
+    {
+        "code": "321012",
+        "name": "Dawuan",
+        "count": {
+            "desa": 11
+        }
+    },
+    {
+        "code": "321015",
+        "name": "Jatitujuh",
+        "count": {
+            "desa": 15
+        }
+    },
+    {
+        "code": "321011",
+        "name": "Jatiwangi",
+        "count": {
+            "desa": 16
+        }
+    },
+    {
+        "code": "321013",
+        "name": "Kadipaten",
+        "count": {
+            "desa": 7
+        }
+    },
+    {
+        "code": "321024",
+        "name": "Kasokandel",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "321014",
+        "name": "Kertajati",
+        "count": {
+            "desa": 14
+        }
+    },
+    {
+        "code": "321001",
+        "name": "Lemahsugih",
+        "count": {
+            "desa": 19
+        }
+    },
+    {
+        "code": "321010",
+        "name": "Leuwimunding",
+        "count": {
+            "desa": 14
+        }
+    },
+    {
+        "code": "321016",
+        "name": "Ligung",
+        "count": {
+            "desa": 19
+        }
+    },
+    {
+        "code": "321006",
+        "name": "Maja",
+        "count": {
+            "desa": 18
+        }
+    },
+    {
+        "code": "321007",
+        "name": "Majalengka",
+        "count": {
+            "desa": 14
+        }
+    },
+    {
+        "code": "321026",
+        "name": "Malausma",
+        "count": {
+            "desa": 11
+        }
+    },
+    {
+        "code": "321019",
+        "name": "Palasah",
+        "count": {
+            "desa": 13
+        }
+    },
+    {
+        "code": "321018",
+        "name": "Panyingkiran",
+        "count": {
+            "desa": 9
+        }
+    },
+    {
+        "code": "321009",
+        "name": "Rajagaluh",
+        "count": {
+            "desa": 13
+        }
+    },
+    {
+        "code": "321025",
+        "name": "Sindang",
+        "count": {
+            "desa": 7
+        }
+    },
+    {
+        "code": "321021",
+        "name": "Sindangwangi",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "321008",
+        "name": "Sukahaji",
+        "count": {
+            "desa": 13
+        }
+    },
+    {
+        "code": "321017",
+        "name": "Sumberjaya",
+        "count": {
+            "desa": 15
+        }
+    },
+    {
+        "code": "321004",
+        "name": "Talaga",
+        "count": {
+            "desa": 17
+        }
+    }
+]

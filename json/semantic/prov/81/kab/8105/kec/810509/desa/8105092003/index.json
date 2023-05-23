@@ -1,0 +1,17 @@
+{
+    "code": "8105092003",
+    "name": "Lalasa",
+    "poscode": "97599",
+    "provinsi": {
+        "code": "81",
+        "name": "Maluku"
+    },
+    "kabupaten": {
+        "code": "8105",
+        "name": "Seram Bagian Timur"
+    },
+    "kecamatan": {
+        "code": "810509",
+        "name": "Pulau Panjang"
+    }
+}

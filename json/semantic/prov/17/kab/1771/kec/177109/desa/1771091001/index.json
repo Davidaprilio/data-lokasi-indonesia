@@ -1,0 +1,17 @@
+{
+    "code": "1771091001",
+    "name": "Panorama",
+    "poscode": "38226",
+    "provinsi": {
+        "code": "17",
+        "name": "Bengkulu"
+    },
+    "kabupaten": {
+        "code": "1771",
+        "name": "Bengkulu"
+    },
+    "kecamatan": {
+        "code": "177109",
+        "name": "Singaran Pati"
+    }
+}

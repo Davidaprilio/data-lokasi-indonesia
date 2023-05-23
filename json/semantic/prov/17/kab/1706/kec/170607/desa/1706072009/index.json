@@ -1,0 +1,17 @@
+{
+    "code": "1706072009",
+    "name": "Bukit Harapan",
+    "poscode": "38764",
+    "provinsi": {
+        "code": "17",
+        "name": "Bengkulu"
+    },
+    "kabupaten": {
+        "code": "1706",
+        "name": "Muko Muko"
+    },
+    "kecamatan": {
+        "code": "170607",
+        "name": "Air Rami"
+    }
+}

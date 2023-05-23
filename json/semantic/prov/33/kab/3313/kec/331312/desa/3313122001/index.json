@@ -1,0 +1,17 @@
+{
+    "code": "3313122001",
+    "name": "Ngasem",
+    "poscode": "57179",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3313",
+        "name": "Karanganyar"
+    },
+    "kecamatan": {
+        "code": "331312",
+        "name": "Colomadu"
+    }
+}

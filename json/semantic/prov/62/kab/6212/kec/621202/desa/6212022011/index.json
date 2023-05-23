@@ -1,0 +1,17 @@
+{
+    "code": "6212022011",
+    "name": "Kalang Kaluh",
+    "poscode": "73961",
+    "provinsi": {
+        "code": "62",
+        "name": "Kalimantan Tengah"
+    },
+    "kabupaten": {
+        "code": "6212",
+        "name": "Murung Raya"
+    },
+    "kecamatan": {
+        "code": "621202",
+        "name": "Tanah Siang"
+    }
+}

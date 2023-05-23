@@ -1,0 +1,37 @@
+[
+    {
+        "code": "637205",
+        "name": "Banjarbaru Selatan (Banjar Baru Selatan)",
+        "count": {
+            "desa": 4
+        }
+    },
+    {
+        "code": "637204",
+        "name": "Banjarbaru Utara (Banjar Baru Utara)",
+        "count": {
+            "desa": 4
+        }
+    },
+    {
+        "code": "637203",
+        "name": "Cempaka",
+        "count": {
+            "desa": 4
+        }
+    },
+    {
+        "code": "637202",
+        "name": "Landasan Ulin",
+        "count": {
+            "desa": 4
+        }
+    },
+    {
+        "code": "637206",
+        "name": "Liang Anggang",
+        "count": {
+            "desa": 4
+        }
+    }
+]

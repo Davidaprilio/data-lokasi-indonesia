@@ -1,0 +1,17 @@
+{
+    "code": "9271071003",
+    "name": "Klasuur",
+    "poscode": "98414",
+    "provinsi": {
+        "code": "96",
+        "name": "Papua Barat Daya"
+    },
+    "kabupaten": {
+        "code": "9271",
+        "name": "Sorong"
+    },
+    "kecamatan": {
+        "code": "927107",
+        "name": "Sorong Kota"
+    }
+}

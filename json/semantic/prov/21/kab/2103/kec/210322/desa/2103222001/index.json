@@ -1,0 +1,17 @@
+{
+    "code": "2103222001",
+    "name": "Air Kumpai",
+    "poscode": "29785",
+    "provinsi": {
+        "code": "21",
+        "name": "Kepulauan Riau"
+    },
+    "kabupaten": {
+        "code": "2103",
+        "name": "Natuna"
+    },
+    "kecamatan": {
+        "code": "210322",
+        "name": "Suak Midai"
+    }
+}

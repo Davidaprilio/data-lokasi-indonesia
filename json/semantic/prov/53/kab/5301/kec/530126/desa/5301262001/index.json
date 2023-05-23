@@ -1,0 +1,17 @@
+{
+    "code": "5301262001",
+    "name": "Nunuanah",
+    "poscode": "85375",
+    "provinsi": {
+        "code": "53",
+        "name": "Nusa Tenggara Timur (NTT)"
+    },
+    "kabupaten": {
+        "code": "5301",
+        "name": "Kupang"
+    },
+    "kecamatan": {
+        "code": "530126",
+        "name": "Amfoang Timur"
+    }
+}

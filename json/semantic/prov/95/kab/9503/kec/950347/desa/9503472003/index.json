@@ -1,0 +1,17 @@
+{
+    "code": "9503472003",
+    "name": "Kubuk Dua",
+    "poscode": "99736",
+    "provinsi": {
+        "code": "95",
+        "name": "Papua Pegunungan"
+    },
+    "kabupaten": {
+        "code": "9503",
+        "name": "Yahukimo"
+    },
+    "kecamatan": {
+        "code": "950347",
+        "name": "Kwelemdua (Kwelamdua)"
+    }
+}

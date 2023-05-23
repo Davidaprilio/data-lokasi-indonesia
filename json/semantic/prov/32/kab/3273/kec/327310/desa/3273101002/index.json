@@ -1,0 +1,17 @@
+{
+    "code": "3273101002",
+    "name": "Nyengseret",
+    "poscode": "40242",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3273",
+        "name": "Bandung"
+    },
+    "kecamatan": {
+        "code": "327310",
+        "name": "Astana Anyar"
+    }
+}

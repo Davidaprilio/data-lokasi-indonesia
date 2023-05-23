@@ -1,0 +1,17 @@
+{
+    "code": "1101052001",
+    "name": "Kuta Buloh II",
+    "poscode": "23754",
+    "provinsi": {
+        "code": "11",
+        "name": "Aceh (NAD)"
+    },
+    "kabupaten": {
+        "code": "1101",
+        "name": "Aceh Selatan"
+    },
+    "kecamatan": {
+        "code": "110105",
+        "name": "Meukek"
+    }
+}

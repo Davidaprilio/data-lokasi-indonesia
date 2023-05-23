@@ -1,0 +1,17 @@
+{
+    "code": "1104032006",
+    "name": "Lelabu",
+    "poscode": "24552",
+    "provinsi": {
+        "code": "11",
+        "name": "Aceh (NAD)"
+    },
+    "kabupaten": {
+        "code": "1104",
+        "name": "Aceh Tengah"
+    },
+    "kecamatan": {
+        "code": "110403",
+        "name": "Bebesen"
+    }
+}

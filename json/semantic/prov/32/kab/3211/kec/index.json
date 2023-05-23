@@ -1,0 +1,184 @@
+[
+    {
+        "code": "321110",
+        "name": "Buahdua",
+        "count": {
+            "desa": 14
+        }
+    },
+    {
+        "code": "321104",
+        "name": "Cibugel",
+        "count": {
+            "desa": 7
+        }
+    },
+    {
+        "code": "321122",
+        "name": "Cimalaka",
+        "count": {
+            "desa": 14
+        }
+    },
+    {
+        "code": "321114",
+        "name": "Cimanggung",
+        "count": {
+            "desa": 11
+        }
+    },
+    {
+        "code": "321123",
+        "name": "Cisarua",
+        "count": {
+            "desa": 7
+        }
+    },
+    {
+        "code": "321105",
+        "name": "Cisitu",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "321107",
+        "name": "Conggeang",
+        "count": {
+            "desa": 12
+        }
+    },
+    {
+        "code": "321103",
+        "name": "Darmaraja",
+        "count": {
+            "desa": 12
+        }
+    },
+    {
+        "code": "321119",
+        "name": "Ganeas",
+        "count": {
+            "desa": 8
+        }
+    },
+    {
+        "code": "321126",
+        "name": "Jatigede",
+        "count": {
+            "desa": 11
+        }
+    },
+    {
+        "code": "321115",
+        "name": "Jatinangor",
+        "count": {
+            "desa": 12
+        }
+    },
+    {
+        "code": "321102",
+        "name": "Jatinunggal",
+        "count": {
+            "desa": 9
+        }
+    },
+    {
+        "code": "321113",
+        "name": "Pamulihan",
+        "count": {
+            "desa": 11
+        }
+    },
+    {
+        "code": "321108",
+        "name": "Paseh",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "321116",
+        "name": "Rancakalong",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "321106",
+        "name": "Situraja",
+        "count": {
+            "desa": 15
+        }
+    },
+    {
+        "code": "321112",
+        "name": "Sukasari",
+        "count": {
+            "desa": 7
+        }
+    },
+    {
+        "code": "321117",
+        "name": "Sumedang Selatan",
+        "count": {
+            "desa": 14
+        }
+    },
+    {
+        "code": "321118",
+        "name": "Sumedang Utara",
+        "count": {
+            "desa": 13
+        }
+    },
+    {
+        "code": "321109",
+        "name": "Surian",
+        "count": {
+            "desa": 9
+        }
+    },
+    {
+        "code": "321120",
+        "name": "Tanjungkerta",
+        "count": {
+            "desa": 12
+        }
+    },
+    {
+        "code": "321121",
+        "name": "Tanjungmedar",
+        "count": {
+            "desa": 9
+        }
+    },
+    {
+        "code": "321111",
+        "name": "Tanjungsari",
+        "count": {
+            "desa": 12
+        }
+    },
+    {
+        "code": "321124",
+        "name": "Tomo",
+        "count": {
+            "desa": 9
+        }
+    },
+    {
+        "code": "321125",
+        "name": "Ujungjaya",
+        "count": {
+            "desa": 9
+        }
+    },
+    {
+        "code": "321101",
+        "name": "Wado",
+        "count": {
+            "desa": 10
+        }
+    }
+]

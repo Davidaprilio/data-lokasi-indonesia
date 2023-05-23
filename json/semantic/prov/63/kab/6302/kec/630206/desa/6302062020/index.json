@@ -1,0 +1,17 @@
+{
+    "code": "6302062020",
+    "name": "Sigam",
+    "poscode": "72112",
+    "provinsi": {
+        "code": "63",
+        "name": "Kalimantan Selatan"
+    },
+    "kabupaten": {
+        "code": "6302",
+        "name": "Kotabaru"
+    },
+    "kecamatan": {
+        "code": "630206",
+        "name": "Pulau Laut / Pulaulaut Utara"
+    }
+}

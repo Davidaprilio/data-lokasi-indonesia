@@ -1,0 +1,17 @@
+{
+    "code": "1221022022",
+    "name": "Gunung Manaon (Gunung Manaon Ur)",
+    "poscode": "22755",
+    "provinsi": {
+        "code": "12",
+        "name": "Sumatera Utara"
+    },
+    "kabupaten": {
+        "code": "1221",
+        "name": "Padang Lawas"
+    },
+    "kecamatan": {
+        "code": "122102",
+        "name": "Barumun Tengah"
+    }
+}

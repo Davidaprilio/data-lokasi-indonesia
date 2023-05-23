@@ -1,0 +1,17 @@
+{
+    "code": "1501012012",
+    "name": "Perikan Tengah",
+    "poscode": "37174",
+    "provinsi": {
+        "code": "15",
+        "name": "Jambi"
+    },
+    "kabupaten": {
+        "code": "1501",
+        "name": "Kerinci"
+    },
+    "kecamatan": {
+        "code": "150101",
+        "name": "Gunung Raya"
+    }
+}

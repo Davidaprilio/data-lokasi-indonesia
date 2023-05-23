@@ -1,0 +1,17 @@
+{
+    "code": "7101132017",
+    "name": "Solimandungan Baru",
+    "poscode": "95752",
+    "provinsi": {
+        "code": "71",
+        "name": "Sulawesi Utara"
+    },
+    "kabupaten": {
+        "code": "7101",
+        "name": "Bolaang Mongondow"
+    },
+    "kecamatan": {
+        "code": "710113",
+        "name": "Bolaang"
+    }
+}

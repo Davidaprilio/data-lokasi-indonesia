@@ -1,0 +1,17 @@
+{
+    "code": "8105122003",
+    "name": "Waematakabo",
+    "poscode": "97522",
+    "provinsi": {
+        "code": "81",
+        "name": "Maluku"
+    },
+    "kabupaten": {
+        "code": "8105",
+        "name": "Seram Bagian Timur"
+    },
+    "kecamatan": {
+        "code": "810512",
+        "name": "Bula Barat"
+    }
+}

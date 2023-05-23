@@ -1,0 +1,17 @@
+{
+    "code": "3203312001",
+    "name": "Haurwangi",
+    "poscode": "43280",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3203",
+        "name": "Cianjur"
+    },
+    "kecamatan": {
+        "code": "320331",
+        "name": "Haurwangi"
+    }
+}

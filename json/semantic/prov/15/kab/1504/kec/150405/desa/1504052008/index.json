@@ -1,0 +1,17 @@
+{
+    "code": "1504052008",
+    "name": "Ture",
+    "poscode": "36657",
+    "provinsi": {
+        "code": "15",
+        "name": "Jambi"
+    },
+    "kabupaten": {
+        "code": "1504",
+        "name": "Batanghari"
+    },
+    "kecamatan": {
+        "code": "150405",
+        "name": "Pemayung"
+    }
+}

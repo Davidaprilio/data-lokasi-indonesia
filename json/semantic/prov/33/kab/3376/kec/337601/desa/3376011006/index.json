@@ -1,0 +1,17 @@
+{
+    "code": "3376011006",
+    "name": "Tegalsari",
+    "poscode": "52111",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3376",
+        "name": "Tegal"
+    },
+    "kecamatan": {
+        "code": "337601",
+        "name": "Tegal Barat"
+    }
+}

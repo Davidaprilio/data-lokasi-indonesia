@@ -1,0 +1,42 @@
+[
+    {
+        "code": "9171042006",
+        "name": "Holtekamp",
+        "poscode": "99311"
+    },
+    {
+        "code": "9171041004",
+        "name": "Koya Barat",
+        "poscode": "99312"
+    },
+    {
+        "code": "9171042007",
+        "name": "Koya Tengah",
+        "poscode": "99313"
+    },
+    {
+        "code": "9171041005",
+        "name": "Koya Timur",
+        "poscode": "99314"
+    },
+    {
+        "code": "9171042008",
+        "name": "Mosso",
+        "poscode": "99318"
+    },
+    {
+        "code": "9171042001",
+        "name": "Skow Mabo (Skouw Mabo )",
+        "poscode": "99316"
+    },
+    {
+        "code": "9171042003",
+        "name": "Skow Sae (Skouw Sae)",
+        "poscode": "99317"
+    },
+    {
+        "code": "9171042002",
+        "name": "Skow Yambe (Skouw Yambe)",
+        "poscode": "99315"
+    }
+]

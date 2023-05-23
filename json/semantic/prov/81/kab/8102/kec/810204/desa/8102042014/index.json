@@ -1,0 +1,17 @@
+{
+    "code": "8102042014",
+    "name": "Tutrean",
+    "poscode": "97632",
+    "provinsi": {
+        "code": "81",
+        "name": "Maluku"
+    },
+    "kabupaten": {
+        "code": "8102",
+        "name": "Maluku Tenggara"
+    },
+    "kecamatan": {
+        "code": "810204",
+        "name": "Kei Besar Selatan"
+    }
+}

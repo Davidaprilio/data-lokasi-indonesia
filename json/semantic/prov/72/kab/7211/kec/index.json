@@ -1,0 +1,51 @@
+[
+    {
+        "code": "721101",
+        "name": "Banggai",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "721106",
+        "name": "Banggai Selatan",
+        "count": {
+            "desa": 6
+        }
+    },
+    {
+        "code": "721107",
+        "name": "Banggai Tengah",
+        "count": {
+            "desa": 8
+        }
+    },
+    {
+        "code": "721102",
+        "name": "Banggai Utara",
+        "count": {
+            "desa": 6
+        }
+    },
+    {
+        "code": "721104",
+        "name": "Bangkurung",
+        "count": {
+            "desa": 12
+        }
+    },
+    {
+        "code": "721103",
+        "name": "Bokan Kepulauan",
+        "count": {
+            "desa": 16
+        }
+    },
+    {
+        "code": "721105",
+        "name": "Labobo",
+        "count": {
+            "desa": 8
+        }
+    }
+]

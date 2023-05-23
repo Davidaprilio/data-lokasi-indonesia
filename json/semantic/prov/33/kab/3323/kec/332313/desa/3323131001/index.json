@@ -1,0 +1,17 @@
+{
+    "code": "3323131001",
+    "name": "Kranggan",
+    "poscode": "56271",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3323",
+        "name": "Temanggung"
+    },
+    "kecamatan": {
+        "code": "332313",
+        "name": "Kranggan"
+    }
+}

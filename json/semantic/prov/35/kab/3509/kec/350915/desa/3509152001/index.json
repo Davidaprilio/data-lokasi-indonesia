@@ -1,0 +1,17 @@
+{
+    "code": "3509152001",
+    "name": "Jubung",
+    "poscode": "68151",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3509",
+        "name": "Jember"
+    },
+    "kecamatan": {
+        "code": "350915",
+        "name": "Sukorambi"
+    }
+}

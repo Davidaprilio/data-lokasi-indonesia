@@ -1,0 +1,17 @@
+{
+    "code": "5320061002",
+    "name": "Ledeunu",
+    "poscode": "85393",
+    "provinsi": {
+        "code": "53",
+        "name": "Nusa Tenggara Timur (NTT)"
+    },
+    "kabupaten": {
+        "code": "5320",
+        "name": "Sabu Raijua"
+    },
+    "kecamatan": {
+        "code": "532006",
+        "name": "Raijua"
+    }
+}

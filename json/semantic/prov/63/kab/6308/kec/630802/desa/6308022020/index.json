@@ -1,0 +1,17 @@
+{
+    "code": "6308022020",
+    "name": "Sungai Durait Tengah",
+    "poscode": "71454",
+    "provinsi": {
+        "code": "63",
+        "name": "Kalimantan Selatan"
+    },
+    "kabupaten": {
+        "code": "6308",
+        "name": "Hulu Sungai Utara"
+    },
+    "kecamatan": {
+        "code": "630802",
+        "name": "Babirik"
+    }
+}

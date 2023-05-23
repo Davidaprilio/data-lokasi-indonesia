@@ -1,0 +1,17 @@
+{
+    "code": "6401102002",
+    "name": "Rantau Atas",
+    "poscode": "76250",
+    "provinsi": {
+        "code": "64",
+        "name": "Kalimantan Timur"
+    },
+    "kabupaten": {
+        "code": "6401",
+        "name": "Paser"
+    },
+    "kecamatan": {
+        "code": "640110",
+        "name": "Muara Samu"
+    }
+}

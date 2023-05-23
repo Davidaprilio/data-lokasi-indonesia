@@ -1,0 +1,17 @@
+{
+    "code": "1813022004",
+    "name": "Sumur Jaya",
+    "poscode": "34875",
+    "provinsi": {
+        "code": "18",
+        "name": "Lampung"
+    },
+    "kabupaten": {
+        "code": "1813",
+        "name": "Pesisir Barat"
+    },
+    "kecamatan": {
+        "code": "181302",
+        "name": "Pesisir Selatan"
+    }
+}

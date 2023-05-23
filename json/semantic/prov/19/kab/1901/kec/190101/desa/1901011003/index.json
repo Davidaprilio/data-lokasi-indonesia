@@ -1,0 +1,17 @@
+{
+    "code": "1901011003",
+    "name": "Kudai",
+    "poscode": "33213",
+    "provinsi": {
+        "code": "19",
+        "name": "Kepulauan Bangka Belitung"
+    },
+    "kabupaten": {
+        "code": "1901",
+        "name": "Bangka"
+    },
+    "kecamatan": {
+        "code": "190101",
+        "name": "Sungailiat (Sungai Liat)"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "9206122005",
+    "name": "Sibena Permai (II)",
+    "poscode": "98145",
+    "provinsi": {
+        "code": "92",
+        "name": "Papua Barat"
+    },
+    "kabupaten": {
+        "code": "9206",
+        "name": "Teluk Bintuni"
+    },
+    "kecamatan": {
+        "code": "920612",
+        "name": "Tuhiba"
+    }
+}

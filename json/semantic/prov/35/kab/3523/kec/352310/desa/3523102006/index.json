@@ -1,0 +1,17 @@
+{
+    "code": "3523102006",
+    "name": "Montongsekar",
+    "poscode": "62357",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3523",
+        "name": "Tuban"
+    },
+    "kecamatan": {
+        "code": "352310",
+        "name": "Montong"
+    }
+}

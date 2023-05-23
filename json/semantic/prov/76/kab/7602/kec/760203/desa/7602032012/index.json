@@ -1,0 +1,17 @@
+{
+    "code": "7602032012",
+    "name": "Kalukku Barat",
+    "poscode": "91561",
+    "provinsi": {
+        "code": "76",
+        "name": "Sulawesi Barat"
+    },
+    "kabupaten": {
+        "code": "7602",
+        "name": "Mamuju"
+    },
+    "kecamatan": {
+        "code": "760203",
+        "name": "Kalukku"
+    }
+}

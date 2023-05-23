@@ -1,0 +1,17 @@
+{
+    "code": "8172021003",
+    "name": "Ketsoblak",
+    "poscode": "97611",
+    "provinsi": {
+        "code": "81",
+        "name": "Maluku"
+    },
+    "kabupaten": {
+        "code": "8172",
+        "name": "Tual"
+    },
+    "kecamatan": {
+        "code": "817202",
+        "name": "Pulau Dullah Selatan"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "6402172003",
+    "name": "Santan Tengah",
+    "poscode": "75385",
+    "provinsi": {
+        "code": "64",
+        "name": "Kalimantan Timur"
+    },
+    "kabupaten": {
+        "code": "6402",
+        "name": "Kutai Kartanegara"
+    },
+    "kecamatan": {
+        "code": "640217",
+        "name": "Marang Kayu"
+    }
+}

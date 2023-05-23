@@ -1,0 +1,17 @@
+{
+    "code": "1208072011",
+    "name": "Banu Raya",
+    "poscode": "21156",
+    "provinsi": {
+        "code": "12",
+        "name": "Sumatera Utara"
+    },
+    "kabupaten": {
+        "code": "1208",
+        "name": "Simalungun"
+    },
+    "kecamatan": {
+        "code": "120807",
+        "name": "Raya Kahean"
+    }
+}

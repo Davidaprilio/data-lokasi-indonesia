@@ -1,0 +1,17 @@
+{
+    "code": "5204182004",
+    "name": "Labuhan Aji (Labuan Aji)",
+    "poscode": "84316",
+    "provinsi": {
+        "code": "52",
+        "name": "Nusa Tenggara Barat (NTB)"
+    },
+    "kabupaten": {
+        "code": "5204",
+        "name": "Sumbawa"
+    },
+    "kecamatan": {
+        "code": "520418",
+        "name": "Labuhan Badas"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "3208132007",
+    "name": "Bandorasa Kulon",
+    "poscode": "45551",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3208",
+        "name": "Kuningan"
+    },
+    "kecamatan": {
+        "code": "320813",
+        "name": "Cilimus"
+    }
+}

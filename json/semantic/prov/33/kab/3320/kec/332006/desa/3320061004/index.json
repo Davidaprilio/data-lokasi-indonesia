@@ -1,0 +1,17 @@
+{
+    "code": "3320061004",
+    "name": "Bapangan",
+    "poscode": "59413",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3320",
+        "name": "Jepara"
+    },
+    "kecamatan": {
+        "code": "332006",
+        "name": "Jepara"
+    }
+}

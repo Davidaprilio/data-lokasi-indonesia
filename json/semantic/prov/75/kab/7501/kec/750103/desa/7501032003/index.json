@@ -1,0 +1,17 @@
+{
+    "code": "7501032003",
+    "name": "Huntu",
+    "poscode": "96243",
+    "provinsi": {
+        "code": "75",
+        "name": "Gorontalo"
+    },
+    "kabupaten": {
+        "code": "7501",
+        "name": "Gorontalo"
+    },
+    "kecamatan": {
+        "code": "750103",
+        "name": "Batudaa"
+    }
+}

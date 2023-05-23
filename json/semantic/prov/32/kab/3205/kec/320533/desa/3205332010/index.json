@@ -1,0 +1,17 @@
+{
+    "code": "3205332010",
+    "name": "Tegalgede",
+    "poscode": "44164",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3205",
+        "name": "Garut"
+    },
+    "kecamatan": {
+        "code": "320533",
+        "name": "Pakenjeng"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "3201022002",
+    "name": "Bojong Kulur",
+    "poscode": "16969",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3201",
+        "name": "Bogor"
+    },
+    "kecamatan": {
+        "code": "320102",
+        "name": "Gunung Putri"
+    }
+}

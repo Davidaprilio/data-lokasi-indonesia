@@ -1,0 +1,17 @@
+{
+    "code": "3501112002",
+    "name": "Hadiwarno",
+    "poscode": "63572",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3501",
+        "name": "Pacitan"
+    },
+    "kecamatan": {
+        "code": "350111",
+        "name": "Ngadirojo"
+    }
+}

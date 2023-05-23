@@ -1,0 +1,17 @@
+{
+    "code": "1106192012",
+    "name": "Lambleut (Lam Bleut)",
+    "poscode": "23350",
+    "provinsi": {
+        "code": "11",
+        "name": "Aceh (NAD)"
+    },
+    "kabupaten": {
+        "code": "1106",
+        "name": "Aceh Besar"
+    },
+    "kecamatan": {
+        "code": "110619",
+        "name": "Darul Kamal"
+    }
+}

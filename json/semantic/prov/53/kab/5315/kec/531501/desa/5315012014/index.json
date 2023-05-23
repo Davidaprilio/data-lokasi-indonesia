@@ -1,0 +1,17 @@
+{
+    "code": "5315012014",
+    "name": "Watubaru",
+    "poscode": "86756",
+    "provinsi": {
+        "code": "53",
+        "name": "Nusa Tenggara Timur (NTT)"
+    },
+    "kabupaten": {
+        "code": "5315",
+        "name": "Manggarai Barat"
+    },
+    "kecamatan": {
+        "code": "531501",
+        "name": "Macang Pacar"
+    }
+}

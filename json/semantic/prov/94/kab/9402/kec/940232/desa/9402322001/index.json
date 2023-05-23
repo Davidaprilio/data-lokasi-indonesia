@@ -1,0 +1,17 @@
+{
+    "code": "9402322001",
+    "name": "Guna",
+    "poscode": "98934",
+    "provinsi": {
+        "code": "94",
+        "name": "Papua Tengah"
+    },
+    "kabupaten": {
+        "code": "9402",
+        "name": "Puncak Jaya"
+    },
+    "kecamatan": {
+        "code": "940232",
+        "name": "Taganombak"
+    }
+}

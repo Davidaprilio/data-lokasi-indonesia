@@ -1,0 +1,17 @@
+{
+    "code": "7312022005",
+    "name": "Jampu",
+    "poscode": "90863",
+    "provinsi": {
+        "code": "73",
+        "name": "Sulawesi Selatan"
+    },
+    "kabupaten": {
+        "code": "7312",
+        "name": "Soppeng"
+    },
+    "kecamatan": {
+        "code": "731202",
+        "name": "Liliraja (Lili Riaja)"
+    }
+}

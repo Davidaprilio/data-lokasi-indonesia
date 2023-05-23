@@ -1,0 +1,17 @@
+{
+    "code": "1171082005",
+    "name": "Lampoh Daya",
+    "poscode": "23235",
+    "provinsi": {
+        "code": "11",
+        "name": "Aceh (NAD)"
+    },
+    "kabupaten": {
+        "code": "1171",
+        "name": "Banda Aceh"
+    },
+    "kecamatan": {
+        "code": "117108",
+        "name": "Jaya Baru"
+    }
+}

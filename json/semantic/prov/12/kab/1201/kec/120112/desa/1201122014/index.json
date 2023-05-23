@@ -1,0 +1,17 @@
+{
+    "code": "1201122014",
+    "name": "Sawah Lamo",
+    "poscode": "22651",
+    "provinsi": {
+        "code": "12",
+        "name": "Sumatera Utara"
+    },
+    "kabupaten": {
+        "code": "1201",
+        "name": "Tapanuli Tengah"
+    },
+    "kecamatan": {
+        "code": "120112",
+        "name": "Andam Dewi"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "8103082008",
+    "name": "Alusi Batjasi",
+    "poscode": "97461",
+    "provinsi": {
+        "code": "81",
+        "name": "Maluku"
+    },
+    "kabupaten": {
+        "code": "8103",
+        "name": "Kepulauan Tanimbar (Maluku Tenggara Barat)"
+    },
+    "kecamatan": {
+        "code": "810308",
+        "name": "Kormomolin"
+    }
+}

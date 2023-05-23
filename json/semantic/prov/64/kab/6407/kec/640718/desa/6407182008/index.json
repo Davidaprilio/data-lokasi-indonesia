@@ -1,0 +1,17 @@
+{
+    "code": "6407182008",
+    "name": "Gadur",
+    "poscode": "75765",
+    "provinsi": {
+        "code": "64",
+        "name": "Kalimantan Timur"
+    },
+    "kabupaten": {
+        "code": "6407",
+        "name": "Kutai Barat"
+    },
+    "kecamatan": {
+        "code": "640718",
+        "name": "Mook Manaar Bulatn"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "9202152011",
+    "name": "Anggresi (Angrisi)",
+    "poscode": "98313",
+    "provinsi": {
+        "code": "92",
+        "name": "Papua Barat"
+    },
+    "kabupaten": {
+        "code": "9202",
+        "name": "Manokwari"
+    },
+    "kecamatan": {
+        "code": "920215",
+        "name": "Manokwari Selatan"
+    }
+}

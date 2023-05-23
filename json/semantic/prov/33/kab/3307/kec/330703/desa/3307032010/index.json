@@ -1,0 +1,17 @@
+{
+    "code": "3307032010",
+    "name": "Sedayu",
+    "poscode": "56375",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3307",
+        "name": "Wonosobo"
+    },
+    "kecamatan": {
+        "code": "330703",
+        "name": "Sapuran"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "1275021004",
+    "name": "Kartini",
+    "poscode": "20713",
+    "provinsi": {
+        "code": "12",
+        "name": "Sumatera Utara"
+    },
+    "kabupaten": {
+        "code": "1275",
+        "name": "Binjai"
+    },
+    "kecamatan": {
+        "code": "127502",
+        "name": "Binjai Kota"
+    }
+}

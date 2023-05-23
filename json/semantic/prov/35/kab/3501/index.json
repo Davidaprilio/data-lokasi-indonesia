@@ -1,0 +1,10 @@
+{
+    "code": "3501",
+    "type": "Kabupaten",
+    "name": "Pacitan",
+    "fullname": "Kabupaten Pacitan",
+    "jumlah": {
+        "kecamatan": 12,
+        "desa": 171
+    }
+}

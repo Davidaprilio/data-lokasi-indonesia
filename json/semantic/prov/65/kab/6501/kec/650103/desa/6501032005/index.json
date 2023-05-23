@@ -1,0 +1,17 @@
+{
+    "code": "6501032005",
+    "name": "Ardi Mulyo (Ardi Mulya)",
+    "poscode": "77218",
+    "provinsi": {
+        "code": "65",
+        "name": "Kalimantan Utara"
+    },
+    "kabupaten": {
+        "code": "6501",
+        "name": "Bulungan"
+    },
+    "kecamatan": {
+        "code": "650103",
+        "name": "Tanjung Palas Utara"
+    }
+}

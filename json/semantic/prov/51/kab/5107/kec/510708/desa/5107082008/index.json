@@ -1,0 +1,17 @@
+{
+    "code": "5107082008",
+    "name": "Baturinggit (Batu Ringgit)",
+    "poscode": "80853",
+    "provinsi": {
+        "code": "51",
+        "name": "Bali"
+    },
+    "kabupaten": {
+        "code": "5107",
+        "name": "Karangasem"
+    },
+    "kecamatan": {
+        "code": "510708",
+        "name": "Kubu"
+    }
+}

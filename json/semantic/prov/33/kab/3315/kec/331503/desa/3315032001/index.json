@@ -1,0 +1,17 @@
+{
+    "code": "3315032001",
+    "name": "Lajer",
+    "poscode": "58161",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3315",
+        "name": "Grobogan"
+    },
+    "kecamatan": {
+        "code": "331503",
+        "name": "Penawangan"
+    }
+}

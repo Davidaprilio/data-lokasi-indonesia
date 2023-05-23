@@ -1,0 +1,17 @@
+{
+    "code": "1210011010",
+    "name": "Aek Paing",
+    "poscode": "21419",
+    "provinsi": {
+        "code": "12",
+        "name": "Sumatera Utara"
+    },
+    "kabupaten": {
+        "code": "1210",
+        "name": "Labuhanbatu"
+    },
+    "kecamatan": {
+        "code": "121001",
+        "name": "Rantau Utara"
+    }
+}

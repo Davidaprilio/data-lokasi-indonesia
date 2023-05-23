@@ -1,0 +1,17 @@
+{
+    "code": "3208102022",
+    "name": "Dukuhdalem",
+    "poscode": "45591",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3208",
+        "name": "Kuningan"
+    },
+    "kecamatan": {
+        "code": "320810",
+        "name": "Ciawigebang"
+    }
+}

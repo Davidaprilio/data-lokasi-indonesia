@@ -1,0 +1,17 @@
+{
+    "code": "3207342005",
+    "name": "Awiluar",
+    "poscode": "46258",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3207",
+        "name": "Ciamis"
+    },
+    "kecamatan": {
+        "code": "320734",
+        "name": "Lumbung"
+    }
+}

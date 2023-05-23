@@ -1,0 +1,17 @@
+{
+    "code": "7307072006",
+    "name": "Kassi Buleng",
+    "poscode": "92662",
+    "provinsi": {
+        "code": "73",
+        "name": "Sulawesi Selatan"
+    },
+    "kabupaten": {
+        "code": "7307",
+        "name": "Sinjai"
+    },
+    "kecamatan": {
+        "code": "730707",
+        "name": "Sinjai Borong"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "1502112007",
+    "name": "Danau",
+    "poscode": "37317",
+    "provinsi": {
+        "code": "15",
+        "name": "Jambi"
+    },
+    "kabupaten": {
+        "code": "1502",
+        "name": "Merangin"
+    },
+    "kecamatan": {
+        "code": "150211",
+        "name": "Nalo Tatan (Nalo Tantan)"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "7204072008",
+    "name": "Buntuna",
+    "poscode": "94517",
+    "provinsi": {
+        "code": "72",
+        "name": "Sulawesi Tengah"
+    },
+    "kabupaten": {
+        "code": "7204",
+        "name": "Toli Toli"
+    },
+    "kecamatan": {
+        "code": "720407",
+        "name": "Baolan"
+    }
+}

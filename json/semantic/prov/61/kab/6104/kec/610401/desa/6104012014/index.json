@@ -1,0 +1,17 @@
+{
+    "code": "6104012014",
+    "name": "Kuala Satong",
+    "poscode": "78813",
+    "provinsi": {
+        "code": "61",
+        "name": "Kalimantan Barat"
+    },
+    "kabupaten": {
+        "code": "6104",
+        "name": "Ketapang"
+    },
+    "kecamatan": {
+        "code": "610401",
+        "name": "Matan Hilir Utara"
+    }
+}

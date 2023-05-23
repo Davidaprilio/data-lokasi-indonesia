@@ -1,0 +1,17 @@
+{
+    "code": "3671011003",
+    "name": "Tanah Tinggi",
+    "poscode": "15119",
+    "provinsi": {
+        "code": "36",
+        "name": "Banten"
+    },
+    "kabupaten": {
+        "code": "3671",
+        "name": "Tangerang"
+    },
+    "kecamatan": {
+        "code": "367101",
+        "name": "Tangerang"
+    }
+}

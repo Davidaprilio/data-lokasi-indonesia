@@ -1,0 +1,17 @@
+{
+    "code": "1502051005",
+    "name": "Kampung Baruh",
+    "poscode": "37350",
+    "provinsi": {
+        "code": "15",
+        "name": "Jambi"
+    },
+    "kabupaten": {
+        "code": "1502",
+        "name": "Merangin"
+    },
+    "kecamatan": {
+        "code": "150205",
+        "name": "Tabir"
+    }
+}

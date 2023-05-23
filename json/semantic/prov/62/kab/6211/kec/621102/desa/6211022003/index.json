@@ -1,0 +1,17 @@
+{
+    "code": "6211022003",
+    "name": "Kiapak",
+    "poscode": "74872",
+    "provinsi": {
+        "code": "62",
+        "name": "Kalimantan Tengah"
+    },
+    "kabupaten": {
+        "code": "6211",
+        "name": "Pulang Pisau"
+    },
+    "kecamatan": {
+        "code": "621102",
+        "name": "Kahayan Kuala"
+    }
+}

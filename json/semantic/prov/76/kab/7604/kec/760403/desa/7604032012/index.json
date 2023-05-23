@@ -1,0 +1,17 @@
+{
+    "code": "7604032012",
+    "name": "Bakka-Bakka",
+    "poscode": "91342",
+    "provinsi": {
+        "code": "76",
+        "name": "Sulawesi Barat"
+    },
+    "kabupaten": {
+        "code": "7604",
+        "name": "Polewali Mandar"
+    },
+    "kecamatan": {
+        "code": "760403",
+        "name": "Wonomulyo"
+    }
+}

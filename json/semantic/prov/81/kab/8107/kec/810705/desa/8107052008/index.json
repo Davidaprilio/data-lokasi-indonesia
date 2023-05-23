@@ -1,0 +1,17 @@
+{
+    "code": "8107052008",
+    "name": "Kompane",
+    "poscode": "97663",
+    "provinsi": {
+        "code": "81",
+        "name": "Maluku"
+    },
+    "kabupaten": {
+        "code": "8107",
+        "name": "Kepulauan Aru"
+    },
+    "kecamatan": {
+        "code": "810705",
+        "name": "Aru Utara Timur Batuley"
+    }
+}

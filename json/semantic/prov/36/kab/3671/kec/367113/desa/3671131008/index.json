@@ -1,0 +1,17 @@
+{
+    "code": "3671131008",
+    "name": "Kreo Selatan",
+    "poscode": "15156",
+    "provinsi": {
+        "code": "36",
+        "name": "Banten"
+    },
+    "kabupaten": {
+        "code": "3671",
+        "name": "Tangerang"
+    },
+    "kecamatan": {
+        "code": "367113",
+        "name": "Larangan"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "5203192015",
+    "name": "Kembang Are Sampai",
+    "poscode": "83670",
+    "provinsi": {
+        "code": "52",
+        "name": "Nusa Tenggara Barat (NTB)"
+    },
+    "kabupaten": {
+        "code": "5203",
+        "name": "Lombok Timur"
+    },
+    "kecamatan": {
+        "code": "520319",
+        "name": "Sakra Barat"
+    }
+}

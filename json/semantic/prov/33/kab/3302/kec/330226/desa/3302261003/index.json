@@ -1,0 +1,17 @@
+{
+    "code": "3302261003",
+    "name": "Purwokerto Lor",
+    "poscode": "53114",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3302",
+        "name": "Banyumas"
+    },
+    "kecamatan": {
+        "code": "330226",
+        "name": "Purwokerto Timur"
+    }
+}

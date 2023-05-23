@@ -1,0 +1,17 @@
+{
+    "code": "3374151001",
+    "name": "Gondoriyo",
+    "poscode": "50187",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3374",
+        "name": "Semarang"
+    },
+    "kecamatan": {
+        "code": "337415",
+        "name": "Ngaliyan"
+    }
+}

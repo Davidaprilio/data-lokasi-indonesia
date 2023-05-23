@@ -1,0 +1,17 @@
+{
+    "code": "3306152008",
+    "name": "Tridadi",
+    "poscode": "54181",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3306",
+        "name": "Purworejo"
+    },
+    "kecamatan": {
+        "code": "330615",
+        "name": "Loano"
+    }
+}

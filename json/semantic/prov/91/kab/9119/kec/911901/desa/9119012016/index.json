@@ -1,0 +1,17 @@
+{
+    "code": "9119012016",
+    "name": "Awaki",
+    "poscode": "98572",
+    "provinsi": {
+        "code": "91",
+        "name": "Papua"
+    },
+    "kabupaten": {
+        "code": "9119",
+        "name": "Supiori"
+    },
+    "kecamatan": {
+        "code": "911901",
+        "name": "Supiori Selatan"
+    }
+}

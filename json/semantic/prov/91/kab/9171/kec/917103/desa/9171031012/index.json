@@ -1,0 +1,17 @@
+{
+    "code": "9171031012",
+    "name": "Kota Baru",
+    "poscode": "99325",
+    "provinsi": {
+        "code": "91",
+        "name": "Papua"
+    },
+    "kabupaten": {
+        "code": "9171",
+        "name": "Jayapura"
+    },
+    "kecamatan": {
+        "code": "917103",
+        "name": "Abepura"
+    }
+}

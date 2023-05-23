@@ -1,0 +1,17 @@
+{
+    "code": "7315041001",
+    "name": "Jaya",
+    "poscode": "91213",
+    "provinsi": {
+        "code": "73",
+        "name": "Sulawesi Selatan"
+    },
+    "kabupaten": {
+        "code": "7315",
+        "name": "Pinrang"
+    },
+    "kecamatan": {
+        "code": "731504",
+        "name": "Watang Sawito (Watang Sawitto)"
+    }
+}

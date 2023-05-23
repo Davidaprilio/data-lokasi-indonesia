@@ -1,0 +1,17 @@
+{
+    "code": "3212152020",
+    "name": "Tambak",
+    "poscode": "45219",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3212",
+        "name": "Indramayu"
+    },
+    "kecamatan": {
+        "code": "321215",
+        "name": "Indramayu"
+    }
+}

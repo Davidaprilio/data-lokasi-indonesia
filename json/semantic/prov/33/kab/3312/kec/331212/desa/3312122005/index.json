@@ -1,0 +1,17 @@
+{
+    "code": "3312122005",
+    "name": "Purworejo",
+    "poscode": "57615",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3312",
+        "name": "Wonogiri"
+    },
+    "kecamatan": {
+        "code": "331212",
+        "name": "Wonogiri"
+    }
+}

@@ -1,0 +1,62 @@
+[
+    {
+        "code": "6371011012",
+        "name": "Basirih Selatan",
+        "poscode": "70245"
+    },
+    {
+        "code": "6371011004",
+        "name": "Kelayan Barat",
+        "poscode": "70241"
+    },
+    {
+        "code": "6371011006",
+        "name": "Kelayan Dalam",
+        "poscode": "70242"
+    },
+    {
+        "code": "6371011002",
+        "name": "Kelayan Selatan",
+        "poscode": "70246"
+    },
+    {
+        "code": "6371011005",
+        "name": "Kelayan Tengah",
+        "poscode": "70242"
+    },
+    {
+        "code": "6371011008",
+        "name": "Kelayan Timur",
+        "poscode": "70247"
+    },
+    {
+        "code": "6371011001",
+        "name": "Mantuil",
+        "poscode": "70244"
+    },
+    {
+        "code": "6371011007",
+        "name": "Murung Raya",
+        "poscode": "70247"
+    },
+    {
+        "code": "6371011003",
+        "name": "Pekauman",
+        "poscode": "70243"
+    },
+    {
+        "code": "6371011011",
+        "name": "Pemurus Baru",
+        "poscode": "70249"
+    },
+    {
+        "code": "6371011010",
+        "name": "Pemurus Dalam",
+        "poscode": "70248"
+    },
+    {
+        "code": "6371011009",
+        "name": "Tanjung Pagar",
+        "poscode": "70247"
+    }
+]

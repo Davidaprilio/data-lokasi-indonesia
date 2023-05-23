@@ -1,0 +1,17 @@
+{
+    "code": "1502132005",
+    "name": "Simpang Limbur Merangin",
+    "poscode": "37318",
+    "provinsi": {
+        "code": "15",
+        "name": "Jambi"
+    },
+    "kabupaten": {
+        "code": "1502",
+        "name": "Merangin"
+    },
+    "kecamatan": {
+        "code": "150213",
+        "name": "Pamenang Barat"
+    }
+}

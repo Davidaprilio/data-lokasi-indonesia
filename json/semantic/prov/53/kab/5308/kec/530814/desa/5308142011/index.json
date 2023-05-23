@@ -1,0 +1,17 @@
+{
+    "code": "5308142011",
+    "name": "Waturaka",
+    "poscode": "86318",
+    "provinsi": {
+        "code": "53",
+        "name": "Nusa Tenggara Timur (NTT)"
+    },
+    "kabupaten": {
+        "code": "5308",
+        "name": "Ende"
+    },
+    "kecamatan": {
+        "code": "530814",
+        "name": "Kelimutu"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "3209072007",
+    "name": "Lemahabang",
+    "poscode": "45183",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3209",
+        "name": "Cirebon"
+    },
+    "kecamatan": {
+        "code": "320907",
+        "name": "Lemahabang"
+    }
+}

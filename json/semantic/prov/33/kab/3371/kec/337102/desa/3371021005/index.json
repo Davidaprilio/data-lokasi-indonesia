@@ -1,0 +1,17 @@
+{
+    "code": "3371021005",
+    "name": "Kedungsari",
+    "poscode": "56114",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3371",
+        "name": "Magelang"
+    },
+    "kecamatan": {
+        "code": "337102",
+        "name": "Magelang Utara"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "1806202006",
+    "name": "Gisting Atas",
+    "poscode": "35378",
+    "provinsi": {
+        "code": "18",
+        "name": "Lampung"
+    },
+    "kabupaten": {
+        "code": "1806",
+        "name": "Tanggamus"
+    },
+    "kecamatan": {
+        "code": "180620",
+        "name": "Gisting"
+    }
+}

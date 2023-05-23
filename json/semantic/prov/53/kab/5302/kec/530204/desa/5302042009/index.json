@@ -1,0 +1,17 @@
+{
+    "code": "5302042009",
+    "name": "Teluk (Telukh)",
+    "poscode": "85572",
+    "provinsi": {
+        "code": "53",
+        "name": "Nusa Tenggara Timur (NTT)"
+    },
+    "kabupaten": {
+        "code": "5302",
+        "name": "Timor Tengah Selatan"
+    },
+    "kecamatan": {
+        "code": "530204",
+        "name": "Amanuban Timur"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "6108122006",
+    "name": "Gamang",
+    "poscode": "79364",
+    "provinsi": {
+        "code": "61",
+        "name": "Kalimantan Barat"
+    },
+    "kabupaten": {
+        "code": "6108",
+        "name": "Landak"
+    },
+    "kecamatan": {
+        "code": "610812",
+        "name": "Banyuke Hulu"
+    }
+}

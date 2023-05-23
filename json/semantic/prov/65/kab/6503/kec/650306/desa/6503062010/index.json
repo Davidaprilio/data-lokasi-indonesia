@@ -1,0 +1,17 @@
+{
+    "code": "6503062010",
+    "name": "Harapan",
+    "poscode": "77481",
+    "provinsi": {
+        "code": "65",
+        "name": "Kalimantan Utara"
+    },
+    "kabupaten": {
+        "code": "6503",
+        "name": "Nunukan"
+    },
+    "kecamatan": {
+        "code": "650306",
+        "name": "Sebuku"
+    }
+}

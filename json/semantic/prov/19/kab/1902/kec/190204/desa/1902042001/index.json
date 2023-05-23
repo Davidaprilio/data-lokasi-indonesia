@@ -1,0 +1,17 @@
+{
+    "code": "1902042001",
+    "name": "Sijuk",
+    "poscode": "33414",
+    "provinsi": {
+        "code": "19",
+        "name": "Kepulauan Bangka Belitung"
+    },
+    "kabupaten": {
+        "code": "1902",
+        "name": "Belitung"
+    },
+    "kecamatan": {
+        "code": "190204",
+        "name": "Sijuk"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "6402042005",
+    "name": "Anggana",
+    "poscode": "75381",
+    "provinsi": {
+        "code": "64",
+        "name": "Kalimantan Timur"
+    },
+    "kabupaten": {
+        "code": "6402",
+        "name": "Kutai Kartanegara"
+    },
+    "kecamatan": {
+        "code": "640204",
+        "name": "Anggana"
+    }
+}

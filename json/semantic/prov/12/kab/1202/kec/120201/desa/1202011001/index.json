@@ -1,0 +1,17 @@
+{
+    "code": "1202011001",
+    "name": "Partoli Toruan (Partali Toruan)",
+    "poscode": "22416",
+    "provinsi": {
+        "code": "12",
+        "name": "Sumatera Utara"
+    },
+    "kabupaten": {
+        "code": "1202",
+        "name": "Tapanuli Utara"
+    },
+    "kecamatan": {
+        "code": "120201",
+        "name": "Tarutung"
+    }
+}

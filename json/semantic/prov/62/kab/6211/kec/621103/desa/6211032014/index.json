@@ -1,0 +1,17 @@
+{
+    "code": "6211032014",
+    "name": "Bereng Rambang (Bareng Rambang)",
+    "poscode": "74862",
+    "provinsi": {
+        "code": "62",
+        "name": "Kalimantan Tengah"
+    },
+    "kabupaten": {
+        "code": "6211",
+        "name": "Pulang Pisau"
+    },
+    "kecamatan": {
+        "code": "621103",
+        "name": "Kahayan Tengah"
+    }
+}

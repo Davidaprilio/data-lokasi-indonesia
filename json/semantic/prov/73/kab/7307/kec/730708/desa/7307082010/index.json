@@ -1,0 +1,17 @@
+{
+    "code": "7307082010",
+    "name": "Era Baru (Erabaru)",
+    "poscode": "92681",
+    "provinsi": {
+        "code": "73",
+        "name": "Sulawesi Selatan"
+    },
+    "kabupaten": {
+        "code": "7307",
+        "name": "Sinjai"
+    },
+    "kecamatan": {
+        "code": "730708",
+        "name": "Tellu Limpoe"
+    }
+}

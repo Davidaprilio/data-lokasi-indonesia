@@ -1,0 +1,17 @@
+{
+    "code": "8108042003",
+    "name": "Tela",
+    "poscode": "97451",
+    "provinsi": {
+        "code": "81",
+        "name": "Maluku"
+    },
+    "kabupaten": {
+        "code": "8108",
+        "name": "Maluku Barat Daya"
+    },
+    "kecamatan": {
+        "code": "810804",
+        "name": "Pulau Pulau Babar"
+    }
+}

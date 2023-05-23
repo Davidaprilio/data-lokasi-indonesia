@@ -1,0 +1,17 @@
+{
+    "code": "3301012001",
+    "name": "Tambakreja",
+    "poscode": "53263",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3301",
+        "name": "Cilacap"
+    },
+    "kecamatan": {
+        "code": "330101",
+        "name": "Kedungreja"
+    }
+}

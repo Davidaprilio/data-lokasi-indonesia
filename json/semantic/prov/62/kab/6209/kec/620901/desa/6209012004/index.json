@@ -1,0 +1,17 @@
+{
+    "code": "6209012004",
+    "name": "Kawa",
+    "poscode": "74660",
+    "provinsi": {
+        "code": "62",
+        "name": "Kalimantan Tengah"
+    },
+    "kabupaten": {
+        "code": "6209",
+        "name": "Lamandau"
+    },
+    "kecamatan": {
+        "code": "620901",
+        "name": "Lamandau"
+    }
+}

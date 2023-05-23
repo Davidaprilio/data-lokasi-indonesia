@@ -1,0 +1,17 @@
+{
+    "code": "1104172015",
+    "name": "Toweren Uken",
+    "poscode": "24516",
+    "provinsi": {
+        "code": "11",
+        "name": "Aceh (NAD)"
+    },
+    "kabupaten": {
+        "code": "1104",
+        "name": "Aceh Tengah"
+    },
+    "kecamatan": {
+        "code": "110417",
+        "name": "Laut Tawar (Lut Tawar)"
+    }
+}

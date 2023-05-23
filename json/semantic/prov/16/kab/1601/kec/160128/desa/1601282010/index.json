@@ -1,0 +1,17 @@
+{
+    "code": "1601282010",
+    "name": "Tihang",
+    "poscode": "32158",
+    "provinsi": {
+        "code": "16",
+        "name": "Sumatera Selatan"
+    },
+    "kabupaten": {
+        "code": "1601",
+        "name": "Ogan Komering Ulu"
+    },
+    "kecamatan": {
+        "code": "160128",
+        "name": "Lengkiti"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "3206242003",
+    "name": "Cipakat",
+    "poscode": "46417",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3206",
+        "name": "Tasikmalaya"
+    },
+    "kecamatan": {
+        "code": "320624",
+        "name": "Singaparna"
+    }
+}

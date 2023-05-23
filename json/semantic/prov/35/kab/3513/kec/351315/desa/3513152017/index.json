@@ -1,0 +1,17 @@
+{
+    "code": "3513152017",
+    "name": "Sokaan",
+    "poscode": "67284",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3513",
+        "name": "Probolinggo"
+    },
+    "kecamatan": {
+        "code": "351315",
+        "name": "Krejengan"
+    }
+}

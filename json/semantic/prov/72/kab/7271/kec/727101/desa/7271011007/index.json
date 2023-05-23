@@ -1,0 +1,17 @@
+{
+    "code": "7271011007",
+    "name": "Besusu Timur",
+    "poscode": "94111",
+    "provinsi": {
+        "code": "72",
+        "name": "Sulawesi Tengah"
+    },
+    "kabupaten": {
+        "code": "7271",
+        "name": "Palu"
+    },
+    "kecamatan": {
+        "code": "727101",
+        "name": "Palu Timur"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "1706102002",
+    "name": "Lubuk Mukti",
+    "poscode": "38768",
+    "provinsi": {
+        "code": "17",
+        "name": "Bengkulu"
+    },
+    "kabupaten": {
+        "code": "1706",
+        "name": "Muko Muko"
+    },
+    "kecamatan": {
+        "code": "170610",
+        "name": "Penarik"
+    }
+}

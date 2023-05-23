@@ -1,0 +1,17 @@
+{
+    "code": "6401032012",
+    "name": "Seniung Jaya",
+    "poscode": "76271",
+    "provinsi": {
+        "code": "64",
+        "name": "Kalimantan Timur"
+    },
+    "kabupaten": {
+        "code": "6401",
+        "name": "Paser"
+    },
+    "kecamatan": {
+        "code": "640103",
+        "name": "Paser Belengkong (Pasir Belengkong)"
+    }
+}

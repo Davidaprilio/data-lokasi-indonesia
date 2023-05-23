@@ -1,0 +1,17 @@
+{
+    "code": "1209132019",
+    "name": "Pulau Pule",
+    "poscode": "21272",
+    "provinsi": {
+        "code": "12",
+        "name": "Sumatera Utara"
+    },
+    "kabupaten": {
+        "code": "1209",
+        "name": "Asahan"
+    },
+    "kecamatan": {
+        "code": "120913",
+        "name": "Air Batu"
+    }
+}

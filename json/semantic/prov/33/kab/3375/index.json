@@ -1,0 +1,10 @@
+{
+    "code": "3375",
+    "type": "Kota",
+    "name": "Pekalongan",
+    "fullname": "Kota Pekalongan",
+    "jumlah": {
+        "kecamatan": 4,
+        "desa": 27
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "1202022009",
+    "name": "Lumban Siagian Jae",
+    "poscode": "22417",
+    "provinsi": {
+        "code": "12",
+        "name": "Sumatera Utara"
+    },
+    "kabupaten": {
+        "code": "1202",
+        "name": "Tapanuli Utara"
+    },
+    "kecamatan": {
+        "code": "120202",
+        "name": "Siatas Barita"
+    }
+}

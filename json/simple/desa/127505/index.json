@@ -1,0 +1,42 @@
+[
+    {
+        "code": "1275051003",
+        "name": "Bhakti Karya",
+        "poscode": "20728"
+    },
+    {
+        "code": "1275051002",
+        "name": "Binjai Estate",
+        "poscode": "20724"
+    },
+    {
+        "code": "1275051005",
+        "name": "Pujidadi",
+        "poscode": "20727"
+    },
+    {
+        "code": "1275051007",
+        "name": "Rambung Barat",
+        "poscode": "20723"
+    },
+    {
+        "code": "1275051004",
+        "name": "Rambung Dalam",
+        "poscode": "20722"
+    },
+    {
+        "code": "1275051008",
+        "name": "Rambung Timur",
+        "poscode": "20721"
+    },
+    {
+        "code": "1275051001",
+        "name": "Tanah Merah",
+        "poscode": "20725"
+    },
+    {
+        "code": "1275051006",
+        "name": "Tanah Seribu",
+        "poscode": "20726"
+    }
+]

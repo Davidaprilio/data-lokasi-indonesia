@@ -1,0 +1,17 @@
+{
+    "code": "1110122003",
+    "name": "Bulu Sema",
+    "poscode": "24787",
+    "provinsi": {
+        "code": "11",
+        "name": "Aceh (NAD)"
+    },
+    "kabupaten": {
+        "code": "1110",
+        "name": "Aceh Singkil"
+    },
+    "kecamatan": {
+        "code": "111012",
+        "name": "Suro Makmur"
+    }
+}

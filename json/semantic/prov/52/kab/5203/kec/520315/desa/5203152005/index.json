@@ -1,0 +1,17 @@
+{
+    "code": "5203152005",
+    "name": "Sembalun",
+    "poscode": "83657",
+    "provinsi": {
+        "code": "52",
+        "name": "Nusa Tenggara Barat (NTB)"
+    },
+    "kabupaten": {
+        "code": "5203",
+        "name": "Lombok Timur"
+    },
+    "kecamatan": {
+        "code": "520315",
+        "name": "Sembalun"
+    }
+}

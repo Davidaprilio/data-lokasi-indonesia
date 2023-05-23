@@ -1,0 +1,17 @@
+{
+    "code": "1219122006",
+    "name": "Bandar Sono",
+    "poscode": "21253",
+    "provinsi": {
+        "code": "12",
+        "name": "Sumatera Utara"
+    },
+    "kabupaten": {
+        "code": "1219",
+        "name": "Batu Bara"
+    },
+    "kecamatan": {
+        "code": "121912",
+        "name": "Nibung Hangus"
+    }
+}

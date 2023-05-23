@@ -1,0 +1,17 @@
+{
+    "code": "7104132001",
+    "name": "Pulau Miangas",
+    "poscode": "95889",
+    "provinsi": {
+        "code": "71",
+        "name": "Sulawesi Utara"
+    },
+    "kabupaten": {
+        "code": "7104",
+        "name": "Kepulauan Talaud"
+    },
+    "kecamatan": {
+        "code": "710413",
+        "name": "Miangas"
+    }
+}

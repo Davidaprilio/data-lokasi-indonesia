@@ -1,0 +1,10 @@
+{
+    "code": "5208",
+    "type": "Kabupaten",
+    "name": "Lombok Utara",
+    "fullname": "Kabupaten Lombok Utara",
+    "jumlah": {
+        "kecamatan": 5,
+        "desa": 43
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "5303082025",
+    "name": "Keun",
+    "poscode": "85671",
+    "provinsi": {
+        "code": "53",
+        "name": "Nusa Tenggara Timur (NTT)"
+    },
+    "kabupaten": {
+        "code": "5303",
+        "name": "Timor Tengah Utara"
+    },
+    "kecamatan": {
+        "code": "530308",
+        "name": "Insana"
+    }
+}

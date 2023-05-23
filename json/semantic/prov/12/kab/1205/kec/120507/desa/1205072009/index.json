@@ -1,0 +1,17 @@
+{
+    "code": "1205072009",
+    "name": "Ara Condong",
+    "poscode": "20811",
+    "provinsi": {
+        "code": "12",
+        "name": "Sumatera Utara"
+    },
+    "kabupaten": {
+        "code": "1205",
+        "name": "Langkat"
+    },
+    "kecamatan": {
+        "code": "120507",
+        "name": "Stabat"
+    }
+}

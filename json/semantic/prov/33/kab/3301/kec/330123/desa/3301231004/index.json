@@ -1,0 +1,17 @@
+{
+    "code": "3301231004",
+    "name": "Tritih Kulon",
+    "poscode": "53233",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3301",
+        "name": "Cilacap"
+    },
+    "kecamatan": {
+        "code": "330123",
+        "name": "Cilacap Utara"
+    }
+}

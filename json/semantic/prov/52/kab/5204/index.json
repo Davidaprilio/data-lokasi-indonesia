@@ -1,0 +1,10 @@
+{
+    "code": "5204",
+    "type": "Kabupaten",
+    "name": "Sumbawa",
+    "fullname": "Kabupaten Sumbawa",
+    "jumlah": {
+        "kecamatan": 24,
+        "desa": 165
+    }
+}

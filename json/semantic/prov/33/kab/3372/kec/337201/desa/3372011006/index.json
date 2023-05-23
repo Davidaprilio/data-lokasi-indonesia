@@ -1,0 +1,17 @@
+{
+    "code": "3372011006",
+    "name": "Sriwedari",
+    "poscode": "57141",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3372",
+        "name": "Surakarta"
+    },
+    "kecamatan": {
+        "code": "337201",
+        "name": "Laweyan"
+    }
+}

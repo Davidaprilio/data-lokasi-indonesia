@@ -1,0 +1,17 @@
+{
+    "code": "3502142001",
+    "name": "Sampung",
+    "poscode": "63454",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3502",
+        "name": "Ponorogo"
+    },
+    "kecamatan": {
+        "code": "350214",
+        "name": "Sampung"
+    }
+}

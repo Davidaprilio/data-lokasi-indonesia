@@ -1,0 +1,17 @@
+{
+    "code": "1205052002",
+    "name": "Sabi/Sambi Rejo",
+    "poscode": "20761",
+    "provinsi": {
+        "code": "12",
+        "name": "Sumatera Utara"
+    },
+    "kabupaten": {
+        "code": "1205",
+        "name": "Langkat"
+    },
+    "kecamatan": {
+        "code": "120505",
+        "name": "Binjai"
+    }
+}

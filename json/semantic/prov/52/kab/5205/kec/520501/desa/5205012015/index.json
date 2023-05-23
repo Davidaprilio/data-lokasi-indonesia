@@ -1,0 +1,17 @@
+{
+    "code": "5205012015",
+    "name": "Sori Sakolo",
+    "poscode": "84213",
+    "provinsi": {
+        "code": "52",
+        "name": "Nusa Tenggara Barat (NTB)"
+    },
+    "kabupaten": {
+        "code": "5205",
+        "name": "Dompu"
+    },
+    "kecamatan": {
+        "code": "520501",
+        "name": "Dompu"
+    }
+}

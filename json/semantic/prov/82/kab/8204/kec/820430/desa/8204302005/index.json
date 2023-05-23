@@ -1,0 +1,17 @@
+{
+    "code": "8204302005",
+    "name": "Waringi",
+    "poscode": "97792",
+    "provinsi": {
+        "code": "82",
+        "name": "Maluku Utara"
+    },
+    "kabupaten": {
+        "code": "8204",
+        "name": "Halmahera Selatan"
+    },
+    "kecamatan": {
+        "code": "820430",
+        "name": "Obi Utara"
+    }
+}

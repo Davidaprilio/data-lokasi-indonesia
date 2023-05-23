@@ -1,0 +1,17 @@
+{
+    "code": "3216012005",
+    "name": "Setia Mulya",
+    "poscode": "17213",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3216",
+        "name": "Bekasi"
+    },
+    "kecamatan": {
+        "code": "321601",
+        "name": "Tarumajaya"
+    }
+}

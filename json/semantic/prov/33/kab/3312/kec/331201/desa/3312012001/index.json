@@ -1,0 +1,17 @@
+{
+    "code": "3312012001",
+    "name": "Sumberagung",
+    "poscode": "57664",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3312",
+        "name": "Wonogiri"
+    },
+    "kecamatan": {
+        "code": "331201",
+        "name": "Pracimantoro"
+    }
+}

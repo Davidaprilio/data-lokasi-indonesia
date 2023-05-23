@@ -1,0 +1,17 @@
+{
+    "code": "1217072007",
+    "name": "Paraduan",
+    "poscode": "22392",
+    "provinsi": {
+        "code": "12",
+        "name": "Sumatera Utara"
+    },
+    "kabupaten": {
+        "code": "1217",
+        "name": "Samosir"
+    },
+    "kecamatan": {
+        "code": "121707",
+        "name": "Ronggur Nihuta"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "1804192008",
+    "name": "Rigis Jaya",
+    "poscode": "34866",
+    "provinsi": {
+        "code": "18",
+        "name": "Lampung"
+    },
+    "kabupaten": {
+        "code": "1804",
+        "name": "Lampung Barat"
+    },
+    "kecamatan": {
+        "code": "180419",
+        "name": "Air Hitam"
+    }
+}

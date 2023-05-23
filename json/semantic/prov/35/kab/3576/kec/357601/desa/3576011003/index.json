@@ -1,0 +1,17 @@
+{
+    "code": "3576011003",
+    "name": "Mentikan",
+    "poscode": "61323",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3576",
+        "name": "Mojokerto"
+    },
+    "kecamatan": {
+        "code": "357601",
+        "name": "Prajuritkulon (Prajurit Kulon)"
+    }
+}

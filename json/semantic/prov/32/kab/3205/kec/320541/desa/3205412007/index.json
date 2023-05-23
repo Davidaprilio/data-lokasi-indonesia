@@ -1,0 +1,17 @@
+{
+    "code": "3205412007",
+    "name": "Sukarasa",
+    "poscode": "44183",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3205",
+        "name": "Garut"
+    },
+    "kecamatan": {
+        "code": "320541",
+        "name": "Pangatikan"
+    }
+}

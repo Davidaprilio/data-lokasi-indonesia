@@ -1,0 +1,10 @@
+{
+    "code": "1276",
+    "type": "Kota",
+    "name": "Tebing Tinggi",
+    "fullname": "Kota Tebing Tinggi",
+    "jumlah": {
+        "kecamatan": 5,
+        "desa": 35
+    }
+}

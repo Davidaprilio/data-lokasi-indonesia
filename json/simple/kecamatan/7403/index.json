@@ -1,0 +1,156 @@
+[
+    {
+        "code": "740315",
+        "name": "Batalaiwaru (Batalaiworu)",
+        "count": {
+            "desa": 4
+        }
+    },
+    {
+        "code": "740334",
+        "name": "Batukara",
+        "count": {
+            "desa": 4
+        }
+    },
+    {
+        "code": "740326",
+        "name": "Bone (Bone Tondo)",
+        "count": {
+            "desa": 5
+        }
+    },
+    {
+        "code": "740317",
+        "name": "Duruka",
+        "count": {
+            "desa": 7
+        }
+    },
+    {
+        "code": "740323",
+        "name": "Kabangka",
+        "count": {
+            "desa": 9
+        }
+    },
+    {
+        "code": "740324",
+        "name": "Kabawo",
+        "count": {
+            "desa": 11
+        }
+    },
+    {
+        "code": "740316",
+        "name": "Katobu",
+        "count": {
+            "desa": 8
+        }
+    },
+    {
+        "code": "740330",
+        "name": "Kontu Kowuna",
+        "count": {
+            "desa": 6
+        }
+    },
+    {
+        "code": "740320",
+        "name": "Kontunaga",
+        "count": {
+            "desa": 6
+        }
+    },
+    {
+        "code": "740314",
+        "name": "Lasalepa",
+        "count": {
+            "desa": 7
+        }
+    },
+    {
+        "code": "740318",
+        "name": "Lohia",
+        "count": {
+            "desa": 9
+        }
+    },
+    {
+        "code": "740307",
+        "name": "Maligano",
+        "count": {
+            "desa": 6
+        }
+    },
+    {
+        "code": "740331",
+        "name": "Marobo",
+        "count": {
+            "desa": 5
+        }
+    },
+    {
+        "code": "740306",
+        "name": "Napabalano",
+        "count": {
+            "desa": 6
+        }
+    },
+    {
+        "code": "740325",
+        "name": "Parigi",
+        "count": {
+            "desa": 11
+        }
+    },
+    {
+        "code": "740333",
+        "name": "Pasi Kolaga",
+        "count": {
+            "desa": 4
+        }
+    },
+    {
+        "code": "740328",
+        "name": "Pasir Putih",
+        "count": {
+            "desa": 6
+        }
+    },
+    {
+        "code": "740327",
+        "name": "Tongkuno",
+        "count": {
+            "desa": 12
+        }
+    },
+    {
+        "code": "740332",
+        "name": "Tongkuno Selatan",
+        "count": {
+            "desa": 6
+        }
+    },
+    {
+        "code": "740337",
+        "name": "Towea",
+        "count": {
+            "desa": 5
+        }
+    },
+    {
+        "code": "740313",
+        "name": "Wakorumba Selatan",
+        "count": {
+            "desa": 5
+        }
+    },
+    {
+        "code": "740319",
+        "name": "Watopute",
+        "count": {
+            "desa": 8
+        }
+    }
+]

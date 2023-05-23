@@ -1,0 +1,17 @@
+{
+    "code": "3572031003",
+    "name": "Klampok",
+    "poscode": "66136",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3572",
+        "name": "Blitar"
+    },
+    "kecamatan": {
+        "code": "357203",
+        "name": "Sananwetan (Sanan Wetan)"
+    }
+}

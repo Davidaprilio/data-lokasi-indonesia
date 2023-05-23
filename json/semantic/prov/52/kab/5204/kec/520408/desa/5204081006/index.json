@@ -1,0 +1,17 @@
+{
+    "code": "5204081006",
+    "name": "Lempeh",
+    "poscode": "84312",
+    "provinsi": {
+        "code": "52",
+        "name": "Nusa Tenggara Barat (NTB)"
+    },
+    "kabupaten": {
+        "code": "5204",
+        "name": "Sumbawa"
+    },
+    "kecamatan": {
+        "code": "520408",
+        "name": "Sumbawa"
+    }
+}

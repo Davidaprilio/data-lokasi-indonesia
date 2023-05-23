@@ -1,0 +1,142 @@
+[
+    {
+        "code": "160803",
+        "name": "Belitang",
+        "count": {
+            "desa": 23
+        }
+    },
+    {
+        "code": "160809",
+        "name": "Belitang II",
+        "count": {
+            "desa": 24
+        }
+    },
+    {
+        "code": "160810",
+        "name": "Belitang III",
+        "count": {
+            "desa": 20
+        }
+    },
+    {
+        "code": "160817",
+        "name": "Belitang Jaya",
+        "count": {
+            "desa": 13
+        }
+    },
+    {
+        "code": "160818",
+        "name": "Belitang Madang Raya",
+        "count": {
+            "desa": 16
+        }
+    },
+    {
+        "code": "160819",
+        "name": "Belitang Mulya",
+        "count": {
+            "desa": 12
+        }
+    },
+    {
+        "code": "160802",
+        "name": "Buay Madang",
+        "count": {
+            "desa": 17
+        }
+    },
+    {
+        "code": "160812",
+        "name": "Buay Madang Timur",
+        "count": {
+            "desa": 30
+        }
+    },
+    {
+        "code": "160820",
+        "name": "Buay Pemuka Bangsa Raja",
+        "count": {
+            "desa": 7
+        }
+    },
+    {
+        "code": "160805",
+        "name": "Buay Pemuka Peliung",
+        "count": {
+            "desa": 13
+        }
+    },
+    {
+        "code": "160811",
+        "name": "Bunga Mayang",
+        "count": {
+            "desa": 8
+        }
+    },
+    {
+        "code": "160804",
+        "name": "Cempaka",
+        "count": {
+            "desa": 13
+        }
+    },
+    {
+        "code": "160816",
+        "name": "Jayapura",
+        "count": {
+            "desa": 8
+        }
+    },
+    {
+        "code": "160807",
+        "name": "Madang Suku I",
+        "count": {
+            "desa": 13
+        }
+    },
+    {
+        "code": "160806",
+        "name": "Madang Suku II",
+        "count": {
+            "desa": 19
+        }
+    },
+    {
+        "code": "160813",
+        "name": "Madang Suku III",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "160801",
+        "name": "Martapura",
+        "count": {
+            "desa": 16
+        }
+    },
+    {
+        "code": "160814",
+        "name": "Semendawai Barat",
+        "count": {
+            "desa": 12
+        }
+    },
+    {
+        "code": "160808",
+        "name": "Semendawai Suku III",
+        "count": {
+            "desa": 19
+        }
+    },
+    {
+        "code": "160815",
+        "name": "Semendawai Timur",
+        "count": {
+            "desa": 19
+        }
+    }
+]

@@ -1,0 +1,17 @@
+{
+    "code": "3273261003",
+    "name": "Pasir Endah",
+    "poscode": "40619",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3273",
+        "name": "Bandung"
+    },
+    "kecamatan": {
+        "code": "327326",
+        "name": "Ujungberung (Ujung Berung)"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "3308202014",
+    "name": "Karangkajen",
+    "poscode": "56195",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3308",
+        "name": "Magelang"
+    },
+    "kecamatan": {
+        "code": "330820",
+        "name": "Secang"
+    }
+}

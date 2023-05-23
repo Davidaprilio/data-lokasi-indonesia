@@ -1,0 +1,17 @@
+{
+    "code": "3573011005",
+    "name": "Blimbing",
+    "poscode": "65125",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3573",
+        "name": "Malang"
+    },
+    "kecamatan": {
+        "code": "357301",
+        "name": "Blimbing"
+    }
+}

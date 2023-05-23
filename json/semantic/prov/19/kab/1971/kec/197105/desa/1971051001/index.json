@@ -1,0 +1,17 @@
+{
+    "code": "1971051001",
+    "name": "Taman Bunga",
+    "poscode": "33123",
+    "provinsi": {
+        "code": "19",
+        "name": "Kepulauan Bangka Belitung"
+    },
+    "kabupaten": {
+        "code": "1971",
+        "name": "Pangkal Pinang"
+    },
+    "kecamatan": {
+        "code": "197105",
+        "name": "Gerunggang"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "1703242007",
+    "name": "Sumber Mulya",
+    "poscode": "38362",
+    "provinsi": {
+        "code": "17",
+        "name": "Bengkulu"
+    },
+    "kabupaten": {
+        "code": "1703",
+        "name": "Bengkulu Utara"
+    },
+    "kecamatan": {
+        "code": "170324",
+        "name": "Pinang Raya"
+    }
+}

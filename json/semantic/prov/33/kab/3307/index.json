@@ -1,0 +1,10 @@
+{
+    "code": "3307",
+    "type": "Kabupaten",
+    "name": "Wonosobo",
+    "fullname": "Kabupaten Wonosobo",
+    "jumlah": {
+        "kecamatan": 15,
+        "desa": 265
+    }
+}

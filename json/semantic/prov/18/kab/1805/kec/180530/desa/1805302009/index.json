@@ -1,0 +1,17 @@
+{
+    "code": "1805302009",
+    "name": "Tri Makmur Jaya",
+    "poscode": "34618",
+    "provinsi": {
+        "code": "18",
+        "name": "Lampung"
+    },
+    "kabupaten": {
+        "code": "1805",
+        "name": "Tulang Bawang"
+    },
+    "kecamatan": {
+        "code": "180530",
+        "name": "Menggala Timur"
+    }
+}

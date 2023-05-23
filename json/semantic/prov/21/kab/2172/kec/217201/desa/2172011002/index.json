@@ -1,0 +1,17 @@
+{
+    "code": "2172011002",
+    "name": "Kemboja",
+    "poscode": "29112",
+    "provinsi": {
+        "code": "21",
+        "name": "Kepulauan Riau"
+    },
+    "kabupaten": {
+        "code": "2172",
+        "name": "Tanjung Pinang"
+    },
+    "kecamatan": {
+        "code": "217201",
+        "name": "Tanjung Pinang Barat"
+    }
+}

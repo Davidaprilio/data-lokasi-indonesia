@@ -1,0 +1,17 @@
+{
+    "code": "1701082007",
+    "name": "Pino Baru",
+    "poscode": "38571",
+    "provinsi": {
+        "code": "17",
+        "name": "Bengkulu"
+    },
+    "kabupaten": {
+        "code": "1701",
+        "name": "Bengkulu Selatan"
+    },
+    "kecamatan": {
+        "code": "170108",
+        "name": "Air Nipis"
+    }
+}

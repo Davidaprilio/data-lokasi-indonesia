@@ -1,0 +1,10 @@
+{
+    "code": "65",
+    "name": "Kalimantan Utara",
+    "jumlah": {
+        "kota": 1,
+        "kabupaten": 4,
+        "kecamatan": 55,
+        "desa": 482
+    }
+}

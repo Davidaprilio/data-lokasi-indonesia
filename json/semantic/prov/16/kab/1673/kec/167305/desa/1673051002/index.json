@@ -1,0 +1,17 @@
+{
+    "code": "1673051002",
+    "name": "Jawa Kanan Ss",
+    "poscode": "31621",
+    "provinsi": {
+        "code": "16",
+        "name": "Sumatera Selatan"
+    },
+    "kabupaten": {
+        "code": "1673",
+        "name": "Lubuk Linggau"
+    },
+    "kecamatan": {
+        "code": "167305",
+        "name": "Lubuk Linggau Timur Dua (II)"
+    }
+}

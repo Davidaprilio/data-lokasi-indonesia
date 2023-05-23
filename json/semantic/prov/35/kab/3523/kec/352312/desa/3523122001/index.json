@@ -1,0 +1,17 @@
+{
+    "code": "3523122001",
+    "name": "Karangasem",
+    "poscode": "62352",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3523",
+        "name": "Tuban"
+    },
+    "kecamatan": {
+        "code": "352312",
+        "name": "Jenu"
+    }
+}

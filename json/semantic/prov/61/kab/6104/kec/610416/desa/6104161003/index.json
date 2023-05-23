@@ -1,0 +1,17 @@
+{
+    "code": "6104161003",
+    "name": "Mulia Baru",
+    "poscode": "78813",
+    "provinsi": {
+        "code": "61",
+        "name": "Kalimantan Barat"
+    },
+    "kabupaten": {
+        "code": "6104",
+        "name": "Ketapang"
+    },
+    "kecamatan": {
+        "code": "610416",
+        "name": "Delta Pawan"
+    }
+}

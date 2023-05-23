@@ -1,0 +1,17 @@
+{
+    "code": "3511092004",
+    "name": "Jumpong",
+    "poscode": "68282",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3511",
+        "name": "Bondowoso"
+    },
+    "kecamatan": {
+        "code": "351109",
+        "name": "Wonosari"
+    }
+}

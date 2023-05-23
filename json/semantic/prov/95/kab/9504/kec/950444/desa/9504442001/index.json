@@ -1,0 +1,17 @@
+{
+    "code": "9504442001",
+    "name": "Bogonuk",
+    "poscode": "99042",
+    "provinsi": {
+        "code": "95",
+        "name": "Papua Pegunungan"
+    },
+    "kabupaten": {
+        "code": "9504",
+        "name": "Tolikara"
+    },
+    "kecamatan": {
+        "code": "950444",
+        "name": "Bogonuk"
+    }
+}

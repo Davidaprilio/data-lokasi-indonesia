@@ -1,0 +1,17 @@
+{
+    "code": "3515132003",
+    "name": "Kedungturi",
+    "poscode": "61257",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3515",
+        "name": "Sidoarjo"
+    },
+    "kecamatan": {
+        "code": "351513",
+        "name": "Taman"
+    }
+}

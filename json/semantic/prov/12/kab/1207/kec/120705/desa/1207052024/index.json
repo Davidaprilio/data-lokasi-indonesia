@@ -1,0 +1,17 @@
+{
+    "code": "1207052024",
+    "name": "Baru (Desa Baru)",
+    "poscode": "20353",
+    "provinsi": {
+        "code": "12",
+        "name": "Sumatera Utara"
+    },
+    "kabupaten": {
+        "code": "1207",
+        "name": "Deli Serdang"
+    },
+    "kecamatan": {
+        "code": "120705",
+        "name": "Pancur Batu"
+    }
+}

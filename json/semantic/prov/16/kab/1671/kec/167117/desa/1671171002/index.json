@@ -1,0 +1,17 @@
+{
+    "code": "1671171002",
+    "name": "9-10 Ulu",
+    "poscode": "30251",
+    "provinsi": {
+        "code": "16",
+        "name": "Sumatera Selatan"
+    },
+    "kabupaten": {
+        "code": "1671",
+        "name": "Palembang"
+    },
+    "kecamatan": {
+        "code": "167117",
+        "name": "Jakabaring"
+    }
+}

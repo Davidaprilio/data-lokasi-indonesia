@@ -1,0 +1,17 @@
+{
+    "code": "1216102008",
+    "name": "Mungkur",
+    "poscode": "22451",
+    "provinsi": {
+        "code": "12",
+        "name": "Sumatera Utara"
+    },
+    "kabupaten": {
+        "code": "1216",
+        "name": "Humbang Hasundutan"
+    },
+    "kecamatan": {
+        "code": "121610",
+        "name": "Tarabintang (Tara Bintang)"
+    }
+}

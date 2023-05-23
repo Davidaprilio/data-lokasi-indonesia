@@ -1,0 +1,17 @@
+{
+    "code": "5305132002",
+    "name": "Purnama",
+    "poscode": "85874",
+    "provinsi": {
+        "code": "53",
+        "name": "Nusa Tenggara Timur (NTT)"
+    },
+    "kabupaten": {
+        "code": "5305",
+        "name": "Alor"
+    },
+    "kecamatan": {
+        "code": "530513",
+        "name": "Pureman"
+    }
+}

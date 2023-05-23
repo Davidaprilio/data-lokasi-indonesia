@@ -1,0 +1,17 @@
+{
+    "code": "3578121004",
+    "name": "Perak Timur",
+    "poscode": "60164",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3578",
+        "name": "Surabaya"
+    },
+    "kecamatan": {
+        "code": "357812",
+        "name": "Pabean Cantian (Pabean Cantikan)"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "7172041004",
+    "name": "Winenet Satu (I)",
+    "poscode": "95525",
+    "provinsi": {
+        "code": "71",
+        "name": "Sulawesi Utara"
+    },
+    "kabupaten": {
+        "code": "7172",
+        "name": "Bitung"
+    },
+    "kecamatan": {
+        "code": "717204",
+        "name": "Aertembaga (Bitung Timur)"
+    }
+}

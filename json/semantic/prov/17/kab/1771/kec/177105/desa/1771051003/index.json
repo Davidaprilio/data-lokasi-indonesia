@@ -1,0 +1,17 @@
+{
+    "code": "1771051003",
+    "name": "Teluk Sepang",
+    "poscode": "38215",
+    "provinsi": {
+        "code": "17",
+        "name": "Bengkulu"
+    },
+    "kabupaten": {
+        "code": "1771",
+        "name": "Bengkulu"
+    },
+    "kecamatan": {
+        "code": "177105",
+        "name": "Kampung Melayu"
+    }
+}

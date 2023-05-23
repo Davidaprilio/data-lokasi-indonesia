@@ -1,0 +1,17 @@
+{
+    "code": "7203081025",
+    "name": "Tanjung Batu",
+    "poscode": "94351",
+    "provinsi": {
+        "code": "72",
+        "name": "Sulawesi Tengah"
+    },
+    "kabupaten": {
+        "code": "7203",
+        "name": "Donggala"
+    },
+    "kecamatan": {
+        "code": "720308",
+        "name": "Banawa"
+    }
+}

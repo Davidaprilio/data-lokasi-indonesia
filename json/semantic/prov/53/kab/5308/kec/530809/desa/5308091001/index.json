@@ -1,0 +1,17 @@
+{
+    "code": "5308091001",
+    "name": "Wolojita",
+    "poscode": "86382",
+    "provinsi": {
+        "code": "53",
+        "name": "Nusa Tenggara Timur (NTT)"
+    },
+    "kabupaten": {
+        "code": "5308",
+        "name": "Ende"
+    },
+    "kecamatan": {
+        "code": "530809",
+        "name": "Wolojita"
+    }
+}

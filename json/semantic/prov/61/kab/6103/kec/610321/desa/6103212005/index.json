@@ -1,0 +1,17 @@
+{
+    "code": "6103212005",
+    "name": "Suruh Tembawang",
+    "poscode": "78557",
+    "provinsi": {
+        "code": "61",
+        "name": "Kalimantan Barat"
+    },
+    "kabupaten": {
+        "code": "6103",
+        "name": "Sanggau"
+    },
+    "kecamatan": {
+        "code": "610321",
+        "name": "Entikong"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "6411022001",
+    "name": "Long Hubung",
+    "poscode": "75770",
+    "provinsi": {
+        "code": "64",
+        "name": "Kalimantan Timur"
+    },
+    "kabupaten": {
+        "code": "6411",
+        "name": "Mahakam Ulu"
+    },
+    "kecamatan": {
+        "code": "641102",
+        "name": "Long Hubung"
+    }
+}

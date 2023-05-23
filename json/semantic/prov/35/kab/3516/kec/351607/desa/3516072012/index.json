@@ -1,0 +1,17 @@
+{
+    "code": "3516072012",
+    "name": "Sawo",
+    "poscode": "61383",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3516",
+        "name": "Mojokerto"
+    },
+    "kecamatan": {
+        "code": "351607",
+        "name": "Kutorejo"
+    }
+}

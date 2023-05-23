@@ -1,0 +1,17 @@
+{
+    "code": "5304221001",
+    "name": "Manuaman",
+    "poscode": "85718",
+    "provinsi": {
+        "code": "53",
+        "name": "Nusa Tenggara Timur (NTT)"
+    },
+    "kabupaten": {
+        "code": "5304",
+        "name": "Belu"
+    },
+    "kecamatan": {
+        "code": "530422",
+        "name": "Atambua Selatan"
+    }
+}

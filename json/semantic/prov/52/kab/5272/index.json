@@ -1,0 +1,10 @@
+{
+    "code": "5272",
+    "type": "Kota",
+    "name": "Bima",
+    "fullname": "Kota Bima",
+    "jumlah": {
+        "kecamatan": 5,
+        "desa": 41
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "3510102007",
+    "name": "Margomulyo",
+    "poscode": "68466",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3510",
+        "name": "Banyuwangi"
+    },
+    "kecamatan": {
+        "code": "351010",
+        "name": "Glenmore"
+    }
+}

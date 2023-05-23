@@ -1,0 +1,17 @@
+{
+    "code": "7503152009",
+    "name": "Tinelo Ayula",
+    "poscode": "96541",
+    "provinsi": {
+        "code": "75",
+        "name": "Gorontalo"
+    },
+    "kabupaten": {
+        "code": "7503",
+        "name": "Bone Bolango"
+    },
+    "kecamatan": {
+        "code": "750315",
+        "name": "Bulango Selatan"
+    }
+}

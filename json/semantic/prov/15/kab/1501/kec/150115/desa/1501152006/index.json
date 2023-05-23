@@ -1,0 +1,17 @@
+{
+    "code": "1501152006",
+    "name": "Bengkolan Duo (Bengkolan Dua)",
+    "poscode": "37163",
+    "provinsi": {
+        "code": "15",
+        "name": "Jambi"
+    },
+    "kabupaten": {
+        "code": "1501",
+        "name": "Kerinci"
+    },
+    "kecamatan": {
+        "code": "150115",
+        "name": "Gunung Tujuh"
+    }
+}

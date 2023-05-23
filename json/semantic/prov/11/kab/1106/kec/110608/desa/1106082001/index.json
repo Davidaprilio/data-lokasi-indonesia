@@ -1,0 +1,17 @@
+{
+    "code": "1106082001",
+    "name": "Lambadeuk",
+    "poscode": "23351",
+    "provinsi": {
+        "code": "11",
+        "name": "Aceh (NAD)"
+    },
+    "kabupaten": {
+        "code": "1106",
+        "name": "Aceh Besar"
+    },
+    "kecamatan": {
+        "code": "110608",
+        "name": "Peukan Bada"
+    }
+}

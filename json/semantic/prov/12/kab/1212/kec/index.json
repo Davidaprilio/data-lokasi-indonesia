@@ -1,0 +1,114 @@
+[
+    {
+        "code": "121208",
+        "name": "Ajibata",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "121201",
+        "name": "Balige",
+        "count": {
+            "desa": 35
+        }
+    },
+    {
+        "code": "121223",
+        "name": "Bonatua Lunasi",
+        "count": {
+            "desa": 12
+        }
+    },
+    {
+        "code": "121206",
+        "name": "Borbor",
+        "count": {
+            "desa": 15
+        }
+    },
+    {
+        "code": "121204",
+        "name": "Habinsaran",
+        "count": {
+            "desa": 22
+        }
+    },
+    {
+        "code": "121202",
+        "name": "Laguboti",
+        "count": {
+            "desa": 23
+        }
+    },
+    {
+        "code": "121209",
+        "name": "Lumban Julu",
+        "count": {
+            "desa": 12
+        }
+    },
+    {
+        "code": "121221",
+        "name": "Nassau",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "121224",
+        "name": "Parmaksian",
+        "count": {
+            "desa": 11
+        }
+    },
+    {
+        "code": "121205",
+        "name": "Pintu Pohan Meranti",
+        "count": {
+            "desa": 7
+        }
+    },
+    {
+        "code": "121207",
+        "name": "Porsea",
+        "count": {
+            "desa": 17
+        }
+    },
+    {
+        "code": "121220",
+        "name": "Siantar Narumonda",
+        "count": {
+            "desa": 14
+        }
+    },
+    {
+        "code": "121219",
+        "name": "Sigumpar",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "121203",
+        "name": "Silaen",
+        "count": {
+            "desa": 23
+        }
+    },
+    {
+        "code": "121222",
+        "name": "Tampahan",
+        "count": {
+            "desa": 6
+        }
+    },
+    {
+        "code": "121210",
+        "name": "Uluan",
+        "count": {
+            "desa": 17
+        }
+    }
+]

@@ -1,0 +1,17 @@
+{
+    "code": "3604172007",
+    "name": "Walikukun",
+    "poscode": "42195",
+    "provinsi": {
+        "code": "36",
+        "name": "Banten"
+    },
+    "kabupaten": {
+        "code": "3604",
+        "name": "Serang"
+    },
+    "kecamatan": {
+        "code": "360417",
+        "name": "Carenang (Cerenang)"
+    }
+}

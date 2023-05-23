@@ -1,0 +1,17 @@
+{
+    "code": "7305092009",
+    "name": "Pa'lalakkang",
+    "poscode": "92255",
+    "provinsi": {
+        "code": "73",
+        "name": "Sulawesi Selatan"
+    },
+    "kabupaten": {
+        "code": "7305",
+        "name": "Takalar"
+    },
+    "kecamatan": {
+        "code": "730509",
+        "name": "Galesong"
+    }
+}

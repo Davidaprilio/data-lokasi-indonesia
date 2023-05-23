@@ -1,0 +1,17 @@
+{
+    "code": "7104082005",
+    "name": "Arangkaa",
+    "poscode": "95888",
+    "provinsi": {
+        "code": "71",
+        "name": "Sulawesi Utara"
+    },
+    "kabupaten": {
+        "code": "7104",
+        "name": "Kepulauan Talaud"
+    },
+    "kecamatan": {
+        "code": "710408",
+        "name": "Gemeh"
+    }
+}

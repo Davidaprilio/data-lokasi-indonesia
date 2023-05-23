@@ -1,0 +1,17 @@
+{
+    "code": "3208082003",
+    "name": "Pakembangan",
+    "poscode": "45572",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3208",
+        "name": "Kuningan"
+    },
+    "kecamatan": {
+        "code": "320808",
+        "name": "Garawangi"
+    }
+}

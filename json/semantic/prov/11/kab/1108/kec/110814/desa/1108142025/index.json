@@ -1,0 +1,17 @@
+{
+    "code": "1108142025",
+    "name": "Buket Padang (Bukit Padang)",
+    "poscode": "24395",
+    "provinsi": {
+        "code": "11",
+        "name": "Aceh (NAD)"
+    },
+    "kabupaten": {
+        "code": "1108",
+        "name": "Aceh Utara"
+    },
+    "kecamatan": {
+        "code": "110814",
+        "name": "Tanah Jambo Aye"
+    }
+}

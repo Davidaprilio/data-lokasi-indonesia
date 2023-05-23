@@ -1,0 +1,17 @@
+{
+    "code": "3671061007",
+    "name": "Sudimara Selatan",
+    "poscode": "15151",
+    "provinsi": {
+        "code": "36",
+        "name": "Banten"
+    },
+    "kabupaten": {
+        "code": "3671",
+        "name": "Tangerang"
+    },
+    "kecamatan": {
+        "code": "367106",
+        "name": "Ciledug"
+    }
+}

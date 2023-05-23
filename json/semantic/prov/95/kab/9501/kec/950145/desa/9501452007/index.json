@@ -1,0 +1,17 @@
+{
+    "code": "9501452007",
+    "name": "Zinai",
+    "poscode": "99553",
+    "provinsi": {
+        "code": "95",
+        "name": "Papua Pegunungan"
+    },
+    "kabupaten": {
+        "code": "9501",
+        "name": "Jayawijaya"
+    },
+    "kecamatan": {
+        "code": "950145",
+        "name": "Ibele"
+    }
+}

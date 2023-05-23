@@ -1,0 +1,17 @@
+{
+    "code": "3213102005",
+    "name": "Pusakaratu",
+    "poscode": "41265",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3213",
+        "name": "Subang"
+    },
+    "kecamatan": {
+        "code": "321310",
+        "name": "Pusakanagara"
+    }
+}

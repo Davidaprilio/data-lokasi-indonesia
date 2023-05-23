@@ -1,0 +1,17 @@
+{
+    "code": "1277041001",
+    "name": "Hutaimbaru",
+    "poscode": "22701",
+    "provinsi": {
+        "code": "12",
+        "name": "Sumatera Utara"
+    },
+    "kabupaten": {
+        "code": "1277",
+        "name": "Padangsidimpuan"
+    },
+    "kecamatan": {
+        "code": "127704",
+        "name": "Padangsidimpuan Hutaimbaru"
+    }
+}

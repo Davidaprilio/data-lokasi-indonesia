@@ -1,0 +1,47 @@
+[
+    {
+        "code": "3310251001",
+        "name": "Bareng",
+        "poscode": "57414"
+    },
+    {
+        "code": "3310251006",
+        "name": "Buntalan",
+        "poscode": "57419"
+    },
+    {
+        "code": "3310252009",
+        "name": "Gumulan",
+        "poscode": "57417"
+    },
+    {
+        "code": "3310252007",
+        "name": "Jomboran",
+        "poscode": "57418"
+    },
+    {
+        "code": "3310251002",
+        "name": "Kabupaten",
+        "poscode": "57413"
+    },
+    {
+        "code": "3310251003",
+        "name": "Klaten",
+        "poscode": "57411"
+    },
+    {
+        "code": "3310251008",
+        "name": "Mojayan",
+        "poscode": "57416"
+    },
+    {
+        "code": "3310252005",
+        "name": "Semangkak",
+        "poscode": "57415"
+    },
+    {
+        "code": "3310251004",
+        "name": "Tonggalan",
+        "poscode": "57412"
+    }
+]

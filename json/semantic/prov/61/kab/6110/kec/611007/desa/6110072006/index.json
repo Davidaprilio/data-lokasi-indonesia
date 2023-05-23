@@ -1,0 +1,17 @@
+{
+    "code": "6110072006",
+    "name": "Gelata",
+    "poscode": "79675",
+    "provinsi": {
+        "code": "61",
+        "name": "Kalimantan Barat"
+    },
+    "kabupaten": {
+        "code": "6110",
+        "name": "Melawi"
+    },
+    "kecamatan": {
+        "code": "611007",
+        "name": "Sokan"
+    }
+}

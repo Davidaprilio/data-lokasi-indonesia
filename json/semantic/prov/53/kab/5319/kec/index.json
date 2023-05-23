@@ -1,0 +1,65 @@
+[
+    {
+        "code": "531901",
+        "name": "Borong",
+        "count": {
+            "desa": 18
+        }
+    },
+    {
+        "code": "531905",
+        "name": "Elar",
+        "count": {
+            "desa": 15
+        }
+    },
+    {
+        "code": "531909",
+        "name": "Elar Selatan",
+        "count": {
+            "desa": 14
+        }
+    },
+    {
+        "code": "531906",
+        "name": "Kota Komba",
+        "count": {
+            "desa": 22
+        }
+    },
+    {
+        "code": "531903",
+        "name": "Lamba Leda",
+        "count": {
+            "desa": 24
+        }
+    },
+    {
+        "code": "531902",
+        "name": "Poco Ranaka",
+        "count": {
+            "desa": 24
+        }
+    },
+    {
+        "code": "531908",
+        "name": "Poco Ranaka Timur",
+        "count": {
+            "desa": 18
+        }
+    },
+    {
+        "code": "531907",
+        "name": "Rana Mese",
+        "count": {
+            "desa": 21
+        }
+    },
+    {
+        "code": "531904",
+        "name": "Sambi Rampas",
+        "count": {
+            "desa": 20
+        }
+    }
+]

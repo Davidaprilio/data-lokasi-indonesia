@@ -1,0 +1,17 @@
+{
+    "code": "1213202011",
+    "name": "Huta Baringin",
+    "poscode": "22995",
+    "provinsi": {
+        "code": "12",
+        "name": "Sumatera Utara"
+    },
+    "kabupaten": {
+        "code": "1213",
+        "name": "Mandailing Natal"
+    },
+    "kecamatan": {
+        "code": "121320",
+        "name": "Puncak Sorik Marapi"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "7212062001",
+    "name": "Era",
+    "poscode": "94964",
+    "provinsi": {
+        "code": "72",
+        "name": "Sulawesi Tengah"
+    },
+    "kabupaten": {
+        "code": "7212",
+        "name": "Morowali Utara"
+    },
+    "kecamatan": {
+        "code": "721206",
+        "name": "Mori Utara"
+    }
+}

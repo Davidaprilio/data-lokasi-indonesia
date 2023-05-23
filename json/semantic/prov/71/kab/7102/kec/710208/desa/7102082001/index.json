@@ -1,0 +1,17 @@
+{
+    "code": "7102082001",
+    "name": "Kasuratan",
+    "poscode": "95681",
+    "provinsi": {
+        "code": "71",
+        "name": "Sulawesi Utara"
+    },
+    "kabupaten": {
+        "code": "7102",
+        "name": "Minahasa"
+    },
+    "kecamatan": {
+        "code": "710208",
+        "name": "Remboken"
+    }
+}

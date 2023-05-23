@@ -1,0 +1,10 @@
+{
+    "code": "1401",
+    "type": "Kabupaten",
+    "name": "Kampar",
+    "fullname": "Kabupaten Kampar",
+    "jumlah": {
+        "kecamatan": 21,
+        "desa": 250
+    }
+}

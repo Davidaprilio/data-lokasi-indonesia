@@ -1,0 +1,17 @@
+{
+    "code": "1202022008",
+    "name": "Sangkaran",
+    "poscode": "22418",
+    "provinsi": {
+        "code": "12",
+        "name": "Sumatera Utara"
+    },
+    "kabupaten": {
+        "code": "1202",
+        "name": "Tapanuli Utara"
+    },
+    "kecamatan": {
+        "code": "120202",
+        "name": "Siatas Barita"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "7102211004",
+    "name": "Uner",
+    "poscode": "95699",
+    "provinsi": {
+        "code": "71",
+        "name": "Sulawesi Utara"
+    },
+    "kabupaten": {
+        "code": "7102",
+        "name": "Minahasa"
+    },
+    "kecamatan": {
+        "code": "710221",
+        "name": "Kawangkoan Utara"
+    }
+}

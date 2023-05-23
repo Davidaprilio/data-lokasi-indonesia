@@ -1,0 +1,17 @@
+{
+    "code": "3212102017",
+    "name": "Mundu",
+    "poscode": "45283",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3212",
+        "name": "Indramayu"
+    },
+    "kecamatan": {
+        "code": "321210",
+        "name": "Karangampel"
+    }
+}

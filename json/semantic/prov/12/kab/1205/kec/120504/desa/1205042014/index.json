@@ -1,0 +1,17 @@
+{
+    "code": "1205042014",
+    "name": "Pekan Sawah",
+    "poscode": "20771",
+    "provinsi": {
+        "code": "12",
+        "name": "Sumatera Utara"
+    },
+    "kabupaten": {
+        "code": "1205",
+        "name": "Langkat"
+    },
+    "kecamatan": {
+        "code": "120504",
+        "name": "Sei Bingei (Sei Binge / Bingai)"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "3309052005",
+    "name": "Winong",
+    "poscode": "57315",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3309",
+        "name": "Boyolali"
+    },
+    "kecamatan": {
+        "code": "330905",
+        "name": "Boyolali"
+    }
+}

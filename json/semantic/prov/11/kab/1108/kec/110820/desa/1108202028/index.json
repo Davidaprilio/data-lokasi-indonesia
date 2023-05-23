@@ -1,0 +1,17 @@
+{
+    "code": "1108202028",
+    "name": "Mampree (Gampong Mampree)",
+    "poscode": "24383",
+    "provinsi": {
+        "code": "11",
+        "name": "Aceh (NAD)"
+    },
+    "kabupaten": {
+        "code": "1108",
+        "name": "Aceh Utara"
+    },
+    "kecamatan": {
+        "code": "110820",
+        "name": "Paya Bakong"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "code": "9271",
+    "type": "Kota",
+    "name": "Sorong",
+    "fullname": "Kota Sorong",
+    "jumlah": {
+        "kecamatan": 10,
+        "desa": 41
+    }
+}

@@ -1,0 +1,163 @@
+[
+    {
+        "code": "121315",
+        "name": "Batahan",
+        "count": {
+            "desa": 18
+        }
+    },
+    {
+        "code": "121313",
+        "name": "Batang Natal",
+        "count": {
+            "desa": 31
+        }
+    },
+    {
+        "code": "121307",
+        "name": "Bukit Malintang",
+        "count": {
+            "desa": 11
+        }
+    },
+    {
+        "code": "121319",
+        "name": "Huta Bargot",
+        "count": {
+            "desa": 12
+        }
+    },
+    {
+        "code": "121308",
+        "name": "Kotanopan",
+        "count": {
+            "desa": 37
+        }
+    },
+    {
+        "code": "121309",
+        "name": "Lembah Sorik Marapi",
+        "count": {
+            "desa": 9
+        }
+    },
+    {
+        "code": "121314",
+        "name": "Lingga Bayu",
+        "count": {
+            "desa": 20
+        }
+    },
+    {
+        "code": "121317",
+        "name": "Muara Batang Gadis",
+        "count": {
+            "desa": 14
+        }
+    },
+    {
+        "code": "121312",
+        "name": "Muara Sipongi",
+        "count": {
+            "desa": 16
+        }
+    },
+    {
+        "code": "121323",
+        "name": "Naga Juang",
+        "count": {
+            "desa": 7
+        }
+    },
+    {
+        "code": "121316",
+        "name": "Natal",
+        "count": {
+            "desa": 30
+        }
+    },
+    {
+        "code": "121321",
+        "name": "Pakantan",
+        "count": {
+            "desa": 8
+        }
+    },
+    {
+        "code": "121301",
+        "name": "Panyabungan",
+        "count": {
+            "desa": 39
+        }
+    },
+    {
+        "code": "121305",
+        "name": "Panyabungan Barat",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "121304",
+        "name": "Panyabungan Selatan",
+        "count": {
+            "desa": 11
+        }
+    },
+    {
+        "code": "121303",
+        "name": "Panyabungan Timur",
+        "count": {
+            "desa": 15
+        }
+    },
+    {
+        "code": "121302",
+        "name": "Panyabungan Utara",
+        "count": {
+            "desa": 14
+        }
+    },
+    {
+        "code": "121320",
+        "name": "Puncak Sorik Marapi",
+        "count": {
+            "desa": 11
+        }
+    },
+    {
+        "code": "121318",
+        "name": "Ranto Baek",
+        "count": {
+            "desa": 17
+        }
+    },
+    {
+        "code": "121306",
+        "name": "Siabu",
+        "count": {
+            "desa": 28
+        }
+    },
+    {
+        "code": "121322",
+        "name": "Sinunukan",
+        "count": {
+            "desa": 14
+        }
+    },
+    {
+        "code": "121310",
+        "name": "Tambangan",
+        "count": {
+            "desa": 20
+        }
+    },
+    {
+        "code": "121311",
+        "name": "Ulu Pungkut",
+        "count": {
+            "desa": 12
+        }
+    }
+]

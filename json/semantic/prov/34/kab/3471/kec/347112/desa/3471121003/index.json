@@ -1,0 +1,17 @@
+{
+    "code": "3471121003",
+    "name": "Brontokusuman",
+    "poscode": "55153",
+    "provinsi": {
+        "code": "34",
+        "name": "DI Yogyakarta"
+    },
+    "kabupaten": {
+        "code": "3471",
+        "name": "Yogyakarta"
+    },
+    "kecamatan": {
+        "code": "347112",
+        "name": "Mergangsan"
+    }
+}

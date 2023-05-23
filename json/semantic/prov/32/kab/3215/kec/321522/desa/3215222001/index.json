@@ -1,0 +1,17 @@
+{
+    "code": "3215222001",
+    "name": "Jayamakmur",
+    "poscode": "41351",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3215",
+        "name": "Karawang"
+    },
+    "kecamatan": {
+        "code": "321522",
+        "name": "Jayakerta"
+    }
+}

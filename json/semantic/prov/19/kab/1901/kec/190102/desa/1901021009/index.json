@@ -1,0 +1,17 @@
+{
+    "code": "1901021009",
+    "name": "Remodong Indah",
+    "poscode": "33253",
+    "provinsi": {
+        "code": "19",
+        "name": "Kepulauan Bangka Belitung"
+    },
+    "kabupaten": {
+        "code": "1901",
+        "name": "Bangka"
+    },
+    "kecamatan": {
+        "code": "190102",
+        "name": "Belinyu"
+    }
+}

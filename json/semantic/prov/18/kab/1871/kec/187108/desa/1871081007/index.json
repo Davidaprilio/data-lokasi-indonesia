@@ -1,0 +1,17 @@
+{
+    "code": "1871081007",
+    "name": "Negeri Olok Gading",
+    "poscode": "35233",
+    "provinsi": {
+        "code": "18",
+        "name": "Lampung"
+    },
+    "kabupaten": {
+        "code": "1871",
+        "name": "Bandar Lampung"
+    },
+    "kecamatan": {
+        "code": "187108",
+        "name": "Telukbetung Barat"
+    }
+}

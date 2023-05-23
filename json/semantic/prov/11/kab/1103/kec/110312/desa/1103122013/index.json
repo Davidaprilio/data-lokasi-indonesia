@@ -1,0 +1,17 @@
+{
+    "code": "1103122013",
+    "name": "Paya Deumam/Demam Peut",
+    "poscode": "24462",
+    "provinsi": {
+        "code": "11",
+        "name": "Aceh (NAD)"
+    },
+    "kabupaten": {
+        "code": "1103",
+        "name": "Aceh Timur"
+    },
+    "kecamatan": {
+        "code": "110312",
+        "name": "Madat"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "5310182003",
+    "name": "Gulung",
+    "poscode": "86562",
+    "provinsi": {
+        "code": "53",
+        "name": "Nusa Tenggara Timur (NTT)"
+    },
+    "kabupaten": {
+        "code": "5310",
+        "name": "Manggarai"
+    },
+    "kecamatan": {
+        "code": "531018",
+        "name": "Satar Mese Utara"
+    }
+}

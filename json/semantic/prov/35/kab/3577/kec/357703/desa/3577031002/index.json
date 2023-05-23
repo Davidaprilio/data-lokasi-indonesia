@@ -1,0 +1,17 @@
+{
+    "code": "3577031002",
+    "name": "Pandean",
+    "poscode": "63133",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3577",
+        "name": "Madiun"
+    },
+    "kecamatan": {
+        "code": "357703",
+        "name": "Taman"
+    }
+}

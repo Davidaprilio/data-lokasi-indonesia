@@ -1,0 +1,17 @@
+{
+    "code": "3329142012",
+    "name": "Kluwut",
+    "poscode": "52253",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3329",
+        "name": "Brebes"
+    },
+    "kecamatan": {
+        "code": "332914",
+        "name": "Bulakamba"
+    }
+}

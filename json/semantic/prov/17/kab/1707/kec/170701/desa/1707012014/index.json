@@ -1,0 +1,17 @@
+{
+    "code": "1707012014",
+    "name": "Nangai Amen",
+    "poscode": "39259",
+    "provinsi": {
+        "code": "17",
+        "name": "Bengkulu"
+    },
+    "kabupaten": {
+        "code": "1707",
+        "name": "Lebong"
+    },
+    "kecamatan": {
+        "code": "170701",
+        "name": "Lebong Utara"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "1309072003",
+    "name": "Saliguma",
+    "poscode": "25396",
+    "provinsi": {
+        "code": "13",
+        "name": "Sumatera Barat"
+    },
+    "kabupaten": {
+        "code": "1309",
+        "name": "Kepulauan Mentawai"
+    },
+    "kecamatan": {
+        "code": "130907",
+        "name": "Siberut Tengah"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "7502032001",
+    "name": "Dulupi",
+    "poscode": "96267",
+    "provinsi": {
+        "code": "75",
+        "name": "Gorontalo"
+    },
+    "kabupaten": {
+        "code": "7502",
+        "name": "Boalemo"
+    },
+    "kecamatan": {
+        "code": "750203",
+        "name": "Dulupi"
+    }
+}

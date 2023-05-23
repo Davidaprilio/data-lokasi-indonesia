@@ -1,0 +1,17 @@
+{
+    "code": "1408052003",
+    "name": "Sungai Selodang (Sungai Lodang)",
+    "poscode": "28674",
+    "provinsi": {
+        "code": "14",
+        "name": "Riau"
+    },
+    "kabupaten": {
+        "code": "1408",
+        "name": "Siak"
+    },
+    "kecamatan": {
+        "code": "140805",
+        "name": "Sungai Mandau"
+    }
+}

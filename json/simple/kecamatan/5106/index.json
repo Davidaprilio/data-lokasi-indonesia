@@ -1,0 +1,30 @@
+[
+    {
+        "code": "510602",
+        "name": "Bangli",
+        "count": {
+            "desa": 9
+        }
+    },
+    {
+        "code": "510604",
+        "name": "Kintamani",
+        "count": {
+            "desa": 48
+        }
+    },
+    {
+        "code": "510601",
+        "name": "Susut",
+        "count": {
+            "desa": 9
+        }
+    },
+    {
+        "code": "510603",
+        "name": "Tembuku",
+        "count": {
+            "desa": 6
+        }
+    }
+]

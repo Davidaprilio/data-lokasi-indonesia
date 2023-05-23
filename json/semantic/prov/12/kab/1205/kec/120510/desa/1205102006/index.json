@@ -1,0 +1,17 @@
+{
+    "code": "1205102006",
+    "name": "Hinai Kanan",
+    "poscode": "20854",
+    "provinsi": {
+        "code": "12",
+        "name": "Sumatera Utara"
+    },
+    "kabupaten": {
+        "code": "1205",
+        "name": "Langkat"
+    },
+    "kecamatan": {
+        "code": "120510",
+        "name": "Hinai"
+    }
+}

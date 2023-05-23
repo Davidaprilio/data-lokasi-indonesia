@@ -1,0 +1,17 @@
+{
+    "code": "7103152005",
+    "name": "Palareng",
+    "poscode": "95858",
+    "provinsi": {
+        "code": "71",
+        "name": "Sulawesi Utara"
+    },
+    "kabupaten": {
+        "code": "7103",
+        "name": "Kepulauan Sangihe"
+    },
+    "kecamatan": {
+        "code": "710315",
+        "name": "Tabukan Selatan"
+    }
+}

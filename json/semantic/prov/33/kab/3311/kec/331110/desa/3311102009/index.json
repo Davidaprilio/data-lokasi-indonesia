@@ -1,0 +1,17 @@
+{
+    "code": "3311102009",
+    "name": "Menuran",
+    "poscode": "57556",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3311",
+        "name": "Sukoharjo"
+    },
+    "kecamatan": {
+        "code": "331110",
+        "name": "Baki"
+    }
+}

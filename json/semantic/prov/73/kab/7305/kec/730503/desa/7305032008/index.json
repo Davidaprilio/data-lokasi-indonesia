@@ -1,0 +1,17 @@
+{
+    "code": "7305032008",
+    "name": "Lantang",
+    "poscode": "92252",
+    "provinsi": {
+        "code": "73",
+        "name": "Sulawesi Selatan"
+    },
+    "kabupaten": {
+        "code": "7305",
+        "name": "Takalar"
+    },
+    "kecamatan": {
+        "code": "730503",
+        "name": "Polombangkeng Selatan (Polobangkeng)"
+    }
+}

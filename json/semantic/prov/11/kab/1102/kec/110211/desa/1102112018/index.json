@@ -1,0 +1,17 @@
+{
+    "code": "1102112018",
+    "name": "Alur Baning",
+    "poscode": "24675",
+    "provinsi": {
+        "code": "11",
+        "name": "Aceh (NAD)"
+    },
+    "kabupaten": {
+        "code": "1102",
+        "name": "Aceh Tenggara"
+    },
+    "kecamatan": {
+        "code": "110211",
+        "name": "Babul Rahmah"
+    }
+}

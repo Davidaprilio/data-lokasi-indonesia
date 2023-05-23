@@ -1,0 +1,17 @@
+{
+    "code": "8172042001",
+    "name": "Tubyal",
+    "poscode": "97615",
+    "provinsi": {
+        "code": "81",
+        "name": "Maluku"
+    },
+    "kabupaten": {
+        "code": "8172",
+        "name": "Tual"
+    },
+    "kecamatan": {
+        "code": "817204",
+        "name": "Pulau-Pulau Kur"
+    }
+}

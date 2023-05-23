@@ -1,0 +1,17 @@
+{
+    "code": "6106072012",
+    "name": "Penepian Raya",
+    "poscode": "78763",
+    "provinsi": {
+        "code": "61",
+        "name": "Kalimantan Barat"
+    },
+    "kabupaten": {
+        "code": "6106",
+        "name": "Kapuas Hulu"
+    },
+    "kecamatan": {
+        "code": "610607",
+        "name": "Jongkong (Jengkong)"
+    }
+}

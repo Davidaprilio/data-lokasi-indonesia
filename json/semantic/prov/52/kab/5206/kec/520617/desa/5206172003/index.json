@@ -1,0 +1,17 @@
+{
+    "code": "5206172003",
+    "name": "Sambori",
+    "poscode": "84181",
+    "provinsi": {
+        "code": "52",
+        "name": "Nusa Tenggara Barat (NTB)"
+    },
+    "kabupaten": {
+        "code": "5206",
+        "name": "Bima"
+    },
+    "kecamatan": {
+        "code": "520617",
+        "name": "Lambitu"
+    }
+}

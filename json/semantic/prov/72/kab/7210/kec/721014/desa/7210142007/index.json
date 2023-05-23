@@ -1,0 +1,17 @@
+{
+    "code": "7210142007",
+    "name": "Tinggede",
+    "poscode": "94372",
+    "provinsi": {
+        "code": "72",
+        "name": "Sulawesi Tengah"
+    },
+    "kabupaten": {
+        "code": "7210",
+        "name": "Sigi"
+    },
+    "kecamatan": {
+        "code": "721014",
+        "name": "Marawola"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "1803052007",
+    "name": "Surakarta",
+    "poscode": "34583",
+    "provinsi": {
+        "code": "18",
+        "name": "Lampung"
+    },
+    "kabupaten": {
+        "code": "1803",
+        "name": "Lampung Utara"
+    },
+    "kecamatan": {
+        "code": "180305",
+        "name": "Abung Timur"
+    }
+}

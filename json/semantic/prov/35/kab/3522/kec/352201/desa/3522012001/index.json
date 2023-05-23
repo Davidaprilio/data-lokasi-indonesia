@@ -1,0 +1,17 @@
+{
+    "code": "3522012001",
+    "name": "Luwihaji",
+    "poscode": "62165",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3522",
+        "name": "Bojonegoro"
+    },
+    "kecamatan": {
+        "code": "352201",
+        "name": "Ngraho"
+    }
+}

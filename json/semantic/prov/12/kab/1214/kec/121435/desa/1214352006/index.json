@@ -1,0 +1,17 @@
+{
+    "code": "1214352006",
+    "name": "Umbu Idanotae",
+    "poscode": "22878",
+    "provinsi": {
+        "code": "12",
+        "name": "Sumatera Utara"
+    },
+    "kabupaten": {
+        "code": "1214",
+        "name": "Nias Selatan"
+    },
+    "kecamatan": {
+        "code": "121435",
+        "name": "Idanotae"
+    }
+}

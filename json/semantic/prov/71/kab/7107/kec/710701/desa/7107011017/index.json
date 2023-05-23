@@ -1,0 +1,17 @@
+{
+    "code": "7107011017",
+    "name": "Nataan",
+    "poscode": "95994",
+    "provinsi": {
+        "code": "71",
+        "name": "Sulawesi Utara"
+    },
+    "kabupaten": {
+        "code": "7107",
+        "name": "Minahasa Tenggara"
+    },
+    "kecamatan": {
+        "code": "710701",
+        "name": "Ratahan"
+    }
+}

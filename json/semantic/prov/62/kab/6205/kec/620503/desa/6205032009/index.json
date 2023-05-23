@@ -1,0 +1,17 @@
+{
+    "code": "6205032009",
+    "name": "Berong",
+    "poscode": "73871",
+    "provinsi": {
+        "code": "62",
+        "name": "Kalimantan Tengah"
+    },
+    "kabupaten": {
+        "code": "6205",
+        "name": "Barito Utara"
+    },
+    "kecamatan": {
+        "code": "620503",
+        "name": "Gunung Purei"
+    }
+}

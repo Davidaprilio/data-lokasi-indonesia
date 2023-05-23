@@ -1,0 +1,17 @@
+{
+    "code": "3674021004",
+    "name": "Pondok Jagung",
+    "poscode": "15326",
+    "provinsi": {
+        "code": "36",
+        "name": "Banten"
+    },
+    "kabupaten": {
+        "code": "3674",
+        "name": "Tangerang Selatan"
+    },
+    "kecamatan": {
+        "code": "367402",
+        "name": "Serpong Utara"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "8204252006",
+    "name": "Tawabi",
+    "poscode": "97786",
+    "provinsi": {
+        "code": "82",
+        "name": "Maluku Utara"
+    },
+    "kabupaten": {
+        "code": "8204",
+        "name": "Halmahera Selatan"
+    },
+    "kecamatan": {
+        "code": "820425",
+        "name": "Kepulauan Joronga"
+    }
+}

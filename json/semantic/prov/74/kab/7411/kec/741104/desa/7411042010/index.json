@@ -1,0 +1,17 @@
+{
+    "code": "7411042010",
+    "name": "Hakambololi",
+    "poscode": "93579",
+    "provinsi": {
+        "code": "74",
+        "name": "Sulawesi Tenggara"
+    },
+    "kabupaten": {
+        "code": "7411",
+        "name": "Kolaka Timur"
+    },
+    "kecamatan": {
+        "code": "741104",
+        "name": "Poli Polia"
+    }
+}

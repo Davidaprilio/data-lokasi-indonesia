@@ -1,0 +1,17 @@
+{
+    "code": "1802232006",
+    "name": "Kota Gajah",
+    "poscode": "34153",
+    "provinsi": {
+        "code": "18",
+        "name": "Lampung"
+    },
+    "kabupaten": {
+        "code": "1802",
+        "name": "Lampung Tengah"
+    },
+    "kecamatan": {
+        "code": "180223",
+        "name": "Kota Gajah"
+    }
+}

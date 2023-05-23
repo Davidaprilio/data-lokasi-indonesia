@@ -1,0 +1,17 @@
+{
+    "code": "6309042009",
+    "name": "Mahe Seberang",
+    "poscode": "71515",
+    "provinsi": {
+        "code": "63",
+        "name": "Kalimantan Selatan"
+    },
+    "kabupaten": {
+        "code": "6309",
+        "name": "Tabalong"
+    },
+    "kecamatan": {
+        "code": "630904",
+        "name": "Tanjung"
+    }
+}

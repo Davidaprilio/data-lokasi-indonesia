@@ -1,0 +1,112 @@
+[
+    {
+        "code": "1810052010",
+        "name": "Bumi Ratu",
+        "poscode": "35375"
+    },
+    {
+        "code": "1810052032",
+        "name": "Bumi Rejo",
+        "poscode": "35375"
+    },
+    {
+        "code": "1810052001",
+        "name": "Candi Retno",
+        "poscode": "35375"
+    },
+    {
+        "code": "1810052031",
+        "name": "Ganjaran",
+        "poscode": "35375"
+    },
+    {
+        "code": "1810052020",
+        "name": "Gemah Ripah",
+        "poscode": "35375"
+    },
+    {
+        "code": "1810052009",
+        "name": "Gumuk Mas",
+        "poscode": "35375"
+    },
+    {
+        "code": "1810052024",
+        "name": "Gumukrejo (Gumuk Rejo)",
+        "poscode": "35375"
+    },
+    {
+        "code": "1810052008",
+        "name": "Karangsari",
+        "poscode": "35375"
+    },
+    {
+        "code": "1810052012",
+        "name": "Lugusari",
+        "poscode": "35375"
+    },
+    {
+        "code": "1810052028",
+        "name": "Padang Rejo",
+        "poscode": "35375"
+    },
+    {
+        "code": "1810052006",
+        "name": "Pagelaran",
+        "poscode": "35375"
+    },
+    {
+        "code": "1810052019",
+        "name": "Pamenang",
+        "poscode": "35375"
+    },
+    {
+        "code": "1810052011",
+        "name": "Panutan",
+        "poscode": "35375"
+    },
+    {
+        "code": "1810052023",
+        "name": "Pasir Ukir",
+        "poscode": "35375"
+    },
+    {
+        "code": "1810052007",
+        "name": "Patoman",
+        "poscode": "35375"
+    },
+    {
+        "code": "1810052027",
+        "name": "Puji Harjo",
+        "poscode": "35375"
+    },
+    {
+        "code": "1810052029",
+        "name": "Sidodadi",
+        "poscode": "35375"
+    },
+    {
+        "code": "1810052005",
+        "name": "Suka Ratu (Sukaratu)",
+        "poscode": "35375"
+    },
+    {
+        "code": "1810052004",
+        "name": "Suka Wangi (Sukawangi)",
+        "poscode": "35375"
+    },
+    {
+        "code": "1810052030",
+        "name": "Sumber Rejo",
+        "poscode": "35375"
+    },
+    {
+        "code": "1810052002",
+        "name": "Tanjung Dalam/Dalom",
+        "poscode": "35375"
+    },
+    {
+        "code": "1810052003",
+        "name": "Way Ngison (Way Ngisom)",
+        "poscode": "35375"
+    }
+]

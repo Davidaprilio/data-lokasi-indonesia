@@ -1,0 +1,17 @@
+{
+    "code": "3523132008",
+    "name": "Senori",
+    "poscode": "62365",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3523",
+        "name": "Tuban"
+    },
+    "kecamatan": {
+        "code": "352313",
+        "name": "Merakurak"
+    }
+}

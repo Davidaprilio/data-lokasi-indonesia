@@ -1,0 +1,17 @@
+{
+    "code": "7315102007",
+    "name": "Lerang",
+    "poscode": "91272",
+    "provinsi": {
+        "code": "73",
+        "name": "Sulawesi Selatan"
+    },
+    "kabupaten": {
+        "code": "7315",
+        "name": "Pinrang"
+    },
+    "kecamatan": {
+        "code": "731510",
+        "name": "Lansirang (Lanrisang)"
+    }
+}

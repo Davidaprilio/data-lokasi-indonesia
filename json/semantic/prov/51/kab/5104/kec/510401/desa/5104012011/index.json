@@ -1,0 +1,17 @@
+{
+    "code": "5104012011",
+    "name": "Singapadu Kaler",
+    "poscode": "80582",
+    "provinsi": {
+        "code": "51",
+        "name": "Bali"
+    },
+    "kabupaten": {
+        "code": "5104",
+        "name": "Gianyar"
+    },
+    "kecamatan": {
+        "code": "510401",
+        "name": "Sukawati"
+    }
+}

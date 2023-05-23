@@ -1,0 +1,17 @@
+{
+    "code": "1106032044",
+    "name": "Groet Manyang (Grot Meunasah Manyang)",
+    "poscode": "23363",
+    "provinsi": {
+        "code": "11",
+        "name": "Aceh (NAD)"
+    },
+    "kabupaten": {
+        "code": "1106",
+        "name": "Aceh Besar"
+    },
+    "kecamatan": {
+        "code": "110603",
+        "name": "Indrapuri"
+    }
+}

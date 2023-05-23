@@ -1,0 +1,17 @@
+{
+    "code": "7373061005",
+    "name": "Padang Lambe",
+    "poscode": "91921",
+    "provinsi": {
+        "code": "73",
+        "name": "Sulawesi Selatan"
+    },
+    "kabupaten": {
+        "code": "7373",
+        "name": "Palopo"
+    },
+    "kecamatan": {
+        "code": "737306",
+        "name": "Wara Barat"
+    }
+}

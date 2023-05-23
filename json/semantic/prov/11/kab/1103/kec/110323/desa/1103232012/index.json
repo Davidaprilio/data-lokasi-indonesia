@@ -1,0 +1,17 @@
+{
+    "code": "1103232012",
+    "name": "Matang Rayeuk (SMK)",
+    "poscode": "24456",
+    "provinsi": {
+        "code": "11",
+        "name": "Aceh (NAD)"
+    },
+    "kabupaten": {
+        "code": "1103",
+        "name": "Aceh Timur"
+    },
+    "kecamatan": {
+        "code": "110323",
+        "name": "Idi Timur"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "3315131003",
+    "name": "Danyang",
+    "poscode": "58113",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3315",
+        "name": "Grobogan"
+    },
+    "kecamatan": {
+        "code": "331513",
+        "name": "Purwodadi"
+    }
+}

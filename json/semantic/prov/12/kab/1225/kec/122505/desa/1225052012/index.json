@@ -1,0 +1,17 @@
+{
+    "code": "1225052012",
+    "name": "Fadoro Bahili",
+    "poscode": "22862",
+    "provinsi": {
+        "code": "12",
+        "name": "Sumatera Utara"
+    },
+    "kabupaten": {
+        "code": "1225",
+        "name": "Nias Barat"
+    },
+    "kecamatan": {
+        "code": "122505",
+        "name": "Mandrehe"
+    }
+}

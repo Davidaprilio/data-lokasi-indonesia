@@ -1,0 +1,17 @@
+{
+    "code": "1402022006",
+    "name": "Rantau Bakung",
+    "poscode": "29345",
+    "provinsi": {
+        "code": "14",
+        "name": "Riau"
+    },
+    "kabupaten": {
+        "code": "1402",
+        "name": "Indragiri Hulu"
+    },
+    "kecamatan": {
+        "code": "140202",
+        "name": "Rengat Barat"
+    }
+}

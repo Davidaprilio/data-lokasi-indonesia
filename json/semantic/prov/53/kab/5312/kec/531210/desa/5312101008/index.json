@@ -1,0 +1,17 @@
+{
+    "code": "5312101008",
+    "name": "Sobawawi (Soba Wawi)",
+    "poscode": "87284",
+    "provinsi": {
+        "code": "53",
+        "name": "Nusa Tenggara Timur (NTT)"
+    },
+    "kabupaten": {
+        "code": "5312",
+        "name": "Sumba Barat"
+    },
+    "kecamatan": {
+        "code": "531210",
+        "name": "Loli"
+    }
+}

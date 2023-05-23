@@ -1,0 +1,86 @@
+[
+    {
+        "code": "140512",
+        "name": "Bandar Petalangan",
+        "count": {
+            "desa": 11
+        }
+    },
+    {
+        "code": "140511",
+        "name": "Bandar Sei Kijang",
+        "count": {
+            "desa": 5
+        }
+    },
+    {
+        "code": "140508",
+        "name": "Bunut",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "140507",
+        "name": "Kerumutan",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "140510",
+        "name": "Kuala Kampar",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "140505",
+        "name": "Langgam",
+        "count": {
+            "desa": 8
+        }
+    },
+    {
+        "code": "140502",
+        "name": "Pangkalan Kerinci",
+        "count": {
+            "desa": 7
+        }
+    },
+    {
+        "code": "140503",
+        "name": "Pangkalan Kuras",
+        "count": {
+            "desa": 17
+        }
+    },
+    {
+        "code": "140504",
+        "name": "Pangkalan Lesung",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "140506",
+        "name": "Pelalawan",
+        "count": {
+            "desa": 9
+        }
+    },
+    {
+        "code": "140509",
+        "name": "Teluk Meranti",
+        "count": {
+            "desa": 9
+        }
+    },
+    {
+        "code": "140501",
+        "name": "Ukui",
+        "count": {
+            "desa": 12
+        }
+    }
+]

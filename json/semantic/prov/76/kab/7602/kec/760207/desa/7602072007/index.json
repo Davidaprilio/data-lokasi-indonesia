@@ -1,0 +1,17 @@
+{
+    "code": "7602072007",
+    "name": "Boda-Boda",
+    "poscode": "91565",
+    "provinsi": {
+        "code": "76",
+        "name": "Sulawesi Barat"
+    },
+    "kabupaten": {
+        "code": "7602",
+        "name": "Mamuju"
+    },
+    "kecamatan": {
+        "code": "760207",
+        "name": "Papalang"
+    }
+}

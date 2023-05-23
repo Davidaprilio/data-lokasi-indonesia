@@ -1,0 +1,17 @@
+{
+    "code": "5371061010",
+    "name": "Nefonaek",
+    "poscode": "85229",
+    "provinsi": {
+        "code": "53",
+        "name": "Nusa Tenggara Timur (NTT)"
+    },
+    "kabupaten": {
+        "code": "5371",
+        "name": "Kupang"
+    },
+    "kecamatan": {
+        "code": "537106",
+        "name": "Kota Lama"
+    }
+}

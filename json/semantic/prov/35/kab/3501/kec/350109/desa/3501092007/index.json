@@ -1,0 +1,17 @@
+{
+    "code": "3501092007",
+    "name": "Ploso",
+    "poscode": "63582",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3501",
+        "name": "Pacitan"
+    },
+    "kecamatan": {
+        "code": "350109",
+        "name": "Tegalombo"
+    }
+}

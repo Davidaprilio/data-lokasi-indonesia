@@ -1,0 +1,17 @@
+{
+    "code": "3573031003",
+    "name": "Bumiayu",
+    "poscode": "65135",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3573",
+        "name": "Malang"
+    },
+    "kecamatan": {
+        "code": "357303",
+        "name": "Kedungkandang"
+    }
+}

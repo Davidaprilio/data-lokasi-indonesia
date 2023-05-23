@@ -1,0 +1,17 @@
+{
+    "code": "1205191001",
+    "name": "Batang Serangan",
+    "poscode": "20852",
+    "provinsi": {
+        "code": "12",
+        "name": "Sumatera Utara"
+    },
+    "kabupaten": {
+        "code": "1205",
+        "name": "Langkat"
+    },
+    "kecamatan": {
+        "code": "120519",
+        "name": "Batang Serangan"
+    }
+}

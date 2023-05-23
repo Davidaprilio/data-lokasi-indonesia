@@ -1,0 +1,37 @@
+[
+    {
+        "code": "3171071002",
+        "name": "Bendungan Hilir",
+        "poscode": "10210"
+    },
+    {
+        "code": "3171071001",
+        "name": "Gelora",
+        "poscode": "10270"
+    },
+    {
+        "code": "3171071007",
+        "name": "Kampung Bali",
+        "poscode": "10250"
+    },
+    {
+        "code": "3171071003",
+        "name": "Karet Tengsin",
+        "poscode": "10220"
+    },
+    {
+        "code": "3171071006",
+        "name": "Kebon Kacang",
+        "poscode": "10240"
+    },
+    {
+        "code": "3171071005",
+        "name": "Kebon Melati",
+        "poscode": "10230"
+    },
+    {
+        "code": "3171071004",
+        "name": "Petamburan",
+        "poscode": "10260"
+    }
+]

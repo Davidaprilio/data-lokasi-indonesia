@@ -1,0 +1,47 @@
+[
+    {
+        "code": "7171091002",
+        "name": "Bahu",
+        "poscode": "95115"
+    },
+    {
+        "code": "7171091004",
+        "name": "Batu Kota",
+        "poscode": "95163"
+    },
+    {
+        "code": "7171091003",
+        "name": "Kleak",
+        "poscode": "95115"
+    },
+    {
+        "code": "7171091007",
+        "name": "Malalayang Dua (II)",
+        "poscode": "95163"
+    },
+    {
+        "code": "7171091001",
+        "name": "Malalayang Satu (I)",
+        "poscode": "95162"
+    },
+    {
+        "code": "7171091006",
+        "name": "Malalayang Satu Barat",
+        "poscode": "95163"
+    },
+    {
+        "code": "7171091005",
+        "name": "Malalayang Satu Timur",
+        "poscode": "95163"
+    },
+    {
+        "code": "7171091009",
+        "name": "Winangun Dua",
+        "poscode": "95161"
+    },
+    {
+        "code": "7171091008",
+        "name": "Winangun Satu",
+        "poscode": "95161"
+    }
+]

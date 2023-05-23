@@ -1,0 +1,79 @@
+[
+    {
+        "code": "911513",
+        "name": "Demba",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "911509",
+        "name": "Inggerus",
+        "count": {
+            "desa": 7
+        }
+    },
+    {
+        "code": "911510",
+        "name": "Kirihi",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "911503",
+        "name": "Masirei",
+        "count": {
+            "desa": 9
+        }
+    },
+    {
+        "code": "911511",
+        "name": "Oudate",
+        "count": {
+            "desa": 8
+        }
+    },
+    {
+        "code": "911507",
+        "name": "Risei Sayati",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "911515",
+        "name": "Soyoi Mambai",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "911508",
+        "name": "Urei Faisei",
+        "count": {
+            "desa": 12
+        }
+    },
+    {
+        "code": "911512",
+        "name": "Wapoga",
+        "count": {
+            "desa": 7
+        }
+    },
+    {
+        "code": "911501",
+        "name": "Waropen Bawah",
+        "count": {
+            "desa": 7
+        }
+    },
+    {
+        "code": "911514",
+        "name": "Wonti",
+        "count": {
+            "desa": 10
+        }
+    }
+]

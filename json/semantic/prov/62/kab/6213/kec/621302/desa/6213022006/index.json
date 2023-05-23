@@ -1,0 +1,17 @@
+{
+    "code": "6213022006",
+    "name": "Tewah Pupuh",
+    "poscode": "73661",
+    "provinsi": {
+        "code": "62",
+        "name": "Kalimantan Tengah"
+    },
+    "kabupaten": {
+        "code": "6213",
+        "name": "Barito Timur"
+    },
+    "kecamatan": {
+        "code": "621302",
+        "name": "Banua Lima"
+    }
+}

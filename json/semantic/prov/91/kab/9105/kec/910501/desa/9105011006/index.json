@@ -1,0 +1,17 @@
+{
+    "code": "9105011006",
+    "name": "Serui Jaya",
+    "poscode": "98612",
+    "provinsi": {
+        "code": "91",
+        "name": "Papua"
+    },
+    "kabupaten": {
+        "code": "9105",
+        "name": "Kepulauan Yapen"
+    },
+    "kecamatan": {
+        "code": "910501",
+        "name": "Yapen Selatan"
+    }
+}

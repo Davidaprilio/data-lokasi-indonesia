@@ -1,0 +1,17 @@
+{
+    "code": "3308012009",
+    "name": "Kalisalak",
+    "poscode": "56162",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3308",
+        "name": "Magelang"
+    },
+    "kecamatan": {
+        "code": "330801",
+        "name": "Salaman"
+    }
+}

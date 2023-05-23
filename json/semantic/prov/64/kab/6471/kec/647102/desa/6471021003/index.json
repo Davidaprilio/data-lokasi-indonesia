@@ -1,0 +1,17 @@
+{
+    "code": "6471021003",
+    "name": "Baru Ulu",
+    "poscode": "76133",
+    "provinsi": {
+        "code": "64",
+        "name": "Kalimantan Timur"
+    },
+    "kabupaten": {
+        "code": "6471",
+        "name": "Balikpapan"
+    },
+    "kecamatan": {
+        "code": "647102",
+        "name": "Balikpapan Barat"
+    }
+}

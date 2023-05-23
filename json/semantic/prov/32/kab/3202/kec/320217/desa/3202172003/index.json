@@ -1,0 +1,17 @@
+{
+    "code": "3202172003",
+    "name": "Pondokaso Tengah (Pondok Kaso Tengah)",
+    "poscode": "43358",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3202",
+        "name": "Sukabumi"
+    },
+    "kecamatan": {
+        "code": "320217",
+        "name": "Cidahu"
+    }
+}

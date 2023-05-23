@@ -1,0 +1,17 @@
+{
+    "code": "2171081006",
+    "name": "Subang Mas",
+    "poscode": "29483",
+    "provinsi": {
+        "code": "21",
+        "name": "Kepulauan Riau"
+    },
+    "kabupaten": {
+        "code": "2171",
+        "name": "Batam"
+    },
+    "kecamatan": {
+        "code": "217108",
+        "name": "Galang"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "6102062004",
+    "name": "Terap",
+    "poscode": "78360",
+    "provinsi": {
+        "code": "61",
+        "name": "Kalimantan Barat"
+    },
+    "kabupaten": {
+        "code": "6102",
+        "name": "Mempawah"
+    },
+    "kecamatan": {
+        "code": "610206",
+        "name": "Toho"
+    }
+}

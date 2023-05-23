@@ -1,0 +1,17 @@
+{
+    "code": "8271031009",
+    "name": "Kasturian",
+    "poscode": "97726",
+    "provinsi": {
+        "code": "82",
+        "name": "Maluku Utara"
+    },
+    "kabupaten": {
+        "code": "8271",
+        "name": "Ternate"
+    },
+    "kecamatan": {
+        "code": "827103",
+        "name": "Kota Ternate Utara"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "code": "3312",
+    "type": "Kabupaten",
+    "name": "Wonogiri",
+    "fullname": "Kabupaten Wonogiri",
+    "jumlah": {
+        "kecamatan": 25,
+        "desa": 294
+    }
+}

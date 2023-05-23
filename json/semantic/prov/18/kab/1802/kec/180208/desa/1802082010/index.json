@@ -1,0 +1,17 @@
+{
+    "code": "1802082010",
+    "name": "Rama Oetama (Utama)",
+    "poscode": "34155",
+    "provinsi": {
+        "code": "18",
+        "name": "Lampung"
+    },
+    "kabupaten": {
+        "code": "1802",
+        "name": "Lampung Tengah"
+    },
+    "kecamatan": {
+        "code": "180208",
+        "name": "Seputih Raman"
+    }
+}

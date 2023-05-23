@@ -1,0 +1,17 @@
+{
+    "code": "1809042008",
+    "name": "Gedong Dalam",
+    "poscode": "35367",
+    "provinsi": {
+        "code": "18",
+        "name": "Lampung"
+    },
+    "kabupaten": {
+        "code": "1809",
+        "name": "Pesawaran"
+    },
+    "kecamatan": {
+        "code": "180904",
+        "name": "Way Lima"
+    }
+}

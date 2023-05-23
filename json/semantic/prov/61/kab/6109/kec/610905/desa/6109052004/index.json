@@ -1,0 +1,17 @@
+{
+    "code": "6109052004",
+    "name": "Tapang Pulau",
+    "poscode": "79586",
+    "provinsi": {
+        "code": "61",
+        "name": "Kalimantan Barat"
+    },
+    "kabupaten": {
+        "code": "6109",
+        "name": "Sekadau"
+    },
+    "kecamatan": {
+        "code": "610905",
+        "name": "Belitang Hilir"
+    }
+}

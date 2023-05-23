@@ -1,0 +1,17 @@
+{
+    "code": "5108042009",
+    "name": "Cempaga",
+    "poscode": "81152",
+    "provinsi": {
+        "code": "51",
+        "name": "Bali"
+    },
+    "kabupaten": {
+        "code": "5108",
+        "name": "Buleleng"
+    },
+    "kecamatan": {
+        "code": "510804",
+        "name": "Banjar"
+    }
+}

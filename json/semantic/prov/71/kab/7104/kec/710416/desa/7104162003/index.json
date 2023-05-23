@@ -1,0 +1,17 @@
+{
+    "code": "7104162003",
+    "name": "Tule Utara",
+    "poscode": "95886",
+    "provinsi": {
+        "code": "71",
+        "name": "Sulawesi Utara"
+    },
+    "kabupaten": {
+        "code": "7104",
+        "name": "Kepulauan Talaud"
+    },
+    "kecamatan": {
+        "code": "710416",
+        "name": "Melonguane Timur"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "3321062010",
+    "name": "Botorejo",
+    "poscode": "59571",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3321",
+        "name": "Demak"
+    },
+    "kecamatan": {
+        "code": "332106",
+        "name": "Wonosalam"
+    }
+}

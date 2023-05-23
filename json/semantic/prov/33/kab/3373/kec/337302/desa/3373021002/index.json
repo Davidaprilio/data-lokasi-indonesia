@@ -1,0 +1,17 @@
+{
+    "code": "3373021002",
+    "name": "Gendongan",
+    "poscode": "50743",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3373",
+        "name": "Salatiga"
+    },
+    "kecamatan": {
+        "code": "337302",
+        "name": "Tingkir"
+    }
+}

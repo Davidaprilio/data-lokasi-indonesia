@@ -1,0 +1,17 @@
+{
+    "code": "1608022005",
+    "name": "Tebat Jaya",
+    "poscode": "32361",
+    "provinsi": {
+        "code": "16",
+        "name": "Sumatera Selatan"
+    },
+    "kabupaten": {
+        "code": "1608",
+        "name": "Ogan Komering Ulu Timur"
+    },
+    "kecamatan": {
+        "code": "160802",
+        "name": "Buay Madang"
+    }
+}

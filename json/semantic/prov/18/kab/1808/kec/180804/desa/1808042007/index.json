@@ -1,0 +1,17 @@
+{
+    "code": "1808042007",
+    "name": "Bumi Rejo",
+    "poscode": "34761",
+    "provinsi": {
+        "code": "18",
+        "name": "Lampung"
+    },
+    "kabupaten": {
+        "code": "1808",
+        "name": "Way Kanan"
+    },
+    "kecamatan": {
+        "code": "180804",
+        "name": "Baradatu"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "1502042010",
+    "name": "Saringat/Seringat",
+    "poscode": "37363",
+    "provinsi": {
+        "code": "15",
+        "name": "Jambi"
+    },
+    "kabupaten": {
+        "code": "1502",
+        "name": "Merangin"
+    },
+    "kecamatan": {
+        "code": "150204",
+        "name": "Sungai Manau"
+    }
+}

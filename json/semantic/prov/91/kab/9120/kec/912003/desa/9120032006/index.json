@@ -1,0 +1,17 @@
+{
+    "code": "9120032006",
+    "name": "Kai",
+    "poscode": "98695",
+    "provinsi": {
+        "code": "91",
+        "name": "Papua"
+    },
+    "kabupaten": {
+        "code": "9120",
+        "name": "Mamberamo Raya"
+    },
+    "kecamatan": {
+        "code": "912003",
+        "name": "Rufaer"
+    }
+}

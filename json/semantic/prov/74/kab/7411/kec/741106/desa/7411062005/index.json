@@ -1,0 +1,17 @@
+{
+    "code": "7411062005",
+    "name": "Wesalo",
+    "poscode": "93572",
+    "provinsi": {
+        "code": "74",
+        "name": "Sulawesi Tenggara"
+    },
+    "kabupaten": {
+        "code": "7411",
+        "name": "Kolaka Timur"
+    },
+    "kecamatan": {
+        "code": "741106",
+        "name": "Lalolae"
+    }
+}

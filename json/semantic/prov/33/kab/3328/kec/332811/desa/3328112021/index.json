@@ -1,0 +1,17 @@
+{
+    "code": "3328112021",
+    "name": "Harjosari Kidul",
+    "poscode": "52194",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3328",
+        "name": "Tegal"
+    },
+    "kecamatan": {
+        "code": "332811",
+        "name": "Adiwerna"
+    }
+}

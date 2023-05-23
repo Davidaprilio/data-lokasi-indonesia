@@ -1,0 +1,17 @@
+{
+    "code": "6303062004",
+    "name": "Pandak Daun",
+    "poscode": "70661",
+    "provinsi": {
+        "code": "63",
+        "name": "Kalimantan Selatan"
+    },
+    "kabupaten": {
+        "code": "6303",
+        "name": "Banjar"
+    },
+    "kecamatan": {
+        "code": "630306",
+        "name": "Karang Intan"
+    }
+}

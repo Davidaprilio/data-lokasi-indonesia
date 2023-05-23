@@ -1,0 +1,17 @@
+{
+    "code": "9504112019",
+    "name": "Minagi",
+    "poscode": "99030",
+    "provinsi": {
+        "code": "95",
+        "name": "Papua Pegunungan"
+    },
+    "kabupaten": {
+        "code": "9504",
+        "name": "Tolikara"
+    },
+    "kecamatan": {
+        "code": "950411",
+        "name": "Kubu"
+    }
+}

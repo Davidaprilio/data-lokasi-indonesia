@@ -1,0 +1,17 @@
+{
+    "code": "3502072015",
+    "name": "Wayang",
+    "poscode": "63481",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3502",
+        "name": "Ponorogo"
+    },
+    "kecamatan": {
+        "code": "350207",
+        "name": "Pulung"
+    }
+}

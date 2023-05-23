@@ -1,0 +1,17 @@
+{
+    "code": "6101172004",
+    "name": "Semata",
+    "poscode": "79465",
+    "provinsi": {
+        "code": "61",
+        "name": "Kalimantan Barat"
+    },
+    "kabupaten": {
+        "code": "6101",
+        "name": "Sambas"
+    },
+    "kecamatan": {
+        "code": "610117",
+        "name": "Tangaran"
+    }
+}

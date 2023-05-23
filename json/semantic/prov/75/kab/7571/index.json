@@ -1,0 +1,10 @@
+{
+    "code": "7571",
+    "type": "Kota",
+    "name": "Gorontalo",
+    "fullname": "Kota Gorontalo",
+    "jumlah": {
+        "kecamatan": 9,
+        "desa": 50
+    }
+}

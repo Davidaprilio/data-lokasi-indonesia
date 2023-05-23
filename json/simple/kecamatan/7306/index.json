@@ -1,0 +1,128 @@
+[
+    {
+        "code": "730602",
+        "name": "Bajeng",
+        "count": {
+            "desa": 14
+        }
+    },
+    {
+        "code": "730618",
+        "name": "Bajeng Barat",
+        "count": {
+            "desa": 7
+        }
+    },
+    {
+        "code": "730612",
+        "name": "Barombong",
+        "count": {
+            "desa": 7
+        }
+    },
+    {
+        "code": "730611",
+        "name": "Biringbulu",
+        "count": {
+            "desa": 11
+        }
+    },
+    {
+        "code": "730615",
+        "name": "Bontolempangang",
+        "count": {
+            "desa": 8
+        }
+    },
+    {
+        "code": "730606",
+        "name": "Bontomarannu",
+        "count": {
+            "desa": 9
+        }
+    },
+    {
+        "code": "730601",
+        "name": "Bontonompo",
+        "count": {
+            "desa": 14
+        }
+    },
+    {
+        "code": "730616",
+        "name": "Bontonompo Selatan",
+        "count": {
+            "desa": 9
+        }
+    },
+    {
+        "code": "730609",
+        "name": "Bungaya",
+        "count": {
+            "desa": 7
+        }
+    },
+    {
+        "code": "730614",
+        "name": "Manuju",
+        "count": {
+            "desa": 7
+        }
+    },
+    {
+        "code": "730607",
+        "name": "Palangga (Pallangga)",
+        "count": {
+            "desa": 16
+        }
+    },
+    {
+        "code": "730605",
+        "name": "Parangloe",
+        "count": {
+            "desa": 7
+        }
+    },
+    {
+        "code": "730617",
+        "name": "Parigi",
+        "count": {
+            "desa": 5
+        }
+    },
+    {
+        "code": "730613",
+        "name": "Pattalasang (Pattallassang)",
+        "count": {
+            "desa": 8
+        }
+    },
+    {
+        "code": "730608",
+        "name": "Somba Opu (Upu)",
+        "count": {
+            "desa": 14
+        }
+    },
+    {
+        "code": "730604",
+        "name": "Tinggimoncong",
+        "count": {
+            "desa": 7
+        }
+    },
+    {
+        "code": "730610",
+        "name": "Tombolopao (Tombolo Pao)",
+        "count": {
+            "desa": 9
+        }
+    },
+    {
+        "code": "730603",
+        "name": "Tompobullu (Tompobulu)",
+        "count": {
+            "desa": 8
+        }
+    }
+]

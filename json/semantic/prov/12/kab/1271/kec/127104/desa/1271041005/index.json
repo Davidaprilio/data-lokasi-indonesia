@@ -1,0 +1,17 @@
+{
+    "code": "1271041005",
+    "name": "Binjai",
+    "poscode": "20228",
+    "provinsi": {
+        "code": "12",
+        "name": "Sumatera Utara"
+    },
+    "kabupaten": {
+        "code": "1271",
+        "name": "Medan"
+    },
+    "kecamatan": {
+        "code": "127104",
+        "name": "Medan Denai"
+    }
+}

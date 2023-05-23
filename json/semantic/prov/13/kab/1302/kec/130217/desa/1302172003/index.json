@@ -1,0 +1,17 @@
+{
+    "code": "1302172003",
+    "name": "Sungai Abu",
+    "poscode": "27372",
+    "provinsi": {
+        "code": "13",
+        "name": "Sumatera Barat"
+    },
+    "kabupaten": {
+        "code": "1302",
+        "name": "Solok"
+    },
+    "kecamatan": {
+        "code": "130217",
+        "name": "Hiliran Gumanti"
+    }
+}

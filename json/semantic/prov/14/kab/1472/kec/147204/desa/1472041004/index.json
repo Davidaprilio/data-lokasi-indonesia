@@ -1,0 +1,17 @@
+{
+    "code": "1472041004",
+    "name": "Basilam Baru",
+    "poscode": "28826",
+    "provinsi": {
+        "code": "14",
+        "name": "Riau"
+    },
+    "kabupaten": {
+        "code": "1472",
+        "name": "Dumai"
+    },
+    "kecamatan": {
+        "code": "147204",
+        "name": "Sungai Sembilan"
+    }
+}

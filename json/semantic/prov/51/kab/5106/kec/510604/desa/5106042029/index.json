@@ -1,0 +1,17 @@
+{
+    "code": "5106042029",
+    "name": "Kintamani",
+    "poscode": "80652",
+    "provinsi": {
+        "code": "51",
+        "name": "Bali"
+    },
+    "kabupaten": {
+        "code": "5106",
+        "name": "Bangli"
+    },
+    "kecamatan": {
+        "code": "510604",
+        "name": "Kintamani"
+    }
+}

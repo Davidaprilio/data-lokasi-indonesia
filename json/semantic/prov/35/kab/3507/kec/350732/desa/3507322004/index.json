@@ -1,0 +1,17 @@
+{
+    "code": "3507322004",
+    "name": "Kebobang",
+    "poscode": "65161",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3507",
+        "name": "Malang"
+    },
+    "kecamatan": {
+        "code": "350732",
+        "name": "Wonosari"
+    }
+}

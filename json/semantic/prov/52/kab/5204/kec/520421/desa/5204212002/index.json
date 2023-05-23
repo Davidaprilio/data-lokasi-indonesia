@@ -1,0 +1,17 @@
+{
+    "code": "5204212002",
+    "name": "Sampe",
+    "poscode": "84352",
+    "provinsi": {
+        "code": "52",
+        "name": "Nusa Tenggara Barat (NTB)"
+    },
+    "kabupaten": {
+        "code": "5204",
+        "name": "Sumbawa"
+    },
+    "kecamatan": {
+        "code": "520421",
+        "name": "Rhee"
+    }
+}

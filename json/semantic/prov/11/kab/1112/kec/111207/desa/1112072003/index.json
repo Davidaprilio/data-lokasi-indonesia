@@ -1,0 +1,17 @@
+{
+    "code": "1112072003",
+    "name": "Pisang",
+    "poscode": "23763",
+    "provinsi": {
+        "code": "11",
+        "name": "Aceh (NAD)"
+    },
+    "kabupaten": {
+        "code": "1112",
+        "name": "Aceh Barat Daya"
+    },
+    "kecamatan": {
+        "code": "111207",
+        "name": "Setia"
+    }
+}

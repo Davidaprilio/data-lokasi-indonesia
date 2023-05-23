@@ -1,0 +1,17 @@
+{
+    "code": "9408012009",
+    "name": "Oneibo",
+    "poscode": "98764",
+    "provinsi": {
+        "code": "94",
+        "name": "Papua Tengah"
+    },
+    "kabupaten": {
+        "code": "9408",
+        "name": "Deiyai"
+    },
+    "kecamatan": {
+        "code": "940801",
+        "name": "Tigi"
+    }
+}

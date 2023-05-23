@@ -1,0 +1,17 @@
+{
+    "code": "1203292001",
+    "name": "Bandar Hapinis",
+    "poscode": "22736",
+    "provinsi": {
+        "code": "12",
+        "name": "Sumatera Utara"
+    },
+    "kabupaten": {
+        "code": "1203",
+        "name": "Tapanuli Selatan"
+    },
+    "kecamatan": {
+        "code": "120329",
+        "name": "Muara Batang Toru"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "code": "3404",
+    "type": "Kabupaten",
+    "name": "Sleman",
+    "fullname": "Kabupaten Sleman",
+    "jumlah": {
+        "kecamatan": 17,
+        "desa": 86
+    }
+}

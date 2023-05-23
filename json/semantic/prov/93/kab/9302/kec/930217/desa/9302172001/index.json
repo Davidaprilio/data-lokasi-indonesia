@@ -1,0 +1,17 @@
+{
+    "code": "9302172001",
+    "name": "Ninati",
+    "poscode": "99683",
+    "provinsi": {
+        "code": "93",
+        "name": "Papua Selatan"
+    },
+    "kabupaten": {
+        "code": "9302",
+        "name": "Boven Digoel"
+    },
+    "kecamatan": {
+        "code": "930217",
+        "name": "Ninati"
+    }
+}

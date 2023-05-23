@@ -1,0 +1,17 @@
+{
+    "code": "9204092014",
+    "name": "Arbasina",
+    "poscode": "98221",
+    "provinsi": {
+        "code": "96",
+        "name": "Papua Barat Daya"
+    },
+    "kabupaten": {
+        "code": "9204",
+        "name": "Sorong Selatan"
+    },
+    "kecamatan": {
+        "code": "920409",
+        "name": "Kokoda"
+    }
+}

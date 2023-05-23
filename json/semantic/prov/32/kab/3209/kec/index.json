@@ -1,0 +1,282 @@
+[
+    {
+        "code": "320924",
+        "name": "Arjawinangun",
+        "count": {
+            "desa": 11
+        }
+    },
+    {
+        "code": "320910",
+        "name": "Astanajapura",
+        "count": {
+            "desa": 11
+        }
+    },
+    {
+        "code": "320905",
+        "name": "Babakan",
+        "count": {
+            "desa": 14
+        }
+    },
+    {
+        "code": "320913",
+        "name": "Beber",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "320902",
+        "name": "Ciledug",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "320926",
+        "name": "Ciwaringin",
+        "count": {
+            "desa": 8
+        }
+    },
+    {
+        "code": "320931",
+        "name": "Depok",
+        "count": {
+            "desa": 12
+        }
+    },
+    {
+        "code": "320916",
+        "name": "Dukupuntang",
+        "count": {
+            "desa": 13
+        }
+    },
+    {
+        "code": "320930",
+        "name": "Gebang",
+        "count": {
+            "desa": 13
+        }
+    },
+    {
+        "code": "320928",
+        "name": "Gegesik",
+        "count": {
+            "desa": 14
+        }
+    },
+    {
+        "code": "320937",
+        "name": "Gempol",
+        "count": {
+            "desa": 8
+        }
+    },
+    {
+        "code": "320938",
+        "name": "Greged (Greget)",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "320921",
+        "name": "Gunung Jati (Cirebon Utara)",
+        "count": {
+            "desa": 13
+        }
+    },
+    {
+        "code": "320940",
+        "name": "Jamblang",
+        "count": {
+            "desa": 8
+        }
+    },
+    {
+        "code": "320929",
+        "name": "Kaliwedi",
+        "count": {
+            "desa": 9
+        }
+    },
+    {
+        "code": "320922",
+        "name": "Kapetakan",
+        "count": {
+            "desa": 9
+        }
+    },
+    {
+        "code": "320906",
+        "name": "Karangsembung",
+        "count": {
+            "desa": 8
+        }
+    },
+    {
+        "code": "320934",
+        "name": "Karangwareng",
+        "count": {
+            "desa": 9
+        }
+    },
+    {
+        "code": "320920",
+        "name": "Kedawung",
+        "count": {
+            "desa": 8
+        }
+    },
+    {
+        "code": "320923",
+        "name": "Klangenan",
+        "count": {
+            "desa": 9
+        }
+    },
+    {
+        "code": "320907",
+        "name": "Lemahabang",
+        "count": {
+            "desa": 13
+        }
+    },
+    {
+        "code": "320903",
+        "name": "Losari",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "320912",
+        "name": "Mundu",
+        "count": {
+            "desa": 12
+        }
+    },
+    {
+        "code": "320904",
+        "name": "Pabedilan",
+        "count": {
+            "desa": 13
+        }
+    },
+    {
+        "code": "320933",
+        "name": "Pabuaran",
+        "count": {
+            "desa": 7
+        }
+    },
+    {
+        "code": "320917",
+        "name": "Palimanan",
+        "count": {
+            "desa": 12
+        }
+    },
+    {
+        "code": "320911",
+        "name": "Pangenan",
+        "count": {
+            "desa": 9
+        }
+    },
+    {
+        "code": "320925",
+        "name": "Panguragan",
+        "count": {
+            "desa": 9
+        }
+    },
+    {
+        "code": "320932",
+        "name": "Pasaleman",
+        "count": {
+            "desa": 7
+        }
+    },
+    {
+        "code": "320936",
+        "name": "Plered",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "320918",
+        "name": "Plumbon",
+        "count": {
+            "desa": 15
+        }
+    },
+    {
+        "code": "320909",
+        "name": "Sedong",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "320915",
+        "name": "Sumber",
+        "count": {
+            "desa": 14
+        }
+    },
+    {
+        "code": "320939",
+        "name": "Suranenggala",
+        "count": {
+            "desa": 11
+        }
+    },
+    {
+        "code": "320927",
+        "name": "Susukan",
+        "count": {
+            "desa": 12
+        }
+    },
+    {
+        "code": "320908",
+        "name": "Susukan Lebak",
+        "count": {
+            "desa": 13
+        }
+    },
+    {
+        "code": "320914",
+        "name": "Talun (Cirebon Selatan)",
+        "count": {
+            "desa": 11
+        }
+    },
+    {
+        "code": "320935",
+        "name": "Tengah Tani",
+        "count": {
+            "desa": 8
+        }
+    },
+    {
+        "code": "320901",
+        "name": "Waled",
+        "count": {
+            "desa": 12
+        }
+    },
+    {
+        "code": "320919",
+        "name": "Weru",
+        "count": {
+            "desa": 9
+        }
+    }
+]

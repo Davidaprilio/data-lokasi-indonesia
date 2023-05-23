@@ -1,0 +1,17 @@
+{
+    "code": "7471041006",
+    "name": "Matabubu",
+    "poscode": "93233",
+    "provinsi": {
+        "code": "74",
+        "name": "Sulawesi Tenggara"
+    },
+    "kabupaten": {
+        "code": "7471",
+        "name": "Kendari"
+    },
+    "kecamatan": {
+        "code": "747104",
+        "name": "Poasia"
+    }
+}

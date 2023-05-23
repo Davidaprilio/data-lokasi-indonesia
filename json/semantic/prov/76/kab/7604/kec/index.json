@@ -1,0 +1,114 @@
+[
+    {
+        "code": "760415",
+        "name": "Alu (Allu)",
+        "count": {
+            "desa": 8
+        }
+    },
+    {
+        "code": "760413",
+        "name": "Anreapi",
+        "count": {
+            "desa": 5
+        }
+    },
+    {
+        "code": "760412",
+        "name": "Balanipa",
+        "count": {
+            "desa": 11
+        }
+    },
+    {
+        "code": "760406",
+        "name": "Binuang",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "760416",
+        "name": "Bulo",
+        "count": {
+            "desa": 9
+        }
+    },
+    {
+        "code": "760402",
+        "name": "Campalagian",
+        "count": {
+            "desa": 18
+        }
+    },
+    {
+        "code": "760411",
+        "name": "Limboro",
+        "count": {
+            "desa": 11
+        }
+    },
+    {
+        "code": "760410",
+        "name": "Luyo",
+        "count": {
+            "desa": 11
+        }
+    },
+    {
+        "code": "760408",
+        "name": "Mapilli",
+        "count": {
+            "desa": 12
+        }
+    },
+    {
+        "code": "760414",
+        "name": "Matakali",
+        "count": {
+            "desa": 7
+        }
+    },
+    {
+        "code": "760409",
+        "name": "Matangnga",
+        "count": {
+            "desa": 7
+        }
+    },
+    {
+        "code": "760404",
+        "name": "Polewali",
+        "count": {
+            "desa": 9
+        }
+    },
+    {
+        "code": "760407",
+        "name": "Tapango",
+        "count": {
+            "desa": 14
+        }
+    },
+    {
+        "code": "760401",
+        "name": "Tinambung",
+        "count": {
+            "desa": 8
+        }
+    },
+    {
+        "code": "760405",
+        "name": "Tubbi Taramanu (Tutar/Tutallu)",
+        "count": {
+            "desa": 13
+        }
+    },
+    {
+        "code": "760403",
+        "name": "Wonomulyo",
+        "count": {
+            "desa": 14
+        }
+    }
+]

@@ -1,0 +1,10 @@
+{
+    "code": "1302",
+    "type": "Kabupaten",
+    "name": "Solok",
+    "fullname": "Kabupaten Solok",
+    "jumlah": {
+        "kecamatan": 14,
+        "desa": 74
+    }
+}

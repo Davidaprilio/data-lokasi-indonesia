@@ -1,0 +1,17 @@
+{
+    "code": "3508042011",
+    "name": "Selokanyar (Selok Anyar)",
+    "poscode": "67372",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3508",
+        "name": "Lumajang"
+    },
+    "kecamatan": {
+        "code": "350804",
+        "name": "Pasirian"
+    }
+}

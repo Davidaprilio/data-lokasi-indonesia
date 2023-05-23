@@ -1,0 +1,17 @@
+{
+    "code": "3318072003",
+    "name": "Raci",
+    "poscode": "59186",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3318",
+        "name": "Pati"
+    },
+    "kecamatan": {
+        "code": "331807",
+        "name": "Batangan"
+    }
+}

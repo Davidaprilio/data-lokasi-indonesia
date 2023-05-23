@@ -1,0 +1,17 @@
+{
+    "code": "1901011004",
+    "name": "Sinar Baru",
+    "poscode": "33212",
+    "provinsi": {
+        "code": "19",
+        "name": "Kepulauan Bangka Belitung"
+    },
+    "kabupaten": {
+        "code": "1901",
+        "name": "Bangka"
+    },
+    "kecamatan": {
+        "code": "190101",
+        "name": "Sungailiat (Sungai Liat)"
+    }
+}

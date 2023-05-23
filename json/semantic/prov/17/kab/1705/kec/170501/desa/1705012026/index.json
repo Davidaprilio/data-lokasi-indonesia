@@ -1,0 +1,17 @@
+{
+    "code": "1705012026",
+    "name": "Padang Pelawi",
+    "poscode": "38877",
+    "provinsi": {
+        "code": "17",
+        "name": "Bengkulu"
+    },
+    "kabupaten": {
+        "code": "1705",
+        "name": "Seluma"
+    },
+    "kecamatan": {
+        "code": "170501",
+        "name": "Sukaraja"
+    }
+}

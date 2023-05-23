@@ -1,0 +1,17 @@
+{
+    "code": "5201152004",
+    "name": "Kuripan Selatan",
+    "poscode": "83360",
+    "provinsi": {
+        "code": "52",
+        "name": "Nusa Tenggara Barat (NTB)"
+    },
+    "kabupaten": {
+        "code": "5201",
+        "name": "Lombok Barat"
+    },
+    "kecamatan": {
+        "code": "520115",
+        "name": "Kuripan"
+    }
+}

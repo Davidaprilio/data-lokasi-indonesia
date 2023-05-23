@@ -1,0 +1,10 @@
+{
+    "code": "3579",
+    "type": "Kota",
+    "name": "Batu",
+    "fullname": "Kota Batu",
+    "jumlah": {
+        "kecamatan": 3,
+        "desa": 24
+    }
+}

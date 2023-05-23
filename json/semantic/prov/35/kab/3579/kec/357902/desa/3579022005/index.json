@@ -1,0 +1,17 @@
+{
+    "code": "3579022005",
+    "name": "Pandanrejo (Pandan Rejo)",
+    "poscode": "65332",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3579",
+        "name": "Batu"
+    },
+    "kecamatan": {
+        "code": "357902",
+        "name": "Bumiaji"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "7102021005",
+    "name": "Ranowangko",
+    "poscode": "95613",
+    "provinsi": {
+        "code": "71",
+        "name": "Sulawesi Utara"
+    },
+    "kabupaten": {
+        "code": "7102",
+        "name": "Minahasa"
+    },
+    "kecamatan": {
+        "code": "710202",
+        "name": "Tondano Timur"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "1210021003",
+    "name": "Urung Kompas",
+    "poscode": "21429",
+    "provinsi": {
+        "code": "12",
+        "name": "Sumatera Utara"
+    },
+    "kabupaten": {
+        "code": "1210",
+        "name": "Labuhanbatu"
+    },
+    "kecamatan": {
+        "code": "121002",
+        "name": "Rantau Selatan"
+    }
+}

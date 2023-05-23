@@ -1,0 +1,17 @@
+{
+    "code": "9205112002",
+    "name": "Kapisawar",
+    "poscode": "98472",
+    "provinsi": {
+        "code": "96",
+        "name": "Papua Barat Daya"
+    },
+    "kabupaten": {
+        "code": "9205",
+        "name": "Raja Ampat"
+    },
+    "kecamatan": {
+        "code": "920511",
+        "name": "Meos Mansar"
+    }
+}

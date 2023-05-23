@@ -1,0 +1,17 @@
+{
+    "code": "1509022003",
+    "name": "Teluk Rendah Pasar",
+    "poscode": "37572",
+    "provinsi": {
+        "code": "15",
+        "name": "Jambi"
+    },
+    "kabupaten": {
+        "code": "1509",
+        "name": "Tebo"
+    },
+    "kecamatan": {
+        "code": "150902",
+        "name": "Tebo Ilir"
+    }
+}

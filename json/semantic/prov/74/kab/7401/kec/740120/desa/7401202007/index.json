@@ -1,0 +1,17 @@
+{
+    "code": "7401202007",
+    "name": "Lawulo",
+    "poscode": "93521",
+    "provinsi": {
+        "code": "74",
+        "name": "Sulawesi Tenggara"
+    },
+    "kabupaten": {
+        "code": "7401",
+        "name": "Kolaka"
+    },
+    "kecamatan": {
+        "code": "740120",
+        "name": "Samaturu"
+    }
+}

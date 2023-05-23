@@ -1,0 +1,72 @@
+[
+    {
+        "code": "9203",
+        "type": "Kabupaten",
+        "name": "Fak Fak",
+        "fullname": "Kabupaten Fak Fak",
+        "jumlah": {
+            "kecamatan": 17,
+            "desa": 149
+        }
+    },
+    {
+        "code": "9208",
+        "type": "Kabupaten",
+        "name": "Kaimana",
+        "fullname": "Kabupaten Kaimana",
+        "jumlah": {
+            "kecamatan": 7,
+            "desa": 86
+        }
+    },
+    {
+        "code": "9202",
+        "type": "Kabupaten",
+        "name": "Manokwari",
+        "fullname": "Kabupaten Manokwari",
+        "jumlah": {
+            "kecamatan": 9,
+            "desa": 173
+        }
+    },
+    {
+        "code": "9211",
+        "type": "Kabupaten",
+        "name": "Manokwari Selatan",
+        "fullname": "Kabupaten Manokwari Selatan",
+        "jumlah": {
+            "kecamatan": 6,
+            "desa": 57
+        }
+    },
+    {
+        "code": "9212",
+        "type": "Kabupaten",
+        "name": "Pegunungan Arfak",
+        "fullname": "Kabupaten Pegunungan Arfak",
+        "jumlah": {
+            "kecamatan": 10,
+            "desa": 166
+        }
+    },
+    {
+        "code": "9206",
+        "type": "Kabupaten",
+        "name": "Teluk Bintuni",
+        "fullname": "Kabupaten Teluk Bintuni",
+        "jumlah": {
+            "kecamatan": 24,
+            "desa": 117
+        }
+    },
+    {
+        "code": "9207",
+        "type": "Kabupaten",
+        "name": "Teluk Wondama",
+        "fullname": "Kabupaten Teluk Wondama",
+        "jumlah": {
+            "kecamatan": 13,
+            "desa": 76
+        }
+    }
+]

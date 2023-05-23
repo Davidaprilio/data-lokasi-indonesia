@@ -1,0 +1,17 @@
+{
+    "code": "1608062014",
+    "name": "Rasuan Baru",
+    "poscode": "32366",
+    "provinsi": {
+        "code": "16",
+        "name": "Sumatera Selatan"
+    },
+    "kabupaten": {
+        "code": "1608",
+        "name": "Ogan Komering Ulu Timur"
+    },
+    "kecamatan": {
+        "code": "160806",
+        "name": "Madang Suku II"
+    }
+}

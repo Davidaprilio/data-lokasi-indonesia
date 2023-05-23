@@ -1,0 +1,17 @@
+{
+    "code": "3207302011",
+    "name": "Karyamulya",
+    "poscode": "46386",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3207",
+        "name": "Ciamis"
+    },
+    "kecamatan": {
+        "code": "320730",
+        "name": "Cisaga"
+    }
+}

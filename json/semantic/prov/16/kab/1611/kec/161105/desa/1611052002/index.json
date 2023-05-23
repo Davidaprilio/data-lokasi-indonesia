@@ -1,0 +1,17 @@
+{
+    "code": "1611052002",
+    "name": "Tanjung Jati",
+    "poscode": "31593",
+    "provinsi": {
+        "code": "16",
+        "name": "Sumatera Selatan"
+    },
+    "kabupaten": {
+        "code": "1611",
+        "name": "Empat Lawang"
+    },
+    "kecamatan": {
+        "code": "161105",
+        "name": "Lintang Kanan"
+    }
+}

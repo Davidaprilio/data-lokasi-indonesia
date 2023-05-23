@@ -1,0 +1,17 @@
+{
+    "code": "7605042005",
+    "name": "Lombong",
+    "poscode": "91453",
+    "provinsi": {
+        "code": "76",
+        "name": "Sulawesi Barat"
+    },
+    "kabupaten": {
+        "code": "7605",
+        "name": "Majene"
+    },
+    "kecamatan": {
+        "code": "760504",
+        "name": "Malunda"
+    }
+}

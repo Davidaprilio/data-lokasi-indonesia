@@ -1,0 +1,17 @@
+{
+    "code": "3310241007",
+    "name": "Gergunung",
+    "poscode": "57434",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3310",
+        "name": "Klaten"
+    },
+    "kecamatan": {
+        "code": "331024",
+        "name": "Klaten Utara"
+    }
+}

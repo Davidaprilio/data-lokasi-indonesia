@@ -1,0 +1,17 @@
+{
+    "code": "1104012032",
+    "name": "Ise Ise",
+    "poscode": "24565",
+    "provinsi": {
+        "code": "11",
+        "name": "Aceh (NAD)"
+    },
+    "kabupaten": {
+        "code": "1104",
+        "name": "Aceh Tengah"
+    },
+    "kecamatan": {
+        "code": "110401",
+        "name": "Linge"
+    }
+}

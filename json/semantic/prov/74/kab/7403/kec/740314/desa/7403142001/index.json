@@ -1,0 +1,17 @@
+{
+    "code": "7403142001",
+    "name": "Bangun Sari",
+    "poscode": "93621",
+    "provinsi": {
+        "code": "74",
+        "name": "Sulawesi Tenggara"
+    },
+    "kabupaten": {
+        "code": "7403",
+        "name": "Muna"
+    },
+    "kecamatan": {
+        "code": "740314",
+        "name": "Lasalepa"
+    }
+}

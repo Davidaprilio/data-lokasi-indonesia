@@ -1,0 +1,17 @@
+{
+    "code": "7310102007",
+    "name": "Kabba",
+    "poscode": "90619",
+    "provinsi": {
+        "code": "73",
+        "name": "Sulawesi Selatan"
+    },
+    "kabupaten": {
+        "code": "7310",
+        "name": "Pangkajene Kepulauan"
+    },
+    "kecamatan": {
+        "code": "731010",
+        "name": "Minasa Tene"
+    }
+}

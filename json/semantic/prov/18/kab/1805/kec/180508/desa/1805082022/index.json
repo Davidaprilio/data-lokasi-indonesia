@@ -1,0 +1,17 @@
+{
+    "code": "1805082022",
+    "name": "Warga Makmur Jaya",
+    "poscode": "34682",
+    "provinsi": {
+        "code": "18",
+        "name": "Lampung"
+    },
+    "kabupaten": {
+        "code": "1805",
+        "name": "Tulang Bawang"
+    },
+    "kecamatan": {
+        "code": "180508",
+        "name": "Banjar Agung"
+    }
+}

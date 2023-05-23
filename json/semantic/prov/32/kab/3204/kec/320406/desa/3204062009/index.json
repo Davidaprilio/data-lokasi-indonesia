@@ -1,0 +1,17 @@
+{
+    "code": "3204062009",
+    "name": "Mekarmanik",
+    "poscode": "40196",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3204",
+        "name": "Bandung"
+    },
+    "kecamatan": {
+        "code": "320406",
+        "name": "Cimenyan (Cimeunyan)"
+    }
+}

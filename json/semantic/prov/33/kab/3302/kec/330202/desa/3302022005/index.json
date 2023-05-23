@@ -1,0 +1,17 @@
+{
+    "code": "3302022005",
+    "name": "Wangon",
+    "poscode": "53176",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3302",
+        "name": "Banyumas"
+    },
+    "kecamatan": {
+        "code": "330202",
+        "name": "Wangon"
+    }
+}

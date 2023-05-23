@@ -1,0 +1,102 @@
+[
+    {
+        "code": "5206",
+        "type": "Kabupaten",
+        "name": "Bima",
+        "fullname": "Kabupaten Bima",
+        "jumlah": {
+            "kecamatan": 18,
+            "desa": 191
+        }
+    },
+    {
+        "code": "5272",
+        "type": "Kota",
+        "name": "Bima",
+        "fullname": "Kota Bima",
+        "jumlah": {
+            "kecamatan": 5,
+            "desa": 41
+        }
+    },
+    {
+        "code": "5205",
+        "type": "Kabupaten",
+        "name": "Dompu",
+        "fullname": "Kabupaten Dompu",
+        "jumlah": {
+            "kecamatan": 8,
+            "desa": 81
+        }
+    },
+    {
+        "code": "5201",
+        "type": "Kabupaten",
+        "name": "Lombok Barat",
+        "fullname": "Kabupaten Lombok Barat",
+        "jumlah": {
+            "kecamatan": 10,
+            "desa": 122
+        }
+    },
+    {
+        "code": "5202",
+        "type": "Kabupaten",
+        "name": "Lombok Tengah",
+        "fullname": "Kabupaten Lombok Tengah",
+        "jumlah": {
+            "kecamatan": 12,
+            "desa": 139
+        }
+    },
+    {
+        "code": "5203",
+        "type": "Kabupaten",
+        "name": "Lombok Timur",
+        "fullname": "Kabupaten Lombok Timur",
+        "jumlah": {
+            "kecamatan": 21,
+            "desa": 254
+        }
+    },
+    {
+        "code": "5208",
+        "type": "Kabupaten",
+        "name": "Lombok Utara",
+        "fullname": "Kabupaten Lombok Utara",
+        "jumlah": {
+            "kecamatan": 5,
+            "desa": 43
+        }
+    },
+    {
+        "code": "5271",
+        "type": "Kota",
+        "name": "Mataram",
+        "fullname": "Kota Mataram",
+        "jumlah": {
+            "kecamatan": 6,
+            "desa": 50
+        }
+    },
+    {
+        "code": "5204",
+        "type": "Kabupaten",
+        "name": "Sumbawa",
+        "fullname": "Kabupaten Sumbawa",
+        "jumlah": {
+            "kecamatan": 24,
+            "desa": 165
+        }
+    },
+    {
+        "code": "5207",
+        "type": "Kabupaten",
+        "name": "Sumbawa Barat",
+        "fullname": "Kabupaten Sumbawa Barat",
+        "jumlah": {
+            "kecamatan": 8,
+            "desa": 64
+        }
+    }
+]

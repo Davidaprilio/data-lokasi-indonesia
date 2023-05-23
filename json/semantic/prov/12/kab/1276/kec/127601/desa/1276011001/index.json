@@ -1,0 +1,17 @@
+{
+    "code": "1276011001",
+    "name": "Pabatu",
+    "poscode": "20623",
+    "provinsi": {
+        "code": "12",
+        "name": "Sumatera Utara"
+    },
+    "kabupaten": {
+        "code": "1276",
+        "name": "Tebing Tinggi"
+    },
+    "kecamatan": {
+        "code": "127601",
+        "name": "Padang Hulu"
+    }
+}

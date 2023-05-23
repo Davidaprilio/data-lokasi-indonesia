@@ -1,0 +1,17 @@
+{
+    "code": "3212292004",
+    "name": "Pasekan",
+    "poscode": "45228",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3212",
+        "name": "Indramayu"
+    },
+    "kecamatan": {
+        "code": "321229",
+        "name": "Pasekan"
+    }
+}

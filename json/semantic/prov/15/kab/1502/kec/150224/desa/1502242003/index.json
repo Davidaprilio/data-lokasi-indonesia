@@ -1,0 +1,17 @@
+{
+    "code": "1502242003",
+    "name": "Beringin Sanggul",
+    "poscode": "37371",
+    "provinsi": {
+        "code": "15",
+        "name": "Jambi"
+    },
+    "kabupaten": {
+        "code": "1502",
+        "name": "Merangin"
+    },
+    "kecamatan": {
+        "code": "150224",
+        "name": "Tiang Pumpung"
+    }
+}

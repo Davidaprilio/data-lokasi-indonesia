@@ -1,0 +1,17 @@
+{
+    "code": "1206092014",
+    "name": "Batu Rongkam",
+    "poscode": "22164",
+    "provinsi": {
+        "code": "12",
+        "name": "Sumatera Utara"
+    },
+    "kabupaten": {
+        "code": "1206",
+        "name": "Karo"
+    },
+    "kecamatan": {
+        "code": "120609",
+        "name": "Laubaleng"
+    }
+}

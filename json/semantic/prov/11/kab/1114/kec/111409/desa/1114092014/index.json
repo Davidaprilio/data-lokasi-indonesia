@@ -1,0 +1,17 @@
+{
+    "code": "1114092014",
+    "name": "Buket Keumuneng",
+    "poscode": "23653",
+    "provinsi": {
+        "code": "11",
+        "name": "Aceh (NAD)"
+    },
+    "kabupaten": {
+        "code": "1114",
+        "name": "Aceh Jaya"
+    },
+    "kecamatan": {
+        "code": "111409",
+        "name": "Pasie Raya"
+    }
+}

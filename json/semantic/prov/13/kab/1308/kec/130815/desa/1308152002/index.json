@@ -1,0 +1,17 @@
+{
+    "code": "1308152002",
+    "name": "Muaro Sei/Sungai Lolo",
+    "poscode": "26354",
+    "provinsi": {
+        "code": "13",
+        "name": "Sumatera Barat"
+    },
+    "kabupaten": {
+        "code": "1308",
+        "name": "Pasaman"
+    },
+    "kecamatan": {
+        "code": "130815",
+        "name": "Mapat Tunggul Selatan"
+    }
+}

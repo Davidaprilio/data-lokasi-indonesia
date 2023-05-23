@@ -1,0 +1,17 @@
+{
+    "code": "3604082003",
+    "name": "Mangunreja",
+    "poscode": "42455",
+    "provinsi": {
+        "code": "36",
+        "name": "Banten"
+    },
+    "kabupaten": {
+        "code": "3604",
+        "name": "Serang"
+    },
+    "kecamatan": {
+        "code": "360408",
+        "name": "Pulo Ampel"
+    }
+}

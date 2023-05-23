@@ -1,0 +1,17 @@
+{
+    "code": "1503031026",
+    "name": "Aur (Aur Gading)",
+    "poscode": "37481",
+    "provinsi": {
+        "code": "15",
+        "name": "Jambi"
+    },
+    "kabupaten": {
+        "code": "1503",
+        "name": "Sarolangun"
+    },
+    "kecamatan": {
+        "code": "150303",
+        "name": "Sarolangun"
+    }
+}

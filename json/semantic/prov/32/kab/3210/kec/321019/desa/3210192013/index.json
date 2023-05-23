@@ -1,0 +1,17 @@
+{
+    "code": "3210192013",
+    "name": "Sindangwasa",
+    "poscode": "45475",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3210",
+        "name": "Majalengka"
+    },
+    "kecamatan": {
+        "code": "321019",
+        "name": "Palasah"
+    }
+}

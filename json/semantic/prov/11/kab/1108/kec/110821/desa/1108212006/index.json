@@ -1,0 +1,17 @@
+{
+    "code": "1108212006",
+    "name": "Sumbok Rayeuk",
+    "poscode": "24385",
+    "provinsi": {
+        "code": "11",
+        "name": "Aceh (NAD)"
+    },
+    "kabupaten": {
+        "code": "1108",
+        "name": "Aceh Utara"
+    },
+    "kecamatan": {
+        "code": "110821",
+        "name": "Nibong"
+    }
+}

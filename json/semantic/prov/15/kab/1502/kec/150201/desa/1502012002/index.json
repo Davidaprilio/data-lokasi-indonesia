@@ -1,0 +1,17 @@
+{
+    "code": "1502012002",
+    "name": "Tanjung Kasri",
+    "poscode": "37372",
+    "provinsi": {
+        "code": "15",
+        "name": "Jambi"
+    },
+    "kabupaten": {
+        "code": "1502",
+        "name": "Merangin"
+    },
+    "kecamatan": {
+        "code": "150201",
+        "name": "Jangkat"
+    }
+}

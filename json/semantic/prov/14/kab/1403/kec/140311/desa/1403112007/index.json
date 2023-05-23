@@ -1,0 +1,17 @@
+{
+    "code": "1403112007",
+    "name": "Suka Damai",
+    "poscode": "28782",
+    "provinsi": {
+        "code": "14",
+        "name": "Riau"
+    },
+    "kabupaten": {
+        "code": "1403",
+        "name": "Bengkalis"
+    },
+    "kecamatan": {
+        "code": "140311",
+        "name": "Rupat Utara"
+    }
+}

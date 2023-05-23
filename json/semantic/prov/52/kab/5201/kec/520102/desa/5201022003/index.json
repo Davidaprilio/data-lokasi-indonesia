@@ -1,0 +1,17 @@
+{
+    "code": "5201022003",
+    "name": "Jagaraga Indah",
+    "poscode": "83362",
+    "provinsi": {
+        "code": "52",
+        "name": "Nusa Tenggara Barat (NTB)"
+    },
+    "kabupaten": {
+        "code": "5201",
+        "name": "Lombok Barat"
+    },
+    "kecamatan": {
+        "code": "520102",
+        "name": "Kediri"
+    }
+}

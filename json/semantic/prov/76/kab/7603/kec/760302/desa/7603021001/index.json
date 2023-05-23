@@ -1,0 +1,17 @@
+{
+    "code": "7603021001",
+    "name": "Aralle",
+    "poscode": "91373",
+    "provinsi": {
+        "code": "76",
+        "name": "Sulawesi Barat"
+    },
+    "kabupaten": {
+        "code": "7603",
+        "name": "Mamasa"
+    },
+    "kecamatan": {
+        "code": "760302",
+        "name": "Aralle"
+    }
+}

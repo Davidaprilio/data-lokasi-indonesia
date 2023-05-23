@@ -1,0 +1,17 @@
+{
+    "code": "3372051002",
+    "name": "Nusukan",
+    "poscode": "57135",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3372",
+        "name": "Surakarta"
+    },
+    "kecamatan": {
+        "code": "337205",
+        "name": "Banjarsari"
+    }
+}

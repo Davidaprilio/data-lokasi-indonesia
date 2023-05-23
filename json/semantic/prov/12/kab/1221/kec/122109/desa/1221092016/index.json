@@ -1,0 +1,17 @@
+{
+    "code": "1221092016",
+    "name": "Pagaran Dolok Pinarik",
+    "poscode": "22742",
+    "provinsi": {
+        "code": "12",
+        "name": "Sumatera Utara"
+    },
+    "kabupaten": {
+        "code": "1221",
+        "name": "Padang Lawas"
+    },
+    "kecamatan": {
+        "code": "122109",
+        "name": "Batang Lubu Sutam"
+    }
+}

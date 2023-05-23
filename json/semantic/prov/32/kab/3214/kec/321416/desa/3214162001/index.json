@@ -1,0 +1,17 @@
+{
+    "code": "3214162001",
+    "name": "Parakansalam",
+    "poscode": "41115",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3214",
+        "name": "Purwakarta"
+    },
+    "kecamatan": {
+        "code": "321416",
+        "name": "Pondoksalam"
+    }
+}

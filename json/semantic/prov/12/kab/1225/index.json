@@ -1,0 +1,10 @@
+{
+    "code": "1225",
+    "type": "Kabupaten",
+    "name": "Nias Barat",
+    "fullname": "Kabupaten Nias Barat",
+    "jumlah": {
+        "kecamatan": 8,
+        "desa": 105
+    }
+}

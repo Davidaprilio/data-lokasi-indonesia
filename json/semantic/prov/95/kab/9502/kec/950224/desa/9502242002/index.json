@@ -1,0 +1,17 @@
+{
+    "code": "9502242002",
+    "name": "Okano",
+    "poscode": "99427",
+    "provinsi": {
+        "code": "95",
+        "name": "Papua Pegunungan"
+    },
+    "kabupaten": {
+        "code": "9502",
+        "name": "Pegunungan Bintang"
+    },
+    "kecamatan": {
+        "code": "950224",
+        "name": "Oksebang"
+    }
+}

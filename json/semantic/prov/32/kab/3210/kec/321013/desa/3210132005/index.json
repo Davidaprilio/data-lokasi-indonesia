@@ -1,0 +1,17 @@
+{
+    "code": "3210132005",
+    "name": "Liangjulang",
+    "poscode": "45452",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3210",
+        "name": "Majalengka"
+    },
+    "kecamatan": {
+        "code": "321013",
+        "name": "Kadipaten"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "3515022001",
+    "name": "Prambon",
+    "poscode": "61264",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3515",
+        "name": "Sidoarjo"
+    },
+    "kecamatan": {
+        "code": "351502",
+        "name": "Prambon"
+    }
+}

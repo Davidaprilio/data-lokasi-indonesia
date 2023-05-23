@@ -1,0 +1,17 @@
+{
+    "code": "6403122007",
+    "name": "Sumber Agung",
+    "poscode": "77372",
+    "provinsi": {
+        "code": "64",
+        "name": "Kalimantan Timur"
+    },
+    "kabupaten": {
+        "code": "6403",
+        "name": "Berau"
+    },
+    "kecamatan": {
+        "code": "640312",
+        "name": "Batu Putih"
+    }
+}

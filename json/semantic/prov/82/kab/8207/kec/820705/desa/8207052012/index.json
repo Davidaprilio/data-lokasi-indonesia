@@ -1,0 +1,17 @@
+{
+    "code": "8207052012",
+    "name": "Hino",
+    "poscode": "97774",
+    "provinsi": {
+        "code": "82",
+        "name": "Maluku Utara"
+    },
+    "kabupaten": {
+        "code": "8207",
+        "name": "Pulau Morotai"
+    },
+    "kecamatan": {
+        "code": "820705",
+        "name": "Morotai Timur"
+    }
+}

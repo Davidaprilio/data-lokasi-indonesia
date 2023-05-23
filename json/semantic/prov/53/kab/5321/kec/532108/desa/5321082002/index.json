@@ -1,0 +1,17 @@
+{
+    "code": "5321082002",
+    "name": "Tesa",
+    "poscode": "85718",
+    "provinsi": {
+        "code": "53",
+        "name": "Nusa Tenggara Timur (NTT)"
+    },
+    "kabupaten": {
+        "code": "5321",
+        "name": "Malaka"
+    },
+    "kecamatan": {
+        "code": "532108",
+        "name": "Laenmanen"
+    }
+}

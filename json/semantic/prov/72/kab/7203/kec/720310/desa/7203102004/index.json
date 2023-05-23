@@ -1,0 +1,17 @@
+{
+    "code": "7203102004",
+    "name": "Sumari",
+    "poscode": "94353",
+    "provinsi": {
+        "code": "72",
+        "name": "Sulawesi Tengah"
+    },
+    "kabupaten": {
+        "code": "7203",
+        "name": "Donggala"
+    },
+    "kecamatan": {
+        "code": "720310",
+        "name": "Sindue"
+    }
+}

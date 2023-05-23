@@ -1,0 +1,17 @@
+{
+    "code": "6108022003",
+    "name": "Mentonyek",
+    "poscode": "79363",
+    "provinsi": {
+        "code": "61",
+        "name": "Kalimantan Barat"
+    },
+    "kabupaten": {
+        "code": "6108",
+        "name": "Landak"
+    },
+    "kecamatan": {
+        "code": "610802",
+        "name": "Mempawah Hulu"
+    }
+}

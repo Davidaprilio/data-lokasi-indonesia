@@ -1,0 +1,17 @@
+{
+    "code": "7326172002",
+    "name": "Batu Limbong",
+    "poscode": "91853",
+    "provinsi": {
+        "code": "73",
+        "name": "Sulawesi Selatan"
+    },
+    "kabupaten": {
+        "code": "7326",
+        "name": "Toraja Utara"
+    },
+    "kecamatan": {
+        "code": "732617",
+        "name": "Bangkelekila"
+    }
+}

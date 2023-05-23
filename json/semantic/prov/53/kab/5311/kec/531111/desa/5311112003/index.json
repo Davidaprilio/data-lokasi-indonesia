@@ -1,0 +1,17 @@
+{
+    "code": "5311112003",
+    "name": "Lumbu Manggit",
+    "poscode": "87183",
+    "provinsi": {
+        "code": "53",
+        "name": "Nusa Tenggara Timur (NTT)"
+    },
+    "kabupaten": {
+        "code": "5311",
+        "name": "Sumba Timur"
+    },
+    "kecamatan": {
+        "code": "531111",
+        "name": "Wulla Waijelu (Wula Waijelu)"
+    }
+}

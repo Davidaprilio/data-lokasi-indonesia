@@ -1,0 +1,17 @@
+{
+    "code": "5201012007",
+    "name": "Babussalam",
+    "poscode": "83363",
+    "provinsi": {
+        "code": "52",
+        "name": "Nusa Tenggara Barat (NTB)"
+    },
+    "kabupaten": {
+        "code": "5201",
+        "name": "Lombok Barat"
+    },
+    "kecamatan": {
+        "code": "520101",
+        "name": "Gerung"
+    }
+}

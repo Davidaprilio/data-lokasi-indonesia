@@ -1,0 +1,17 @@
+{
+    "code": "9302092002",
+    "name": "Bukit",
+    "poscode": "99671",
+    "provinsi": {
+        "code": "93",
+        "name": "Papua Selatan"
+    },
+    "kabupaten": {
+        "code": "9302",
+        "name": "Boven Digoel"
+    },
+    "kecamatan": {
+        "code": "930209",
+        "name": "Arimop"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "1801102005",
+    "name": "Bangunan",
+    "poscode": "35594",
+    "provinsi": {
+        "code": "18",
+        "name": "Lampung"
+    },
+    "kabupaten": {
+        "code": "1801",
+        "name": "Lampung Selatan"
+    },
+    "kecamatan": {
+        "code": "180110",
+        "name": "Palas"
+    }
+}

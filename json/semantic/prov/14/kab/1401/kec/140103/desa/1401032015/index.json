@@ -1,0 +1,17 @@
+{
+    "code": "1401032015",
+    "name": "Balam Jaya",
+    "poscode": "28468",
+    "provinsi": {
+        "code": "14",
+        "name": "Riau"
+    },
+    "kabupaten": {
+        "code": "1401",
+        "name": "Kampar"
+    },
+    "kecamatan": {
+        "code": "140103",
+        "name": "Tambang"
+    }
+}

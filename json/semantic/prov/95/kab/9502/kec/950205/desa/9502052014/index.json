@@ -1,0 +1,17 @@
+{
+    "code": "9502052014",
+    "name": "Batom Dua",
+    "poscode": "99442",
+    "provinsi": {
+        "code": "95",
+        "name": "Papua Pegunungan"
+    },
+    "kabupaten": {
+        "code": "9502",
+        "name": "Pegunungan Bintang"
+    },
+    "kecamatan": {
+        "code": "950205",
+        "name": "Batom"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "9502282004",
+    "name": "Delemo",
+    "poscode": "99444",
+    "provinsi": {
+        "code": "95",
+        "name": "Papua Pegunungan"
+    },
+    "kabupaten": {
+        "code": "9502",
+        "name": "Pegunungan Bintang"
+    },
+    "kecamatan": {
+        "code": "950228",
+        "name": "Murkim"
+    }
+}

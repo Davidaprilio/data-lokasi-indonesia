@@ -1,0 +1,17 @@
+{
+    "code": "1602192004",
+    "name": "Lebung Batang",
+    "poscode": "30659",
+    "provinsi": {
+        "code": "16",
+        "name": "Sumatera Selatan"
+    },
+    "kabupaten": {
+        "code": "1602",
+        "name": "Ogan Komering Ilir"
+    },
+    "kecamatan": {
+        "code": "160219",
+        "name": "Pangkalan Lampam"
+    }
+}

@@ -1,0 +1,42 @@
+[
+    {
+        "code": "6472031006",
+        "name": "Air Hitam",
+        "poscode": "75124"
+    },
+    {
+        "code": "6472031004",
+        "name": "Air Putih",
+        "poscode": "75124"
+    },
+    {
+        "code": "6472031009",
+        "name": "Bukit Pinang",
+        "poscode": "75124"
+    },
+    {
+        "code": "6472031007",
+        "name": "Dadi Mulya",
+        "poscode": "75123"
+    },
+    {
+        "code": "6472031008",
+        "name": "Gunung Kelua",
+        "poscode": "75123"
+    },
+    {
+        "code": "6472031002",
+        "name": "Jawa",
+        "poscode": "75122"
+    },
+    {
+        "code": "6472031005",
+        "name": "Sidodadi",
+        "poscode": "75123"
+    },
+    {
+        "code": "6472031001",
+        "name": "Teluk Lerong Ilir",
+        "poscode": "75128"
+    }
+]

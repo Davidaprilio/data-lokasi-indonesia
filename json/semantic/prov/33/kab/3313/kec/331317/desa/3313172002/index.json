@@ -1,0 +1,17 @@
+{
+    "code": "3313172002",
+    "name": "Anggrasmanis",
+    "poscode": "57794",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3313",
+        "name": "Karanganyar"
+    },
+    "kecamatan": {
+        "code": "331317",
+        "name": "Jenawi"
+    }
+}

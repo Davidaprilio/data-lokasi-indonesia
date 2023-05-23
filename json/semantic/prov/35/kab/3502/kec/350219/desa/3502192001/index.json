@@ -1,0 +1,17 @@
+{
+    "code": "3502192001",
+    "name": "Ngrogung",
+    "poscode": "63493",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3502",
+        "name": "Ponorogo"
+    },
+    "kecamatan": {
+        "code": "350219",
+        "name": "Ngebel"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "3302222008",
+    "name": "Kemutug Kidul",
+    "poscode": "53151",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3302",
+        "name": "Banyumas"
+    },
+    "kecamatan": {
+        "code": "330222",
+        "name": "Baturraden (Baturaden)"
+    }
+}

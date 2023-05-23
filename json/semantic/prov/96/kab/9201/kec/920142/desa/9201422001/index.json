@@ -1,0 +1,17 @@
+{
+    "code": "9201422001",
+    "name": "Klafdalim",
+    "poscode": "98422",
+    "provinsi": {
+        "code": "96",
+        "name": "Papua Barat Daya"
+    },
+    "kabupaten": {
+        "code": "9201",
+        "name": "Sorong"
+    },
+    "kecamatan": {
+        "code": "920142",
+        "name": "Moisegen"
+    }
+}

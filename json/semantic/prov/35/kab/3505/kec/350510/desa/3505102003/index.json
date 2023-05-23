@@ -1,0 +1,17 @@
+{
+    "code": "3505102003",
+    "name": "Gogodeso",
+    "poscode": "66171",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3505",
+        "name": "Blitar"
+    },
+    "kecamatan": {
+        "code": "350510",
+        "name": "Kanigoro"
+    }
+}

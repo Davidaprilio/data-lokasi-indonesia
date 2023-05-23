@@ -1,0 +1,17 @@
+{
+    "code": "5105032001",
+    "name": "Satra",
+    "poscode": "80716",
+    "provinsi": {
+        "code": "51",
+        "name": "Bali"
+    },
+    "kabupaten": {
+        "code": "5105",
+        "name": "Klungkung"
+    },
+    "kecamatan": {
+        "code": "510503",
+        "name": "Klungkung"
+    }
+}

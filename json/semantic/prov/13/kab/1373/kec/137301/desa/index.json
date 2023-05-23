@@ -1,0 +1,57 @@
+[
+    {
+        "code": "1373011006",
+        "name": "Air/Aia Dingin",
+        "poscode": "27419"
+    },
+    {
+        "code": "1373011001",
+        "name": "Aur Mulio (Air Mulyo / Aurmulyo)",
+        "poscode": "27418"
+    },
+    {
+        "code": "1373011003",
+        "name": "Kubang Sirakuk/Sirakuak Selatan",
+        "poscode": "27415"
+    },
+    {
+        "code": "1373011002",
+        "name": "Kubang Sirakuk/Sirakuak Utara",
+        "poscode": "27415"
+    },
+    {
+        "code": "1373012009",
+        "name": "Kubang Tangah",
+        "poscode": "27413"
+    },
+    {
+        "code": "1373012010",
+        "name": "Kubang Utara Sikabu",
+        "poscode": "27412"
+    },
+    {
+        "code": "1373012008",
+        "name": "Lunto Barat",
+        "poscode": "27418"
+    },
+    {
+        "code": "1373012007",
+        "name": "Lunto Timur",
+        "poscode": "27416"
+    },
+    {
+        "code": "1373012011",
+        "name": "Pasa Kubang (Pasar Kubang)",
+        "poscode": "27415"
+    },
+    {
+        "code": "1373011004",
+        "name": "Pasar",
+        "poscode": "27411"
+    },
+    {
+        "code": "1373011005",
+        "name": "Tanah Lapang",
+        "poscode": "27411"
+    }
+]

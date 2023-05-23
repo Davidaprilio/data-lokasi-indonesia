@@ -1,0 +1,163 @@
+[
+    {
+        "code": "940304",
+        "name": "Aradide",
+        "count": {
+            "desa": 13
+        }
+    },
+    {
+        "code": "940333",
+        "name": "Aweida",
+        "count": {
+            "desa": 9
+        }
+    },
+    {
+        "code": "940330",
+        "name": "Baya Biru",
+        "count": {
+            "desa": 6
+        }
+    },
+    {
+        "code": "940309",
+        "name": "Bibida",
+        "count": {
+            "desa": 7
+        }
+    },
+    {
+        "code": "940307",
+        "name": "Bogabaida (Bogobaida)",
+        "count": {
+            "desa": 9
+        }
+    },
+    {
+        "code": "940331",
+        "name": "Deiyai Miyo",
+        "count": {
+            "desa": 6
+        }
+    },
+    {
+        "code": "940332",
+        "name": "Dogomo",
+        "count": {
+            "desa": 5
+        }
+    },
+    {
+        "code": "940312",
+        "name": "Dumadama",
+        "count": {
+            "desa": 5
+        }
+    },
+    {
+        "code": "940321",
+        "name": "Ekadide",
+        "count": {
+            "desa": 12
+        }
+    },
+    {
+        "code": "940319",
+        "name": "Kebo",
+        "count": {
+            "desa": 13
+        }
+    },
+    {
+        "code": "940325",
+        "name": "Muye",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "940326",
+        "name": "Nakama",
+        "count": {
+            "desa": 7
+        }
+    },
+    {
+        "code": "940302",
+        "name": "Paniai Barat",
+        "count": {
+            "desa": 13
+        }
+    },
+    {
+        "code": "940301",
+        "name": "Paniai Timur",
+        "count": {
+            "desa": 26
+        }
+    },
+    {
+        "code": "940324",
+        "name": "Pugo Dagi",
+        "count": {
+            "desa": 9
+        }
+    },
+    {
+        "code": "940313",
+        "name": "Siriwo",
+        "count": {
+            "desa": 14
+        }
+    },
+    {
+        "code": "940327",
+        "name": "Teluk Deya",
+        "count": {
+            "desa": 6
+        }
+    },
+    {
+        "code": "940334",
+        "name": "Topiyai",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "940323",
+        "name": "Wegee Bino",
+        "count": {
+            "desa": 9
+        }
+    },
+    {
+        "code": "940322",
+        "name": "Wegee Muka",
+        "count": {
+            "desa": 11
+        }
+    },
+    {
+        "code": "940328",
+        "name": "Yagai",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "940320",
+        "name": "Yatamo",
+        "count": {
+            "desa": 5
+        }
+    },
+    {
+        "code": "940329",
+        "name": "Youtadi",
+        "count": {
+            "desa": 6
+        }
+    }
+]

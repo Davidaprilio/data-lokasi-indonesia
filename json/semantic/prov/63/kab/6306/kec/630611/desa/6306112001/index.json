@@ -1,0 +1,17 @@
+{
+    "code": "6306112001",
+    "name": "Siang Gantung",
+    "poscode": "71252",
+    "provinsi": {
+        "code": "63",
+        "name": "Kalimantan Selatan"
+    },
+    "kabupaten": {
+        "code": "6306",
+        "name": "Hulu Sungai Selatan"
+    },
+    "kecamatan": {
+        "code": "630611",
+        "name": "Daha Barat"
+    }
+}

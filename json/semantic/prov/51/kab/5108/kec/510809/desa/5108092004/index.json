@@ -1,0 +1,17 @@
+{
+    "code": "5108092004",
+    "name": "Madenan",
+    "poscode": "81173",
+    "provinsi": {
+        "code": "51",
+        "name": "Bali"
+    },
+    "kabupaten": {
+        "code": "5108",
+        "name": "Buleleng"
+    },
+    "kecamatan": {
+        "code": "510809",
+        "name": "Tejakula"
+    }
+}

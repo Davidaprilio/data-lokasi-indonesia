@@ -1,0 +1,17 @@
+{
+    "code": "7203142012",
+    "name": "Bukit Harapan",
+    "poscode": "94357",
+    "provinsi": {
+        "code": "72",
+        "name": "Sulawesi Tengah"
+    },
+    "kabupaten": {
+        "code": "7203",
+        "name": "Donggala"
+    },
+    "kecamatan": {
+        "code": "720314",
+        "name": "Sojol"
+    }
+}

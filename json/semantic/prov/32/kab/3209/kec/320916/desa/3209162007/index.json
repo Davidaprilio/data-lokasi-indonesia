@@ -1,0 +1,17 @@
+{
+    "code": "3209162007",
+    "name": "Cisaat",
+    "poscode": "45652",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3209",
+        "name": "Cirebon"
+    },
+    "kecamatan": {
+        "code": "320916",
+        "name": "Dukupuntang"
+    }
+}

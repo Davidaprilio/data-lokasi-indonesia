@@ -1,0 +1,17 @@
+{
+    "code": "3308152018",
+    "name": "Bateh",
+    "poscode": "56191",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3308",
+        "name": "Magelang"
+    },
+    "kecamatan": {
+        "code": "330815",
+        "name": "Candimulyo"
+    }
+}

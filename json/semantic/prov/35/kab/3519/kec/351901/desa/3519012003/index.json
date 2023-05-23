@@ -1,0 +1,17 @@
+{
+    "code": "3519012003",
+    "name": "Sukorejo",
+    "poscode": "63173",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3519",
+        "name": "Madiun"
+    },
+    "kecamatan": {
+        "code": "351901",
+        "name": "Kebon Sari (Kebonsari)"
+    }
+}

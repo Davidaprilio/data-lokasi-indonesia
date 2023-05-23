@@ -1,0 +1,17 @@
+{
+    "code": "1608012020",
+    "name": "Kotabaru Barat (Kota Baru Barat)",
+    "poscode": "32315",
+    "provinsi": {
+        "code": "16",
+        "name": "Sumatera Selatan"
+    },
+    "kabupaten": {
+        "code": "1608",
+        "name": "Ogan Komering Ulu Timur"
+    },
+    "kecamatan": {
+        "code": "160801",
+        "name": "Martapura"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "9404102009",
+    "name": "Doliningokngin",
+    "poscode": "99967",
+    "provinsi": {
+        "code": "94",
+        "name": "Papua Tengah"
+    },
+    "kabupaten": {
+        "code": "9404",
+        "name": "Mimika"
+    },
+    "kecamatan": {
+        "code": "940410",
+        "name": "Tembagapura"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "1502032027",
+    "name": "Sepantai Renah",
+    "poscode": "37370",
+    "provinsi": {
+        "code": "15",
+        "name": "Jambi"
+    },
+    "kabupaten": {
+        "code": "1502",
+        "name": "Merangin"
+    },
+    "kecamatan": {
+        "code": "150203",
+        "name": "Muara Siau"
+    }
+}

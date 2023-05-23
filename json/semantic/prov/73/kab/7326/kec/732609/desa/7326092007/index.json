@@ -1,0 +1,17 @@
+{
+    "code": "7326092007",
+    "name": "Pangden",
+    "poscode": "91833",
+    "provinsi": {
+        "code": "73",
+        "name": "Sulawesi Selatan"
+    },
+    "kabupaten": {
+        "code": "7326",
+        "name": "Toraja Utara"
+    },
+    "kecamatan": {
+        "code": "732609",
+        "name": "Tikala"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "8108102004",
+    "name": "Welora",
+    "poscode": "97651",
+    "provinsi": {
+        "code": "81",
+        "name": "Maluku"
+    },
+    "kabupaten": {
+        "code": "8108",
+        "name": "Maluku Barat Daya"
+    },
+    "kecamatan": {
+        "code": "810810",
+        "name": "Dawelor Dawera"
+    }
+}

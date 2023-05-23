@@ -1,0 +1,17 @@
+{
+    "code": "3212032007",
+    "name": "Rancahan",
+    "poscode": "45263",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3212",
+        "name": "Indramayu"
+    },
+    "kecamatan": {
+        "code": "321203",
+        "name": "Gabuswetan"
+    }
+}

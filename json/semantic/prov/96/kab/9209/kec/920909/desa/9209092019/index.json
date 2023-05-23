@@ -1,0 +1,17 @@
+{
+    "code": "9209092019",
+    "name": "Manaria",
+    "poscode": "98391",
+    "provinsi": {
+        "code": "96",
+        "name": "Papua Barat Daya"
+    },
+    "kabupaten": {
+        "code": "9209",
+        "name": "Tambrauw"
+    },
+    "kecamatan": {
+        "code": "920909",
+        "name": "Kebar"
+    }
+}

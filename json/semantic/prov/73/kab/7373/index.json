@@ -1,0 +1,10 @@
+{
+    "code": "7373",
+    "type": "Kota",
+    "name": "Palopo",
+    "fullname": "Kota Palopo",
+    "jumlah": {
+        "kecamatan": 9,
+        "desa": 48
+    }
+}

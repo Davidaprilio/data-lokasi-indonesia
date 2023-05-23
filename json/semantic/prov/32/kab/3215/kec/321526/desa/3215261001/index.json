@@ -1,0 +1,17 @@
+{
+    "code": "3215261001",
+    "name": "Karawang Wetan",
+    "poscode": "41314",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3215",
+        "name": "Karawang"
+    },
+    "kecamatan": {
+        "code": "321526",
+        "name": "Karawang Timur"
+    }
+}

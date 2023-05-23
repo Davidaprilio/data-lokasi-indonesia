@@ -1,0 +1,17 @@
+{
+    "code": "1572072001",
+    "name": "Koto Baru (Kota Baru)",
+    "poscode": "37152",
+    "provinsi": {
+        "code": "15",
+        "name": "Jambi"
+    },
+    "kabupaten": {
+        "code": "1572",
+        "name": "Sungai Penuh"
+    },
+    "kecamatan": {
+        "code": "157207",
+        "name": "Koto Baru"
+    }
+}

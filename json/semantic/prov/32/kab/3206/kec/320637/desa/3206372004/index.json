@@ -1,0 +1,17 @@
+{
+    "code": "3206372004",
+    "name": "Mekarsari",
+    "poscode": "46157",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3206",
+        "name": "Tasikmalaya"
+    },
+    "kecamatan": {
+        "code": "320637",
+        "name": "Kadipaten"
+    }
+}

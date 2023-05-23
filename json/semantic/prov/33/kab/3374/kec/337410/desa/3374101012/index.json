@@ -1,0 +1,17 @@
+{
+    "code": "3374101012",
+    "name": "Sambiroto",
+    "poscode": "50276",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3374",
+        "name": "Semarang"
+    },
+    "kecamatan": {
+        "code": "337410",
+        "name": "Tembalang"
+    }
+}

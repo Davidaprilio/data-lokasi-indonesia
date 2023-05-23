@@ -1,0 +1,107 @@
+[
+    {
+        "code": "721012",
+        "name": "Dolo",
+        "count": {
+            "desa": 11
+        }
+    },
+    {
+        "code": "721011",
+        "name": "Dolo Barat",
+        "count": {
+            "desa": 12
+        }
+    },
+    {
+        "code": "721009",
+        "name": "Dolo Selatan",
+        "count": {
+            "desa": 12
+        }
+    },
+    {
+        "code": "721008",
+        "name": "Gumbasa",
+        "count": {
+            "desa": 7
+        }
+    },
+    {
+        "code": "721013",
+        "name": "Kinovaro",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "721005",
+        "name": "Kulawi",
+        "count": {
+            "desa": 16
+        }
+    },
+    {
+        "code": "721006",
+        "name": "Kulawi Selatan",
+        "count": {
+            "desa": 12
+        }
+    },
+    {
+        "code": "721004",
+        "name": "Lindu",
+        "count": {
+            "desa": 5
+        }
+    },
+    {
+        "code": "721014",
+        "name": "Marawola",
+        "count": {
+            "desa": 11
+        }
+    },
+    {
+        "code": "721015",
+        "name": "Marawola Barat",
+        "count": {
+            "desa": 12
+        }
+    },
+    {
+        "code": "721003",
+        "name": "Nokilalaki",
+        "count": {
+            "desa": 5
+        }
+    },
+    {
+        "code": "721002",
+        "name": "Palolo",
+        "count": {
+            "desa": 22
+        }
+    },
+    {
+        "code": "721007",
+        "name": "Pipikoro",
+        "count": {
+            "desa": 19
+        }
+    },
+    {
+        "code": "721001",
+        "name": "Sigi Biromaru",
+        "count": {
+            "desa": 17
+        }
+    },
+    {
+        "code": "721010",
+        "name": "Tanambulava",
+        "count": {
+            "desa": 5
+        }
+    }
+]

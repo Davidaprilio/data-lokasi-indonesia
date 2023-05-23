@@ -1,0 +1,17 @@
+{
+    "code": "1174012026",
+    "name": "Kapa",
+    "poscode": "24411",
+    "provinsi": {
+        "code": "11",
+        "name": "Aceh (NAD)"
+    },
+    "kabupaten": {
+        "code": "1174",
+        "name": "Langsa"
+    },
+    "kecamatan": {
+        "code": "117401",
+        "name": "Langsa Timur"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "3216132008",
+    "name": "Karangpatri",
+    "poscode": "17710",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3216",
+        "name": "Bekasi"
+    },
+    "kecamatan": {
+        "code": "321613",
+        "name": "Pebayuran"
+    }
+}

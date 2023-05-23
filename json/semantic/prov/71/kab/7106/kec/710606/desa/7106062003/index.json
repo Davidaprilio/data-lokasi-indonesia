@@ -1,0 +1,17 @@
+{
+    "code": "7106062003",
+    "name": "Talise",
+    "poscode": "95377",
+    "provinsi": {
+        "code": "71",
+        "name": "Sulawesi Utara"
+    },
+    "kabupaten": {
+        "code": "7106",
+        "name": "Minahasa Utara"
+    },
+    "kecamatan": {
+        "code": "710606",
+        "name": "Likupang Barat"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "3301022012",
+    "name": "Pesanggrahan",
+    "poscode": "53274",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3301",
+        "name": "Cilacap"
+    },
+    "kecamatan": {
+        "code": "330102",
+        "name": "Kesugihan"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "code": "5302",
+    "type": "Kabupaten",
+    "name": "Timor Tengah Selatan",
+    "fullname": "Kabupaten Timor Tengah Selatan",
+    "jumlah": {
+        "kecamatan": 32,
+        "desa": 278
+    }
+}

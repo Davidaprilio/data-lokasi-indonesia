@@ -1,0 +1,17 @@
+{
+    "code": "6472031004",
+    "name": "Air Putih",
+    "poscode": "75124",
+    "provinsi": {
+        "code": "64",
+        "name": "Kalimantan Timur"
+    },
+    "kabupaten": {
+        "code": "6472",
+        "name": "Samarinda"
+    },
+    "kecamatan": {
+        "code": "647203",
+        "name": "Samarinda Ulu"
+    }
+}

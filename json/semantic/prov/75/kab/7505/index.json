@@ -1,0 +1,10 @@
+{
+    "code": "7505",
+    "type": "Kabupaten",
+    "name": "Gorontalo Utara",
+    "fullname": "Kabupaten Gorontalo Utara",
+    "jumlah": {
+        "kecamatan": 11,
+        "desa": 123
+    }
+}

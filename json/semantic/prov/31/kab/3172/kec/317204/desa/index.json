@@ -1,0 +1,37 @@
+[
+    {
+        "code": "3172041001",
+        "name": "Cilincing",
+        "poscode": "14120"
+    },
+    {
+        "code": "3172041004",
+        "name": "Kalibaru (Kali Baru)",
+        "poscode": "14110"
+    },
+    {
+        "code": "3172041003",
+        "name": "Marunda",
+        "poscode": "14150"
+    },
+    {
+        "code": "3172041006",
+        "name": "Rorotan",
+        "poscode": "14140"
+    },
+    {
+        "code": "3172041007",
+        "name": "Semper Barat",
+        "poscode": "14130"
+    },
+    {
+        "code": "3172041005",
+        "name": "Semper Timur",
+        "poscode": "14130"
+    },
+    {
+        "code": "3172041002",
+        "name": "Sukapura",
+        "poscode": "14140"
+    }
+]

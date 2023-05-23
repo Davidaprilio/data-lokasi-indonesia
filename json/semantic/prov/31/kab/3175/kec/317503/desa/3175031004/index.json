@@ -1,0 +1,17 @@
+{
+    "code": "3175031004",
+    "name": "Rawa Bunga",
+    "poscode": "13350",
+    "provinsi": {
+        "code": "31",
+        "name": "DKI Jakarta"
+    },
+    "kabupaten": {
+        "code": "3175",
+        "name": "Jakarta Timur"
+    },
+    "kecamatan": {
+        "code": "317503",
+        "name": "Jatinegara"
+    }
+}

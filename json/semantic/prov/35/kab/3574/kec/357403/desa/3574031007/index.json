@@ -1,0 +1,17 @@
+{
+    "code": "3574031007",
+    "name": "Sukabumi",
+    "poscode": "67219",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3574",
+        "name": "Probolinggo"
+    },
+    "kecamatan": {
+        "code": "357403",
+        "name": "Mayangan"
+    }
+}

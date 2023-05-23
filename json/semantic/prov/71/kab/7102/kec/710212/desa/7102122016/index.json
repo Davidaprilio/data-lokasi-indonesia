@@ -1,0 +1,17 @@
+{
+    "code": "7102122016",
+    "name": "Kanonang Tiga",
+    "poscode": "95690",
+    "provinsi": {
+        "code": "71",
+        "name": "Sulawesi Utara"
+    },
+    "kabupaten": {
+        "code": "7102",
+        "name": "Minahasa"
+    },
+    "kecamatan": {
+        "code": "710212",
+        "name": "Kawangkoan"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "5201142001",
+    "name": "Batulayar (Batu Layar)",
+    "poscode": "83355",
+    "provinsi": {
+        "code": "52",
+        "name": "Nusa Tenggara Barat (NTB)"
+    },
+    "kabupaten": {
+        "code": "5201",
+        "name": "Lombok Barat"
+    },
+    "kecamatan": {
+        "code": "520114",
+        "name": "Batu Layar"
+    }
+}

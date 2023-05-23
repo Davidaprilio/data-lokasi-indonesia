@@ -1,0 +1,17 @@
+{
+    "code": "1302032001",
+    "name": "Lolo",
+    "poscode": "27373",
+    "provinsi": {
+        "code": "13",
+        "name": "Sumatera Barat"
+    },
+    "kabupaten": {
+        "code": "1302",
+        "name": "Solok"
+    },
+    "kecamatan": {
+        "code": "130203",
+        "name": "Pantai Cermin"
+    }
+}

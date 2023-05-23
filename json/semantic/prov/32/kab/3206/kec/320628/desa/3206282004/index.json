@@ -1,0 +1,17 @@
+{
+    "code": "3206282004",
+    "name": "Linggawangi",
+    "poscode": "46464",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3206",
+        "name": "Tasikmalaya"
+    },
+    "kecamatan": {
+        "code": "320628",
+        "name": "Leuwisari"
+    }
+}

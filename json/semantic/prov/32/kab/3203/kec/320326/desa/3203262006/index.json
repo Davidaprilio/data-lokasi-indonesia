@@ -1,0 +1,17 @@
+{
+    "code": "3203262006",
+    "name": "Cisaranten",
+    "poscode": "43286",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3203",
+        "name": "Cianjur"
+    },
+    "kecamatan": {
+        "code": "320326",
+        "name": "Cikadu"
+    }
+}

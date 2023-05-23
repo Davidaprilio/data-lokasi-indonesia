@@ -1,0 +1,17 @@
+{
+    "code": "3212082007",
+    "name": "Tulungagung",
+    "poscode": "45274",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3212",
+        "name": "Indramayu"
+    },
+    "kecamatan": {
+        "code": "321208",
+        "name": "Kertasemaya"
+    }
+}

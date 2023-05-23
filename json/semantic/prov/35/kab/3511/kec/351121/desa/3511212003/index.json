@@ -1,0 +1,17 @@
+{
+    "code": "3511212003",
+    "name": "Kemuningan",
+    "poscode": "68291",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3511",
+        "name": "Bondowoso"
+    },
+    "kecamatan": {
+        "code": "351121",
+        "name": "Taman Krocok"
+    }
+}

@@ -1,0 +1,52 @@
+[
+    {
+        "code": "7102212008",
+        "name": "Kiawa Dua",
+        "poscode": "95699"
+    },
+    {
+        "code": "7102212010",
+        "name": "Kiawa Dua Barat",
+        "poscode": "95699"
+    },
+    {
+        "code": "7102212009",
+        "name": "Kiawa Dua Timur",
+        "poscode": "95699"
+    },
+    {
+        "code": "7102212005",
+        "name": "Kiawa Satu",
+        "poscode": "95699"
+    },
+    {
+        "code": "7102212007",
+        "name": "Kiawa Satu Barat",
+        "poscode": "95699"
+    },
+    {
+        "code": "7102212006",
+        "name": "Kiawa Satu Utara",
+        "poscode": "95699"
+    },
+    {
+        "code": "7102211001",
+        "name": "Talikuran",
+        "poscode": "95699"
+    },
+    {
+        "code": "7102211003",
+        "name": "Talikuran Barat",
+        "poscode": "95699"
+    },
+    {
+        "code": "7102211002",
+        "name": "Talikuran Utara",
+        "poscode": "95699"
+    },
+    {
+        "code": "7102211004",
+        "name": "Uner",
+        "poscode": "95699"
+    }
+]

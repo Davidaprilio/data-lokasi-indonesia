@@ -1,0 +1,17 @@
+{
+    "code": "5314062014",
+    "name": "Pengodua",
+    "poscode": "85975",
+    "provinsi": {
+        "code": "53",
+        "name": "Nusa Tenggara Timur (NTT)"
+    },
+    "kabupaten": {
+        "code": "5314",
+        "name": "Rote Ndao"
+    },
+    "kecamatan": {
+        "code": "531406",
+        "name": "Rote Timur"
+    }
+}

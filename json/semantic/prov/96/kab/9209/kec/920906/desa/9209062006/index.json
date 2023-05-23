@@ -1,0 +1,17 @@
+{
+    "code": "9209062006",
+    "name": "Weprari",
+    "poscode": "98363",
+    "provinsi": {
+        "code": "96",
+        "name": "Papua Barat Daya"
+    },
+    "kabupaten": {
+        "code": "9209",
+        "name": "Tambrauw"
+    },
+    "kecamatan": {
+        "code": "920906",
+        "name": "Abun"
+    }
+}

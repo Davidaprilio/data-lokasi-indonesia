@@ -1,0 +1,17 @@
+{
+    "code": "3518131005",
+    "name": "Ganung Kidul",
+    "poscode": "64419",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3518",
+        "name": "Nganjuk"
+    },
+    "kecamatan": {
+        "code": "351813",
+        "name": "Nganjuk"
+    }
+}

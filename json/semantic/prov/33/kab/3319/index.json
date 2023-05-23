@@ -1,0 +1,10 @@
+{
+    "code": "3319",
+    "type": "Kabupaten",
+    "name": "Kudus",
+    "fullname": "Kabupaten Kudus",
+    "jumlah": {
+        "kecamatan": 9,
+        "desa": 132
+    }
+}

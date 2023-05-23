@@ -1,0 +1,17 @@
+{
+    "code": "9401012012",
+    "name": "Kali Harapan",
+    "poscode": "98822",
+    "provinsi": {
+        "code": "94",
+        "name": "Papua Tengah"
+    },
+    "kabupaten": {
+        "code": "9401",
+        "name": "Nabire"
+    },
+    "kecamatan": {
+        "code": "940101",
+        "name": "Nabire"
+    }
+}

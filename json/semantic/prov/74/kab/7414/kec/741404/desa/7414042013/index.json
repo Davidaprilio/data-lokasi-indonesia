@@ -1,0 +1,17 @@
+{
+    "code": "7414042013",
+    "name": "Napa",
+    "poscode": "93762",
+    "provinsi": {
+        "code": "74",
+        "name": "Sulawesi Tenggara"
+    },
+    "kabupaten": {
+        "code": "7414",
+        "name": "Buton Tengah"
+    },
+    "kecamatan": {
+        "code": "741404",
+        "name": "Mawasangka"
+    }
+}

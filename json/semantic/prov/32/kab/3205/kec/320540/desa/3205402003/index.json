@@ -1,0 +1,17 @@
+{
+    "code": "3205402003",
+    "name": "Cibiuk Kidul",
+    "poscode": "44193",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3205",
+        "name": "Garut"
+    },
+    "kecamatan": {
+        "code": "320540",
+        "name": "Cibiuk"
+    }
+}

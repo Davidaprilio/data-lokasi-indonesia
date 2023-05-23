@@ -1,0 +1,17 @@
+{
+    "code": "1107112008",
+    "name": "Mesjid Ilot",
+    "poscode": "24163",
+    "provinsi": {
+        "code": "11",
+        "name": "Aceh (NAD)"
+    },
+    "kabupaten": {
+        "code": "1107",
+        "name": "Pidie"
+    },
+    "kecamatan": {
+        "code": "110711",
+        "name": "Mila"
+    }
+}

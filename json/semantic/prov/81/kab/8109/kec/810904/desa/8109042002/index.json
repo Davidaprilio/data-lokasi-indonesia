@@ -1,0 +1,17 @@
+{
+    "code": "8109042002",
+    "name": "Waekeka",
+    "poscode": "97541",
+    "provinsi": {
+        "code": "81",
+        "name": "Maluku"
+    },
+    "kabupaten": {
+        "code": "8109",
+        "name": "Buru Selatan"
+    },
+    "kecamatan": {
+        "code": "810904",
+        "name": "Kepala Madan"
+    }
+}

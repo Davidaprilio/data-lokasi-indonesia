@@ -1,0 +1,17 @@
+{
+    "code": "9508042003",
+    "name": "Pilini",
+    "poscode": "99929",
+    "provinsi": {
+        "code": "95",
+        "name": "Papua Pegunungan"
+    },
+    "kabupaten": {
+        "code": "9508",
+        "name": "Nduga"
+    },
+    "kecamatan": {
+        "code": "950804",
+        "name": "Wosak"
+    }
+}

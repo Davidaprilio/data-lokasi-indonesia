@@ -1,0 +1,17 @@
+{
+    "code": "1804072004",
+    "name": "Mutar Alam",
+    "poscode": "34884",
+    "provinsi": {
+        "code": "18",
+        "name": "Lampung"
+    },
+    "kabupaten": {
+        "code": "1804",
+        "name": "Lampung Barat"
+    },
+    "kecamatan": {
+        "code": "180407",
+        "name": "Way Tenong"
+    }
+}

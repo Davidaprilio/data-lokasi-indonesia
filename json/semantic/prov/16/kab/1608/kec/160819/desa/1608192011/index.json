@@ -1,0 +1,17 @@
+{
+    "code": "1608192011",
+    "name": "Tulung Sari",
+    "poscode": "32388",
+    "provinsi": {
+        "code": "16",
+        "name": "Sumatera Selatan"
+    },
+    "kabupaten": {
+        "code": "1608",
+        "name": "Ogan Komering Ulu Timur"
+    },
+    "kecamatan": {
+        "code": "160819",
+        "name": "Belitang Mulya"
+    }
+}

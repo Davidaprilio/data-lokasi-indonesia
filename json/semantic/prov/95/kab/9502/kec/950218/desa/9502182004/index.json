@@ -1,0 +1,17 @@
+{
+    "code": "9502182004",
+    "name": "Kawe",
+    "poscode": "99431",
+    "provinsi": {
+        "code": "95",
+        "name": "Papua Pegunungan"
+    },
+    "kabupaten": {
+        "code": "9502",
+        "name": "Pegunungan Bintang"
+    },
+    "kecamatan": {
+        "code": "950218",
+        "name": "Awinbon"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "8109012008",
+    "name": "Oki Lama",
+    "poscode": "97544",
+    "provinsi": {
+        "code": "81",
+        "name": "Maluku"
+    },
+    "kabupaten": {
+        "code": "8109",
+        "name": "Buru Selatan"
+    },
+    "kecamatan": {
+        "code": "810901",
+        "name": "Namrole"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "1173012002",
+    "name": "Alue Awe",
+    "poscode": "24351",
+    "provinsi": {
+        "code": "11",
+        "name": "Aceh (NAD)"
+    },
+    "kabupaten": {
+        "code": "1173",
+        "name": "Lhokseumawe"
+    },
+    "kecamatan": {
+        "code": "117301",
+        "name": "Muara Dua"
+    }
+}

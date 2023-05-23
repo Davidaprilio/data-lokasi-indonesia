@@ -1,0 +1,17 @@
+{
+    "code": "3276081005",
+    "name": "Jatimulya",
+    "poscode": "16413",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3276",
+        "name": "Depok"
+    },
+    "kecamatan": {
+        "code": "327608",
+        "name": "Cilodong"
+    }
+}

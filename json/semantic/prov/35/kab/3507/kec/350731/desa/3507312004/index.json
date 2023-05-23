@@ -1,0 +1,17 @@
+{
+    "code": "3507312004",
+    "name": "Kromengan",
+    "poscode": "65165",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3507",
+        "name": "Malang"
+    },
+    "kecamatan": {
+        "code": "350731",
+        "name": "Kromengan"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "3207052004",
+    "name": "Jelegong",
+    "poscode": "46352",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3207",
+        "name": "Ciamis"
+    },
+    "kecamatan": {
+        "code": "320705",
+        "name": "Cidolog"
+    }
+}

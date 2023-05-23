@@ -1,0 +1,17 @@
+{
+    "code": "9403272001",
+    "name": "Ukauwo",
+    "poscode": "98727",
+    "provinsi": {
+        "code": "94",
+        "name": "Papua Tengah"
+    },
+    "kabupaten": {
+        "code": "9403",
+        "name": "Paniai"
+    },
+    "kecamatan": {
+        "code": "940327",
+        "name": "Teluk Deya"
+    }
+}

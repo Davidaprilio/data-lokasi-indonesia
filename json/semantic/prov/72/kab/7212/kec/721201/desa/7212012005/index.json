@@ -1,0 +1,17 @@
+{
+    "code": "7212012005",
+    "name": "Koya",
+    "poscode": "94971",
+    "provinsi": {
+        "code": "72",
+        "name": "Sulawesi Tengah"
+    },
+    "kabupaten": {
+        "code": "7212",
+        "name": "Morowali Utara"
+    },
+    "kecamatan": {
+        "code": "721201",
+        "name": "Petasia"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "code": "3505",
+    "type": "Kabupaten",
+    "name": "Blitar",
+    "fullname": "Kabupaten Blitar",
+    "jumlah": {
+        "kecamatan": 22,
+        "desa": 248
+    }
+}

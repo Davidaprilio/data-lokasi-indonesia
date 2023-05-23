@@ -1,0 +1,17 @@
+{
+    "code": "1276041007",
+    "name": "Teluk Karang",
+    "poscode": "20612",
+    "provinsi": {
+        "code": "12",
+        "name": "Sumatera Utara"
+    },
+    "kabupaten": {
+        "code": "1276",
+        "name": "Tebing Tinggi"
+    },
+    "kecamatan": {
+        "code": "127604",
+        "name": "Bajenis"
+    }
+}

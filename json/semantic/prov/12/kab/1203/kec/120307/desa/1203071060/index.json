@@ -1,0 +1,17 @@
+{
+    "code": "1203071060",
+    "name": "Pintu Padang I (Pintu Padang Raya Dua)",
+    "poscode": "22773",
+    "provinsi": {
+        "code": "12",
+        "name": "Sumatera Utara"
+    },
+    "kabupaten": {
+        "code": "1203",
+        "name": "Tapanuli Selatan"
+    },
+    "kecamatan": {
+        "code": "120307",
+        "name": "Batang Angkola"
+    }
+}

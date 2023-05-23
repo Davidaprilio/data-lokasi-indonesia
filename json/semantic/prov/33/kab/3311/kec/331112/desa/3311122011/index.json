@@ -1,0 +1,17 @@
+{
+    "code": "3311122011",
+    "name": "Wirogunan",
+    "poscode": "57166",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3311",
+        "name": "Sukoharjo"
+    },
+    "kecamatan": {
+        "code": "331112",
+        "name": "Kartasura"
+    }
+}

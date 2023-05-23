@@ -1,0 +1,79 @@
+[
+    {
+        "code": "810605",
+        "name": "Amalatu",
+        "count": {
+            "desa": 7
+        }
+    },
+    {
+        "code": "810611",
+        "name": "Elpaputih",
+        "count": {
+            "desa": 7
+        }
+    },
+    {
+        "code": "810608",
+        "name": "Huamual",
+        "count": {
+            "desa": 5
+        }
+    },
+    {
+        "code": "810604",
+        "name": "Huamual Belakang",
+        "count": {
+            "desa": 7
+        }
+    },
+    {
+        "code": "810606",
+        "name": "Inamosol",
+        "count": {
+            "desa": 5
+        }
+    },
+    {
+        "code": "810601",
+        "name": "Kairatu",
+        "count": {
+            "desa": 7
+        }
+    },
+    {
+        "code": "810607",
+        "name": "Kairatu Barat",
+        "count": {
+            "desa": 6
+        }
+    },
+    {
+        "code": "810609",
+        "name": "Kepulauan Manipa",
+        "count": {
+            "desa": 7
+        }
+    },
+    {
+        "code": "810602",
+        "name": "Seram Barat",
+        "count": {
+            "desa": 7
+        }
+    },
+    {
+        "code": "810603",
+        "name": "Taniwel",
+        "count": {
+            "desa": 19
+        }
+    },
+    {
+        "code": "810610",
+        "name": "Taniwel Timur",
+        "count": {
+            "desa": 15
+        }
+    }
+]

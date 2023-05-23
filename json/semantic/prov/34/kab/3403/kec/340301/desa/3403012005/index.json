@@ -1,0 +1,17 @@
+{
+    "code": "3403012005",
+    "name": "Karangtengah (Karang Tengah)",
+    "poscode": "55851",
+    "provinsi": {
+        "code": "34",
+        "name": "DI Yogyakarta"
+    },
+    "kabupaten": {
+        "code": "3403",
+        "name": "Gunungkidul"
+    },
+    "kecamatan": {
+        "code": "340301",
+        "name": "Wonosari"
+    }
+}

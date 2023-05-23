@@ -1,0 +1,17 @@
+{
+    "code": "9504312008",
+    "name": "Warka",
+    "poscode": "99051",
+    "provinsi": {
+        "code": "95",
+        "name": "Papua Pegunungan"
+    },
+    "kabupaten": {
+        "code": "9504",
+        "name": "Tolikara"
+    },
+    "kecamatan": {
+        "code": "950431",
+        "name": "Dow"
+    }
+}

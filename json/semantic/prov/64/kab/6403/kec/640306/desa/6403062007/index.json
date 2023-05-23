@@ -1,0 +1,17 @@
+{
+    "code": "6403062007",
+    "name": "Merancang Ulu",
+    "poscode": "77352",
+    "provinsi": {
+        "code": "64",
+        "name": "Kalimantan Timur"
+    },
+    "kabupaten": {
+        "code": "6403",
+        "name": "Berau"
+    },
+    "kecamatan": {
+        "code": "640306",
+        "name": "Gunung Tabur"
+    }
+}

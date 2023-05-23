@@ -1,0 +1,17 @@
+{
+    "code": "5207021004",
+    "name": "Menala",
+    "poscode": "84452",
+    "provinsi": {
+        "code": "52",
+        "name": "Nusa Tenggara Barat (NTB)"
+    },
+    "kabupaten": {
+        "code": "5207",
+        "name": "Sumbawa Barat"
+    },
+    "kecamatan": {
+        "code": "520702",
+        "name": "Taliwang"
+    }
+}

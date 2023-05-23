@@ -1,0 +1,17 @@
+{
+    "code": "3216152002",
+    "name": "Sukamanah",
+    "poscode": "17631",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3216",
+        "name": "Bekasi"
+    },
+    "kecamatan": {
+        "code": "321615",
+        "name": "Sukatani"
+    }
+}

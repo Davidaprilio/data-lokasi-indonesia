@@ -1,0 +1,17 @@
+{
+    "code": "3575011003",
+    "name": "Sebani",
+    "poscode": "67139",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3575",
+        "name": "Pasuruan"
+    },
+    "kecamatan": {
+        "code": "357501",
+        "name": "Gadingrejo"
+    }
+}

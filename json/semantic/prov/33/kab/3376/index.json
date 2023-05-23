@@ -1,0 +1,10 @@
+{
+    "code": "3376",
+    "type": "Kota",
+    "name": "Tegal",
+    "fullname": "Kota Tegal",
+    "jumlah": {
+        "kecamatan": 4,
+        "desa": 27
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "1202062005",
+    "name": "Sitoluompu (Sitolu Ompu)",
+    "poscode": "22465",
+    "provinsi": {
+        "code": "12",
+        "name": "Sumatera Utara"
+    },
+    "kabupaten": {
+        "code": "1202",
+        "name": "Tapanuli Utara"
+    },
+    "kecamatan": {
+        "code": "120206",
+        "name": "Pahae Jae"
+    }
+}

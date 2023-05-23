@@ -1,0 +1,17 @@
+{
+    "code": "3519062001",
+    "name": "Batok",
+    "poscode": "63156",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3519",
+        "name": "Madiun"
+    },
+    "kecamatan": {
+        "code": "351906",
+        "name": "Gemarang"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "3206302007",
+    "name": "Selawangi",
+    "poscode": "46465",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3206",
+        "name": "Tasikmalaya"
+    },
+    "kecamatan": {
+        "code": "320630",
+        "name": "Sariwangi"
+    }
+}

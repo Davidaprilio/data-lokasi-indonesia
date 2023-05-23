@@ -1,0 +1,17 @@
+{
+    "code": "9105152004",
+    "name": "Mantembu",
+    "poscode": "98631",
+    "provinsi": {
+        "code": "91",
+        "name": "Papua"
+    },
+    "kabupaten": {
+        "code": "9105",
+        "name": "Kepulauan Yapen"
+    },
+    "kecamatan": {
+        "code": "910515",
+        "name": "Anotaurei"
+    }
+}

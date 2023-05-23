@@ -1,0 +1,17 @@
+{
+    "code": "9501292014",
+    "name": "Ninabua",
+    "poscode": "99501",
+    "provinsi": {
+        "code": "95",
+        "name": "Papua Pegunungan"
+    },
+    "kabupaten": {
+        "code": "9501",
+        "name": "Jayawijaya"
+    },
+    "kecamatan": {
+        "code": "950129",
+        "name": "Asolokobal"
+    }
+}

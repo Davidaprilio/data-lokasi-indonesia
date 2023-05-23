@@ -1,0 +1,17 @@
+{
+    "code": "1115052037",
+    "name": "Suka Mulia",
+    "poscode": "23662",
+    "provinsi": {
+        "code": "11",
+        "name": "Aceh (NAD)"
+    },
+    "kabupaten": {
+        "code": "1115",
+        "name": "Nagan Raya"
+    },
+    "kecamatan": {
+        "code": "111505",
+        "name": "Darul Makmur"
+    }
+}

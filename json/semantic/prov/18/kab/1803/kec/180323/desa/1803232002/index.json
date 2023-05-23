@@ -1,0 +1,17 @@
+{
+    "code": "1803232002",
+    "name": "Blambangan",
+    "poscode": "34586",
+    "provinsi": {
+        "code": "18",
+        "name": "Lampung"
+    },
+    "kabupaten": {
+        "code": "1803",
+        "name": "Lampung Utara"
+    },
+    "kecamatan": {
+        "code": "180323",
+        "name": "Blambangan Pagar"
+    }
+}

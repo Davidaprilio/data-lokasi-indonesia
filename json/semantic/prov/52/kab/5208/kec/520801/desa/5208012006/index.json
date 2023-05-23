@@ -1,0 +1,17 @@
+{
+    "code": "5208012006",
+    "name": "Medana",
+    "poscode": "83350",
+    "provinsi": {
+        "code": "52",
+        "name": "Nusa Tenggara Barat (NTB)"
+    },
+    "kabupaten": {
+        "code": "5208",
+        "name": "Lombok Utara"
+    },
+    "kecamatan": {
+        "code": "520801",
+        "name": "Tanjung"
+    }
+}

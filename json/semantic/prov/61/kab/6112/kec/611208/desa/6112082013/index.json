@@ -1,0 +1,17 @@
+{
+    "code": "6112082013",
+    "name": "Arus Deras",
+    "poscode": "78383",
+    "provinsi": {
+        "code": "61",
+        "name": "Kalimantan Barat"
+    },
+    "kabupaten": {
+        "code": "6112",
+        "name": "Kubu Raya"
+    },
+    "kecamatan": {
+        "code": "611208",
+        "name": "Teluk Pakedai"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "3216182005",
+    "name": "Cibening",
+    "poscode": "17320",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3216",
+        "name": "Bekasi"
+    },
+    "kecamatan": {
+        "code": "321618",
+        "name": "Setu"
+    }
+}

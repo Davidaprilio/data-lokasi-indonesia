@@ -1,0 +1,17 @@
+{
+    "code": "1808082006",
+    "name": "Ramsai/Ramsay",
+    "poscode": "34772",
+    "provinsi": {
+        "code": "18",
+        "name": "Lampung"
+    },
+    "kabupaten": {
+        "code": "1808",
+        "name": "Way Kanan"
+    },
+    "kecamatan": {
+        "code": "180808",
+        "name": "Way Tuba"
+    }
+}

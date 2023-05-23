@@ -1,0 +1,17 @@
+{
+    "code": "1506092003",
+    "name": "Intan Jaya",
+    "poscode": "36558",
+    "provinsi": {
+        "code": "15",
+        "name": "Jambi"
+    },
+    "kabupaten": {
+        "code": "1506",
+        "name": "Tanjung Jabung Barat"
+    },
+    "kecamatan": {
+        "code": "150609",
+        "name": "Muara Papalik"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "3279031001",
+    "name": "Purwaharja",
+    "poscode": "46331",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3279",
+        "name": "Banjar"
+    },
+    "kecamatan": {
+        "code": "327903",
+        "name": "Purwaharja"
+    }
+}

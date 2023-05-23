@@ -1,0 +1,17 @@
+{
+    "code": "3325042014",
+    "name": "Sojomerto",
+    "poscode": "51273",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3325",
+        "name": "Batang"
+    },
+    "kecamatan": {
+        "code": "332504",
+        "name": "Reban"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "6208021001",
+    "name": "Kuala Jelai",
+    "poscode": "74171",
+    "provinsi": {
+        "code": "62",
+        "name": "Kalimantan Tengah"
+    },
+    "kabupaten": {
+        "code": "6208",
+        "name": "Sukamara"
+    },
+    "kecamatan": {
+        "code": "620802",
+        "name": "Jelai"
+    }
+}

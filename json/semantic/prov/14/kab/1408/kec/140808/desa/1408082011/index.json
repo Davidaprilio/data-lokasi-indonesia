@@ -1,0 +1,17 @@
+{
+    "code": "1408082011",
+    "name": "Kemuning Muda",
+    "poscode": "28764",
+    "provinsi": {
+        "code": "14",
+        "name": "Riau"
+    },
+    "kabupaten": {
+        "code": "1408",
+        "name": "Siak"
+    },
+    "kecamatan": {
+        "code": "140808",
+        "name": "Bunga Raya"
+    }
+}

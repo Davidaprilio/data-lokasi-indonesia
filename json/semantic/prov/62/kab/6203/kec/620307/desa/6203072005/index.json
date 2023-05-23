@@ -1,0 +1,17 @@
+{
+    "code": "6203072005",
+    "name": "Muara Dadahup",
+    "poscode": "73594",
+    "provinsi": {
+        "code": "62",
+        "name": "Kalimantan Tengah"
+    },
+    "kabupaten": {
+        "code": "6203",
+        "name": "Kapuas"
+    },
+    "kecamatan": {
+        "code": "620307",
+        "name": "Kapuas Murung"
+    }
+}

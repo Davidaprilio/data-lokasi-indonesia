@@ -1,0 +1,17 @@
+{
+    "code": "6305122006",
+    "name": "Kambang Kuning",
+    "poscode": "71184",
+    "provinsi": {
+        "code": "63",
+        "name": "Kalimantan Selatan"
+    },
+    "kabupaten": {
+        "code": "6305",
+        "name": "Tapin"
+    },
+    "kecamatan": {
+        "code": "630512",
+        "name": "Hatungun"
+    }
+}

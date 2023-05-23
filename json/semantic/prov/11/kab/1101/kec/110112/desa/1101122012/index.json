@@ -1,0 +1,17 @@
+{
+    "code": "1101122012",
+    "name": "Pante Geulima",
+    "poscode": "23757",
+    "provinsi": {
+        "code": "11",
+        "name": "Aceh (NAD)"
+    },
+    "kabupaten": {
+        "code": "1101",
+        "name": "Aceh Selatan"
+    },
+    "kecamatan": {
+        "code": "110112",
+        "name": "Labuhan Haji Barat"
+    }
+}

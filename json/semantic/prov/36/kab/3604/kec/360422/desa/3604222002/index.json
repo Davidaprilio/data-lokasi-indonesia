@@ -1,0 +1,17 @@
+{
+    "code": "3604222002",
+    "name": "Tejamari",
+    "poscode": "42173",
+    "provinsi": {
+        "code": "36",
+        "name": "Banten"
+    },
+    "kabupaten": {
+        "code": "3604",
+        "name": "Serang"
+    },
+    "kecamatan": {
+        "code": "360422",
+        "name": "Baros"
+    }
+}

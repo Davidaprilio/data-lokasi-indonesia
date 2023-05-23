@@ -1,0 +1,17 @@
+{
+    "code": "3374081004",
+    "name": "Jomblang",
+    "poscode": "50256",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3374",
+        "name": "Semarang"
+    },
+    "kecamatan": {
+        "code": "337408",
+        "name": "Candisari"
+    }
+}

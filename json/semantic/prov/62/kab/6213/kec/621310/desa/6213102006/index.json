@@ -1,0 +1,17 @@
+{
+    "code": "6213102006",
+    "name": "Simpang Naneng",
+    "poscode": "73650",
+    "provinsi": {
+        "code": "62",
+        "name": "Kalimantan Tengah"
+    },
+    "kabupaten": {
+        "code": "6213",
+        "name": "Barito Timur"
+    },
+    "kecamatan": {
+        "code": "621310",
+        "name": "Karusen Janang"
+    }
+}

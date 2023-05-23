@@ -1,0 +1,17 @@
+{
+    "code": "1375011003",
+    "name": "Pakan Kurai",
+    "poscode": "26112",
+    "provinsi": {
+        "code": "13",
+        "name": "Sumatera Barat"
+    },
+    "kabupaten": {
+        "code": "1375",
+        "name": "Bukittinggi"
+    },
+    "kecamatan": {
+        "code": "137501",
+        "name": "Guguk Panjang (Guguak Panjang)"
+    }
+}

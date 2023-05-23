@@ -1,0 +1,17 @@
+{
+    "code": "3204362007",
+    "name": "Neglasari",
+    "poscode": "40384",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3204",
+        "name": "Bandung"
+    },
+    "kecamatan": {
+        "code": "320436",
+        "name": "Ibun"
+    }
+}

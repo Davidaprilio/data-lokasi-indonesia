@@ -1,0 +1,17 @@
+{
+    "code": "5316022015",
+    "name": "Ulupulu I",
+    "poscode": "86465",
+    "provinsi": {
+        "code": "53",
+        "name": "Nusa Tenggara Timur (NTT)"
+    },
+    "kabupaten": {
+        "code": "5316",
+        "name": "Nagekeo"
+    },
+    "kecamatan": {
+        "code": "531602",
+        "name": "Nangaroro"
+    }
+}

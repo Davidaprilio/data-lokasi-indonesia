@@ -1,0 +1,17 @@
+{
+    "code": "1105102014",
+    "name": "Alue Permen (Alue Perman)",
+    "poscode": "23682",
+    "provinsi": {
+        "code": "11",
+        "name": "Aceh (NAD)"
+    },
+    "kabupaten": {
+        "code": "1105",
+        "name": "Aceh Barat"
+    },
+    "kecamatan": {
+        "code": "110510",
+        "name": "Woyla Barat"
+    }
+}

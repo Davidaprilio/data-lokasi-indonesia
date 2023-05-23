@@ -1,0 +1,17 @@
+{
+    "code": "3508012005",
+    "name": "Tempursari",
+    "poscode": "67375",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3508",
+        "name": "Lumajang"
+    },
+    "kecamatan": {
+        "code": "350801",
+        "name": "Tempursari"
+    }
+}

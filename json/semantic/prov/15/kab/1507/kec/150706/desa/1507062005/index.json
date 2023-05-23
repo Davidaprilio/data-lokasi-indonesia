@@ -1,0 +1,17 @@
+{
+    "code": "1507062005",
+    "name": "Koto Kandis",
+    "poscode": "36763",
+    "provinsi": {
+        "code": "15",
+        "name": "Jambi"
+    },
+    "kabupaten": {
+        "code": "1507",
+        "name": "Tanjung Jabung Timur"
+    },
+    "kecamatan": {
+        "code": "150706",
+        "name": "Dendang"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "6407132001",
+    "name": "Loa Deras",
+    "poscode": "75763",
+    "provinsi": {
+        "code": "64",
+        "name": "Kalimantan Timur"
+    },
+    "kabupaten": {
+        "code": "6407",
+        "name": "Kutai Barat"
+    },
+    "kecamatan": {
+        "code": "640713",
+        "name": "Penyinggahan"
+    }
+}

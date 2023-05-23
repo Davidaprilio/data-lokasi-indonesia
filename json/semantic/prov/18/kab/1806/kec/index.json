@@ -1,0 +1,142 @@
+[
+    {
+        "code": "180626",
+        "name": "Air Naningan",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "180625",
+        "name": "Bandar Negeri Semuong",
+        "count": {
+            "desa": 11
+        }
+    },
+    {
+        "code": "180627",
+        "name": "Bulok",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "180609",
+        "name": "Cukuh Balak",
+        "count": {
+            "desa": 20
+        }
+    },
+    {
+        "code": "180620",
+        "name": "Gisting",
+        "count": {
+            "desa": 9
+        }
+    },
+    {
+        "code": "180621",
+        "name": "Gunung Alip",
+        "count": {
+            "desa": 12
+        }
+    },
+    {
+        "code": "180617",
+        "name": "Klumbayan (Kelumbayan)",
+        "count": {
+            "desa": 8
+        }
+    },
+    {
+        "code": "180628",
+        "name": "Klumbayan Barat (Kelumbayan Barat)",
+        "count": {
+            "desa": 6
+        }
+    },
+    {
+        "code": "180601",
+        "name": "Kota Agung (Kota Agung Pusat)",
+        "count": {
+            "desa": 16
+        }
+    },
+    {
+        "code": "180618",
+        "name": "Kota Agung Barat",
+        "count": {
+            "desa": 16
+        }
+    },
+    {
+        "code": "180619",
+        "name": "Kota Agung Timur",
+        "count": {
+            "desa": 12
+        }
+    },
+    {
+        "code": "180624",
+        "name": "Limau",
+        "count": {
+            "desa": 11
+        }
+    },
+    {
+        "code": "180616",
+        "name": "Pematang Sawa",
+        "count": {
+            "desa": 14
+        }
+    },
+    {
+        "code": "180611",
+        "name": "Pugung",
+        "count": {
+            "desa": 27
+        }
+    },
+    {
+        "code": "180604",
+        "name": "Pulau Panggung",
+        "count": {
+            "desa": 21
+        }
+    },
+    {
+        "code": "180612",
+        "name": "Semaka",
+        "count": {
+            "desa": 22
+        }
+    },
+    {
+        "code": "180613",
+        "name": "Sumber Rejo (Sumberejo)",
+        "count": {
+            "desa": 13
+        }
+    },
+    {
+        "code": "180602",
+        "name": "Talang Padang",
+        "count": {
+            "desa": 20
+        }
+    },
+    {
+        "code": "180615",
+        "name": "Ulu Belu (Ulubelu)",
+        "count": {
+            "desa": 16
+        }
+    },
+    {
+        "code": "180603",
+        "name": "Wonosobo",
+        "count": {
+            "desa": 28
+        }
+    }
+]

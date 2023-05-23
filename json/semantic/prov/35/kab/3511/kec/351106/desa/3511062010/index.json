@@ -1,0 +1,17 @@
+{
+    "code": "3511062010",
+    "name": "Taman",
+    "poscode": "68261",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3511",
+        "name": "Bondowoso"
+    },
+    "kecamatan": {
+        "code": "351106",
+        "name": "Grujugan"
+    }
+}

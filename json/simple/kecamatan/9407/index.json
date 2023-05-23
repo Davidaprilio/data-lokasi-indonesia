@@ -1,0 +1,58 @@
+[
+    {
+        "code": "940705",
+        "name": "Agisiga",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "940704",
+        "name": "Biandoga",
+        "count": {
+            "desa": 16
+        }
+    },
+    {
+        "code": "940706",
+        "name": "Hitadipa",
+        "count": {
+            "desa": 9
+        }
+    },
+    {
+        "code": "940702",
+        "name": "Homeyo",
+        "count": {
+            "desa": 21
+        }
+    },
+    {
+        "code": "940701",
+        "name": "Sugapa",
+        "count": {
+            "desa": 17
+        }
+    },
+    {
+        "code": "940708",
+        "name": "Tomosiga",
+        "count": {
+            "desa": 9
+        }
+    },
+    {
+        "code": "940707",
+        "name": "Ugimba",
+        "count": {
+            "desa": 6
+        }
+    },
+    {
+        "code": "940703",
+        "name": "Wandai",
+        "count": {
+            "desa": 9
+        }
+    }
+]

@@ -1,0 +1,17 @@
+{
+    "code": "5303012007",
+    "name": "Keanbaun (Kaenbaun)",
+    "poscode": "85654",
+    "provinsi": {
+        "code": "53",
+        "name": "Nusa Tenggara Timur (NTT)"
+    },
+    "kabupaten": {
+        "code": "5303",
+        "name": "Timor Tengah Utara"
+    },
+    "kecamatan": {
+        "code": "530301",
+        "name": "Miomafo Timur"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "1801162010",
+    "name": "Kota Guring",
+    "poscode": "35552",
+    "provinsi": {
+        "code": "18",
+        "name": "Lampung"
+    },
+    "kabupaten": {
+        "code": "1801",
+        "name": "Lampung Selatan"
+    },
+    "kecamatan": {
+        "code": "180116",
+        "name": "Raja Basa (Rajabasa)"
+    }
+}

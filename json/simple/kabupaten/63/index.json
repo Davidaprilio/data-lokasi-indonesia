@@ -1,0 +1,132 @@
+[
+    {
+        "code": "6311",
+        "type": "Kabupaten",
+        "name": "Balangan",
+        "fullname": "Kabupaten Balangan",
+        "jumlah": {
+            "kecamatan": 8,
+            "desa": 157
+        }
+    },
+    {
+        "code": "6303",
+        "type": "Kabupaten",
+        "name": "Banjar",
+        "fullname": "Kabupaten Banjar",
+        "jumlah": {
+            "kecamatan": 20,
+            "desa": 290
+        }
+    },
+    {
+        "code": "6372",
+        "type": "Kota",
+        "name": "Banjarbaru",
+        "fullname": "Kota Banjarbaru",
+        "jumlah": {
+            "kecamatan": 5,
+            "desa": 20
+        }
+    },
+    {
+        "code": "6371",
+        "type": "Kota",
+        "name": "Banjarmasin",
+        "fullname": "Kota Banjarmasin",
+        "jumlah": {
+            "kecamatan": 5,
+            "desa": 52
+        }
+    },
+    {
+        "code": "6304",
+        "type": "Kabupaten",
+        "name": "Barito Kuala",
+        "fullname": "Kabupaten Barito Kuala",
+        "jumlah": {
+            "kecamatan": 17,
+            "desa": 201
+        }
+    },
+    {
+        "code": "6306",
+        "type": "Kabupaten",
+        "name": "Hulu Sungai Selatan",
+        "fullname": "Kabupaten Hulu Sungai Selatan",
+        "jumlah": {
+            "kecamatan": 11,
+            "desa": 148
+        }
+    },
+    {
+        "code": "6307",
+        "type": "Kabupaten",
+        "name": "Hulu Sungai Tengah",
+        "fullname": "Kabupaten Hulu Sungai Tengah",
+        "jumlah": {
+            "kecamatan": 11,
+            "desa": 169
+        }
+    },
+    {
+        "code": "6308",
+        "type": "Kabupaten",
+        "name": "Hulu Sungai Utara",
+        "fullname": "Kabupaten Hulu Sungai Utara",
+        "jumlah": {
+            "kecamatan": 10,
+            "desa": 219
+        }
+    },
+    {
+        "code": "6302",
+        "type": "Kabupaten",
+        "name": "Kotabaru",
+        "fullname": "Kabupaten Kotabaru",
+        "jumlah": {
+            "kecamatan": 21,
+            "desa": 202
+        }
+    },
+    {
+        "code": "6309",
+        "type": "Kabupaten",
+        "name": "Tabalong",
+        "fullname": "Kabupaten Tabalong",
+        "jumlah": {
+            "kecamatan": 12,
+            "desa": 131
+        }
+    },
+    {
+        "code": "6310",
+        "type": "Kabupaten",
+        "name": "Tanah Bumbu",
+        "fullname": "Kabupaten Tanah Bumbu",
+        "jumlah": {
+            "kecamatan": 10,
+            "desa": 149
+        }
+    },
+    {
+        "code": "6301",
+        "type": "Kabupaten",
+        "name": "Tanah Laut",
+        "fullname": "Kabupaten Tanah Laut",
+        "jumlah": {
+            "kecamatan": 11,
+            "desa": 135
+        }
+    },
+    {
+        "code": "6305",
+        "type": "Kabupaten",
+        "name": "Tapin",
+        "fullname": "Kabupaten Tapin",
+        "jumlah": {
+            "kecamatan": 12,
+            "desa": 135
+        }
+    }
+]

@@ -1,0 +1,17 @@
+{
+    "code": "2104052005",
+    "name": "Sekanah",
+    "poscode": "29874",
+    "provinsi": {
+        "code": "21",
+        "name": "Kepulauan Riau"
+    },
+    "kabupaten": {
+        "code": "2104",
+        "name": "Lingga"
+    },
+    "kecamatan": {
+        "code": "210405",
+        "name": "Lingga Utara"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "3523161012",
+    "name": "Sidomulyo",
+    "poscode": "62312",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3523",
+        "name": "Tuban"
+    },
+    "kecamatan": {
+        "code": "352316",
+        "name": "Tuban"
+    }
+}

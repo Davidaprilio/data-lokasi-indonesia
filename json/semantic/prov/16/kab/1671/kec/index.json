@@ -1,0 +1,128 @@
+[
+    {
+        "code": "167115",
+        "name": "Alang Alang Lebar",
+        "count": {
+            "desa": 4
+        }
+    },
+    {
+        "code": "167111",
+        "name": "Bukit Kecil",
+        "count": {
+            "desa": 6
+        }
+    },
+    {
+        "code": "167112",
+        "name": "Gandus",
+        "count": {
+            "desa": 5
+        }
+    },
+    {
+        "code": "167104",
+        "name": "Ilir Barat I",
+        "count": {
+            "desa": 6
+        }
+    },
+    {
+        "code": "167101",
+        "name": "Ilir Barat II",
+        "count": {
+            "desa": 7
+        }
+    },
+    {
+        "code": "167105",
+        "name": "Ilir Timur I",
+        "count": {
+            "desa": 11
+        }
+    },
+    {
+        "code": "167106",
+        "name": "Ilir Timur II",
+        "count": {
+            "desa": 6
+        }
+    },
+    {
+        "code": "167118",
+        "name": "Ilir Timur Tiga",
+        "count": {
+            "desa": 6
+        }
+    },
+    {
+        "code": "167117",
+        "name": "Jakabaring",
+        "count": {
+            "desa": 5
+        }
+    },
+    {
+        "code": "167110",
+        "name": "Kalidoni",
+        "count": {
+            "desa": 5
+        }
+    },
+    {
+        "code": "167109",
+        "name": "Kemuning",
+        "count": {
+            "desa": 6
+        }
+    },
+    {
+        "code": "167113",
+        "name": "Kertapati",
+        "count": {
+            "desa": 6
+        }
+    },
+    {
+        "code": "167114",
+        "name": "Plaju",
+        "count": {
+            "desa": 7
+        }
+    },
+    {
+        "code": "167108",
+        "name": "Sako",
+        "count": {
+            "desa": 4
+        }
+    },
+    {
+        "code": "167102",
+        "name": "Seberang Ulu I",
+        "count": {
+            "desa": 5
+        }
+    },
+    {
+        "code": "167103",
+        "name": "Seberang Ulu II",
+        "count": {
+            "desa": 7
+        }
+    },
+    {
+        "code": "167116",
+        "name": "Sematang Borang",
+        "count": {
+            "desa": 4
+        }
+    },
+    {
+        "code": "167107",
+        "name": "Sukarami",
+        "count": {
+            "desa": 7
+        }
+    }
+]

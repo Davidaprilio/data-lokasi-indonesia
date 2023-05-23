@@ -1,0 +1,17 @@
+{
+    "code": "3503112008",
+    "name": "Sambirejo",
+    "poscode": "66314",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3503",
+        "name": "Trenggalek"
+    },
+    "kecamatan": {
+        "code": "350311",
+        "name": "Trenggalek"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "3514052010",
+    "name": "Pohgedang (Poh Gedang)",
+    "poscode": "67175",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3514",
+        "name": "Pasuruan"
+    },
+    "kecamatan": {
+        "code": "351405",
+        "name": "Pasrepan"
+    }
+}

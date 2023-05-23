@@ -1,0 +1,17 @@
+{
+    "code": "7212052002",
+    "name": "Londi",
+    "poscode": "94965",
+    "provinsi": {
+        "code": "72",
+        "name": "Sulawesi Tengah"
+    },
+    "kabupaten": {
+        "code": "7212",
+        "name": "Morowali Utara"
+    },
+    "kecamatan": {
+        "code": "721205",
+        "name": "Mori Atas"
+    }
+}

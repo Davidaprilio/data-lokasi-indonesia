@@ -1,0 +1,17 @@
+{
+    "code": "7202272005",
+    "name": "Panjoka",
+    "poscode": "94667",
+    "provinsi": {
+        "code": "72",
+        "name": "Sulawesi Tengah"
+    },
+    "kabupaten": {
+        "code": "7202",
+        "name": "Poso"
+    },
+    "kecamatan": {
+        "code": "720227",
+        "name": "Pamona Utara"
+    }
+}

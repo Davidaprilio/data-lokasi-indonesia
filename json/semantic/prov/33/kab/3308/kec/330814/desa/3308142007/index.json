@@ -1,0 +1,17 @@
+{
+    "code": "3308142007",
+    "name": "Trasan",
+    "poscode": "56151",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3308",
+        "name": "Magelang"
+    },
+    "kecamatan": {
+        "code": "330814",
+        "name": "Bandongan"
+    }
+}

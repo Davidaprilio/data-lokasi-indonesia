@@ -1,0 +1,17 @@
+{
+    "code": "7210012010",
+    "name": "Lolu",
+    "poscode": "94367",
+    "provinsi": {
+        "code": "72",
+        "name": "Sulawesi Tengah"
+    },
+    "kabupaten": {
+        "code": "7210",
+        "name": "Sigi"
+    },
+    "kecamatan": {
+        "code": "721001",
+        "name": "Sigi Biromaru"
+    }
+}

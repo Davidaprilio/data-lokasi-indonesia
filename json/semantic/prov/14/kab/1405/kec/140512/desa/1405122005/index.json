@@ -1,0 +1,17 @@
+{
+    "code": "1405122005",
+    "name": "Lubuk Terap",
+    "poscode": "28384",
+    "provinsi": {
+        "code": "14",
+        "name": "Riau"
+    },
+    "kabupaten": {
+        "code": "1405",
+        "name": "Pelalawan"
+    },
+    "kecamatan": {
+        "code": "140512",
+        "name": "Bandar Petalangan"
+    }
+}

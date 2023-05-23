@@ -1,0 +1,17 @@
+{
+    "code": "3513182012",
+    "name": "Pajurangan",
+    "poscode": "67272",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3513",
+        "name": "Probolinggo"
+    },
+    "kecamatan": {
+        "code": "351318",
+        "name": "Gending"
+    }
+}

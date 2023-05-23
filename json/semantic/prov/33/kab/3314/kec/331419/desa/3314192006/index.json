@@ -1,0 +1,17 @@
+{
+    "code": "3314192006",
+    "name": "Sigit",
+    "poscode": "57261",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3314",
+        "name": "Sragen"
+    },
+    "kecamatan": {
+        "code": "331419",
+        "name": "Tangen"
+    }
+}

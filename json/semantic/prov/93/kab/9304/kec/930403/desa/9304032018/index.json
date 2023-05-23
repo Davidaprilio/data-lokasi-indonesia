@@ -1,0 +1,17 @@
+{
+    "code": "9304032018",
+    "name": "Er",
+    "poscode": "99783",
+    "provinsi": {
+        "code": "93",
+        "name": "Papua Selatan"
+    },
+    "kabupaten": {
+        "code": "9304",
+        "name": "Asmat"
+    },
+    "kecamatan": {
+        "code": "930403",
+        "name": "Sawa Erma"
+    }
+}

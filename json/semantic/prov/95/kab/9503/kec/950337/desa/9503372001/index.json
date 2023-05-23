@@ -1,0 +1,17 @@
+{
+    "code": "9503372001",
+    "name": "Wanim",
+    "poscode": "99739",
+    "provinsi": {
+        "code": "95",
+        "name": "Papua Pegunungan"
+    },
+    "kabupaten": {
+        "code": "9503",
+        "name": "Yahukimo"
+    },
+    "kecamatan": {
+        "code": "950337",
+        "name": "Lolat"
+    }
+}

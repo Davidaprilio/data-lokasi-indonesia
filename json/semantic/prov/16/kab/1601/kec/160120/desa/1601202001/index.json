@@ -1,0 +1,17 @@
+{
+    "code": "1601202001",
+    "name": "Kelumpang",
+    "poscode": "32157",
+    "provinsi": {
+        "code": "16",
+        "name": "Sumatera Selatan"
+    },
+    "kabupaten": {
+        "code": "1601",
+        "name": "Ogan Komering Ulu"
+    },
+    "kecamatan": {
+        "code": "160120",
+        "name": "Ulu Ogan"
+    }
+}

@@ -1,0 +1,100 @@
+[
+    {
+        "code": "140207",
+        "name": "Batang Cenaku",
+        "count": {
+            "desa": 20
+        }
+    },
+    {
+        "code": "140208",
+        "name": "Batang Gangsal (Batang Gansal)",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "140214",
+        "name": "Batang Peranap",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "140203",
+        "name": "Kelayang",
+        "count": {
+            "desa": 17
+        }
+    },
+    {
+        "code": "140210",
+        "name": "Kuala Cenaku",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "140209",
+        "name": "Lirik",
+        "count": {
+            "desa": 17
+        }
+    },
+    {
+        "code": "140212",
+        "name": "Lubuk Batu Jaya",
+        "count": {
+            "desa": 9
+        }
+    },
+    {
+        "code": "140204",
+        "name": "Pasir Penyu",
+        "count": {
+            "desa": 13
+        }
+    },
+    {
+        "code": "140205",
+        "name": "Peranap",
+        "count": {
+            "desa": 12
+        }
+    },
+    {
+        "code": "140213",
+        "name": "Rakit Kulim",
+        "count": {
+            "desa": 19
+        }
+    },
+    {
+        "code": "140201",
+        "name": "Rengat",
+        "count": {
+            "desa": 16
+        }
+    },
+    {
+        "code": "140202",
+        "name": "Rengat Barat",
+        "count": {
+            "desa": 18
+        }
+    },
+    {
+        "code": "140206",
+        "name": "Siberida (Seberida)",
+        "count": {
+            "desa": 11
+        }
+    },
+    {
+        "code": "140211",
+        "name": "Sungai Lala",
+        "count": {
+            "desa": 12
+        }
+    }
+]

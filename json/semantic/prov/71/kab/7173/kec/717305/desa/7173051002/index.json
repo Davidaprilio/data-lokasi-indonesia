@@ -1,0 +1,17 @@
+{
+    "code": "7173051002",
+    "name": "Paslaten Dua",
+    "poscode": "95446",
+    "provinsi": {
+        "code": "71",
+        "name": "Sulawesi Utara"
+    },
+    "kabupaten": {
+        "code": "7173",
+        "name": "Tomohon"
+    },
+    "kecamatan": {
+        "code": "717305",
+        "name": "Tomohon Timur"
+    }
+}

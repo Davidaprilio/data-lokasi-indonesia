@@ -1,0 +1,17 @@
+{
+    "code": "1208022003",
+    "name": "Pematang Asilum",
+    "poscode": "21175",
+    "provinsi": {
+        "code": "12",
+        "name": "Sumatera Utara"
+    },
+    "kabupaten": {
+        "code": "1208",
+        "name": "Simalungun"
+    },
+    "kecamatan": {
+        "code": "120802",
+        "name": "Gunung Malela"
+    }
+}

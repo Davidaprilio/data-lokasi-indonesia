@@ -1,0 +1,121 @@
+[
+    {
+        "code": "340408",
+        "name": "Berbah",
+        "count": {
+            "desa": 4
+        }
+    },
+    {
+        "code": "340417",
+        "name": "Cangkringan",
+        "count": {
+            "desa": 5
+        }
+    },
+    {
+        "code": "340407",
+        "name": "Depok",
+        "count": {
+            "desa": 3
+        }
+    },
+    {
+        "code": "340401",
+        "name": "Gamping",
+        "count": {
+            "desa": 5
+        }
+    },
+    {
+        "code": "340402",
+        "name": "Godean",
+        "count": {
+            "desa": 7
+        }
+    },
+    {
+        "code": "340410",
+        "name": "Kalasan",
+        "count": {
+            "desa": 4
+        }
+    },
+    {
+        "code": "340404",
+        "name": "Minggir",
+        "count": {
+            "desa": 5
+        }
+    },
+    {
+        "code": "340406",
+        "name": "Mlati",
+        "count": {
+            "desa": 5
+        }
+    },
+    {
+        "code": "340403",
+        "name": "Moyudan",
+        "count": {
+            "desa": 4
+        }
+    },
+    {
+        "code": "340412",
+        "name": "Ngaglik",
+        "count": {
+            "desa": 6
+        }
+    },
+    {
+        "code": "340411",
+        "name": "Ngemplak",
+        "count": {
+            "desa": 5
+        }
+    },
+    {
+        "code": "340416",
+        "name": "Pakem",
+        "count": {
+            "desa": 5
+        }
+    },
+    {
+        "code": "340409",
+        "name": "Prambanan",
+        "count": {
+            "desa": 6
+        }
+    },
+    {
+        "code": "340405",
+        "name": "Seyegan",
+        "count": {
+            "desa": 5
+        }
+    },
+    {
+        "code": "340413",
+        "name": "Sleman",
+        "count": {
+            "desa": 5
+        }
+    },
+    {
+        "code": "340414",
+        "name": "Tempel",
+        "count": {
+            "desa": 8
+        }
+    },
+    {
+        "code": "340415",
+        "name": "Turi",
+        "count": {
+            "desa": 4
+        }
+    }
+]

@@ -1,0 +1,17 @@
+{
+    "code": "7315012009",
+    "name": "Siwolong Polong",
+    "poscode": "91261",
+    "provinsi": {
+        "code": "73",
+        "name": "Sulawesi Selatan"
+    },
+    "kabupaten": {
+        "code": "7315",
+        "name": "Pinrang"
+    },
+    "kecamatan": {
+        "code": "731501",
+        "name": "Matirro Sompe (Mattiro Sompe)"
+    }
+}

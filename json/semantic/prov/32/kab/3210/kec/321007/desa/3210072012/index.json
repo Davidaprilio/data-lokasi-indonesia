@@ -1,0 +1,17 @@
+{
+    "code": "3210072012",
+    "name": "Sidamukti",
+    "poscode": "45411",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3210",
+        "name": "Majalengka"
+    },
+    "kecamatan": {
+        "code": "321007",
+        "name": "Majalengka"
+    }
+}

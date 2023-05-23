@@ -1,0 +1,17 @@
+{
+    "code": "8204222005",
+    "name": "Bibinoi",
+    "poscode": "97791",
+    "provinsi": {
+        "code": "82",
+        "name": "Maluku Utara"
+    },
+    "kabupaten": {
+        "code": "8204",
+        "name": "Halmahera Selatan"
+    },
+    "kecamatan": {
+        "code": "820422",
+        "name": "Bacan Timur Tengah"
+    }
+}

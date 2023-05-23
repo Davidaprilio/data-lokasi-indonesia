@@ -1,0 +1,17 @@
+{
+    "code": "9504092001",
+    "name": "Panaga",
+    "poscode": "99057",
+    "provinsi": {
+        "code": "95",
+        "name": "Papua Pegunungan"
+    },
+    "kabupaten": {
+        "code": "9504",
+        "name": "Tolikara"
+    },
+    "kecamatan": {
+        "code": "950409",
+        "name": "Panaga"
+    }
+}

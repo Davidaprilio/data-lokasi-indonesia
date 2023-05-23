@@ -1,0 +1,17 @@
+{
+    "code": "8109032002",
+    "name": "Masawoy",
+    "poscode": "97546",
+    "provinsi": {
+        "code": "81",
+        "name": "Maluku"
+    },
+    "kabupaten": {
+        "code": "8109",
+        "name": "Buru Selatan"
+    },
+    "kecamatan": {
+        "code": "810903",
+        "name": "Ambalau"
+    }
+}

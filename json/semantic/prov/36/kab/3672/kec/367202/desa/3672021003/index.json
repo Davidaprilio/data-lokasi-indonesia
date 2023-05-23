@@ -1,0 +1,17 @@
+{
+    "code": "3672021003",
+    "name": "Bendungan",
+    "poscode": "42417",
+    "provinsi": {
+        "code": "36",
+        "name": "Banten"
+    },
+    "kabupaten": {
+        "code": "3672",
+        "name": "Cilegon"
+    },
+    "kecamatan": {
+        "code": "367202",
+        "name": "Cilegon"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "7308211005",
+    "name": "Pappolo",
+    "poscode": "92721",
+    "provinsi": {
+        "code": "73",
+        "name": "Sulawesi Selatan"
+    },
+    "kabupaten": {
+        "code": "7308",
+        "name": "Bone"
+    },
+    "kecamatan": {
+        "code": "730821",
+        "name": "Tanete Riattang"
+    }
+}

@@ -1,0 +1,79 @@
+[
+    {
+        "code": "720506",
+        "name": "Biau",
+        "count": {
+            "desa": 7
+        }
+    },
+    {
+        "code": "720503",
+        "name": "Bokat",
+        "count": {
+            "desa": 15
+        }
+    },
+    {
+        "code": "720508",
+        "name": "Bukal",
+        "count": {
+            "desa": 14
+        }
+    },
+    {
+        "code": "720504",
+        "name": "Bunobogu",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "720509",
+        "name": "Gadung",
+        "count": {
+            "desa": 11
+        }
+    },
+    {
+        "code": "720510",
+        "name": "Karamat",
+        "count": {
+            "desa": 7
+        }
+    },
+    {
+        "code": "720502",
+        "name": "Lakea (Lipunoto)",
+        "count": {
+            "desa": 7
+        }
+    },
+    {
+        "code": "720501",
+        "name": "Momunu",
+        "count": {
+            "desa": 16
+        }
+    },
+    {
+        "code": "720505",
+        "name": "Paleleh",
+        "count": {
+            "desa": 12
+        }
+    },
+    {
+        "code": "720511",
+        "name": "Paleleh Barat",
+        "count": {
+            "desa": 7
+        }
+    },
+    {
+        "code": "720507",
+        "name": "Tiloan",
+        "count": {
+            "desa": 9
+        }
+    }
+]

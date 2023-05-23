@@ -1,0 +1,17 @@
+{
+    "code": "1571111005",
+    "name": "Paal Merah",
+    "poscode": "36139",
+    "provinsi": {
+        "code": "15",
+        "name": "Jambi"
+    },
+    "kabupaten": {
+        "code": "1571",
+        "name": "Jambi"
+    },
+    "kecamatan": {
+        "code": "157111",
+        "name": "Paal Merah"
+    }
+}

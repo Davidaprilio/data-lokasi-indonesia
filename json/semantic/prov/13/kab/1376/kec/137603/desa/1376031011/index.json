@@ -1,0 +1,17 @@
+{
+    "code": "1376031011",
+    "name": "Koto Baru",
+    "poscode": "26237",
+    "provinsi": {
+        "code": "13",
+        "name": "Sumatera Barat"
+    },
+    "kabupaten": {
+        "code": "1376",
+        "name": "Payakumbuh"
+    },
+    "kecamatan": {
+        "code": "137603",
+        "name": "Payakumbuh Timur"
+    }
+}

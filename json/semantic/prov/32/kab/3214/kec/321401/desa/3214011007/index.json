@@ -1,0 +1,17 @@
+{
+    "code": "3214011007",
+    "name": "Ciseureuh",
+    "poscode": "41118",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3214",
+        "name": "Purwakarta"
+    },
+    "kecamatan": {
+        "code": "321401",
+        "name": "Purwakarta"
+    }
+}

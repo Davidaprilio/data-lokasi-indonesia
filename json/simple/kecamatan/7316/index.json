@@ -1,0 +1,86 @@
+[
+    {
+        "code": "731605",
+        "name": "Alla",
+        "count": {
+            "desa": 8
+        }
+    },
+    {
+        "code": "731604",
+        "name": "Anggeraja",
+        "count": {
+            "desa": 15
+        }
+    },
+    {
+        "code": "731603",
+        "name": "Baraka",
+        "count": {
+            "desa": 15
+        }
+    },
+    {
+        "code": "731612",
+        "name": "Baroko",
+        "count": {
+            "desa": 5
+        }
+    },
+    {
+        "code": "731606",
+        "name": "Bungin",
+        "count": {
+            "desa": 6
+        }
+    },
+    {
+        "code": "731610",
+        "name": "Buntu Batu",
+        "count": {
+            "desa": 8
+        }
+    },
+    {
+        "code": "731607",
+        "name": "Cendana",
+        "count": {
+            "desa": 7
+        }
+    },
+    {
+        "code": "731608",
+        "name": "Curio",
+        "count": {
+            "desa": 11
+        }
+    },
+    {
+        "code": "731602",
+        "name": "Enrekang",
+        "count": {
+            "desa": 18
+        }
+    },
+    {
+        "code": "731601",
+        "name": "Maiwa",
+        "count": {
+            "desa": 22
+        }
+    },
+    {
+        "code": "731609",
+        "name": "Malua",
+        "count": {
+            "desa": 8
+        }
+    },
+    {
+        "code": "731611",
+        "name": "Masalle",
+        "count": {
+            "desa": 6
+        }
+    }
+]

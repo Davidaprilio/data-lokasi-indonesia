@@ -1,0 +1,17 @@
+{
+    "code": "3505212005",
+    "name": "Ngrendeng",
+    "poscode": "66192",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3505",
+        "name": "Blitar"
+    },
+    "kecamatan": {
+        "code": "350521",
+        "name": "Selorejo"
+    }
+}

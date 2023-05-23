@@ -1,0 +1,17 @@
+{
+    "code": "1202092016",
+    "name": "Hutabulu",
+    "poscode": "22474",
+    "provinsi": {
+        "code": "12",
+        "name": "Sumatera Utara"
+    },
+    "kabupaten": {
+        "code": "1202",
+        "name": "Tapanuli Utara"
+    },
+    "kecamatan": {
+        "code": "120209",
+        "name": "Siborong-Borong"
+    }
+}

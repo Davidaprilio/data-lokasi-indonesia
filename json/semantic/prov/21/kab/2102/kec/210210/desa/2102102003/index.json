@@ -1,0 +1,17 @@
+{
+    "code": "2102102003",
+    "name": "Pangke",
+    "poscode": "29667",
+    "provinsi": {
+        "code": "21",
+        "name": "Kepulauan Riau"
+    },
+    "kabupaten": {
+        "code": "2102",
+        "name": "Karimun"
+    },
+    "kecamatan": {
+        "code": "210210",
+        "name": "Meral Barat"
+    }
+}

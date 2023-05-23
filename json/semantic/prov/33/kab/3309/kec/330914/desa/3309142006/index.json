@@ -1,0 +1,17 @@
+{
+    "code": "3309142006",
+    "name": "Tegalsari",
+    "poscode": "57311",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3309",
+        "name": "Boyolali"
+    },
+    "kecamatan": {
+        "code": "330914",
+        "name": "Karanggede"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "6105012011",
+    "name": "Sungai Ana",
+    "poscode": "78619",
+    "provinsi": {
+        "code": "61",
+        "name": "Kalimantan Barat"
+    },
+    "kabupaten": {
+        "code": "6105",
+        "name": "Sintang"
+    },
+    "kecamatan": {
+        "code": "610501",
+        "name": "Sintang"
+    }
+}

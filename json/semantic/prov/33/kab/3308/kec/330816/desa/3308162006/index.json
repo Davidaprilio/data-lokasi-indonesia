@@ -1,0 +1,17 @@
+{
+    "code": "3308162006",
+    "name": "Kaponan",
+    "poscode": "56193",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3308",
+        "name": "Magelang"
+    },
+    "kecamatan": {
+        "code": "330816",
+        "name": "Pakis"
+    }
+}

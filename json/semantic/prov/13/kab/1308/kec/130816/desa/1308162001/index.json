@@ -1,0 +1,17 @@
+{
+    "code": "1308162001",
+    "name": "Alahan Mati",
+    "poscode": "26382",
+    "provinsi": {
+        "code": "13",
+        "name": "Sumatera Barat"
+    },
+    "kabupaten": {
+        "code": "1308",
+        "name": "Pasaman"
+    },
+    "kecamatan": {
+        "code": "130816",
+        "name": "Simpang Alahan Mati"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "3578291001",
+    "name": "Kedung Cowek",
+    "poscode": "60125",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3578",
+        "name": "Surabaya"
+    },
+    "kecamatan": {
+        "code": "357829",
+        "name": "Bulak"
+    }
+}

@@ -1,0 +1,37 @@
+[
+    {
+        "code": "820703",
+        "name": "Morotai Jaya",
+        "count": {
+            "desa": 14
+        }
+    },
+    {
+        "code": "820701",
+        "name": "Morotai Selatan",
+        "count": {
+            "desa": 25
+        }
+    },
+    {
+        "code": "820702",
+        "name": "Morotai Selatan Barat",
+        "count": {
+            "desa": 20
+        }
+    },
+    {
+        "code": "820705",
+        "name": "Morotai Timur",
+        "count": {
+            "desa": 15
+        }
+    },
+    {
+        "code": "820704",
+        "name": "Morotai Utara",
+        "count": {
+            "desa": 14
+        }
+    }
+]

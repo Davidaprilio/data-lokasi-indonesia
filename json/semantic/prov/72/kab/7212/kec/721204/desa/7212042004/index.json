@@ -1,0 +1,17 @@
+{
+    "code": "7212042004",
+    "name": "Waraa",
+    "poscode": "94966",
+    "provinsi": {
+        "code": "72",
+        "name": "Sulawesi Tengah"
+    },
+    "kabupaten": {
+        "code": "7212",
+        "name": "Morowali Utara"
+    },
+    "kecamatan": {
+        "code": "721204",
+        "name": "Lembo"
+    }
+}

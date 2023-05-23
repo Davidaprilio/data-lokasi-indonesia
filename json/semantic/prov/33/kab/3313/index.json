@@ -1,0 +1,10 @@
+{
+    "code": "3313",
+    "type": "Kabupaten",
+    "name": "Karanganyar",
+    "fullname": "Kabupaten Karanganyar",
+    "jumlah": {
+        "kecamatan": 17,
+        "desa": 177
+    }
+}

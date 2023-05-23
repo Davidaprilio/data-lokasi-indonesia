@@ -1,0 +1,17 @@
+{
+    "code": "7373081002",
+    "name": "Murante",
+    "poscode": "91924",
+    "provinsi": {
+        "code": "73",
+        "name": "Sulawesi Selatan"
+    },
+    "kabupaten": {
+        "code": "7373",
+        "name": "Palopo"
+    },
+    "kecamatan": {
+        "code": "737308",
+        "name": "Mungkajang"
+    }
+}

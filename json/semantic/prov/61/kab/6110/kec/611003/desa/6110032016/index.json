@@ -1,0 +1,17 @@
+{
+    "code": "6110032016",
+    "name": "Pelempai Jaya",
+    "poscode": "79681",
+    "provinsi": {
+        "code": "61",
+        "name": "Kalimantan Barat"
+    },
+    "kabupaten": {
+        "code": "6110",
+        "name": "Melawi"
+    },
+    "kecamatan": {
+        "code": "611003",
+        "name": "Ella Hilir"
+    }
+}

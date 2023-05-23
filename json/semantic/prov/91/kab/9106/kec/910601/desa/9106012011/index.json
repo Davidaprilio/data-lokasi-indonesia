@@ -1,0 +1,17 @@
+{
+    "code": "9106012011",
+    "name": "Paray (Parai)",
+    "poscode": "98529",
+    "provinsi": {
+        "code": "91",
+        "name": "Papua"
+    },
+    "kabupaten": {
+        "code": "9106",
+        "name": "Biak Numfor"
+    },
+    "kecamatan": {
+        "code": "910601",
+        "name": "Biak Kota"
+    }
+}

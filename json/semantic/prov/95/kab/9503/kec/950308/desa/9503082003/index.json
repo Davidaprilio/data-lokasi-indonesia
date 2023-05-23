@@ -1,0 +1,17 @@
+{
+    "code": "9503082003",
+    "name": "Manggona",
+    "poscode": "99757",
+    "provinsi": {
+        "code": "95",
+        "name": "Papua Pegunungan"
+    },
+    "kabupaten": {
+        "code": "9503",
+        "name": "Yahukimo"
+    },
+    "kecamatan": {
+        "code": "950308",
+        "name": "Nalca"
+    }
+}

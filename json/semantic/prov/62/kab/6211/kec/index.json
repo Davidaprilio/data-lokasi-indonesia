@@ -1,0 +1,58 @@
+[
+    {
+        "code": "621104",
+        "name": "Banama Tingang",
+        "count": {
+            "desa": 15
+        }
+    },
+    {
+        "code": "621107",
+        "name": "Jabiren (Jabiren Raya)",
+        "count": {
+            "desa": 8
+        }
+    },
+    {
+        "code": "621105",
+        "name": "Kahayan Hilir",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "621102",
+        "name": "Kahayan Kuala",
+        "count": {
+            "desa": 13
+        }
+    },
+    {
+        "code": "621103",
+        "name": "Kahayan Tengah",
+        "count": {
+            "desa": 14
+        }
+    },
+    {
+        "code": "621106",
+        "name": "Maliku",
+        "count": {
+            "desa": 15
+        }
+    },
+    {
+        "code": "621101",
+        "name": "Pandih Batu",
+        "count": {
+            "desa": 16
+        }
+    },
+    {
+        "code": "621108",
+        "name": "Sebangau Kuala",
+        "count": {
+            "desa": 8
+        }
+    }
+]

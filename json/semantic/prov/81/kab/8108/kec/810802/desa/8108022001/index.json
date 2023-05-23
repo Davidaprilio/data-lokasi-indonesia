@@ -1,0 +1,17 @@
+{
+    "code": "8108022001",
+    "name": "Wulur",
+    "poscode": "97652",
+    "provinsi": {
+        "code": "81",
+        "name": "Maluku"
+    },
+    "kabupaten": {
+        "code": "8108",
+        "name": "Maluku Barat Daya"
+    },
+    "kecamatan": {
+        "code": "810802",
+        "name": "Damer"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "8203042016",
+    "name": "Toweka",
+    "poscode": "97761",
+    "provinsi": {
+        "code": "82",
+        "name": "Maluku Utara"
+    },
+    "kabupaten": {
+        "code": "8203",
+        "name": "Halmahera Utara"
+    },
+    "kecamatan": {
+        "code": "820304",
+        "name": "Galela"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "3372041003",
+    "name": "Sudiroprajan",
+    "poscode": "57121",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3372",
+        "name": "Surakarta"
+    },
+    "kecamatan": {
+        "code": "337204",
+        "name": "Jebres"
+    }
+}

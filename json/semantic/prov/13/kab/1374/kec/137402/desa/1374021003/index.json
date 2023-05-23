@@ -1,0 +1,17 @@
+{
+    "code": "1374021003",
+    "name": "Kampung Manggis",
+    "poscode": "27111",
+    "provinsi": {
+        "code": "13",
+        "name": "Sumatera Barat"
+    },
+    "kabupaten": {
+        "code": "1374",
+        "name": "Padang Panjang"
+    },
+    "kecamatan": {
+        "code": "137402",
+        "name": "Padang Panjang Barat"
+    }
+}

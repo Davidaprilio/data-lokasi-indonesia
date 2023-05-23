@@ -1,0 +1,17 @@
+{
+    "code": "3502102012",
+    "name": "Manuk",
+    "poscode": "63471",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3502",
+        "name": "Ponorogo"
+    },
+    "kecamatan": {
+        "code": "350210",
+        "name": "Siman"
+    }
+}

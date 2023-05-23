@@ -1,0 +1,17 @@
+{
+    "code": "3510161014",
+    "name": "Lateng",
+    "poscode": "68413",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3510",
+        "name": "Banyuwangi"
+    },
+    "kecamatan": {
+        "code": "351016",
+        "name": "Banyuwangi"
+    }
+}

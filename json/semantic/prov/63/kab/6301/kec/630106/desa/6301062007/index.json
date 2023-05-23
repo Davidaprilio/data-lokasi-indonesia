@@ -1,0 +1,17 @@
+{
+    "code": "6301062007",
+    "name": "Tanjung Dewa",
+    "poscode": "70871",
+    "provinsi": {
+        "code": "63",
+        "name": "Kalimantan Selatan"
+    },
+    "kabupaten": {
+        "code": "6301",
+        "name": "Tanah Laut"
+    },
+    "kecamatan": {
+        "code": "630106",
+        "name": "Panyipatan"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "3521092007",
+    "name": "Jururejo",
+    "poscode": "63215",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3521",
+        "name": "Ngawi"
+    },
+    "kecamatan": {
+        "code": "352109",
+        "name": "Ngawi"
+    }
+}

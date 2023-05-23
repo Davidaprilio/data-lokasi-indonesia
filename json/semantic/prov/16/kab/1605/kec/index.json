@@ -1,0 +1,100 @@
+[
+    {
+        "code": "160514",
+        "name": "BTS Ulu",
+        "count": {
+            "desa": 19
+        }
+    },
+    {
+        "code": "160508",
+        "name": "Jayaloka (Jaya Loka)",
+        "count": {
+            "desa": 13
+        }
+    },
+    {
+        "code": "160512",
+        "name": "Megang Sakti",
+        "count": {
+            "desa": 21
+        }
+    },
+    {
+        "code": "160509",
+        "name": "Muara Beliti",
+        "count": {
+            "desa": 12
+        }
+    },
+    {
+        "code": "160503",
+        "name": "Muara Kelingi",
+        "count": {
+            "desa": 21
+        }
+    },
+    {
+        "code": "160502",
+        "name": "Muara Lakitan",
+        "count": {
+            "desa": 20
+        }
+    },
+    {
+        "code": "160513",
+        "name": "Purwodadi",
+        "count": {
+            "desa": 11
+        }
+    },
+    {
+        "code": "160511",
+        "name": "Selangit",
+        "count": {
+            "desa": 12
+        }
+    },
+    {
+        "code": "160521",
+        "name": "Suka Karya (Sukakarya)",
+        "count": {
+            "desa": 8
+        }
+    },
+    {
+        "code": "160510",
+        "name": "Suku Tengah Lakitan Ulu Terawas",
+        "count": {
+            "desa": 13
+        }
+    },
+    {
+        "code": "160519",
+        "name": "Sumber Harta",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "160518",
+        "name": "Tiang Pumpung Kepungut",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "160520",
+        "name": "Tuah Negeri",
+        "count": {
+            "desa": 11
+        }
+    },
+    {
+        "code": "160501",
+        "name": "Tugumulyo",
+        "count": {
+            "desa": 18
+        }
+    }
+]

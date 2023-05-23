@@ -1,0 +1,17 @@
+{
+    "code": "3316052002",
+    "name": "Ngloram",
+    "poscode": "58315",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3316",
+        "name": "Blora"
+    },
+    "kecamatan": {
+        "code": "331605",
+        "name": "Cepu"
+    }
+}

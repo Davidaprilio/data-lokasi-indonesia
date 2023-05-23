@@ -1,0 +1,17 @@
+{
+    "code": "1271021006",
+    "name": "Simpang Tanjung",
+    "poscode": "20122",
+    "provinsi": {
+        "code": "12",
+        "name": "Sumatera Utara"
+    },
+    "kabupaten": {
+        "code": "1271",
+        "name": "Medan"
+    },
+    "kecamatan": {
+        "code": "127102",
+        "name": "Medan Sunggal"
+    }
+}

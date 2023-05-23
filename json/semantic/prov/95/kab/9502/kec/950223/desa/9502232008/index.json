@@ -1,0 +1,17 @@
+{
+    "code": "9502232008",
+    "name": "Okalut Kumal",
+    "poscode": "99423",
+    "provinsi": {
+        "code": "95",
+        "name": "Papua Pegunungan"
+    },
+    "kabupaten": {
+        "code": "9502",
+        "name": "Pegunungan Bintang"
+    },
+    "kecamatan": {
+        "code": "950223",
+        "name": "Okbemtau"
+    }
+}

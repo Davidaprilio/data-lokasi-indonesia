@@ -1,0 +1,17 @@
+{
+    "code": "3315162024",
+    "name": "Bringin",
+    "poscode": "58162",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3315",
+        "name": "Grobogan"
+    },
+    "kecamatan": {
+        "code": "331516",
+        "name": "Godong"
+    }
+}

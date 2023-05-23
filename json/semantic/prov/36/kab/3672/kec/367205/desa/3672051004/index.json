@@ -1,0 +1,17 @@
+{
+    "code": "3672051004",
+    "name": "Panggung Rawi",
+    "poscode": "42412",
+    "provinsi": {
+        "code": "36",
+        "name": "Banten"
+    },
+    "kabupaten": {
+        "code": "3672",
+        "name": "Cilegon"
+    },
+    "kecamatan": {
+        "code": "367205",
+        "name": "Jombang"
+    }
+}

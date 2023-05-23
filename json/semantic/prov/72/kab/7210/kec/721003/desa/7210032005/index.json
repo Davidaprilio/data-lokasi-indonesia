@@ -1,0 +1,17 @@
+{
+    "code": "7210032005",
+    "name": "Bulili",
+    "poscode": "94365",
+    "provinsi": {
+        "code": "72",
+        "name": "Sulawesi Tengah"
+    },
+    "kabupaten": {
+        "code": "7210",
+        "name": "Sigi"
+    },
+    "kecamatan": {
+        "code": "721003",
+        "name": "Nokilalaki"
+    }
+}

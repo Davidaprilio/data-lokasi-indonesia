@@ -1,0 +1,17 @@
+{
+    "code": "3213262002",
+    "name": "Pasanggrahan",
+    "poscode": "41287",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3213",
+        "name": "Subang"
+    },
+    "kecamatan": {
+        "code": "321326",
+        "name": "Kasomalang"
+    }
+}

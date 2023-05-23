@@ -1,0 +1,17 @@
+{
+    "code": "7411011016",
+    "name": "Tababu",
+    "poscode": "93582",
+    "provinsi": {
+        "code": "74",
+        "name": "Sulawesi Tenggara"
+    },
+    "kabupaten": {
+        "code": "7411",
+        "name": "Kolaka Timur"
+    },
+    "kecamatan": {
+        "code": "741101",
+        "name": "Tirawuta"
+    }
+}

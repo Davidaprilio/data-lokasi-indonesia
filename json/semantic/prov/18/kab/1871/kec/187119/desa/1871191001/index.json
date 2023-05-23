@@ -1,0 +1,17 @@
+{
+    "code": "1871191001",
+    "name": "Kota Karang",
+    "poscode": "35231",
+    "provinsi": {
+        "code": "18",
+        "name": "Lampung"
+    },
+    "kabupaten": {
+        "code": "1871",
+        "name": "Bandar Lampung"
+    },
+    "kecamatan": {
+        "code": "187119",
+        "name": "Telukbetung Timur"
+    }
+}

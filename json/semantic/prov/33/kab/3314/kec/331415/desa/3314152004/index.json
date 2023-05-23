@@ -1,0 +1,17 @@
+{
+    "code": "3314152004",
+    "name": "Cepoko",
+    "poscode": "57272",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3314",
+        "name": "Sragen"
+    },
+    "kecamatan": {
+        "code": "331415",
+        "name": "Sumberlawang"
+    }
+}

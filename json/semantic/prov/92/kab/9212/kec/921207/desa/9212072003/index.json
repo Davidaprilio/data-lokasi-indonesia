@@ -1,0 +1,17 @@
+{
+    "code": "9212072003",
+    "name": "Mihou",
+    "poscode": "98352",
+    "provinsi": {
+        "code": "92",
+        "name": "Papua Barat"
+    },
+    "kabupaten": {
+        "code": "9212",
+        "name": "Pegunungan Arfak"
+    },
+    "kecamatan": {
+        "code": "921207",
+        "name": "Catubouw"
+    }
+}

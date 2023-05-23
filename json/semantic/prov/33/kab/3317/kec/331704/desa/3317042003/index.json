@@ -1,0 +1,17 @@
+{
+    "code": "3317042003",
+    "name": "Ngajaran",
+    "poscode": "59265",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3317",
+        "name": "Rembang"
+    },
+    "kecamatan": {
+        "code": "331704",
+        "name": "Sale"
+    }
+}

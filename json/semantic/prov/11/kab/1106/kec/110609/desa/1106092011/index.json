@@ -1,0 +1,17 @@
+{
+    "code": "1106092011",
+    "name": "Durung",
+    "poscode": "23381",
+    "provinsi": {
+        "code": "11",
+        "name": "Aceh (NAD)"
+    },
+    "kabupaten": {
+        "code": "1106",
+        "name": "Aceh Besar"
+    },
+    "kecamatan": {
+        "code": "110609",
+        "name": "Mesjid Raya"
+    }
+}

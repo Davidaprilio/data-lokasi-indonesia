@@ -1,0 +1,17 @@
+{
+    "code": "3209352008",
+    "name": "Kalitengah",
+    "poscode": "45168",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3209",
+        "name": "Cirebon"
+    },
+    "kecamatan": {
+        "code": "320935",
+        "name": "Tengah Tani"
+    }
+}

@@ -1,0 +1,51 @@
+[
+    {
+        "code": "147203",
+        "name": "Bukit Kapur",
+        "count": {
+            "desa": 5
+        }
+    },
+    {
+        "code": "147201",
+        "name": "Dumai Barat",
+        "count": {
+            "desa": 4
+        }
+    },
+    {
+        "code": "147206",
+        "name": "Dumai Kota",
+        "count": {
+            "desa": 5
+        }
+    },
+    {
+        "code": "147207",
+        "name": "Dumai Selatan",
+        "count": {
+            "desa": 5
+        }
+    },
+    {
+        "code": "147202",
+        "name": "Dumai Timur",
+        "count": {
+            "desa": 5
+        }
+    },
+    {
+        "code": "147205",
+        "name": "Medang Kampai",
+        "count": {
+            "desa": 4
+        }
+    },
+    {
+        "code": "147204",
+        "name": "Sungai Sembilan",
+        "count": {
+            "desa": 5
+        }
+    }
+]

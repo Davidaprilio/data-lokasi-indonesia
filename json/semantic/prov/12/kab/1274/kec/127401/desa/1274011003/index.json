@@ -1,0 +1,17 @@
+{
+    "code": "1274011003",
+    "name": "Perwira",
+    "poscode": "21313",
+    "provinsi": {
+        "code": "12",
+        "name": "Sumatera Utara"
+    },
+    "kabupaten": {
+        "code": "1274",
+        "name": "Tanjung Balai"
+    },
+    "kecamatan": {
+        "code": "127401",
+        "name": "Tanjung Balai Selatan"
+    }
+}

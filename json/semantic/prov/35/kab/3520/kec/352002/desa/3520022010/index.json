@@ -1,0 +1,17 @@
+{
+    "code": "3520022010",
+    "name": "Pragak",
+    "poscode": "63371",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3520",
+        "name": "Magetan"
+    },
+    "kecamatan": {
+        "code": "352002",
+        "name": "Parang"
+    }
+}

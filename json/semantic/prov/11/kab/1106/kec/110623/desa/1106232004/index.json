@@ -1,0 +1,17 @@
+{
+    "code": "1106232004",
+    "name": "Lam Siem",
+    "poscode": "23360",
+    "provinsi": {
+        "code": "11",
+        "name": "Aceh (NAD)"
+    },
+    "kabupaten": {
+        "code": "1106",
+        "name": "Aceh Besar"
+    },
+    "kecamatan": {
+        "code": "110623",
+        "name": "Blang Bintang (Blank Bintang)"
+    }
+}

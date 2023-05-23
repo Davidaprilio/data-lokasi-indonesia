@@ -1,0 +1,17 @@
+{
+    "code": "6503032003",
+    "name": "Atap",
+    "poscode": "77453",
+    "provinsi": {
+        "code": "65",
+        "name": "Kalimantan Utara"
+    },
+    "kabupaten": {
+        "code": "6503",
+        "name": "Nunukan"
+    },
+    "kecamatan": {
+        "code": "650303",
+        "name": "Sembakung"
+    }
+}

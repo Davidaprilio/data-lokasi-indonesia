@@ -1,0 +1,17 @@
+{
+    "code": "3506102020",
+    "name": "Gayam",
+    "poscode": "64113",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3506",
+        "name": "Kediri"
+    },
+    "kecamatan": {
+        "code": "350610",
+        "name": "Gurah"
+    }
+}

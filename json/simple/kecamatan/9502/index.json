@@ -1,0 +1,240 @@
+[
+    {
+        "code": "950208",
+        "name": "Aboy",
+        "count": {
+            "desa": 7
+        }
+    },
+    {
+        "code": "950211",
+        "name": "Alemsom",
+        "count": {
+            "desa": 12
+        }
+    },
+    {
+        "code": "950218",
+        "name": "Awinbon",
+        "count": {
+            "desa": 5
+        }
+    },
+    {
+        "code": "950226",
+        "name": "Batani",
+        "count": {
+            "desa": 7
+        }
+    },
+    {
+        "code": "950205",
+        "name": "Batom",
+        "count": {
+            "desa": 11
+        }
+    },
+    {
+        "code": "950210",
+        "name": "Bime",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "950206",
+        "name": "Borme",
+        "count": {
+            "desa": 13
+        }
+    },
+    {
+        "code": "950232",
+        "name": "Eipumek",
+        "count": {
+            "desa": 14
+        }
+    },
+    {
+        "code": "950204",
+        "name": "Iwur (Okiwur)",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "950230",
+        "name": "Jetfa",
+        "count": {
+            "desa": 6
+        }
+    },
+    {
+        "code": "950213",
+        "name": "Kalomdol",
+        "count": {
+            "desa": 5
+        }
+    },
+    {
+        "code": "950217",
+        "name": "Kawor",
+        "count": {
+            "desa": 7
+        }
+    },
+    {
+        "code": "950202",
+        "name": "Kiwirok",
+        "count": {
+            "desa": 12
+        }
+    },
+    {
+        "code": "950207",
+        "name": "Kiwirok Timur",
+        "count": {
+            "desa": 9
+        }
+    },
+    {
+        "code": "950229",
+        "name": "Mofinop",
+        "count": {
+            "desa": 5
+        }
+    },
+    {
+        "code": "950228",
+        "name": "Murkim",
+        "count": {
+            "desa": 4
+        }
+    },
+    {
+        "code": "950234",
+        "name": "Nongme",
+        "count": {
+            "desa": 7
+        }
+    },
+    {
+        "code": "950216",
+        "name": "Ok Aom",
+        "count": {
+            "desa": 6
+        }
+    },
+    {
+        "code": "950225",
+        "name": "Okbab",
+        "count": {
+            "desa": 12
+        }
+    },
+    {
+        "code": "950212",
+        "name": "Okbape",
+        "count": {
+            "desa": 6
+        }
+    },
+    {
+        "code": "950223",
+        "name": "Okbemtau",
+        "count": {
+            "desa": 9
+        }
+    },
+    {
+        "code": "950203",
+        "name": "Okbibab",
+        "count": {
+            "desa": 8
+        }
+    },
+    {
+        "code": "950220",
+        "name": "Okhika",
+        "count": {
+            "desa": 4
+        }
+    },
+    {
+        "code": "950222",
+        "name": "Oklip",
+        "count": {
+            "desa": 7
+        }
+    },
+    {
+        "code": "950221",
+        "name": "Oksamol",
+        "count": {
+            "desa": 12
+        }
+    },
+    {
+        "code": "950224",
+        "name": "Oksebang",
+        "count": {
+            "desa": 4
+        }
+    },
+    {
+        "code": "950201",
+        "name": "Oksibil",
+        "count": {
+            "desa": 8
+        }
+    },
+    {
+        "code": "950214",
+        "name": "Oksop",
+        "count": {
+            "desa": 5
+        }
+    },
+    {
+        "code": "950233",
+        "name": "Pamek",
+        "count": {
+            "desa": 11
+        }
+    },
+    {
+        "code": "950209",
+        "name": "Pepera",
+        "count": {
+            "desa": 7
+        }
+    },
+    {
+        "code": "950215",
+        "name": "Serambakon",
+        "count": {
+            "desa": 8
+        }
+    },
+    {
+        "code": "950219",
+        "name": "Tarup",
+        "count": {
+            "desa": 7
+        }
+    },
+    {
+        "code": "950231",
+        "name": "Teiraplu",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "950227",
+        "name": "Weime",
+        "count": {
+            "desa": 9
+        }
+    }
+]

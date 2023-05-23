@@ -1,0 +1,17 @@
+{
+    "code": "7603122008",
+    "name": "Balla Timur",
+    "poscode": "91366",
+    "provinsi": {
+        "code": "76",
+        "name": "Sulawesi Barat"
+    },
+    "kabupaten": {
+        "code": "7603",
+        "name": "Mamasa"
+    },
+    "kecamatan": {
+        "code": "760312",
+        "name": "Balla"
+    }
+}

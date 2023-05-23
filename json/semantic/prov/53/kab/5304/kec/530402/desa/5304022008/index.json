@@ -1,0 +1,17 @@
+{
+    "code": "5304022008",
+    "name": "Takirin",
+    "poscode": "85771",
+    "provinsi": {
+        "code": "53",
+        "name": "Nusa Tenggara Timur (NTT)"
+    },
+    "kabupaten": {
+        "code": "5304",
+        "name": "Belu"
+    },
+    "kecamatan": {
+        "code": "530402",
+        "name": "Tasifeto Timur"
+    }
+}

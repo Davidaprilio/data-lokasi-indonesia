@@ -1,0 +1,17 @@
+{
+    "code": "1117072018",
+    "name": "Rembune",
+    "poscode": "24555",
+    "provinsi": {
+        "code": "11",
+        "name": "Aceh (NAD)"
+    },
+    "kabupaten": {
+        "code": "1117",
+        "name": "Bener Meriah"
+    },
+    "kecamatan": {
+        "code": "111707",
+        "name": "Timang Gajah"
+    }
+}

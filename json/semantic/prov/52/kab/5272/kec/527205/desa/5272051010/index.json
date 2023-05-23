@@ -1,0 +1,17 @@
+{
+    "code": "5272051010",
+    "name": "Matakando",
+    "poscode": "84119",
+    "provinsi": {
+        "code": "52",
+        "name": "Nusa Tenggara Barat (NTB)"
+    },
+    "kabupaten": {
+        "code": "5272",
+        "name": "Bima"
+    },
+    "kecamatan": {
+        "code": "527205",
+        "name": "Mpunda"
+    }
+}

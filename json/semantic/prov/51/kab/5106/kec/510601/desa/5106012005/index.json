@@ -1,0 +1,17 @@
+{
+    "code": "5106012005",
+    "name": "Sulahan",
+    "poscode": "80661",
+    "provinsi": {
+        "code": "51",
+        "name": "Bali"
+    },
+    "kabupaten": {
+        "code": "5106",
+        "name": "Bangli"
+    },
+    "kecamatan": {
+        "code": "510601",
+        "name": "Susut"
+    }
+}

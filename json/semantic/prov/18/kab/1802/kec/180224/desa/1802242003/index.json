@@ -1,0 +1,17 @@
+{
+    "code": "1802242003",
+    "name": "Bumi Nabung Utara",
+    "poscode": "34168",
+    "provinsi": {
+        "code": "18",
+        "name": "Lampung"
+    },
+    "kabupaten": {
+        "code": "1802",
+        "name": "Lampung Tengah"
+    },
+    "kecamatan": {
+        "code": "180224",
+        "name": "Bumi Nabung"
+    }
+}

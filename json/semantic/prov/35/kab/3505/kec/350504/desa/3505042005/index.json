@@ -1,0 +1,17 @@
+{
+    "code": "3505042005",
+    "name": "Bendosari",
+    "poscode": "66161",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3505",
+        "name": "Blitar"
+    },
+    "kecamatan": {
+        "code": "350504",
+        "name": "Kademangan"
+    }
+}

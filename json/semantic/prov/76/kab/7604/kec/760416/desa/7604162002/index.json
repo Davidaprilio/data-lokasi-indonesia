@@ -1,0 +1,17 @@
+{
+    "code": "7604162002",
+    "name": "Pulliwa",
+    "poscode": "91353",
+    "provinsi": {
+        "code": "76",
+        "name": "Sulawesi Barat"
+    },
+    "kabupaten": {
+        "code": "7604",
+        "name": "Polewali Mandar"
+    },
+    "kecamatan": {
+        "code": "760416",
+        "name": "Bulo"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "5206122006",
+    "name": "Rato",
+    "poscode": "84182",
+    "provinsi": {
+        "code": "52",
+        "name": "Nusa Tenggara Barat (NTB)"
+    },
+    "kabupaten": {
+        "code": "5206",
+        "name": "Bima"
+    },
+    "kecamatan": {
+        "code": "520612",
+        "name": "Lambu"
+    }
+}

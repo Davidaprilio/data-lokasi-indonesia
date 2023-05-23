@@ -1,0 +1,287 @@
+[
+    {
+        "code": "3306022008",
+        "name": "Awu-awu (Awuawu)",
+        "poscode": "54172"
+    },
+    {
+        "code": "3306022028",
+        "name": "Bojong",
+        "poscode": "54172"
+    },
+    {
+        "code": "3306022032",
+        "name": "Briyan",
+        "poscode": "54172"
+    },
+    {
+        "code": "3306022035",
+        "name": "Candi",
+        "poscode": "54172"
+    },
+    {
+        "code": "3306022027",
+        "name": "Cokroyasan",
+        "poscode": "54172"
+    },
+    {
+        "code": "3306022050",
+        "name": "Curug",
+        "poscode": "54172"
+    },
+    {
+        "code": "3306022006",
+        "name": "Depokrejo",
+        "poscode": "54172"
+    },
+    {
+        "code": "3306022002",
+        "name": "Girirejo",
+        "poscode": "54172"
+    },
+    {
+        "code": "3306022015",
+        "name": "Jeruken",
+        "poscode": "54172"
+    },
+    {
+        "code": "3306022041",
+        "name": "Jombang",
+        "poscode": "54172"
+    },
+    {
+        "code": "3306022034",
+        "name": "Joso",
+        "poscode": "54172"
+    },
+    {
+        "code": "3306022017",
+        "name": "Kalitanjung",
+        "poscode": "54172"
+    },
+    {
+        "code": "3306022025",
+        "name": "Kaliwungukidul (Kaliwungu Kidul)",
+        "poscode": "54172"
+    },
+    {
+        "code": "3306022026",
+        "name": "Kaliwungulor (Kaliwungu Lor)",
+        "poscode": "54172"
+    },
+    {
+        "code": "3306022029",
+        "name": "Karangtalun",
+        "poscode": "54172"
+    },
+    {
+        "code": "3306022007",
+        "name": "Keburuhan",
+        "poscode": "54172"
+    },
+    {
+        "code": "3306022019",
+        "name": "Kedondong",
+        "poscode": "54172"
+    },
+    {
+        "code": "3306022040",
+        "name": "Kembangkuning",
+        "poscode": "54172"
+    },
+    {
+        "code": "3306022010",
+        "name": "Kesidan",
+        "poscode": "54172"
+    },
+    {
+        "code": "3306022031",
+        "name": "Klandaran",
+        "poscode": "54172"
+    },
+    {
+        "code": "3306022009",
+        "name": "Kumpulsari",
+        "poscode": "54172"
+    },
+    {
+        "code": "3306022018",
+        "name": "Kuwukan",
+        "poscode": "54172"
+    },
+    {
+        "code": "3306022021",
+        "name": "Laban",
+        "poscode": "54172"
+    },
+    {
+        "code": "3306022005",
+        "name": "Malang",
+        "poscode": "54172"
+    },
+    {
+        "code": "3306022042",
+        "name": "Mendiro",
+        "poscode": "54172"
+    },
+    {
+        "code": "3306022001",
+        "name": "Ngentak",
+        "poscode": "54172"
+    },
+    {
+        "code": "3306022033",
+        "name": "Ngombol",
+        "poscode": "54172"
+    },
+    {
+        "code": "3306022004",
+        "name": "Pagak",
+        "poscode": "54172"
+    },
+    {
+        "code": "3306022012",
+        "name": "Pejagran",
+        "poscode": "54172"
+    },
+    {
+        "code": "3306022054",
+        "name": "Piyono",
+        "poscode": "54172"
+    },
+    {
+        "code": "3306022036",
+        "name": "Pulutan",
+        "poscode": "54172"
+    },
+    {
+        "code": "3306022020",
+        "name": "Rasukan",
+        "poscode": "54172"
+    },
+    {
+        "code": "3306022024",
+        "name": "Ringgit",
+        "poscode": "54172"
+    },
+    {
+        "code": "3306022057",
+        "name": "Seboropasar (Seboro Pasar)",
+        "poscode": "54172"
+    },
+    {
+        "code": "3306022056",
+        "name": "Secang",
+        "poscode": "54172"
+    },
+    {
+        "code": "3306022047",
+        "name": "Singkilkulon (Singkil Kulon)",
+        "poscode": "54172"
+    },
+    {
+        "code": "3306022048",
+        "name": "Singkilwetan (Singkil Wetan)",
+        "poscode": "54172"
+    },
+    {
+        "code": "3306022038",
+        "name": "Sruwoh",
+        "poscode": "54172"
+    },
+    {
+        "code": "3306022044",
+        "name": "Sumberrejo (Sumberejo)",
+        "poscode": "54172"
+    },
+    {
+        "code": "3306022030",
+        "name": "Susuk",
+        "poscode": "54172"
+    },
+    {
+        "code": "3306022055",
+        "name": "Tanjung",
+        "poscode": "54172"
+    },
+    {
+        "code": "3306022016",
+        "name": "Tanjungrejo",
+        "poscode": "54172"
+    },
+    {
+        "code": "3306022049",
+        "name": "Tumenggungan",
+        "poscode": "54172"
+    },
+    {
+        "code": "3306022023",
+        "name": "Tunjungan",
+        "poscode": "54172"
+    },
+    {
+        "code": "3306022037",
+        "name": "Walikoro",
+        "poscode": "54172"
+    },
+    {
+        "code": "3306022022",
+        "name": "Wasiat",
+        "poscode": "54172"
+    },
+    {
+        "code": "3306022003",
+        "name": "Wero",
+        "poscode": "54172"
+    },
+    {
+        "code": "3306022046",
+        "name": "Wingkoharjo",
+        "poscode": "54172"
+    },
+    {
+        "code": "3306022052",
+        "name": "Wingkomulyo",
+        "poscode": "54172"
+    },
+    {
+        "code": "3306022051",
+        "name": "Wingkosanggrahan (Wingko Sanggrahan)",
+        "poscode": "54172"
+    },
+    {
+        "code": "3306022045",
+        "name": "Wingkosigromulyo (Wingko Sigromulyo)",
+        "poscode": "54172"
+    },
+    {
+        "code": "3306022053",
+        "name": "Wingkotinumpuk (Wingko Tinumpuk)",
+        "poscode": "54172"
+    },
+    {
+        "code": "3306022039",
+        "name": "Wonoboyo",
+        "poscode": "54172"
+    },
+    {
+        "code": "3306022011",
+        "name": "Wonoroto",
+        "poscode": "54172"
+    },
+    {
+        "code": "3306022013",
+        "name": "Wonosari",
+        "poscode": "54172"
+    },
+    {
+        "code": "3306022014",
+        "name": "Wonosri",
+        "poscode": "54172"
+    },
+    {
+        "code": "3306022043",
+        "name": "Wunut",
+        "poscode": "54172"
+    }
+]

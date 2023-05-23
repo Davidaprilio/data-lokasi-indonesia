@@ -1,0 +1,17 @@
+{
+    "code": "1871151006",
+    "name": "Jagabaya III",
+    "poscode": "35132",
+    "provinsi": {
+        "code": "18",
+        "name": "Lampung"
+    },
+    "kabupaten": {
+        "code": "1871",
+        "name": "Bandar Lampung"
+    },
+    "kecamatan": {
+        "code": "187115",
+        "name": "Way Halim"
+    }
+}

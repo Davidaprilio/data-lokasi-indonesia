@@ -1,0 +1,142 @@
+[
+    {
+        "code": "630301",
+        "name": "Aluh-Aluh",
+        "count": {
+            "desa": 19
+        }
+    },
+    {
+        "code": "630311",
+        "name": "Aranio",
+        "count": {
+            "desa": 12
+        }
+    },
+    {
+        "code": "630307",
+        "name": "Astambul",
+        "count": {
+            "desa": 22
+        }
+    },
+    {
+        "code": "630313",
+        "name": "Beruntung Baru",
+        "count": {
+            "desa": 12
+        }
+    },
+    {
+        "code": "630320",
+        "name": "Cintapuri Darussalam",
+        "count": {
+            "desa": 11
+        }
+    },
+    {
+        "code": "630303",
+        "name": "Gambut",
+        "count": {
+            "desa": 14
+        }
+    },
+    {
+        "code": "630306",
+        "name": "Karang Intan",
+        "count": {
+            "desa": 26
+        }
+    },
+    {
+        "code": "630302",
+        "name": "Kertak Hanyar",
+        "count": {
+            "desa": 13
+        }
+    },
+    {
+        "code": "630305",
+        "name": "Martapura (Martapura Kota)",
+        "count": {
+            "desa": 26
+        }
+    },
+    {
+        "code": "630314",
+        "name": "Martapura Barat",
+        "count": {
+            "desa": 13
+        }
+    },
+    {
+        "code": "630315",
+        "name": "Martapura Timur",
+        "count": {
+            "desa": 20
+        }
+    },
+    {
+        "code": "630312",
+        "name": "Mataraman",
+        "count": {
+            "desa": 15
+        }
+    },
+    {
+        "code": "630317",
+        "name": "Paramasan (Peramasan)",
+        "count": {
+            "desa": 4
+        }
+    },
+    {
+        "code": "630309",
+        "name": "Pengarom (Pengaron)",
+        "count": {
+            "desa": 12
+        }
+    },
+    {
+        "code": "630316",
+        "name": "Sambung Makmur",
+        "count": {
+            "desa": 7
+        }
+    },
+    {
+        "code": "630310",
+        "name": "Sei/Sungai Pinang",
+        "count": {
+            "desa": 11
+        }
+    },
+    {
+        "code": "630304",
+        "name": "Sei/Sungai Tabuk",
+        "count": {
+            "desa": 21
+        }
+    },
+    {
+        "code": "630308",
+        "name": "Simpang Empat",
+        "count": {
+            "desa": 15
+        }
+    },
+    {
+        "code": "630319",
+        "name": "Tatah Makmur",
+        "count": {
+            "desa": 13
+        }
+    },
+    {
+        "code": "630318",
+        "name": "Telaga Bauntung",
+        "count": {
+            "desa": 4
+        }
+    }
+]

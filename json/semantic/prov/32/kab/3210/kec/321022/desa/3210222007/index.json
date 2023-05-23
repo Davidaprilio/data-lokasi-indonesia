@@ -1,0 +1,17 @@
+{
+    "code": "3210222007",
+    "name": "Cimeong",
+    "poscode": "45468",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3210",
+        "name": "Majalengka"
+    },
+    "kecamatan": {
+        "code": "321022",
+        "name": "Banjaran"
+    }
+}

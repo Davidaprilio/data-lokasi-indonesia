@@ -1,0 +1,17 @@
+{
+    "code": "1608092022",
+    "name": "Bangun Rejo",
+    "poscode": "32383",
+    "provinsi": {
+        "code": "16",
+        "name": "Sumatera Selatan"
+    },
+    "kabupaten": {
+        "code": "1608",
+        "name": "Ogan Komering Ulu Timur"
+    },
+    "kecamatan": {
+        "code": "160809",
+        "name": "Belitang II"
+    }
+}

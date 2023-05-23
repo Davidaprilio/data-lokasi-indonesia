@@ -1,0 +1,17 @@
+{
+    "code": "3271051005",
+    "name": "Cibuluh",
+    "poscode": "16151",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3271",
+        "name": "Bogor"
+    },
+    "kecamatan": {
+        "code": "327105",
+        "name": "Bogor Utara"
+    }
+}

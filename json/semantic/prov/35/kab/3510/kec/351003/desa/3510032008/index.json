@@ -1,0 +1,17 @@
+{
+    "code": "3510032008",
+    "name": "Karetan",
+    "poscode": "68483",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3510",
+        "name": "Banyuwangi"
+    },
+    "kecamatan": {
+        "code": "351003",
+        "name": "Purwoharjo"
+    }
+}

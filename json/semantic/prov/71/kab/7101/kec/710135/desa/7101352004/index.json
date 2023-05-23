@@ -1,0 +1,17 @@
+{
+    "code": "7101352004",
+    "name": "Kosio",
+    "poscode": "95732",
+    "provinsi": {
+        "code": "71",
+        "name": "Sulawesi Utara"
+    },
+    "kabupaten": {
+        "code": "7101",
+        "name": "Bolaang Mongondow"
+    },
+    "kecamatan": {
+        "code": "710135",
+        "name": "Dumoga Tengah"
+    }
+}

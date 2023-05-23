@@ -1,0 +1,17 @@
+{
+    "code": "3205342004",
+    "name": "Pananjung",
+    "poscode": "44168",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3205",
+        "name": "Garut"
+    },
+    "kecamatan": {
+        "code": "320534",
+        "name": "Pamulihan"
+    }
+}

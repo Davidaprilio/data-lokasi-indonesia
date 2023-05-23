@@ -1,0 +1,17 @@
+{
+    "code": "9204212002",
+    "name": "Kayubiro",
+    "poscode": "98224",
+    "provinsi": {
+        "code": "96",
+        "name": "Papua Barat Daya"
+    },
+    "kabupaten": {
+        "code": "9204",
+        "name": "Sorong Selatan"
+    },
+    "kecamatan": {
+        "code": "920421",
+        "name": "Kokoda Utara"
+    }
+}

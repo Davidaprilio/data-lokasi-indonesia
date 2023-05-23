@@ -1,0 +1,17 @@
+{
+    "code": "7106042015",
+    "name": "Lansa",
+    "poscode": "95376",
+    "provinsi": {
+        "code": "71",
+        "name": "Sulawesi Utara"
+    },
+    "kabupaten": {
+        "code": "7106",
+        "name": "Minahasa Utara"
+    },
+    "kecamatan": {
+        "code": "710604",
+        "name": "Wori"
+    }
+}

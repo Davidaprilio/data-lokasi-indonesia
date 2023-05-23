@@ -1,0 +1,17 @@
+{
+    "code": "3212162005",
+    "name": "Terusan",
+    "poscode": "45224",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3212",
+        "name": "Indramayu"
+    },
+    "kecamatan": {
+        "code": "321216",
+        "name": "Sindang"
+    }
+}

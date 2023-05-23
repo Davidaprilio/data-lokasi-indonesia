@@ -1,0 +1,17 @@
+{
+    "code": "1115092001",
+    "name": "Kuala Teripa/Tripa",
+    "poscode": "23663",
+    "provinsi": {
+        "code": "11",
+        "name": "Aceh (NAD)"
+    },
+    "kabupaten": {
+        "code": "1115",
+        "name": "Nagan Raya"
+    },
+    "kecamatan": {
+        "code": "111509",
+        "name": "Tripa Makmur"
+    }
+}

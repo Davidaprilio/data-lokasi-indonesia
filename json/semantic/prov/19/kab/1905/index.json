@@ -1,0 +1,10 @@
+{
+    "code": "1905",
+    "type": "Kabupaten",
+    "name": "Bangka Barat",
+    "fullname": "Kabupaten Bangka Barat",
+    "jumlah": {
+        "kecamatan": 6,
+        "desa": 64
+    }
+}

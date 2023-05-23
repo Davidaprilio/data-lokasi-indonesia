@@ -1,0 +1,17 @@
+{
+    "code": "1106062006",
+    "name": "Seumeureung",
+    "poscode": "23361",
+    "provinsi": {
+        "code": "11",
+        "name": "Aceh (NAD)"
+    },
+    "kabupaten": {
+        "code": "1106",
+        "name": "Aceh Besar"
+    },
+    "kecamatan": {
+        "code": "110606",
+        "name": "Sukamakmur (Suka Makmur)"
+    }
+}

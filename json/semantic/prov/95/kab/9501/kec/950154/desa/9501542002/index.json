@@ -1,0 +1,17 @@
+{
+    "code": "9501542002",
+    "name": "Telegai",
+    "poscode": "99544",
+    "provinsi": {
+        "code": "95",
+        "name": "Papua Pegunungan"
+    },
+    "kabupaten": {
+        "code": "9501",
+        "name": "Jayawijaya"
+    },
+    "kecamatan": {
+        "code": "950154",
+        "name": "Koragi"
+    }
+}

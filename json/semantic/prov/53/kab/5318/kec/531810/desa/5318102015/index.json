@@ -1,0 +1,17 @@
+{
+    "code": "5318102015",
+    "name": "Kadi Roma",
+    "poscode": "87252",
+    "provinsi": {
+        "code": "53",
+        "name": "Nusa Tenggara Timur (NTT)"
+    },
+    "kabupaten": {
+        "code": "5318",
+        "name": "Sumba Barat Daya"
+    },
+    "kecamatan": {
+        "code": "531810",
+        "name": "Wewewa Tengah"
+    }
+}

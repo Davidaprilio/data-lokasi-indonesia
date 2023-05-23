@@ -1,0 +1,17 @@
+{
+    "code": "7111042002",
+    "name": "Adow",
+    "poscode": "95776",
+    "provinsi": {
+        "code": "71",
+        "name": "Sulawesi Utara"
+    },
+    "kabupaten": {
+        "code": "7111",
+        "name": "Bolaang Mongondow Selatan"
+    },
+    "kecamatan": {
+        "code": "711104",
+        "name": "Pinolosian Tengah"
+    }
+}

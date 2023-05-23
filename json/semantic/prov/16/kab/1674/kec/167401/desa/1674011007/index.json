@@ -1,0 +1,17 @@
+{
+    "code": "1674011007",
+    "name": "Patih Galung",
+    "poscode": "31127",
+    "provinsi": {
+        "code": "16",
+        "name": "Sumatera Selatan"
+    },
+    "kabupaten": {
+        "code": "1674",
+        "name": "Prabumulih"
+    },
+    "kecamatan": {
+        "code": "167401",
+        "name": "Prabumulih Barat"
+    }
+}

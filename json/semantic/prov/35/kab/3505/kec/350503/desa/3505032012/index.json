@@ -1,0 +1,17 @@
+{
+    "code": "3505032012",
+    "name": "Bagelenan",
+    "poscode": "66152",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3505",
+        "name": "Blitar"
+    },
+    "kecamatan": {
+        "code": "350503",
+        "name": "Srengat"
+    }
+}

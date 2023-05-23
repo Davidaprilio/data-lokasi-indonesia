@@ -1,0 +1,17 @@
+{
+    "code": "5207012001",
+    "name": "Goa",
+    "poscode": "84456",
+    "provinsi": {
+        "code": "52",
+        "name": "Nusa Tenggara Barat (NTB)"
+    },
+    "kabupaten": {
+        "code": "5207",
+        "name": "Sumbawa Barat"
+    },
+    "kecamatan": {
+        "code": "520701",
+        "name": "Jereweh"
+    }
+}

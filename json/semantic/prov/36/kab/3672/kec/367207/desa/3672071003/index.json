@@ -1,0 +1,17 @@
+{
+    "code": "3672071003",
+    "name": "Kebon Dalem (Kebondalem)",
+    "poscode": "42433",
+    "provinsi": {
+        "code": "36",
+        "name": "Banten"
+    },
+    "kabupaten": {
+        "code": "3672",
+        "name": "Cilegon"
+    },
+    "kecamatan": {
+        "code": "367207",
+        "name": "Purwakarta"
+    }
+}

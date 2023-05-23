@@ -1,0 +1,107 @@
+[
+    {
+        "code": "332502",
+        "name": "Bandar",
+        "count": {
+            "desa": 17
+        }
+    },
+    {
+        "code": "332515",
+        "name": "Banyuputih",
+        "count": {
+            "desa": 11
+        }
+    },
+    {
+        "code": "332511",
+        "name": "Batang",
+        "count": {
+            "desa": 21
+        }
+    },
+    {
+        "code": "332505",
+        "name": "Bawang",
+        "count": {
+            "desa": 20
+        }
+    },
+    {
+        "code": "332503",
+        "name": "Blado",
+        "count": {
+            "desa": 18
+        }
+    },
+    {
+        "code": "332507",
+        "name": "Gringsing",
+        "count": {
+            "desa": 15
+        }
+    },
+    {
+        "code": "332513",
+        "name": "Kandeman",
+        "count": {
+            "desa": 13
+        }
+    },
+    {
+        "code": "332508",
+        "name": "Limpung",
+        "count": {
+            "desa": 17
+        }
+    },
+    {
+        "code": "332514",
+        "name": "Pecalungan",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "332504",
+        "name": "Reban",
+        "count": {
+            "desa": 19
+        }
+    },
+    {
+        "code": "332509",
+        "name": "Subah",
+        "count": {
+            "desa": 17
+        }
+    },
+    {
+        "code": "332506",
+        "name": "Tersono",
+        "count": {
+            "desa": 20
+        }
+    },
+    {
+        "code": "332510",
+        "name": "Tulis",
+        "count": {
+            "desa": 17
+        }
+    },
+    {
+        "code": "332512",
+        "name": "Warungasem",
+        "count": {
+            "desa": 18
+        }
+    },
+    {
+        "code": "332501",
+        "name": "Wonotunggal",
+        "count": {
+            "desa": 15
+        }
+    }
+]

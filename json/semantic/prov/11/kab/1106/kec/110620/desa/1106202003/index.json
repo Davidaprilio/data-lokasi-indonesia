@@ -1,0 +1,17 @@
+{
+    "code": "1106202003",
+    "name": "Baet",
+    "poscode": "23373",
+    "provinsi": {
+        "code": "11",
+        "name": "Aceh (NAD)"
+    },
+    "kabupaten": {
+        "code": "1106",
+        "name": "Aceh Besar"
+    },
+    "kecamatan": {
+        "code": "110620",
+        "name": "Baitussalam"
+    }
+}

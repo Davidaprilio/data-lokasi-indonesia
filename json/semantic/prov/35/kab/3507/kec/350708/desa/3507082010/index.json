@@ -1,0 +1,17 @@
+{
+    "code": "3507082010",
+    "name": "Kidangbang",
+    "poscode": "65173",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3507",
+        "name": "Malang"
+    },
+    "kecamatan": {
+        "code": "350708",
+        "name": "Wajak"
+    }
+}

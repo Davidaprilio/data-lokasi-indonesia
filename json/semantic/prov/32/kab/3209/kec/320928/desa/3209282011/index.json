@@ -1,0 +1,17 @@
+{
+    "code": "3209282011",
+    "name": "Jagapura Lor",
+    "poscode": "45164",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3209",
+        "name": "Cirebon"
+    },
+    "kecamatan": {
+        "code": "320928",
+        "name": "Gegesik"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "1172022008",
+    "name": "Ie Meulee",
+    "poscode": "23521",
+    "provinsi": {
+        "code": "11",
+        "name": "Aceh (NAD)"
+    },
+    "kabupaten": {
+        "code": "1172",
+        "name": "Sabang"
+    },
+    "kecamatan": {
+        "code": "117202",
+        "name": "Sukajaya"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "7303082005",
+    "name": "Bonto Majannang",
+    "poscode": "92450",
+    "provinsi": {
+        "code": "73",
+        "name": "Sulawesi Selatan"
+    },
+    "kabupaten": {
+        "code": "7303",
+        "name": "Bantaeng"
+    },
+    "kecamatan": {
+        "code": "730308",
+        "name": "Sinoa"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "7209122005",
+    "name": "Kabalutan",
+    "poscode": "94692",
+    "provinsi": {
+        "code": "72",
+        "name": "Sulawesi Tengah"
+    },
+    "kabupaten": {
+        "code": "7209",
+        "name": "Tojo Una Una"
+    },
+    "kecamatan": {
+        "code": "720912",
+        "name": "Talatako"
+    }
+}

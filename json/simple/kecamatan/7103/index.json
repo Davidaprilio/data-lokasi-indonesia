@@ -1,0 +1,107 @@
+[
+    {
+        "code": "710316",
+        "name": "Kendahe",
+        "count": {
+            "desa": 8
+        }
+    },
+    {
+        "code": "710325",
+        "name": "Kepulauan Marore",
+        "count": {
+            "desa": 3
+        }
+    },
+    {
+        "code": "710313",
+        "name": "Manganitu",
+        "count": {
+            "desa": 18
+        }
+    },
+    {
+        "code": "710310",
+        "name": "Manganitu Selatan",
+        "count": {
+            "desa": 13
+        }
+    },
+    {
+        "code": "710309",
+        "name": "Nusa Tabukan",
+        "count": {
+            "desa": 5
+        }
+    },
+    {
+        "code": "710315",
+        "name": "Tabukan Selatan",
+        "count": {
+            "desa": 14
+        }
+    },
+    {
+        "code": "710319",
+        "name": "Tabukan Selatan Tengah",
+        "count": {
+            "desa": 9
+        }
+    },
+    {
+        "code": "710320",
+        "name": "Tabukan Selatan Tenggara",
+        "count": {
+            "desa": 6
+        }
+    },
+    {
+        "code": "710314",
+        "name": "Tabukan Tengah",
+        "count": {
+            "desa": 18
+        }
+    },
+    {
+        "code": "710308",
+        "name": "Tabukan Utara",
+        "count": {
+            "desa": 24
+        }
+    },
+    {
+        "code": "710317",
+        "name": "Tahuna",
+        "count": {
+            "desa": 8
+        }
+    },
+    {
+        "code": "710323",
+        "name": "Tahuna Barat",
+        "count": {
+            "desa": 6
+        }
+    },
+    {
+        "code": "710324",
+        "name": "Tahuna Timur",
+        "count": {
+            "desa": 8
+        }
+    },
+    {
+        "code": "710312",
+        "name": "Tamako",
+        "count": {
+            "desa": 20
+        }
+    },
+    {
+        "code": "710311",
+        "name": "Tatoareng",
+        "count": {
+            "desa": 7
+        }
+    }
+]

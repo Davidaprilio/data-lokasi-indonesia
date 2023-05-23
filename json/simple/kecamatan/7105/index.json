@@ -1,0 +1,121 @@
+[
+    {
+        "code": "710510",
+        "name": "Amurang",
+        "count": {
+            "desa": 8
+        }
+    },
+    {
+        "code": "710517",
+        "name": "Amurang Barat",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "710518",
+        "name": "Amurang Timur",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "710515",
+        "name": "Kumelembuai",
+        "count": {
+            "desa": 8
+        }
+    },
+    {
+        "code": "710516",
+        "name": "Maesaan",
+        "count": {
+            "desa": 12
+        }
+    },
+    {
+        "code": "710501",
+        "name": "Modoinding",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "710507",
+        "name": "Motoling",
+        "count": {
+            "desa": 7
+        }
+    },
+    {
+        "code": "710521",
+        "name": "Motoling Barat",
+        "count": {
+            "desa": 8
+        }
+    },
+    {
+        "code": "710522",
+        "name": "Motoling Timur",
+        "count": {
+            "desa": 8
+        }
+    },
+    {
+        "code": "710503",
+        "name": "Ranoyapo",
+        "count": {
+            "desa": 12
+        }
+    },
+    {
+        "code": "710508",
+        "name": "Sinonsayang",
+        "count": {
+            "desa": 13
+        }
+    },
+    {
+        "code": "710523",
+        "name": "Suluun Tareran",
+        "count": {
+            "desa": 9
+        }
+    },
+    {
+        "code": "710513",
+        "name": "Tareran",
+        "count": {
+            "desa": 13
+        }
+    },
+    {
+        "code": "710519",
+        "name": "Tatapaan",
+        "count": {
+            "desa": 11
+        }
+    },
+    {
+        "code": "710509",
+        "name": "Tenga",
+        "count": {
+            "desa": 18
+        }
+    },
+    {
+        "code": "710502",
+        "name": "Tompaso Baru",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "710512",
+        "name": "Tumpaan",
+        "count": {
+            "desa": 10
+        }
+    }
+]

@@ -1,0 +1,17 @@
+{
+    "code": "5301192001",
+    "name": "Oebesi",
+    "poscode": "85378",
+    "provinsi": {
+        "code": "53",
+        "name": "Nusa Tenggara Timur (NTT)"
+    },
+    "kabupaten": {
+        "code": "5301",
+        "name": "Kupang"
+    },
+    "kecamatan": {
+        "code": "530119",
+        "name": "Amarasi Timur"
+    }
+}

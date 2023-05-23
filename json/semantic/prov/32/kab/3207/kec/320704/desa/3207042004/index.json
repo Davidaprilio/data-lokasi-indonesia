@@ -1,0 +1,17 @@
+{
+    "code": "3207042004",
+    "name": "Mangkubumi",
+    "poscode": "46256",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3207",
+        "name": "Ciamis"
+    },
+    "kecamatan": {
+        "code": "320704",
+        "name": "Sadananya"
+    }
+}

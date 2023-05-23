@@ -1,0 +1,17 @@
+{
+    "code": "2171021003",
+    "name": "Batu Merah",
+    "poscode": "29452",
+    "provinsi": {
+        "code": "21",
+        "name": "Kepulauan Riau"
+    },
+    "kabupaten": {
+        "code": "2171",
+        "name": "Batam"
+    },
+    "kecamatan": {
+        "code": "217102",
+        "name": "Batu Ampar"
+    }
+}

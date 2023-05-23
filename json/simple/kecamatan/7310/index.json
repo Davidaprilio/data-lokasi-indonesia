@@ -1,0 +1,93 @@
+[
+    {
+        "code": "731005",
+        "name": "Balocci",
+        "count": {
+            "desa": 5
+        }
+    },
+    {
+        "code": "731006",
+        "name": "Bungoro",
+        "count": {
+            "desa": 8
+        }
+    },
+    {
+        "code": "731007",
+        "name": "Labakkang",
+        "count": {
+            "desa": 13
+        }
+    },
+    {
+        "code": "731002",
+        "name": "Liukang Kalmas (Kalukuang Masalima)",
+        "count": {
+            "desa": 7
+        }
+    },
+    {
+        "code": "731001",
+        "name": "Liukang Tangaya",
+        "count": {
+            "desa": 9
+        }
+    },
+    {
+        "code": "731003",
+        "name": "Liukang Tupabbiring",
+        "count": {
+            "desa": 9
+        }
+    },
+    {
+        "code": "731013",
+        "name": "Liukang Tupabbiring Utara",
+        "count": {
+            "desa": 7
+        }
+    },
+    {
+        "code": "731011",
+        "name": "Mandalle",
+        "count": {
+            "desa": 6
+        }
+    },
+    {
+        "code": "731008",
+        "name": "Marang (Ma Rang)",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "731010",
+        "name": "Minasa Tene",
+        "count": {
+            "desa": 8
+        }
+    },
+    {
+        "code": "731004",
+        "name": "Pangkajene",
+        "count": {
+            "desa": 9
+        }
+    },
+    {
+        "code": "731009",
+        "name": "Segeri",
+        "count": {
+            "desa": 6
+        }
+    },
+    {
+        "code": "731012",
+        "name": "Tondong Tallasa",
+        "count": {
+            "desa": 6
+        }
+    }
+]

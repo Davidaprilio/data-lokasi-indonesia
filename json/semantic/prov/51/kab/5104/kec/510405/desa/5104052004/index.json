@@ -1,0 +1,17 @@
+{
+    "code": "5104052004",
+    "name": "Kedewatan",
+    "poscode": "80571",
+    "provinsi": {
+        "code": "51",
+        "name": "Bali"
+    },
+    "kabupaten": {
+        "code": "5104",
+        "name": "Gianyar"
+    },
+    "kecamatan": {
+        "code": "510405",
+        "name": "Ubud"
+    }
+}

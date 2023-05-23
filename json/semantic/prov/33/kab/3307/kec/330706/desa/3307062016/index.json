@@ -1,0 +1,17 @@
+{
+    "code": "3307062016",
+    "name": "Simbarejo",
+    "poscode": "56361",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3307",
+        "name": "Wonosobo"
+    },
+    "kecamatan": {
+        "code": "330706",
+        "name": "Selomerto"
+    }
+}

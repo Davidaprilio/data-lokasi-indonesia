@@ -1,0 +1,17 @@
+{
+    "code": "1301142008",
+    "name": "Kampung Tengah Tapan",
+    "poscode": "25670",
+    "provinsi": {
+        "code": "13",
+        "name": "Sumatera Barat"
+    },
+    "kabupaten": {
+        "code": "1301",
+        "name": "Pesisir Selatan"
+    },
+    "kecamatan": {
+        "code": "130114",
+        "name": "Ranah Ampek Hulu Tapan"
+    }
+}

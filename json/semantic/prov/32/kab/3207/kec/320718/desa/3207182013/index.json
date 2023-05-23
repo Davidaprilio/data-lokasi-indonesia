@@ -1,0 +1,17 @@
+{
+    "code": "3207182013",
+    "name": "Ciherang",
+    "poscode": "46383",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3207",
+        "name": "Ciamis"
+    },
+    "kecamatan": {
+        "code": "320718",
+        "name": "Banjarsari"
+    }
+}

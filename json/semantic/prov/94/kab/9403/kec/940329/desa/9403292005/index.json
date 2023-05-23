@@ -1,0 +1,17 @@
+{
+    "code": "9403292005",
+    "name": "Dokoneida",
+    "poscode": "98737",
+    "provinsi": {
+        "code": "94",
+        "name": "Papua Tengah"
+    },
+    "kabupaten": {
+        "code": "9403",
+        "name": "Paniai"
+    },
+    "kecamatan": {
+        "code": "940329",
+        "name": "Youtadi"
+    }
+}

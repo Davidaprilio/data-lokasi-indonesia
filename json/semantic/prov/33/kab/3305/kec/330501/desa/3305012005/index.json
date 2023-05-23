@@ -1,0 +1,17 @@
+{
+    "code": "3305012005",
+    "name": "Jintung",
+    "poscode": "54473",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3305",
+        "name": "Kebumen"
+    },
+    "kecamatan": {
+        "code": "330501",
+        "name": "Ayah"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "7413082005",
+    "name": "Tondasi",
+    "poscode": "93656",
+    "provinsi": {
+        "code": "74",
+        "name": "Sulawesi Tenggara"
+    },
+    "kabupaten": {
+        "code": "7413",
+        "name": "Muna Barat"
+    },
+    "kecamatan": {
+        "code": "741308",
+        "name": "Tiworo Utara"
+    }
+}

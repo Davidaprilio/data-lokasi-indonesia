@@ -1,0 +1,17 @@
+{
+    "code": "3328152005",
+    "name": "Kertaharja",
+    "poscode": "52181",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3328",
+        "name": "Tegal"
+    },
+    "kecamatan": {
+        "code": "332815",
+        "name": "Kramat"
+    }
+}

@@ -1,0 +1,37 @@
+[
+    {
+        "code": "717304",
+        "name": "Tomohon Barat",
+        "count": {
+            "desa": 8
+        }
+    },
+    {
+        "code": "717301",
+        "name": "Tomohon Selatan",
+        "count": {
+            "desa": 12
+        }
+    },
+    {
+        "code": "717302",
+        "name": "Tomohon Tengah",
+        "count": {
+            "desa": 9
+        }
+    },
+    {
+        "code": "717305",
+        "name": "Tomohon Timur",
+        "count": {
+            "desa": 5
+        }
+    },
+    {
+        "code": "717303",
+        "name": "Tomohon Utara",
+        "count": {
+            "desa": 10
+        }
+    }
+]

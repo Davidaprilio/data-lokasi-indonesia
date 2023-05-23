@@ -1,0 +1,17 @@
+{
+    "code": "3513172004",
+    "name": "Sumberdawe",
+    "poscode": "67276",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3513",
+        "name": "Probolinggo"
+    },
+    "kecamatan": {
+        "code": "351317",
+        "name": "Maron"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "6112012018",
+    "name": "Pulau Jambu",
+    "poscode": "78391",
+    "provinsi": {
+        "code": "61",
+        "name": "Kalimantan Barat"
+    },
+    "kabupaten": {
+        "code": "6112",
+        "name": "Kubu Raya"
+    },
+    "kecamatan": {
+        "code": "611201",
+        "name": "Sungai Raya"
+    }
+}

@@ -1,0 +1,51 @@
+[
+    {
+        "code": "531601",
+        "name": "Aesesa",
+        "count": {
+            "desa": 18
+        }
+    },
+    {
+        "code": "531607",
+        "name": "Aesesa Selatan",
+        "count": {
+            "desa": 7
+        }
+    },
+    {
+        "code": "531603",
+        "name": "Boawae",
+        "count": {
+            "desa": 27
+        }
+    },
+    {
+        "code": "531606",
+        "name": "Keo Tengah",
+        "count": {
+            "desa": 16
+        }
+    },
+    {
+        "code": "531604",
+        "name": "Mauponggo",
+        "count": {
+            "desa": 21
+        }
+    },
+    {
+        "code": "531602",
+        "name": "Nangaroro",
+        "count": {
+            "desa": 19
+        }
+    },
+    {
+        "code": "531605",
+        "name": "Wolowae",
+        "count": {
+            "desa": 5
+        }
+    }
+]

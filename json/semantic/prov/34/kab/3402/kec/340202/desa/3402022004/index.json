@@ -1,0 +1,17 @@
+{
+    "code": "3402022004",
+    "name": "Murtigading",
+    "poscode": "55763",
+    "provinsi": {
+        "code": "34",
+        "name": "DI Yogyakarta"
+    },
+    "kabupaten": {
+        "code": "3402",
+        "name": "Bantul"
+    },
+    "kecamatan": {
+        "code": "340202",
+        "name": "Sanden"
+    }
+}

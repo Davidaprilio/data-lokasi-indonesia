@@ -1,0 +1,17 @@
+{
+    "code": "7504122007",
+    "name": "Kelapa Lima",
+    "poscode": "96367",
+    "provinsi": {
+        "code": "75",
+        "name": "Gorontalo"
+    },
+    "kabupaten": {
+        "code": "7504",
+        "name": "Pahuwato"
+    },
+    "kecamatan": {
+        "code": "750412",
+        "name": "Popayato Timur"
+    }
+}

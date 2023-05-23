@@ -1,0 +1,17 @@
+{
+    "code": "3524112022",
+    "name": "Kreteranggon",
+    "poscode": "62284",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3524",
+        "name": "Lamongan"
+    },
+    "kecamatan": {
+        "code": "352411",
+        "name": "Sambeng"
+    }
+}

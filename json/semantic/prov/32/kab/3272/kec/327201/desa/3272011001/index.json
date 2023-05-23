@@ -1,0 +1,17 @@
+{
+    "code": "3272011001",
+    "name": "Gunung Puyuh",
+    "poscode": "43123",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3272",
+        "name": "Sukabumi"
+    },
+    "kecamatan": {
+        "code": "327201",
+        "name": "Gunungpuyuh (Gunung Puyuh)"
+    }
+}

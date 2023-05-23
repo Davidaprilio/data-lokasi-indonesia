@@ -1,0 +1,17 @@
+{
+    "code": "5103061001",
+    "name": "Kerobokan Kelod",
+    "poscode": "80363",
+    "provinsi": {
+        "code": "51",
+        "name": "Bali"
+    },
+    "kabupaten": {
+        "code": "5103",
+        "name": "Badung"
+    },
+    "kecamatan": {
+        "code": "510306",
+        "name": "Kuta Utara"
+    }
+}

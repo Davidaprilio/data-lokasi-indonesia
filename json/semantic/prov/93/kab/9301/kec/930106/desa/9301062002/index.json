@@ -1,0 +1,17 @@
+{
+    "code": "9301062002",
+    "name": "Sumber Harapan",
+    "poscode": "99632",
+    "provinsi": {
+        "code": "93",
+        "name": "Papua Selatan"
+    },
+    "kabupaten": {
+        "code": "9301",
+        "name": "Merauke"
+    },
+    "kecamatan": {
+        "code": "930106",
+        "name": "Tanah Miring"
+    }
+}

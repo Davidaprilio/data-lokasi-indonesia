@@ -1,0 +1,30 @@
+[
+    {
+        "code": "137703",
+        "name": "Pariaman Selatan",
+        "count": {
+            "desa": 16
+        }
+    },
+    {
+        "code": "137701",
+        "name": "Pariaman Tengah",
+        "count": {
+            "desa": 22
+        }
+    },
+    {
+        "code": "137704",
+        "name": "Pariaman Timur",
+        "count": {
+            "desa": 16
+        }
+    },
+    {
+        "code": "137702",
+        "name": "Pariaman Utara",
+        "count": {
+            "desa": 17
+        }
+    }
+]

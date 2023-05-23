@@ -1,0 +1,17 @@
+{
+    "code": "1102142011",
+    "name": "Tengku Mbelin (Lawe Pasaran Tengku Mbelin)",
+    "poscode": "24670",
+    "provinsi": {
+        "code": "11",
+        "name": "Aceh (NAD)"
+    },
+    "kabupaten": {
+        "code": "1102",
+        "name": "Aceh Tenggara"
+    },
+    "kecamatan": {
+        "code": "110214",
+        "name": "Lawe Sumur"
+    }
+}

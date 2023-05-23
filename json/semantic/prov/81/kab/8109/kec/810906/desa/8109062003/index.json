@@ -1,0 +1,17 @@
+{
+    "code": "8109062003",
+    "name": "Waekatin",
+    "poscode": "97542",
+    "provinsi": {
+        "code": "81",
+        "name": "Maluku"
+    },
+    "kabupaten": {
+        "code": "8109",
+        "name": "Buru Selatan"
+    },
+    "kecamatan": {
+        "code": "810906",
+        "name": "Fena Fafan"
+    }
+}

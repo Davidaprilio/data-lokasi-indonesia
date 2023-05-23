@@ -1,0 +1,17 @@
+{
+    "code": "9402202006",
+    "name": "Karubate",
+    "poscode": "98914",
+    "provinsi": {
+        "code": "94",
+        "name": "Papua Tengah"
+    },
+    "kabupaten": {
+        "code": "9402",
+        "name": "Puncak Jaya"
+    },
+    "kecamatan": {
+        "code": "940220",
+        "name": "Muara"
+    }
+}

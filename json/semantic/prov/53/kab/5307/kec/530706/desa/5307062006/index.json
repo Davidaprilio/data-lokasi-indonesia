@@ -1,0 +1,17 @@
+{
+    "code": "5307062006",
+    "name": "Rokirole",
+    "poscode": "86110",
+    "provinsi": {
+        "code": "53",
+        "name": "Nusa Tenggara Timur (NTT)"
+    },
+    "kabupaten": {
+        "code": "5307",
+        "name": "Sikka"
+    },
+    "kecamatan": {
+        "code": "530706",
+        "name": "Palue"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "3326141002",
+    "name": "Sapugarut",
+    "poscode": "51171",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3326",
+        "name": "Pekalongan"
+    },
+    "kecamatan": {
+        "code": "332614",
+        "name": "Buaran"
+    }
+}

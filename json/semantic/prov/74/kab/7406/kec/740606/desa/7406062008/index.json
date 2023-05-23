@@ -1,0 +1,17 @@
+{
+    "code": "7406062008",
+    "name": "Tapuhaka",
+    "poscode": "93784",
+    "provinsi": {
+        "code": "74",
+        "name": "Sulawesi Tenggara"
+    },
+    "kabupaten": {
+        "code": "7406",
+        "name": "Bombana"
+    },
+    "kecamatan": {
+        "code": "740606",
+        "name": "Kabaena Timur"
+    }
+}

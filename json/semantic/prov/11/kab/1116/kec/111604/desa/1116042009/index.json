@@ -1,0 +1,17 @@
+{
+    "code": "1116042009",
+    "name": "Gedung Biara",
+    "poscode": "24473",
+    "provinsi": {
+        "code": "11",
+        "name": "Aceh (NAD)"
+    },
+    "kabupaten": {
+        "code": "1116",
+        "name": "Aceh Tamiang"
+    },
+    "kecamatan": {
+        "code": "111604",
+        "name": "Seruway"
+    }
+}

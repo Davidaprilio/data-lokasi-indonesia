@@ -1,0 +1,17 @@
+{
+    "code": "1171012005",
+    "name": "Peuniti",
+    "poscode": "23241",
+    "provinsi": {
+        "code": "11",
+        "name": "Aceh (NAD)"
+    },
+    "kabupaten": {
+        "code": "1171",
+        "name": "Banda Aceh"
+    },
+    "kecamatan": {
+        "code": "117101",
+        "name": "Baiturrahman"
+    }
+}

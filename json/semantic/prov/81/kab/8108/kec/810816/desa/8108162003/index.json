@@ -1,0 +1,17 @@
+{
+    "code": "8108162003",
+    "name": "Solath",
+    "poscode": "97440",
+    "provinsi": {
+        "code": "81",
+        "name": "Maluku"
+    },
+    "kabupaten": {
+        "code": "8108",
+        "name": "Maluku Barat Daya"
+    },
+    "kecamatan": {
+        "code": "810816",
+        "name": "Kepulauan Romang"
+    }
+}

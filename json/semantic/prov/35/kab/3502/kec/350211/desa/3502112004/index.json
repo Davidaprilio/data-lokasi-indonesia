@@ -1,0 +1,17 @@
+{
+    "code": "3502112004",
+    "name": "Ngendut",
+    "poscode": "63461",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3502",
+        "name": "Ponorogo"
+    },
+    "kecamatan": {
+        "code": "350211",
+        "name": "Balong"
+    }
+}

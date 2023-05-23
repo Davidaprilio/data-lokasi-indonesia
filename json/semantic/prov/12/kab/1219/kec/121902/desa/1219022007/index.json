@@ -1,0 +1,17 @@
+{
+    "code": "1219022007",
+    "name": "Sei Suka Deras",
+    "poscode": "21257",
+    "provinsi": {
+        "code": "12",
+        "name": "Sumatera Utara"
+    },
+    "kabupaten": {
+        "code": "1219",
+        "name": "Batu Bara"
+    },
+    "kecamatan": {
+        "code": "121902",
+        "name": "Sei Suka"
+    }
+}

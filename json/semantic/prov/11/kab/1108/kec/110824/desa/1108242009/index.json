@@ -1,0 +1,17 @@
+{
+    "code": "1108242009",
+    "name": "Bili Baro",
+    "poscode": "24384",
+    "provinsi": {
+        "code": "11",
+        "name": "Aceh (NAD)"
+    },
+    "kabupaten": {
+        "code": "1108",
+        "name": "Aceh Utara"
+    },
+    "kecamatan": {
+        "code": "110824",
+        "name": "Pirak Timur"
+    }
+}

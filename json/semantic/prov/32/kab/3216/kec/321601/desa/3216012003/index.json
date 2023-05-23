@@ -1,0 +1,17 @@
+{
+    "code": "3216012003",
+    "name": "Pusaka Rakyat",
+    "poscode": "17214",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3216",
+        "name": "Bekasi"
+    },
+    "kecamatan": {
+        "code": "321601",
+        "name": "Tarumajaya"
+    }
+}

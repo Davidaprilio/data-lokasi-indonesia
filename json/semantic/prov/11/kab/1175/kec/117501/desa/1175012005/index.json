@@ -1,0 +1,17 @@
+{
+    "code": "1175012005",
+    "name": "Subulussalam Utara",
+    "poscode": "24781",
+    "provinsi": {
+        "code": "11",
+        "name": "Aceh (NAD)"
+    },
+    "kabupaten": {
+        "code": "1175",
+        "name": "Subulussalam"
+    },
+    "kecamatan": {
+        "code": "117501",
+        "name": "Simpang Kiri"
+    }
+}

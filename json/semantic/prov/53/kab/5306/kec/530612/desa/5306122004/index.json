@@ -1,0 +1,17 @@
+{
+    "code": "5306122004",
+    "name": "Oringbele",
+    "poscode": "86266",
+    "provinsi": {
+        "code": "53",
+        "name": "Nusa Tenggara Timur (NTT)"
+    },
+    "kabupaten": {
+        "code": "5306",
+        "name": "Flores Timur"
+    },
+    "kecamatan": {
+        "code": "530612",
+        "name": "Witihama"
+    }
+}

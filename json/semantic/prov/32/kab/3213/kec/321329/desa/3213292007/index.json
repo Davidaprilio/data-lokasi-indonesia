@@ -1,0 +1,17 @@
+{
+    "code": "3213292007",
+    "name": "Sanca",
+    "poscode": "41280",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3213",
+        "name": "Subang"
+    },
+    "kecamatan": {
+        "code": "321329",
+        "name": "Ciater"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "1212092005",
+    "name": "Jangga Toruan",
+    "poscode": "22388",
+    "provinsi": {
+        "code": "12",
+        "name": "Sumatera Utara"
+    },
+    "kabupaten": {
+        "code": "1212",
+        "name": "Toba"
+    },
+    "kecamatan": {
+        "code": "121209",
+        "name": "Lumban Julu"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "3525112018",
+    "name": "Semampir",
+    "poscode": "61171",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3525",
+        "name": "Gresik"
+    },
+    "kecamatan": {
+        "code": "352511",
+        "name": "Cerme"
+    }
+}

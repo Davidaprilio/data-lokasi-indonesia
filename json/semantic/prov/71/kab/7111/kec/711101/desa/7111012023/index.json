@@ -1,0 +1,17 @@
+{
+    "code": "7111012023",
+    "name": "Salongo Timur",
+    "poscode": "95770",
+    "provinsi": {
+        "code": "71",
+        "name": "Sulawesi Utara"
+    },
+    "kabupaten": {
+        "code": "7111",
+        "name": "Bolaang Mongondow Selatan"
+    },
+    "kecamatan": {
+        "code": "711101",
+        "name": "Bolaang Uki"
+    }
+}

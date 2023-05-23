@@ -1,0 +1,37 @@
+[
+    {
+        "code": "3175061007",
+        "name": "Cakung Barat",
+        "poscode": "13910"
+    },
+    {
+        "code": "3175061004",
+        "name": "Cakung Timur",
+        "poscode": "13910"
+    },
+    {
+        "code": "3175061001",
+        "name": "Jatinegara",
+        "poscode": "13930"
+    },
+    {
+        "code": "3175061003",
+        "name": "Penggilingan",
+        "poscode": "13940"
+    },
+    {
+        "code": "3175061005",
+        "name": "Pulo Gebang",
+        "poscode": "13950"
+    },
+    {
+        "code": "3175061002",
+        "name": "Rawa Terate",
+        "poscode": "13920"
+    },
+    {
+        "code": "3175061006",
+        "name": "Ujung Menteng",
+        "poscode": "13960"
+    }
+]

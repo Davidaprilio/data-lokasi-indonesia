@@ -1,0 +1,17 @@
+{
+    "code": "6472011004",
+    "name": "Simpang Pasir",
+    "poscode": "75243",
+    "provinsi": {
+        "code": "64",
+        "name": "Kalimantan Timur"
+    },
+    "kabupaten": {
+        "code": "6472",
+        "name": "Samarinda"
+    },
+    "kecamatan": {
+        "code": "647201",
+        "name": "Palaran"
+    }
+}

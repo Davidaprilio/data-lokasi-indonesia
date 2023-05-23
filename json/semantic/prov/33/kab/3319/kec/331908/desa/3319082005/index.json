@@ -1,0 +1,17 @@
+{
+    "code": "3319082005",
+    "name": "Karangmalang",
+    "poscode": "59333",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3319",
+        "name": "Kudus"
+    },
+    "kecamatan": {
+        "code": "331908",
+        "name": "Gebog"
+    }
+}

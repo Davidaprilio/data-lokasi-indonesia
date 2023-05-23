@@ -1,0 +1,17 @@
+{
+    "code": "7311022008",
+    "name": "Lipukasi",
+    "poscode": "90761",
+    "provinsi": {
+        "code": "73",
+        "name": "Sulawesi Selatan"
+    },
+    "kabupaten": {
+        "code": "7311",
+        "name": "Barru"
+    },
+    "kecamatan": {
+        "code": "731102",
+        "name": "Tanete Rilau"
+    }
+}

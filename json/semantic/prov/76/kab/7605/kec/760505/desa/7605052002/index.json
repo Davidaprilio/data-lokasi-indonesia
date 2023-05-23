@@ -1,0 +1,17 @@
+{
+    "code": "7605052002",
+    "name": "Sambabo",
+    "poscode": "91454",
+    "provinsi": {
+        "code": "76",
+        "name": "Sulawesi Barat"
+    },
+    "kabupaten": {
+        "code": "7605",
+        "name": "Majene"
+    },
+    "kecamatan": {
+        "code": "760505",
+        "name": "Ulumanda (Ulumunda)"
+    }
+}

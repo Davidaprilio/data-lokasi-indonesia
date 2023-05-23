@@ -1,0 +1,17 @@
+{
+    "code": "5203132014",
+    "name": "Bintang Rinjani",
+    "poscode": "83651",
+    "provinsi": {
+        "code": "52",
+        "name": "Nusa Tenggara Barat (NTB)"
+    },
+    "kabupaten": {
+        "code": "5203",
+        "name": "Lombok Timur"
+    },
+    "kecamatan": {
+        "code": "520313",
+        "name": "Suralaga"
+    }
+}

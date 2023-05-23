@@ -1,0 +1,17 @@
+{
+    "code": "9120042001",
+    "name": "Kustra",
+    "poscode": "98693",
+    "provinsi": {
+        "code": "91",
+        "name": "Papua"
+    },
+    "kabupaten": {
+        "code": "9120",
+        "name": "Mamberamo Raya"
+    },
+    "kecamatan": {
+        "code": "912004",
+        "name": "Mamberamo Tengah Timur"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "3210052005",
+    "name": "Argamukti",
+    "poscode": "45462",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3210",
+        "name": "Majalengka"
+    },
+    "kecamatan": {
+        "code": "321005",
+        "name": "Argapura"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "3304132001",
+    "name": "Paweden",
+    "poscode": "53453",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3304",
+        "name": "Banjarnegara"
+    },
+    "kecamatan": {
+        "code": "330413",
+        "name": "Karangkobar"
+    }
+}

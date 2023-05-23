@@ -1,0 +1,17 @@
+{
+    "code": "6111032004",
+    "name": "Sei/Sungai Paduan",
+    "poscode": "78856",
+    "provinsi": {
+        "code": "61",
+        "name": "Kalimantan Barat"
+    },
+    "kabupaten": {
+        "code": "6111",
+        "name": "Kayong Utara"
+    },
+    "kecamatan": {
+        "code": "611103",
+        "name": "Teluk Batang"
+    }
+}

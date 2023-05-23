@@ -1,0 +1,17 @@
+{
+    "code": "8102132015",
+    "name": "Iso",
+    "poscode": "97625",
+    "provinsi": {
+        "code": "81",
+        "name": "Maluku"
+    },
+    "kabupaten": {
+        "code": "8102",
+        "name": "Maluku Tenggara"
+    },
+    "kecamatan": {
+        "code": "810213",
+        "name": "Kei Kecil Timur"
+    }
+}

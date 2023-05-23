@@ -1,0 +1,17 @@
+{
+    "code": "1812032001",
+    "name": "Karta",
+    "poscode": "34791",
+    "provinsi": {
+        "code": "18",
+        "name": "Lampung"
+    },
+    "kabupaten": {
+        "code": "1812",
+        "name": "Tulang Bawang Barat"
+    },
+    "kecamatan": {
+        "code": "181203",
+        "name": "Tulang Bawang Udik"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "3507242001",
+    "name": "Wonorejo",
+    "poscode": "65153",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3507",
+        "name": "Malang"
+    },
+    "kecamatan": {
+        "code": "350724",
+        "name": "Singosari"
+    }
+}

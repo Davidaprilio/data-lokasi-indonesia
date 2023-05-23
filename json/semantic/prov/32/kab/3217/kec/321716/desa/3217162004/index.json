@@ -1,0 +1,17 @@
+{
+    "code": "3217162004",
+    "name": "Bojonghaleuang",
+    "poscode": "40560",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3217",
+        "name": "Bandung Barat"
+    },
+    "kecamatan": {
+        "code": "321716",
+        "name": "Saguling"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "1407162012",
+    "name": "Tanjung Sari",
+    "poscode": "28983",
+    "provinsi": {
+        "code": "14",
+        "name": "Riau"
+    },
+    "kabupaten": {
+        "code": "1407",
+        "name": "Rokan Hilir"
+    },
+    "kecamatan": {
+        "code": "140716",
+        "name": "Tanjung Medan"
+    }
+}

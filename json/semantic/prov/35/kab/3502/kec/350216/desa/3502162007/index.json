@@ -1,0 +1,17 @@
+{
+    "code": "3502162007",
+    "name": "Polorejo",
+    "poscode": "63491",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3502",
+        "name": "Ponorogo"
+    },
+    "kecamatan": {
+        "code": "350216",
+        "name": "Babadan"
+    }
+}

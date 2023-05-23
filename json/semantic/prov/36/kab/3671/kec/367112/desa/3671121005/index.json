@@ -1,0 +1,17 @@
+{
+    "code": "3671121005",
+    "name": "Karang Timur",
+    "poscode": "15157",
+    "provinsi": {
+        "code": "36",
+        "name": "Banten"
+    },
+    "kabupaten": {
+        "code": "3671",
+        "name": "Tangerang"
+    },
+    "kecamatan": {
+        "code": "367112",
+        "name": "Karang Tengah"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "7406212010",
+    "name": "Watu-Watu",
+    "poscode": "93774",
+    "provinsi": {
+        "code": "74",
+        "name": "Sulawesi Tenggara"
+    },
+    "kabupaten": {
+        "code": "7406",
+        "name": "Bombana"
+    },
+    "kecamatan": {
+        "code": "740621",
+        "name": "Lantari Jaya"
+    }
+}

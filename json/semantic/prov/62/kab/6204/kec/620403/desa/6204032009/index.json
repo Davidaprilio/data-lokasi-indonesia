@@ -1,0 +1,17 @@
+{
+    "code": "6204032009",
+    "name": "Tampijak",
+    "poscode": "73761",
+    "provinsi": {
+        "code": "62",
+        "name": "Kalimantan Tengah"
+    },
+    "kabupaten": {
+        "code": "6204",
+        "name": "Barito Selatan"
+    },
+    "kecamatan": {
+        "code": "620403",
+        "name": "Karau Kuala"
+    }
+}

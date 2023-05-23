@@ -1,0 +1,135 @@
+[
+    {
+        "code": "720203",
+        "name": "Lage",
+        "count": {
+            "desa": 16
+        }
+    },
+    {
+        "code": "720223",
+        "name": "Lore Barat",
+        "count": {
+            "desa": 6
+        }
+    },
+    {
+        "code": "720225",
+        "name": "Lore Piore",
+        "count": {
+            "desa": 5
+        }
+    },
+    {
+        "code": "720209",
+        "name": "Lore Selatan",
+        "count": {
+            "desa": 8
+        }
+    },
+    {
+        "code": "720208",
+        "name": "Lore Tengah",
+        "count": {
+            "desa": 8
+        }
+    },
+    {
+        "code": "720224",
+        "name": "Lore Timur",
+        "count": {
+            "desa": 5
+        }
+    },
+    {
+        "code": "720207",
+        "name": "Lore Utara",
+        "count": {
+            "desa": 7
+        }
+    },
+    {
+        "code": "720220",
+        "name": "Pamona Barat",
+        "count": {
+            "desa": 6
+        }
+    },
+    {
+        "code": "720204",
+        "name": "Pamona Puselemba",
+        "count": {
+            "desa": 11
+        }
+    },
+    {
+        "code": "720206",
+        "name": "Pamona Selatan",
+        "count": {
+            "desa": 12
+        }
+    },
+    {
+        "code": "720226",
+        "name": "Pamona Tenggara",
+        "count": {
+            "desa": 9
+        }
+    },
+    {
+        "code": "720205",
+        "name": "Pamona Timur",
+        "count": {
+            "desa": 13
+        }
+    },
+    {
+        "code": "720227",
+        "name": "Pamona Utara",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "720201",
+        "name": "Poso Kota",
+        "count": {
+            "desa": 7
+        }
+    },
+    {
+        "code": "720221",
+        "name": "Poso Kota Selatan",
+        "count": {
+            "desa": 5
+        }
+    },
+    {
+        "code": "720222",
+        "name": "Poso Kota Utara",
+        "count": {
+            "desa": 7
+        }
+    },
+    {
+        "code": "720202",
+        "name": "Poso Pesisir",
+        "count": {
+            "desa": 16
+        }
+    },
+    {
+        "code": "720219",
+        "name": "Poso Pesisir Selatan",
+        "count": {
+            "desa": 9
+        }
+    },
+    {
+        "code": "720218",
+        "name": "Poso Pesisir Utara",
+        "count": {
+            "desa": 10
+        }
+    }
+]

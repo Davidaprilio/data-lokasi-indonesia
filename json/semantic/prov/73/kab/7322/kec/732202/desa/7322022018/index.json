@@ -1,0 +1,17 @@
+{
+    "code": "7322022018",
+    "name": "Bantimurung",
+    "poscode": "92966",
+    "provinsi": {
+        "code": "73",
+        "name": "Sulawesi Selatan"
+    },
+    "kabupaten": {
+        "code": "7322",
+        "name": "Luwu Utara"
+    },
+    "kecamatan": {
+        "code": "732202",
+        "name": "Bone-Bone"
+    }
+}

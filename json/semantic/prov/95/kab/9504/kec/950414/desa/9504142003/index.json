@@ -1,0 +1,17 @@
+{
+    "code": "9504142003",
+    "name": "Alopur",
+    "poscode": "99029",
+    "provinsi": {
+        "code": "95",
+        "name": "Papua Pegunungan"
+    },
+    "kabupaten": {
+        "code": "9504",
+        "name": "Tolikara"
+    },
+    "kecamatan": {
+        "code": "950414",
+        "name": "Kuari"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "9503242005",
+    "name": "Ikmu",
+    "poscode": "99758",
+    "provinsi": {
+        "code": "95",
+        "name": "Papua Pegunungan"
+    },
+    "kabupaten": {
+        "code": "9503",
+        "name": "Yahukimo"
+    },
+    "kecamatan": {
+        "code": "950324",
+        "name": "Nipsan"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "1275031002",
+    "name": "Limau Mungkur",
+    "poscode": "20717",
+    "provinsi": {
+        "code": "12",
+        "name": "Sumatera Utara"
+    },
+    "kabupaten": {
+        "code": "1275",
+        "name": "Binjai"
+    },
+    "kecamatan": {
+        "code": "127503",
+        "name": "Binjai Barat"
+    }
+}

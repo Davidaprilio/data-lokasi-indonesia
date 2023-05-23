@@ -1,0 +1,17 @@
+{
+    "code": "3671101004",
+    "name": "Kedaung Wetan",
+    "poscode": "15128",
+    "provinsi": {
+        "code": "36",
+        "name": "Banten"
+    },
+    "kabupaten": {
+        "code": "3671",
+        "name": "Tangerang"
+    },
+    "kecamatan": {
+        "code": "367110",
+        "name": "Neglasari"
+    }
+}

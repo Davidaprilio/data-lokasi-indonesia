@@ -1,0 +1,17 @@
+{
+    "code": "1604062027",
+    "name": "Gunung Raya (Gunung Kaya)",
+    "poscode": "31591",
+    "provinsi": {
+        "code": "16",
+        "name": "Sumatera Selatan"
+    },
+    "kabupaten": {
+        "code": "1604",
+        "name": "Lahat"
+    },
+    "kecamatan": {
+        "code": "160406",
+        "name": "Jarai"
+    }
+}

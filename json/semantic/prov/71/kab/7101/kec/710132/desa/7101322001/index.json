@@ -1,0 +1,17 @@
+{
+    "code": "7101322001",
+    "name": "Bilalang III",
+    "poscode": "95755",
+    "provinsi": {
+        "code": "71",
+        "name": "Sulawesi Utara"
+    },
+    "kabupaten": {
+        "code": "7101",
+        "name": "Bolaang Mongondow"
+    },
+    "kecamatan": {
+        "code": "710132",
+        "name": "Bilalang"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "1409042030",
+    "name": "Simpang Pulauberalo",
+    "poscode": "29561",
+    "provinsi": {
+        "code": "14",
+        "name": "Riau"
+    },
+    "kabupaten": {
+        "code": "1409",
+        "name": "Kuantan Singingi"
+    },
+    "kecamatan": {
+        "code": "140904",
+        "name": "Kuantan Hilir"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "3523192013",
+    "name": "Simorejo",
+    "poscode": "62383",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3523",
+        "name": "Tuban"
+    },
+    "kecamatan": {
+        "code": "352319",
+        "name": "Widang"
+    }
+}

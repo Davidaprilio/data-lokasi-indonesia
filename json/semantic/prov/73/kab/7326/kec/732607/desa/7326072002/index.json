@@ -1,0 +1,17 @@
+{
+    "code": "7326072002",
+    "name": "Buntu La'bo'",
+    "poscode": "91851",
+    "provinsi": {
+        "code": "73",
+        "name": "Sulawesi Selatan"
+    },
+    "kabupaten": {
+        "code": "7326",
+        "name": "Toraja Utara"
+    },
+    "kecamatan": {
+        "code": "732607",
+        "name": "Sanggalangi"
+    }
+}

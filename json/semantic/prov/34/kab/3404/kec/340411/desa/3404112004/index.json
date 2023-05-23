@@ -1,0 +1,17 @@
+{
+    "code": "3404112004",
+    "name": "Wedomartani",
+    "poscode": "55584",
+    "provinsi": {
+        "code": "34",
+        "name": "DI Yogyakarta"
+    },
+    "kabupaten": {
+        "code": "3404",
+        "name": "Sleman"
+    },
+    "kecamatan": {
+        "code": "340411",
+        "name": "Ngemplak"
+    }
+}

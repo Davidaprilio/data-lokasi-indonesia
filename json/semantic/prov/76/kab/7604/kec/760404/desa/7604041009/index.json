@@ -1,0 +1,17 @@
+{
+    "code": "7604041009",
+    "name": "Darma",
+    "poscode": "91314",
+    "provinsi": {
+        "code": "76",
+        "name": "Sulawesi Barat"
+    },
+    "kabupaten": {
+        "code": "7604",
+        "name": "Polewali Mandar"
+    },
+    "kecamatan": {
+        "code": "760404",
+        "name": "Polewali"
+    }
+}

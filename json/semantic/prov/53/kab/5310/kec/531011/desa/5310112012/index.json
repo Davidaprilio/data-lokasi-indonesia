@@ -1,0 +1,17 @@
+{
+    "code": "5310112012",
+    "name": "Salama",
+    "poscode": "86592",
+    "provinsi": {
+        "code": "53",
+        "name": "Nusa Tenggara Timur (NTT)"
+    },
+    "kabupaten": {
+        "code": "5310",
+        "name": "Manggarai"
+    },
+    "kecamatan": {
+        "code": "531011",
+        "name": "Reok"
+    }
+}

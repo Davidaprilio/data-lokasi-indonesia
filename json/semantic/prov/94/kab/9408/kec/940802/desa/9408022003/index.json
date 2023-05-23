@@ -1,0 +1,17 @@
+{
+    "code": "9408022003",
+    "name": "Watiyai",
+    "poscode": "98771",
+    "provinsi": {
+        "code": "94",
+        "name": "Papua Tengah"
+    },
+    "kabupaten": {
+        "code": "9408",
+        "name": "Deiyai"
+    },
+    "kecamatan": {
+        "code": "940802",
+        "name": "Tigi Timur"
+    }
+}

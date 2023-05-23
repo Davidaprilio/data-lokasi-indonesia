@@ -1,0 +1,10 @@
+{
+    "code": "5101",
+    "type": "Kabupaten",
+    "name": "Jembrana",
+    "fullname": "Kabupaten Jembrana",
+    "jumlah": {
+        "kecamatan": 5,
+        "desa": 51
+    }
+}

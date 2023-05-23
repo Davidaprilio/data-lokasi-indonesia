@@ -1,0 +1,17 @@
+{
+    "code": "3516182008",
+    "name": "Ngarjo",
+    "poscode": "61364",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3516",
+        "name": "Mojokerto"
+    },
+    "kecamatan": {
+        "code": "351618",
+        "name": "Mojoanyar"
+    }
+}

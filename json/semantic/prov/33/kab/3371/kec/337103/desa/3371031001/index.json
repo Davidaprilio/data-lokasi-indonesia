@@ -1,0 +1,17 @@
+{
+    "code": "3371031001",
+    "name": "Kemirirejo",
+    "poscode": "56122",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3371",
+        "name": "Magelang"
+    },
+    "kecamatan": {
+        "code": "337103",
+        "name": "Magelang Tengah"
+    }
+}

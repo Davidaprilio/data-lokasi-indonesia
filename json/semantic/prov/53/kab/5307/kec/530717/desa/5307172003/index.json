@@ -1,0 +1,17 @@
+{
+    "code": "5307172003",
+    "name": "Bu Watuweti",
+    "poscode": "86154",
+    "provinsi": {
+        "code": "53",
+        "name": "Nusa Tenggara Timur (NTT)"
+    },
+    "kabupaten": {
+        "code": "5307",
+        "name": "Sikka"
+    },
+    "kecamatan": {
+        "code": "530717",
+        "name": "Tana Wawo"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "1115082009",
+    "name": "Cot Mue",
+    "poscode": "23664",
+    "provinsi": {
+        "code": "11",
+        "name": "Aceh (NAD)"
+    },
+    "kabupaten": {
+        "code": "1115",
+        "name": "Nagan Raya"
+    },
+    "kecamatan": {
+        "code": "111508",
+        "name": "Tadu Raya"
+    }
+}

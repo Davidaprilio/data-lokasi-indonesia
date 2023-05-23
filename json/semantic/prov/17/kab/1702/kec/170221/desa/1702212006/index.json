@@ -1,0 +1,17 @@
+{
+    "code": "1702212006",
+    "name": "Pengambang",
+    "poscode": "39181",
+    "provinsi": {
+        "code": "17",
+        "name": "Bengkulu"
+    },
+    "kabupaten": {
+        "code": "1702",
+        "name": "Rejang Lebong"
+    },
+    "kecamatan": {
+        "code": "170221",
+        "name": "Sindang Beliti Ulu"
+    }
+}

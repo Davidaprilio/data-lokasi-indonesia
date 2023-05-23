@@ -1,0 +1,17 @@
+{
+    "code": "3206212003",
+    "name": "Karanglayung",
+    "poscode": "46199",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3206",
+        "name": "Tasikmalaya"
+    },
+    "kecamatan": {
+        "code": "320621",
+        "name": "Karang Jaya"
+    }
+}

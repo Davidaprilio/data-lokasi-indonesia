@@ -1,0 +1,17 @@
+{
+    "code": "3603322005",
+    "name": "Cipaeh",
+    "poscode": "15620",
+    "provinsi": {
+        "code": "36",
+        "name": "Banten"
+    },
+    "kabupaten": {
+        "code": "3603",
+        "name": "Tangerang"
+    },
+    "kecamatan": {
+        "code": "360332",
+        "name": "Gunung Kaler"
+    }
+}

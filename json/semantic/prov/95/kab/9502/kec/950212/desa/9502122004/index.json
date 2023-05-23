@@ -1,0 +1,17 @@
+{
+    "code": "9502122004",
+    "name": "Kasawi",
+    "poscode": "99414",
+    "provinsi": {
+        "code": "95",
+        "name": "Papua Pegunungan"
+    },
+    "kabupaten": {
+        "code": "9502",
+        "name": "Pegunungan Bintang"
+    },
+    "kecamatan": {
+        "code": "950212",
+        "name": "Okbape"
+    }
+}

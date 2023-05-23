@@ -1,0 +1,17 @@
+{
+    "code": "9105011004",
+    "name": "Tarau",
+    "poscode": "98613",
+    "provinsi": {
+        "code": "91",
+        "name": "Papua"
+    },
+    "kabupaten": {
+        "code": "9105",
+        "name": "Kepulauan Yapen"
+    },
+    "kecamatan": {
+        "code": "910501",
+        "name": "Yapen Selatan"
+    }
+}

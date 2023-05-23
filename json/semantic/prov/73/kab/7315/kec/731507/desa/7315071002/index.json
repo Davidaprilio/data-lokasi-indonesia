@@ -1,0 +1,17 @@
+{
+    "code": "7315071002",
+    "name": "Betteng",
+    "poscode": "91254",
+    "provinsi": {
+        "code": "73",
+        "name": "Sulawesi Selatan"
+    },
+    "kabupaten": {
+        "code": "7315",
+        "name": "Pinrang"
+    },
+    "kecamatan": {
+        "code": "731507",
+        "name": "Lembang"
+    }
+}

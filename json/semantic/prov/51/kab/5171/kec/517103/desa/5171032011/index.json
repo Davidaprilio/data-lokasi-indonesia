@@ -1,0 +1,17 @@
+{
+    "code": "5171032011",
+    "name": "Padang Sambian Kaja (Padangsambian Kaja)",
+    "poscode": "80117",
+    "provinsi": {
+        "code": "51",
+        "name": "Bali"
+    },
+    "kabupaten": {
+        "code": "5171",
+        "name": "Denpasar"
+    },
+    "kecamatan": {
+        "code": "517103",
+        "name": "Denpasar Barat"
+    }
+}

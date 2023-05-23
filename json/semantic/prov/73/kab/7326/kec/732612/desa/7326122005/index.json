@@ -1,0 +1,17 @@
+{
+    "code": "7326122005",
+    "name": "Paku",
+    "poscode": "91822",
+    "provinsi": {
+        "code": "73",
+        "name": "Sulawesi Selatan"
+    },
+    "kabupaten": {
+        "code": "7326",
+        "name": "Toraja Utara"
+    },
+    "kecamatan": {
+        "code": "732612",
+        "name": "Dende' Piongan Napo"
+    }
+}

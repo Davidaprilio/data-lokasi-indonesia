@@ -1,0 +1,10 @@
+{
+    "code": "32",
+    "name": "Jawa Barat",
+    "jumlah": {
+        "kota": 9,
+        "kabupaten": 18,
+        "kecamatan": 627,
+        "desa": 5
+    }
+}

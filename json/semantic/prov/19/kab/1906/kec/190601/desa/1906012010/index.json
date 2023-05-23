@@ -1,0 +1,17 @@
+{
+    "code": "1906012010",
+    "name": "Buku Limau (Pulau Buku Limau)",
+    "poscode": "33511",
+    "provinsi": {
+        "code": "19",
+        "name": "Kepulauan Bangka Belitung"
+    },
+    "kabupaten": {
+        "code": "1906",
+        "name": "Belitung Timur"
+    },
+    "kecamatan": {
+        "code": "190601",
+        "name": "Manggar"
+    }
+}

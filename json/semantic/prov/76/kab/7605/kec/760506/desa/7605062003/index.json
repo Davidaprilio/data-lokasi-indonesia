@@ -1,0 +1,17 @@
+{
+    "code": "7605062003",
+    "name": "Ulidang",
+    "poscode": "91450",
+    "provinsi": {
+        "code": "76",
+        "name": "Sulawesi Barat"
+    },
+    "kabupaten": {
+        "code": "7605",
+        "name": "Majene"
+    },
+    "kecamatan": {
+        "code": "760506",
+        "name": "Tammerodo Sendana (Tammeredo Sendana)"
+    }
+}

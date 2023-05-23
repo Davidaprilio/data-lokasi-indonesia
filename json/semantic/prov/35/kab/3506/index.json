@@ -1,0 +1,10 @@
+{
+    "code": "3506",
+    "type": "Kabupaten",
+    "name": "Kediri",
+    "fullname": "Kabupaten Kediri",
+    "jumlah": {
+        "kecamatan": 26,
+        "desa": 344
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "1308132002",
+    "name": "Ladang Panjang",
+    "poscode": "26358",
+    "provinsi": {
+        "code": "13",
+        "name": "Sumatera Barat"
+    },
+    "kabupaten": {
+        "code": "1308",
+        "name": "Pasaman"
+    },
+    "kecamatan": {
+        "code": "130813",
+        "name": "Tigo Nagari"
+    }
+}

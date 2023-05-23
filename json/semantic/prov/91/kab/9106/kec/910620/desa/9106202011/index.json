@@ -1,0 +1,17 @@
+{
+    "code": "9106202011",
+    "name": "Sawadori",
+    "poscode": "98542",
+    "provinsi": {
+        "code": "91",
+        "name": "Papua"
+    },
+    "kabupaten": {
+        "code": "9106",
+        "name": "Biak Numfor"
+    },
+    "kecamatan": {
+        "code": "910620",
+        "name": "Oridek"
+    }
+}

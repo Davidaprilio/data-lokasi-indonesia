@@ -1,0 +1,17 @@
+{
+    "code": "3373041003",
+    "name": "Mangunsari",
+    "poscode": "50721",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3373",
+        "name": "Salatiga"
+    },
+    "kecamatan": {
+        "code": "337304",
+        "name": "Sidomukti"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "3211142009",
+    "name": "Mangunarga",
+    "poscode": "45364",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3211",
+        "name": "Sumedang"
+    },
+    "kecamatan": {
+        "code": "321114",
+        "name": "Cimanggung"
+    }
+}

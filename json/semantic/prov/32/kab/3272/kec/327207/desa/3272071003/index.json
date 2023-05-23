@@ -1,0 +1,17 @@
+{
+    "code": "3272071003",
+    "name": "Sindangpalay",
+    "poscode": "43162",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3272",
+        "name": "Sukabumi"
+    },
+    "kecamatan": {
+        "code": "327207",
+        "name": "Cibeureum"
+    }
+}

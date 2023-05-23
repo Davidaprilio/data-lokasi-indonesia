@@ -1,0 +1,17 @@
+{
+    "code": "9115032014",
+    "name": "Sirami",
+    "poscode": "98671",
+    "provinsi": {
+        "code": "91",
+        "name": "Papua"
+    },
+    "kabupaten": {
+        "code": "9115",
+        "name": "Waropen"
+    },
+    "kecamatan": {
+        "code": "911503",
+        "name": "Masirei"
+    }
+}

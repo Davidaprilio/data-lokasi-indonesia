@@ -1,0 +1,17 @@
+{
+    "code": "7302021006",
+    "name": "Kasimpureng",
+    "poscode": "92511",
+    "provinsi": {
+        "code": "73",
+        "name": "Sulawesi Selatan"
+    },
+    "kabupaten": {
+        "code": "7302",
+        "name": "Bulukumba"
+    },
+    "kecamatan": {
+        "code": "730202",
+        "name": "Ujung Bulu"
+    }
+}

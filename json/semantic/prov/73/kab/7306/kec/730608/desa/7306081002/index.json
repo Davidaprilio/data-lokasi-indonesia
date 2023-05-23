@@ -1,0 +1,17 @@
+{
+    "code": "7306081002",
+    "name": "Bonto Bontoa",
+    "poscode": "92111",
+    "provinsi": {
+        "code": "73",
+        "name": "Sulawesi Selatan"
+    },
+    "kabupaten": {
+        "code": "7306",
+        "name": "Gowa"
+    },
+    "kecamatan": {
+        "code": "730608",
+        "name": "Somba Opu (Upu)"
+    }
+}

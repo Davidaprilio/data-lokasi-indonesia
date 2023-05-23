@@ -1,0 +1,17 @@
+{
+    "code": "5271041003",
+    "name": "Jempong Baru (Jempang Baru)",
+    "poscode": "83116",
+    "provinsi": {
+        "code": "52",
+        "name": "Nusa Tenggara Barat (NTB)"
+    },
+    "kabupaten": {
+        "code": "5271",
+        "name": "Mataram"
+    },
+    "kecamatan": {
+        "code": "527104",
+        "name": "Sekarbela"
+    }
+}

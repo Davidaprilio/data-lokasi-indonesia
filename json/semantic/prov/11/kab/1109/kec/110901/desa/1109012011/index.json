@@ -1,0 +1,17 @@
+{
+    "code": "1109012011",
+    "name": "Lakubang",
+    "poscode": "23894",
+    "provinsi": {
+        "code": "11",
+        "name": "Aceh (NAD)"
+    },
+    "kabupaten": {
+        "code": "1109",
+        "name": "Simeulue"
+    },
+    "kecamatan": {
+        "code": "110901",
+        "name": "Simeulue Tengah (Simeuleu Tengah)"
+    }
+}

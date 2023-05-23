@@ -1,0 +1,10 @@
+{
+    "code": "8104",
+    "type": "Kabupaten",
+    "name": "Buru",
+    "fullname": "Kabupaten Buru",
+    "jumlah": {
+        "kecamatan": 10,
+        "desa": 82
+    }
+}

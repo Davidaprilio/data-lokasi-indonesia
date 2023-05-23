@@ -1,0 +1,17 @@
+{
+    "code": "1601092002",
+    "name": "Kedondong",
+    "poscode": "32191",
+    "provinsi": {
+        "code": "16",
+        "name": "Sumatera Selatan"
+    },
+    "kabupaten": {
+        "code": "1601",
+        "name": "Ogan Komering Ulu"
+    },
+    "kecamatan": {
+        "code": "160109",
+        "name": "Peninjauan"
+    }
+}

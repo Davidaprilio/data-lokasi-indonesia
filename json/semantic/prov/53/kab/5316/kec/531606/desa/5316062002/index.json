@@ -1,0 +1,17 @@
+{
+    "code": "5316062002",
+    "name": "Lewangera",
+    "poscode": "86464",
+    "provinsi": {
+        "code": "53",
+        "name": "Nusa Tenggara Timur (NTT)"
+    },
+    "kabupaten": {
+        "code": "5316",
+        "name": "Nagekeo"
+    },
+    "kecamatan": {
+        "code": "531606",
+        "name": "Keo Tengah"
+    }
+}

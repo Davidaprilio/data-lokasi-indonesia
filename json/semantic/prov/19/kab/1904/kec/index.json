@@ -1,0 +1,44 @@
+[
+    {
+        "code": "190401",
+        "name": "Koba",
+        "count": {
+            "desa": 11
+        }
+    },
+    {
+        "code": "190406",
+        "name": "Lubuk Besar",
+        "count": {
+            "desa": 9
+        }
+    },
+    {
+        "code": "190405",
+        "name": "Namang",
+        "count": {
+            "desa": 8
+        }
+    },
+    {
+        "code": "190402",
+        "name": "Pangkalan Baru",
+        "count": {
+            "desa": 12
+        }
+    },
+    {
+        "code": "190404",
+        "name": "Simpang Katis",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "190403",
+        "name": "Sungai Selan",
+        "count": {
+            "desa": 13
+        }
+    }
+]

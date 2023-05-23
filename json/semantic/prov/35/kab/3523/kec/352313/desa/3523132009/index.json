@@ -1,0 +1,17 @@
+{
+    "code": "3523132009",
+    "name": "Sembungrejo",
+    "poscode": "62355",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3523",
+        "name": "Tuban"
+    },
+    "kecamatan": {
+        "code": "352313",
+        "name": "Merakurak"
+    }
+}

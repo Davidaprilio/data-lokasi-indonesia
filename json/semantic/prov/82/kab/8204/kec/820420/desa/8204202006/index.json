@@ -1,0 +1,17 @@
+{
+    "code": "8204202006",
+    "name": "Bobo",
+    "poscode": "97792",
+    "provinsi": {
+        "code": "82",
+        "name": "Maluku Utara"
+    },
+    "kabupaten": {
+        "code": "8204",
+        "name": "Halmahera Selatan"
+    },
+    "kecamatan": {
+        "code": "820420",
+        "name": "Mandioli Utara"
+    }
+}

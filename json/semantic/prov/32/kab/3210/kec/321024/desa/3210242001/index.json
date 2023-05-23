@@ -1,0 +1,17 @@
+{
+    "code": "3210242001",
+    "name": "Jatisawit",
+    "poscode": "45451",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3210",
+        "name": "Majalengka"
+    },
+    "kecamatan": {
+        "code": "321024",
+        "name": "Kasokandel"
+    }
+}

@@ -1,0 +1,52 @@
+[
+    {
+        "code": "1604312001",
+        "name": "Banjar Negara",
+        "poscode": "31420"
+    },
+    {
+        "code": "1604312005",
+        "name": "Karang Anyar",
+        "poscode": "31421"
+    },
+    {
+        "code": "1604312006",
+        "name": "Karang Baru",
+        "poscode": "31422"
+    },
+    {
+        "code": "1604312007",
+        "name": "Kerung",
+        "poscode": "31426"
+    },
+    {
+        "code": "1604312008",
+        "name": "Muara Cawang",
+        "poscode": "31427"
+    },
+    {
+        "code": "1604312004",
+        "name": "Nantal",
+        "poscode": "31423"
+    },
+    {
+        "code": "1604312009",
+        "name": "Talang Sawah",
+        "poscode": "31428"
+    },
+    {
+        "code": "1604312010",
+        "name": "Talang Sejemput",
+        "poscode": "31429"
+    },
+    {
+        "code": "1604312002",
+        "name": "Tanjung Payang",
+        "poscode": "31424"
+    },
+    {
+        "code": "1604312003",
+        "name": "Tanjung Tebat",
+        "poscode": "31425"
+    }
+]

@@ -1,0 +1,10 @@
+{
+    "code": "2101",
+    "type": "Kabupaten",
+    "name": "Bintan",
+    "fullname": "Kabupaten Bintan",
+    "jumlah": {
+        "kecamatan": 10,
+        "desa": 51
+    }
+}

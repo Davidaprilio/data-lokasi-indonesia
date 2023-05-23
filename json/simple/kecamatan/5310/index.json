@@ -1,0 +1,86 @@
+[
+    {
+        "code": "531006",
+        "name": "Cibal",
+        "count": {
+            "desa": 17
+        }
+    },
+    {
+        "code": "531017",
+        "name": "Cibal Barat",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "531012",
+        "name": "Langke Rembong",
+        "count": {
+            "desa": 20
+        }
+    },
+    {
+        "code": "531015",
+        "name": "Lelak",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "531014",
+        "name": "Rahong Utara",
+        "count": {
+            "desa": 12
+        }
+    },
+    {
+        "code": "531011",
+        "name": "Reok",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "531016",
+        "name": "Reok Barat",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "531003",
+        "name": "Ruteng",
+        "count": {
+            "desa": 19
+        }
+    },
+    {
+        "code": "531005",
+        "name": "Satar Mese",
+        "count": {
+            "desa": 23
+        }
+    },
+    {
+        "code": "531013",
+        "name": "Satar Mese Barat",
+        "count": {
+            "desa": 12
+        }
+    },
+    {
+        "code": "531018",
+        "name": "Satar Mese Utara",
+        "count": {
+            "desa": 11
+        }
+    },
+    {
+        "code": "531001",
+        "name": "Wae Rii",
+        "count": {
+            "desa": 17
+        }
+    }
+]

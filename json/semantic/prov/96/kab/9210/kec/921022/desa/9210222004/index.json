@@ -1,0 +1,17 @@
+{
+    "code": "9210222004",
+    "name": "Eway",
+    "poscode": "98264",
+    "provinsi": {
+        "code": "96",
+        "name": "Papua Barat Daya"
+    },
+    "kabupaten": {
+        "code": "9210",
+        "name": "Maybrat"
+    },
+    "kecamatan": {
+        "code": "921022",
+        "name": "Aitinyo Tengah"
+    }
+}

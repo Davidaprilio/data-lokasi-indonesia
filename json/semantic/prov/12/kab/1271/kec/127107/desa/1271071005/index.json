@@ -1,0 +1,17 @@
+{
+    "code": "1271071005",
+    "name": "Laucih (Lau Cih)",
+    "poscode": "20136",
+    "provinsi": {
+        "code": "12",
+        "name": "Sumatera Utara"
+    },
+    "kabupaten": {
+        "code": "1271",
+        "name": "Medan"
+    },
+    "kecamatan": {
+        "code": "127107",
+        "name": "Medan Tuntungan"
+    }
+}

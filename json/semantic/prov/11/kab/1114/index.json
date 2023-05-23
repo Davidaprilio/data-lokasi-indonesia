@@ -1,0 +1,10 @@
+{
+    "code": "1114",
+    "type": "Kabupaten",
+    "name": "Aceh Jaya",
+    "fullname": "Kabupaten Aceh Jaya",
+    "jumlah": {
+        "kecamatan": 9,
+        "desa": 172
+    }
+}

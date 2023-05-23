@@ -1,0 +1,10 @@
+{
+    "code": "9120",
+    "type": "Kabupaten",
+    "name": "Mamberamo Raya",
+    "fullname": "Kabupaten Mamberamo Raya",
+    "jumlah": {
+        "kecamatan": 8,
+        "desa": 60
+    }
+}

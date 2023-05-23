@@ -1,0 +1,17 @@
+{
+    "code": "8272011017",
+    "name": "Tuguwaji",
+    "poscode": "97813",
+    "provinsi": {
+        "code": "82",
+        "name": "Maluku Utara"
+    },
+    "kabupaten": {
+        "code": "8272",
+        "name": "Tidore Kepulauan"
+    },
+    "kecamatan": {
+        "code": "827201",
+        "name": "Tidore"
+    }
+}

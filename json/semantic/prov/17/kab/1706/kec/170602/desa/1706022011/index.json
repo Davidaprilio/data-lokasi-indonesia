@@ -1,0 +1,17 @@
+{
+    "code": "1706022011",
+    "name": "Tanah Rekah",
+    "poscode": "38719",
+    "provinsi": {
+        "code": "17",
+        "name": "Bengkulu"
+    },
+    "kabupaten": {
+        "code": "1706",
+        "name": "Muko Muko"
+    },
+    "kecamatan": {
+        "code": "170602",
+        "name": "Kota Mukomuko (Mukomuko Utara)"
+    }
+}

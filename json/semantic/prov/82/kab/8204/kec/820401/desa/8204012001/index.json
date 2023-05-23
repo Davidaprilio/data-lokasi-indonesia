@@ -1,0 +1,17 @@
+{
+    "code": "8204012001",
+    "name": "Rabutdaiyo",
+    "poscode": "97785",
+    "provinsi": {
+        "code": "82",
+        "name": "Maluku Utara"
+    },
+    "kabupaten": {
+        "code": "8204",
+        "name": "Halmahera Selatan"
+    },
+    "kecamatan": {
+        "code": "820401",
+        "name": "Pulau Makian"
+    }
+}

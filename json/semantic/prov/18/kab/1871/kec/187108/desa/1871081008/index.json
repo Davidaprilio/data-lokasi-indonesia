@@ -1,0 +1,17 @@
+{
+    "code": "1871081008",
+    "name": "Sukarame II",
+    "poscode": "35234",
+    "provinsi": {
+        "code": "18",
+        "name": "Lampung"
+    },
+    "kabupaten": {
+        "code": "1871",
+        "name": "Bandar Lampung"
+    },
+    "kecamatan": {
+        "code": "187108",
+        "name": "Telukbetung Barat"
+    }
+}

@@ -1,0 +1,72 @@
+[
+    {
+        "code": "327809",
+        "name": "Bungursari",
+        "count": {
+            "desa": 7
+        }
+    },
+    {
+        "code": "327806",
+        "name": "Cibeureum",
+        "count": {
+            "desa": 9
+        }
+    },
+    {
+        "code": "327801",
+        "name": "Cihideung",
+        "count": {
+            "desa": 6
+        }
+    },
+    {
+        "code": "327802",
+        "name": "Cipedes",
+        "count": {
+            "desa": 4
+        }
+    },
+    {
+        "code": "327804",
+        "name": "Indihiang",
+        "count": {
+            "desa": 6
+        }
+    },
+    {
+        "code": "327805",
+        "name": "Kawalu",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "327808",
+        "name": "Mangkubumi",
+        "count": {
+            "desa": 8
+        }
+    },
+    {
+        "code": "327810",
+        "name": "Purbaratu",
+        "count": {
+            "desa": 6
+        }
+    },
+    {
+        "code": "327807",
+        "name": "Tamansari",
+        "count": {
+            "desa": 8
+        }
+    },
+    {
+        "code": "327803",
+        "name": "Tawang",
+        "count": {
+            "desa": 5
+        }
+    }
+]

@@ -1,0 +1,17 @@
+{
+    "code": "7603042014",
+    "name": "Weri",
+    "poscode": "91369",
+    "provinsi": {
+        "code": "76",
+        "name": "Sulawesi Barat"
+    },
+    "kabupaten": {
+        "code": "7603",
+        "name": "Mamasa"
+    },
+    "kecamatan": {
+        "code": "760304",
+        "name": "Pana"
+    }
+}

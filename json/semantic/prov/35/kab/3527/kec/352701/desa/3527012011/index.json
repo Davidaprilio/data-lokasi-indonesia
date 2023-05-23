@@ -1,0 +1,17 @@
+{
+    "code": "3527012011",
+    "name": "Plasah",
+    "poscode": "69273",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3527",
+        "name": "Sampang"
+    },
+    "kecamatan": {
+        "code": "352701",
+        "name": "Sreseh"
+    }
+}

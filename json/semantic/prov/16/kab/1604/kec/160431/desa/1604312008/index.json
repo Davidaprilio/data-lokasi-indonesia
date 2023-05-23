@@ -1,0 +1,17 @@
+{
+    "code": "1604312008",
+    "name": "Muara Cawang",
+    "poscode": "31427",
+    "provinsi": {
+        "code": "16",
+        "name": "Sumatera Selatan"
+    },
+    "kabupaten": {
+        "code": "1604",
+        "name": "Lahat"
+    },
+    "kecamatan": {
+        "code": "160431",
+        "name": "Lahat Selatan"
+    }
+}

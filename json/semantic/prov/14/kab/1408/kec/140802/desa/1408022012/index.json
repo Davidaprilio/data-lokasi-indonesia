@@ -1,0 +1,17 @@
+{
+    "code": "1408022012",
+    "name": "Penyengat",
+    "poscode": "28662",
+    "provinsi": {
+        "code": "14",
+        "name": "Riau"
+    },
+    "kabupaten": {
+        "code": "1408",
+        "name": "Siak"
+    },
+    "kecamatan": {
+        "code": "140802",
+        "name": "Sungai Apit"
+    }
+}

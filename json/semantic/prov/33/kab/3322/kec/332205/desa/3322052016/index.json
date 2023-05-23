@@ -1,0 +1,17 @@
+{
+    "code": "3322052016",
+    "name": "Giling",
+    "poscode": "50771",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3322",
+        "name": "Semarang"
+    },
+    "kecamatan": {
+        "code": "332205",
+        "name": "Pabelan"
+    }
+}

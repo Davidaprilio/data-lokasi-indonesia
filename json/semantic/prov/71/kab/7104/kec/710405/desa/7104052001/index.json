@@ -1,0 +1,17 @@
+{
+    "code": "7104052001",
+    "name": "Kakorotan",
+    "poscode": "95884",
+    "provinsi": {
+        "code": "71",
+        "name": "Sulawesi Utara"
+    },
+    "kabupaten": {
+        "code": "7104",
+        "name": "Kepulauan Talaud"
+    },
+    "kecamatan": {
+        "code": "710405",
+        "name": "Nanusa"
+    }
+}

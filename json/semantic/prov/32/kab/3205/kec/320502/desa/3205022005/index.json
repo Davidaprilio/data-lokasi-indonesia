@@ -1,0 +1,17 @@
+{
+    "code": "3205022005",
+    "name": "Situgede",
+    "poscode": "44182",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3205",
+        "name": "Garut"
+    },
+    "kecamatan": {
+        "code": "320502",
+        "name": "Karangpawitan"
+    }
+}

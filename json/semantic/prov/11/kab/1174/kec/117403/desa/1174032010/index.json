@@ -1,0 +1,17 @@
+{
+    "code": "1174032010",
+    "name": "Meutia (Gampong Mutia)",
+    "poscode": "24416",
+    "provinsi": {
+        "code": "11",
+        "name": "Aceh (NAD)"
+    },
+    "kabupaten": {
+        "code": "1174",
+        "name": "Langsa"
+    },
+    "kecamatan": {
+        "code": "117403",
+        "name": "Langsa Kota"
+    }
+}

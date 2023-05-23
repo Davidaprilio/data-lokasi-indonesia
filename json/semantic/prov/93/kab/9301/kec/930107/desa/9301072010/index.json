@@ -1,0 +1,17 @@
+{
+    "code": "9301072010",
+    "name": "Jagebob Raya",
+    "poscode": "99645",
+    "provinsi": {
+        "code": "93",
+        "name": "Papua Selatan"
+    },
+    "kabupaten": {
+        "code": "9301",
+        "name": "Merauke"
+    },
+    "kecamatan": {
+        "code": "930107",
+        "name": "Jagebob"
+    }
+}

@@ -1,0 +1,79 @@
+[
+    {
+        "code": "911102",
+        "name": "Arso",
+        "count": {
+            "desa": 12
+        }
+    },
+    {
+        "code": "911108",
+        "name": "Arso Barat",
+        "count": {
+            "desa": 8
+        }
+    },
+    {
+        "code": "911106",
+        "name": "Arso Timur",
+        "count": {
+            "desa": 9
+        }
+    },
+    {
+        "code": "911111",
+        "name": "Kaisenar",
+        "count": {
+            "desa": 5
+        }
+    },
+    {
+        "code": "911109",
+        "name": "Mannem",
+        "count": {
+            "desa": 7
+        }
+    },
+    {
+        "code": "911103",
+        "name": "Senggi",
+        "count": {
+            "desa": 7
+        }
+    },
+    {
+        "code": "911105",
+        "name": "Skanto",
+        "count": {
+            "desa": 12
+        }
+    },
+    {
+        "code": "911107",
+        "name": "Towe",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "911101",
+        "name": "Waris",
+        "count": {
+            "desa": 8
+        }
+    },
+    {
+        "code": "911104",
+        "name": "Web",
+        "count": {
+            "desa": 6
+        }
+    },
+    {
+        "code": "911110",
+        "name": "Yaffi",
+        "count": {
+            "desa": 7
+        }
+    }
+]

@@ -1,0 +1,17 @@
+{
+    "code": "7204062003",
+    "name": "Salugan",
+    "poscode": "94518",
+    "provinsi": {
+        "code": "72",
+        "name": "Sulawesi Tengah"
+    },
+    "kabupaten": {
+        "code": "7204",
+        "name": "Toli Toli"
+    },
+    "kecamatan": {
+        "code": "720406",
+        "name": "Lampasio"
+    }
+}

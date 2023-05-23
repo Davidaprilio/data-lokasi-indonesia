@@ -1,0 +1,17 @@
+{
+    "code": "7105012002",
+    "name": "Kakenturan",
+    "poscode": "95958",
+    "provinsi": {
+        "code": "71",
+        "name": "Sulawesi Utara"
+    },
+    "kabupaten": {
+        "code": "7105",
+        "name": "Minahasa Selatan"
+    },
+    "kecamatan": {
+        "code": "710501",
+        "name": "Modoinding"
+    }
+}

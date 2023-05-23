@@ -1,0 +1,17 @@
+{
+    "code": "1277011010",
+    "name": "Panyanggar",
+    "poscode": "22714",
+    "provinsi": {
+        "code": "12",
+        "name": "Sumatera Utara"
+    },
+    "kabupaten": {
+        "code": "1277",
+        "name": "Padangsidimpuan"
+    },
+    "kecamatan": {
+        "code": "127701",
+        "name": "Padangsidimpuan Utara"
+    }
+}

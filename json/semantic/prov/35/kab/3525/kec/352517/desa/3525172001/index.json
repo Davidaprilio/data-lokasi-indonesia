@@ -1,0 +1,17 @@
+{
+    "code": "3525172001",
+    "name": "Dekatagung",
+    "poscode": "61181",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3525",
+        "name": "Gresik"
+    },
+    "kecamatan": {
+        "code": "352517",
+        "name": "Sangkapura"
+    }
+}

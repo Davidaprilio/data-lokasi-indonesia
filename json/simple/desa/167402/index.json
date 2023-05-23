@@ -1,0 +1,42 @@
+[
+    {
+        "code": "1674021007",
+        "name": "Gunung Ibul",
+        "poscode": "31113"
+    },
+    {
+        "code": "1674021008",
+        "name": "Gunung Ibul Barat",
+        "poscode": "31117"
+    },
+    {
+        "code": "1674021010",
+        "name": "Karang Jaya",
+        "poscode": "31115"
+    },
+    {
+        "code": "1674021003",
+        "name": "Karang Raja",
+        "poscode": "31111"
+    },
+    {
+        "code": "1674021006",
+        "name": "Muara Dua",
+        "poscode": "31113"
+    },
+    {
+        "code": "1674021005",
+        "name": "Prabu Jaya",
+        "poscode": "31111"
+    },
+    {
+        "code": "1674021009",
+        "name": "Sukajadi",
+        "poscode": "31111"
+    },
+    {
+        "code": "1674021004",
+        "name": "Tugu Kecil",
+        "poscode": "31111"
+    }
+]

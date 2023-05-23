@@ -1,0 +1,17 @@
+{
+    "code": "9504062021",
+    "name": "Wona",
+    "poscode": "99036",
+    "provinsi": {
+        "code": "95",
+        "name": "Papua Pegunungan"
+    },
+    "kabupaten": {
+        "code": "9504",
+        "name": "Tolikara"
+    },
+    "kecamatan": {
+        "code": "950406",
+        "name": "Wunim (Wunin / Wumin)"
+    }
+}

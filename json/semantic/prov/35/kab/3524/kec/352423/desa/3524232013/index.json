@@ -1,0 +1,17 @@
+{
+    "code": "3524232013",
+    "name": "Balongwangi",
+    "poscode": "62280",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3524",
+        "name": "Lamongan"
+    },
+    "kecamatan": {
+        "code": "352423",
+        "name": "Tikung"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "code": "1111",
+    "type": "Kabupaten",
+    "name": "Bireuen",
+    "fullname": "Kabupaten Bireuen",
+    "jumlah": {
+        "kecamatan": 17,
+        "desa": 609
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "3214032008",
+    "name": "Mekargalih",
+    "poscode": "41152",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3214",
+        "name": "Purwakarta"
+    },
+    "kecamatan": {
+        "code": "321403",
+        "name": "Jatiluhur"
+    }
+}

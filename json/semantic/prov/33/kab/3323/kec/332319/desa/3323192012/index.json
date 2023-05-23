@@ -1,0 +1,17 @@
+{
+    "code": "3323192012",
+    "name": "Cemoro",
+    "poscode": "56266",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3323",
+        "name": "Temanggung"
+    },
+    "kecamatan": {
+        "code": "332319",
+        "name": "Wonoboyo"
+    }
+}

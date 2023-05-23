@@ -1,0 +1,17 @@
+{
+    "code": "1108022004",
+    "name": "Paloh Gadeng",
+    "poscode": "24354",
+    "provinsi": {
+        "code": "11",
+        "name": "Aceh (NAD)"
+    },
+    "kabupaten": {
+        "code": "1108",
+        "name": "Aceh Utara"
+    },
+    "kecamatan": {
+        "code": "110802",
+        "name": "Dewantara"
+    }
+}

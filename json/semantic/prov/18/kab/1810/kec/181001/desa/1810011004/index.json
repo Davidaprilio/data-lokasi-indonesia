@@ -1,0 +1,17 @@
+{
+    "code": "1810011004",
+    "name": "Pringsewu Barat",
+    "poscode": "35371",
+    "provinsi": {
+        "code": "18",
+        "name": "Lampung"
+    },
+    "kabupaten": {
+        "code": "1810",
+        "name": "Pringsewu"
+    },
+    "kecamatan": {
+        "code": "181001",
+        "name": "Pringsewu"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "7404292006",
+    "name": "Wabula Satu",
+    "poscode": "93753",
+    "provinsi": {
+        "code": "74",
+        "name": "Sulawesi Tenggara"
+    },
+    "kabupaten": {
+        "code": "7404",
+        "name": "Buton"
+    },
+    "kecamatan": {
+        "code": "740429",
+        "name": "Wabula"
+    }
+}

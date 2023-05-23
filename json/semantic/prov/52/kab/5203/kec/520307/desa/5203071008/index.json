@@ -1,0 +1,17 @@
+{
+    "code": "5203071008",
+    "name": "Sandu Baya (Sandubaya)",
+    "poscode": "83612",
+    "provinsi": {
+        "code": "52",
+        "name": "Nusa Tenggara Barat (NTB)"
+    },
+    "kabupaten": {
+        "code": "5203",
+        "name": "Lombok Timur"
+    },
+    "kecamatan": {
+        "code": "520307",
+        "name": "Selong"
+    }
+}

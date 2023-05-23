@@ -1,0 +1,17 @@
+{
+    "code": "1372011004",
+    "name": "IX Korong",
+    "poscode": "27314",
+    "provinsi": {
+        "code": "13",
+        "name": "Sumatera Barat"
+    },
+    "kabupaten": {
+        "code": "1372",
+        "name": "Solok"
+    },
+    "kecamatan": {
+        "code": "137201",
+        "name": "Lubuk Sikarah"
+    }
+}

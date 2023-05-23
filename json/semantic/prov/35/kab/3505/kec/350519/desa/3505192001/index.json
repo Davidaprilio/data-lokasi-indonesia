@@ -1,0 +1,17 @@
+{
+    "code": "3505192001",
+    "name": "Siraman",
+    "poscode": "66191",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3505",
+        "name": "Blitar"
+    },
+    "kecamatan": {
+        "code": "350519",
+        "name": "Kesamben"
+    }
+}

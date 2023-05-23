@@ -1,0 +1,17 @@
+{
+    "code": "5315052004",
+    "name": "Golo Mori",
+    "poscode": "86763",
+    "provinsi": {
+        "code": "53",
+        "name": "Nusa Tenggara Timur (NTT)"
+    },
+    "kabupaten": {
+        "code": "5315",
+        "name": "Manggarai Barat"
+    },
+    "kecamatan": {
+        "code": "531505",
+        "name": "Komodo"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "3204122003",
+    "name": "Cangkuang Wetan",
+    "poscode": "40238",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3204",
+        "name": "Bandung"
+    },
+    "kecamatan": {
+        "code": "320412",
+        "name": "Dayeuhkolot"
+    }
+}

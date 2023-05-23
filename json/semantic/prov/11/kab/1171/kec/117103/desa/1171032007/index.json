@@ -1,0 +1,17 @@
+{
+    "code": "1171032007",
+    "name": "Lampaseh Aceh",
+    "poscode": "23231",
+    "provinsi": {
+        "code": "11",
+        "name": "Aceh (NAD)"
+    },
+    "kabupaten": {
+        "code": "1171",
+        "name": "Banda Aceh"
+    },
+    "kecamatan": {
+        "code": "117103",
+        "name": "Meuraxa"
+    }
+}

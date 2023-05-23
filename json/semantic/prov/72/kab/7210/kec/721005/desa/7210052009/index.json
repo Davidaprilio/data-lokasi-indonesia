@@ -1,0 +1,17 @@
+{
+    "code": "7210052009",
+    "name": "Sungku",
+    "poscode": "94363",
+    "provinsi": {
+        "code": "72",
+        "name": "Sulawesi Tengah"
+    },
+    "kabupaten": {
+        "code": "7210",
+        "name": "Sigi"
+    },
+    "kecamatan": {
+        "code": "721005",
+        "name": "Kulawi"
+    }
+}

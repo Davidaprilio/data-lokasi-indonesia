@@ -1,0 +1,17 @@
+{
+    "code": "3501042007",
+    "name": "Arjowinangun",
+    "poscode": "63516",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3501",
+        "name": "Pacitan"
+    },
+    "kecamatan": {
+        "code": "350104",
+        "name": "Pacitan"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "3520032007",
+    "name": "Nguri",
+    "poscode": "63372",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3520",
+        "name": "Magetan"
+    },
+    "kecamatan": {
+        "code": "352003",
+        "name": "Lembeyan"
+    }
+}

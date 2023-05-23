@@ -1,0 +1,17 @@
+{
+    "code": "3503142004",
+    "name": "Ngrandu",
+    "poscode": "66360",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3503",
+        "name": "Trenggalek"
+    },
+    "kecamatan": {
+        "code": "350314",
+        "name": "Suruh"
+    }
+}

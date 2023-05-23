@@ -1,0 +1,17 @@
+{
+    "code": "1803222001",
+    "name": "Aji Kagungan",
+    "poscode": "34565",
+    "provinsi": {
+        "code": "18",
+        "name": "Lampung"
+    },
+    "kabupaten": {
+        "code": "1803",
+        "name": "Lampung Utara"
+    },
+    "kecamatan": {
+        "code": "180322",
+        "name": "Abung Kunang"
+    }
+}

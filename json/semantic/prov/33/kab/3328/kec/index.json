@@ -1,0 +1,128 @@
+[
+    {
+        "code": "332811",
+        "name": "Adiwerna",
+        "count": {
+            "desa": 21
+        }
+    },
+    {
+        "code": "332804",
+        "name": "Balapulang",
+        "count": {
+            "desa": 20
+        }
+    },
+    {
+        "code": "332803",
+        "name": "Bojong",
+        "count": {
+            "desa": 17
+        }
+    },
+    {
+        "code": "332802",
+        "name": "Bumijawa",
+        "count": {
+            "desa": 18
+        }
+    },
+    {
+        "code": "332813",
+        "name": "Dukuhturi",
+        "count": {
+            "desa": 18
+        }
+    },
+    {
+        "code": "332818",
+        "name": "Dukuhwaru",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "332807",
+        "name": "Jatinegara",
+        "count": {
+            "desa": 17
+        }
+    },
+    {
+        "code": "332808",
+        "name": "Kedungbanteng (Kedung Banteng)",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "332815",
+        "name": "Kramat",
+        "count": {
+            "desa": 20
+        }
+    },
+    {
+        "code": "332806",
+        "name": "Lebaksiu",
+        "count": {
+            "desa": 15
+        }
+    },
+    {
+        "code": "332801",
+        "name": "Margasari",
+        "count": {
+            "desa": 13
+        }
+    },
+    {
+        "code": "332805",
+        "name": "Pagerbarang",
+        "count": {
+            "desa": 13
+        }
+    },
+    {
+        "code": "332809",
+        "name": "Pangkah",
+        "count": {
+            "desa": 23
+        }
+    },
+    {
+        "code": "332810",
+        "name": "Slawi",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "332816",
+        "name": "Suradadi (Surodadi)",
+        "count": {
+            "desa": 11
+        }
+    },
+    {
+        "code": "332812",
+        "name": "Talang",
+        "count": {
+            "desa": 19
+        }
+    },
+    {
+        "code": "332814",
+        "name": "Tarub",
+        "count": {
+            "desa": 20
+        }
+    },
+    {
+        "code": "332817",
+        "name": "Warureja (Warurejo)",
+        "count": {
+            "desa": 12
+        }
+    }
+]

@@ -1,0 +1,17 @@
+{
+    "code": "5302322005",
+    "name": "Feto Mone",
+    "poscode": "85544",
+    "provinsi": {
+        "code": "53",
+        "name": "Nusa Tenggara Timur (NTT)"
+    },
+    "kabupaten": {
+        "code": "5302",
+        "name": "Timor Tengah Selatan"
+    },
+    "kecamatan": {
+        "code": "530232",
+        "name": "Nunbena"
+    }
+}

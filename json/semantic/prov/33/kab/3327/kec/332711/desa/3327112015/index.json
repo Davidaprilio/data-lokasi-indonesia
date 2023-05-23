@@ -1,0 +1,17 @@
+{
+    "code": "3327112015",
+    "name": "Sidokare",
+    "poscode": "52364",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3327",
+        "name": "Pemalang"
+    },
+    "kecamatan": {
+        "code": "332711",
+        "name": "Ampelgading"
+    }
+}

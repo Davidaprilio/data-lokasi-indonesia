@@ -1,0 +1,17 @@
+{
+    "code": "3205242003",
+    "name": "Mekartani",
+    "poscode": "44170",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3205",
+        "name": "Garut"
+    },
+    "kecamatan": {
+        "code": "320524",
+        "name": "Singajaya"
+    }
+}

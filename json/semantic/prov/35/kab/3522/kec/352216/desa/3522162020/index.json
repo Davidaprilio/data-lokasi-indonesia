@@ -1,0 +1,17 @@
+{
+    "code": "3522162020",
+    "name": "Leran",
+    "poscode": "62152",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3522",
+        "name": "Bojonegoro"
+    },
+    "kecamatan": {
+        "code": "352216",
+        "name": "Kalitidu"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "9301122002",
+    "name": "Onggaya",
+    "poscode": "99621",
+    "provinsi": {
+        "code": "93",
+        "name": "Papua Selatan"
+    },
+    "kabupaten": {
+        "code": "9301",
+        "name": "Merauke"
+    },
+    "kecamatan": {
+        "code": "930112",
+        "name": "Naukenjerai"
+    }
+}

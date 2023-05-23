@@ -1,0 +1,17 @@
+{
+    "code": "3305212001",
+    "name": "Karanggayam",
+    "poscode": "54365",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3305",
+        "name": "Kebumen"
+    },
+    "kecamatan": {
+        "code": "330521",
+        "name": "Karanggayam"
+    }
+}

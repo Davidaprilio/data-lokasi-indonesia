@@ -1,0 +1,17 @@
+{
+    "code": "6408102001",
+    "name": "Kaliorang",
+    "poscode": "75617",
+    "provinsi": {
+        "code": "64",
+        "name": "Kalimantan Timur"
+    },
+    "kabupaten": {
+        "code": "6408",
+        "name": "Kutai Timur"
+    },
+    "kecamatan": {
+        "code": "640810",
+        "name": "Kaliorang"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "3214052007",
+    "name": "Cianting",
+    "poscode": "41167",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3214",
+        "name": "Purwakarta"
+    },
+    "kecamatan": {
+        "code": "321405",
+        "name": "Sukatani"
+    }
+}

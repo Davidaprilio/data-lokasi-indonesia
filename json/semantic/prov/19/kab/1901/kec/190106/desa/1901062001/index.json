@@ -1,0 +1,17 @@
+{
+    "code": "1901062001",
+    "name": "Bakam",
+    "poscode": "33252",
+    "provinsi": {
+        "code": "19",
+        "name": "Kepulauan Bangka Belitung"
+    },
+    "kabupaten": {
+        "code": "1901",
+        "name": "Bangka"
+    },
+    "kecamatan": {
+        "code": "190106",
+        "name": "Bakam"
+    }
+}

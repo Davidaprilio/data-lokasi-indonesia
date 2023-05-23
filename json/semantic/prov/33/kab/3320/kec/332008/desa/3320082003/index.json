@@ -1,0 +1,17 @@
+{
+    "code": "3320082003",
+    "name": "Papasan",
+    "poscode": "59453",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3320",
+        "name": "Jepara"
+    },
+    "kecamatan": {
+        "code": "332008",
+        "name": "Bangsri"
+    }
+}

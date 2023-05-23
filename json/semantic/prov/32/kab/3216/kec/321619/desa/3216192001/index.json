@@ -1,0 +1,17 @@
+{
+    "code": "3216192001",
+    "name": "Cibatu",
+    "poscode": "17532",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3216",
+        "name": "Bekasi"
+    },
+    "kecamatan": {
+        "code": "321619",
+        "name": "Cikarang Selatan"
+    }
+}

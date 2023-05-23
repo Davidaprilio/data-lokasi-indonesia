@@ -1,0 +1,17 @@
+{
+    "code": "3310222008",
+    "name": "Manjungan",
+    "poscode": "57466",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3310",
+        "name": "Klaten"
+    },
+    "kecamatan": {
+        "code": "331022",
+        "name": "Ngawen"
+    }
+}

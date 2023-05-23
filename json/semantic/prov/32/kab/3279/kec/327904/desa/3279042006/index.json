@@ -1,0 +1,17 @@
+{
+    "code": "3279042006",
+    "name": "Kujangsari",
+    "poscode": "46324",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3279",
+        "name": "Banjar"
+    },
+    "kecamatan": {
+        "code": "327904",
+        "name": "Langensari"
+    }
+}

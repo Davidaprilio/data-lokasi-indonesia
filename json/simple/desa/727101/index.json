@@ -1,0 +1,27 @@
+[
+    {
+        "code": "7271011004",
+        "name": "Besusu Barat",
+        "poscode": "94111"
+    },
+    {
+        "code": "7271011006",
+        "name": "Besusu Tengah",
+        "poscode": "94111"
+    },
+    {
+        "code": "7271011007",
+        "name": "Besusu Timur",
+        "poscode": "94111"
+    },
+    {
+        "code": "7271011009",
+        "name": "Lolu Selatan",
+        "poscode": "94235"
+    },
+    {
+        "code": "7271011010",
+        "name": "Lolu Utara",
+        "poscode": "94235"
+    }
+]

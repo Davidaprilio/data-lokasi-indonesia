@@ -1,0 +1,17 @@
+{
+    "code": "3278061010",
+    "name": "Setianagara",
+    "poscode": "46196",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3278",
+        "name": "Tasikmalaya"
+    },
+    "kecamatan": {
+        "code": "327806",
+        "name": "Cibeureum"
+    }
+}

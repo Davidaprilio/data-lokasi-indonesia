@@ -1,0 +1,17 @@
+{
+    "code": "9120082004",
+    "name": "Sorabi",
+    "poscode": "98682",
+    "provinsi": {
+        "code": "91",
+        "name": "Papua"
+    },
+    "kabupaten": {
+        "code": "9120",
+        "name": "Mamberamo Raya"
+    },
+    "kecamatan": {
+        "code": "912008",
+        "name": "Sawai"
+    }
+}

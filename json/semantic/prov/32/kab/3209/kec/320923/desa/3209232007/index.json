@@ -1,0 +1,17 @@
+{
+    "code": "3209232007",
+    "name": "Pakantingan (Pekantingan)",
+    "poscode": "45157",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3209",
+        "name": "Cirebon"
+    },
+    "kecamatan": {
+        "code": "320923",
+        "name": "Klangenan"
+    }
+}

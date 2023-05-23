@@ -1,0 +1,17 @@
+{
+    "code": "1503032027",
+    "name": "Ujung Tanjung",
+    "poscode": "37481",
+    "provinsi": {
+        "code": "15",
+        "name": "Jambi"
+    },
+    "kabupaten": {
+        "code": "1503",
+        "name": "Sarolangun"
+    },
+    "kecamatan": {
+        "code": "150303",
+        "name": "Sarolangun"
+    }
+}

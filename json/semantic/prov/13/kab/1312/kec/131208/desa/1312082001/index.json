@@ -1,0 +1,17 @@
+{
+    "code": "1312082001",
+    "name": "Parit/Parik",
+    "poscode": "26572",
+    "provinsi": {
+        "code": "13",
+        "name": "Sumatera Barat"
+    },
+    "kabupaten": {
+        "code": "1312",
+        "name": "Pasaman Barat"
+    },
+    "kecamatan": {
+        "code": "131208",
+        "name": "Koto Balingka"
+    }
+}

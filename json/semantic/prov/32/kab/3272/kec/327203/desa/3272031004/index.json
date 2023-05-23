@@ -1,0 +1,17 @@
+{
+    "code": "3272031004",
+    "name": "Gedongpanjang",
+    "poscode": "43144",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3272",
+        "name": "Sukabumi"
+    },
+    "kecamatan": {
+        "code": "327203",
+        "name": "Citamiang"
+    }
+}

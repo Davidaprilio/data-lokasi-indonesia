@@ -1,0 +1,17 @@
+{
+    "code": "1871131003",
+    "name": "Beringin Jaya (Beringin Raya)",
+    "poscode": "35158",
+    "provinsi": {
+        "code": "18",
+        "name": "Lampung"
+    },
+    "kabupaten": {
+        "code": "1871",
+        "name": "Bandar Lampung"
+    },
+    "kecamatan": {
+        "code": "187113",
+        "name": "Kemiling"
+    }
+}

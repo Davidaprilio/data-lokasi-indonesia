@@ -1,0 +1,17 @@
+{
+    "code": "6201022001",
+    "name": "Tanjung Putri",
+    "poscode": "74117",
+    "provinsi": {
+        "code": "62",
+        "name": "Kalimantan Tengah"
+    },
+    "kabupaten": {
+        "code": "6201",
+        "name": "Kotawaringin Barat"
+    },
+    "kecamatan": {
+        "code": "620102",
+        "name": "Arut Selatan"
+    }
+}

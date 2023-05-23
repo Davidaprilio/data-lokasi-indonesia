@@ -1,0 +1,79 @@
+[
+    {
+        "code": "731404",
+        "name": "Baranti",
+        "count": {
+            "desa": 9
+        }
+    },
+    {
+        "code": "731409",
+        "name": "Dua Pitue",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "731406",
+        "name": "Kulo",
+        "count": {
+            "desa": 6
+        }
+    },
+    {
+        "code": "731407",
+        "name": "Maritengngae",
+        "count": {
+            "desa": 12
+        }
+    },
+    {
+        "code": "731401",
+        "name": "Panca Lautang",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "731405",
+        "name": "Panca Rijang",
+        "count": {
+            "desa": 8
+        }
+    },
+    {
+        "code": "731411",
+        "name": "Pitu Riase",
+        "count": {
+            "desa": 12
+        }
+    },
+    {
+        "code": "731410",
+        "name": "Pitu Riawa",
+        "count": {
+            "desa": 12
+        }
+    },
+    {
+        "code": "731402",
+        "name": "Tellu Limpoe",
+        "count": {
+            "desa": 9
+        }
+    },
+    {
+        "code": "731403",
+        "name": "Watang Pulu",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "731408",
+        "name": "Wattang Sidenreng (Watang Sidenreng)",
+        "count": {
+            "desa": 8
+        }
+    }
+]

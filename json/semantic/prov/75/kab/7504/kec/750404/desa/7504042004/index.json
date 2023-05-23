@@ -1,0 +1,17 @@
+{
+    "code": "7504042004",
+    "name": "Marisa Utara",
+    "poscode": "96365",
+    "provinsi": {
+        "code": "75",
+        "name": "Gorontalo"
+    },
+    "kabupaten": {
+        "code": "7504",
+        "name": "Pahuwato"
+    },
+    "kecamatan": {
+        "code": "750404",
+        "name": "Marisa"
+    }
+}

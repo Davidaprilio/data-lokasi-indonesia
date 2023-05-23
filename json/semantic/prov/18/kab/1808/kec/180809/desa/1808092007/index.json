@@ -1,0 +1,17 @@
+{
+    "code": "1808092007",
+    "name": "Tanjung Raya",
+    "poscode": "34771",
+    "provinsi": {
+        "code": "18",
+        "name": "Lampung"
+    },
+    "kabupaten": {
+        "code": "1808",
+        "name": "Way Kanan"
+    },
+    "kecamatan": {
+        "code": "180809",
+        "name": "Rebang Tangkas"
+    }
+}

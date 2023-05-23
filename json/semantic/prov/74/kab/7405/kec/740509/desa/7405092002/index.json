@@ -1,0 +1,17 @@
+{
+    "code": "7405092002",
+    "name": "Sawa",
+    "poscode": "93895",
+    "provinsi": {
+        "code": "74",
+        "name": "Sulawesi Tenggara"
+    },
+    "kabupaten": {
+        "code": "7405",
+        "name": "Konawe Selatan"
+    },
+    "kecamatan": {
+        "code": "740509",
+        "name": "Kolono"
+    }
+}

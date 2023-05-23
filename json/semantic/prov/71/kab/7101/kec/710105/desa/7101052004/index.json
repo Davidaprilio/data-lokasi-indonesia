@@ -1,0 +1,17 @@
+{
+    "code": "7101052004",
+    "name": "Maelang",
+    "poscode": "95742",
+    "provinsi": {
+        "code": "71",
+        "name": "Sulawesi Utara"
+    },
+    "kabupaten": {
+        "code": "7101",
+        "name": "Bolaang Mongondow"
+    },
+    "kecamatan": {
+        "code": "710105",
+        "name": "Sang Tombolang"
+    }
+}

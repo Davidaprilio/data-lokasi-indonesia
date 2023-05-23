@@ -1,0 +1,17 @@
+{
+    "code": "7109012014",
+    "name": "Dame I",
+    "poscode": "95861",
+    "provinsi": {
+        "code": "71",
+        "name": "Sulawesi Utara"
+    },
+    "kabupaten": {
+        "code": "7109",
+        "name": "Kepulauan Siau Tagulandang Biaro (Sitaro)"
+    },
+    "kecamatan": {
+        "code": "710901",
+        "name": "Siau Timur"
+    }
+}

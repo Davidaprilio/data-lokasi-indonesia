@@ -1,0 +1,17 @@
+{
+    "code": "1103022005",
+    "name": "Buket Panyang",
+    "poscode": "24459",
+    "provinsi": {
+        "code": "11",
+        "name": "Aceh (NAD)"
+    },
+    "kabupaten": {
+        "code": "1103",
+        "name": "Aceh Timur"
+    },
+    "kecamatan": {
+        "code": "110302",
+        "name": "Julok"
+    }
+}

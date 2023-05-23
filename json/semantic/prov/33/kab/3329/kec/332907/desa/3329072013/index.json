@@ -1,0 +1,17 @@
+{
+    "code": "3329072013",
+    "name": "Kendawa",
+    "poscode": "52261",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3329",
+        "name": "Brebes"
+    },
+    "kecamatan": {
+        "code": "332907",
+        "name": "Jatibarang"
+    }
+}

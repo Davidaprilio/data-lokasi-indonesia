@@ -1,0 +1,10 @@
+{
+    "code": "3303",
+    "type": "Kabupaten",
+    "name": "Purbalingga",
+    "fullname": "Kabupaten Purbalingga",
+    "jumlah": {
+        "kecamatan": 18,
+        "desa": 239
+    }
+}

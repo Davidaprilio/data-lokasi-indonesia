@@ -1,0 +1,17 @@
+{
+    "code": "1102162003",
+    "name": "Tanjung Sari",
+    "poscode": "24677",
+    "provinsi": {
+        "code": "11",
+        "name": "Aceh (NAD)"
+    },
+    "kabupaten": {
+        "code": "1102",
+        "name": "Aceh Tenggara"
+    },
+    "kecamatan": {
+        "code": "110216",
+        "name": "Leuser"
+    }
+}

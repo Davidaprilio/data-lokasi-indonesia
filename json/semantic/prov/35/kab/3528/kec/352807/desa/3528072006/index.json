@@ -1,0 +1,17 @@
+{
+    "code": "3528072006",
+    "name": "Bulangan Haji",
+    "poscode": "69361",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3528",
+        "name": "Pamekasan"
+    },
+    "kecamatan": {
+        "code": "352807",
+        "name": "Pegantenan"
+    }
+}

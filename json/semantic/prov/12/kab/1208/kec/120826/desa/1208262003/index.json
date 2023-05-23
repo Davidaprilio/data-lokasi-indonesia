@@ -1,0 +1,17 @@
+{
+    "code": "1208262003",
+    "name": "Saran Padang",
+    "poscode": "21168",
+    "provinsi": {
+        "code": "12",
+        "name": "Sumatera Utara"
+    },
+    "kabupaten": {
+        "code": "1208",
+        "name": "Simalungun"
+    },
+    "kecamatan": {
+        "code": "120826",
+        "name": "Dolok Silau"
+    }
+}

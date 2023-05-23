@@ -1,0 +1,17 @@
+{
+    "code": "6503102002",
+    "name": "Tanjung Harapan",
+    "poscode": "77488",
+    "provinsi": {
+        "code": "65",
+        "name": "Kalimantan Utara"
+    },
+    "kabupaten": {
+        "code": "6503",
+        "name": "Nunukan"
+    },
+    "kecamatan": {
+        "code": "650310",
+        "name": "Sebatik Timur"
+    }
+}

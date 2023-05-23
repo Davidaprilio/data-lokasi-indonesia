@@ -1,0 +1,17 @@
+{
+    "code": "1709062011",
+    "name": "Tanjung Heran",
+    "poscode": "38388",
+    "provinsi": {
+        "code": "17",
+        "name": "Bengkulu"
+    },
+    "kabupaten": {
+        "code": "1709",
+        "name": "Bengkulu Tengah"
+    },
+    "kecamatan": {
+        "code": "170906",
+        "name": "Taba Penanjung"
+    }
+}

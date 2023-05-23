@@ -1,0 +1,10 @@
+{
+    "code": "5303",
+    "type": "Kabupaten",
+    "name": "Timor Tengah Utara",
+    "fullname": "Kabupaten Timor Tengah Utara",
+    "jumlah": {
+        "kecamatan": 24,
+        "desa": 193
+    }
+}

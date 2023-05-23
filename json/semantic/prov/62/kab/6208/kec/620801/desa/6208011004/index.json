@@ -1,0 +1,17 @@
+{
+    "code": "6208011004",
+    "name": "Padang",
+    "poscode": "74172",
+    "provinsi": {
+        "code": "62",
+        "name": "Kalimantan Tengah"
+    },
+    "kabupaten": {
+        "code": "6208",
+        "name": "Sukamara"
+    },
+    "kecamatan": {
+        "code": "620801",
+        "name": "Sukamara"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "1403142002",
+    "name": "Temiang",
+    "poscode": "28762",
+    "provinsi": {
+        "code": "14",
+        "name": "Riau"
+    },
+    "kabupaten": {
+        "code": "1403",
+        "name": "Bengkalis"
+    },
+    "kecamatan": {
+        "code": "140314",
+        "name": "Bandar Laksamana"
+    }
+}

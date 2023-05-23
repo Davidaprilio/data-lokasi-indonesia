@@ -1,0 +1,17 @@
+{
+    "code": "3205032003",
+    "name": "Cinunuk",
+    "poscode": "44180",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3205",
+        "name": "Garut"
+    },
+    "kecamatan": {
+        "code": "320503",
+        "name": "Wanaraja"
+    }
+}

@@ -1,0 +1,42 @@
+[
+    {
+        "code": "3314101006",
+        "name": "Karang Tengah",
+        "poscode": "57216"
+    },
+    {
+        "code": "3314102008",
+        "name": "Kedungupit",
+        "poscode": "57211"
+    },
+    {
+        "code": "3314101005",
+        "name": "Nglorog",
+        "poscode": "57215"
+    },
+    {
+        "code": "3314101001",
+        "name": "Sine",
+        "poscode": "57213"
+    },
+    {
+        "code": "3314101002",
+        "name": "Sragen Kulon",
+        "poscode": "57212"
+    },
+    {
+        "code": "3314101003",
+        "name": "Sragen Tengah",
+        "poscode": "57211"
+    },
+    {
+        "code": "3314101004",
+        "name": "Sragen Wetan",
+        "poscode": "57214"
+    },
+    {
+        "code": "3314102007",
+        "name": "Tangkil",
+        "poscode": "57211"
+    }
+]

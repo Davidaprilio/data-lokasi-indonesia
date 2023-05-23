@@ -1,0 +1,17 @@
+{
+    "code": "1704072002",
+    "name": "Gedung Menung",
+    "poscode": "38964",
+    "provinsi": {
+        "code": "17",
+        "name": "Bengkulu"
+    },
+    "kabupaten": {
+        "code": "1704",
+        "name": "Kaur"
+    },
+    "kecamatan": {
+        "code": "170407",
+        "name": "Nasal"
+    }
+}

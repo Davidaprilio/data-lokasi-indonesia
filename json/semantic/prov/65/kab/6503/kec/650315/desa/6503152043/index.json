@@ -1,0 +1,17 @@
+{
+    "code": "6503152043",
+    "name": "Sibalu",
+    "poscode": "77450",
+    "provinsi": {
+        "code": "65",
+        "name": "Kalimantan Utara"
+    },
+    "kabupaten": {
+        "code": "6503",
+        "name": "Nunukan"
+    },
+    "kecamatan": {
+        "code": "650315",
+        "name": "Lumbis Ogong"
+    }
+}

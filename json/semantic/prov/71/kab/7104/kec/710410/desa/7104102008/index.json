@@ -1,0 +1,17 @@
+{
+    "code": "7104102008",
+    "name": "Tuabatu Barat",
+    "poscode": "95882",
+    "provinsi": {
+        "code": "71",
+        "name": "Sulawesi Utara"
+    },
+    "kabupaten": {
+        "code": "7104",
+        "name": "Kepulauan Talaud"
+    },
+    "kecamatan": {
+        "code": "710410",
+        "name": "Tampan' Amma (Tampan Amma)"
+    }
+}

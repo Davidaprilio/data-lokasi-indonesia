@@ -1,0 +1,82 @@
+[
+    {
+        "code": "9408",
+        "type": "Kabupaten",
+        "name": "Deiyai",
+        "fullname": "Kabupaten Deiyai",
+        "jumlah": {
+            "kecamatan": 5,
+            "desa": 67
+        }
+    },
+    {
+        "code": "9406",
+        "type": "Kabupaten",
+        "name": "Dogiyai",
+        "fullname": "Kabupaten Dogiyai",
+        "jumlah": {
+            "kecamatan": 10,
+            "desa": 79
+        }
+    },
+    {
+        "code": "9407",
+        "type": "Kabupaten",
+        "name": "Intan Jaya",
+        "fullname": "Kabupaten Intan Jaya",
+        "jumlah": {
+            "kecamatan": 8,
+            "desa": 97
+        }
+    },
+    {
+        "code": "9404",
+        "type": "Kabupaten",
+        "name": "Mimika",
+        "fullname": "Kabupaten Mimika",
+        "jumlah": {
+            "kecamatan": 18,
+            "desa": 152
+        }
+    },
+    {
+        "code": "9401",
+        "type": "Kabupaten",
+        "name": "Nabire",
+        "fullname": "Kabupaten Nabire",
+        "jumlah": {
+            "kecamatan": 15,
+            "desa": 81
+        }
+    },
+    {
+        "code": "9403",
+        "type": "Kabupaten",
+        "name": "Paniai",
+        "fullname": "Kabupaten Paniai",
+        "jumlah": {
+            "kecamatan": 24,
+            "desa": 221
+        }
+    },
+    {
+        "code": "9405",
+        "type": "Kabupaten",
+        "name": "Puncak",
+        "fullname": "Kabupaten Puncak",
+        "jumlah": {
+            "kecamatan": 25,
+            "desa": 206
+        }
+    },
+    {
+        "code": "9402",
+        "type": "Kabupaten",
+        "name": "Puncak Jaya",
+        "fullname": "Kabupaten Puncak Jaya",
+        "jumlah": {
+            "kecamatan": 26,
+            "desa": 305
+        }
+    }
+]

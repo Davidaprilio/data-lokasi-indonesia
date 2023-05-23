@@ -1,0 +1,17 @@
+{
+    "code": "3321092003",
+    "name": "Wonoketingal",
+    "poscode": "59582",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3321",
+        "name": "Demak"
+    },
+    "kecamatan": {
+        "code": "332109",
+        "name": "Karanganyar"
+    }
+}

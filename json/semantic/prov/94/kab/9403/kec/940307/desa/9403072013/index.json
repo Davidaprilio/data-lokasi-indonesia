@@ -1,0 +1,17 @@
+{
+    "code": "9403072013",
+    "name": "Madou",
+    "poscode": "98736",
+    "provinsi": {
+        "code": "94",
+        "name": "Papua Tengah"
+    },
+    "kabupaten": {
+        "code": "9403",
+        "name": "Paniai"
+    },
+    "kecamatan": {
+        "code": "940307",
+        "name": "Bogabaida (Bogobaida)"
+    }
+}

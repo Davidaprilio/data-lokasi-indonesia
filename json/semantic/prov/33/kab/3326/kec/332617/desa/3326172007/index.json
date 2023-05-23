@@ -1,0 +1,17 @@
+{
+    "code": "3326172007",
+    "name": "Rembun",
+    "poscode": "51137",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3326",
+        "name": "Pekalongan"
+    },
+    "kecamatan": {
+        "code": "332617",
+        "name": "Siwalan"
+    }
+}

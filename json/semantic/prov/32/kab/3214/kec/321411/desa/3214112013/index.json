@@ -1,0 +1,17 @@
+{
+    "code": "3214112013",
+    "name": "Sindangsari",
+    "poscode": "41164",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3214",
+        "name": "Purwakarta"
+    },
+    "kecamatan": {
+        "code": "321411",
+        "name": "Bojong"
+    }
+}

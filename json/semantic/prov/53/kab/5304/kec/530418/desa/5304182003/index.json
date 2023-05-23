@@ -1,0 +1,17 @@
+{
+    "code": "5304182003",
+    "name": "Nualain",
+    "poscode": "85770",
+    "provinsi": {
+        "code": "53",
+        "name": "Nusa Tenggara Timur (NTT)"
+    },
+    "kabupaten": {
+        "code": "5304",
+        "name": "Belu"
+    },
+    "kecamatan": {
+        "code": "530418",
+        "name": "Lamaknen Selatan"
+    }
+}

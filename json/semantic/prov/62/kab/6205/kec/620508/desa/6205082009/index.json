@@ -1,0 +1,17 @@
+{
+    "code": "6205082009",
+    "name": "Pandran Raya",
+    "poscode": "73814",
+    "provinsi": {
+        "code": "62",
+        "name": "Kalimantan Tengah"
+    },
+    "kabupaten": {
+        "code": "6205",
+        "name": "Barito Utara"
+    },
+    "kecamatan": {
+        "code": "620508",
+        "name": "Teweh Selatan"
+    }
+}

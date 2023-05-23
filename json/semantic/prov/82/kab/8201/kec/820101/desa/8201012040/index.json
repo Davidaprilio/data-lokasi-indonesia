@@ -1,0 +1,17 @@
+{
+    "code": "8201012040",
+    "name": "Buku Maadu",
+    "poscode": "97752",
+    "provinsi": {
+        "code": "82",
+        "name": "Maluku Utara"
+    },
+    "kabupaten": {
+        "code": "8201",
+        "name": "Halmahera Barat"
+    },
+    "kecamatan": {
+        "code": "820101",
+        "name": "Jailolo"
+    }
+}

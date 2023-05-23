@@ -1,0 +1,17 @@
+{
+    "code": "1272031005",
+    "name": "Kahean",
+    "poscode": "21147",
+    "provinsi": {
+        "code": "12",
+        "name": "Sumatera Utara"
+    },
+    "kabupaten": {
+        "code": "1272",
+        "name": "Pematangsiantar"
+    },
+    "kecamatan": {
+        "code": "127203",
+        "name": "Siantar Utara"
+    }
+}

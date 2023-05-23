@@ -1,0 +1,17 @@
+{
+    "code": "1706012005",
+    "name": "Suka Pindah",
+    "poscode": "38756",
+    "provinsi": {
+        "code": "17",
+        "name": "Bengkulu"
+    },
+    "kabupaten": {
+        "code": "1706",
+        "name": "Muko Muko"
+    },
+    "kecamatan": {
+        "code": "170601",
+        "name": "Lubuk Pinang"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "6105142018",
+    "name": "Teluk Harapan",
+    "poscode": "78683",
+    "provinsi": {
+        "code": "61",
+        "name": "Kalimantan Barat"
+    },
+    "kabupaten": {
+        "code": "6105",
+        "name": "Sintang"
+    },
+    "kecamatan": {
+        "code": "610514",
+        "name": "Serawai"
+    }
+}

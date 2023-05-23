@@ -1,0 +1,10 @@
+{
+    "code": "5301",
+    "type": "Kabupaten",
+    "name": "Kupang",
+    "fullname": "Kabupaten Kupang",
+    "jumlah": {
+        "kecamatan": 24,
+        "desa": 177
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "1806172009",
+    "name": "Paku",
+    "poscode": "35388",
+    "provinsi": {
+        "code": "18",
+        "name": "Lampung"
+    },
+    "kabupaten": {
+        "code": "1806",
+        "name": "Tanggamus"
+    },
+    "kecamatan": {
+        "code": "180617",
+        "name": "Klumbayan (Kelumbayan)"
+    }
+}

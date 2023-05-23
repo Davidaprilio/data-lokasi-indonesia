@@ -1,0 +1,17 @@
+{
+    "code": "3374011012",
+    "name": "Karang Kidul (Karangkidul)",
+    "poscode": "50241",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3374",
+        "name": "Semarang"
+    },
+    "kecamatan": {
+        "code": "337401",
+        "name": "Semarang Tengah"
+    }
+}

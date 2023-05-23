@@ -1,0 +1,17 @@
+{
+    "code": "7111052009",
+    "name": "Iligon",
+    "poscode": "95777",
+    "provinsi": {
+        "code": "71",
+        "name": "Sulawesi Utara"
+    },
+    "kabupaten": {
+        "code": "7111",
+        "name": "Bolaang Mongondow Selatan"
+    },
+    "kecamatan": {
+        "code": "711105",
+        "name": "Pinolosian Timur"
+    }
+}

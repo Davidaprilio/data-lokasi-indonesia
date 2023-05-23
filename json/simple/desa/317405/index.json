@@ -1,0 +1,32 @@
+[
+    {
+        "code": "3174051003",
+        "name": "Cipulir",
+        "poscode": "12230"
+    },
+    {
+        "code": "3174051005",
+        "name": "Grogol Selatan",
+        "poscode": "12220"
+    },
+    {
+        "code": "3174051004",
+        "name": "Grogol Utara",
+        "poscode": "12210"
+    },
+    {
+        "code": "3174051006",
+        "name": "Kebayoran Lama Selatan",
+        "poscode": "12240"
+    },
+    {
+        "code": "3174051001",
+        "name": "Kebayoran Lama Utara",
+        "poscode": "12240"
+    },
+    {
+        "code": "3174051002",
+        "name": "Pondok Pinang",
+        "poscode": "12310"
+    }
+]

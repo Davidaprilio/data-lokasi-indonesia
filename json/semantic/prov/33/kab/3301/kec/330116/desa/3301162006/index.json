@@ -1,0 +1,17 @@
+{
+    "code": "3301162006",
+    "name": "Datar",
+    "poscode": "53266",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3301",
+        "name": "Cilacap"
+    },
+    "kecamatan": {
+        "code": "330116",
+        "name": "Dayeuhluhur"
+    }
+}

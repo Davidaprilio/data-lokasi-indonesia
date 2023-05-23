@@ -1,0 +1,17 @@
+{
+    "code": "3211152009",
+    "name": "Cisempur",
+    "poscode": "45360",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3211",
+        "name": "Sumedang"
+    },
+    "kecamatan": {
+        "code": "321115",
+        "name": "Jatinangor"
+    }
+}

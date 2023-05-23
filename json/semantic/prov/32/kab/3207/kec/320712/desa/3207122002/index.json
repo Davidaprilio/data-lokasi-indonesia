@@ -1,0 +1,17 @@
+{
+    "code": "3207122002",
+    "name": "Sukanagara",
+    "poscode": "46273",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3207",
+        "name": "Ciamis"
+    },
+    "kecamatan": {
+        "code": "320712",
+        "name": "Jatinagara"
+    }
+}

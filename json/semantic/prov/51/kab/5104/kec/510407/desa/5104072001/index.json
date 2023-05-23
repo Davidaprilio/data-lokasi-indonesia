@@ -1,0 +1,17 @@
+{
+    "code": "5104072001",
+    "name": "Melinggih",
+    "poscode": "80572",
+    "provinsi": {
+        "code": "51",
+        "name": "Bali"
+    },
+    "kabupaten": {
+        "code": "5104",
+        "name": "Gianyar"
+    },
+    "kecamatan": {
+        "code": "510407",
+        "name": "Payangan"
+    }
+}

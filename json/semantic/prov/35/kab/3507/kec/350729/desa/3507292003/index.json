@@ -1,0 +1,17 @@
+{
+    "code": "3507292003",
+    "name": "Sindurejo",
+    "poscode": "65178",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3507",
+        "name": "Malang"
+    },
+    "kecamatan": {
+        "code": "350729",
+        "name": "Gedangan"
+    }
+}

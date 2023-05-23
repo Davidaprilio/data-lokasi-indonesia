@@ -1,0 +1,17 @@
+{
+    "code": "9211062004",
+    "name": "Seimeba",
+    "poscode": "98325",
+    "provinsi": {
+        "code": "92",
+        "name": "Papua Barat"
+    },
+    "kabupaten": {
+        "code": "9211",
+        "name": "Manokwari Selatan"
+    },
+    "kecamatan": {
+        "code": "921106",
+        "name": "Tahota"
+    }
+}

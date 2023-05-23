@@ -1,0 +1,17 @@
+{
+    "code": "1408102005",
+    "name": "Kandis",
+    "poscode": "28686",
+    "provinsi": {
+        "code": "14",
+        "name": "Riau"
+    },
+    "kabupaten": {
+        "code": "1408",
+        "name": "Siak"
+    },
+    "kecamatan": {
+        "code": "140810",
+        "name": "Kandis"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "3205032011",
+    "name": "Wanajaya",
+    "poscode": "44180",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3205",
+        "name": "Garut"
+    },
+    "kecamatan": {
+        "code": "320503",
+        "name": "Wanaraja"
+    }
+}

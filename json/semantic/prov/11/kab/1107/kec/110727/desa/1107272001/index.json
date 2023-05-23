@@ -1,0 +1,17 @@
+{
+    "code": "1107272001",
+    "name": "Lutueng (Leuteung)",
+    "poscode": "24189",
+    "provinsi": {
+        "code": "11",
+        "name": "Aceh (NAD)"
+    },
+    "kabupaten": {
+        "code": "1107",
+        "name": "Pidie"
+    },
+    "kecamatan": {
+        "code": "110727",
+        "name": "Mane"
+    }
+}

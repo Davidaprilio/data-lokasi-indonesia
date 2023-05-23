@@ -1,0 +1,17 @@
+{
+    "code": "1219102008",
+    "name": "Air Hitam",
+    "poscode": "21255",
+    "provinsi": {
+        "code": "12",
+        "name": "Sumatera Utara"
+    },
+    "kabupaten": {
+        "code": "1219",
+        "name": "Batu Bara"
+    },
+    "kecamatan": {
+        "code": "121910",
+        "name": "Datuk Lima Puluh"
+    }
+}

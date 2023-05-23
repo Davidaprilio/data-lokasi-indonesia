@@ -1,0 +1,121 @@
+[
+    {
+        "code": "332917",
+        "name": "Banjarharjo",
+        "count": {
+            "desa": 25
+        }
+    },
+    {
+        "code": "332902",
+        "name": "Bantarkawung",
+        "count": {
+            "desa": 18
+        }
+    },
+    {
+        "code": "332909",
+        "name": "Brebes",
+        "count": {
+            "desa": 23
+        }
+    },
+    {
+        "code": "332914",
+        "name": "Bulakamba",
+        "count": {
+            "desa": 19
+        }
+    },
+    {
+        "code": "332903",
+        "name": "Bumiayu",
+        "count": {
+            "desa": 15
+        }
+    },
+    {
+        "code": "332907",
+        "name": "Jatibarang",
+        "count": {
+            "desa": 22
+        }
+    },
+    {
+        "code": "332911",
+        "name": "Kersana",
+        "count": {
+            "desa": 13
+        }
+    },
+    {
+        "code": "332916",
+        "name": "Ketanggungan",
+        "count": {
+            "desa": 21
+        }
+    },
+    {
+        "code": "332915",
+        "name": "Larangan",
+        "count": {
+            "desa": 11
+        }
+    },
+    {
+        "code": "332912",
+        "name": "Losari",
+        "count": {
+            "desa": 22
+        }
+    },
+    {
+        "code": "332904",
+        "name": "Paguyangan",
+        "count": {
+            "desa": 12
+        }
+    },
+    {
+        "code": "332901",
+        "name": "Salem",
+        "count": {
+            "desa": 21
+        }
+    },
+    {
+        "code": "332905",
+        "name": "Sirampog",
+        "count": {
+            "desa": 13
+        }
+    },
+    {
+        "code": "332910",
+        "name": "Songgom",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "332913",
+        "name": "Tanjung",
+        "count": {
+            "desa": 18
+        }
+    },
+    {
+        "code": "332906",
+        "name": "Tonjong",
+        "count": {
+            "desa": 14
+        }
+    },
+    {
+        "code": "332908",
+        "name": "Wanasari",
+        "count": {
+            "desa": 20
+        }
+    }
+]

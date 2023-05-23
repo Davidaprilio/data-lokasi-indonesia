@@ -1,0 +1,17 @@
+{
+    "code": "1813072005",
+    "name": "Ulu Krui",
+    "poscode": "34898",
+    "provinsi": {
+        "code": "18",
+        "name": "Lampung"
+    },
+    "kabupaten": {
+        "code": "1813",
+        "name": "Pesisir Barat"
+    },
+    "kecamatan": {
+        "code": "181307",
+        "name": "Way Krui"
+    }
+}

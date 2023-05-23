@@ -1,0 +1,51 @@
+[
+    {
+        "code": "161305",
+        "name": "Karang Dapo",
+        "count": {
+            "desa": 9
+        }
+    },
+    {
+        "code": "161306",
+        "name": "Karang Jaya",
+        "count": {
+            "desa": 15
+        }
+    },
+    {
+        "code": "161303",
+        "name": "Nibung",
+        "count": {
+            "desa": 11
+        }
+    },
+    {
+        "code": "161304",
+        "name": "Rawas Ilir",
+        "count": {
+            "desa": 13
+        }
+    },
+    {
+        "code": "161302",
+        "name": "Rawas Ulu",
+        "count": {
+            "desa": 17
+        }
+    },
+    {
+        "code": "161301",
+        "name": "Rupit",
+        "count": {
+            "desa": 17
+        }
+    },
+    {
+        "code": "161307",
+        "name": "Ulu Rawas",
+        "count": {
+            "desa": 7
+        }
+    }
+]

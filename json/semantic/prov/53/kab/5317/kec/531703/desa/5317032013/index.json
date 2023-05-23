@@ -1,0 +1,17 @@
+{
+    "code": "5317032013",
+    "name": "Cendana Barat",
+    "poscode": "87258",
+    "provinsi": {
+        "code": "53",
+        "name": "Nusa Tenggara Timur (NTT)"
+    },
+    "kabupaten": {
+        "code": "5317",
+        "name": "Sumba Tengah"
+    },
+    "kecamatan": {
+        "code": "531703",
+        "name": "Mamboro"
+    }
+}

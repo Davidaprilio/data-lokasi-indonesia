@@ -1,0 +1,17 @@
+{
+    "code": "1106012018",
+    "name": "Lamsujen (Lam Sujen)",
+    "poscode": "23354",
+    "provinsi": {
+        "code": "11",
+        "name": "Aceh (NAD)"
+    },
+    "kabupaten": {
+        "code": "1106",
+        "name": "Aceh Besar"
+    },
+    "kecamatan": {
+        "code": "110601",
+        "name": "Lhoong"
+    }
+}

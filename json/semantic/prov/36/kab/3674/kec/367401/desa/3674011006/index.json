@@ -1,0 +1,17 @@
+{
+    "code": "3674011006",
+    "name": "Buaran",
+    "poscode": "15310",
+    "provinsi": {
+        "code": "36",
+        "name": "Banten"
+    },
+    "kabupaten": {
+        "code": "3674",
+        "name": "Tangerang Selatan"
+    },
+    "kecamatan": {
+        "code": "367401",
+        "name": "Serpong"
+    }
+}

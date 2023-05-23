@@ -1,0 +1,17 @@
+{
+    "code": "3205062009",
+    "name": "Pamekarsari",
+    "poscode": "44191",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3205",
+        "name": "Garut"
+    },
+    "kecamatan": {
+        "code": "320506",
+        "name": "Banyuresmi"
+    }
+}

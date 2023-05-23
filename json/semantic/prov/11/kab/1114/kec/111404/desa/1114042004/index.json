@@ -1,0 +1,17 @@
+{
+    "code": "1114042004",
+    "name": "Crak Mong",
+    "poscode": "23659",
+    "provinsi": {
+        "code": "11",
+        "name": "Aceh (NAD)"
+    },
+    "kabupaten": {
+        "code": "1114",
+        "name": "Aceh Jaya"
+    },
+    "kecamatan": {
+        "code": "111404",
+        "name": "Sampoiniet"
+    }
+}

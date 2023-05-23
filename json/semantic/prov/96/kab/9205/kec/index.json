@@ -1,0 +1,170 @@
+[
+    {
+        "code": "920524",
+        "name": "Ayau",
+        "count": {
+            "desa": 4
+        }
+    },
+    {
+        "code": "920525",
+        "name": "Batanta Selatan",
+        "count": {
+            "desa": 4
+        }
+    },
+    {
+        "code": "920520",
+        "name": "Batanta Utara",
+        "count": {
+            "desa": 4
+        }
+    },
+    {
+        "code": "920505",
+        "name": "Kepulauan Ayau",
+        "count": {
+            "desa": 5
+        }
+    },
+    {
+        "code": "920517",
+        "name": "Kepulauan Sembilan",
+        "count": {
+            "desa": 4
+        }
+    },
+    {
+        "code": "920510",
+        "name": "Kofiau",
+        "count": {
+            "desa": 5
+        }
+    },
+    {
+        "code": "920518",
+        "name": "Kota Waisai",
+        "count": {
+            "desa": 4
+        }
+    },
+    {
+        "code": "920511",
+        "name": "Meos Mansar",
+        "count": {
+            "desa": 9
+        }
+    },
+    {
+        "code": "920501",
+        "name": "Misool (Misool Utara)",
+        "count": {
+            "desa": 5
+        }
+    },
+    {
+        "code": "920516",
+        "name": "Misool Barat",
+        "count": {
+            "desa": 5
+        }
+    },
+    {
+        "code": "920513",
+        "name": "Misool Selatan",
+        "count": {
+            "desa": 5
+        }
+    },
+    {
+        "code": "920506",
+        "name": "Misool Timur",
+        "count": {
+            "desa": 6
+        }
+    },
+    {
+        "code": "920521",
+        "name": "Salawati Barat",
+        "count": {
+            "desa": 4
+        }
+    },
+    {
+        "code": "920522",
+        "name": "Salawati Tengah",
+        "count": {
+            "desa": 7
+        }
+    },
+    {
+        "code": "920504",
+        "name": "Salawati Utara",
+        "count": {
+            "desa": 6
+        }
+    },
+    {
+        "code": "920523",
+        "name": "Supnin",
+        "count": {
+            "desa": 4
+        }
+    },
+    {
+        "code": "920509",
+        "name": "Teluk Mayalibit",
+        "count": {
+            "desa": 4
+        }
+    },
+    {
+        "code": "920519",
+        "name": "Tiplol Mayalibit",
+        "count": {
+            "desa": 6
+        }
+    },
+    {
+        "code": "920507",
+        "name": "Waigeo Barat",
+        "count": {
+            "desa": 5
+        }
+    },
+    {
+        "code": "920515",
+        "name": "Waigeo Barat Kepulauan",
+        "count": {
+            "desa": 6
+        }
+    },
+    {
+        "code": "920503",
+        "name": "Waigeo Selatan",
+        "count": {
+            "desa": 5
+        }
+    },
+    {
+        "code": "920508",
+        "name": "Waigeo Timur",
+        "count": {
+            "desa": 4
+        }
+    },
+    {
+        "code": "920502",
+        "name": "Waigeo Utara",
+        "count": {
+            "desa": 6
+        }
+    },
+    {
+        "code": "920514",
+        "name": "Warwarbomi",
+        "count": {
+            "desa": 4
+        }
+    }
+]

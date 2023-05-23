@@ -1,0 +1,10 @@
+{
+    "code": "3302",
+    "type": "Kabupaten",
+    "name": "Banyumas",
+    "fullname": "Kabupaten Banyumas",
+    "jumlah": {
+        "kecamatan": 27,
+        "desa": 331
+    }
+}

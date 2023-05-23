@@ -1,0 +1,17 @@
+{
+    "code": "8271061008",
+    "name": "Kota Baru",
+    "poscode": "97731",
+    "provinsi": {
+        "code": "82",
+        "name": "Maluku Utara"
+    },
+    "kabupaten": {
+        "code": "8271",
+        "name": "Ternate"
+    },
+    "kecamatan": {
+        "code": "827106",
+        "name": "Kota Ternate Tengah"
+    }
+}

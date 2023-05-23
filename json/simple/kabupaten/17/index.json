@@ -1,0 +1,102 @@
+[
+    {
+        "code": "1771",
+        "type": "Kota",
+        "name": "Bengkulu",
+        "fullname": "Kota Bengkulu",
+        "jumlah": {
+            "kecamatan": 9,
+            "desa": 67
+        }
+    },
+    {
+        "code": "1701",
+        "type": "Kabupaten",
+        "name": "Bengkulu Selatan",
+        "fullname": "Kabupaten Bengkulu Selatan",
+        "jumlah": {
+            "kecamatan": 11,
+            "desa": 158
+        }
+    },
+    {
+        "code": "1709",
+        "type": "Kabupaten",
+        "name": "Bengkulu Tengah",
+        "fullname": "Kabupaten Bengkulu Tengah",
+        "jumlah": {
+            "kecamatan": 11,
+            "desa": 143
+        }
+    },
+    {
+        "code": "1703",
+        "type": "Kabupaten",
+        "name": "Bengkulu Utara",
+        "fullname": "Kabupaten Bengkulu Utara",
+        "jumlah": {
+            "kecamatan": 19,
+            "desa": 220
+        }
+    },
+    {
+        "code": "1704",
+        "type": "Kabupaten",
+        "name": "Kaur",
+        "fullname": "Kabupaten Kaur",
+        "jumlah": {
+            "kecamatan": 15,
+            "desa": 195
+        }
+    },
+    {
+        "code": "1708",
+        "type": "Kabupaten",
+        "name": "Kepahiang",
+        "fullname": "Kabupaten Kepahiang",
+        "jumlah": {
+            "kecamatan": 8,
+            "desa": 117
+        }
+    },
+    {
+        "code": "1707",
+        "type": "Kabupaten",
+        "name": "Lebong",
+        "fullname": "Kabupaten Lebong",
+        "jumlah": {
+            "kecamatan": 12,
+            "desa": 104
+        }
+    },
+    {
+        "code": "1706",
+        "type": "Kabupaten",
+        "name": "Muko Muko",
+        "fullname": "Kabupaten Muko Muko",
+        "jumlah": {
+            "kecamatan": 15,
+            "desa": 151
+        }
+    },
+    {
+        "code": "1702",
+        "type": "Kabupaten",
+        "name": "Rejang Lebong",
+        "fullname": "Kabupaten Rejang Lebong",
+        "jumlah": {
+            "kecamatan": 15,
+            "desa": 156
+        }
+    },
+    {
+        "code": "1705",
+        "type": "Kabupaten",
+        "name": "Seluma",
+        "fullname": "Kabupaten Seluma",
+        "jumlah": {
+            "kecamatan": 14,
+            "desa": 202
+        }
+    }
+]

@@ -1,0 +1,17 @@
+{
+    "code": "3201011001",
+    "name": "Pondok Rajeg",
+    "poscode": "16914",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3201",
+        "name": "Bogor"
+    },
+    "kecamatan": {
+        "code": "320101",
+        "name": "Cibinong"
+    }
+}

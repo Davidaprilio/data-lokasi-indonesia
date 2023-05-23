@@ -1,0 +1,114 @@
+[
+    {
+        "code": "321709",
+        "name": "Batujajar",
+        "count": {
+            "desa": 7
+        }
+    },
+    {
+        "code": "321710",
+        "name": "Cihampelas",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "321704",
+        "name": "Cikalongwetan (Cikalong Wetan)",
+        "count": {
+            "desa": 13
+        }
+    },
+    {
+        "code": "321711",
+        "name": "Cililin",
+        "count": {
+            "desa": 11
+        }
+    },
+    {
+        "code": "321707",
+        "name": "Cipatat",
+        "count": {
+            "desa": 12
+        }
+    },
+    {
+        "code": "321705",
+        "name": "Cipeundeuy",
+        "count": {
+            "desa": 12
+        }
+    },
+    {
+        "code": "321712",
+        "name": "Cipongkor",
+        "count": {
+            "desa": 14
+        }
+    },
+    {
+        "code": "321703",
+        "name": "Cisarua",
+        "count": {
+            "desa": 8
+        }
+    },
+    {
+        "code": "321715",
+        "name": "Gununghalu",
+        "count": {
+            "desa": 9
+        }
+    },
+    {
+        "code": "321701",
+        "name": "Lembang",
+        "count": {
+            "desa": 16
+        }
+    },
+    {
+        "code": "321706",
+        "name": "Ngamprah",
+        "count": {
+            "desa": 11
+        }
+    },
+    {
+        "code": "321708",
+        "name": "Padalarang",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "321702",
+        "name": "Parongpong",
+        "count": {
+            "desa": 7
+        }
+    },
+    {
+        "code": "321713",
+        "name": "Rongga",
+        "count": {
+            "desa": 8
+        }
+    },
+    {
+        "code": "321716",
+        "name": "Saguling",
+        "count": {
+            "desa": 6
+        }
+    },
+    {
+        "code": "321714",
+        "name": "Sindangkerta",
+        "count": {
+            "desa": 11
+        }
+    }
+]

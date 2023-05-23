@@ -1,0 +1,17 @@
+{
+    "code": "3602132005",
+    "name": "Tanjungsari (Tanjung Sari)",
+    "poscode": "42382",
+    "provinsi": {
+        "code": "36",
+        "name": "Banten"
+    },
+    "kabupaten": {
+        "code": "3602",
+        "name": "Lebak"
+    },
+    "kecamatan": {
+        "code": "360213",
+        "name": "Maja"
+    }
+}

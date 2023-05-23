@@ -1,0 +1,17 @@
+{
+    "code": "6474011006",
+    "name": "Api-Api",
+    "poscode": "75311",
+    "provinsi": {
+        "code": "64",
+        "name": "Kalimantan Timur"
+    },
+    "kabupaten": {
+        "code": "6474",
+        "name": "Bontang"
+    },
+    "kecamatan": {
+        "code": "647401",
+        "name": "Bontang Utara"
+    }
+}

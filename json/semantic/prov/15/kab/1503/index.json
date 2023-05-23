@@ -1,0 +1,10 @@
+{
+    "code": "1503",
+    "type": "Kabupaten",
+    "name": "Sarolangun",
+    "fullname": "Kabupaten Sarolangun",
+    "jumlah": {
+        "kecamatan": 10,
+        "desa": 158
+    }
+}

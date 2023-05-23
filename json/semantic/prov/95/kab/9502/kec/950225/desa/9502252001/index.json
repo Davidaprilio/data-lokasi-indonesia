@@ -1,0 +1,17 @@
+{
+    "code": "9502252001",
+    "name": "Sabin",
+    "poscode": "99403",
+    "provinsi": {
+        "code": "95",
+        "name": "Papua Pegunungan"
+    },
+    "kabupaten": {
+        "code": "9502",
+        "name": "Pegunungan Bintang"
+    },
+    "kecamatan": {
+        "code": "950225",
+        "name": "Okbab"
+    }
+}

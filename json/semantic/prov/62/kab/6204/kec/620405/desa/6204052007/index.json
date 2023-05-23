@@ -1,0 +1,17 @@
+{
+    "code": "6204052007",
+    "name": "Sire",
+    "poscode": "73753",
+    "provinsi": {
+        "code": "62",
+        "name": "Kalimantan Tengah"
+    },
+    "kabupaten": {
+        "code": "6204",
+        "name": "Barito Selatan"
+    },
+    "kecamatan": {
+        "code": "620405",
+        "name": "Gunung Bintang Awai"
+    }
+}

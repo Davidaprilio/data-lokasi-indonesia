@@ -1,0 +1,17 @@
+{
+    "code": "1271201007",
+    "name": "P Berayan Darat II",
+    "poscode": "20239",
+    "provinsi": {
+        "code": "12",
+        "name": "Sumatera Utara"
+    },
+    "kabupaten": {
+        "code": "1271",
+        "name": "Medan"
+    },
+    "kecamatan": {
+        "code": "127120",
+        "name": "Medan Timur"
+    }
+}

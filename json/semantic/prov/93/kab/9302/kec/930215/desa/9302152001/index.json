@@ -1,0 +1,17 @@
+{
+    "code": "9302152001",
+    "name": "Subur",
+    "poscode": "99653",
+    "provinsi": {
+        "code": "93",
+        "name": "Papua Selatan"
+    },
+    "kabupaten": {
+        "code": "9302",
+        "name": "Boven Digoel"
+    },
+    "kecamatan": {
+        "code": "930215",
+        "name": "Subur"
+    }
+}

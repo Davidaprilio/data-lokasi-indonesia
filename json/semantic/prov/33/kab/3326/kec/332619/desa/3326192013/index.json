@@ -1,0 +1,17 @@
+{
+    "code": "3326192013",
+    "name": "Pecakaran",
+    "poscode": "51153",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3326",
+        "name": "Pekalongan"
+    },
+    "kecamatan": {
+        "code": "332619",
+        "name": "Wonokerto"
+    }
+}

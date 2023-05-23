@@ -1,0 +1,17 @@
+{
+    "code": "5307052016",
+    "name": "Gunung Sari",
+    "poscode": "86116",
+    "provinsi": {
+        "code": "53",
+        "name": "Nusa Tenggara Timur (NTT)"
+    },
+    "kabupaten": {
+        "code": "5307",
+        "name": "Sikka"
+    },
+    "kecamatan": {
+        "code": "530705",
+        "name": "Alok"
+    }
+}

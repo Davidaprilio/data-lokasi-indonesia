@@ -1,0 +1,17 @@
+{
+    "code": "3206242005",
+    "name": "Cikunir",
+    "poscode": "46418",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3206",
+        "name": "Tasikmalaya"
+    },
+    "kecamatan": {
+        "code": "320624",
+        "name": "Singaparna"
+    }
+}

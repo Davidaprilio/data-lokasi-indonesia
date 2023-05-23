@@ -1,0 +1,17 @@
+{
+    "code": "3604292011",
+    "name": "Kadubeureum",
+    "poscode": "42168",
+    "provinsi": {
+        "code": "36",
+        "name": "Banten"
+    },
+    "kabupaten": {
+        "code": "3604",
+        "name": "Serang"
+    },
+    "kecamatan": {
+        "code": "360429",
+        "name": "Padarincang"
+    }
+}

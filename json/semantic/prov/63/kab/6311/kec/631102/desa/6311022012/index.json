@@ -1,0 +1,17 @@
+{
+    "code": "6311022012",
+    "name": "Mamantang",
+    "poscode": "71666",
+    "provinsi": {
+        "code": "63",
+        "name": "Kalimantan Selatan"
+    },
+    "kabupaten": {
+        "code": "6311",
+        "name": "Balangan"
+    },
+    "kecamatan": {
+        "code": "631102",
+        "name": "Halong"
+    }
+}

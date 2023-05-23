@@ -1,0 +1,17 @@
+{
+    "code": "3573021011",
+    "name": "Penanggungan",
+    "poscode": "65113",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3573",
+        "name": "Malang"
+    },
+    "kecamatan": {
+        "code": "357302",
+        "name": "Klojen"
+    }
+}

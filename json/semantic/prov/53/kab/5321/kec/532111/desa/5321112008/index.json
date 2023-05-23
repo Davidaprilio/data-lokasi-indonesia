@@ -1,0 +1,17 @@
+{
+    "code": "5321112008",
+    "name": "Lakekun Barat",
+    "poscode": "85766",
+    "provinsi": {
+        "code": "53",
+        "name": "Nusa Tenggara Timur (NTT)"
+    },
+    "kabupaten": {
+        "code": "5321",
+        "name": "Malaka"
+    },
+    "kecamatan": {
+        "code": "532111",
+        "name": "Kobalima"
+    }
+}

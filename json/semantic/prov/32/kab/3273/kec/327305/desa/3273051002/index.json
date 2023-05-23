@@ -1,0 +1,17 @@
+{
+    "code": "3273051002",
+    "name": "Dungus Cariang",
+    "poscode": "40183",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3273",
+        "name": "Bandung"
+    },
+    "kecamatan": {
+        "code": "327305",
+        "name": "Andir"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "9209122005",
+    "name": "Atori",
+    "poscode": "98385",
+    "provinsi": {
+        "code": "96",
+        "name": "Papua Barat Daya"
+    },
+    "kabupaten": {
+        "code": "9209",
+        "name": "Tambrauw"
+    },
+    "kecamatan": {
+        "code": "920912",
+        "name": "Mubrani"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "7601122003",
+    "name": "Bajawali",
+    "poscode": "91577",
+    "provinsi": {
+        "code": "76",
+        "name": "Sulawesi Barat"
+    },
+    "kabupaten": {
+        "code": "7601",
+        "name": "Pasangkayu (Mamuju Utara)"
+    },
+    "kecamatan": {
+        "code": "760112",
+        "name": "Lariang"
+    }
+}

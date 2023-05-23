@@ -1,0 +1,17 @@
+{
+    "code": "3523162002",
+    "name": "Sugiharjo",
+    "poscode": "62319",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3523",
+        "name": "Tuban"
+    },
+    "kecamatan": {
+        "code": "352316",
+        "name": "Tuban"
+    }
+}

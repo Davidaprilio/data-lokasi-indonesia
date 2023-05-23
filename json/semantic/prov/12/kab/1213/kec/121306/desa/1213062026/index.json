@@ -1,0 +1,17 @@
+{
+    "code": "1213062026",
+    "name": "Sihepeng Tolu",
+    "poscode": "22976",
+    "provinsi": {
+        "code": "12",
+        "name": "Sumatera Utara"
+    },
+    "kabupaten": {
+        "code": "1213",
+        "name": "Mandailing Natal"
+    },
+    "kecamatan": {
+        "code": "121306",
+        "name": "Siabu"
+    }
+}

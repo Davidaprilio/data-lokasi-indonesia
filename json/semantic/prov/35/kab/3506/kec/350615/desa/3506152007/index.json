@@ -1,0 +1,17 @@
+{
+    "code": "3506152007",
+    "name": "Belor",
+    "poscode": "64154",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3506",
+        "name": "Kediri"
+    },
+    "kecamatan": {
+        "code": "350615",
+        "name": "Purwoasri"
+    }
+}

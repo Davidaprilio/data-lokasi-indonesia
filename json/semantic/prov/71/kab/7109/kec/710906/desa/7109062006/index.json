@@ -1,0 +1,17 @@
+{
+    "code": "7109062006",
+    "name": "Bawo",
+    "poscode": "95865",
+    "provinsi": {
+        "code": "71",
+        "name": "Sulawesi Utara"
+    },
+    "kabupaten": {
+        "code": "7109",
+        "name": "Kepulauan Siau Tagulandang Biaro (Sitaro)"
+    },
+    "kecamatan": {
+        "code": "710906",
+        "name": "Tagulandang Utara"
+    }
+}

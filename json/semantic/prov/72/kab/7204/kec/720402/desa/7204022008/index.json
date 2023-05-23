@@ -1,0 +1,17 @@
+{
+    "code": "7204022008",
+    "name": "Simatang Utara",
+    "poscode": "94553",
+    "provinsi": {
+        "code": "72",
+        "name": "Sulawesi Tengah"
+    },
+    "kabupaten": {
+        "code": "7204",
+        "name": "Toli Toli"
+    },
+    "kecamatan": {
+        "code": "720402",
+        "name": "Dampal Utara"
+    }
+}

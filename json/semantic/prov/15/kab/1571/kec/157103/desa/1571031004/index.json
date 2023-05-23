@@ -1,0 +1,17 @@
+{
+    "code": "1571031004",
+    "name": "Budiman",
+    "poscode": "36145",
+    "provinsi": {
+        "code": "15",
+        "name": "Jambi"
+    },
+    "kabupaten": {
+        "code": "1571",
+        "name": "Jambi"
+    },
+    "kecamatan": {
+        "code": "157103",
+        "name": "Jambi Timur"
+    }
+}

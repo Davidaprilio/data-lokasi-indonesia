@@ -1,0 +1,17 @@
+{
+    "code": "3505102005",
+    "name": "Papungan",
+    "poscode": "66171",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3505",
+        "name": "Blitar"
+    },
+    "kecamatan": {
+        "code": "350510",
+        "name": "Kanigoro"
+    }
+}

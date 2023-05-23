@@ -1,0 +1,17 @@
+{
+    "code": "6106062007",
+    "name": "Nanga Payang",
+    "poscode": "78762",
+    "provinsi": {
+        "code": "61",
+        "name": "Kalimantan Barat"
+    },
+    "kabupaten": {
+        "code": "6106",
+        "name": "Kapuas Hulu"
+    },
+    "kecamatan": {
+        "code": "610606",
+        "name": "Bunut Hulu"
+    }
+}

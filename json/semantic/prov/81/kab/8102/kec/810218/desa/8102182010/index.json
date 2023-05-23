@@ -1,0 +1,17 @@
+{
+    "code": "8102182010",
+    "name": "Watkidat",
+    "poscode": "97633",
+    "provinsi": {
+        "code": "81",
+        "name": "Maluku"
+    },
+    "kabupaten": {
+        "code": "8102",
+        "name": "Maluku Tenggara"
+    },
+    "kecamatan": {
+        "code": "810218",
+        "name": "Kei Besar Selatan Barat"
+    }
+}

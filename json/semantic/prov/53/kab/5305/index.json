@@ -1,0 +1,10 @@
+{
+    "code": "5305",
+    "type": "Kabupaten",
+    "name": "Alor",
+    "fullname": "Kabupaten Alor",
+    "jumlah": {
+        "kecamatan": 17,
+        "desa": 175
+    }
+}

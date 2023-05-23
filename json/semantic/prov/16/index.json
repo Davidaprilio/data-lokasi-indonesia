@@ -1,0 +1,10 @@
+{
+    "code": "16",
+    "name": "Sumatera Selatan",
+    "jumlah": {
+        "kota": 4,
+        "kabupaten": 13,
+        "kecamatan": 241,
+        "desa": 3
+    }
+}

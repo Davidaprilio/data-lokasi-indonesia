@@ -1,0 +1,17 @@
+{
+    "code": "8106112002",
+    "name": "Sanahu",
+    "poscode": "97564",
+    "provinsi": {
+        "code": "81",
+        "name": "Maluku"
+    },
+    "kabupaten": {
+        "code": "8106",
+        "name": "Seram Bagian Barat"
+    },
+    "kecamatan": {
+        "code": "810611",
+        "name": "Elpaputih"
+    }
+}

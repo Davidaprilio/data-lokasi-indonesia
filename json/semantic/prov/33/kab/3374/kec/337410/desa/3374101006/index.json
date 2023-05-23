@@ -1,0 +1,17 @@
+{
+    "code": "3374101006",
+    "name": "Tembalang",
+    "poscode": "50275",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3374",
+        "name": "Semarang"
+    },
+    "kecamatan": {
+        "code": "337410",
+        "name": "Tembalang"
+    }
+}

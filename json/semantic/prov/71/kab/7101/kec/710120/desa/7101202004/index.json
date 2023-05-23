@@ -1,0 +1,17 @@
+{
+    "code": "7101202004",
+    "name": "Nonapan I (Nonapan Satu)",
+    "poscode": "95753",
+    "provinsi": {
+        "code": "71",
+        "name": "Sulawesi Utara"
+    },
+    "kabupaten": {
+        "code": "7101",
+        "name": "Bolaang Mongondow"
+    },
+    "kecamatan": {
+        "code": "710120",
+        "name": "Poigar"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "1222032003",
+    "name": "Teluk Rampah",
+    "poscode": "21466",
+    "provinsi": {
+        "code": "12",
+        "name": "Sumatera Utara"
+    },
+    "kabupaten": {
+        "code": "1222",
+        "name": "Labuhanbatu Selatan"
+    },
+    "kecamatan": {
+        "code": "122203",
+        "name": "Torgamba"
+    }
+}

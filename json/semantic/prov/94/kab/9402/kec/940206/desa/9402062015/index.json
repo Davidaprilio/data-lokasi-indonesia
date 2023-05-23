@@ -1,0 +1,17 @@
+{
+    "code": "9402062015",
+    "name": "Fii",
+    "poscode": "98942",
+    "provinsi": {
+        "code": "94",
+        "name": "Papua Tengah"
+    },
+    "kabupaten": {
+        "code": "9402",
+        "name": "Puncak Jaya"
+    },
+    "kecamatan": {
+        "code": "940206",
+        "name": "Fawi"
+    }
+}

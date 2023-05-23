@@ -1,0 +1,17 @@
+{
+    "code": "6172011005",
+    "name": "Bukit Batu",
+    "poscode": "79114",
+    "provinsi": {
+        "code": "61",
+        "name": "Kalimantan Barat"
+    },
+    "kabupaten": {
+        "code": "6172",
+        "name": "Singkawang"
+    },
+    "kecamatan": {
+        "code": "617201",
+        "name": "Singkawang Tengah"
+    }
+}

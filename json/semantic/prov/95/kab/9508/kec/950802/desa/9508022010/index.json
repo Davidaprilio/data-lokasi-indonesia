@@ -1,0 +1,17 @@
+{
+    "code": "9508022010",
+    "name": "Nowomlusu",
+    "poscode": "99909",
+    "provinsi": {
+        "code": "95",
+        "name": "Papua Pegunungan"
+    },
+    "kabupaten": {
+        "code": "9508",
+        "name": "Nduga"
+    },
+    "kecamatan": {
+        "code": "950802",
+        "name": "Mapenduma"
+    }
+}

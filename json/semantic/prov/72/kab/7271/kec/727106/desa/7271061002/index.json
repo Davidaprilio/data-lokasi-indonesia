@@ -1,0 +1,17 @@
+{
+    "code": "7271061002",
+    "name": "Palupi",
+    "poscode": "94238",
+    "provinsi": {
+        "code": "72",
+        "name": "Sulawesi Tengah"
+    },
+    "kabupaten": {
+        "code": "7271",
+        "name": "Palu"
+    },
+    "kecamatan": {
+        "code": "727106",
+        "name": "Tatanga"
+    }
+}

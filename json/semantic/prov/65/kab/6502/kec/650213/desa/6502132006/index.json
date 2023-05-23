@@ -1,0 +1,17 @@
+{
+    "code": "6502132006",
+    "name": "Punan Gong Solok",
+    "poscode": "77552",
+    "provinsi": {
+        "code": "65",
+        "name": "Kalimantan Utara"
+    },
+    "kabupaten": {
+        "code": "6502",
+        "name": "Malinau"
+    },
+    "kecamatan": {
+        "code": "650213",
+        "name": "Malinau Selatan Hilir"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "1213162020",
+    "name": "Sikara Kara IV",
+    "poscode": "22987",
+    "provinsi": {
+        "code": "12",
+        "name": "Sumatera Utara"
+    },
+    "kabupaten": {
+        "code": "1213",
+        "name": "Mandailing Natal"
+    },
+    "kecamatan": {
+        "code": "121316",
+        "name": "Natal"
+    }
+}

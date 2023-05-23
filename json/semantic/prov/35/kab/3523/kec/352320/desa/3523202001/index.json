@@ -1,0 +1,17 @@
+{
+    "code": "3523202001",
+    "name": "Ngarum",
+    "poscode": "62371",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3523",
+        "name": "Tuban"
+    },
+    "kecamatan": {
+        "code": "352320",
+        "name": "Grabagan"
+    }
+}

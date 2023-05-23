@@ -1,0 +1,17 @@
+{
+    "code": "6104082009",
+    "name": "Kualan Tengah",
+    "poscode": "78850",
+    "provinsi": {
+        "code": "61",
+        "name": "Kalimantan Barat"
+    },
+    "kabupaten": {
+        "code": "6104",
+        "name": "Ketapang"
+    },
+    "kecamatan": {
+        "code": "610408",
+        "name": "Simpang Hulu"
+    }
+}

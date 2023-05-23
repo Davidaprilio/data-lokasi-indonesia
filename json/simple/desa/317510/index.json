@@ -1,0 +1,42 @@
+[
+    {
+        "code": "3175101006",
+        "name": "Bambu Apus",
+        "poscode": "13890"
+    },
+    {
+        "code": "3175101008",
+        "name": "Ceger",
+        "poscode": "13820"
+    },
+    {
+        "code": "3175101002",
+        "name": "Cilangkap",
+        "poscode": "13870"
+    },
+    {
+        "code": "3175101001",
+        "name": "Cipayung",
+        "poscode": "13840"
+    },
+    {
+        "code": "3175101007",
+        "name": "Lubang Buaya",
+        "poscode": "13810"
+    },
+    {
+        "code": "3175101004",
+        "name": "Munjul",
+        "poscode": "13850"
+    },
+    {
+        "code": "3175101003",
+        "name": "Pondok Ranggon (Pondok Rangon)",
+        "poscode": "13860"
+    },
+    {
+        "code": "3175101005",
+        "name": "Setu",
+        "poscode": "13880"
+    }
+]

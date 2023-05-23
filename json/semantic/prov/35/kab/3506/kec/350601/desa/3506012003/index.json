@@ -1,0 +1,17 @@
+{
+    "code": "3506012003",
+    "name": "Puhrubuh",
+    "poscode": "64161",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3506",
+        "name": "Kediri"
+    },
+    "kecamatan": {
+        "code": "350601",
+        "name": "Semen"
+    }
+}

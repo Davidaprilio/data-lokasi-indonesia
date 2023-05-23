@@ -1,0 +1,17 @@
+{
+    "code": "1204062056",
+    "name": "Olindrawa Sisarahili",
+    "poscode": "22871",
+    "provinsi": {
+        "code": "12",
+        "name": "Sumatera Utara"
+    },
+    "kabupaten": {
+        "code": "1204",
+        "name": "Nias"
+    },
+    "kecamatan": {
+        "code": "120406",
+        "name": "Gido"
+    }
+}

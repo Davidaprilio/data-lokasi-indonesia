@@ -1,0 +1,17 @@
+{
+    "code": "9301192001",
+    "name": "Konorau",
+    "poscode": "99643",
+    "provinsi": {
+        "code": "93",
+        "name": "Papua Selatan"
+    },
+    "kabupaten": {
+        "code": "9301",
+        "name": "Merauke"
+    },
+    "kecamatan": {
+        "code": "930119",
+        "name": "Waan"
+    }
+}

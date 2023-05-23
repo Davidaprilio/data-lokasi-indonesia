@@ -1,0 +1,17 @@
+{
+    "code": "1202102003",
+    "name": "Pagaran",
+    "poscode": "22458",
+    "provinsi": {
+        "code": "12",
+        "name": "Sumatera Utara"
+    },
+    "kabupaten": {
+        "code": "1202",
+        "name": "Tapanuli Utara"
+    },
+    "kecamatan": {
+        "code": "120210",
+        "name": "Pagaran"
+    }
+}

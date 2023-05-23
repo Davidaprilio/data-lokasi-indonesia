@@ -1,0 +1,17 @@
+{
+    "code": "3604312011",
+    "name": "Kamasan",
+    "poscode": "42167",
+    "provinsi": {
+        "code": "36",
+        "name": "Banten"
+    },
+    "kabupaten": {
+        "code": "3604",
+        "name": "Serang"
+    },
+    "kecamatan": {
+        "code": "360431",
+        "name": "Cinangka"
+    }
+}

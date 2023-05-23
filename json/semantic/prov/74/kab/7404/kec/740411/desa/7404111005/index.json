@@ -1,0 +1,17 @@
+{
+    "code": "7404111005",
+    "name": "Wakoko",
+    "poscode": "93752",
+    "provinsi": {
+        "code": "74",
+        "name": "Sulawesi Tenggara"
+    },
+    "kabupaten": {
+        "code": "7404",
+        "name": "Buton"
+    },
+    "kecamatan": {
+        "code": "740411",
+        "name": "Pasarwajo (Pasar Wajo)"
+    }
+}

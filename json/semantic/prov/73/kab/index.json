@@ -1,0 +1,242 @@
+[
+    {
+        "code": "7303",
+        "type": "Kabupaten",
+        "name": "Bantaeng",
+        "fullname": "Kabupaten Bantaeng",
+        "jumlah": {
+            "kecamatan": 8,
+            "desa": 67
+        }
+    },
+    {
+        "code": "7311",
+        "type": "Kabupaten",
+        "name": "Barru",
+        "fullname": "Kabupaten Barru",
+        "jumlah": {
+            "kecamatan": 7,
+            "desa": 55
+        }
+    },
+    {
+        "code": "7308",
+        "type": "Kabupaten",
+        "name": "Bone",
+        "fullname": "Kabupaten Bone",
+        "jumlah": {
+            "kecamatan": 27,
+            "desa": 372
+        }
+    },
+    {
+        "code": "7302",
+        "type": "Kabupaten",
+        "name": "Bulukumba",
+        "fullname": "Kabupaten Bulukumba",
+        "jumlah": {
+            "kecamatan": 10,
+            "desa": 136
+        }
+    },
+    {
+        "code": "7316",
+        "type": "Kabupaten",
+        "name": "Enrekang",
+        "fullname": "Kabupaten Enrekang",
+        "jumlah": {
+            "kecamatan": 12,
+            "desa": 129
+        }
+    },
+    {
+        "code": "7306",
+        "type": "Kabupaten",
+        "name": "Gowa",
+        "fullname": "Kabupaten Gowa",
+        "jumlah": {
+            "kecamatan": 18,
+            "desa": 167
+        }
+    },
+    {
+        "code": "7304",
+        "type": "Kabupaten",
+        "name": "Jeneponto",
+        "fullname": "Kabupaten Jeneponto",
+        "jumlah": {
+            "kecamatan": 11,
+            "desa": 113
+        }
+    },
+    {
+        "code": "7301",
+        "type": "Kabupaten",
+        "name": "Kepulauan Selayar",
+        "fullname": "Kabupaten Kepulauan Selayar",
+        "jumlah": {
+            "kecamatan": 11,
+            "desa": 88
+        }
+    },
+    {
+        "code": "7317",
+        "type": "Kabupaten",
+        "name": "Luwu",
+        "fullname": "Kabupaten Luwu",
+        "jumlah": {
+            "kecamatan": 22,
+            "desa": 227
+        }
+    },
+    {
+        "code": "7324",
+        "type": "Kabupaten",
+        "name": "Luwu Timur",
+        "fullname": "Kabupaten Luwu Timur",
+        "jumlah": {
+            "kecamatan": 11,
+            "desa": 127
+        }
+    },
+    {
+        "code": "7322",
+        "type": "Kabupaten",
+        "name": "Luwu Utara",
+        "fullname": "Kabupaten Luwu Utara",
+        "jumlah": {
+            "kecamatan": 15,
+            "desa": 173
+        }
+    },
+    {
+        "code": "7371",
+        "type": "Kota",
+        "name": "Makassar",
+        "fullname": "Kota Makassar",
+        "jumlah": {
+            "kecamatan": 15,
+            "desa": 153
+        }
+    },
+    {
+        "code": "7309",
+        "type": "Kabupaten",
+        "name": "Maros",
+        "fullname": "Kabupaten Maros",
+        "jumlah": {
+            "kecamatan": 14,
+            "desa": 103
+        }
+    },
+    {
+        "code": "7373",
+        "type": "Kota",
+        "name": "Palopo",
+        "fullname": "Kota Palopo",
+        "jumlah": {
+            "kecamatan": 9,
+            "desa": 48
+        }
+    },
+    {
+        "code": "7310",
+        "type": "Kabupaten",
+        "name": "Pangkajene Kepulauan",
+        "fullname": "Kabupaten Pangkajene Kepulauan",
+        "jumlah": {
+            "kecamatan": 13,
+            "desa": 103
+        }
+    },
+    {
+        "code": "7372",
+        "type": "Kota",
+        "name": "Pare Pare",
+        "fullname": "Kota Pare Pare",
+        "jumlah": {
+            "kecamatan": 4,
+            "desa": 22
+        }
+    },
+    {
+        "code": "7315",
+        "type": "Kabupaten",
+        "name": "Pinrang",
+        "fullname": "Kabupaten Pinrang",
+        "jumlah": {
+            "kecamatan": 12,
+            "desa": 108
+        }
+    },
+    {
+        "code": "7314",
+        "type": "Kabupaten",
+        "name": "Sidenreng Rappang",
+        "fullname": "Kabupaten Sidenreng Rappang",
+        "jumlah": {
+            "kecamatan": 11,
+            "desa": 106
+        }
+    },
+    {
+        "code": "7307",
+        "type": "Kabupaten",
+        "name": "Sinjai",
+        "fullname": "Kabupaten Sinjai",
+        "jumlah": {
+            "kecamatan": 9,
+            "desa": 80
+        }
+    },
+    {
+        "code": "7312",
+        "type": "Kabupaten",
+        "name": "Soppeng",
+        "fullname": "Kabupaten Soppeng",
+        "jumlah": {
+            "kecamatan": 8,
+            "desa": 70
+        }
+    },
+    {
+        "code": "7305",
+        "type": "Kabupaten",
+        "name": "Takalar",
+        "fullname": "Kabupaten Takalar",
+        "jumlah": {
+            "kecamatan": 10,
+            "desa": 100
+        }
+    },
+    {
+        "code": "7318",
+        "type": "Kabupaten",
+        "name": "Tana Toraja",
+        "fullname": "Kabupaten Tana Toraja",
+        "jumlah": {
+            "kecamatan": 19,
+            "desa": 159
+        }
+    },
+    {
+        "code": "7326",
+        "type": "Kabupaten",
+        "name": "Toraja Utara",
+        "fullname": "Kabupaten Toraja Utara",
+        "jumlah": {
+            "kecamatan": 21,
+            "desa": 151
+        }
+    },
+    {
+        "code": "7313",
+        "type": "Kabupaten",
+        "name": "Wajo",
+        "fullname": "Kabupaten Wajo",
+        "jumlah": {
+            "kecamatan": 14,
+            "desa": 190
+        }
+    }
+]

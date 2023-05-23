@@ -1,0 +1,170 @@
+[
+    {
+        "code": "180715",
+        "name": "Bandar Sribhawono (Bandar Sribawono)",
+        "count": {
+            "desa": 7
+        }
+    },
+    {
+        "code": "180706",
+        "name": "Batanghari",
+        "count": {
+            "desa": 17
+        }
+    },
+    {
+        "code": "180713",
+        "name": "Batanghari Nuban",
+        "count": {
+            "desa": 13
+        }
+    },
+    {
+        "code": "180722",
+        "name": "Braja Selebah (Braja Slebah)",
+        "count": {
+            "desa": 7
+        }
+    },
+    {
+        "code": "180714",
+        "name": "Bumi Agung",
+        "count": {
+            "desa": 7
+        }
+    },
+    {
+        "code": "180718",
+        "name": "Gunung Pelindung",
+        "count": {
+            "desa": 5
+        }
+    },
+    {
+        "code": "180703",
+        "name": "Jabung",
+        "count": {
+            "desa": 15
+        }
+    },
+    {
+        "code": "180702",
+        "name": "Labuhan Maringgai",
+        "count": {
+            "desa": 11
+        }
+    },
+    {
+        "code": "180721",
+        "name": "Labuhan Ratu",
+        "count": {
+            "desa": 11
+        }
+    },
+    {
+        "code": "180724",
+        "name": "Marga Sekampung",
+        "count": {
+            "desa": 8
+        }
+    },
+    {
+        "code": "180711",
+        "name": "Marga Tiga (Margatiga)",
+        "count": {
+            "desa": 13
+        }
+    },
+    {
+        "code": "180716",
+        "name": "Mataram Baru",
+        "count": {
+            "desa": 7
+        }
+    },
+    {
+        "code": "180717",
+        "name": "Melinting",
+        "count": {
+            "desa": 6
+        }
+    },
+    {
+        "code": "180710",
+        "name": "Metro Kibang",
+        "count": {
+            "desa": 7
+        }
+    },
+    {
+        "code": "180719",
+        "name": "Pasir Sakti",
+        "count": {
+            "desa": 8
+        }
+    },
+    {
+        "code": "180704",
+        "name": "Pekalongan",
+        "count": {
+            "desa": 12
+        }
+    },
+    {
+        "code": "180708",
+        "name": "Purbolinggo",
+        "count": {
+            "desa": 12
+        }
+    },
+    {
+        "code": "180709",
+        "name": "Raman Utara",
+        "count": {
+            "desa": 11
+        }
+    },
+    {
+        "code": "180705",
+        "name": "Sekampung",
+        "count": {
+            "desa": 17
+        }
+    },
+    {
+        "code": "180712",
+        "name": "Sekampung Udik",
+        "count": {
+            "desa": 15
+        }
+    },
+    {
+        "code": "180701",
+        "name": "Sukadana",
+        "count": {
+            "desa": 20
+        }
+    },
+    {
+        "code": "180720",
+        "name": "Waway Karya",
+        "count": {
+            "desa": 11
+        }
+    },
+    {
+        "code": "180723",
+        "name": "Way Bungur (Purbolinggo Utara)",
+        "count": {
+            "desa": 8
+        }
+    },
+    {
+        "code": "180707",
+        "name": "Way Jepara",
+        "count": {
+            "desa": 16
+        }
+    }
+]

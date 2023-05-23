@@ -1,0 +1,17 @@
+{
+    "code": "3602141008",
+    "name": "Cijoro Pasir",
+    "poscode": "42316",
+    "provinsi": {
+        "code": "36",
+        "name": "Banten"
+    },
+    "kabupaten": {
+        "code": "3602",
+        "name": "Lebak"
+    },
+    "kecamatan": {
+        "code": "360214",
+        "name": "Rangkasbitung"
+    }
+}

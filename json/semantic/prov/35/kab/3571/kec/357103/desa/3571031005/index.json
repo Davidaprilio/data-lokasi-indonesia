@@ -1,0 +1,17 @@
+{
+    "code": "3571031005",
+    "name": "Singonegaran",
+    "poscode": "64132",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3571",
+        "name": "Kediri"
+    },
+    "kecamatan": {
+        "code": "357103",
+        "name": "Pesantren"
+    }
+}

@@ -1,0 +1,37 @@
+[
+    {
+        "code": "817205",
+        "name": "Kur Selatan",
+        "count": {
+            "desa": 7
+        }
+    },
+    {
+        "code": "817202",
+        "name": "Pulau Dullah Selatan",
+        "count": {
+            "desa": 5
+        }
+    },
+    {
+        "code": "817201",
+        "name": "Pulau Dullah Utara",
+        "count": {
+            "desa": 8
+        }
+    },
+    {
+        "code": "817204",
+        "name": "Pulau-Pulau Kur",
+        "count": {
+            "desa": 5
+        }
+    },
+    {
+        "code": "817203",
+        "name": "Tayando Tam",
+        "count": {
+            "desa": 5
+        }
+    }
+]

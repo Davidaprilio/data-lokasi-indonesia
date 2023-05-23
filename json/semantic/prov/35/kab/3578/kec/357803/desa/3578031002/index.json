@@ -1,0 +1,17 @@
+{
+    "code": "3578031002",
+    "name": "Rungkut Kidul",
+    "poscode": "60293",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3578",
+        "name": "Surabaya"
+    },
+    "kecamatan": {
+        "code": "357803",
+        "name": "Rungkut"
+    }
+}

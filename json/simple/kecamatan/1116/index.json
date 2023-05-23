@@ -1,0 +1,86 @@
+[
+    {
+        "code": "111609",
+        "name": "Banda Mulia",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "111610",
+        "name": "Bandar Pusaka",
+        "count": {
+            "desa": 15
+        }
+    },
+    {
+        "code": "111602",
+        "name": "Bendahara",
+        "count": {
+            "desa": 33
+        }
+    },
+    {
+        "code": "111603",
+        "name": "Karang Baru",
+        "count": {
+            "desa": 31
+        }
+    },
+    {
+        "code": "111606",
+        "name": "Kejuruan Muda",
+        "count": {
+            "desa": 15
+        }
+    },
+    {
+        "code": "111605",
+        "name": "Kota Kualasinpang (Kota Kuala Simpang)",
+        "count": {
+            "desa": 5
+        }
+    },
+    {
+        "code": "111601",
+        "name": "Manyak Payed",
+        "count": {
+            "desa": 36
+        }
+    },
+    {
+        "code": "111608",
+        "name": "Rantau",
+        "count": {
+            "desa": 16
+        }
+    },
+    {
+        "code": "111612",
+        "name": "Sekerak",
+        "count": {
+            "desa": 14
+        }
+    },
+    {
+        "code": "111604",
+        "name": "Seruway",
+        "count": {
+            "desa": 24
+        }
+    },
+    {
+        "code": "111607",
+        "name": "Tamiang Hulu",
+        "count": {
+            "desa": 9
+        }
+    },
+    {
+        "code": "111611",
+        "name": "Tenggulun",
+        "count": {
+            "desa": 5
+        }
+    }
+]

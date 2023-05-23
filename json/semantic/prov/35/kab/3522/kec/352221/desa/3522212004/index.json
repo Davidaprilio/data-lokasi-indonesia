@@ -1,0 +1,17 @@
+{
+    "code": "3522212004",
+    "name": "Soko",
+    "poscode": "62184",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3522",
+        "name": "Bojonegoro"
+    },
+    "kecamatan": {
+        "code": "352221",
+        "name": "Temayang"
+    }
+}

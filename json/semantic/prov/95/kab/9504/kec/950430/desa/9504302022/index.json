@@ -1,0 +1,17 @@
+{
+    "code": "9504302022",
+    "name": "Beleise",
+    "poscode": "99062",
+    "provinsi": {
+        "code": "95",
+        "name": "Papua Pegunungan"
+    },
+    "kabupaten": {
+        "code": "9504",
+        "name": "Tolikara"
+    },
+    "kecamatan": {
+        "code": "950430",
+        "name": "Wari/Taiyeve II"
+    }
+}

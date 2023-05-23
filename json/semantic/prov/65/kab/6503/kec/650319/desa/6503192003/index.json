@@ -1,0 +1,17 @@
+{
+    "code": "6503192003",
+    "name": "Long Mangan",
+    "poscode": "77455",
+    "provinsi": {
+        "code": "65",
+        "name": "Kalimantan Utara"
+    },
+    "kabupaten": {
+        "code": "6503",
+        "name": "Nunukan"
+    },
+    "kecamatan": {
+        "code": "650319",
+        "name": "Krayan Barat"
+    }
+}

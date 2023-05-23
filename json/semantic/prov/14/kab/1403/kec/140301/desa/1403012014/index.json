@@ -1,0 +1,17 @@
+{
+    "code": "1403012014",
+    "name": "Temeran",
+    "poscode": "28740",
+    "provinsi": {
+        "code": "14",
+        "name": "Riau"
+    },
+    "kabupaten": {
+        "code": "1403",
+        "name": "Bengkalis"
+    },
+    "kecamatan": {
+        "code": "140301",
+        "name": "Bengkalis"
+    }
+}

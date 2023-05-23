@@ -1,0 +1,42 @@
+[
+    {
+        "code": "1211122003",
+        "name": "Batu Gun-Gun",
+        "poscode": "22250"
+    },
+    {
+        "code": "1211122001",
+        "name": "Bukit Lau Kersik",
+        "poscode": "22250"
+    },
+    {
+        "code": "1211122005",
+        "name": "Gundaling",
+        "poscode": "22250"
+    },
+    {
+        "code": "1211122002",
+        "name": "Gunung Sitember",
+        "poscode": "22250"
+    },
+    {
+        "code": "1211122006",
+        "name": "Kendit Liang",
+        "poscode": "22250"
+    },
+    {
+        "code": "1211122007",
+        "name": "Lau Lebah",
+        "poscode": "22250"
+    },
+    {
+        "code": "1211122004",
+        "name": "Rante Besi",
+        "poscode": "22250"
+    },
+    {
+        "code": "1211122008",
+        "name": "Tupak Raja",
+        "poscode": "22250"
+    }
+]

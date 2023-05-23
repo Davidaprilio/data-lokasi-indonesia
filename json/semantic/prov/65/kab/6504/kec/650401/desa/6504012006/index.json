@@ -1,0 +1,17 @@
+{
+    "code": "6504012006",
+    "name": "Gunawan",
+    "poscode": "77151",
+    "provinsi": {
+        "code": "65",
+        "name": "Kalimantan Utara"
+    },
+    "kabupaten": {
+        "code": "6504",
+        "name": "Tana Tidung"
+    },
+    "kecamatan": {
+        "code": "650401",
+        "name": "Sesayap"
+    }
+}

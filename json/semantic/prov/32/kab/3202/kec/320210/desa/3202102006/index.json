@@ -1,0 +1,17 @@
+{
+    "code": "3202102006",
+    "name": "Sukamaju",
+    "poscode": "43157",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3202",
+        "name": "Sukabumi"
+    },
+    "kecamatan": {
+        "code": "320210",
+        "name": "Cikembar"
+    }
+}

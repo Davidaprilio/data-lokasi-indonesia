@@ -1,0 +1,30 @@
+[
+    {
+        "code": "737201",
+        "name": "Bacukiki",
+        "count": {
+            "desa": 4
+        }
+    },
+    {
+        "code": "737204",
+        "name": "Bacukiki Barat",
+        "count": {
+            "desa": 6
+        }
+    },
+    {
+        "code": "737203",
+        "name": "Soreang",
+        "count": {
+            "desa": 7
+        }
+    },
+    {
+        "code": "737202",
+        "name": "Ujung",
+        "count": {
+            "desa": 5
+        }
+    }
+]

@@ -1,0 +1,17 @@
+{
+    "code": "3511222007",
+    "name": "Sumber Canting (Sumbercanting)",
+    "poscode": "68284",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3511",
+        "name": "Bondowoso"
+    },
+    "kecamatan": {
+        "code": "351122",
+        "name": "Botolinggo"
+    }
+}

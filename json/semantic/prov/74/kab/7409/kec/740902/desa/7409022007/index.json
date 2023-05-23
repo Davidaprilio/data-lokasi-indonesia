@@ -1,0 +1,17 @@
+{
+    "code": "7409022007",
+    "name": "Wawoheo",
+    "poscode": "93343",
+    "provinsi": {
+        "code": "74",
+        "name": "Sulawesi Tenggara"
+    },
+    "kabupaten": {
+        "code": "7409",
+        "name": "Konawe Utara"
+    },
+    "kecamatan": {
+        "code": "740902",
+        "name": "Wiwirano"
+    }
+}

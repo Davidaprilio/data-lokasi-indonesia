@@ -1,0 +1,17 @@
+{
+    "code": "3374101001",
+    "name": "Meteseh",
+    "poscode": "50271",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3374",
+        "name": "Semarang"
+    },
+    "kecamatan": {
+        "code": "337410",
+        "name": "Tembalang"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "3201312003",
+    "name": "Pasireurih",
+    "poscode": "16611",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3201",
+        "name": "Bogor"
+    },
+    "kecamatan": {
+        "code": "320131",
+        "name": "Tamansari"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "3512022004",
+    "name": "Blimbing",
+    "poscode": "68356",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3512",
+        "name": "Situbondo"
+    },
+    "kecamatan": {
+        "code": "351202",
+        "name": "Besuki"
+    }
+}

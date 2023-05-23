@@ -1,0 +1,17 @@
+{
+    "code": "3210071011",
+    "name": "Tonjong",
+    "poscode": "45414",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3210",
+        "name": "Majalengka"
+    },
+    "kecamatan": {
+        "code": "321007",
+        "name": "Majalengka"
+    }
+}

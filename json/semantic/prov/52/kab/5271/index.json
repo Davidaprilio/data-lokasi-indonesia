@@ -1,0 +1,10 @@
+{
+    "code": "5271",
+    "type": "Kota",
+    "name": "Mataram",
+    "fullname": "Kota Mataram",
+    "jumlah": {
+        "kecamatan": 6,
+        "desa": 50
+    }
+}

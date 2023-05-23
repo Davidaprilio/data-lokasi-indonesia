@@ -1,0 +1,17 @@
+{
+    "code": "1271031006",
+    "name": "Dwi Kora",
+    "poscode": "20123",
+    "provinsi": {
+        "code": "12",
+        "name": "Sumatera Utara"
+    },
+    "kabupaten": {
+        "code": "1271",
+        "name": "Medan"
+    },
+    "kecamatan": {
+        "code": "127103",
+        "name": "Medan Helvetia"
+    }
+}

@@ -1,0 +1,121 @@
+[
+    {
+        "code": "340205",
+        "name": "Bambanglipuro (Bambang Lipuro)",
+        "count": {
+            "desa": 3
+        }
+    },
+    {
+        "code": "340212",
+        "name": "Banguntapan",
+        "count": {
+            "desa": 8
+        }
+    },
+    {
+        "code": "340208",
+        "name": "Bantul",
+        "count": {
+            "desa": 5
+        }
+    },
+    {
+        "code": "340211",
+        "name": "Dlingo",
+        "count": {
+            "desa": 6
+        }
+    },
+    {
+        "code": "340210",
+        "name": "Imogiri",
+        "count": {
+            "desa": 8
+        }
+    },
+    {
+        "code": "340209",
+        "name": "Jetis",
+        "count": {
+            "desa": 4
+        }
+    },
+    {
+        "code": "340216",
+        "name": "Kasihan",
+        "count": {
+            "desa": 4
+        }
+    },
+    {
+        "code": "340203",
+        "name": "Kretek",
+        "count": {
+            "desa": 5
+        }
+    },
+    {
+        "code": "340207",
+        "name": "Pajangan",
+        "count": {
+            "desa": 3
+        }
+    },
+    {
+        "code": "340206",
+        "name": "Pandak",
+        "count": {
+            "desa": 4
+        }
+    },
+    {
+        "code": "340214",
+        "name": "Piyungan",
+        "count": {
+            "desa": 3
+        }
+    },
+    {
+        "code": "340213",
+        "name": "Pleret",
+        "count": {
+            "desa": 5
+        }
+    },
+    {
+        "code": "340204",
+        "name": "Pundong",
+        "count": {
+            "desa": 3
+        }
+    },
+    {
+        "code": "340202",
+        "name": "Sanden",
+        "count": {
+            "desa": 4
+        }
+    },
+    {
+        "code": "340217",
+        "name": "Sedayu",
+        "count": {
+            "desa": 4
+        }
+    },
+    {
+        "code": "340215",
+        "name": "Sewon",
+        "count": {
+            "desa": 4
+        }
+    },
+    {
+        "code": "340201",
+        "name": "Srandakan",
+        "count": {
+            "desa": 2
+        }
+    }
+]

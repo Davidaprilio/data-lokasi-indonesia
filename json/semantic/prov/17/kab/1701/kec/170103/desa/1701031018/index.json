@@ -1,0 +1,17 @@
+{
+    "code": "1701031018",
+    "name": "Masat",
+    "poscode": "38570",
+    "provinsi": {
+        "code": "17",
+        "name": "Bengkulu"
+    },
+    "kabupaten": {
+        "code": "1701",
+        "name": "Bengkulu Selatan"
+    },
+    "kecamatan": {
+        "code": "170103",
+        "name": "Pino"
+    }
+}

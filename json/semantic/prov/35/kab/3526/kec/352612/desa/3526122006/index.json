@@ -1,0 +1,17 @@
+{
+    "code": "3526122006",
+    "name": "Sukolilo Barat",
+    "poscode": "69164",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3526",
+        "name": "Bangkalan"
+    },
+    "kecamatan": {
+        "code": "352612",
+        "name": "Labang"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "7103092003",
+    "name": "Bukide",
+    "poscode": "95842",
+    "provinsi": {
+        "code": "71",
+        "name": "Sulawesi Utara"
+    },
+    "kabupaten": {
+        "code": "7103",
+        "name": "Kepulauan Sangihe"
+    },
+    "kecamatan": {
+        "code": "710309",
+        "name": "Nusa Tabukan"
+    }
+}

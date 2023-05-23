@@ -1,0 +1,10 @@
+{
+    "code": "5103",
+    "type": "Kabupaten",
+    "name": "Badung",
+    "fullname": "Kabupaten Badung",
+    "jumlah": {
+        "kecamatan": 6,
+        "desa": 62
+    }
+}

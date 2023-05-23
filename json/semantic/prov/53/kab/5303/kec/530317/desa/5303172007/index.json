@@ -1,0 +1,17 @@
+{
+    "code": "5303172007",
+    "name": "Napan",
+    "poscode": "85653",
+    "provinsi": {
+        "code": "53",
+        "name": "Nusa Tenggara Timur (NTT)"
+    },
+    "kabupaten": {
+        "code": "5303",
+        "name": "Timor Tengah Utara"
+    },
+    "kecamatan": {
+        "code": "530317",
+        "name": "Bikomi Utara"
+    }
+}

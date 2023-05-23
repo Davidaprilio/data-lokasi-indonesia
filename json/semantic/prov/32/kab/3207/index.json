@@ -1,0 +1,10 @@
+{
+    "code": "3207",
+    "type": "Kabupaten",
+    "name": "Ciamis",
+    "fullname": "Kabupaten Ciamis",
+    "jumlah": {
+        "kecamatan": 27,
+        "desa": 265
+    }
+}

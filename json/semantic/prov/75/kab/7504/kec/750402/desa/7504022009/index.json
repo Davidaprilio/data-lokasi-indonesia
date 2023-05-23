@@ -1,0 +1,17 @@
+{
+    "code": "7504022009",
+    "name": "Kenari",
+    "poscode": "96468",
+    "provinsi": {
+        "code": "75",
+        "name": "Gorontalo"
+    },
+    "kabupaten": {
+        "code": "7504",
+        "name": "Pahuwato"
+    },
+    "kecamatan": {
+        "code": "750402",
+        "name": "Lemito"
+    }
+}

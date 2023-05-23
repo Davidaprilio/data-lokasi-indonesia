@@ -1,0 +1,17 @@
+{
+    "code": "3279012005",
+    "name": "Neglasari",
+    "poscode": "46315",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3279",
+        "name": "Banjar"
+    },
+    "kecamatan": {
+        "code": "327901",
+        "name": "Banjar"
+    }
+}

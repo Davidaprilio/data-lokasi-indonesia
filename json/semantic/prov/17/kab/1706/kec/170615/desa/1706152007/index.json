@@ -1,0 +1,17 @@
+{
+    "code": "1706152007",
+    "name": "Talang Gading",
+    "poscode": "38761",
+    "provinsi": {
+        "code": "17",
+        "name": "Bengkulu"
+    },
+    "kabupaten": {
+        "code": "1706",
+        "name": "Muko Muko"
+    },
+    "kecamatan": {
+        "code": "170615",
+        "name": "Sungai Rumbai"
+    }
+}

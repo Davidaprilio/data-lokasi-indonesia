@@ -1,0 +1,17 @@
+{
+    "code": "3322032002",
+    "name": "Timpik",
+    "poscode": "50777",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3322",
+        "name": "Semarang"
+    },
+    "kecamatan": {
+        "code": "332203",
+        "name": "Susukan"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "3201372004",
+    "name": "Nanggerang",
+    "poscode": "16320",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3201",
+        "name": "Bogor"
+    },
+    "kecamatan": {
+        "code": "320137",
+        "name": "Tajurhalang"
+    }
+}

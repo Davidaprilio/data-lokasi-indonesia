@@ -1,0 +1,17 @@
+{
+    "code": "5310162003",
+    "name": "Toe",
+    "poscode": "86593",
+    "provinsi": {
+        "code": "53",
+        "name": "Nusa Tenggara Timur (NTT)"
+    },
+    "kabupaten": {
+        "code": "5310",
+        "name": "Manggarai"
+    },
+    "kecamatan": {
+        "code": "531016",
+        "name": "Reok Barat"
+    }
+}

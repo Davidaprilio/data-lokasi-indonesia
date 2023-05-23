@@ -1,0 +1,17 @@
+{
+    "code": "3322191001",
+    "name": "Sidomulyo",
+    "poscode": "50514",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3322",
+        "name": "Semarang"
+    },
+    "kecamatan": {
+        "code": "332219",
+        "name": "Ungaran Timur"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "6308062041",
+    "name": "Pamintangan",
+    "poscode": "71471",
+    "provinsi": {
+        "code": "63",
+        "name": "Kalimantan Selatan"
+    },
+    "kabupaten": {
+        "code": "6308",
+        "name": "Hulu Sungai Utara"
+    },
+    "kecamatan": {
+        "code": "630806",
+        "name": "Amuntai Utara"
+    }
+}

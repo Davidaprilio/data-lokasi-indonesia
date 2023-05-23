@@ -1,0 +1,17 @@
+{
+    "code": "6474031002",
+    "name": "Telihan (Gunung Telihan)",
+    "poscode": "75383",
+    "provinsi": {
+        "code": "64",
+        "name": "Kalimantan Timur"
+    },
+    "kabupaten": {
+        "code": "6474",
+        "name": "Bontang"
+    },
+    "kecamatan": {
+        "code": "647403",
+        "name": "Bontang Barat"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "1871171002",
+    "name": "Pelita",
+    "poscode": "35117",
+    "provinsi": {
+        "code": "18",
+        "name": "Lampung"
+    },
+    "kabupaten": {
+        "code": "1871",
+        "name": "Bandar Lampung"
+    },
+    "kecamatan": {
+        "code": "187117",
+        "name": "Enggal"
+    }
+}

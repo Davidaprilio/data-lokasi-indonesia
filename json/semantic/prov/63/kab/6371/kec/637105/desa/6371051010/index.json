@@ -1,0 +1,17 @@
+{
+    "code": "6371051010",
+    "name": "Sei/Sungai Baru",
+    "poscode": "70233",
+    "provinsi": {
+        "code": "63",
+        "name": "Kalimantan Selatan"
+    },
+    "kabupaten": {
+        "code": "6371",
+        "name": "Banjarmasin"
+    },
+    "kecamatan": {
+        "code": "637105",
+        "name": "Banjarmasin Tengah"
+    }
+}

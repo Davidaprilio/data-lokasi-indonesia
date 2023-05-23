@@ -1,0 +1,17 @@
+{
+    "code": "9201492001",
+    "name": "Malasigit",
+    "poscode": "98443",
+    "provinsi": {
+        "code": "96",
+        "name": "Papua Barat Daya"
+    },
+    "kabupaten": {
+        "code": "9201",
+        "name": "Sorong"
+    },
+    "kecamatan": {
+        "code": "920149",
+        "name": "Malabotom"
+    }
+}

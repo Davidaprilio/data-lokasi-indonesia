@@ -1,0 +1,17 @@
+{
+    "code": "3508112002",
+    "name": "Jambekumbu",
+    "poscode": "67361",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3508",
+        "name": "Lumajang"
+    },
+    "kecamatan": {
+        "code": "350811",
+        "name": "Pasrujambe/Pasujambe"
+    }
+}

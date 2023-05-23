@@ -1,0 +1,17 @@
+{
+    "code": "7207092008",
+    "name": "Suit",
+    "poscode": "94882",
+    "provinsi": {
+        "code": "72",
+        "name": "Sulawesi Tengah"
+    },
+    "kabupaten": {
+        "code": "7207",
+        "name": "Banggai Kepulauan"
+    },
+    "kecamatan": {
+        "code": "720709",
+        "name": "Bulagi Selatan"
+    }
+}

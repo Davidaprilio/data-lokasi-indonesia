@@ -1,0 +1,17 @@
+{
+    "code": "7371061002",
+    "name": "Wajo Baru",
+    "poscode": "90151",
+    "provinsi": {
+        "code": "73",
+        "name": "Sulawesi Selatan"
+    },
+    "kabupaten": {
+        "code": "7371",
+        "name": "Makassar"
+    },
+    "kecamatan": {
+        "code": "737106",
+        "name": "Bontoala"
+    }
+}

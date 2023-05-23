@@ -1,0 +1,17 @@
+{
+    "code": "8271051003",
+    "name": "Lelewi",
+    "poscode": "97743",
+    "provinsi": {
+        "code": "82",
+        "name": "Maluku Utara"
+    },
+    "kabupaten": {
+        "code": "8271",
+        "name": "Ternate"
+    },
+    "kecamatan": {
+        "code": "827105",
+        "name": "Pulau Batang Dua"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "3203012003",
+    "name": "Sukamaju",
+    "poscode": "43211",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3203",
+        "name": "Cianjur"
+    },
+    "kecamatan": {
+        "code": "320301",
+        "name": "Cianjur"
+    }
+}

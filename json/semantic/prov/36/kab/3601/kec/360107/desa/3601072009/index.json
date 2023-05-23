@@ -1,0 +1,17 @@
+{
+    "code": "3601072009",
+    "name": "Cipinang",
+    "poscode": "42277",
+    "provinsi": {
+        "code": "36",
+        "name": "Banten"
+    },
+    "kabupaten": {
+        "code": "3601",
+        "name": "Pandeglang"
+    },
+    "kecamatan": {
+        "code": "360107",
+        "name": "Angsana"
+    }
+}

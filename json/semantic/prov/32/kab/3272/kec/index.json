@@ -1,0 +1,51 @@
+[
+    {
+        "code": "327205",
+        "name": "Baros",
+        "count": {
+            "desa": 4
+        }
+    },
+    {
+        "code": "327207",
+        "name": "Cibeureum",
+        "count": {
+            "desa": 4
+        }
+    },
+    {
+        "code": "327202",
+        "name": "Cikole",
+        "count": {
+            "desa": 6
+        }
+    },
+    {
+        "code": "327203",
+        "name": "Citamiang",
+        "count": {
+            "desa": 5
+        }
+    },
+    {
+        "code": "327201",
+        "name": "Gunungpuyuh (Gunung Puyuh)",
+        "count": {
+            "desa": 4
+        }
+    },
+    {
+        "code": "327206",
+        "name": "Lembursitu",
+        "count": {
+            "desa": 5
+        }
+    },
+    {
+        "code": "327204",
+        "name": "Warudoyong",
+        "count": {
+            "desa": 5
+        }
+    }
+]

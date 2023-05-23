@@ -1,0 +1,17 @@
+{
+    "code": "3208322007",
+    "name": "Timbang",
+    "poscode": "45556",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3208",
+        "name": "Kuningan"
+    },
+    "kecamatan": {
+        "code": "320832",
+        "name": "Cigandamekar"
+    }
+}

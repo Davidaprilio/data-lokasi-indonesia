@@ -1,0 +1,17 @@
+{
+    "code": "7312012005",
+    "name": "Goarie",
+    "poscode": "90862",
+    "provinsi": {
+        "code": "73",
+        "name": "Sulawesi Selatan"
+    },
+    "kabupaten": {
+        "code": "7312",
+        "name": "Soppeng"
+    },
+    "kecamatan": {
+        "code": "731201",
+        "name": "Marioriwawo (Mario Riwawo)"
+    }
+}

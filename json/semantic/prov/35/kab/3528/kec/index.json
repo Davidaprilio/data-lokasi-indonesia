@@ -1,0 +1,93 @@
+[
+    {
+        "code": "352811",
+        "name": "Batumarmar",
+        "count": {
+            "desa": 13
+        }
+    },
+    {
+        "code": "352803",
+        "name": "Galis",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "352812",
+        "name": "Kadur",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "352808",
+        "name": "Larangan",
+        "count": {
+            "desa": 14
+        }
+    },
+    {
+        "code": "352802",
+        "name": "Pademawu",
+        "count": {
+            "desa": 22
+        }
+    },
+    {
+        "code": "352809",
+        "name": "Pakong",
+        "count": {
+            "desa": 12
+        }
+    },
+    {
+        "code": "352806",
+        "name": "Palenggaan (Palenga'an)",
+        "count": {
+            "desa": 12
+        }
+    },
+    {
+        "code": "352804",
+        "name": "Pamekasan",
+        "count": {
+            "desa": 18
+        }
+    },
+    {
+        "code": "352813",
+        "name": "Pasean",
+        "count": {
+            "desa": 9
+        }
+    },
+    {
+        "code": "352807",
+        "name": "Pegantenan",
+        "count": {
+            "desa": 13
+        }
+    },
+    {
+        "code": "352805",
+        "name": "Proppo",
+        "count": {
+            "desa": 27
+        }
+    },
+    {
+        "code": "352801",
+        "name": "Tlanakan",
+        "count": {
+            "desa": 17
+        }
+    },
+    {
+        "code": "352810",
+        "name": "Waru",
+        "count": {
+            "desa": 12
+        }
+    }
+]

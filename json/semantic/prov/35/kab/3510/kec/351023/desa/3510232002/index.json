@@ -1,0 +1,17 @@
+{
+    "code": "3510232002",
+    "name": "Karangdoro",
+    "poscode": "68485",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3510",
+        "name": "Banyuwangi"
+    },
+    "kecamatan": {
+        "code": "351023",
+        "name": "Tegalsari"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "7602082004",
+    "name": "Sampaga",
+    "poscode": "91563",
+    "provinsi": {
+        "code": "76",
+        "name": "Sulawesi Barat"
+    },
+    "kabupaten": {
+        "code": "7602",
+        "name": "Mamuju"
+    },
+    "kecamatan": {
+        "code": "760208",
+        "name": "Sampaga"
+    }
+}

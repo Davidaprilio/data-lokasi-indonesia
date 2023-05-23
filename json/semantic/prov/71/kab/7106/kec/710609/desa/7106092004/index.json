@@ -1,0 +1,17 @@
+{
+    "code": "7106092004",
+    "name": "Mapanget",
+    "poscode": "95370",
+    "provinsi": {
+        "code": "71",
+        "name": "Sulawesi Utara"
+    },
+    "kabupaten": {
+        "code": "7106",
+        "name": "Minahasa Utara"
+    },
+    "kecamatan": {
+        "code": "710609",
+        "name": "Talawaan"
+    }
+}

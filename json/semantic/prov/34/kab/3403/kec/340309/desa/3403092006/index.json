@@ -1,0 +1,17 @@
+{
+    "code": "3403092006",
+    "name": "Karangmojo",
+    "poscode": "55891",
+    "provinsi": {
+        "code": "34",
+        "name": "DI Yogyakarta"
+    },
+    "kabupaten": {
+        "code": "3403",
+        "name": "Gunungkidul"
+    },
+    "kecamatan": {
+        "code": "340309",
+        "name": "Karangmojo"
+    }
+}

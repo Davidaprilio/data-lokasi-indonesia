@@ -1,0 +1,17 @@
+{
+    "code": "6502042002",
+    "name": "Long Pipa",
+    "poscode": "77571",
+    "provinsi": {
+        "code": "65",
+        "name": "Kalimantan Utara"
+    },
+    "kabupaten": {
+        "code": "6502",
+        "name": "Malinau"
+    },
+    "kecamatan": {
+        "code": "650204",
+        "name": "Kayan Hilir"
+    }
+}

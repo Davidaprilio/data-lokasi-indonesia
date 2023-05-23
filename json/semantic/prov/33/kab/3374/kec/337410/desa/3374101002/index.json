@@ -1,0 +1,17 @@
+{
+    "code": "3374101002",
+    "name": "Rowosari",
+    "poscode": "50279",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3374",
+        "name": "Semarang"
+    },
+    "kecamatan": {
+        "code": "337410",
+        "name": "Tembalang"
+    }
+}

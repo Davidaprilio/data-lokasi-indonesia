@@ -1,0 +1,17 @@
+{
+    "code": "3211202004",
+    "name": "Mulyamekar",
+    "poscode": "45354",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3211",
+        "name": "Sumedang"
+    },
+    "kecamatan": {
+        "code": "321120",
+        "name": "Tanjungkerta"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "1172022006",
+    "name": "Cot Abeuk",
+    "poscode": "23523",
+    "provinsi": {
+        "code": "11",
+        "name": "Aceh (NAD)"
+    },
+    "kabupaten": {
+        "code": "1172",
+        "name": "Sabang"
+    },
+    "kecamatan": {
+        "code": "117202",
+        "name": "Sukajaya"
+    }
+}

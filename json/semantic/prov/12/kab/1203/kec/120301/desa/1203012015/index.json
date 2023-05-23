@@ -1,0 +1,17 @@
+{
+    "code": "1203012015",
+    "name": "Sitaratoit",
+    "poscode": "22735",
+    "provinsi": {
+        "code": "12",
+        "name": "Sumatera Utara"
+    },
+    "kabupaten": {
+        "code": "1203",
+        "name": "Tapanuli Selatan"
+    },
+    "kecamatan": {
+        "code": "120301",
+        "name": "Angkola Barat"
+    }
+}

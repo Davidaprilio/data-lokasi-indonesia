@@ -1,0 +1,17 @@
+{
+    "code": "1503022021",
+    "name": "Temalang",
+    "poscode": "37382",
+    "provinsi": {
+        "code": "15",
+        "name": "Jambi"
+    },
+    "kabupaten": {
+        "code": "1503",
+        "name": "Sarolangun"
+    },
+    "kecamatan": {
+        "code": "150302",
+        "name": "Limun"
+    }
+}

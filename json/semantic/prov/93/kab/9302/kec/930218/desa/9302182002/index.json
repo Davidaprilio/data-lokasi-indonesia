@@ -1,0 +1,17 @@
+{
+    "code": "9302182002",
+    "name": "Anggamburan",
+    "poscode": "99664",
+    "provinsi": {
+        "code": "93",
+        "name": "Papua Selatan"
+    },
+    "kabupaten": {
+        "code": "9302",
+        "name": "Boven Digoel"
+    },
+    "kecamatan": {
+        "code": "930218",
+        "name": "Sesnuk"
+    }
+}

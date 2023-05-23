@@ -1,0 +1,17 @@
+{
+    "code": "3511232004",
+    "name": "Sumberjeruk (Sumber Jeruk)",
+    "poscode": "68263",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3511",
+        "name": "Bondowoso"
+    },
+    "kecamatan": {
+        "code": "351123",
+        "name": "Jambesari Darus Sholah"
+    }
+}

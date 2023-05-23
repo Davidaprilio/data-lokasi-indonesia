@@ -1,0 +1,17 @@
+{
+    "code": "3509262002",
+    "name": "Mayang",
+    "poscode": "68182",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3509",
+        "name": "Jember"
+    },
+    "kecamatan": {
+        "code": "350926",
+        "name": "Mayang"
+    }
+}

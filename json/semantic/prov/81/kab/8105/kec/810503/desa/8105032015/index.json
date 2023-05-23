@@ -1,0 +1,17 @@
+{
+    "code": "8105032015",
+    "name": "Tum",
+    "poscode": "97525",
+    "provinsi": {
+        "code": "81",
+        "name": "Maluku"
+    },
+    "kabupaten": {
+        "code": "8105",
+        "name": "Seram Bagian Timur"
+    },
+    "kecamatan": {
+        "code": "810503",
+        "name": "Werinama"
+    }
+}

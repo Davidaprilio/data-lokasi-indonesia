@@ -1,0 +1,17 @@
+{
+    "code": "1605032015",
+    "name": "Mambang",
+    "poscode": "31663",
+    "provinsi": {
+        "code": "16",
+        "name": "Sumatera Selatan"
+    },
+    "kabupaten": {
+        "code": "1605",
+        "name": "Musi Rawas"
+    },
+    "kecamatan": {
+        "code": "160503",
+        "name": "Muara Kelingi"
+    }
+}

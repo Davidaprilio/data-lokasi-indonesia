@@ -1,0 +1,17 @@
+{
+    "code": "3303012015",
+    "name": "Muntang",
+    "poscode": "53381",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3303",
+        "name": "Purbalingga"
+    },
+    "kecamatan": {
+        "code": "330301",
+        "name": "Kemangkon"
+    }
+}

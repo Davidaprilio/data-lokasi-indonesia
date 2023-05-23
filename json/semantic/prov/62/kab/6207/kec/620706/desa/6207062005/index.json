@@ -1,0 +1,17 @@
+{
+    "code": "6207062005",
+    "name": "Pematang Panjang",
+    "poscode": "74213",
+    "provinsi": {
+        "code": "62",
+        "name": "Kalimantan Tengah"
+    },
+    "kabupaten": {
+        "code": "6207",
+        "name": "Seruyan"
+    },
+    "kecamatan": {
+        "code": "620706",
+        "name": "Seruyan Hilir Timur"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "code": "3602",
+    "type": "Kabupaten",
+    "name": "Lebak",
+    "fullname": "Kabupaten Lebak",
+    "jumlah": {
+        "kecamatan": 28,
+        "desa": 345
+    }
+}

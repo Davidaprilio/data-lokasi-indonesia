@@ -1,0 +1,17 @@
+{
+    "code": "7101322003",
+    "name": "Tudu Aog",
+    "poscode": "95755",
+    "provinsi": {
+        "code": "71",
+        "name": "Sulawesi Utara"
+    },
+    "kabupaten": {
+        "code": "7101",
+        "name": "Bolaang Mongondow"
+    },
+    "kecamatan": {
+        "code": "710132",
+        "name": "Bilalang"
+    }
+}

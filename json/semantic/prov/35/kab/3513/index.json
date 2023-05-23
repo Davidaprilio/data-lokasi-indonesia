@@ -1,0 +1,10 @@
+{
+    "code": "3513",
+    "type": "Kabupaten",
+    "name": "Probolinggo",
+    "fullname": "Kabupaten Probolinggo",
+    "jumlah": {
+        "kecamatan": 24,
+        "desa": 330
+    }
+}

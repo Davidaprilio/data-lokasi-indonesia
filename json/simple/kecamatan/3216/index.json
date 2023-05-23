@@ -1,0 +1,163 @@
+[
+    {
+        "code": "321602",
+        "name": "Babelan",
+        "count": {
+            "desa": 9
+        }
+    },
+    {
+        "code": "321623",
+        "name": "Bojongmangu",
+        "count": {
+            "desa": 6
+        }
+    },
+    {
+        "code": "321616",
+        "name": "Cabangbungin",
+        "count": {
+            "desa": 8
+        }
+    },
+    {
+        "code": "321622",
+        "name": "Cibarusah",
+        "count": {
+            "desa": 7
+        }
+    },
+    {
+        "code": "321607",
+        "name": "Cibitung",
+        "count": {
+            "desa": 7
+        }
+    },
+    {
+        "code": "321608",
+        "name": "Cikarang Barat",
+        "count": {
+            "desa": 11
+        }
+    },
+    {
+        "code": "321620",
+        "name": "Cikarang Pusat",
+        "count": {
+            "desa": 6
+        }
+    },
+    {
+        "code": "321619",
+        "name": "Cikarang Selatan",
+        "count": {
+            "desa": 7
+        }
+    },
+    {
+        "code": "321611",
+        "name": "Cikarang Timur",
+        "count": {
+            "desa": 8
+        }
+    },
+    {
+        "code": "321609",
+        "name": "Cikarang Utara",
+        "count": {
+            "desa": 11
+        }
+    },
+    {
+        "code": "321610",
+        "name": "Karang Bahagia (Karangbahagia)",
+        "count": {
+            "desa": 8
+        }
+    },
+    {
+        "code": "321612",
+        "name": "Kedung Waringin",
+        "count": {
+            "desa": 7
+        }
+    },
+    {
+        "code": "321617",
+        "name": "Muaragembong (Muara Gembong)",
+        "count": {
+            "desa": 6
+        }
+    },
+    {
+        "code": "321613",
+        "name": "Pebayuran",
+        "count": {
+            "desa": 13
+        }
+    },
+    {
+        "code": "321621",
+        "name": "Serang Baru",
+        "count": {
+            "desa": 8
+        }
+    },
+    {
+        "code": "321618",
+        "name": "Setu",
+        "count": {
+            "desa": 11
+        }
+    },
+    {
+        "code": "321614",
+        "name": "Sukakarya",
+        "count": {
+            "desa": 7
+        }
+    },
+    {
+        "code": "321615",
+        "name": "Sukatani",
+        "count": {
+            "desa": 7
+        }
+    },
+    {
+        "code": "321603",
+        "name": "Sukawangi",
+        "count": {
+            "desa": 7
+        }
+    },
+    {
+        "code": "321604",
+        "name": "Tambelang",
+        "count": {
+            "desa": 7
+        }
+    },
+    {
+        "code": "321606",
+        "name": "Tambun Selatan",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "321605",
+        "name": "Tambun Utara",
+        "count": {
+            "desa": 8
+        }
+    },
+    {
+        "code": "321601",
+        "name": "Tarumajaya",
+        "count": {
+            "desa": 8
+        }
+    }
+]

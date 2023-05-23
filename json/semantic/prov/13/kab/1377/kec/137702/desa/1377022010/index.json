@@ -1,0 +1,17 @@
+{
+    "code": "1377022010",
+    "name": "Sikapak Timur",
+    "poscode": "25526",
+    "provinsi": {
+        "code": "13",
+        "name": "Sumatera Barat"
+    },
+    "kabupaten": {
+        "code": "1377",
+        "name": "Pariaman"
+    },
+    "kecamatan": {
+        "code": "137702",
+        "name": "Pariaman Utara"
+    }
+}

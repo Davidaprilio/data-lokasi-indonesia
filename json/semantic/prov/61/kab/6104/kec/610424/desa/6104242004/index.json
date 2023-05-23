@@ -1,0 +1,17 @@
+{
+    "code": "6104242004",
+    "name": "Muara Gerunggang",
+    "poscode": "78874",
+    "provinsi": {
+        "code": "61",
+        "name": "Kalimantan Barat"
+    },
+    "kabupaten": {
+        "code": "6104",
+        "name": "Ketapang"
+    },
+    "kecamatan": {
+        "code": "610424",
+        "name": "Pemahan"
+    }
+}

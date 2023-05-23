@@ -1,0 +1,17 @@
+{
+    "code": "2172021001",
+    "name": "Melayu Kota Piring",
+    "poscode": "29123",
+    "provinsi": {
+        "code": "21",
+        "name": "Kepulauan Riau"
+    },
+    "kabupaten": {
+        "code": "2172",
+        "name": "Tanjung Pinang"
+    },
+    "kecamatan": {
+        "code": "217202",
+        "name": "Tanjung Pinang Timur"
+    }
+}

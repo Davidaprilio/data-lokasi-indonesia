@@ -1,0 +1,17 @@
+{
+    "code": "6403092005",
+    "name": "Labanan Makmur",
+    "poscode": "77352",
+    "provinsi": {
+        "code": "64",
+        "name": "Kalimantan Timur"
+    },
+    "kabupaten": {
+        "code": "6403",
+        "name": "Berau"
+    },
+    "kecamatan": {
+        "code": "640309",
+        "name": "Teluk Bayur"
+    }
+}

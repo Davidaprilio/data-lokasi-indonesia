@@ -1,0 +1,17 @@
+{
+    "code": "9508282008",
+    "name": "Pijama",
+    "poscode": "99926",
+    "provinsi": {
+        "code": "95",
+        "name": "Papua Pegunungan"
+    },
+    "kabupaten": {
+        "code": "9508",
+        "name": "Nduga"
+    },
+    "kecamatan": {
+        "code": "950828",
+        "name": "Moba"
+    }
+}

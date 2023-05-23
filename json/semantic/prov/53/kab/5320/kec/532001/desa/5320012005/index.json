@@ -1,0 +1,17 @@
+{
+    "code": "5320012005",
+    "name": "Teriwu",
+    "poscode": "85395",
+    "provinsi": {
+        "code": "53",
+        "name": "Nusa Tenggara Timur (NTT)"
+    },
+    "kabupaten": {
+        "code": "5320",
+        "name": "Sabu Raijua"
+    },
+    "kecamatan": {
+        "code": "532001",
+        "name": "Sabu Barat"
+    }
+}

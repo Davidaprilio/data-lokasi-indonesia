@@ -1,0 +1,17 @@
+{
+    "code": "8107082003",
+    "name": "Bemun",
+    "poscode": "97669",
+    "provinsi": {
+        "code": "81",
+        "name": "Maluku"
+    },
+    "kabupaten": {
+        "code": "8107",
+        "name": "Kepulauan Aru"
+    },
+    "kecamatan": {
+        "code": "810708",
+        "name": "Aru Tengah Selatan"
+    }
+}

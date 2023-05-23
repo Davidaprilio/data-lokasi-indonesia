@@ -1,0 +1,17 @@
+{
+    "code": "1218082004",
+    "name": "Marubun",
+    "poscode": "20992",
+    "provinsi": {
+        "code": "12",
+        "name": "Sumatera Utara"
+    },
+    "kabupaten": {
+        "code": "1218",
+        "name": "Serdang Bedagai"
+    },
+    "kecamatan": {
+        "code": "121808",
+        "name": "Sipispis"
+    }
+}

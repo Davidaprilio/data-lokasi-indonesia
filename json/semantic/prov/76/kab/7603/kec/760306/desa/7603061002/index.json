@@ -1,0 +1,17 @@
+{
+    "code": "7603061002",
+    "name": "Tabone",
+    "poscode": "91360",
+    "provinsi": {
+        "code": "76",
+        "name": "Sulawesi Barat"
+    },
+    "kabupaten": {
+        "code": "7603",
+        "name": "Mamasa"
+    },
+    "kecamatan": {
+        "code": "760306",
+        "name": "Sumarorong"
+    }
+}

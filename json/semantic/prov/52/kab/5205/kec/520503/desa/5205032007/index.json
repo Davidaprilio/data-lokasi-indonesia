@@ -1,0 +1,17 @@
+{
+    "code": "5205032007",
+    "name": "Jala",
+    "poscode": "84271",
+    "provinsi": {
+        "code": "52",
+        "name": "Nusa Tenggara Barat (NTB)"
+    },
+    "kabupaten": {
+        "code": "5205",
+        "name": "Dompu"
+    },
+    "kecamatan": {
+        "code": "520503",
+        "name": "Hu'u"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "8203092003",
+    "name": "Asimiro (Asmiro)",
+    "poscode": "97763",
+    "provinsi": {
+        "code": "82",
+        "name": "Maluku Utara"
+    },
+    "kabupaten": {
+        "code": "8203",
+        "name": "Halmahera Utara"
+    },
+    "kecamatan": {
+        "code": "820309",
+        "name": "Loloda Utara"
+    }
+}

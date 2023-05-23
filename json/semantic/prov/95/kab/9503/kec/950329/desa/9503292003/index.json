@@ -1,0 +1,17 @@
+{
+    "code": "9503292003",
+    "name": "Homboki",
+    "poscode": "99755",
+    "provinsi": {
+        "code": "95",
+        "name": "Papua Pegunungan"
+    },
+    "kabupaten": {
+        "code": "9503",
+        "name": "Yahukimo"
+    },
+    "kecamatan": {
+        "code": "950329",
+        "name": "Hereapini (Hereanini)"
+    }
+}

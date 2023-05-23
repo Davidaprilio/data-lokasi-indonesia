@@ -1,0 +1,58 @@
+[
+    {
+        "code": "150407",
+        "name": "Bajubang",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "150404",
+        "name": "Batin XXIV",
+        "count": {
+            "desa": 17
+        }
+    },
+    {
+        "code": "150408",
+        "name": "Maro Sebo Ilir",
+        "count": {
+            "desa": 8
+        }
+    },
+    {
+        "code": "150406",
+        "name": "Maro Sebo Ulu",
+        "count": {
+            "desa": 17
+        }
+    },
+    {
+        "code": "150401",
+        "name": "Mersam",
+        "count": {
+            "desa": 18
+        }
+    },
+    {
+        "code": "150403",
+        "name": "Muara Bulian",
+        "count": {
+            "desa": 21
+        }
+    },
+    {
+        "code": "150402",
+        "name": "Muara Tembesi",
+        "count": {
+            "desa": 14
+        }
+    },
+    {
+        "code": "150405",
+        "name": "Pemayung",
+        "count": {
+            "desa": 19
+        }
+    }
+]

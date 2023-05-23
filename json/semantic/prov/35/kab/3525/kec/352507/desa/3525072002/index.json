@@ -1,0 +1,17 @@
+{
+    "code": "3525072002",
+    "name": "Cangaan",
+    "poscode": "61154",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3525",
+        "name": "Gresik"
+    },
+    "kecamatan": {
+        "code": "352507",
+        "name": "Ujungpangkah (Ujung Pangkah)"
+    }
+}

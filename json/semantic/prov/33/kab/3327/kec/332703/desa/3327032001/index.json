@@ -1,0 +1,17 @@
+{
+    "code": "3327032001",
+    "name": "Gombong",
+    "poscode": "52356",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3327",
+        "name": "Pemalang"
+    },
+    "kecamatan": {
+        "code": "332703",
+        "name": "Belik"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "6409042001",
+    "name": "Tengin Baru (Sepaku III)",
+    "poscode": "76147",
+    "provinsi": {
+        "code": "64",
+        "name": "Kalimantan Timur"
+    },
+    "kabupaten": {
+        "code": "6409",
+        "name": "Penajam Paser Utara"
+    },
+    "kecamatan": {
+        "code": "640904",
+        "name": "Sepaku"
+    }
+}

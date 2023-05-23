@@ -1,0 +1,17 @@
+{
+    "code": "6408052005",
+    "name": "Mandu Dalam",
+    "poscode": "75686",
+    "provinsi": {
+        "code": "64",
+        "name": "Kalimantan Timur"
+    },
+    "kabupaten": {
+        "code": "6408",
+        "name": "Kutai Timur"
+    },
+    "kecamatan": {
+        "code": "640805",
+        "name": "Sangkulirang"
+    }
+}

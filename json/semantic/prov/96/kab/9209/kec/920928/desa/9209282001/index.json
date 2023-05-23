@@ -1,0 +1,17 @@
+{
+    "code": "9209282001",
+    "name": "Meserikweda",
+    "poscode": "98383",
+    "provinsi": {
+        "code": "96",
+        "name": "Papua Barat Daya"
+    },
+    "kabupaten": {
+        "code": "9209",
+        "name": "Tambrauw"
+    },
+    "kecamatan": {
+        "code": "920928",
+        "name": "Kasi"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "7373041008",
+    "name": "Petonjangan",
+    "poscode": "91958",
+    "provinsi": {
+        "code": "73",
+        "name": "Sulawesi Selatan"
+    },
+    "kabupaten": {
+        "code": "7373",
+        "name": "Palopo"
+    },
+    "kecamatan": {
+        "code": "737304",
+        "name": "Telluwanua"
+    }
+}

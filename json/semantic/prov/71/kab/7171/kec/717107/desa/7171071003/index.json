@@ -1,0 +1,17 @@
+{
+    "code": "7171071003",
+    "name": "Pakowa",
+    "poscode": "95119",
+    "provinsi": {
+        "code": "71",
+        "name": "Sulawesi Utara"
+    },
+    "kabupaten": {
+        "code": "7171",
+        "name": "Manado"
+    },
+    "kecamatan": {
+        "code": "717107",
+        "name": "Wanea"
+    }
+}

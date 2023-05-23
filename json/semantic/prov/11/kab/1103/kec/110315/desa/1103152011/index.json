@@ -1,0 +1,17 @@
+{
+    "code": "1103152011",
+    "name": "Buket Drien",
+    "poscode": "24458",
+    "provinsi": {
+        "code": "11",
+        "name": "Aceh (NAD)"
+    },
+    "kabupaten": {
+        "code": "1103",
+        "name": "Aceh Timur"
+    },
+    "kecamatan": {
+        "code": "110315",
+        "name": "Banda Alam"
+    }
+}

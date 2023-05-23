@@ -1,0 +1,17 @@
+{
+    "code": "9204252001",
+    "name": "Wenslolo",
+    "poscode": "98233",
+    "provinsi": {
+        "code": "96",
+        "name": "Papua Barat Daya"
+    },
+    "kabupaten": {
+        "code": "9204",
+        "name": "Sorong Selatan"
+    },
+    "kecamatan": {
+        "code": "920425",
+        "name": "Salkma"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "3325122013",
+    "name": "Sawahjoho",
+    "poscode": "51252",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3325",
+        "name": "Batang"
+    },
+    "kecamatan": {
+        "code": "332512",
+        "name": "Warungasem"
+    }
+}

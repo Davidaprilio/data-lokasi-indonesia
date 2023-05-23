@@ -1,0 +1,17 @@
+{
+    "code": "1206052006",
+    "name": "Sibolangit",
+    "poscode": "22173",
+    "provinsi": {
+        "code": "12",
+        "name": "Sumatera Utara"
+    },
+    "kabupaten": {
+        "code": "1206",
+        "name": "Karo"
+    },
+    "kecamatan": {
+        "code": "120605",
+        "name": "Merek"
+    }
+}

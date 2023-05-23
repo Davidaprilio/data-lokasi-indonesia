@@ -1,0 +1,17 @@
+{
+    "code": "1205212005",
+    "name": "Aman Damai/Dame",
+    "poscode": "20775",
+    "provinsi": {
+        "code": "12",
+        "name": "Sumatera Utara"
+    },
+    "kabupaten": {
+        "code": "1205",
+        "name": "Langkat"
+    },
+    "kecamatan": {
+        "code": "120521",
+        "name": "Sirapit (Serapit)"
+    }
+}

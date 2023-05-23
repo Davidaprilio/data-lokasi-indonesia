@@ -1,0 +1,17 @@
+{
+    "code": "1111102042",
+    "name": "Alue Bayeu Utang",
+    "poscode": "24261",
+    "provinsi": {
+        "code": "11",
+        "name": "Aceh (NAD)"
+    },
+    "kabupaten": {
+        "code": "1111",
+        "name": "Bireuen"
+    },
+    "kecamatan": {
+        "code": "111110",
+        "name": "Jangka"
+    }
+}

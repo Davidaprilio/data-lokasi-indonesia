@@ -1,0 +1,17 @@
+{
+    "code": "1115102001",
+    "name": "Blang Puuk",
+    "poscode": "23673",
+    "provinsi": {
+        "code": "11",
+        "name": "Aceh (NAD)"
+    },
+    "kabupaten": {
+        "code": "1115",
+        "name": "Nagan Raya"
+    },
+    "kecamatan": {
+        "code": "111510",
+        "name": "Beutong Ateuh Banggalang"
+    }
+}

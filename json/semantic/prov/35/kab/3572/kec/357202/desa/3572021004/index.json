@@ -1,0 +1,17 @@
+{
+    "code": "3572021004",
+    "name": "Turi",
+    "poscode": "66126",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3572",
+        "name": "Blitar"
+    },
+    "kecamatan": {
+        "code": "357202",
+        "name": "Sukorejo"
+    }
+}

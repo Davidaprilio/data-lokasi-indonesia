@@ -1,0 +1,17 @@
+{
+    "code": "1906072001",
+    "name": "Simpang Pesak",
+    "poscode": "33560",
+    "provinsi": {
+        "code": "19",
+        "name": "Kepulauan Bangka Belitung"
+    },
+    "kabupaten": {
+        "code": "1906",
+        "name": "Belitung Timur"
+    },
+    "kecamatan": {
+        "code": "190607",
+        "name": "Simpang Pesak"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "3205112008",
+    "name": "Karangsari",
+    "poscode": "44192",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3205",
+        "name": "Garut"
+    },
+    "kecamatan": {
+        "code": "320511",
+        "name": "Leuwigoong"
+    }
+}

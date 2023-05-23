@@ -1,0 +1,17 @@
+{
+    "code": "3502092008",
+    "name": "Karanggebang",
+    "poscode": "63473",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3502",
+        "name": "Ponorogo"
+    },
+    "kecamatan": {
+        "code": "350209",
+        "name": "Jetis"
+    }
+}

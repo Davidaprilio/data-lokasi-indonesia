@@ -1,0 +1,17 @@
+{
+    "code": "9201072028",
+    "name": "Maibo",
+    "poscode": "98444",
+    "provinsi": {
+        "code": "96",
+        "name": "Papua Barat Daya"
+    },
+    "kabupaten": {
+        "code": "9201",
+        "name": "Sorong"
+    },
+    "kecamatan": {
+        "code": "920107",
+        "name": "Aimas"
+    }
+}

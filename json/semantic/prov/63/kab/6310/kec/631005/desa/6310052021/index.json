@@ -1,0 +1,17 @@
+{
+    "code": "6310052021",
+    "name": "Wonorejo",
+    "poscode": "72270",
+    "provinsi": {
+        "code": "63",
+        "name": "Kalimantan Selatan"
+    },
+    "kabupaten": {
+        "code": "6310",
+        "name": "Tanah Bumbu"
+    },
+    "kecamatan": {
+        "code": "631005",
+        "name": "Kusan Hulu"
+    }
+}

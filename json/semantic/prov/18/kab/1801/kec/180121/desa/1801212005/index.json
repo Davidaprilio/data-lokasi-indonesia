@@ -1,0 +1,17 @@
+{
+    "code": "1801212005",
+    "name": "Kelawi",
+    "poscode": "35592",
+    "provinsi": {
+        "code": "18",
+        "name": "Lampung"
+    },
+    "kabupaten": {
+        "code": "1801",
+        "name": "Lampung Selatan"
+    },
+    "kecamatan": {
+        "code": "180121",
+        "name": "Bakauheni"
+    }
+}

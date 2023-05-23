@@ -1,0 +1,17 @@
+{
+    "code": "8104022014",
+    "name": "Selwadu",
+    "poscode": "97572",
+    "provinsi": {
+        "code": "81",
+        "name": "Maluku"
+    },
+    "kabupaten": {
+        "code": "8104",
+        "name": "Buru"
+    },
+    "kecamatan": {
+        "code": "810402",
+        "name": "Air Buaya (Airbuaya)"
+    }
+}

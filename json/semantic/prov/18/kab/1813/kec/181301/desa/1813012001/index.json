@@ -1,0 +1,17 @@
+{
+    "code": "1813012001",
+    "name": "Way Redak",
+    "poscode": "34894",
+    "provinsi": {
+        "code": "18",
+        "name": "Lampung"
+    },
+    "kabupaten": {
+        "code": "1813",
+        "name": "Pesisir Barat"
+    },
+    "kecamatan": {
+        "code": "181301",
+        "name": "Pesisir Tengah"
+    }
+}

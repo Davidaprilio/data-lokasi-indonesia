@@ -1,0 +1,17 @@
+{
+    "code": "5106021006",
+    "name": "Kubu",
+    "poscode": "80611",
+    "provinsi": {
+        "code": "51",
+        "name": "Bali"
+    },
+    "kabupaten": {
+        "code": "5106",
+        "name": "Bangli"
+    },
+    "kecamatan": {
+        "code": "510602",
+        "name": "Bangli"
+    }
+}

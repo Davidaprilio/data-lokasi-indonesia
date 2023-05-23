@@ -1,0 +1,17 @@
+{
+    "code": "1504082006",
+    "name": "Terusan",
+    "poscode": "36655",
+    "provinsi": {
+        "code": "15",
+        "name": "Jambi"
+    },
+    "kabupaten": {
+        "code": "1504",
+        "name": "Batanghari"
+    },
+    "kecamatan": {
+        "code": "150408",
+        "name": "Maro Sebo Ilir"
+    }
+}

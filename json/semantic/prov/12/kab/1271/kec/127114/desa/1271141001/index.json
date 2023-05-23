@@ -1,0 +1,17 @@
+{
+    "code": "1271141001",
+    "name": "Indra Kasih",
+    "poscode": "20221",
+    "provinsi": {
+        "code": "12",
+        "name": "Sumatera Utara"
+    },
+    "kabupaten": {
+        "code": "1271",
+        "name": "Medan"
+    },
+    "kecamatan": {
+        "code": "127114",
+        "name": "Medan Tembung"
+    }
+}

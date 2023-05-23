@@ -1,0 +1,10 @@
+{
+    "code": "3315",
+    "type": "Kabupaten",
+    "name": "Grobogan",
+    "fullname": "Kabupaten Grobogan",
+    "jumlah": {
+        "kecamatan": 19,
+        "desa": 280
+    }
+}

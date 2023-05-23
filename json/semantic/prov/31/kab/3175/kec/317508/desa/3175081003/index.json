@@ -1,0 +1,17 @@
+{
+    "code": "3175081003",
+    "name": "Kebon Pala",
+    "poscode": "13650",
+    "provinsi": {
+        "code": "31",
+        "name": "DKI Jakarta"
+    },
+    "kabupaten": {
+        "code": "3175",
+        "name": "Jakarta Timur"
+    },
+    "kecamatan": {
+        "code": "317508",
+        "name": "Makasar"
+    }
+}

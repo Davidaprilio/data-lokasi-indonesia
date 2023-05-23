@@ -1,0 +1,17 @@
+{
+    "code": "3376011003",
+    "name": "Kemandungan",
+    "poscode": "52114",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3376",
+        "name": "Tegal"
+    },
+    "kecamatan": {
+        "code": "337601",
+        "name": "Tegal Barat"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "3212292001",
+    "name": "Brondong",
+    "poscode": "45219",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3212",
+        "name": "Indramayu"
+    },
+    "kecamatan": {
+        "code": "321229",
+        "name": "Pasekan"
+    }
+}

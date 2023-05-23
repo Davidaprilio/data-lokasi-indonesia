@@ -1,0 +1,17 @@
+{
+    "code": "3374121008",
+    "name": "Patemon",
+    "poscode": "50228",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3374",
+        "name": "Semarang"
+    },
+    "kecamatan": {
+        "code": "337412",
+        "name": "Gunungpati"
+    }
+}

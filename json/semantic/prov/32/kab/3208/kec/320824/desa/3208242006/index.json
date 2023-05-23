@@ -1,0 +1,17 @@
+{
+    "code": "3208242006",
+    "name": "Cimahi",
+    "poscode": "45582",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3208",
+        "name": "Kuningan"
+    },
+    "kecamatan": {
+        "code": "320824",
+        "name": "Cimahi"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "9206052004",
+    "name": "Meyenda",
+    "poscode": "98155",
+    "provinsi": {
+        "code": "92",
+        "name": "Papua Barat"
+    },
+    "kabupaten": {
+        "code": "9206",
+        "name": "Teluk Bintuni"
+    },
+    "kecamatan": {
+        "code": "920605",
+        "name": "Moskona Selatan"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "1505112008",
+    "name": "Kemingking Luar",
+    "poscode": "36383",
+    "provinsi": {
+        "code": "15",
+        "name": "Jambi"
+    },
+    "kabupaten": {
+        "code": "1505",
+        "name": "Muaro Jambi"
+    },
+    "kecamatan": {
+        "code": "150511",
+        "name": "Taman Rajo"
+    }
+}

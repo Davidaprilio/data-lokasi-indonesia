@@ -1,0 +1,17 @@
+{
+    "code": "7309082007",
+    "name": "Pa'bentengang",
+    "poscode": "90551",
+    "provinsi": {
+        "code": "73",
+        "name": "Sulawesi Selatan"
+    },
+    "kabupaten": {
+        "code": "7309",
+        "name": "Maros"
+    },
+    "kecamatan": {
+        "code": "730908",
+        "name": "Marusu"
+    }
+}

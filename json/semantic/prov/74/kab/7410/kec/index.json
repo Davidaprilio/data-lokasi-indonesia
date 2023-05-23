@@ -1,0 +1,44 @@
+[
+    {
+        "code": "741003",
+        "name": "Bonegunu",
+        "count": {
+            "desa": 15
+        }
+    },
+    {
+        "code": "741002",
+        "name": "Kambowa",
+        "count": {
+            "desa": 11
+        }
+    },
+    {
+        "code": "741001",
+        "name": "Kulisusu (Kalingsusu/Kalisusu)",
+        "count": {
+            "desa": 23
+        }
+    },
+    {
+        "code": "741004",
+        "name": "Kulisusu Barat",
+        "count": {
+            "desa": 14
+        }
+    },
+    {
+        "code": "741005",
+        "name": "Kulisusu Utara",
+        "count": {
+            "desa": 14
+        }
+    },
+    {
+        "code": "741006",
+        "name": "Wakorumba Utara",
+        "count": {
+            "desa": 13
+        }
+    }
+]

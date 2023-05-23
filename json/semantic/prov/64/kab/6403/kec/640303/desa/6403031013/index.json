@@ -1,0 +1,17 @@
+{
+    "code": "6403031013",
+    "name": "Sambaliung",
+    "poscode": "77371",
+    "provinsi": {
+        "code": "64",
+        "name": "Kalimantan Timur"
+    },
+    "kabupaten": {
+        "code": "6403",
+        "name": "Berau"
+    },
+    "kecamatan": {
+        "code": "640303",
+        "name": "Sambaliung"
+    }
+}

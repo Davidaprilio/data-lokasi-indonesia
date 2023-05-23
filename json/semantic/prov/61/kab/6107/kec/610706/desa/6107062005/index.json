@@ -1,0 +1,17 @@
+{
+    "code": "6107062005",
+    "name": "Sango",
+    "poscode": "79284",
+    "provinsi": {
+        "code": "61",
+        "name": "Kalimantan Barat"
+    },
+    "kabupaten": {
+        "code": "6107",
+        "name": "Bengkayang"
+    },
+    "kecamatan": {
+        "code": "610706",
+        "name": "Sanggau Ledo"
+    }
+}

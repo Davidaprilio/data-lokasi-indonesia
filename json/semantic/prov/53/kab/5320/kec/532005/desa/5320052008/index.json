@@ -1,0 +1,17 @@
+{
+    "code": "5320052008",
+    "name": "Lederaga",
+    "poscode": "85391",
+    "provinsi": {
+        "code": "53",
+        "name": "Nusa Tenggara Timur (NTT)"
+    },
+    "kabupaten": {
+        "code": "5320",
+        "name": "Sabu Raijua"
+    },
+    "kecamatan": {
+        "code": "532005",
+        "name": "Hawu Mehara"
+    }
+}

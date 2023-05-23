@@ -1,0 +1,17 @@
+{
+    "code": "6203102003",
+    "name": "Lawang Kajang",
+    "poscode": "73554",
+    "provinsi": {
+        "code": "62",
+        "name": "Kalimantan Tengah"
+    },
+    "kabupaten": {
+        "code": "6203",
+        "name": "Kapuas"
+    },
+    "kecamatan": {
+        "code": "620310",
+        "name": "Timpah"
+    }
+}

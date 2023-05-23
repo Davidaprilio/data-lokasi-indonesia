@@ -1,0 +1,17 @@
+{
+    "code": "1103062038",
+    "name": "Gampong Lhee",
+    "poscode": "24467",
+    "provinsi": {
+        "code": "11",
+        "name": "Aceh (NAD)"
+    },
+    "kabupaten": {
+        "code": "1103",
+        "name": "Aceh Timur"
+    },
+    "kecamatan": {
+        "code": "110306",
+        "name": "Nurussalam"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "7471061008",
+    "name": "Poasia",
+    "poscode": "93235",
+    "provinsi": {
+        "code": "74",
+        "name": "Sulawesi Tenggara"
+    },
+    "kabupaten": {
+        "code": "7471",
+        "name": "Kendari"
+    },
+    "kecamatan": {
+        "code": "747106",
+        "name": "Abeli"
+    }
+}

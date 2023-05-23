@@ -1,0 +1,17 @@
+{
+    "code": "9401012011",
+    "name": "Kalisusu (Kali Susu)",
+    "poscode": "98821",
+    "provinsi": {
+        "code": "94",
+        "name": "Papua Tengah"
+    },
+    "kabupaten": {
+        "code": "9401",
+        "name": "Nabire"
+    },
+    "kecamatan": {
+        "code": "940101",
+        "name": "Nabire"
+    }
+}

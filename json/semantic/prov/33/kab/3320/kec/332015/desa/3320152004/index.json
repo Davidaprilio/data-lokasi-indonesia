@@ -1,0 +1,17 @@
+{
+    "code": "3320152004",
+    "name": "Kawak",
+    "poscode": "59450",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3320",
+        "name": "Jepara"
+    },
+    "kecamatan": {
+        "code": "332015",
+        "name": "Pakis Aji"
+    }
+}

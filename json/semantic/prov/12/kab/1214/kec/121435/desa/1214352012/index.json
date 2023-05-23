@@ -1,0 +1,17 @@
+{
+    "code": "1214352012",
+    "name": "Buhawa",
+    "poscode": "22878",
+    "provinsi": {
+        "code": "12",
+        "name": "Sumatera Utara"
+    },
+    "kabupaten": {
+        "code": "1214",
+        "name": "Nias Selatan"
+    },
+    "kecamatan": {
+        "code": "121435",
+        "name": "Idanotae"
+    }
+}

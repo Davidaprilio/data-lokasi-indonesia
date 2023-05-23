@@ -1,0 +1,17 @@
+{
+    "code": "7401242002",
+    "name": "Lakito",
+    "poscode": "93565",
+    "provinsi": {
+        "code": "74",
+        "name": "Sulawesi Tenggara"
+    },
+    "kabupaten": {
+        "code": "7401",
+        "name": "Kolaka"
+    },
+    "kecamatan": {
+        "code": "740124",
+        "name": "Toari"
+    }
+}

@@ -1,0 +1,128 @@
+[
+    {
+        "code": "110101",
+        "name": "Bakongan",
+        "count": {
+            "desa": 7
+        }
+    },
+    {
+        "code": "110115",
+        "name": "Bakongan Timur",
+        "count": {
+            "desa": 7
+        }
+    },
+    {
+        "code": "110103",
+        "name": "Kluet Selatan",
+        "count": {
+            "desa": 17
+        }
+    },
+    {
+        "code": "110113",
+        "name": "Kluet Tengah",
+        "count": {
+            "desa": 13
+        }
+    },
+    {
+        "code": "110114",
+        "name": "Kluet Timur",
+        "count": {
+            "desa": 9
+        }
+    },
+    {
+        "code": "110102",
+        "name": "Kluet Utara",
+        "count": {
+            "desa": 21
+        }
+    },
+    {
+        "code": "110117",
+        "name": "Kota Bahagia",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "110104",
+        "name": "Labuhan Haji",
+        "count": {
+            "desa": 16
+        }
+    },
+    {
+        "code": "110112",
+        "name": "Labuhan Haji Barat",
+        "count": {
+            "desa": 15
+        }
+    },
+    {
+        "code": "110111",
+        "name": "Labuhan Haji Timur",
+        "count": {
+            "desa": 12
+        }
+    },
+    {
+        "code": "110105",
+        "name": "Meukek",
+        "count": {
+            "desa": 23
+        }
+    },
+    {
+        "code": "110110",
+        "name": "Pasi Raja (Pasie Raja)",
+        "count": {
+            "desa": 21
+        }
+    },
+    {
+        "code": "110106",
+        "name": "Samadua (Sama Dua)",
+        "count": {
+            "desa": 28
+        }
+    },
+    {
+        "code": "110107",
+        "name": "Sawang",
+        "count": {
+            "desa": 15
+        }
+    },
+    {
+        "code": "110108",
+        "name": "Tapaktuan (Tapak Tuan)",
+        "count": {
+            "desa": 16
+        }
+    },
+    {
+        "code": "110109",
+        "name": "Trumon",
+        "count": {
+            "desa": 12
+        }
+    },
+    {
+        "code": "110118",
+        "name": "Trumon Tengah",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "110116",
+        "name": "Trumon Timur",
+        "count": {
+            "desa": 8
+        }
+    }
+]

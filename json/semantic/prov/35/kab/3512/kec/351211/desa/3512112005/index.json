@@ -1,0 +1,17 @@
+{
+    "code": "3512112005",
+    "name": "Jatisari",
+    "poscode": "68371",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3512",
+        "name": "Situbondo"
+    },
+    "kecamatan": {
+        "code": "351211",
+        "name": "Arjasa"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "1808102012",
+    "name": "Bengkulu Raman",
+    "poscode": "34768",
+    "provinsi": {
+        "code": "18",
+        "name": "Lampung"
+    },
+    "kabupaten": {
+        "code": "1808",
+        "name": "Way Kanan"
+    },
+    "kecamatan": {
+        "code": "180810",
+        "name": "Gunung Labuhan"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "1274021005",
+    "name": "Matahalasan",
+    "poscode": "21325",
+    "provinsi": {
+        "code": "12",
+        "name": "Sumatera Utara"
+    },
+    "kabupaten": {
+        "code": "1274",
+        "name": "Tanjung Balai"
+    },
+    "kecamatan": {
+        "code": "127402",
+        "name": "Tanjung Balai Utara"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "3510022004",
+    "name": "Bangorejo",
+    "poscode": "68487",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3510",
+        "name": "Banyuwangi"
+    },
+    "kecamatan": {
+        "code": "351002",
+        "name": "Bangorejo"
+    }
+}

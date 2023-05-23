@@ -1,0 +1,17 @@
+{
+    "code": "3576031004",
+    "name": "Jagalan",
+    "poscode": "61313",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3576",
+        "name": "Mojokerto"
+    },
+    "kecamatan": {
+        "code": "357603",
+        "name": "Kranggan"
+    }
+}

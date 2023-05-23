@@ -1,0 +1,17 @@
+{
+    "code": "5204232006",
+    "name": "Songkar",
+    "poscode": "84380",
+    "provinsi": {
+        "code": "52",
+        "name": "Nusa Tenggara Barat (NTB)"
+    },
+    "kabupaten": {
+        "code": "5204",
+        "name": "Sumbawa"
+    },
+    "kecamatan": {
+        "code": "520423",
+        "name": "Moyo Utara"
+    }
+}

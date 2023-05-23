@@ -1,0 +1,17 @@
+{
+    "code": "2171041002",
+    "name": "Batu Besar",
+    "poscode": "29466",
+    "provinsi": {
+        "code": "21",
+        "name": "Kepulauan Riau"
+    },
+    "kabupaten": {
+        "code": "2171",
+        "name": "Batam"
+    },
+    "kecamatan": {
+        "code": "217104",
+        "name": "Nongsa"
+    }
+}

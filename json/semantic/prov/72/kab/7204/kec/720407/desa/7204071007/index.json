@@ -1,0 +1,17 @@
+{
+    "code": "7204071007",
+    "name": "Sidoarjo",
+    "poscode": "94512",
+    "provinsi": {
+        "code": "72",
+        "name": "Sulawesi Tengah"
+    },
+    "kabupaten": {
+        "code": "7204",
+        "name": "Toli Toli"
+    },
+    "kecamatan": {
+        "code": "720407",
+        "name": "Baolan"
+    }
+}

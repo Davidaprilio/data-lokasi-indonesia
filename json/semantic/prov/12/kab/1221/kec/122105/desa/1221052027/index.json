@@ -1,0 +1,17 @@
+{
+    "code": "1221052027",
+    "name": "Pir Trans Sosa III B (Pirtrans Sosa III B)",
+    "poscode": "22776",
+    "provinsi": {
+        "code": "12",
+        "name": "Sumatera Utara"
+    },
+    "kabupaten": {
+        "code": "1221",
+        "name": "Padang Lawas"
+    },
+    "kecamatan": {
+        "code": "122105",
+        "name": "Huta Raja Tinggi"
+    }
+}

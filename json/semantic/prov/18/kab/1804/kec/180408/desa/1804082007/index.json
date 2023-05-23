@@ -1,0 +1,17 @@
+{
+    "code": "1804082007",
+    "name": "Tiga Jaya",
+    "poscode": "34886",
+    "provinsi": {
+        "code": "18",
+        "name": "Lampung"
+    },
+    "kabupaten": {
+        "code": "1804",
+        "name": "Lampung Barat"
+    },
+    "kecamatan": {
+        "code": "180408",
+        "name": "Sekincau"
+    }
+}

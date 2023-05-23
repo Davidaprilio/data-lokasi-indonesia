@@ -1,0 +1,17 @@
+{
+    "code": "6106122004",
+    "name": "Sei/Sungai Abau",
+    "poscode": "78766",
+    "provinsi": {
+        "code": "61",
+        "name": "Kalimantan Barat"
+    },
+    "kabupaten": {
+        "code": "6106",
+        "name": "Kapuas Hulu"
+    },
+    "kecamatan": {
+        "code": "610612",
+        "name": "Batang Lupar"
+    }
+}

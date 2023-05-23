@@ -1,0 +1,17 @@
+{
+    "code": "3578191005",
+    "name": "Romokalisari",
+    "poscode": "60192",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3578",
+        "name": "Surabaya"
+    },
+    "kecamatan": {
+        "code": "357819",
+        "name": "Benowo"
+    }
+}

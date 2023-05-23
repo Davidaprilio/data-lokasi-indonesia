@@ -1,0 +1,17 @@
+{
+    "code": "3272061004",
+    "name": "Cikundul",
+    "poscode": "43168",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3272",
+        "name": "Sukabumi"
+    },
+    "kecamatan": {
+        "code": "327206",
+        "name": "Lembursitu"
+    }
+}

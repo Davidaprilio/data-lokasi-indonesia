@@ -1,0 +1,17 @@
+{
+    "code": "3529042006",
+    "name": "Poteran",
+    "poscode": "69481",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3529",
+        "name": "Sumenep"
+    },
+    "kecamatan": {
+        "code": "352904",
+        "name": "Talango"
+    }
+}

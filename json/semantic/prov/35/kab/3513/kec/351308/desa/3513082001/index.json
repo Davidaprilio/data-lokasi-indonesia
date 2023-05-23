@@ -1,0 +1,17 @@
+{
+    "code": "3513082001",
+    "name": "Sumberduren (Sumber Duren)",
+    "poscode": "67288",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3513",
+        "name": "Probolinggo"
+    },
+    "kecamatan": {
+        "code": "351308",
+        "name": "Krucil"
+    }
+}

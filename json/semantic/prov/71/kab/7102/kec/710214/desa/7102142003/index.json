@@ -1,0 +1,17 @@
+{
+    "code": "7102142003",
+    "name": "Toumbuluan (Tombuluan)",
+    "poscode": "95663",
+    "provinsi": {
+        "code": "71",
+        "name": "Sulawesi Utara"
+    },
+    "kabupaten": {
+        "code": "7102",
+        "name": "Minahasa"
+    },
+    "kecamatan": {
+        "code": "710214",
+        "name": "Tombulu"
+    }
+}

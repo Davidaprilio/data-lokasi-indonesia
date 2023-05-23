@@ -1,0 +1,17 @@
+{
+    "code": "1808032002",
+    "name": "Campang Lapan (Campang Delapan)",
+    "poscode": "34766",
+    "provinsi": {
+        "code": "18",
+        "name": "Lampung"
+    },
+    "kabupaten": {
+        "code": "1808",
+        "name": "Way Kanan"
+    },
+    "kecamatan": {
+        "code": "180803",
+        "name": "Banjit"
+    }
+}

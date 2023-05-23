@@ -1,0 +1,17 @@
+{
+    "code": "9502032008",
+    "name": "Manunggal (Okipur)",
+    "poscode": "99404",
+    "provinsi": {
+        "code": "95",
+        "name": "Papua Pegunungan"
+    },
+    "kabupaten": {
+        "code": "9502",
+        "name": "Pegunungan Bintang"
+    },
+    "kecamatan": {
+        "code": "950203",
+        "name": "Okbibab"
+    }
+}

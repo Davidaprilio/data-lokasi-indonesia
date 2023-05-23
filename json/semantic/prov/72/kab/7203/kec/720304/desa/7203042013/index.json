@@ -1,0 +1,17 @@
+{
+    "code": "7203042013",
+    "name": "Bukit Indah",
+    "poscode": "94346",
+    "provinsi": {
+        "code": "72",
+        "name": "Sulawesi Tengah"
+    },
+    "kabupaten": {
+        "code": "7203",
+        "name": "Donggala"
+    },
+    "kecamatan": {
+        "code": "720304",
+        "name": "Rio Pakava"
+    }
+}

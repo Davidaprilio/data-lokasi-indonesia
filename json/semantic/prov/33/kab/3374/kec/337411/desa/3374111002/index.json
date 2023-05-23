@@ -1,0 +1,17 @@
+{
+    "code": "3374111002",
+    "name": "Gedawang",
+    "poscode": "50266",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3374",
+        "name": "Semarang"
+    },
+    "kecamatan": {
+        "code": "337411",
+        "name": "Banyumanik"
+    }
+}

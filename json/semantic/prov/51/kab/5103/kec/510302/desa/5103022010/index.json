@@ -1,0 +1,17 @@
+{
+    "code": "5103022010",
+    "name": "Kekeran",
+    "poscode": "80351",
+    "provinsi": {
+        "code": "51",
+        "name": "Bali"
+    },
+    "kabupaten": {
+        "code": "5103",
+        "name": "Badung"
+    },
+    "kecamatan": {
+        "code": "510302",
+        "name": "Mengwi"
+    }
+}

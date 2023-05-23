@@ -1,0 +1,170 @@
+[
+    {
+        "code": "530307",
+        "name": "Biboki Anleu",
+        "count": {
+            "desa": 9
+        }
+    },
+    {
+        "code": "530324",
+        "name": "Biboki Feotleu",
+        "count": {
+            "desa": 5
+        }
+    },
+    {
+        "code": "530323",
+        "name": "Biboki Moenleu",
+        "count": {
+            "desa": 7
+        }
+    },
+    {
+        "code": "530303",
+        "name": "Biboki Selatan",
+        "count": {
+            "desa": 8
+        }
+    },
+    {
+        "code": "530322",
+        "name": "Biboki Tan Pah",
+        "count": {
+            "desa": 4
+        }
+    },
+    {
+        "code": "530306",
+        "name": "Biboki Utara",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "530316",
+        "name": "Bikomi Nilulat",
+        "count": {
+            "desa": 6
+        }
+    },
+    {
+        "code": "530314",
+        "name": "Bikomi Selatan",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "530315",
+        "name": "Bikomi Tengah",
+        "count": {
+            "desa": 9
+        }
+    },
+    {
+        "code": "530317",
+        "name": "Bikomi Utara",
+        "count": {
+            "desa": 9
+        }
+    },
+    {
+        "code": "530308",
+        "name": "Insana",
+        "count": {
+            "desa": 17
+        }
+    },
+    {
+        "code": "530320",
+        "name": "Insana Barat",
+        "count": {
+            "desa": 12
+        }
+    },
+    {
+        "code": "530319",
+        "name": "Insana Fafinesu",
+        "count": {
+            "desa": 6
+        }
+    },
+    {
+        "code": "530321",
+        "name": "Insana Tengah",
+        "count": {
+            "desa": 7
+        }
+    },
+    {
+        "code": "530309",
+        "name": "Insana Utara",
+        "count": {
+            "desa": 5
+        }
+    },
+    {
+        "code": "530305",
+        "name": "Kota Kefamenanu",
+        "count": {
+            "desa": 9
+        }
+    },
+    {
+        "code": "530311",
+        "name": "Miomaffo Tengah (Miomafo Tengah)",
+        "count": {
+            "desa": 6
+        }
+    },
+    {
+        "code": "530302",
+        "name": "Miomafo Barat",
+        "count": {
+            "desa": 13
+        }
+    },
+    {
+        "code": "530301",
+        "name": "Miomafo Timur",
+        "count": {
+            "desa": 11
+        }
+    },
+    {
+        "code": "530312",
+        "name": "Musi",
+        "count": {
+            "desa": 6
+        }
+    },
+    {
+        "code": "530313",
+        "name": "Mutis",
+        "count": {
+            "desa": 4
+        }
+    },
+    {
+        "code": "530318",
+        "name": "Naibenu",
+        "count": {
+            "desa": 4
+        }
+    },
+    {
+        "code": "530304",
+        "name": "Noemuti",
+        "count": {
+            "desa": 12
+        }
+    },
+    {
+        "code": "530310",
+        "name": "Noemuti Timur",
+        "count": {
+            "desa": 4
+        }
+    }
+]

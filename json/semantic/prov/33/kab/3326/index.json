@@ -1,0 +1,10 @@
+{
+    "code": "3326",
+    "type": "Kabupaten",
+    "name": "Pekalongan",
+    "fullname": "Kabupaten Pekalongan",
+    "jumlah": {
+        "kecamatan": 19,
+        "desa": 285
+    }
+}

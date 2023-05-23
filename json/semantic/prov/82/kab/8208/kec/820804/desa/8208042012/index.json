@@ -1,0 +1,17 @@
+{
+    "code": "8208042012",
+    "name": "Air Bulan",
+    "poscode": "97794",
+    "provinsi": {
+        "code": "82",
+        "name": "Maluku Utara"
+    },
+    "kabupaten": {
+        "code": "8208",
+        "name": "Pulau Taliabu"
+    },
+    "kecamatan": {
+        "code": "820804",
+        "name": "Taliabu Utara"
+    }
+}

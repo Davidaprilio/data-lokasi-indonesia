@@ -1,0 +1,17 @@
+{
+    "code": "1106152007",
+    "name": "Weu",
+    "poscode": "23917",
+    "provinsi": {
+        "code": "11",
+        "name": "Aceh (NAD)"
+    },
+    "kabupaten": {
+        "code": "1106",
+        "name": "Aceh Besar"
+    },
+    "kecamatan": {
+        "code": "110615",
+        "name": "Kota Jantho"
+    }
+}

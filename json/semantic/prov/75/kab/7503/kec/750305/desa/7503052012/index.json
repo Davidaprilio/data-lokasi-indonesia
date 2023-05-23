@@ -1,0 +1,17 @@
+{
+    "code": "7503052012",
+    "name": "Suka Damai",
+    "poscode": "96544",
+    "provinsi": {
+        "code": "75",
+        "name": "Gorontalo"
+    },
+    "kabupaten": {
+        "code": "7503",
+        "name": "Bone Bolango"
+    },
+    "kecamatan": {
+        "code": "750305",
+        "name": "Bulango Utara"
+    }
+}

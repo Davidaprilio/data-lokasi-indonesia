@@ -1,0 +1,65 @@
+[
+    {
+        "code": "331907",
+        "name": "Bae",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "331909",
+        "name": "Dawe",
+        "count": {
+            "desa": 18
+        }
+    },
+    {
+        "code": "331908",
+        "name": "Gebog",
+        "count": {
+            "desa": 11
+        }
+    },
+    {
+        "code": "331903",
+        "name": "Jati",
+        "count": {
+            "desa": 14
+        }
+    },
+    {
+        "code": "331906",
+        "name": "Jekulo",
+        "count": {
+            "desa": 12
+        }
+    },
+    {
+        "code": "331901",
+        "name": "Kaliwungu",
+        "count": {
+            "desa": 15
+        }
+    },
+    {
+        "code": "331902",
+        "name": "Kota Kudus (Kudus Kota)",
+        "count": {
+            "desa": 25
+        }
+    },
+    {
+        "code": "331905",
+        "name": "Mejobo",
+        "count": {
+            "desa": 11
+        }
+    },
+    {
+        "code": "331904",
+        "name": "Undaan",
+        "count": {
+            "desa": 16
+        }
+    }
+]

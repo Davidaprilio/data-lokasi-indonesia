@@ -1,0 +1,17 @@
+{
+    "code": "3212092005",
+    "name": "Tegalmulya",
+    "poscode": "45284",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3212",
+        "name": "Indramayu"
+    },
+    "kecamatan": {
+        "code": "321209",
+        "name": "Krangkeng"
+    }
+}

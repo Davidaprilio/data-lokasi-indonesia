@@ -1,0 +1,17 @@
+{
+    "code": "3325142004",
+    "name": "Randu",
+    "poscode": "51262",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3325",
+        "name": "Batang"
+    },
+    "kecamatan": {
+        "code": "332514",
+        "name": "Pecalungan"
+    }
+}

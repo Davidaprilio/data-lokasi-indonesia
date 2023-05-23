@@ -1,0 +1,17 @@
+{
+    "code": "1116112002",
+    "name": "Rimba Sawang",
+    "poscode": "24477",
+    "provinsi": {
+        "code": "11",
+        "name": "Aceh (NAD)"
+    },
+    "kabupaten": {
+        "code": "1116",
+        "name": "Aceh Tamiang"
+    },
+    "kecamatan": {
+        "code": "111611",
+        "name": "Tenggulun"
+    }
+}

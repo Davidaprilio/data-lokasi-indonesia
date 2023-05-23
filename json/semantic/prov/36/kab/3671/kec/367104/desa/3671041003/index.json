@@ -1,0 +1,17 @@
+{
+    "code": "3671041003",
+    "name": "Benda",
+    "poscode": "15125",
+    "provinsi": {
+        "code": "36",
+        "name": "Banten"
+    },
+    "kabupaten": {
+        "code": "3671",
+        "name": "Tangerang"
+    },
+    "kecamatan": {
+        "code": "367104",
+        "name": "Benda"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "3501012001",
+    "name": "Widoro",
+    "poscode": "63554",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3501",
+        "name": "Pacitan"
+    },
+    "kecamatan": {
+        "code": "350101",
+        "name": "Donorojo"
+    }
+}

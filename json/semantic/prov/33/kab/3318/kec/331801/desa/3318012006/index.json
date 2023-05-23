@@ -1,0 +1,17 @@
+{
+    "code": "3318012006",
+    "name": "Wotan",
+    "poscode": "59172",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3318",
+        "name": "Pati"
+    },
+    "kecamatan": {
+        "code": "331801",
+        "name": "Sukolilo"
+    }
+}

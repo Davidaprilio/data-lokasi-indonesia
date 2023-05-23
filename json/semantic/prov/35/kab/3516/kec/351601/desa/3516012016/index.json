@@ -1,0 +1,17 @@
+{
+    "code": "3516012016",
+    "name": "Dinoyo",
+    "poscode": "61373",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3516",
+        "name": "Mojokerto"
+    },
+    "kecamatan": {
+        "code": "351601",
+        "name": "Jatirejo"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "1508131001",
+    "name": "Pasir Putih",
+    "poscode": "37215",
+    "provinsi": {
+        "code": "15",
+        "name": "Jambi"
+    },
+    "kabupaten": {
+        "code": "1508",
+        "name": "Bungo"
+    },
+    "kecamatan": {
+        "code": "150813",
+        "name": "Rimbo Tengah"
+    }
+}

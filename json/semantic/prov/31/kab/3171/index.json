@@ -1,0 +1,10 @@
+{
+    "code": "3171",
+    "type": "Kota",
+    "name": "Jakarta Pusat",
+    "fullname": "Kota Jakarta Pusat",
+    "jumlah": {
+        "kecamatan": 8,
+        "desa": 44
+    }
+}

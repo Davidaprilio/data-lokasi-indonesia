@@ -1,0 +1,17 @@
+{
+    "code": "1808112014",
+    "name": "Negara Mulya",
+    "poscode": "34769",
+    "provinsi": {
+        "code": "18",
+        "name": "Lampung"
+    },
+    "kabupaten": {
+        "code": "1808",
+        "name": "Way Kanan"
+    },
+    "kecamatan": {
+        "code": "180811",
+        "name": "Negara Batin"
+    }
+}

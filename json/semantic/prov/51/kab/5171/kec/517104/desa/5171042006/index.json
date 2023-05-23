@@ -1,0 +1,17 @@
+{
+    "code": "5171042006",
+    "name": "Dauh Puri Kaja",
+    "poscode": "80111",
+    "provinsi": {
+        "code": "51",
+        "name": "Bali"
+    },
+    "kabupaten": {
+        "code": "5171",
+        "name": "Denpasar"
+    },
+    "kecamatan": {
+        "code": "517104",
+        "name": "Denpasar Utara"
+    }
+}

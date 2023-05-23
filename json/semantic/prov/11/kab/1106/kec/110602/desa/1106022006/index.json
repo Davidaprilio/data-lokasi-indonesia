@@ -1,0 +1,17 @@
+{
+    "code": "1106022006",
+    "name": "Lambaro Kueh",
+    "poscode": "23355",
+    "provinsi": {
+        "code": "11",
+        "name": "Aceh (NAD)"
+    },
+    "kabupaten": {
+        "code": "1106",
+        "name": "Aceh Besar"
+    },
+    "kecamatan": {
+        "code": "110602",
+        "name": "Lhoknga (Lho'nga)"
+    }
+}

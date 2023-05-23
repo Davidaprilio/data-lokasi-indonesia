@@ -1,0 +1,17 @@
+{
+    "code": "7210072017",
+    "name": "Poluroa",
+    "poscode": "94370",
+    "provinsi": {
+        "code": "72",
+        "name": "Sulawesi Tengah"
+    },
+    "kabupaten": {
+        "code": "7210",
+        "name": "Sigi"
+    },
+    "kecamatan": {
+        "code": "721007",
+        "name": "Pipikoro"
+    }
+}

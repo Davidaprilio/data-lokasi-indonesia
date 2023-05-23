@@ -1,0 +1,17 @@
+{
+    "code": "3471041002",
+    "name": "Tegalpanggung (Tegal Panggung)",
+    "poscode": "55212",
+    "provinsi": {
+        "code": "34",
+        "name": "DI Yogyakarta"
+    },
+    "kabupaten": {
+        "code": "3471",
+        "name": "Yogyakarta"
+    },
+    "kecamatan": {
+        "code": "347104",
+        "name": "Danurejan"
+    }
+}

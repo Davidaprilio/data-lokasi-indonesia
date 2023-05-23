@@ -1,0 +1,17 @@
+{
+    "code": "8105152005",
+    "name": "Karay",
+    "poscode": "97524",
+    "provinsi": {
+        "code": "81",
+        "name": "Maluku"
+    },
+    "kabupaten": {
+        "code": "8105",
+        "name": "Seram Bagian Timur"
+    },
+    "kecamatan": {
+        "code": "810515",
+        "name": "Teluk Waru"
+    }
+}

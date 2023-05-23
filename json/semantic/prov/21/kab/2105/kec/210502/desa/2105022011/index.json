@@ -1,0 +1,17 @@
+{
+    "code": "2105022011",
+    "name": "Matak",
+    "poscode": "29796",
+    "provinsi": {
+        "code": "21",
+        "name": "Kepulauan Riau"
+    },
+    "kabupaten": {
+        "code": "2105",
+        "name": "Kepulauan Anambas"
+    },
+    "kecamatan": {
+        "code": "210502",
+        "name": "Palmatak"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "3576021008",
+    "name": "Balongsari",
+    "poscode": "61314",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3576",
+        "name": "Mojokerto"
+    },
+    "kecamatan": {
+        "code": "357602",
+        "name": "Magersari"
+    }
+}

@@ -1,0 +1,184 @@
+[
+    {
+        "code": "940233",
+        "name": "Dagai",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "940225",
+        "name": "Dokome",
+        "count": {
+            "desa": 9
+        }
+    },
+    {
+        "code": "940206",
+        "name": "Fawi",
+        "count": {
+            "desa": 9
+        }
+    },
+    {
+        "code": "940231",
+        "name": "Gubume",
+        "count": {
+            "desa": 17
+        }
+    },
+    {
+        "code": "940218",
+        "name": "Gurage",
+        "count": {
+            "desa": 11
+        }
+    },
+    {
+        "code": "940221",
+        "name": "Ilamburawi",
+        "count": {
+            "desa": 5
+        }
+    },
+    {
+        "code": "940203",
+        "name": "Ilu",
+        "count": {
+            "desa": 21
+        }
+    },
+    {
+        "code": "940219",
+        "name": "Irimuli",
+        "count": {
+            "desa": 9
+        }
+    },
+    {
+        "code": "940226",
+        "name": "Kalome",
+        "count": {
+            "desa": 16
+        }
+    },
+    {
+        "code": "940234",
+        "name": "Kiyage",
+        "count": {
+            "desa": 8
+        }
+    },
+    {
+        "code": "940223",
+        "name": "Lumo",
+        "count": {
+            "desa": 9
+        }
+    },
+    {
+        "code": "940207",
+        "name": "Mewoluk",
+        "count": {
+            "desa": 8
+        }
+    },
+    {
+        "code": "940224",
+        "name": "Molanikime",
+        "count": {
+            "desa": 5
+        }
+    },
+    {
+        "code": "940220",
+        "name": "Muara",
+        "count": {
+            "desa": 8
+        }
+    },
+    {
+        "code": "940201",
+        "name": "Mulia",
+        "count": {
+            "desa": 11
+        }
+    },
+    {
+        "code": "940230",
+        "name": "Nioga",
+        "count": {
+            "desa": 11
+        }
+    },
+    {
+        "code": "940210",
+        "name": "Nume",
+        "count": {
+            "desa": 13
+        }
+    },
+    {
+        "code": "940217",
+        "name": "Pagaleme",
+        "count": {
+            "desa": 5
+        }
+    },
+    {
+        "code": "940232",
+        "name": "Taganombak",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "940212",
+        "name": "Tingginambut",
+        "count": {
+            "desa": 22
+        }
+    },
+    {
+        "code": "940211",
+        "name": "Torere",
+        "count": {
+            "desa": 13
+        }
+    },
+    {
+        "code": "940229",
+        "name": "Waegi",
+        "count": {
+            "desa": 19
+        }
+    },
+    {
+        "code": "940227",
+        "name": "Wanwi",
+        "count": {
+            "desa": 17
+        }
+    },
+    {
+        "code": "940222",
+        "name": "Yambi",
+        "count": {
+            "desa": 9
+        }
+    },
+    {
+        "code": "940208",
+        "name": "Yamo",
+        "count": {
+            "desa": 14
+        }
+    },
+    {
+        "code": "940228",
+        "name": "Yamoneri",
+        "count": {
+            "desa": 16
+        }
+    }
+]

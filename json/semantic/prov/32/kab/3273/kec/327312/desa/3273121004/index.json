@@ -1,0 +1,17 @@
+{
+    "code": "3273121004",
+    "name": "Kacapiring",
+    "poscode": "40271",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3273",
+        "name": "Bandung"
+    },
+    "kecamatan": {
+        "code": "327312",
+        "name": "Batununggal"
+    }
+}

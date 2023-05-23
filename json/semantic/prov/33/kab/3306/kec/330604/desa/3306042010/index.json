@@ -1,0 +1,17 @@
+{
+    "code": "3306042010",
+    "name": "Semono",
+    "poscode": "54174",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3306",
+        "name": "Purworejo"
+    },
+    "kecamatan": {
+        "code": "330604",
+        "name": "Bagelen"
+    }
+}

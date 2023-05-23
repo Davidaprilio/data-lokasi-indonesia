@@ -1,0 +1,72 @@
+[
+    {
+        "code": "710603",
+        "name": "Airmadidi",
+        "count": {
+            "desa": 9
+        }
+    },
+    {
+        "code": "710605",
+        "name": "Dimembe",
+        "count": {
+            "desa": 11
+        }
+    },
+    {
+        "code": "710608",
+        "name": "Kalawat",
+        "count": {
+            "desa": 12
+        }
+    },
+    {
+        "code": "710602",
+        "name": "Kauditan",
+        "count": {
+            "desa": 12
+        }
+    },
+    {
+        "code": "710601",
+        "name": "Kema",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "710606",
+        "name": "Likupang Barat",
+        "count": {
+            "desa": 20
+        }
+    },
+    {
+        "code": "710610",
+        "name": "Likupang Selatan",
+        "count": {
+            "desa": 7
+        }
+    },
+    {
+        "code": "710607",
+        "name": "Likupang Timur",
+        "count": {
+            "desa": 18
+        }
+    },
+    {
+        "code": "710609",
+        "name": "Talawaan",
+        "count": {
+            "desa": 12
+        }
+    },
+    {
+        "code": "710604",
+        "name": "Wori",
+        "count": {
+            "desa": 20
+        }
+    }
+]

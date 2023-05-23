@@ -1,0 +1,17 @@
+{
+    "code": "1702161002",
+    "name": "Tunas Harapan",
+    "poscode": "39123",
+    "provinsi": {
+        "code": "17",
+        "name": "Bengkulu"
+    },
+    "kabupaten": {
+        "code": "1702",
+        "name": "Rejang Lebong"
+    },
+    "kecamatan": {
+        "code": "170216",
+        "name": "Curup Utara"
+    }
+}

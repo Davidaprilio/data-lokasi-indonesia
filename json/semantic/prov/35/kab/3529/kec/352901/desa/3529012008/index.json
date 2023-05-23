@@ -1,0 +1,17 @@
+{
+    "code": "3529012008",
+    "name": "Kacongan",
+    "poscode": "69417",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3529",
+        "name": "Sumenep"
+    },
+    "kecamatan": {
+        "code": "352901",
+        "name": "Kota Sumenep"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "7210022015",
+    "name": "Ranteleda",
+    "poscode": "94366",
+    "provinsi": {
+        "code": "72",
+        "name": "Sulawesi Tengah"
+    },
+    "kabupaten": {
+        "code": "7210",
+        "name": "Sigi"
+    },
+    "kecamatan": {
+        "code": "721002",
+        "name": "Palolo"
+    }
+}

@@ -1,0 +1,149 @@
+[
+    {
+        "code": "530815",
+        "name": "Detukeli",
+        "count": {
+            "desa": 13
+        }
+    },
+    {
+        "code": "530806",
+        "name": "Detusoko",
+        "count": {
+            "desa": 21
+        }
+    },
+    {
+        "code": "530803",
+        "name": "Ende",
+        "count": {
+            "desa": 32
+        }
+    },
+    {
+        "code": "530804",
+        "name": "Ende Selatan",
+        "count": {
+            "desa": 5
+        }
+    },
+    {
+        "code": "530819",
+        "name": "Ende Tengah",
+        "count": {
+            "desa": 4
+        }
+    },
+    {
+        "code": "530820",
+        "name": "Ende Timur",
+        "count": {
+            "desa": 6
+        }
+    },
+    {
+        "code": "530818",
+        "name": "Ende Utara",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "530814",
+        "name": "Kelimutu",
+        "count": {
+            "desa": 9
+        }
+    },
+    {
+        "code": "530813",
+        "name": "Kota Baru",
+        "count": {
+            "desa": 13
+        }
+    },
+    {
+        "code": "530821",
+        "name": "Lepembusu Kelisoke",
+        "count": {
+            "desa": 14
+        }
+    },
+    {
+        "code": "530812",
+        "name": "Lio Timur",
+        "count": {
+            "desa": 13
+        }
+    },
+    {
+        "code": "530811",
+        "name": "Maukaro",
+        "count": {
+            "desa": 11
+        }
+    },
+    {
+        "code": "530810",
+        "name": "Maurole",
+        "count": {
+            "desa": 13
+        }
+    },
+    {
+        "code": "530801",
+        "name": "Nangapanda",
+        "count": {
+            "desa": 29
+        }
+    },
+    {
+        "code": "530805",
+        "name": "Ndona",
+        "count": {
+            "desa": 14
+        }
+    },
+    {
+        "code": "530816",
+        "name": "Ndona Timur",
+        "count": {
+            "desa": 7
+        }
+    },
+    {
+        "code": "530817",
+        "name": "Ndori",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "530802",
+        "name": "Pulau Ende",
+        "count": {
+            "desa": 9
+        }
+    },
+    {
+        "code": "530807",
+        "name": "Wewaria",
+        "count": {
+            "desa": 22
+        }
+    },
+    {
+        "code": "530809",
+        "name": "Wolojita",
+        "count": {
+            "desa": 6
+        }
+    },
+    {
+        "code": "530808",
+        "name": "Wolowaru",
+        "count": {
+            "desa": 17
+        }
+    }
+]

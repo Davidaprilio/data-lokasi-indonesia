@@ -1,0 +1,114 @@
+[
+    {
+        "code": "150105",
+        "name": "Air Hangat",
+        "count": {
+            "desa": 16
+        }
+    },
+    {
+        "code": "150121",
+        "name": "Air Hangat Barat",
+        "count": {
+            "desa": 12
+        }
+    },
+    {
+        "code": "150111",
+        "name": "Air Hangat Timur",
+        "count": {
+            "desa": 25
+        }
+    },
+    {
+        "code": "150107",
+        "name": "Batang Merangin",
+        "count": {
+            "desa": 9
+        }
+    },
+    {
+        "code": "150120",
+        "name": "Bukitkerman",
+        "count": {
+            "desa": 15
+        }
+    },
+    {
+        "code": "150102",
+        "name": "Danau Kerinci",
+        "count": {
+            "desa": 19
+        }
+    },
+    {
+        "code": "150117",
+        "name": "Depati Tujuh",
+        "count": {
+            "desa": 20
+        }
+    },
+    {
+        "code": "150106",
+        "name": "Gunung Kerinci",
+        "count": {
+            "desa": 16
+        }
+    },
+    {
+        "code": "150101",
+        "name": "Gunung Raya",
+        "count": {
+            "desa": 12
+        }
+    },
+    {
+        "code": "150115",
+        "name": "Gunung Tujuh",
+        "count": {
+            "desa": 13
+        }
+    },
+    {
+        "code": "150109",
+        "name": "Kayu Aro",
+        "count": {
+            "desa": 21
+        }
+    },
+    {
+        "code": "150119",
+        "name": "Kayu Aro Barat",
+        "count": {
+            "desa": 17
+        }
+    },
+    {
+        "code": "150108",
+        "name": "Keliling Danau",
+        "count": {
+            "desa": 32
+        }
+    },
+    {
+        "code": "150104",
+        "name": "Sitinjau Laut",
+        "count": {
+            "desa": 20
+        }
+    },
+    {
+        "code": "150116",
+        "name": "Siulak",
+        "count": {
+            "desa": 26
+        }
+    },
+    {
+        "code": "150118",
+        "name": "Siulak Mukai",
+        "count": {
+            "desa": 14
+        }
+    }
+]

@@ -1,0 +1,17 @@
+{
+    "code": "3324151001",
+    "name": "Candiroto",
+    "poscode": "51317",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3324",
+        "name": "Kendal"
+    },
+    "kecamatan": {
+        "code": "332415",
+        "name": "Kendal"
+    }
+}

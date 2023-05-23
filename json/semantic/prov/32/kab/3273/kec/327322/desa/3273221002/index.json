@@ -1,0 +1,17 @@
+{
+    "code": "3273221002",
+    "name": "Margasari",
+    "poscode": "40286",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3273",
+        "name": "Bandung"
+    },
+    "kecamatan": {
+        "code": "327322",
+        "name": "Buahbatu (Margacinta)"
+    }
+}

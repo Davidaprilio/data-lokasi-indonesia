@@ -1,0 +1,17 @@
+{
+    "code": "2102082002",
+    "name": "Sawang Selatan",
+    "poscode": "29662",
+    "provinsi": {
+        "code": "21",
+        "name": "Kepulauan Riau"
+    },
+    "kabupaten": {
+        "code": "2102",
+        "name": "Karimun"
+    },
+    "kecamatan": {
+        "code": "210208",
+        "name": "Kundur Barat"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "3321132015",
+    "name": "Babalan",
+    "poscode": "59554",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3321",
+        "name": "Demak"
+    },
+    "kecamatan": {
+        "code": "332113",
+        "name": "Wedung"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "1205202002",
+    "name": "Alur Gadung",
+    "poscode": "20811",
+    "provinsi": {
+        "code": "12",
+        "name": "Sumatera Utara"
+    },
+    "kabupaten": {
+        "code": "1205",
+        "name": "Langkat"
+    },
+    "kecamatan": {
+        "code": "120520",
+        "name": "Sawit Seberang"
+    }
+}

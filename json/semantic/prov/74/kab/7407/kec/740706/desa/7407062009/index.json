@@ -1,0 +1,17 @@
+{
+    "code": "7407062009",
+    "name": "Peropa",
+    "poscode": "93790",
+    "provinsi": {
+        "code": "74",
+        "name": "Sulawesi Tenggara"
+    },
+    "kabupaten": {
+        "code": "7407",
+        "name": "Wakatobi"
+    },
+    "kecamatan": {
+        "code": "740706",
+        "name": "Kaledupa Selatan"
+    }
+}

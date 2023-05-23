@@ -1,0 +1,17 @@
+{
+    "code": "3522132016",
+    "name": "Mulyoagung",
+    "poscode": "62182",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3522",
+        "name": "Bojonegoro"
+    },
+    "kecamatan": {
+        "code": "352213",
+        "name": "Balen"
+    }
+}

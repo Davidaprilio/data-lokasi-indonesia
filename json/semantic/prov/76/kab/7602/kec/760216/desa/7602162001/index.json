@@ -1,0 +1,17 @@
+{
+    "code": "7602162001",
+    "name": "Bala Balakang",
+    "poscode": "91512",
+    "provinsi": {
+        "code": "76",
+        "name": "Sulawesi Barat"
+    },
+    "kabupaten": {
+        "code": "7602",
+        "name": "Mamuju"
+    },
+    "kecamatan": {
+        "code": "760216",
+        "name": "Kep. Bala Balakang"
+    }
+}

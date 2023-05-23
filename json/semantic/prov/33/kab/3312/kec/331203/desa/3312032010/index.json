@@ -1,0 +1,17 @@
+{
+    "code": "3312032010",
+    "name": "Selomarto",
+    "poscode": "57675",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3312",
+        "name": "Wonogiri"
+    },
+    "kecamatan": {
+        "code": "331203",
+        "name": "Giriwoyo"
+    }
+}

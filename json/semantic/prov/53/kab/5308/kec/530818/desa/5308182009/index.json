@@ -1,0 +1,17 @@
+{
+    "code": "5308182009",
+    "name": "Embundoa",
+    "poscode": "86310",
+    "provinsi": {
+        "code": "53",
+        "name": "Nusa Tenggara Timur (NTT)"
+    },
+    "kabupaten": {
+        "code": "5308",
+        "name": "Ende"
+    },
+    "kecamatan": {
+        "code": "530818",
+        "name": "Ende Utara"
+    }
+}

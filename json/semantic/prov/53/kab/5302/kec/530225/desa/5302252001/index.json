@@ -1,0 +1,17 @@
+{
+    "code": "5302252001",
+    "name": "Santian",
+    "poscode": "85587",
+    "provinsi": {
+        "code": "53",
+        "name": "Nusa Tenggara Timur (NTT)"
+    },
+    "kabupaten": {
+        "code": "5302",
+        "name": "Timor Tengah Selatan"
+    },
+    "kecamatan": {
+        "code": "530225",
+        "name": "Santian"
+    }
+}

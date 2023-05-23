@@ -1,0 +1,17 @@
+{
+    "code": "1812052001",
+    "name": "Tunas Jaya",
+    "poscode": "34783",
+    "provinsi": {
+        "code": "18",
+        "name": "Lampung"
+    },
+    "kabupaten": {
+        "code": "1812",
+        "name": "Tulang Bawang Barat"
+    },
+    "kecamatan": {
+        "code": "181205",
+        "name": "Gunung Agung"
+    }
+}

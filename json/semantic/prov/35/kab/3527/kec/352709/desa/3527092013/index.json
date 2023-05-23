@@ -1,0 +1,17 @@
+{
+    "code": "3527092013",
+    "name": "Montor",
+    "poscode": "69263",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3527",
+        "name": "Sampang"
+    },
+    "kecamatan": {
+        "code": "352709",
+        "name": "Banyuates"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "1608162003",
+    "name": "Way Salak",
+    "poscode": "32381",
+    "provinsi": {
+        "code": "16",
+        "name": "Sumatera Selatan"
+    },
+    "kabupaten": {
+        "code": "1608",
+        "name": "Ogan Komering Ulu Timur"
+    },
+    "kecamatan": {
+        "code": "160816",
+        "name": "Jayapura"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "3671081002",
+    "name": "Gembor",
+    "poscode": "15133",
+    "provinsi": {
+        "code": "36",
+        "name": "Banten"
+    },
+    "kabupaten": {
+        "code": "3671",
+        "name": "Tangerang"
+    },
+    "kecamatan": {
+        "code": "367108",
+        "name": "Periuk"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "6502122006",
+    "name": "Lung Sulit (Long Sulit)",
+    "poscode": "77155",
+    "provinsi": {
+        "code": "65",
+        "name": "Kalimantan Utara"
+    },
+    "kabupaten": {
+        "code": "6502",
+        "name": "Malinau"
+    },
+    "kecamatan": {
+        "code": "650212",
+        "name": "Mentarang Hulu"
+    }
+}

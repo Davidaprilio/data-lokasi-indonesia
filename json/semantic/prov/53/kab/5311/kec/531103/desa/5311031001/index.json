@@ -1,0 +1,17 @@
+{
+    "code": "5311031001",
+    "name": "Lewa Paku (Lewapaku)",
+    "poscode": "87150",
+    "provinsi": {
+        "code": "53",
+        "name": "Nusa Tenggara Timur (NTT)"
+    },
+    "kabupaten": {
+        "code": "5311",
+        "name": "Sumba Timur"
+    },
+    "kecamatan": {
+        "code": "531103",
+        "name": "Lewa"
+    }
+}

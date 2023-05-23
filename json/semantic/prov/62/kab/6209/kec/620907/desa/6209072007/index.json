@@ -1,0 +1,17 @@
+{
+    "code": "6209072007",
+    "name": "Benuatan",
+    "poscode": "74663",
+    "provinsi": {
+        "code": "62",
+        "name": "Kalimantan Tengah"
+    },
+    "kabupaten": {
+        "code": "6209",
+        "name": "Lamandau"
+    },
+    "kecamatan": {
+        "code": "620907",
+        "name": "Belantikan Raya"
+    }
+}

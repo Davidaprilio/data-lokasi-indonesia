@@ -1,0 +1,17 @@
+{
+    "code": "7205042002",
+    "name": "Tamit",
+    "poscode": "94567",
+    "provinsi": {
+        "code": "72",
+        "name": "Sulawesi Tengah"
+    },
+    "kabupaten": {
+        "code": "7205",
+        "name": "Buol"
+    },
+    "kecamatan": {
+        "code": "720504",
+        "name": "Bunobogu"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "7271041003",
+    "name": "Kayumalue Ngapa",
+    "poscode": "94146",
+    "provinsi": {
+        "code": "72",
+        "name": "Sulawesi Tengah"
+    },
+    "kabupaten": {
+        "code": "7271",
+        "name": "Palu"
+    },
+    "kecamatan": {
+        "code": "727104",
+        "name": "Palu Utara"
+    }
+}

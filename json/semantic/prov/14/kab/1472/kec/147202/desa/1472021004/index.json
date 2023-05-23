@@ -1,0 +1,17 @@
+{
+    "code": "1472021004",
+    "name": "Jaya Mukti",
+    "poscode": "28815",
+    "provinsi": {
+        "code": "14",
+        "name": "Riau"
+    },
+    "kabupaten": {
+        "code": "1472",
+        "name": "Dumai"
+    },
+    "kecamatan": {
+        "code": "147202",
+        "name": "Dumai Timur"
+    }
+}

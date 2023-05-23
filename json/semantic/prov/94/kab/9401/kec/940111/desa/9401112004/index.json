@@ -1,0 +1,17 @@
+{
+    "code": "9401112004",
+    "name": "Lagari Jaya (Legari Jaya)",
+    "poscode": "98863",
+    "provinsi": {
+        "code": "94",
+        "name": "Papua Tengah"
+    },
+    "kabupaten": {
+        "code": "9401",
+        "name": "Nabire"
+    },
+    "kecamatan": {
+        "code": "940111",
+        "name": "Makimi"
+    }
+}

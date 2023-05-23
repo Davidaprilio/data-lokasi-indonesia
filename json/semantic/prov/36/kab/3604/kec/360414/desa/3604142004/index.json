@@ -1,0 +1,17 @@
+{
+    "code": "3604142004",
+    "name": "Sukamanah",
+    "poscode": "42194",
+    "provinsi": {
+        "code": "36",
+        "name": "Banten"
+    },
+    "kabupaten": {
+        "code": "3604",
+        "name": "Serang"
+    },
+    "kecamatan": {
+        "code": "360414",
+        "name": "Tanara"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "3572031006",
+    "name": "Karang Tengah",
+    "poscode": "66137",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3572",
+        "name": "Blitar"
+    },
+    "kecamatan": {
+        "code": "357203",
+        "name": "Sananwetan (Sanan Wetan)"
+    }
+}

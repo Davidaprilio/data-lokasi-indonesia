@@ -1,0 +1,32 @@
+[
+    {
+        "code": "3277021001",
+        "name": "Baros",
+        "poscode": "40521"
+    },
+    {
+        "code": "3277021002",
+        "name": "Cigugur Tengah",
+        "poscode": "40522"
+    },
+    {
+        "code": "3277021006",
+        "name": "Cimahi",
+        "poscode": "40525"
+    },
+    {
+        "code": "3277021003",
+        "name": "Karangmekar",
+        "poscode": "40523"
+    },
+    {
+        "code": "3277021005",
+        "name": "Padasuka",
+        "poscode": "40526"
+    },
+    {
+        "code": "3277021004",
+        "name": "Setiamanah",
+        "poscode": "40524"
+    }
+]

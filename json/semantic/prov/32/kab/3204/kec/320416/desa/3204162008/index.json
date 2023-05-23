@@ -1,0 +1,17 @@
+{
+    "code": "3204162008",
+    "name": "Pinggirsari",
+    "poscode": "40379",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3204",
+        "name": "Bandung"
+    },
+    "kecamatan": {
+        "code": "320416",
+        "name": "Arjasari"
+    }
+}

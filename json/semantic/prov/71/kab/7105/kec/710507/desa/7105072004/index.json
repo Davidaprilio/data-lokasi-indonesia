@@ -1,0 +1,17 @@
+{
+    "code": "7105072004",
+    "name": "Motoling II (Motoling Dua)",
+    "poscode": "95941",
+    "provinsi": {
+        "code": "71",
+        "name": "Sulawesi Utara"
+    },
+    "kabupaten": {
+        "code": "7105",
+        "name": "Minahasa Selatan"
+    },
+    "kecamatan": {
+        "code": "710507",
+        "name": "Motoling"
+    }
+}

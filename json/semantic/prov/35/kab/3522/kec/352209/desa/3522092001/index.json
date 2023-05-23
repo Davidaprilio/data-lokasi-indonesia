@@ -1,0 +1,17 @@
+{
+    "code": "3522092001",
+    "name": "Pejok",
+    "poscode": "62194",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3522",
+        "name": "Bojonegoro"
+    },
+    "kecamatan": {
+        "code": "352209",
+        "name": "Kepohbaru"
+    }
+}

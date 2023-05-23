@@ -1,0 +1,17 @@
+{
+    "code": "2101102001",
+    "name": "Berakit",
+    "poscode": "29154",
+    "provinsi": {
+        "code": "21",
+        "name": "Kepulauan Riau"
+    },
+    "kabupaten": {
+        "code": "2101",
+        "name": "Bintan"
+    },
+    "kecamatan": {
+        "code": "210110",
+        "name": "Telok Sebong (Teluk Sebong)"
+    }
+}

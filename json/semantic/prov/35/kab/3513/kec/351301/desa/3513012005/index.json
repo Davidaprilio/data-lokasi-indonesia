@@ -1,0 +1,17 @@
+{
+    "code": "3513012005",
+    "name": "Ngadirejo",
+    "poscode": "67254",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3513",
+        "name": "Probolinggo"
+    },
+    "kecamatan": {
+        "code": "351301",
+        "name": "Sukapura"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "7503072004",
+    "name": "Buata",
+    "poscode": "96551",
+    "provinsi": {
+        "code": "75",
+        "name": "Gorontalo"
+    },
+    "kabupaten": {
+        "code": "7503",
+        "name": "Bone Bolango"
+    },
+    "kecamatan": {
+        "code": "750307",
+        "name": "Botupingge (Botu Pingge)"
+    }
+}

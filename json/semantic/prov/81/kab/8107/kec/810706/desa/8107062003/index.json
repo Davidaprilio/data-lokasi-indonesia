@@ -1,0 +1,17 @@
+{
+    "code": "8107062003",
+    "name": "Wafan",
+    "poscode": "97664",
+    "provinsi": {
+        "code": "81",
+        "name": "Maluku"
+    },
+    "kabupaten": {
+        "code": "8107",
+        "name": "Kepulauan Aru"
+    },
+    "kecamatan": {
+        "code": "810706",
+        "name": "Sir-Sir"
+    }
+}

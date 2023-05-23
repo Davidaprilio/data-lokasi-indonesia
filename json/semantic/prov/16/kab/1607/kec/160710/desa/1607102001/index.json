@@ -1,0 +1,17 @@
+{
+    "code": "1607102001",
+    "name": "Sungairengit (Sungai Rengit)",
+    "poscode": "30961",
+    "provinsi": {
+        "code": "16",
+        "name": "Sumatera Selatan"
+    },
+    "kabupaten": {
+        "code": "1607",
+        "name": "Banyuasin"
+    },
+    "kecamatan": {
+        "code": "160710",
+        "name": "Talang Kelapa"
+    }
+}

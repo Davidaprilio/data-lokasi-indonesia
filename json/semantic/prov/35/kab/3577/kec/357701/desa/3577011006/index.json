@@ -1,0 +1,17 @@
+{
+    "code": "3577011006",
+    "name": "Tawangrejo",
+    "poscode": "63113",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3577",
+        "name": "Madiun"
+    },
+    "kecamatan": {
+        "code": "357701",
+        "name": "Kartoharjo"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "3174031003",
+    "name": "Pela Mampang",
+    "poscode": "12720",
+    "provinsi": {
+        "code": "31",
+        "name": "DKI Jakarta"
+    },
+    "kabupaten": {
+        "code": "3174",
+        "name": "Jakarta Selatan"
+    },
+    "kecamatan": {
+        "code": "317403",
+        "name": "Mampang Prapatan"
+    }
+}

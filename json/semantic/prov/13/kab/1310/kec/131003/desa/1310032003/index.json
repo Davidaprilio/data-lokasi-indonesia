@@ -1,0 +1,17 @@
+{
+    "code": "1310032003",
+    "name": "Sungai Rumbai",
+    "poscode": "27686",
+    "provinsi": {
+        "code": "13",
+        "name": "Sumatera Barat"
+    },
+    "kabupaten": {
+        "code": "1310",
+        "name": "Dharmasraya"
+    },
+    "kecamatan": {
+        "code": "131003",
+        "name": "Sungai Rumbai"
+    }
+}

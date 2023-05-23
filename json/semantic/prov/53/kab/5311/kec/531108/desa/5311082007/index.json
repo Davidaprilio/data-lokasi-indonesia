@@ -1,0 +1,17 @@
+{
+    "code": "5311082007",
+    "name": "Lairuru",
+    "poscode": "87180",
+    "provinsi": {
+        "code": "53",
+        "name": "Nusa Tenggara Timur (NTT)"
+    },
+    "kabupaten": {
+        "code": "5311",
+        "name": "Sumba Timur"
+    },
+    "kecamatan": {
+        "code": "531108",
+        "name": "Umalulu"
+    }
+}

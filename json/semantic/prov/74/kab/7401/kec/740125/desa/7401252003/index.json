@@ -1,0 +1,17 @@
+{
+    "code": "7401252003",
+    "name": "Plasma Jaya",
+    "poscode": "93563",
+    "provinsi": {
+        "code": "74",
+        "name": "Sulawesi Tenggara"
+    },
+    "kabupaten": {
+        "code": "7401",
+        "name": "Kolaka"
+    },
+    "kecamatan": {
+        "code": "740125",
+        "name": "Polinggona"
+    }
+}

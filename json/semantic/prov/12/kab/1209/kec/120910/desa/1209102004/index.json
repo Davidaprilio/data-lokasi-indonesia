@@ -1,0 +1,17 @@
+{
+    "code": "1209102004",
+    "name": "Bagan Asahan Pekan",
+    "poscode": "21352",
+    "provinsi": {
+        "code": "12",
+        "name": "Sumatera Utara"
+    },
+    "kabupaten": {
+        "code": "1209",
+        "name": "Asahan"
+    },
+    "kecamatan": {
+        "code": "120910",
+        "name": "Tanjung Balai"
+    }
+}

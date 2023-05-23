@@ -1,0 +1,17 @@
+{
+    "code": "1223042002",
+    "name": "Bandar Selamat",
+    "poscode": "21455",
+    "provinsi": {
+        "code": "12",
+        "name": "Sumatera Utara"
+    },
+    "kabupaten": {
+        "code": "1223",
+        "name": "Labuhanbatu Utara"
+    },
+    "kecamatan": {
+        "code": "122304",
+        "name": "Aek Kuo"
+    }
+}

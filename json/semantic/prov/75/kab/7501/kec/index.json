@@ -1,0 +1,135 @@
+[
+    {
+        "code": "750121",
+        "name": "Asparaga",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "750103",
+        "name": "Batudaa",
+        "count": {
+            "desa": 8
+        }
+    },
+    {
+        "code": "750105",
+        "name": "Batudaa Pantai",
+        "count": {
+            "desa": 9
+        }
+    },
+    {
+        "code": "750123",
+        "name": "Bilato",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "750120",
+        "name": "Biluhu",
+        "count": {
+            "desa": 8
+        }
+    },
+    {
+        "code": "750109",
+        "name": "Boliohuto (Boliyohuto)",
+        "count": {
+            "desa": 13
+        }
+    },
+    {
+        "code": "750111",
+        "name": "Bongomeme",
+        "count": {
+            "desa": 15
+        }
+    },
+    {
+        "code": "750124",
+        "name": "Dungaliyo",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "750101",
+        "name": "Limboto",
+        "count": {
+            "desa": 14
+        }
+    },
+    {
+        "code": "750117",
+        "name": "Limboto Barat",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "750114",
+        "name": "Mootilango",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "750116",
+        "name": "Pulubala",
+        "count": {
+            "desa": 11
+        }
+    },
+    {
+        "code": "750119",
+        "name": "Tabongo",
+        "count": {
+            "desa": 9
+        }
+    },
+    {
+        "code": "750122",
+        "name": "Talaga Jaya (Telaga Jaya)",
+        "count": {
+            "desa": 5
+        }
+    },
+    {
+        "code": "750102",
+        "name": "Telaga",
+        "count": {
+            "desa": 9
+        }
+    },
+    {
+        "code": "750110",
+        "name": "Telaga Biru",
+        "count": {
+            "desa": 15
+        }
+    },
+    {
+        "code": "750104",
+        "name": "Tibawa",
+        "count": {
+            "desa": 16
+        }
+    },
+    {
+        "code": "750118",
+        "name": "Tilango",
+        "count": {
+            "desa": 8
+        }
+    },
+    {
+        "code": "750113",
+        "name": "Tolangohula",
+        "count": {
+            "desa": 15
+        }
+    }
+]

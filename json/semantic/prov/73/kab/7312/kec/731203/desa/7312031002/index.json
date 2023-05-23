@@ -1,0 +1,17 @@
+{
+    "code": "7312031002",
+    "name": "Cabenge",
+    "poscode": "90871",
+    "provinsi": {
+        "code": "73",
+        "name": "Sulawesi Selatan"
+    },
+    "kabupaten": {
+        "code": "7312",
+        "name": "Soppeng"
+    },
+    "kecamatan": {
+        "code": "731203",
+        "name": "Lilirilau (Lili Rilau)"
+    }
+}

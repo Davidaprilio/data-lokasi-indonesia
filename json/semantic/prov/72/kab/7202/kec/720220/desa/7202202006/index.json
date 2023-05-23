@@ -1,0 +1,17 @@
+{
+    "code": "7202202006",
+    "name": "Owini",
+    "poscode": "94662",
+    "provinsi": {
+        "code": "72",
+        "name": "Sulawesi Tengah"
+    },
+    "kabupaten": {
+        "code": "7202",
+        "name": "Poso"
+    },
+    "kecamatan": {
+        "code": "720220",
+        "name": "Pamona Barat"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "3201042012",
+    "name": "Cadasngampar (Cadas Ngampar)",
+    "poscode": "16711",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3201",
+        "name": "Bogor"
+    },
+    "kecamatan": {
+        "code": "320104",
+        "name": "Sukaraja"
+    }
+}

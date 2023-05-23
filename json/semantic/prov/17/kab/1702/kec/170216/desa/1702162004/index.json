@@ -1,0 +1,17 @@
+{
+    "code": "1702162004",
+    "name": "Perbo",
+    "poscode": "39125",
+    "provinsi": {
+        "code": "17",
+        "name": "Bengkulu"
+    },
+    "kabupaten": {
+        "code": "1702",
+        "name": "Rejang Lebong"
+    },
+    "kecamatan": {
+        "code": "170216",
+        "name": "Curup Utara"
+    }
+}

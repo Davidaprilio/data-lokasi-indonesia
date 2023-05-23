@@ -1,0 +1,17 @@
+{
+    "code": "1701052004",
+    "name": "Padang Niur",
+    "poscode": "38511",
+    "provinsi": {
+        "code": "17",
+        "name": "Bengkulu"
+    },
+    "kabupaten": {
+        "code": "1701",
+        "name": "Bengkulu Selatan"
+    },
+    "kecamatan": {
+        "code": "170105",
+        "name": "Kota Manna"
+    }
+}

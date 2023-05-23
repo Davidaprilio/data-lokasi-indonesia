@@ -1,0 +1,17 @@
+{
+    "code": "3372031003",
+    "name": "Pasarkliwon (Pasar Kliwon)",
+    "poscode": "57118",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3372",
+        "name": "Surakarta"
+    },
+    "kecamatan": {
+        "code": "337203",
+        "name": "Pasar Kliwon"
+    }
+}

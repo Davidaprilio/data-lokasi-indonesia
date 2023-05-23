@@ -1,0 +1,17 @@
+{
+    "code": "1101102008",
+    "name": "Mata Le/Ie",
+    "poscode": "23755",
+    "provinsi": {
+        "code": "11",
+        "name": "Aceh (NAD)"
+    },
+    "kabupaten": {
+        "code": "1101",
+        "name": "Aceh Selatan"
+    },
+    "kecamatan": {
+        "code": "110110",
+        "name": "Pasi Raja (Pasie Raja)"
+    }
+}

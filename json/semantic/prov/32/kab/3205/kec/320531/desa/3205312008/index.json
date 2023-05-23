@@ -1,0 +1,17 @@
+{
+    "code": "3205312008",
+    "name": "Sinarjaya",
+    "poscode": "44165",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3205",
+        "name": "Garut"
+    },
+    "kecamatan": {
+        "code": "320531",
+        "name": "Bungbulang"
+    }
+}

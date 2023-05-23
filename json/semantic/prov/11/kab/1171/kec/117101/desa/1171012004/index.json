@@ -1,0 +1,17 @@
+{
+    "code": "1171012004",
+    "name": "Seutui",
+    "poscode": "23243",
+    "provinsi": {
+        "code": "11",
+        "name": "Aceh (NAD)"
+    },
+    "kabupaten": {
+        "code": "1171",
+        "name": "Banda Aceh"
+    },
+    "kecamatan": {
+        "code": "117101",
+        "name": "Baiturrahman"
+    }
+}

@@ -1,0 +1,100 @@
+[
+    {
+        "code": "140808",
+        "name": "Bunga Raya",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "140806",
+        "name": "Dayun",
+        "count": {
+            "desa": 11
+        }
+    },
+    {
+        "code": "140810",
+        "name": "Kandis",
+        "count": {
+            "desa": 11
+        }
+    },
+    {
+        "code": "140807",
+        "name": "Kerinci Kanan",
+        "count": {
+            "desa": 12
+        }
+    },
+    {
+        "code": "140809",
+        "name": "Koto Gasib",
+        "count": {
+            "desa": 11
+        }
+    },
+    {
+        "code": "140811",
+        "name": "Lubuk Dalam",
+        "count": {
+            "desa": 7
+        }
+    },
+    {
+        "code": "140813",
+        "name": "Mempura",
+        "count": {
+            "desa": 8
+        }
+    },
+    {
+        "code": "140803",
+        "name": "Minas",
+        "count": {
+            "desa": 5
+        }
+    },
+    {
+        "code": "140814",
+        "name": "Pusako",
+        "count": {
+            "desa": 7
+        }
+    },
+    {
+        "code": "140812",
+        "name": "Sabak Auh",
+        "count": {
+            "desa": 8
+        }
+    },
+    {
+        "code": "140801",
+        "name": "Siak",
+        "count": {
+            "desa": 8
+        }
+    },
+    {
+        "code": "140802",
+        "name": "Sungai Apit",
+        "count": {
+            "desa": 15
+        }
+    },
+    {
+        "code": "140805",
+        "name": "Sungai Mandau",
+        "count": {
+            "desa": 9
+        }
+    },
+    {
+        "code": "140804",
+        "name": "Tualang",
+        "count": {
+            "desa": 9
+        }
+    }
+]

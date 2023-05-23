@@ -1,0 +1,10 @@
+{
+    "code": "1304",
+    "type": "Kabupaten",
+    "name": "Tanah Datar",
+    "fullname": "Kabupaten Tanah Datar",
+    "jumlah": {
+        "kecamatan": 14,
+        "desa": 75
+    }
+}

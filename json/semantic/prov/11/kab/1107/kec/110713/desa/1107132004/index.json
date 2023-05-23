@@ -1,0 +1,17 @@
+{
+    "code": "1107132004",
+    "name": "Sentosa",
+    "poscode": "24173",
+    "provinsi": {
+        "code": "11",
+        "name": "Aceh (NAD)"
+    },
+    "kabupaten": {
+        "code": "1107",
+        "name": "Pidie"
+    },
+    "kecamatan": {
+        "code": "110713",
+        "name": "Mutiara"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "6472081004",
+    "name": "Mugirejo",
+    "poscode": "75119",
+    "provinsi": {
+        "code": "64",
+        "name": "Kalimantan Timur"
+    },
+    "kabupaten": {
+        "code": "6472",
+        "name": "Samarinda"
+    },
+    "kecamatan": {
+        "code": "647208",
+        "name": "Sungai Pinang"
+    }
+}

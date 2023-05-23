@@ -1,0 +1,17 @@
+{
+    "code": "6304032012",
+    "name": "Pandan Sari",
+    "poscode": "70565",
+    "provinsi": {
+        "code": "63",
+        "name": "Kalimantan Selatan"
+    },
+    "kabupaten": {
+        "code": "6304",
+        "name": "Barito Kuala"
+    },
+    "kecamatan": {
+        "code": "630403",
+        "name": "Anjir Pasar"
+    }
+}

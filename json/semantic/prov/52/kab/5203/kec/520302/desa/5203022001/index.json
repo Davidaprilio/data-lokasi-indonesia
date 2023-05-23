@@ -1,0 +1,17 @@
+{
+    "code": "5203022001",
+    "name": "Suwangi (Suangi)",
+    "poscode": "83671",
+    "provinsi": {
+        "code": "52",
+        "name": "Nusa Tenggara Barat (NTB)"
+    },
+    "kabupaten": {
+        "code": "5203",
+        "name": "Lombok Timur"
+    },
+    "kecamatan": {
+        "code": "520302",
+        "name": "Sakra"
+    }
+}

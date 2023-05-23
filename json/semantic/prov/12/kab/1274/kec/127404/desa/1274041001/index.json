@@ -1,0 +1,17 @@
+{
+    "code": "1274041001",
+    "name": "Sei Merbau",
+    "poscode": "21334",
+    "provinsi": {
+        "code": "12",
+        "name": "Sumatera Utara"
+    },
+    "kabupaten": {
+        "code": "1274",
+        "name": "Tanjung Balai"
+    },
+    "kecamatan": {
+        "code": "127404",
+        "name": "Teluk Nibung"
+    }
+}

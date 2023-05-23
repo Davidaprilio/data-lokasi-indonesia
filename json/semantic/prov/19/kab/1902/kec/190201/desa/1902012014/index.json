@@ -1,0 +1,17 @@
+{
+    "code": "1902012014",
+    "name": "Aik Ketekok",
+    "poscode": "33411",
+    "provinsi": {
+        "code": "19",
+        "name": "Kepulauan Bangka Belitung"
+    },
+    "kabupaten": {
+        "code": "1902",
+        "name": "Belitung"
+    },
+    "kecamatan": {
+        "code": "190201",
+        "name": "Tanjung Pandan"
+    }
+}

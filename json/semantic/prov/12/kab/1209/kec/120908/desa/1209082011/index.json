@@ -1,0 +1,17 @@
+{
+    "code": "1209082011",
+    "name": "Sei Beluru",
+    "poscode": "21264",
+    "provinsi": {
+        "code": "12",
+        "name": "Sumatera Utara"
+    },
+    "kabupaten": {
+        "code": "1209",
+        "name": "Asahan"
+    },
+    "kecamatan": {
+        "code": "120908",
+        "name": "Meranti"
+    }
+}

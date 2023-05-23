@@ -1,0 +1,17 @@
+{
+    "code": "3312242003",
+    "name": "Paranggupito",
+    "poscode": "57679",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3312",
+        "name": "Wonogiri"
+    },
+    "kecamatan": {
+        "code": "331224",
+        "name": "Paranggupito"
+    }
+}

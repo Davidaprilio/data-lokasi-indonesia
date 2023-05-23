@@ -1,0 +1,17 @@
+{
+    "code": "7405012006",
+    "name": "Asingi",
+    "poscode": "93886",
+    "provinsi": {
+        "code": "74",
+        "name": "Sulawesi Tenggara"
+    },
+    "kabupaten": {
+        "code": "7405",
+        "name": "Konawe Selatan"
+    },
+    "kecamatan": {
+        "code": "740501",
+        "name": "Tinanggea"
+    }
+}

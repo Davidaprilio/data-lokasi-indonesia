@@ -1,0 +1,17 @@
+{
+    "code": "7171081004",
+    "name": "Kima Atas",
+    "poscode": "95259",
+    "provinsi": {
+        "code": "71",
+        "name": "Sulawesi Utara"
+    },
+    "kabupaten": {
+        "code": "7171",
+        "name": "Manado"
+    },
+    "kecamatan": {
+        "code": "717108",
+        "name": "Mapanget"
+    }
+}

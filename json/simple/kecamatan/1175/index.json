@@ -1,0 +1,37 @@
+[
+    {
+        "code": "117505",
+        "name": "Longkib",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "117502",
+        "name": "Penanggalan",
+        "count": {
+            "desa": 13
+        }
+    },
+    {
+        "code": "117503",
+        "name": "Rundeng",
+        "count": {
+            "desa": 23
+        }
+    },
+    {
+        "code": "117501",
+        "name": "Simpang Kiri",
+        "count": {
+            "desa": 17
+        }
+    },
+    {
+        "code": "117504",
+        "name": "Sultan Daulat",
+        "count": {
+            "desa": 19
+        }
+    }
+]

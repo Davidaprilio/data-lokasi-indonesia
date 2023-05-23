@@ -1,0 +1,17 @@
+{
+    "code": "5271021008",
+    "name": "Pagutan",
+    "poscode": "83117",
+    "provinsi": {
+        "code": "52",
+        "name": "Nusa Tenggara Barat (NTB)"
+    },
+    "kabupaten": {
+        "code": "5271",
+        "name": "Mataram"
+    },
+    "kecamatan": {
+        "code": "527102",
+        "name": "Mataram"
+    }
+}

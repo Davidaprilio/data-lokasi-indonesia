@@ -1,0 +1,17 @@
+{
+    "code": "7571011001",
+    "name": "Dembe I",
+    "poscode": "96131",
+    "provinsi": {
+        "code": "75",
+        "name": "Gorontalo"
+    },
+    "kabupaten": {
+        "code": "7571",
+        "name": "Gorontalo"
+    },
+    "kecamatan": {
+        "code": "757101",
+        "name": "Kota Barat"
+    }
+}

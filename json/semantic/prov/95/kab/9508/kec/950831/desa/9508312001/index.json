@@ -1,0 +1,17 @@
+{
+    "code": "9508312001",
+    "name": "Krepkuri",
+    "poscode": "99924",
+    "provinsi": {
+        "code": "95",
+        "name": "Papua Pegunungan"
+    },
+    "kabupaten": {
+        "code": "9508",
+        "name": "Nduga"
+    },
+    "kecamatan": {
+        "code": "950831",
+        "name": "Krepkuri"
+    }
+}

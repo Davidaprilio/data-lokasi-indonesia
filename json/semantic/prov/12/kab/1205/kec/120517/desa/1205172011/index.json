@@ -1,0 +1,17 @@
+{
+    "code": "1205172011",
+    "name": "Mekar Makmur",
+    "poscode": "20776",
+    "provinsi": {
+        "code": "12",
+        "name": "Sumatera Utara"
+    },
+    "kabupaten": {
+        "code": "1205",
+        "name": "Langkat"
+    },
+    "kecamatan": {
+        "code": "120517",
+        "name": "Sei Lepan"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "1108122028",
+    "name": "Blang Bidok",
+    "poscode": "24387",
+    "provinsi": {
+        "code": "11",
+        "name": "Aceh (NAD)"
+    },
+    "kabupaten": {
+        "code": "1108",
+        "name": "Aceh Utara"
+    },
+    "kecamatan": {
+        "code": "110812",
+        "name": "Tanah Luas"
+    }
+}

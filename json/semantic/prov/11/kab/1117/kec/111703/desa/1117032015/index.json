@@ -1,0 +1,17 @@
+{
+    "code": "1117032015",
+    "name": "Uning",
+    "poscode": "24586",
+    "provinsi": {
+        "code": "11",
+        "name": "Aceh (NAD)"
+    },
+    "kabupaten": {
+        "code": "1117",
+        "name": "Bener Meriah"
+    },
+    "kecamatan": {
+        "code": "111703",
+        "name": "Syiah Utama"
+    }
+}

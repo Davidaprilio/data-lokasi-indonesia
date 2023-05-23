@@ -1,0 +1,17 @@
+{
+    "code": "1116082005",
+    "name": "Suka Rahmat",
+    "poscode": "24474",
+    "provinsi": {
+        "code": "11",
+        "name": "Aceh (NAD)"
+    },
+    "kabupaten": {
+        "code": "1116",
+        "name": "Aceh Tamiang"
+    },
+    "kecamatan": {
+        "code": "111608",
+        "name": "Rantau"
+    }
+}

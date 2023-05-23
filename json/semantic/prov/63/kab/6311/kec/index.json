@@ -1,0 +1,58 @@
+[
+    {
+        "code": "631103",
+        "name": "Awayan",
+        "count": {
+            "desa": 23
+        }
+    },
+    {
+        "code": "631104",
+        "name": "Batu Mandi",
+        "count": {
+            "desa": 18
+        }
+    },
+    {
+        "code": "631102",
+        "name": "Halong",
+        "count": {
+            "desa": 24
+        }
+    },
+    {
+        "code": "631101",
+        "name": "Juai",
+        "count": {
+            "desa": 21
+        }
+    },
+    {
+        "code": "631105",
+        "name": "Lampihong",
+        "count": {
+            "desa": 27
+        }
+    },
+    {
+        "code": "631106",
+        "name": "Paringin",
+        "count": {
+            "desa": 16
+        }
+    },
+    {
+        "code": "631107",
+        "name": "Paringin Selatan",
+        "count": {
+            "desa": 16
+        }
+    },
+    {
+        "code": "631108",
+        "name": "Tebing Tinggi",
+        "count": {
+            "desa": 12
+        }
+    }
+]

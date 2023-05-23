@@ -1,0 +1,17 @@
+{
+    "code": "3211162003",
+    "name": "Pangadegan",
+    "poscode": "45361",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3211",
+        "name": "Sumedang"
+    },
+    "kecamatan": {
+        "code": "321116",
+        "name": "Rancakalong"
+    }
+}

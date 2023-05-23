@@ -1,0 +1,17 @@
+{
+    "code": "6403042003",
+    "name": "Long Ayap",
+    "poscode": "77361",
+    "provinsi": {
+        "code": "64",
+        "name": "Kalimantan Timur"
+    },
+    "kabupaten": {
+        "code": "6403",
+        "name": "Berau"
+    },
+    "kecamatan": {
+        "code": "640304",
+        "name": "Segah"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "1703142008",
+    "name": "Pasar Sebelat",
+    "poscode": "38326",
+    "provinsi": {
+        "code": "17",
+        "name": "Bengkulu"
+    },
+    "kabupaten": {
+        "code": "1703",
+        "name": "Bengkulu Utara"
+    },
+    "kecamatan": {
+        "code": "170314",
+        "name": "Putri Hijau"
+    }
+}

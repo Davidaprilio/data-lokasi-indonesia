@@ -1,0 +1,17 @@
+{
+    "code": "1212242005",
+    "name": "Tangga Batu II",
+    "poscode": "22384",
+    "provinsi": {
+        "code": "12",
+        "name": "Sumatera Utara"
+    },
+    "kabupaten": {
+        "code": "1212",
+        "name": "Toba"
+    },
+    "kecamatan": {
+        "code": "121224",
+        "name": "Parmaksian"
+    }
+}

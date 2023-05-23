@@ -1,0 +1,10 @@
+{
+    "code": "6571",
+    "type": "Kota",
+    "name": "Tarakan",
+    "fullname": "Kota Tarakan",
+    "jumlah": {
+        "kecamatan": 4,
+        "desa": 20
+    }
+}

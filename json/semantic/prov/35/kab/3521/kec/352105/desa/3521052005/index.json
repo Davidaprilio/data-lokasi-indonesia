@@ -1,0 +1,17 @@
+{
+    "code": "3521052005",
+    "name": "Keraswetan (Keras Wetan)",
+    "poscode": "63271",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3521",
+        "name": "Ngawi"
+    },
+    "kecamatan": {
+        "code": "352105",
+        "name": "Geneng"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "code": "7305",
+    "type": "Kabupaten",
+    "name": "Takalar",
+    "fullname": "Kabupaten Takalar",
+    "jumlah": {
+        "kecamatan": 10,
+        "desa": 100
+    }
+}

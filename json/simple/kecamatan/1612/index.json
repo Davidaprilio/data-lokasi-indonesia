@@ -1,0 +1,37 @@
+[
+    {
+        "code": "161204",
+        "name": "Abab",
+        "count": {
+            "desa": 8
+        }
+    },
+    {
+        "code": "161203",
+        "name": "Penukal",
+        "count": {
+            "desa": 13
+        }
+    },
+    {
+        "code": "161202",
+        "name": "Penukal Utara",
+        "count": {
+            "desa": 13
+        }
+    },
+    {
+        "code": "161201",
+        "name": "Talang Ubi",
+        "count": {
+            "desa": 20
+        }
+    },
+    {
+        "code": "161205",
+        "name": "Tanah Abang",
+        "count": {
+            "desa": 17
+        }
+    }
+]

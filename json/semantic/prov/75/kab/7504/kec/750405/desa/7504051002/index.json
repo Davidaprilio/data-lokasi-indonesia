@@ -1,0 +1,17 @@
+{
+    "code": "7504051002",
+    "name": "Pentadu",
+    "poscode": "96362",
+    "provinsi": {
+        "code": "75",
+        "name": "Gorontalo"
+    },
+    "kabupaten": {
+        "code": "7504",
+        "name": "Pahuwato"
+    },
+    "kecamatan": {
+        "code": "750405",
+        "name": "Paguat"
+    }
+}

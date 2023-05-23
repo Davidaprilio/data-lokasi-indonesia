@@ -1,0 +1,17 @@
+{
+    "code": "6213012011",
+    "name": "Haringen",
+    "poscode": "73615",
+    "provinsi": {
+        "code": "62",
+        "name": "Kalimantan Tengah"
+    },
+    "kabupaten": {
+        "code": "6213",
+        "name": "Barito Timur"
+    },
+    "kecamatan": {
+        "code": "621301",
+        "name": "Dusun Timur"
+    }
+}

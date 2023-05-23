@@ -1,0 +1,17 @@
+{
+    "code": "7271031002",
+    "name": "Birobuli Utara",
+    "poscode": "94231",
+    "provinsi": {
+        "code": "72",
+        "name": "Sulawesi Tengah"
+    },
+    "kabupaten": {
+        "code": "7271",
+        "name": "Palu"
+    },
+    "kecamatan": {
+        "code": "727103",
+        "name": "Palu Selatan"
+    }
+}

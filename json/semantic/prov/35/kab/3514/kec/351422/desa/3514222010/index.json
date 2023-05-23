@@ -1,0 +1,17 @@
+{
+    "code": "3514222010",
+    "name": "Wates",
+    "poscode": "67186",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3514",
+        "name": "Pasuruan"
+    },
+    "kecamatan": {
+        "code": "351422",
+        "name": "Lekok"
+    }
+}

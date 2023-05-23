@@ -1,0 +1,17 @@
+{
+    "code": "3215011011",
+    "name": "Nagasari",
+    "poscode": "41312",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3215",
+        "name": "Karawang"
+    },
+    "kecamatan": {
+        "code": "321501",
+        "name": "Karawang Barat"
+    }
+}

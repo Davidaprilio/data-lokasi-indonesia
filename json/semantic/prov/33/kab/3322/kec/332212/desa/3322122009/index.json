@@ -1,0 +1,17 @@
+{
+    "code": "3322122009",
+    "name": "Gogodalem",
+    "poscode": "50772",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3322",
+        "name": "Semarang"
+    },
+    "kecamatan": {
+        "code": "332212",
+        "name": "Bringin"
+    }
+}

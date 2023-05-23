@@ -1,0 +1,17 @@
+{
+    "code": "3526042003",
+    "name": "Gili Barat",
+    "poscode": "69162",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3526",
+        "name": "Bangkalan"
+    },
+    "kecamatan": {
+        "code": "352604",
+        "name": "Kamal"
+    }
+}

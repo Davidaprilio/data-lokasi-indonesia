@@ -1,0 +1,17 @@
+{
+    "code": "3578111002",
+    "name": "Kapasan",
+    "poscode": "60141",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3578",
+        "name": "Surabaya"
+    },
+    "kecamatan": {
+        "code": "357811",
+        "name": "Simokerto"
+    }
+}

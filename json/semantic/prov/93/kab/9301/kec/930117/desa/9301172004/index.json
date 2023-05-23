@@ -1,0 +1,17 @@
+{
+    "code": "9301172004",
+    "name": "Ihalik",
+    "poscode": "99636",
+    "provinsi": {
+        "code": "93",
+        "name": "Papua Selatan"
+    },
+    "kabupaten": {
+        "code": "9301",
+        "name": "Merauke"
+    },
+    "kecamatan": {
+        "code": "930117",
+        "name": "Kaptel"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "6106162006",
+    "name": "Nanga Luan",
+    "poscode": "78774",
+    "provinsi": {
+        "code": "61",
+        "name": "Kalimantan Barat"
+    },
+    "kabupaten": {
+        "code": "6106",
+        "name": "Kapuas Hulu"
+    },
+    "kecamatan": {
+        "code": "610616",
+        "name": "Silat Hulu"
+    }
+}

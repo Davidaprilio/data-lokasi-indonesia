@@ -1,0 +1,17 @@
+{
+    "code": "5302032020",
+    "name": "To'manat",
+    "poscode": "85552",
+    "provinsi": {
+        "code": "53",
+        "name": "Nusa Tenggara Timur (NTT)"
+    },
+    "kabupaten": {
+        "code": "5302",
+        "name": "Timor Tengah Selatan"
+    },
+    "kecamatan": {
+        "code": "530203",
+        "name": "Mollo Utara"
+    }
+}

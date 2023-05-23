@@ -1,0 +1,17 @@
+{
+    "code": "6304022007",
+    "name": "Jelapat I",
+    "poscode": "70566",
+    "provinsi": {
+        "code": "63",
+        "name": "Kalimantan Selatan"
+    },
+    "kabupaten": {
+        "code": "6304",
+        "name": "Barito Kuala"
+    },
+    "kecamatan": {
+        "code": "630402",
+        "name": "Tamban"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "3527102011",
+    "name": "Torjunan",
+    "poscode": "69255",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3527",
+        "name": "Sampang"
+    },
+    "kecamatan": {
+        "code": "352710",
+        "name": "Robatal"
+    }
+}

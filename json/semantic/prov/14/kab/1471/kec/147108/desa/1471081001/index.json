@@ -1,0 +1,17 @@
+{
+    "code": "1471081001",
+    "name": "Simpangbaru",
+    "poscode": "28293",
+    "provinsi": {
+        "code": "14",
+        "name": "Riau"
+    },
+    "kabupaten": {
+        "code": "1471",
+        "name": "Pekanbaru"
+    },
+    "kecamatan": {
+        "code": "147108",
+        "name": "Binawidya"
+    }
+}

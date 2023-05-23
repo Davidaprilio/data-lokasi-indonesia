@@ -1,0 +1,17 @@
+{
+    "code": "3603121014",
+    "name": "Kuta Baru",
+    "poscode": "15560",
+    "provinsi": {
+        "code": "36",
+        "name": "Banten"
+    },
+    "kabupaten": {
+        "code": "3603",
+        "name": "Tangerang"
+    },
+    "kecamatan": {
+        "code": "360312",
+        "name": "Pasar Kemis"
+    }
+}

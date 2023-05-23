@@ -1,0 +1,42 @@
+[
+    {
+        "code": "1213212003",
+        "name": "Huta Gambir",
+        "poscode": "22997"
+    },
+    {
+        "code": "1213212005",
+        "name": "Huta Julu",
+        "poscode": "22997"
+    },
+    {
+        "code": "1213212004",
+        "name": "Huta Lancat",
+        "poscode": "22997"
+    },
+    {
+        "code": "1213212007",
+        "name": "Huta Padang",
+        "poscode": "22997"
+    },
+    {
+        "code": "1213212006",
+        "name": "Huta Toras",
+        "poscode": "22997"
+    },
+    {
+        "code": "1213212001",
+        "name": "Pakantan Dolok",
+        "poscode": "22997"
+    },
+    {
+        "code": "1213212002",
+        "name": "Pakantan Lombang",
+        "poscode": "22997"
+    },
+    {
+        "code": "1213212008",
+        "name": "Silogun",
+        "poscode": "22997"
+    }
+]

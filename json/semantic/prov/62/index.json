@@ -1,0 +1,10 @@
+{
+    "code": "62",
+    "name": "Kalimantan Tengah",
+    "jumlah": {
+        "kota": 1,
+        "kabupaten": 13,
+        "kecamatan": 136,
+        "desa": 1
+    }
+}

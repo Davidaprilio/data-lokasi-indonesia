@@ -1,0 +1,17 @@
+{
+    "code": "3278091003",
+    "name": "Bungursari",
+    "poscode": "46151",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3278",
+        "name": "Tasikmalaya"
+    },
+    "kecamatan": {
+        "code": "327809",
+        "name": "Bungursari"
+    }
+}

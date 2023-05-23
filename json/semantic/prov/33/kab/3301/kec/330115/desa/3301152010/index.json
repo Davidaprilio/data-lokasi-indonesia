@@ -1,0 +1,17 @@
+{
+    "code": "3301152010",
+    "name": "Cigintung",
+    "poscode": "53222",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3301",
+        "name": "Cilacap"
+    },
+    "kecamatan": {
+        "code": "330115",
+        "name": "Wanareja"
+    }
+}

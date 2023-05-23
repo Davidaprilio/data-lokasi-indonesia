@@ -1,0 +1,17 @@
+{
+    "code": "9210052003",
+    "name": "Fatase",
+    "poscode": "98262",
+    "provinsi": {
+        "code": "96",
+        "name": "Papua Barat Daya"
+    },
+    "kabupaten": {
+        "code": "9210",
+        "name": "Maybrat"
+    },
+    "kecamatan": {
+        "code": "921005",
+        "name": "Aitinyo Barat"
+    }
+}

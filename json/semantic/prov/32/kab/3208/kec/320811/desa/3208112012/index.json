@@ -1,0 +1,17 @@
+{
+    "code": "3208112012",
+    "name": "Bunder",
+    "poscode": "45595",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3208",
+        "name": "Kuningan"
+    },
+    "kecamatan": {
+        "code": "320811",
+        "name": "Cidahu"
+    }
+}

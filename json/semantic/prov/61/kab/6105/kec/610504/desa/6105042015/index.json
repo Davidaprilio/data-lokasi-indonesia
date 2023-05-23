@@ -1,0 +1,17 @@
+{
+    "code": "6105042015",
+    "name": "Batu Ampar",
+    "poscode": "78652",
+    "provinsi": {
+        "code": "61",
+        "name": "Kalimantan Barat"
+    },
+    "kabupaten": {
+        "code": "6105",
+        "name": "Sintang"
+    },
+    "kecamatan": {
+        "code": "610504",
+        "name": "Ketungau Hilir"
+    }
+}

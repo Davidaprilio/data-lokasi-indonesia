@@ -1,0 +1,17 @@
+{
+    "code": "1224022009",
+    "name": "Hiliduruwa",
+    "poscode": "22852",
+    "provinsi": {
+        "code": "12",
+        "name": "Sumatera Utara"
+    },
+    "kabupaten": {
+        "code": "1224",
+        "name": "Nias Utara"
+    },
+    "kecamatan": {
+        "code": "122402",
+        "name": "Sawo"
+    }
+}

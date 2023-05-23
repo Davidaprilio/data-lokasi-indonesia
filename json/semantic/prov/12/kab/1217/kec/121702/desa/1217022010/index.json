@@ -1,0 +1,17 @@
+{
+    "code": "1217022010",
+    "name": "Silima Lombu",
+    "poscode": "22398",
+    "provinsi": {
+        "code": "12",
+        "name": "Sumatera Utara"
+    },
+    "kabupaten": {
+        "code": "1217",
+        "name": "Samosir"
+    },
+    "kecamatan": {
+        "code": "121702",
+        "name": "Onan Runggu"
+    }
+}

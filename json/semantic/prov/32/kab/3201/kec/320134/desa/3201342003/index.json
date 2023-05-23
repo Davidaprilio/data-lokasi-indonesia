@@ -1,0 +1,17 @@
+{
+    "code": "3201342003",
+    "name": "Pasirgaok",
+    "poscode": "16311",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3201",
+        "name": "Bogor"
+    },
+    "kecamatan": {
+        "code": "320134",
+        "name": "Ranca Bungur"
+    }
+}

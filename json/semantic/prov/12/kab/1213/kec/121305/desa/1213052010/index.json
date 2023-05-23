@@ -1,0 +1,17 @@
+{
+    "code": "1213052010",
+    "name": "Batang Gadis Jae",
+    "poscode": "22911",
+    "provinsi": {
+        "code": "12",
+        "name": "Sumatera Utara"
+    },
+    "kabupaten": {
+        "code": "1213",
+        "name": "Mandailing Natal"
+    },
+    "kecamatan": {
+        "code": "121305",
+        "name": "Panyabungan Barat"
+    }
+}

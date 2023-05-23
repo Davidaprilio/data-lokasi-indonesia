@@ -1,0 +1,17 @@
+{
+    "code": "1105112023",
+    "name": "Blang Luah Kb",
+    "poscode": "23683",
+    "provinsi": {
+        "code": "11",
+        "name": "Aceh (NAD)"
+    },
+    "kabupaten": {
+        "code": "1105",
+        "name": "Aceh Barat"
+    },
+    "kecamatan": {
+        "code": "110511",
+        "name": "Woyla Timur"
+    }
+}

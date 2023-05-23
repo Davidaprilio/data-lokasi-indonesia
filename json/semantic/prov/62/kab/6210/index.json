@@ -1,0 +1,10 @@
+{
+    "code": "6210",
+    "type": "Kabupaten",
+    "name": "Gunung Mas",
+    "fullname": "Kabupaten Gunung Mas",
+    "jumlah": {
+        "kecamatan": 12,
+        "desa": 127
+    }
+}

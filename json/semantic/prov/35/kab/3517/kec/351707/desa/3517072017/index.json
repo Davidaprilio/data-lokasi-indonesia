@@ -1,0 +1,17 @@
+{
+    "code": "3517072017",
+    "name": "Sukomulyo",
+    "poscode": "61475",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3517",
+        "name": "Jombang"
+    },
+    "kecamatan": {
+        "code": "351707",
+        "name": "Mojowarno"
+    }
+}

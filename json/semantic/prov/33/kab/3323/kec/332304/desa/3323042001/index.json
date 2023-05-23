@@ -1,0 +1,17 @@
+{
+    "code": "3323042001",
+    "name": "Pringsurat",
+    "poscode": "56272",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3323",
+        "name": "Temanggung"
+    },
+    "kecamatan": {
+        "code": "332304",
+        "name": "Pringsurat"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "3524122003",
+    "name": "Kedungdadi",
+    "poscode": "62256",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3524",
+        "name": "Lamongan"
+    },
+    "kecamatan": {
+        "code": "352412",
+        "name": "Sugio"
+    }
+}

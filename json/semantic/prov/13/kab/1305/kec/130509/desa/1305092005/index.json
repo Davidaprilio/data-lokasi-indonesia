@@ -1,0 +1,17 @@
+{
+    "code": "1305092005",
+    "name": "Balai Baiak Malai III Koto",
+    "poscode": "25564",
+    "provinsi": {
+        "code": "13",
+        "name": "Sumatera Barat"
+    },
+    "kabupaten": {
+        "code": "1305",
+        "name": "Padang Pariaman"
+    },
+    "kecamatan": {
+        "code": "130509",
+        "name": "IV Koto Aur Malintang"
+    }
+}

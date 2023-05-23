@@ -1,0 +1,17 @@
+{
+    "code": "1802052009",
+    "name": "Purwo Adi (Purwoadi)",
+    "poscode": "34172",
+    "provinsi": {
+        "code": "18",
+        "name": "Lampung"
+    },
+    "kabupaten": {
+        "code": "1802",
+        "name": "Lampung Tengah"
+    },
+    "kecamatan": {
+        "code": "180205",
+        "name": "Trimurjo"
+    }
+}

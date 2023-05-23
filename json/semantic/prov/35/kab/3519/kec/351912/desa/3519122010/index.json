@@ -1,0 +1,17 @@
+{
+    "code": "3519122010",
+    "name": "Sumbersari",
+    "poscode": "63155",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3519",
+        "name": "Madiun"
+    },
+    "kecamatan": {
+        "code": "351912",
+        "name": "Saradan"
+    }
+}

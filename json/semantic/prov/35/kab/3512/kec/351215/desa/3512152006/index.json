@@ -1,0 +1,17 @@
+{
+    "code": "3512152006",
+    "name": "Alastengah (Alas Tengah)",
+    "poscode": "68355",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3512",
+        "name": "Situbondo"
+    },
+    "kecamatan": {
+        "code": "351215",
+        "name": "Sumbermalang"
+    }
+}

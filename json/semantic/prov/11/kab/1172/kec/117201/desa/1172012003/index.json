@@ -1,0 +1,17 @@
+{
+    "code": "1172012003",
+    "name": "Paya Seunara",
+    "poscode": "23516",
+    "provinsi": {
+        "code": "11",
+        "name": "Aceh (NAD)"
+    },
+    "kabupaten": {
+        "code": "1172",
+        "name": "Sabang"
+    },
+    "kecamatan": {
+        "code": "117201",
+        "name": "Sukakarya"
+    }
+}

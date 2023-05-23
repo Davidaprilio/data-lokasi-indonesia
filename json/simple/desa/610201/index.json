@@ -1,0 +1,42 @@
+[
+    {
+        "code": "6102012013",
+        "name": "Kuala Secapah",
+        "poscode": "78914"
+    },
+    {
+        "code": "6102012015",
+        "name": "Malikian",
+        "poscode": "78919"
+    },
+    {
+        "code": "6102012003",
+        "name": "Pasir",
+        "poscode": "78919"
+    },
+    {
+        "code": "6102012002",
+        "name": "Penibung (Penibungan)",
+        "poscode": "78919"
+    },
+    {
+        "code": "6102012001",
+        "name": "Sengkubang",
+        "poscode": "78919"
+    },
+    {
+        "code": "6102011006",
+        "name": "Tanjung",
+        "poscode": "78913"
+    },
+    {
+        "code": "6102011007",
+        "name": "Tengah",
+        "poscode": "78911"
+    },
+    {
+        "code": "6102011009",
+        "name": "Terusan",
+        "poscode": "78912"
+    }
+]

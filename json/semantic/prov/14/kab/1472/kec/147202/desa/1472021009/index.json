@@ -1,0 +1,17 @@
+{
+    "code": "1472021009",
+    "name": "Bukit Batrem",
+    "poscode": "28811",
+    "provinsi": {
+        "code": "14",
+        "name": "Riau"
+    },
+    "kabupaten": {
+        "code": "1472",
+        "name": "Dumai"
+    },
+    "kecamatan": {
+        "code": "147202",
+        "name": "Dumai Timur"
+    }
+}

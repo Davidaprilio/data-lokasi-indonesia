@@ -1,0 +1,17 @@
+{
+    "code": "1212062008",
+    "name": "Janji Maria",
+    "poscode": "22383",
+    "provinsi": {
+        "code": "12",
+        "name": "Sumatera Utara"
+    },
+    "kabupaten": {
+        "code": "1212",
+        "name": "Toba"
+    },
+    "kecamatan": {
+        "code": "121206",
+        "name": "Borbor"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "9211042003",
+    "name": "Tubes",
+    "poscode": "98326",
+    "provinsi": {
+        "code": "92",
+        "name": "Papua Barat"
+    },
+    "kabupaten": {
+        "code": "9211",
+        "name": "Manokwari Selatan"
+    },
+    "kecamatan": {
+        "code": "921104",
+        "name": "Dataran Isim"
+    }
+}

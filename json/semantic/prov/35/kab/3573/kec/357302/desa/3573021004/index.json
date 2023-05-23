@@ -1,0 +1,17 @@
+{
+    "code": "3573021004",
+    "name": "Kiduldalem (Kidul Dalem)",
+    "poscode": "65119",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3573",
+        "name": "Malang"
+    },
+    "kecamatan": {
+        "code": "357302",
+        "name": "Klojen"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "3205302003",
+    "name": "Kertamukti",
+    "poscode": "44177",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3205",
+        "name": "Garut"
+    },
+    "kecamatan": {
+        "code": "320530",
+        "name": "Cikelet"
+    }
+}

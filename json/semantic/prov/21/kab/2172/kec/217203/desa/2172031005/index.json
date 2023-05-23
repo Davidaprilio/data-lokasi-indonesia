@@ -1,0 +1,17 @@
+{
+    "code": "2172031005",
+    "name": "Kampung Bugis",
+    "poscode": "29115",
+    "provinsi": {
+        "code": "21",
+        "name": "Kepulauan Riau"
+    },
+    "kabupaten": {
+        "code": "2172",
+        "name": "Tanjung Pinang"
+    },
+    "kecamatan": {
+        "code": "217203",
+        "name": "Tanjung Pinang Kota"
+    }
+}

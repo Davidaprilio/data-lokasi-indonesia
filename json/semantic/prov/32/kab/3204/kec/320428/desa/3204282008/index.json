@@ -1,0 +1,17 @@
+{
+    "code": "3204282008",
+    "name": "Haurpugur",
+    "poscode": "40394",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3204",
+        "name": "Bandung"
+    },
+    "kecamatan": {
+        "code": "320428",
+        "name": "Rancaekek"
+    }
+}

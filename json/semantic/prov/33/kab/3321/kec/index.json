@@ -1,0 +1,100 @@
+[
+    {
+        "code": "332112",
+        "name": "Bonang",
+        "count": {
+            "desa": 21
+        }
+    },
+    {
+        "code": "332111",
+        "name": "Demak",
+        "count": {
+            "desa": 19
+        }
+    },
+    {
+        "code": "332107",
+        "name": "Dempet",
+        "count": {
+            "desa": 16
+        }
+    },
+    {
+        "code": "332108",
+        "name": "Gajah",
+        "count": {
+            "desa": 18
+        }
+    },
+    {
+        "code": "332103",
+        "name": "Guntur",
+        "count": {
+            "desa": 20
+        }
+    },
+    {
+        "code": "332109",
+        "name": "Karanganyar",
+        "count": {
+            "desa": 17
+        }
+    },
+    {
+        "code": "332102",
+        "name": "Karangawen",
+        "count": {
+            "desa": 12
+        }
+    },
+    {
+        "code": "332105",
+        "name": "Karangtengah (Karang Tengah)",
+        "count": {
+            "desa": 17
+        }
+    },
+    {
+        "code": "332114",
+        "name": "Kebonagung",
+        "count": {
+            "desa": 14
+        }
+    },
+    {
+        "code": "332110",
+        "name": "Mijen",
+        "count": {
+            "desa": 15
+        }
+    },
+    {
+        "code": "332101",
+        "name": "Mranggen",
+        "count": {
+            "desa": 19
+        }
+    },
+    {
+        "code": "332104",
+        "name": "Sayung",
+        "count": {
+            "desa": 20
+        }
+    },
+    {
+        "code": "332113",
+        "name": "Wedung",
+        "count": {
+            "desa": 20
+        }
+    },
+    {
+        "code": "332106",
+        "name": "Wonosalam",
+        "count": {
+            "desa": 21
+        }
+    }
+]

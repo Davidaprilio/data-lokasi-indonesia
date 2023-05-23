@@ -1,0 +1,17 @@
+{
+    "code": "7471061003",
+    "name": "Abeli",
+    "poscode": "93234",
+    "provinsi": {
+        "code": "74",
+        "name": "Sulawesi Tenggara"
+    },
+    "kabupaten": {
+        "code": "7471",
+        "name": "Kendari"
+    },
+    "kecamatan": {
+        "code": "747106",
+        "name": "Abeli"
+    }
+}

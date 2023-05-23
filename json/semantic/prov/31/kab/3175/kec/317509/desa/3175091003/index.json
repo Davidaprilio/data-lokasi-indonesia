@@ -1,0 +1,17 @@
+{
+    "code": "3175091003",
+    "name": "Kelapa Dua Wetan",
+    "poscode": "13730",
+    "provinsi": {
+        "code": "31",
+        "name": "DKI Jakarta"
+    },
+    "kabupaten": {
+        "code": "3175",
+        "name": "Jakarta Timur"
+    },
+    "kecamatan": {
+        "code": "317509",
+        "name": "Ciracas"
+    }
+}

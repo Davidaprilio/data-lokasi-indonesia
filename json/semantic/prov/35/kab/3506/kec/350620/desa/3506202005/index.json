@@ -1,0 +1,17 @@
+{
+    "code": "3506202005",
+    "name": "Kedungsari",
+    "poscode": "64152",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3506",
+        "name": "Kediri"
+    },
+    "kecamatan": {
+        "code": "350620",
+        "name": "Tarokan"
+    }
+}

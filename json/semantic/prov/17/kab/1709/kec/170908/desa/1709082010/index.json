@@ -1,0 +1,17 @@
+{
+    "code": "1709082010",
+    "name": "Lubuk Puar",
+    "poscode": "38383",
+    "provinsi": {
+        "code": "17",
+        "name": "Bengkulu"
+    },
+    "kabupaten": {
+        "code": "1709",
+        "name": "Bengkulu Tengah"
+    },
+    "kecamatan": {
+        "code": "170908",
+        "name": "Merigi Sakti"
+    }
+}

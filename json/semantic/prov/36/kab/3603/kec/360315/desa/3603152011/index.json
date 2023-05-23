@@ -1,0 +1,17 @@
+{
+    "code": "3603152011",
+    "name": "Surya Bahari",
+    "poscode": "15570",
+    "provinsi": {
+        "code": "36",
+        "name": "Banten"
+    },
+    "kabupaten": {
+        "code": "3603",
+        "name": "Tangerang"
+    },
+    "kecamatan": {
+        "code": "360315",
+        "name": "Pakuhaji"
+    }
+}

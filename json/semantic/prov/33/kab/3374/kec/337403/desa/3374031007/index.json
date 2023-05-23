@@ -1,0 +1,17 @@
+{
+    "code": "3374031007",
+    "name": "Sarirejo",
+    "poscode": "50124",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3374",
+        "name": "Semarang"
+    },
+    "kecamatan": {
+        "code": "337403",
+        "name": "Semarang Timur"
+    }
+}

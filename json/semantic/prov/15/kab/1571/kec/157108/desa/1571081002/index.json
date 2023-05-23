@@ -1,0 +1,17 @@
+{
+    "code": "1571081002",
+    "name": "Cempaka Putih",
+    "poscode": "36134",
+    "provinsi": {
+        "code": "15",
+        "name": "Jambi"
+    },
+    "kabupaten": {
+        "code": "1571",
+        "name": "Jambi"
+    },
+    "kecamatan": {
+        "code": "157108",
+        "name": "Jelutung"
+    }
+}

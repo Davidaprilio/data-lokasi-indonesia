@@ -1,0 +1,17 @@
+{
+    "code": "3512032007",
+    "name": "Buduan",
+    "poscode": "68354",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3512",
+        "name": "Situbondo"
+    },
+    "kecamatan": {
+        "code": "351203",
+        "name": "Suboh"
+    }
+}

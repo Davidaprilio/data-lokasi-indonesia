@@ -1,0 +1,17 @@
+{
+    "code": "7503162002",
+    "name": "Toluwaya (Tuloa)",
+    "poscode": "96542",
+    "provinsi": {
+        "code": "75",
+        "name": "Gorontalo"
+    },
+    "kabupaten": {
+        "code": "7503",
+        "name": "Bone Bolango"
+    },
+    "kecamatan": {
+        "code": "750316",
+        "name": "Bulango Timur"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "3302092003",
+    "name": "Somagede",
+    "poscode": "53193",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3302",
+        "name": "Banyumas"
+    },
+    "kecamatan": {
+        "code": "330209",
+        "name": "Somagede"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "7322142002",
+    "name": "Marannu",
+    "poscode": "92965",
+    "provinsi": {
+        "code": "73",
+        "name": "Sulawesi Selatan"
+    },
+    "kabupaten": {
+        "code": "7322",
+        "name": "Luwu Utara"
+    },
+    "kecamatan": {
+        "code": "732214",
+        "name": "Baebunta Selatan"
+    }
+}

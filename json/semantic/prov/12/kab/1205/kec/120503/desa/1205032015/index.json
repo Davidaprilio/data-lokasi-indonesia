@@ -1,0 +1,17 @@
+{
+    "code": "1205032015",
+    "name": "Perkebunan Bekiun",
+    "poscode": "20772",
+    "provinsi": {
+        "code": "12",
+        "name": "Sumatera Utara"
+    },
+    "kabupaten": {
+        "code": "1205",
+        "name": "Langkat"
+    },
+    "kecamatan": {
+        "code": "120503",
+        "name": "Kuala"
+    }
+}

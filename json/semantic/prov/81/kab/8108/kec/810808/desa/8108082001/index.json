@@ -1,0 +1,17 @@
+{
+    "code": "8108082001",
+    "name": "Laitutun",
+    "poscode": "97444",
+    "provinsi": {
+        "code": "81",
+        "name": "Maluku"
+    },
+    "kabupaten": {
+        "code": "8108",
+        "name": "Maluku Barat Daya"
+    },
+    "kecamatan": {
+        "code": "810808",
+        "name": "Pulau Leti / Letti (Leti Moa Lakor)"
+    }
+}

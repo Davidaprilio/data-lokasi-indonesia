@@ -1,0 +1,17 @@
+{
+    "code": "1117012010",
+    "name": "Pantan Lah",
+    "poscode": "24554",
+    "provinsi": {
+        "code": "11",
+        "name": "Aceh (NAD)"
+    },
+    "kabupaten": {
+        "code": "1117",
+        "name": "Bener Meriah"
+    },
+    "kecamatan": {
+        "code": "111701",
+        "name": "Pintu Rime Gayo"
+    }
+}

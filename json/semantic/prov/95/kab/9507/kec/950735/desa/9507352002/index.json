@@ -1,0 +1,17 @@
+{
+    "code": "9507352002",
+    "name": "Wiyagi",
+    "poscode": "99577",
+    "provinsi": {
+        "code": "95",
+        "name": "Papua Pegunungan"
+    },
+    "kabupaten": {
+        "code": "9507",
+        "name": "Lanny Jaya"
+    },
+    "kecamatan": {
+        "code": "950735",
+        "name": "Kelulome"
+    }
+}

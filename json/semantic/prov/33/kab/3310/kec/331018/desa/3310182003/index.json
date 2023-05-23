@@ -1,0 +1,17 @@
+{
+    "code": "3310182003",
+    "name": "Kadirejo",
+    "poscode": "57475",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3310",
+        "name": "Klaten"
+    },
+    "kecamatan": {
+        "code": "331018",
+        "name": "Karanganom"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "3317142002",
+    "name": "Jolotundo",
+    "poscode": "59271",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3317",
+        "name": "Rembang"
+    },
+    "kecamatan": {
+        "code": "331714",
+        "name": "Lasem"
+    }
+}

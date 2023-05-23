@@ -1,0 +1,17 @@
+{
+    "code": "6502032009",
+    "name": "Long Belaka Pitau",
+    "poscode": "77563",
+    "provinsi": {
+        "code": "65",
+        "name": "Kalimantan Utara"
+    },
+    "kabupaten": {
+        "code": "6502",
+        "name": "Malinau"
+    },
+    "kecamatan": {
+        "code": "650203",
+        "name": "Pujungan"
+    }
+}

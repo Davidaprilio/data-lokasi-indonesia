@@ -1,0 +1,17 @@
+{
+    "code": "1771011006",
+    "name": "Sumur Dewa",
+    "poscode": "38216",
+    "provinsi": {
+        "code": "17",
+        "name": "Bengkulu"
+    },
+    "kabupaten": {
+        "code": "1771",
+        "name": "Bengkulu"
+    },
+    "kecamatan": {
+        "code": "177101",
+        "name": "Selebar"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "1117042022",
+    "name": "Puja Mulia",
+    "poscode": "24582",
+    "provinsi": {
+        "code": "11",
+        "name": "Aceh (NAD)"
+    },
+    "kabupaten": {
+        "code": "1117",
+        "name": "Bener Meriah"
+    },
+    "kecamatan": {
+        "code": "111704",
+        "name": "Bandar"
+    }
+}

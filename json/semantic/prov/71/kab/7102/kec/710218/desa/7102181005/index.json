@@ -1,0 +1,17 @@
+{
+    "code": "7102181005",
+    "name": "Koya",
+    "poscode": "95618",
+    "provinsi": {
+        "code": "71",
+        "name": "Sulawesi Utara"
+    },
+    "kabupaten": {
+        "code": "7102",
+        "name": "Minahasa"
+    },
+    "kecamatan": {
+        "code": "710218",
+        "name": "Tondano Selatan"
+    }
+}

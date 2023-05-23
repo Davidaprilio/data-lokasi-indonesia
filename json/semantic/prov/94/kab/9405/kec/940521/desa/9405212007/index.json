@@ -1,0 +1,17 @@
+{
+    "code": "9405212007",
+    "name": "Pumbanak",
+    "poscode": "98973",
+    "provinsi": {
+        "code": "94",
+        "name": "Papua Tengah"
+    },
+    "kabupaten": {
+        "code": "9405",
+        "name": "Puncak"
+    },
+    "kecamatan": {
+        "code": "940521",
+        "name": "Lambewi"
+    }
+}

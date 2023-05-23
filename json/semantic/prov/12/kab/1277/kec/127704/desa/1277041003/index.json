@@ -1,0 +1,17 @@
+{
+    "code": "1277041003",
+    "name": "Sabungan Jae",
+    "poscode": "22706",
+    "provinsi": {
+        "code": "12",
+        "name": "Sumatera Utara"
+    },
+    "kabupaten": {
+        "code": "1277",
+        "name": "Padangsidimpuan"
+    },
+    "kecamatan": {
+        "code": "127704",
+        "name": "Padangsidimpuan Hutaimbaru"
+    }
+}

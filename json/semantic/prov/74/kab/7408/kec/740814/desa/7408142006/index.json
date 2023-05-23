@@ -1,0 +1,17 @@
+{
+    "code": "7408142006",
+    "name": "Lapolu",
+    "poscode": "93963",
+    "provinsi": {
+        "code": "74",
+        "name": "Sulawesi Tenggara"
+    },
+    "kabupaten": {
+        "code": "7408",
+        "name": "Kolaka Utara"
+    },
+    "kecamatan": {
+        "code": "740814",
+        "name": "Tiwu"
+    }
+}

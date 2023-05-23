@@ -1,0 +1,17 @@
+{
+    "code": "1312112001",
+    "name": "Sasak",
+    "poscode": "26367",
+    "provinsi": {
+        "code": "13",
+        "name": "Sumatera Barat"
+    },
+    "kabupaten": {
+        "code": "1312",
+        "name": "Pasaman Barat"
+    },
+    "kecamatan": {
+        "code": "131211",
+        "name": "Sasak Ranah Pesisir / Pasisir / Pesisie"
+    }
+}

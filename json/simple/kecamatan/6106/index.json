@@ -1,0 +1,163 @@
+[
+    {
+        "code": "610614",
+        "name": "Badau",
+        "count": {
+            "desa": 9
+        }
+    },
+    {
+        "code": "610612",
+        "name": "Batang Lupar",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "610602",
+        "name": "Bika",
+        "count": {
+            "desa": 8
+        }
+    },
+    {
+        "code": "610619",
+        "name": "Boyan Tanjung",
+        "count": {
+            "desa": 16
+        }
+    },
+    {
+        "code": "610605",
+        "name": "Bunut Hilir",
+        "count": {
+            "desa": 11
+        }
+    },
+    {
+        "code": "610606",
+        "name": "Bunut Hulu",
+        "count": {
+            "desa": 15
+        }
+    },
+    {
+        "code": "610603",
+        "name": "Embaloh Hilir",
+        "count": {
+            "desa": 9
+        }
+    },
+    {
+        "code": "610604",
+        "name": "Embaloh Hulu",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "610613",
+        "name": "Empanang",
+        "count": {
+            "desa": 6
+        }
+    },
+    {
+        "code": "610608",
+        "name": "Hulu Gurung",
+        "count": {
+            "desa": 15
+        }
+    },
+    {
+        "code": "610607",
+        "name": "Jongkong (Jengkong)",
+        "count": {
+            "desa": 14
+        }
+    },
+    {
+        "code": "610618",
+        "name": "Kalis",
+        "count": {
+            "desa": 17
+        }
+    },
+    {
+        "code": "610620",
+        "name": "Mentebah",
+        "count": {
+            "desa": 8
+        }
+    },
+    {
+        "code": "610621",
+        "name": "Pengkadan (Batu Datu)",
+        "count": {
+            "desa": 11
+        }
+    },
+    {
+        "code": "610623",
+        "name": "Puring Kencana",
+        "count": {
+            "desa": 6
+        }
+    },
+    {
+        "code": "610617",
+        "name": "Putussibau Selatan",
+        "count": {
+            "desa": 16
+        }
+    },
+    {
+        "code": "610601",
+        "name": "Putussibau Utara",
+        "count": {
+            "desa": 19
+        }
+    },
+    {
+        "code": "610611",
+        "name": "Seberuang",
+        "count": {
+            "desa": 15
+        }
+    },
+    {
+        "code": "610609",
+        "name": "Selimbau",
+        "count": {
+            "desa": 17
+        }
+    },
+    {
+        "code": "610610",
+        "name": "Semitau",
+        "count": {
+            "desa": 12
+        }
+    },
+    {
+        "code": "610615",
+        "name": "Silat Hilir",
+        "count": {
+            "desa": 13
+        }
+    },
+    {
+        "code": "610616",
+        "name": "Silat Hulu",
+        "count": {
+            "desa": 14
+        }
+    },
+    {
+        "code": "610622",
+        "name": "Suhaid",
+        "count": {
+            "desa": 11
+        }
+    }
+]

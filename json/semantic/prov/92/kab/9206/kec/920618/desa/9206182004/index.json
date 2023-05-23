@@ -1,0 +1,17 @@
+{
+    "code": "9206182004",
+    "name": "Meyorga",
+    "poscode": "98161",
+    "provinsi": {
+        "code": "92",
+        "name": "Papua Barat"
+    },
+    "kabupaten": {
+        "code": "9206",
+        "name": "Teluk Bintuni"
+    },
+    "kecamatan": {
+        "code": "920618",
+        "name": "Biscoop"
+    }
+}

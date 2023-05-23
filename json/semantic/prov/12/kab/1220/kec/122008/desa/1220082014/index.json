@@ -1,0 +1,17 @@
+{
+    "code": "1220082014",
+    "name": "Ulak Tano",
+    "poscode": "22747",
+    "provinsi": {
+        "code": "12",
+        "name": "Sumatera Utara"
+    },
+    "kabupaten": {
+        "code": "1220",
+        "name": "Padang Lawas Utara"
+    },
+    "kecamatan": {
+        "code": "122008",
+        "name": "Simangambat"
+    }
+}

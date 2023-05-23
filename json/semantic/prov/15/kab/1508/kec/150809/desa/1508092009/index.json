@@ -1,0 +1,17 @@
+{
+    "code": "1508092009",
+    "name": "Sumber Mulya",
+    "poscode": "37252",
+    "provinsi": {
+        "code": "15",
+        "name": "Jambi"
+    },
+    "kabupaten": {
+        "code": "1508",
+        "name": "Bungo"
+    },
+    "kecamatan": {
+        "code": "150809",
+        "name": "Pelepat Ilir"
+    }
+}

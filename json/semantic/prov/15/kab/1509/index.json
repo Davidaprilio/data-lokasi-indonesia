@@ -1,0 +1,10 @@
+{
+    "code": "1509",
+    "type": "Kabupaten",
+    "name": "Tebo",
+    "fullname": "Kabupaten Tebo",
+    "jumlah": {
+        "kecamatan": 12,
+        "desa": 112
+    }
+}

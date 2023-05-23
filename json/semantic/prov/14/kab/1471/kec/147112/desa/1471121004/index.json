@@ -1,0 +1,17 @@
+{
+    "code": "1471121004",
+    "name": "Lembah Damai",
+    "poscode": "28263",
+    "provinsi": {
+        "code": "14",
+        "name": "Riau"
+    },
+    "kabupaten": {
+        "code": "1471",
+        "name": "Pekanbaru"
+    },
+    "kecamatan": {
+        "code": "147112",
+        "name": "Rumbai Pesisir"
+    }
+}

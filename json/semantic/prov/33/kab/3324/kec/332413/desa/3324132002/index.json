@@ -1,0 +1,17 @@
+{
+    "code": "3324132002",
+    "name": "Podosari",
+    "poscode": "51352",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3324",
+        "name": "Kendal"
+    },
+    "kecamatan": {
+        "code": "332413",
+        "name": "Cepiring"
+    }
+}

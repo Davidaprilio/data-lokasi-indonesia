@@ -1,0 +1,17 @@
+{
+    "code": "3320162003",
+    "name": "Ujungwatu",
+    "poscode": "59454",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3320",
+        "name": "Jepara"
+    },
+    "kecamatan": {
+        "code": "332016",
+        "name": "Donorojo"
+    }
+}

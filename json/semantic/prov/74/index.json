@@ -1,0 +1,10 @@
+{
+    "code": "74",
+    "name": "Sulawesi Tenggara",
+    "jumlah": {
+        "kota": 2,
+        "kabupaten": 15,
+        "kecamatan": 221,
+        "desa": 2
+    }
+}

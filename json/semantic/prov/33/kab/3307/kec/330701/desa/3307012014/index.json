@@ -1,0 +1,17 @@
+{
+    "code": "3307012014",
+    "name": "Besuki",
+    "poscode": "56365",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3307",
+        "name": "Wonosobo"
+    },
+    "kecamatan": {
+        "code": "330701",
+        "name": "Wadaslintang"
+    }
+}

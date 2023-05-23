@@ -1,0 +1,17 @@
+{
+    "code": "5301092009",
+    "name": "Tesbatan II",
+    "poscode": "85367",
+    "provinsi": {
+        "code": "53",
+        "name": "Nusa Tenggara Timur (NTT)"
+    },
+    "kabupaten": {
+        "code": "5301",
+        "name": "Kupang"
+    },
+    "kecamatan": {
+        "code": "530109",
+        "name": "Amarasi"
+    }
+}

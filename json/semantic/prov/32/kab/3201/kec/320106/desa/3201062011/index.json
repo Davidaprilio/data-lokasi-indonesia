@@ -1,0 +1,17 @@
+{
+    "code": "3201062011",
+    "name": "Singasari",
+    "poscode": "16830",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3201",
+        "name": "Bogor"
+    },
+    "kecamatan": {
+        "code": "320106",
+        "name": "Jonggol"
+    }
+}

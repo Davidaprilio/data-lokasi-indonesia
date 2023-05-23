@@ -1,0 +1,10 @@
+{
+    "code": "1374",
+    "type": "Kota",
+    "name": "Padang Panjang",
+    "fullname": "Kota Padang Panjang",
+    "jumlah": {
+        "kecamatan": 2,
+        "desa": 16
+    }
+}

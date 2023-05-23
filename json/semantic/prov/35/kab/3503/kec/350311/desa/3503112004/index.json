@@ -1,0 +1,17 @@
+{
+    "code": "3503112004",
+    "name": "Karangsoko",
+    "poscode": "66319",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3503",
+        "name": "Trenggalek"
+    },
+    "kecamatan": {
+        "code": "350311",
+        "name": "Trenggalek"
+    }
+}

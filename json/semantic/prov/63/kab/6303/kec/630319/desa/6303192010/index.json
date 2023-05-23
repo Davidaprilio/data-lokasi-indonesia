@@ -1,0 +1,17 @@
+{
+    "code": "6303192010",
+    "name": "Pemangkih Tengah",
+    "poscode": "70650",
+    "provinsi": {
+        "code": "63",
+        "name": "Kalimantan Selatan"
+    },
+    "kabupaten": {
+        "code": "6303",
+        "name": "Banjar"
+    },
+    "kecamatan": {
+        "code": "630319",
+        "name": "Tatah Makmur"
+    }
+}

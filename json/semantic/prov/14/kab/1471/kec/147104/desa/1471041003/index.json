@@ -1,0 +1,17 @@
+{
+    "code": "1471041003",
+    "name": "Pesisir",
+    "poscode": "28144",
+    "provinsi": {
+        "code": "14",
+        "name": "Riau"
+    },
+    "kabupaten": {
+        "code": "1471",
+        "name": "Pekanbaru"
+    },
+    "kecamatan": {
+        "code": "147104",
+        "name": "Lima Puluh"
+    }
+}

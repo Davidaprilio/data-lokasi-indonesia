@@ -1,0 +1,17 @@
+{
+    "code": "3205182002",
+    "name": "Barusuda",
+    "poscode": "44116",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3205",
+        "name": "Garut"
+    },
+    "kecamatan": {
+        "code": "320518",
+        "name": "Cigedug"
+    }
+}

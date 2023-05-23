@@ -1,0 +1,17 @@
+{
+    "code": "5307082008",
+    "name": "Lewomada",
+    "poscode": "86183",
+    "provinsi": {
+        "code": "53",
+        "name": "Nusa Tenggara Timur (NTT)"
+    },
+    "kabupaten": {
+        "code": "5307",
+        "name": "Sikka"
+    },
+    "kecamatan": {
+        "code": "530708",
+        "name": "Talibura"
+    }
+}

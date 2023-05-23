@@ -1,0 +1,17 @@
+{
+    "code": "1117072016",
+    "name": "Datu Beru Tunyang",
+    "poscode": "24555",
+    "provinsi": {
+        "code": "11",
+        "name": "Aceh (NAD)"
+    },
+    "kabupaten": {
+        "code": "1117",
+        "name": "Bener Meriah"
+    },
+    "kecamatan": {
+        "code": "111707",
+        "name": "Timang Gajah"
+    }
+}

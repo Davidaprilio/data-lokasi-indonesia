@@ -1,0 +1,17 @@
+{
+    "code": "3306102015",
+    "name": "Wonorejowetan (Wonorejo Wetan)",
+    "poscode": "54264",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3306",
+        "name": "Purworejo"
+    },
+    "kecamatan": {
+        "code": "330610",
+        "name": "Butuh"
+    }
+}

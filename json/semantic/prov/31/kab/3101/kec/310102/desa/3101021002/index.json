@@ -1,0 +1,17 @@
+{
+    "code": "3101021002",
+    "name": "Pulau Tidung",
+    "poscode": "14520",
+    "provinsi": {
+        "code": "31",
+        "name": "DKI Jakarta"
+    },
+    "kabupaten": {
+        "code": "3101",
+        "name": "Kepulauan Seribu"
+    },
+    "kecamatan": {
+        "code": "310102",
+        "name": "Kepulauan Seribu Selatan"
+    }
+}

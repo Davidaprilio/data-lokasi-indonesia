@@ -1,0 +1,17 @@
+{
+    "code": "7102102019",
+    "name": "Raringis Utara",
+    "poscode": "95694",
+    "provinsi": {
+        "code": "71",
+        "name": "Sulawesi Utara"
+    },
+    "kabupaten": {
+        "code": "7102",
+        "name": "Minahasa"
+    },
+    "kecamatan": {
+        "code": "710210",
+        "name": "Langowan Barat"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "6104172006",
+    "name": "Mayak",
+    "poscode": "78810",
+    "provinsi": {
+        "code": "61",
+        "name": "Kalimantan Barat"
+    },
+    "kabupaten": {
+        "code": "6104",
+        "name": "Ketapang"
+    },
+    "kecamatan": {
+        "code": "610417",
+        "name": "Muara Pawan"
+    }
+}

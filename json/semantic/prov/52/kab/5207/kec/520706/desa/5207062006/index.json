@@ -1,0 +1,17 @@
+{
+    "code": "5207062006",
+    "name": "Kokarlian",
+    "poscode": "84454",
+    "provinsi": {
+        "code": "52",
+        "name": "Nusa Tenggara Barat (NTB)"
+    },
+    "kabupaten": {
+        "code": "5207",
+        "name": "Sumbawa Barat"
+    },
+    "kecamatan": {
+        "code": "520706",
+        "name": "Poto Tano"
+    }
+}

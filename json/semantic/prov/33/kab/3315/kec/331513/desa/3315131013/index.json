@@ -1,0 +1,17 @@
+{
+    "code": "3315131013",
+    "name": "Kuripan",
+    "poscode": "58112",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3315",
+        "name": "Grobogan"
+    },
+    "kecamatan": {
+        "code": "331513",
+        "name": "Purwodadi"
+    }
+}

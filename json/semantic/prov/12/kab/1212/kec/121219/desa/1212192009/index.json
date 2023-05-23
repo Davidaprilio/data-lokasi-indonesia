@@ -1,0 +1,17 @@
+{
+    "code": "1212192009",
+    "name": "Sigumpar Barat",
+    "poscode": "22380",
+    "provinsi": {
+        "code": "12",
+        "name": "Sumatera Utara"
+    },
+    "kabupaten": {
+        "code": "1212",
+        "name": "Toba"
+    },
+    "kecamatan": {
+        "code": "121219",
+        "name": "Sigumpar"
+    }
+}

@@ -1,0 +1,37 @@
+[
+    {
+        "code": "2105012005",
+        "name": "Pesisir Timur",
+        "poscode": "29791"
+    },
+    {
+        "code": "2105012006",
+        "name": "Sri Tanjung",
+        "poscode": "29791"
+    },
+    {
+        "code": "2105011001",
+        "name": "Tarempa",
+        "poscode": "29791"
+    },
+    {
+        "code": "2105012002",
+        "name": "Tarempa Barat",
+        "poscode": "29791"
+    },
+    {
+        "code": "2105012007",
+        "name": "Tarempa Barat Daya",
+        "poscode": "29791"
+    },
+    {
+        "code": "2105012003",
+        "name": "Tarempa Selatan",
+        "poscode": "29791"
+    },
+    {
+        "code": "2105012004",
+        "name": "Tarempa Timur",
+        "poscode": "29791"
+    }
+]

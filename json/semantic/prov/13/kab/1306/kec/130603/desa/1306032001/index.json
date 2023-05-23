@@ -1,0 +1,17 @@
+{
+    "code": "1306032001",
+    "name": "Tanjung Sani",
+    "poscode": "26471",
+    "provinsi": {
+        "code": "13",
+        "name": "Sumatera Barat"
+    },
+    "kabupaten": {
+        "code": "1306",
+        "name": "Agam"
+    },
+    "kecamatan": {
+        "code": "130603",
+        "name": "Tanjung Raya"
+    }
+}

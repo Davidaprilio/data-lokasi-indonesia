@@ -1,0 +1,17 @@
+{
+    "code": "3172011002",
+    "name": "Kamal Muara",
+    "poscode": "14470",
+    "provinsi": {
+        "code": "31",
+        "name": "DKI Jakarta"
+    },
+    "kabupaten": {
+        "code": "3172",
+        "name": "Jakarta Utara"
+    },
+    "kecamatan": {
+        "code": "317201",
+        "name": "Penjaringan"
+    }
+}

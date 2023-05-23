@@ -1,0 +1,17 @@
+{
+    "code": "3215052003",
+    "name": "Walahar",
+    "poscode": "41371",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3215",
+        "name": "Karawang"
+    },
+    "kecamatan": {
+        "code": "321505",
+        "name": "Klari"
+    }
+}

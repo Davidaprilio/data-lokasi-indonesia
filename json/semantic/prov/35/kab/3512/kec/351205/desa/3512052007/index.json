@@ -1,0 +1,17 @@
+{
+    "code": "3512052007",
+    "name": "Klatakan",
+    "poscode": "68352",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3512",
+        "name": "Situbondo"
+    },
+    "kecamatan": {
+        "code": "351205",
+        "name": "Kendit"
+    }
+}

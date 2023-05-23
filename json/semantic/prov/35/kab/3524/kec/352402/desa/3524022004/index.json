@@ -1,0 +1,17 @@
+{
+    "code": "3524022004",
+    "name": "Cangkring",
+    "poscode": "62274",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3524",
+        "name": "Lamongan"
+    },
+    "kecamatan": {
+        "code": "352402",
+        "name": "Bluluk"
+    }
+}

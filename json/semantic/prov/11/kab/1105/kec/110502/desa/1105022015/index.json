@@ -1,0 +1,17 @@
+{
+    "code": "1105022015",
+    "name": "Putim",
+    "poscode": "23681",
+    "provinsi": {
+        "code": "11",
+        "name": "Aceh (NAD)"
+    },
+    "kabupaten": {
+        "code": "1105",
+        "name": "Aceh Barat"
+    },
+    "kecamatan": {
+        "code": "110502",
+        "name": "Kaway XVI"
+    }
+}

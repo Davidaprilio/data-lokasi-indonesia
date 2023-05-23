@@ -1,0 +1,17 @@
+{
+    "code": "6503162009",
+    "name": "Liuk Bulu",
+    "poscode": "77452",
+    "provinsi": {
+        "code": "65",
+        "name": "Kalimantan Utara"
+    },
+    "kabupaten": {
+        "code": "6503",
+        "name": "Nunukan"
+    },
+    "kecamatan": {
+        "code": "650316",
+        "name": "Sembakung Atulai"
+    }
+}

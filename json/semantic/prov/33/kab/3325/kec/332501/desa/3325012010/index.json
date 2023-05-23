@@ -1,0 +1,17 @@
+{
+    "code": "3325012010",
+    "name": "Kemligi",
+    "poscode": "51253",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3325",
+        "name": "Batang"
+    },
+    "kecamatan": {
+        "code": "332501",
+        "name": "Wonotunggal"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "6106202003",
+    "name": "Suka Maju",
+    "poscode": "78757",
+    "provinsi": {
+        "code": "61",
+        "name": "Kalimantan Barat"
+    },
+    "kabupaten": {
+        "code": "6106",
+        "name": "Kapuas Hulu"
+    },
+    "kecamatan": {
+        "code": "610620",
+        "name": "Mentebah"
+    }
+}

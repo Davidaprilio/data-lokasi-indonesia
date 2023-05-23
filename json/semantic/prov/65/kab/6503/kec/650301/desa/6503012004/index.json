@@ -1,0 +1,17 @@
+{
+    "code": "6503012004",
+    "name": "Padaidi",
+    "poscode": "77483",
+    "provinsi": {
+        "code": "65",
+        "name": "Kalimantan Utara"
+    },
+    "kabupaten": {
+        "code": "6503",
+        "name": "Nunukan"
+    },
+    "kecamatan": {
+        "code": "650301",
+        "name": "Sebatik"
+    }
+}

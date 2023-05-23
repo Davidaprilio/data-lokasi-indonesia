@@ -1,0 +1,17 @@
+{
+    "code": "8101112017",
+    "name": "Saunulu",
+    "poscode": "97519",
+    "provinsi": {
+        "code": "81",
+        "name": "Maluku"
+    },
+    "kabupaten": {
+        "code": "8101",
+        "name": "Maluku Tengah"
+    },
+    "kecamatan": {
+        "code": "810111",
+        "name": "Tehoru"
+    }
+}

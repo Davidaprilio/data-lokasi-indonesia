@@ -1,0 +1,17 @@
+{
+    "code": "1117022002",
+    "name": "Bintang Bener",
+    "poscode": "24585",
+    "provinsi": {
+        "code": "11",
+        "name": "Aceh (NAD)"
+    },
+    "kabupaten": {
+        "code": "1117",
+        "name": "Bener Meriah"
+    },
+    "kecamatan": {
+        "code": "111702",
+        "name": "Permata"
+    }
+}

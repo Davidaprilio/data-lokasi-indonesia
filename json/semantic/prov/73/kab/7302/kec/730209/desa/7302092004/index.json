@@ -1,0 +1,17 @@
+{
+    "code": "7302092004",
+    "name": "Balong",
+    "poscode": "92562",
+    "provinsi": {
+        "code": "73",
+        "name": "Sulawesi Selatan"
+    },
+    "kabupaten": {
+        "code": "7302",
+        "name": "Bulukumba"
+    },
+    "kecamatan": {
+        "code": "730209",
+        "name": "Ujungloe (Ujung Loe)"
+    }
+}

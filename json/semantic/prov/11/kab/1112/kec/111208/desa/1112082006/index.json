@@ -1,0 +1,17 @@
+{
+    "code": "1112082006",
+    "name": "Ladang Neubok",
+    "poscode": "23769",
+    "provinsi": {
+        "code": "11",
+        "name": "Aceh (NAD)"
+    },
+    "kabupaten": {
+        "code": "1112",
+        "name": "Aceh Barat Daya"
+    },
+    "kecamatan": {
+        "code": "111208",
+        "name": "Jeumpa"
+    }
+}

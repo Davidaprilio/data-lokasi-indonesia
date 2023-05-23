@@ -1,0 +1,17 @@
+{
+    "code": "1604122020",
+    "name": "Pajar Tinggi",
+    "poscode": "31356",
+    "provinsi": {
+        "code": "16",
+        "name": "Sumatera Selatan"
+    },
+    "kabupaten": {
+        "code": "1604",
+        "name": "Lahat"
+    },
+    "kecamatan": {
+        "code": "160412",
+        "name": "Pajar Bulan"
+    }
+}

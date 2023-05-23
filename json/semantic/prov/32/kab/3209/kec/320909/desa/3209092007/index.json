@@ -1,0 +1,17 @@
+{
+    "code": "3209092007",
+    "name": "Penambangan (Panambangan)",
+    "poscode": "45189",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3209",
+        "name": "Cirebon"
+    },
+    "kecamatan": {
+        "code": "320909",
+        "name": "Sedong"
+    }
+}

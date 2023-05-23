@@ -1,0 +1,17 @@
+{
+    "code": "3211162009",
+    "name": "Cibungur",
+    "poscode": "45361",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3211",
+        "name": "Sumedang"
+    },
+    "kecamatan": {
+        "code": "321116",
+        "name": "Rancakalong"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "1203311001",
+    "name": "Sangkunur",
+    "poscode": "22734",
+    "provinsi": {
+        "code": "12",
+        "name": "Sumatera Utara"
+    },
+    "kabupaten": {
+        "code": "1203",
+        "name": "Tapanuli Selatan"
+    },
+    "kecamatan": {
+        "code": "120331",
+        "name": "Angkola Sangkunur"
+    }
+}

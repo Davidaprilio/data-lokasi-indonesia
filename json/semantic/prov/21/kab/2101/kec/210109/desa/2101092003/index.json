@@ -1,0 +1,17 @@
+{
+    "code": "2101092003",
+    "name": "Kampung Hilir",
+    "poscode": "29193",
+    "provinsi": {
+        "code": "21",
+        "name": "Kepulauan Riau"
+    },
+    "kabupaten": {
+        "code": "2101",
+        "name": "Bintan"
+    },
+    "kecamatan": {
+        "code": "210109",
+        "name": "Tambelan"
+    }
+}

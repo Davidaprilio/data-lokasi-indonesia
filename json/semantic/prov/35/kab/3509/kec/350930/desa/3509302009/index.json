@@ -1,0 +1,17 @@
+{
+    "code": "3509302009",
+    "name": "Sidomulyo",
+    "poscode": "68184",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3509",
+        "name": "Jember"
+    },
+    "kecamatan": {
+        "code": "350930",
+        "name": "Silo"
+    }
+}

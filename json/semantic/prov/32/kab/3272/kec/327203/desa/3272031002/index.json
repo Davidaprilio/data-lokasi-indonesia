@@ -1,0 +1,17 @@
+{
+    "code": "3272031002",
+    "name": "Tipar",
+    "poscode": "43141",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3272",
+        "name": "Sukabumi"
+    },
+    "kecamatan": {
+        "code": "327203",
+        "name": "Citamiang"
+    }
+}

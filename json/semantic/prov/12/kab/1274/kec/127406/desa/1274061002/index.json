@@ -1,0 +1,17 @@
+{
+    "code": "1274061002",
+    "name": "Semula Jadi",
+    "poscode": "21365",
+    "provinsi": {
+        "code": "12",
+        "name": "Sumatera Utara"
+    },
+    "kabupaten": {
+        "code": "1274",
+        "name": "Tanjung Balai"
+    },
+    "kecamatan": {
+        "code": "127406",
+        "name": "Datuk Bandar Timur"
+    }
+}

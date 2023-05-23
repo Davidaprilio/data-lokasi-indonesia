@@ -1,0 +1,17 @@
+{
+    "code": "7210102001",
+    "name": "Lambara",
+    "poscode": "94368",
+    "provinsi": {
+        "code": "72",
+        "name": "Sulawesi Tengah"
+    },
+    "kabupaten": {
+        "code": "7210",
+        "name": "Sigi"
+    },
+    "kecamatan": {
+        "code": "721010",
+        "name": "Tanambulava"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "1603072007",
+    "name": "Darmo",
+    "poscode": "31711",
+    "provinsi": {
+        "code": "16",
+        "name": "Sumatera Selatan"
+    },
+    "kabupaten": {
+        "code": "1603",
+        "name": "Muara Enim"
+    },
+    "kecamatan": {
+        "code": "160307",
+        "name": "Lawang Kidul"
+    }
+}

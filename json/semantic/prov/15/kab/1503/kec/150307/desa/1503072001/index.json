@@ -1,0 +1,17 @@
+{
+    "code": "1503072001",
+    "name": "Lubuk Jering",
+    "poscode": "37490",
+    "provinsi": {
+        "code": "15",
+        "name": "Jambi"
+    },
+    "kabupaten": {
+        "code": "1503",
+        "name": "Sarolangun"
+    },
+    "kecamatan": {
+        "code": "150307",
+        "name": "Air Hitam"
+    }
+}

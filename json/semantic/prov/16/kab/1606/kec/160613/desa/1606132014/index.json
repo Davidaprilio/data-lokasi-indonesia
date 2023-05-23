@@ -1,0 +1,17 @@
+{
+    "code": "1606132014",
+    "name": "Talang Piase",
+    "poscode": "30753",
+    "provinsi": {
+        "code": "16",
+        "name": "Sumatera Selatan"
+    },
+    "kabupaten": {
+        "code": "1606",
+        "name": "Musi Banyuasin"
+    },
+    "kecamatan": {
+        "code": "160613",
+        "name": "Lawang Wetan"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "code": "3576",
+    "type": "Kota",
+    "name": "Mojokerto",
+    "fullname": "Kota Mojokerto",
+    "jumlah": {
+        "kecamatan": 3,
+        "desa": 18
+    }
+}

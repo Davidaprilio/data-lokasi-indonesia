@@ -1,0 +1,17 @@
+{
+    "code": "9508232001",
+    "name": "Paris",
+    "poscode": "99925",
+    "provinsi": {
+        "code": "95",
+        "name": "Papua Pegunungan"
+    },
+    "kabupaten": {
+        "code": "9508",
+        "name": "Nduga"
+    },
+    "kecamatan": {
+        "code": "950823",
+        "name": "Mbua Tengah"
+    }
+}

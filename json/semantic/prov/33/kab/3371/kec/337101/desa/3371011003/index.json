@@ -1,0 +1,17 @@
+{
+    "code": "3371011003",
+    "name": "Rejowinangun Selatan",
+    "poscode": "56124",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3371",
+        "name": "Magelang"
+    },
+    "kecamatan": {
+        "code": "337101",
+        "name": "Magelang Selatan"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "3211012005",
+    "name": "Cikareo Utara",
+    "poscode": "45373",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3211",
+        "name": "Sumedang"
+    },
+    "kecamatan": {
+        "code": "321101",
+        "name": "Wado"
+    }
+}

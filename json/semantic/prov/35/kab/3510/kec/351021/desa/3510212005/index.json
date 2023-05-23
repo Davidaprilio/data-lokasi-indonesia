@@ -1,0 +1,17 @@
+{
+    "code": "3510212005",
+    "name": "Kelir",
+    "poscode": "68455",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3510",
+        "name": "Banyuwangi"
+    },
+    "kecamatan": {
+        "code": "351021",
+        "name": "Kalipuro"
+    }
+}

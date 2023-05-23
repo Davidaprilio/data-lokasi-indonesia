@@ -1,0 +1,17 @@
+{
+    "code": "3322092011",
+    "name": "Mendongan",
+    "poscode": "50662",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3322",
+        "name": "Semarang"
+    },
+    "kecamatan": {
+        "code": "332209",
+        "name": "Sumowono"
+    }
+}

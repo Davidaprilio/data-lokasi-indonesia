@@ -1,0 +1,17 @@
+{
+    "code": "3521112010",
+    "name": "Wonokerto",
+    "poscode": "63254",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3521",
+        "name": "Ngawi"
+    },
+    "kecamatan": {
+        "code": "352111",
+        "name": "Kedunggalar"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "3505012010",
+    "name": "Kunir",
+    "poscode": "66155",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3505",
+        "name": "Blitar"
+    },
+    "kecamatan": {
+        "code": "350501",
+        "name": "Wonodadi"
+    }
+}

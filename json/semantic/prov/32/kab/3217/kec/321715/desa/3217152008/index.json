@@ -1,0 +1,17 @@
+{
+    "code": "3217152008",
+    "name": "Tamanjaya",
+    "poscode": "40565",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3217",
+        "name": "Bandung Barat"
+    },
+    "kecamatan": {
+        "code": "321715",
+        "name": "Gununghalu"
+    }
+}

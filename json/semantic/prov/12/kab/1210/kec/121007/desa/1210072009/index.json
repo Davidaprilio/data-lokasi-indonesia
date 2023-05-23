@@ -1,0 +1,17 @@
+{
+    "code": "1210072009",
+    "name": "Kampung Baru",
+    "poscode": "21415",
+    "provinsi": {
+        "code": "12",
+        "name": "Sumatera Utara"
+    },
+    "kabupaten": {
+        "code": "1210",
+        "name": "Labuhanbatu"
+    },
+    "kecamatan": {
+        "code": "121007",
+        "name": "Bilah Barat"
+    }
+}

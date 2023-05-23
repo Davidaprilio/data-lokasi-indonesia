@@ -1,0 +1,17 @@
+{
+    "code": "3203102001",
+    "name": "Ciherang",
+    "poscode": "43253",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3203",
+        "name": "Cianjur"
+    },
+    "kecamatan": {
+        "code": "320310",
+        "name": "Pacet"
+    }
+}

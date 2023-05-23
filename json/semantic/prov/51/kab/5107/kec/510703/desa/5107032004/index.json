@@ -1,0 +1,17 @@
+{
+    "code": "5107032004",
+    "name": "Manggis",
+    "poscode": "80871",
+    "provinsi": {
+        "code": "51",
+        "name": "Bali"
+    },
+    "kabupaten": {
+        "code": "5107",
+        "name": "Karangasem"
+    },
+    "kecamatan": {
+        "code": "510703",
+        "name": "Manggis"
+    }
+}

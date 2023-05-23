@@ -1,0 +1,17 @@
+{
+    "code": "1802172008",
+    "name": "Putra Lempuyang",
+    "poscode": "35213",
+    "provinsi": {
+        "code": "18",
+        "name": "Lampung"
+    },
+    "kabupaten": {
+        "code": "1802",
+        "name": "Lampung Tengah"
+    },
+    "kecamatan": {
+        "code": "180217",
+        "name": "Way Pangubuan"
+    }
+}

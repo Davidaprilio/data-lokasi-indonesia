@@ -1,0 +1,17 @@
+{
+    "code": "3208172014",
+    "name": "Karangsari",
+    "poscode": "45562",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3208",
+        "name": "Kuningan"
+    },
+    "kecamatan": {
+        "code": "320817",
+        "name": "Darma"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "9110032006",
+    "name": "Samorkena",
+    "poscode": "99375",
+    "provinsi": {
+        "code": "91",
+        "name": "Papua"
+    },
+    "kabupaten": {
+        "code": "9110",
+        "name": "Sarmi"
+    },
+    "kecamatan": {
+        "code": "911003",
+        "name": "Pantai Barat"
+    }
+}

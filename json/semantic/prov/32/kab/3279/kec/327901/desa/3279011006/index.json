@@ -1,0 +1,17 @@
+{
+    "code": "3279011006",
+    "name": "Situbatu",
+    "poscode": "46314",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3279",
+        "name": "Banjar"
+    },
+    "kecamatan": {
+        "code": "327901",
+        "name": "Banjar"
+    }
+}

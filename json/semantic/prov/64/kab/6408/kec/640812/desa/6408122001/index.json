@@ -1,0 +1,17 @@
+{
+    "code": "6408122001",
+    "name": "Sangatta Selatan (Sangata Selatan)",
+    "poscode": "75680",
+    "provinsi": {
+        "code": "64",
+        "name": "Kalimantan Timur"
+    },
+    "kabupaten": {
+        "code": "6408",
+        "name": "Kutai Timur"
+    },
+    "kecamatan": {
+        "code": "640812",
+        "name": "Sangatta Selatan"
+    }
+}

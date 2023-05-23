@@ -1,0 +1,17 @@
+{
+    "code": "1215032013",
+    "name": "Kuta Tinggi",
+    "poscode": "22272",
+    "provinsi": {
+        "code": "12",
+        "name": "Sumatera Utara"
+    },
+    "kabupaten": {
+        "code": "1215",
+        "name": "Pakpak Bharat"
+    },
+    "kecamatan": {
+        "code": "121503",
+        "name": "Salak"
+    }
+}

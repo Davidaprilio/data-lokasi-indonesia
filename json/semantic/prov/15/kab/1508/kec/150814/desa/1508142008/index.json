@@ -1,0 +1,17 @@
+{
+    "code": "1508142008",
+    "name": "Lubuk Beringin",
+    "poscode": "37260",
+    "provinsi": {
+        "code": "15",
+        "name": "Jambi"
+    },
+    "kabupaten": {
+        "code": "1508",
+        "name": "Bungo"
+    },
+    "kecamatan": {
+        "code": "150814",
+        "name": "Bathin III Ulu"
+    }
+}

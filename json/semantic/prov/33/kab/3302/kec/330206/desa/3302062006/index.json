@@ -1,0 +1,17 @@
+{
+    "code": "3302062006",
+    "name": "Kecila",
+    "poscode": "53194",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3302",
+        "name": "Banyumas"
+    },
+    "kecamatan": {
+        "code": "330206",
+        "name": "Kemranjen"
+    }
+}

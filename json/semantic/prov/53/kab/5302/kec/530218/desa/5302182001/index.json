@@ -1,0 +1,17 @@
+{
+    "code": "5302182001",
+    "name": "Neke",
+    "poscode": "85583",
+    "provinsi": {
+        "code": "53",
+        "name": "Nusa Tenggara Timur (NTT)"
+    },
+    "kabupaten": {
+        "code": "5302",
+        "name": "Timor Tengah Selatan"
+    },
+    "kecamatan": {
+        "code": "530218",
+        "name": "Oenino"
+    }
+}

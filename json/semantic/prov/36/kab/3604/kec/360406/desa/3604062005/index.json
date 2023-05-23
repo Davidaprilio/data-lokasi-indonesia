@@ -1,0 +1,17 @@
+{
+    "code": "3604062005",
+    "name": "Sasahan",
+    "poscode": "42453",
+    "provinsi": {
+        "code": "36",
+        "name": "Banten"
+    },
+    "kabupaten": {
+        "code": "3604",
+        "name": "Serang"
+    },
+    "kecamatan": {
+        "code": "360406",
+        "name": "Waringinkurung (Waringin Kurung)"
+    }
+}

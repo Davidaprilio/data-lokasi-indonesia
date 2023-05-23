@@ -1,0 +1,17 @@
+{
+    "code": "7171091001",
+    "name": "Malalayang Satu (I)",
+    "poscode": "95162",
+    "provinsi": {
+        "code": "71",
+        "name": "Sulawesi Utara"
+    },
+    "kabupaten": {
+        "code": "7171",
+        "name": "Manado"
+    },
+    "kecamatan": {
+        "code": "717109",
+        "name": "Malalayang"
+    }
+}

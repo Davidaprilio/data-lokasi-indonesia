@@ -1,0 +1,17 @@
+{
+    "code": "3216042001",
+    "name": "Sukawijaya",
+    "poscode": "17621",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3216",
+        "name": "Bekasi"
+    },
+    "kecamatan": {
+        "code": "321604",
+        "name": "Tambelang"
+    }
+}

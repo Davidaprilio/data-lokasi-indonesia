@@ -1,0 +1,17 @@
+{
+    "code": "7605081005",
+    "name": "Tande",
+    "poscode": "91413",
+    "provinsi": {
+        "code": "76",
+        "name": "Sulawesi Barat"
+    },
+    "kabupaten": {
+        "code": "7605",
+        "name": "Majene"
+    },
+    "kecamatan": {
+        "code": "760508",
+        "name": "Banggae Timur"
+    }
+}

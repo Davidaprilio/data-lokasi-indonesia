@@ -1,0 +1,17 @@
+{
+    "code": "3509211003",
+    "name": "Kranjingan (Keranjingan)",
+    "poscode": "68126",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3509",
+        "name": "Jember"
+    },
+    "kecamatan": {
+        "code": "350921",
+        "name": "Sumbersari (Sumber Sari)"
+    }
+}

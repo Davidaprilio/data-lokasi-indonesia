@@ -1,0 +1,17 @@
+{
+    "code": "7205022017",
+    "name": "Bukaan",
+    "poscode": "94573",
+    "provinsi": {
+        "code": "72",
+        "name": "Sulawesi Tengah"
+    },
+    "kabupaten": {
+        "code": "7205",
+        "name": "Buol"
+    },
+    "kecamatan": {
+        "code": "720502",
+        "name": "Lakea (Lipunoto)"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "1171052007",
+    "name": "Sukadamai",
+    "poscode": "23249",
+    "provinsi": {
+        "code": "11",
+        "name": "Aceh (NAD)"
+    },
+    "kabupaten": {
+        "code": "1171",
+        "name": "Banda Aceh"
+    },
+    "kecamatan": {
+        "code": "117105",
+        "name": "Lueng Bata"
+    }
+}

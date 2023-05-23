@@ -1,0 +1,17 @@
+{
+    "code": "1202072001",
+    "name": "Silosung",
+    "poscode": "22466",
+    "provinsi": {
+        "code": "12",
+        "name": "Sumatera Utara"
+    },
+    "kabupaten": {
+        "code": "1202",
+        "name": "Tapanuli Utara"
+    },
+    "kecamatan": {
+        "code": "120207",
+        "name": "Simangumban"
+    }
+}

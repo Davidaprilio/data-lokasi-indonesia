@@ -1,0 +1,44 @@
+[
+    {
+        "code": "167403",
+        "name": "Cambai",
+        "count": {
+            "desa": 5
+        }
+    },
+    {
+        "code": "167401",
+        "name": "Prabumulih Barat",
+        "count": {
+            "desa": 6
+        }
+    },
+    {
+        "code": "167406",
+        "name": "Prabumulih Selatan",
+        "count": {
+            "desa": 4
+        }
+    },
+    {
+        "code": "167402",
+        "name": "Prabumulih Timur",
+        "count": {
+            "desa": 8
+        }
+    },
+    {
+        "code": "167405",
+        "name": "Prabumulih Utara",
+        "count": {
+            "desa": 5
+        }
+    },
+    {
+        "code": "167404",
+        "name": "Rambang Kapak Tengah",
+        "count": {
+            "desa": 9
+        }
+    }
+]

@@ -1,0 +1,17 @@
+{
+    "code": "3205072012",
+    "name": "Sukalaksana",
+    "poscode": "44160",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3205",
+        "name": "Garut"
+    },
+    "kecamatan": {
+        "code": "320507",
+        "name": "Samarang"
+    }
+}

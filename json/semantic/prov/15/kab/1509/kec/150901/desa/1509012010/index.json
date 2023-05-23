@@ -1,0 +1,17 @@
+{
+    "code": "1509012010",
+    "name": "Sungai Keruh",
+    "poscode": "37571",
+    "provinsi": {
+        "code": "15",
+        "name": "Jambi"
+    },
+    "kabupaten": {
+        "code": "1509",
+        "name": "Tebo"
+    },
+    "kecamatan": {
+        "code": "150901",
+        "name": "Tebo Tengah"
+    }
+}

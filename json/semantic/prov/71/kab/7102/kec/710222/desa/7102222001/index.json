@@ -1,0 +1,17 @@
+{
+    "code": "7102222001",
+    "name": "Kayuum (Kayuuwi)",
+    "poscode": "95692",
+    "provinsi": {
+        "code": "71",
+        "name": "Sulawesi Utara"
+    },
+    "kabupaten": {
+        "code": "7102",
+        "name": "Minahasa"
+    },
+    "kecamatan": {
+        "code": "710222",
+        "name": "Kawangkoan Barat"
+    }
+}

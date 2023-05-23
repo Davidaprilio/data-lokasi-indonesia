@@ -1,0 +1,17 @@
+{
+    "code": "7409102007",
+    "name": "Lambuluo",
+    "poscode": "93358",
+    "provinsi": {
+        "code": "74",
+        "name": "Sulawesi Tenggara"
+    },
+    "kabupaten": {
+        "code": "7409",
+        "name": "Konawe Utara"
+    },
+    "kecamatan": {
+        "code": "740910",
+        "name": "Motui"
+    }
+}

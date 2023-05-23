@@ -1,0 +1,17 @@
+{
+    "code": "7408082005",
+    "name": "Woise",
+    "poscode": "93956",
+    "provinsi": {
+        "code": "74",
+        "name": "Sulawesi Tenggara"
+    },
+    "kabupaten": {
+        "code": "7408",
+        "name": "Kolaka Utara"
+    },
+    "kecamatan": {
+        "code": "740808",
+        "name": "Lambai"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "1101052017",
+    "name": "Kuta Baro (Abro)",
+    "poscode": "23754",
+    "provinsi": {
+        "code": "11",
+        "name": "Aceh (NAD)"
+    },
+    "kabupaten": {
+        "code": "1101",
+        "name": "Aceh Selatan"
+    },
+    "kecamatan": {
+        "code": "110105",
+        "name": "Meukek"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "9211052006",
+    "name": "Demini",
+    "poscode": "98322",
+    "provinsi": {
+        "code": "92",
+        "name": "Papua Barat"
+    },
+    "kabupaten": {
+        "code": "9211",
+        "name": "Manokwari Selatan"
+    },
+    "kecamatan": {
+        "code": "921105",
+        "name": "Momi Waren"
+    }
+}

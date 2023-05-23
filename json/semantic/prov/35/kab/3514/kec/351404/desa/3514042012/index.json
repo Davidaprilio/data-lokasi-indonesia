@@ -1,0 +1,17 @@
+{
+    "code": "3514042012",
+    "name": "Karang Jati",
+    "poscode": "67183",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3514",
+        "name": "Pasuruan"
+    },
+    "kecamatan": {
+        "code": "351404",
+        "name": "Lumbang"
+    }
+}

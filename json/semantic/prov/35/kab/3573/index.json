@@ -1,0 +1,10 @@
+{
+    "code": "3573",
+    "type": "Kota",
+    "name": "Malang",
+    "fullname": "Kota Malang",
+    "jumlah": {
+        "kecamatan": 5,
+        "desa": 57
+    }
+}

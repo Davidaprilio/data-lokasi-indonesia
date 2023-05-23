@@ -1,0 +1,17 @@
+{
+    "code": "9106212002",
+    "name": "Wandos",
+    "poscode": "98554",
+    "provinsi": {
+        "code": "91",
+        "name": "Papua"
+    },
+    "kabupaten": {
+        "code": "9106",
+        "name": "Biak Numfor"
+    },
+    "kecamatan": {
+        "code": "910621",
+        "name": "Bondifuar"
+    }
+}

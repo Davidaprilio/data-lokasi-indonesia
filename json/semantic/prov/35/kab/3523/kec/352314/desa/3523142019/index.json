@@ -1,0 +1,17 @@
+{
+    "code": "3523142019",
+    "name": "Campurejo",
+    "poscode": "62370",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3523",
+        "name": "Tuban"
+    },
+    "kecamatan": {
+        "code": "352314",
+        "name": "Rengel"
+    }
+}

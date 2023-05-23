@@ -1,0 +1,17 @@
+{
+    "code": "6411052002",
+    "name": "Long Pakaq",
+    "poscode": "75768",
+    "provinsi": {
+        "code": "64",
+        "name": "Kalimantan Timur"
+    },
+    "kabupaten": {
+        "code": "6411",
+        "name": "Mahakam Ulu"
+    },
+    "kecamatan": {
+        "code": "641105",
+        "name": "Long Pahangai"
+    }
+}

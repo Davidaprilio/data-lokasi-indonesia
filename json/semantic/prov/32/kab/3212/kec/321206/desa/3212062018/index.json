@@ -1,0 +1,17 @@
+{
+    "code": "3212062018",
+    "name": "Wanasari",
+    "poscode": "45272",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3212",
+        "name": "Indramayu"
+    },
+    "kecamatan": {
+        "code": "321206",
+        "name": "Bangodua"
+    }
+}

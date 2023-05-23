@@ -1,0 +1,17 @@
+{
+    "code": "6110012003",
+    "name": "Batu Ampar",
+    "poscode": "79671",
+    "provinsi": {
+        "code": "61",
+        "name": "Kalimantan Barat"
+    },
+    "kabupaten": {
+        "code": "6110",
+        "name": "Melawi"
+    },
+    "kecamatan": {
+        "code": "611001",
+        "name": "Belimbing"
+    }
+}

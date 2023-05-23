@@ -1,0 +1,17 @@
+{
+    "code": "1203222005",
+    "name": "Biru",
+    "poscode": "22758",
+    "provinsi": {
+        "code": "12",
+        "name": "Sumatera Utara"
+    },
+    "kabupaten": {
+        "code": "1203",
+        "name": "Tapanuli Selatan"
+    },
+    "kecamatan": {
+        "code": "120322",
+        "name": "Aek Bilah"
+    }
+}

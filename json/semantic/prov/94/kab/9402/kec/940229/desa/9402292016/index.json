@@ -1,0 +1,17 @@
+{
+    "code": "9402292016",
+    "name": "Tenomanggen",
+    "poscode": "98936",
+    "provinsi": {
+        "code": "94",
+        "name": "Papua Tengah"
+    },
+    "kabupaten": {
+        "code": "9402",
+        "name": "Puncak Jaya"
+    },
+    "kecamatan": {
+        "code": "940229",
+        "name": "Waegi"
+    }
+}

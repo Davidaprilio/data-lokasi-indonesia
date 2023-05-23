@@ -1,0 +1,17 @@
+{
+    "code": "5312112001",
+    "name": "Katiku Loku",
+    "poscode": "87272",
+    "provinsi": {
+        "code": "53",
+        "name": "Nusa Tenggara Timur (NTT)"
+    },
+    "kabupaten": {
+        "code": "5312",
+        "name": "Sumba Barat"
+    },
+    "kecamatan": {
+        "code": "531211",
+        "name": "Wanokaka"
+    }
+}

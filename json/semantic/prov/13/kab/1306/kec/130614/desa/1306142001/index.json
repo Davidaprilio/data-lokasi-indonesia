@@ -1,0 +1,17 @@
+{
+    "code": "1306142001",
+    "name": "Canduang Koto Laweh",
+    "poscode": "26191",
+    "provinsi": {
+        "code": "13",
+        "name": "Sumatera Barat"
+    },
+    "kabupaten": {
+        "code": "1306",
+        "name": "Agam"
+    },
+    "kecamatan": {
+        "code": "130614",
+        "name": "Candung"
+    }
+}

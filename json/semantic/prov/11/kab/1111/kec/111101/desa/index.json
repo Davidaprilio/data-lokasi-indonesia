@@ -1,0 +1,232 @@
+[
+    {
+        "code": "1111012023",
+        "name": "Alue Barat",
+        "poscode": "24264"
+    },
+    {
+        "code": "1111012041",
+        "name": "Angkieng Barat (Ankieng Barat)",
+        "poscode": "24264"
+    },
+    {
+        "code": "1111012016",
+        "name": "Batee Iliek",
+        "poscode": "24264"
+    },
+    {
+        "code": "1111012022",
+        "name": "Cot Mane",
+        "poscode": "24264"
+    },
+    {
+        "code": "1111012035",
+        "name": "Cot Meurak Baroh",
+        "poscode": "24264"
+    },
+    {
+        "code": "1111012036",
+        "name": "Cot Meurak Blang",
+        "poscode": "24264"
+    },
+    {
+        "code": "1111012024",
+        "name": "Cot Siren",
+        "poscode": "24264"
+    },
+    {
+        "code": "1111012019",
+        "name": "Darussalam",
+        "poscode": "24264"
+    },
+    {
+        "code": "1111012027",
+        "name": "Gampong Baro",
+        "poscode": "24264"
+    },
+    {
+        "code": "1111012029",
+        "name": "Gampong Putoh",
+        "poscode": "24264"
+    },
+    {
+        "code": "1111012033",
+        "name": "Geulumpang/Glumpang Bungkok",
+        "poscode": "24264"
+    },
+    {
+        "code": "1111012084",
+        "name": "Geulumpang/Glumpang Payong",
+        "poscode": "24264"
+    },
+    {
+        "code": "1111012034",
+        "name": "Glumpang Meulum",
+        "poscode": "24264"
+    },
+    {
+        "code": "1111012028",
+        "name": "Kandang",
+        "poscode": "24264"
+    },
+    {
+        "code": "1111012001",
+        "name": "Keude Aceh",
+        "poscode": "24264"
+    },
+    {
+        "code": "1111012013",
+        "name": "Lancok",
+        "poscode": "24264"
+    },
+    {
+        "code": "1111012011",
+        "name": "Lhok Seumira",
+        "poscode": "24264"
+    },
+    {
+        "code": "1111012032",
+        "name": "Lueng Keubeu",
+        "poscode": "24264"
+    },
+    {
+        "code": "1111012021",
+        "name": "Matang",
+        "poscode": "24264"
+    },
+    {
+        "code": "1111012020",
+        "name": "Matang Jereung (Matang Jareung)",
+        "poscode": "24264"
+    },
+    {
+        "code": "1111012039",
+        "name": "Matang Teungoh",
+        "poscode": "24264"
+    },
+    {
+        "code": "1111012018",
+        "name": "Matang Wakeuh",
+        "poscode": "24264"
+    },
+    {
+        "code": "1111012015",
+        "name": "Mesjid Baro",
+        "poscode": "24264"
+    },
+    {
+        "code": "1111012004",
+        "name": "Meuliek",
+        "poscode": "24264"
+    },
+    {
+        "code": "1111012043",
+        "name": "Meunasah Lancok",
+        "poscode": "24264"
+    },
+    {
+        "code": "1111012042",
+        "name": "Meunasah Lincah",
+        "poscode": "24264"
+    },
+    {
+        "code": "1111012010",
+        "name": "Meunasah Lueng",
+        "poscode": "24264"
+    },
+    {
+        "code": "1111012044",
+        "name": "Meunasah Puuk",
+        "poscode": "24264"
+    },
+    {
+        "code": "1111012037",
+        "name": "Meurah",
+        "poscode": "24264"
+    },
+    {
+        "code": "1111012031",
+        "name": "Mideun Geudong",
+        "poscode": "24264"
+    },
+    {
+        "code": "1111012030",
+        "name": "Mideun Jok",
+        "poscode": "24264"
+    },
+    {
+        "code": "1111012005",
+        "name": "Namploh Baro",
+        "poscode": "24264"
+    },
+    {
+        "code": "1111012007",
+        "name": "Namploh Blang Garang",
+        "poscode": "24264"
+    },
+    {
+        "code": "1111012008",
+        "name": "Namploh Krueng",
+        "poscode": "24264"
+    },
+    {
+        "code": "1111012006",
+        "name": "Namploh Manyang",
+        "poscode": "24264"
+    },
+    {
+        "code": "1111012009",
+        "name": "Namploh Papeun (Namploh Papeuen)",
+        "poscode": "24264"
+    },
+    {
+        "code": "1111012014",
+        "name": "Paloh",
+        "poscode": "24264"
+    },
+    {
+        "code": "1111012003",
+        "name": "Pante Rheeng/Rheng",
+        "poscode": "24264"
+    },
+    {
+        "code": "1111012026",
+        "name": "Pineung Siribee (Pineung Siri Bee)",
+        "poscode": "24264"
+    },
+    {
+        "code": "1111012017",
+        "name": "Pulo Baroh",
+        "poscode": "24264"
+    },
+    {
+        "code": "1111012002",
+        "name": "Sangso",
+        "poscode": "24264"
+    },
+    {
+        "code": "1111012040",
+        "name": "Tanjong Baro",
+        "poscode": "24264"
+    },
+    {
+        "code": "1111012045",
+        "name": "Tonjongan Idem (Tanjongan Idem)",
+        "poscode": "24264"
+    },
+    {
+        "code": "1111012025",
+        "name": "Ulee Alue",
+        "poscode": "24264"
+    },
+    {
+        "code": "1111012012",
+        "name": "Ulee Jeumatan",
+        "poscode": "24264"
+    },
+    {
+        "code": "1111012038",
+        "name": "Ulee Ue",
+        "poscode": "24264"
+    }
+]

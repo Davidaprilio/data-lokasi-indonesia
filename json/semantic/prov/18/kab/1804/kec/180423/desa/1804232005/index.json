@@ -1,0 +1,17 @@
+{
+    "code": "1804232005",
+    "name": "Bumi Hantatai",
+    "poscode": "34882",
+    "provinsi": {
+        "code": "18",
+        "name": "Lampung"
+    },
+    "kabupaten": {
+        "code": "1804",
+        "name": "Lampung Barat"
+    },
+    "kecamatan": {
+        "code": "180423",
+        "name": "Bandar Negeri Suoh"
+    }
+}

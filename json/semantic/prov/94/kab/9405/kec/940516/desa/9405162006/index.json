@@ -1,0 +1,17 @@
+{
+    "code": "9405162006",
+    "name": "Rumagi",
+    "poscode": "98974",
+    "provinsi": {
+        "code": "94",
+        "name": "Papua Tengah"
+    },
+    "kabupaten": {
+        "code": "9405",
+        "name": "Puncak"
+    },
+    "kecamatan": {
+        "code": "940516",
+        "name": "Mage'abume"
+    }
+}

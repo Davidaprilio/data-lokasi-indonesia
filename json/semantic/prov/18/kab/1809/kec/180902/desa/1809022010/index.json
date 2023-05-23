@@ -1,0 +1,17 @@
+{
+    "code": "1809022010",
+    "name": "Sinar Bandung (Sinarbandung)",
+    "poscode": "35353",
+    "provinsi": {
+        "code": "18",
+        "name": "Lampung"
+    },
+    "kabupaten": {
+        "code": "1809",
+        "name": "Pesawaran"
+    },
+    "kecamatan": {
+        "code": "180902",
+        "name": "Negeri Katon"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "6101132002",
+    "name": "Semparuk",
+    "poscode": "79457",
+    "provinsi": {
+        "code": "61",
+        "name": "Kalimantan Barat"
+    },
+    "kabupaten": {
+        "code": "6101",
+        "name": "Sambas"
+    },
+    "kecamatan": {
+        "code": "610113",
+        "name": "Semparuk"
+    }
+}

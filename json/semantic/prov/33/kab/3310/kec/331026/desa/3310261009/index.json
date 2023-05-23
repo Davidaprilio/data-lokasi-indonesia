@@ -1,0 +1,17 @@
+{
+    "code": "3310261009",
+    "name": "Gayamprit",
+    "poscode": "57423",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3310",
+        "name": "Klaten"
+    },
+    "kecamatan": {
+        "code": "331026",
+        "name": "Klaten Selatan"
+    }
+}

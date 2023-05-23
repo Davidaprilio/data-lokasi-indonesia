@@ -1,0 +1,17 @@
+{
+    "code": "9206172001",
+    "name": "Masyeta",
+    "poscode": "98162",
+    "provinsi": {
+        "code": "92",
+        "name": "Papua Barat"
+    },
+    "kabupaten": {
+        "code": "9206",
+        "name": "Teluk Bintuni"
+    },
+    "kecamatan": {
+        "code": "920617",
+        "name": "Masyeta"
+    }
+}

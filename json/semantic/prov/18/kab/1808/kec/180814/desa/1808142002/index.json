@@ -1,0 +1,17 @@
+{
+    "code": "1808142002",
+    "name": "Pisang Indah",
+    "poscode": "34760",
+    "provinsi": {
+        "code": "18",
+        "name": "Lampung"
+    },
+    "kabupaten": {
+        "code": "1808",
+        "name": "Way Kanan"
+    },
+    "kecamatan": {
+        "code": "180814",
+        "name": "Bumi Agung"
+    }
+}

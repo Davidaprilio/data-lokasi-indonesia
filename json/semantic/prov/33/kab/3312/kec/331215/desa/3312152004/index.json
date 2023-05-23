@@ -1,0 +1,17 @@
+{
+    "code": "3312152004",
+    "name": "Dawungan",
+    "poscode": "57692",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3312",
+        "name": "Wonogiri"
+    },
+    "kecamatan": {
+        "code": "331215",
+        "name": "Jatiroto"
+    }
+}

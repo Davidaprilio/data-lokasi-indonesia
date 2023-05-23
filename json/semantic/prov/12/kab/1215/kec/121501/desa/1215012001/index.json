@@ -1,0 +1,17 @@
+{
+    "code": "1215012001",
+    "name": "Tanjung Meriah",
+    "poscode": "22275",
+    "provinsi": {
+        "code": "12",
+        "name": "Sumatera Utara"
+    },
+    "kabupaten": {
+        "code": "1215",
+        "name": "Pakpak Bharat"
+    },
+    "kecamatan": {
+        "code": "121501",
+        "name": "Sitellu / Sitelu Tali Urang Jehe"
+    }
+}

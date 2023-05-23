@@ -1,0 +1,17 @@
+{
+    "code": "3505111006",
+    "name": "Bence",
+    "poscode": "66182",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3505",
+        "name": "Blitar"
+    },
+    "kecamatan": {
+        "code": "350511",
+        "name": "Garum"
+    }
+}

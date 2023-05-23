@@ -1,0 +1,17 @@
+{
+    "code": "3528112007",
+    "name": "Kapong",
+    "poscode": "69354",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3528",
+        "name": "Pamekasan"
+    },
+    "kecamatan": {
+        "code": "352811",
+        "name": "Batumarmar"
+    }
+}

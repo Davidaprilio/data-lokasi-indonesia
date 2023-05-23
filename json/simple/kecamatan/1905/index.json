@@ -1,0 +1,44 @@
+[
+    {
+        "code": "190503",
+        "name": "Jebus",
+        "count": {
+            "desa": 11
+        }
+    },
+    {
+        "code": "190504",
+        "name": "Kelapa",
+        "count": {
+            "desa": 14
+        }
+    },
+    {
+        "code": "190501",
+        "name": "Mentok (Muntok)",
+        "count": {
+            "desa": 7
+        }
+    },
+    {
+        "code": "190506",
+        "name": "Parittiga",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "190502",
+        "name": "Simpang Teritip",
+        "count": {
+            "desa": 13
+        }
+    },
+    {
+        "code": "190505",
+        "name": "Tempilang",
+        "count": {
+            "desa": 9
+        }
+    }
+]

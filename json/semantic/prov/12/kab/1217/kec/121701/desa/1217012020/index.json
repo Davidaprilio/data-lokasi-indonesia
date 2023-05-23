@@ -1,0 +1,17 @@
+{
+    "code": "1217012020",
+    "name": "Unjur",
+    "poscode": "22395",
+    "provinsi": {
+        "code": "12",
+        "name": "Sumatera Utara"
+    },
+    "kabupaten": {
+        "code": "1217",
+        "name": "Samosir"
+    },
+    "kecamatan": {
+        "code": "121701",
+        "name": "Simanindo"
+    }
+}

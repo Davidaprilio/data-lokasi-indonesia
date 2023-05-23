@@ -1,0 +1,17 @@
+{
+    "code": "7410042011",
+    "name": "Lapandewa",
+    "poscode": "93670",
+    "provinsi": {
+        "code": "74",
+        "name": "Sulawesi Tenggara"
+    },
+    "kabupaten": {
+        "code": "7410",
+        "name": "Buton Utara"
+    },
+    "kecamatan": {
+        "code": "741004",
+        "name": "Kulisusu Barat"
+    }
+}

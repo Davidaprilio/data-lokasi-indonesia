@@ -1,0 +1,44 @@
+[
+    {
+        "code": "532005",
+        "name": "Hawu Mehara",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "532006",
+        "name": "Raijua",
+        "count": {
+            "desa": 5
+        }
+    },
+    {
+        "code": "532001",
+        "name": "Sabu Barat",
+        "count": {
+            "desa": 18
+        }
+    },
+    {
+        "code": "532004",
+        "name": "Sabu Liae",
+        "count": {
+            "desa": 12
+        }
+    },
+    {
+        "code": "532002",
+        "name": "Sabu Tengah",
+        "count": {
+            "desa": 8
+        }
+    },
+    {
+        "code": "532003",
+        "name": "Sabu Timur",
+        "count": {
+            "desa": 10
+        }
+    }
+]

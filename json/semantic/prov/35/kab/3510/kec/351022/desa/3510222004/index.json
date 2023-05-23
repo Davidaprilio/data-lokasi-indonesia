@@ -1,0 +1,17 @@
+{
+    "code": "3510222004",
+    "name": "Sineporejo (Seneporejo)",
+    "poscode": "68489",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3510",
+        "name": "Banyuwangi"
+    },
+    "kecamatan": {
+        "code": "351022",
+        "name": "Siliragung"
+    }
+}

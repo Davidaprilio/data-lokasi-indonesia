@@ -1,0 +1,17 @@
+{
+    "code": "7309092003",
+    "name": "Sambueja",
+    "poscode": "90560",
+    "provinsi": {
+        "code": "73",
+        "name": "Sulawesi Selatan"
+    },
+    "kabupaten": {
+        "code": "7309",
+        "name": "Maros"
+    },
+    "kecamatan": {
+        "code": "730909",
+        "name": "Simbang"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "1872041003",
+    "name": "Iring Mulyo (Iringmulyo)",
+    "poscode": "34112",
+    "provinsi": {
+        "code": "18",
+        "name": "Lampung"
+    },
+    "kabupaten": {
+        "code": "1872",
+        "name": "Metro"
+    },
+    "kecamatan": {
+        "code": "187204",
+        "name": "Metro Timur"
+    }
+}

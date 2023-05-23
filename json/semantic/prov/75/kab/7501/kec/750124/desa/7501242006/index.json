@@ -1,0 +1,17 @@
+{
+    "code": "7501242006",
+    "name": "Duwanga",
+    "poscode": "96241",
+    "provinsi": {
+        "code": "75",
+        "name": "Gorontalo"
+    },
+    "kabupaten": {
+        "code": "7501",
+        "name": "Gorontalo"
+    },
+    "kecamatan": {
+        "code": "750124",
+        "name": "Dungaliyo"
+    }
+}

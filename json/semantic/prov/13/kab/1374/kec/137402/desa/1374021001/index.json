@@ -1,0 +1,17 @@
+{
+    "code": "1374021001",
+    "name": "Bukik/Bukit Surungan",
+    "poscode": "27115",
+    "provinsi": {
+        "code": "13",
+        "name": "Sumatera Barat"
+    },
+    "kabupaten": {
+        "code": "1374",
+        "name": "Padang Panjang"
+    },
+    "kecamatan": {
+        "code": "137402",
+        "name": "Padang Panjang Barat"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "7326082001",
+    "name": "Salu",
+    "poscode": "91850",
+    "provinsi": {
+        "code": "73",
+        "name": "Sulawesi Selatan"
+    },
+    "kabupaten": {
+        "code": "7326",
+        "name": "Toraja Utara"
+    },
+    "kecamatan": {
+        "code": "732608",
+        "name": "Sopai"
+    }
+}

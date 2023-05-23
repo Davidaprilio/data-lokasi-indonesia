@@ -1,0 +1,17 @@
+{
+    "code": "3208112011",
+    "name": "Jatimulya",
+    "poscode": "45595",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3208",
+        "name": "Kuningan"
+    },
+    "kecamatan": {
+        "code": "320811",
+        "name": "Cidahu"
+    }
+}

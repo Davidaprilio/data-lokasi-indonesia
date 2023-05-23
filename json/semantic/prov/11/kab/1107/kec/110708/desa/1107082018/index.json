@@ -1,0 +1,17 @@
+{
+    "code": "1107082018",
+    "name": "Kampong Asan",
+    "poscode": "24182",
+    "provinsi": {
+        "code": "11",
+        "name": "Aceh (NAD)"
+    },
+    "kabupaten": {
+        "code": "1107",
+        "name": "Pidie"
+    },
+    "kecamatan": {
+        "code": "110708",
+        "name": "Kembang Tanjong"
+    }
+}

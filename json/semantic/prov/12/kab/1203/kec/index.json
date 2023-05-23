@@ -1,0 +1,107 @@
+[
+    {
+        "code": "120322",
+        "name": "Aek Bilah",
+        "count": {
+            "desa": 12
+        }
+    },
+    {
+        "code": "120301",
+        "name": "Angkola Barat",
+        "count": {
+            "desa": 14
+        }
+    },
+    {
+        "code": "120332",
+        "name": "Angkola Muara Tais",
+        "count": {
+            "desa": 15
+        }
+    },
+    {
+        "code": "120331",
+        "name": "Angkola Sangkunur",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "120306",
+        "name": "Angkola Selatan",
+        "count": {
+            "desa": 17
+        }
+    },
+    {
+        "code": "120303",
+        "name": "Angkola Timur",
+        "count": {
+            "desa": 15
+        }
+    },
+    {
+        "code": "120314",
+        "name": "Arse",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "120307",
+        "name": "Batang Angkola",
+        "count": {
+            "desa": 21
+        }
+    },
+    {
+        "code": "120302",
+        "name": "Batang Toru",
+        "count": {
+            "desa": 23
+        }
+    },
+    {
+        "code": "120320",
+        "name": "Marancar",
+        "count": {
+            "desa": 12
+        }
+    },
+    {
+        "code": "120329",
+        "name": "Muara Batang Toru",
+        "count": {
+            "desa": 9
+        }
+    },
+    {
+        "code": "120305",
+        "name": "Saipar Dolok Hole",
+        "count": {
+            "desa": 14
+        }
+    },
+    {
+        "code": "120321",
+        "name": "Sayur Matinggi",
+        "count": {
+            "desa": 19
+        }
+    },
+    {
+        "code": "120304",
+        "name": "Sipirok",
+        "count": {
+            "desa": 40
+        }
+    },
+    {
+        "code": "120330",
+        "name": "Tano Tombangan Angkola",
+        "count": {
+            "desa": 17
+        }
+    }
+]

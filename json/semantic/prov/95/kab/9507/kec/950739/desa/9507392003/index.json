@@ -1,0 +1,17 @@
+{
+    "code": "9507392003",
+    "name": "Gilo",
+    "poscode": "99588",
+    "provinsi": {
+        "code": "95",
+        "name": "Papua Pegunungan"
+    },
+    "kabupaten": {
+        "code": "9507",
+        "name": "Lanny Jaya"
+    },
+    "kecamatan": {
+        "code": "950739",
+        "name": "Melagi"
+    }
+}

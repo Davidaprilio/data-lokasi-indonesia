@@ -1,0 +1,17 @@
+{
+    "code": "6302112003",
+    "name": "Talusi",
+    "poscode": "72168",
+    "provinsi": {
+        "code": "63",
+        "name": "Kalimantan Selatan"
+    },
+    "kabupaten": {
+        "code": "6302",
+        "name": "Kotabaru"
+    },
+    "kecamatan": {
+        "code": "630211",
+        "name": "Pamukan Selatan"
+    }
+}

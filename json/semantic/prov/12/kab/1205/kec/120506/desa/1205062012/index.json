@@ -1,0 +1,17 @@
+{
+    "code": "1205062012",
+    "name": "Kwala/Kuala Air Hitam",
+    "poscode": "20762",
+    "provinsi": {
+        "code": "12",
+        "name": "Sumatera Utara"
+    },
+    "kabupaten": {
+        "code": "1205",
+        "name": "Langkat"
+    },
+    "kecamatan": {
+        "code": "120506",
+        "name": "Selesai"
+    }
+}

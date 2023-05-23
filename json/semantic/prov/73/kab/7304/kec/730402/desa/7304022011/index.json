@@ -1,0 +1,17 @@
+{
+    "code": "7304022011",
+    "name": "Bontojai",
+    "poscode": "92350",
+    "provinsi": {
+        "code": "73",
+        "name": "Sulawesi Selatan"
+    },
+    "kabupaten": {
+        "code": "7304",
+        "name": "Jeneponto"
+    },
+    "kecamatan": {
+        "code": "730402",
+        "name": "Tamalatea"
+    }
+}

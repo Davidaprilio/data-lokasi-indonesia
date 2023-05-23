@@ -1,0 +1,17 @@
+{
+    "code": "3172031003",
+    "name": "Lagoa",
+    "poscode": "14270",
+    "provinsi": {
+        "code": "31",
+        "name": "DKI Jakarta"
+    },
+    "kabupaten": {
+        "code": "3172",
+        "name": "Jakarta Utara"
+    },
+    "kecamatan": {
+        "code": "317203",
+        "name": "Koja"
+    }
+}

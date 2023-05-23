@@ -1,0 +1,17 @@
+{
+    "code": "1671091003",
+    "name": "Sekip Jaya",
+    "poscode": "30128",
+    "provinsi": {
+        "code": "16",
+        "name": "Sumatera Selatan"
+    },
+    "kabupaten": {
+        "code": "1671",
+        "name": "Palembang"
+    },
+    "kecamatan": {
+        "code": "167109",
+        "name": "Kemuning"
+    }
+}

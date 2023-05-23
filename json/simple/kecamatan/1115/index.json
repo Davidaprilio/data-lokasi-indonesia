@@ -1,0 +1,72 @@
+[
+    {
+        "code": "111504",
+        "name": "Beutong",
+        "count": {
+            "desa": 24
+        }
+    },
+    {
+        "code": "111510",
+        "name": "Beutong Ateuh Banggalang",
+        "count": {
+            "desa": 4
+        }
+    },
+    {
+        "code": "111505",
+        "name": "Darul Makmur",
+        "count": {
+            "desa": 40
+        }
+    },
+    {
+        "code": "111501",
+        "name": "Kuala",
+        "count": {
+            "desa": 17
+        }
+    },
+    {
+        "code": "111507",
+        "name": "Kuala Pesisir",
+        "count": {
+            "desa": 16
+        }
+    },
+    {
+        "code": "111502",
+        "name": "Seunagan",
+        "count": {
+            "desa": 35
+        }
+    },
+    {
+        "code": "111503",
+        "name": "Seunagan Timur",
+        "count": {
+            "desa": 34
+        }
+    },
+    {
+        "code": "111506",
+        "name": "Suka Makmue",
+        "count": {
+            "desa": 19
+        }
+    },
+    {
+        "code": "111508",
+        "name": "Tadu Raya",
+        "count": {
+            "desa": 22
+        }
+    },
+    {
+        "code": "111509",
+        "name": "Tripa Makmur",
+        "count": {
+            "desa": 11
+        }
+    }
+]

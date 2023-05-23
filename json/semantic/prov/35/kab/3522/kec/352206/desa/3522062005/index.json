@@ -1,0 +1,17 @@
+{
+    "code": "3522062005",
+    "name": "Kunci",
+    "poscode": "62171",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3522",
+        "name": "Bojonegoro"
+    },
+    "kecamatan": {
+        "code": "352206",
+        "name": "Dander"
+    }
+}

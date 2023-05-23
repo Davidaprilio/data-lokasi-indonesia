@@ -1,0 +1,17 @@
+{
+    "code": "3317132004",
+    "name": "Labuhan Kidul",
+    "poscode": "59272",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3317",
+        "name": "Rembang"
+    },
+    "kecamatan": {
+        "code": "331713",
+        "name": "Sluke"
+    }
+}

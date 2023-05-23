@@ -1,0 +1,17 @@
+{
+    "code": "3201132008",
+    "name": "Rawapanjang (Rawa Panjang)",
+    "poscode": "16920",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3201",
+        "name": "Bogor"
+    },
+    "kecamatan": {
+        "code": "320113",
+        "name": "Bojong Gede (Bojonggede)"
+    }
+}

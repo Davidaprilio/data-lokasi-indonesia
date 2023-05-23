@@ -1,0 +1,17 @@
+{
+    "code": "9201502004",
+    "name": "Klafyo",
+    "poscode": "98438",
+    "provinsi": {
+        "code": "96",
+        "name": "Papua Barat Daya"
+    },
+    "kabupaten": {
+        "code": "9201",
+        "name": "Sorong"
+    },
+    "kecamatan": {
+        "code": "920150",
+        "name": "Konhir"
+    }
+}

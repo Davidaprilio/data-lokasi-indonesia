@@ -1,0 +1,17 @@
+{
+    "code": "9504022039",
+    "name": "Jawalane",
+    "poscode": "99012",
+    "provinsi": {
+        "code": "95",
+        "name": "Papua Pegunungan"
+    },
+    "kabupaten": {
+        "code": "9504",
+        "name": "Tolikara"
+    },
+    "kecamatan": {
+        "code": "950402",
+        "name": "Bokondini"
+    }
+}

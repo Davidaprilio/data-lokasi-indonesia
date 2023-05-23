@@ -1,0 +1,17 @@
+{
+    "code": "9503282001",
+    "name": "Subundalek",
+    "poscode": "99745",
+    "provinsi": {
+        "code": "95",
+        "name": "Papua Pegunungan"
+    },
+    "kabupaten": {
+        "code": "9503",
+        "name": "Yahukimo"
+    },
+    "kecamatan": {
+        "code": "950328",
+        "name": "Yahuliambut"
+    }
+}

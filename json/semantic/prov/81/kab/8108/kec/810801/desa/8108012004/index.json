@@ -1,0 +1,17 @@
+{
+    "code": "8108012004",
+    "name": "Kaiwatu",
+    "poscode": "97442",
+    "provinsi": {
+        "code": "81",
+        "name": "Maluku"
+    },
+    "kabupaten": {
+        "code": "8108",
+        "name": "Maluku Barat Daya"
+    },
+    "kecamatan": {
+        "code": "810801",
+        "name": "Moa Lakor"
+    }
+}

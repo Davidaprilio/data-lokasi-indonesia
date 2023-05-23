@@ -1,0 +1,17 @@
+{
+    "code": "5103051006",
+    "name": "Jimbaran",
+    "poscode": "80362",
+    "provinsi": {
+        "code": "51",
+        "name": "Bali"
+    },
+    "kabupaten": {
+        "code": "5103",
+        "name": "Badung"
+    },
+    "kecamatan": {
+        "code": "510305",
+        "name": "Kuta Selatan"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "code": "1312",
+    "type": "Kabupaten",
+    "name": "Pasaman Barat",
+    "fullname": "Kabupaten Pasaman Barat",
+    "jumlah": {
+        "kecamatan": 11,
+        "desa": 19
+    }
+}

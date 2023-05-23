@@ -1,0 +1,17 @@
+{
+    "code": "3201212011",
+    "name": "Batu Tulis",
+    "poscode": "16650",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3201",
+        "name": "Bogor"
+    },
+    "kecamatan": {
+        "code": "320121",
+        "name": "Nanggung"
+    }
+}

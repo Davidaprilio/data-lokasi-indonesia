@@ -1,0 +1,17 @@
+{
+    "code": "7203252002",
+    "name": "Alindau",
+    "poscode": "94343",
+    "provinsi": {
+        "code": "72",
+        "name": "Sulawesi Tengah"
+    },
+    "kabupaten": {
+        "code": "7203",
+        "name": "Donggala"
+    },
+    "kecamatan": {
+        "code": "720325",
+        "name": "Sindue Tobata"
+    }
+}

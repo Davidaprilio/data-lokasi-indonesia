@@ -1,0 +1,17 @@
+{
+    "code": "6103092003",
+    "name": "Sebara",
+    "poscode": "78561",
+    "provinsi": {
+        "code": "61",
+        "name": "Kalimantan Barat"
+    },
+    "kabupaten": {
+        "code": "6103",
+        "name": "Sanggau"
+    },
+    "kecamatan": {
+        "code": "610309",
+        "name": "Parindu"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "1703252005",
+    "name": "Suka Baru",
+    "poscode": "38325",
+    "provinsi": {
+        "code": "17",
+        "name": "Bengkulu"
+    },
+    "kabupaten": {
+        "code": "1703",
+        "name": "Bengkulu Utara"
+    },
+    "kecamatan": {
+        "code": "170325",
+        "name": "Marga Sakti Sebelat (Marga Sakti)"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "3509122005",
+    "name": "Karanganyar (Karang Anyar)",
+    "poscode": "68132",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3509",
+        "name": "Jember"
+    },
+    "kecamatan": {
+        "code": "350912",
+        "name": "Ambulu"
+    }
+}

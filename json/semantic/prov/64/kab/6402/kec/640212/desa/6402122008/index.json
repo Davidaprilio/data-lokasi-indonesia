@@ -1,0 +1,17 @@
+{
+    "code": "6402122008",
+    "name": "Kampung Baru",
+    "poscode": "75558",
+    "provinsi": {
+        "code": "64",
+        "name": "Kalimantan Timur"
+    },
+    "kabupaten": {
+        "code": "6402",
+        "name": "Kutai Kartanegara"
+    },
+    "kecamatan": {
+        "code": "640212",
+        "name": "Tabang"
+    }
+}

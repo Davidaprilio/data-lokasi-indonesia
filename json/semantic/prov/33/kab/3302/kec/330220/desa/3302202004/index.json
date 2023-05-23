@@ -1,0 +1,17 @@
+{
+    "code": "3302202004",
+    "name": "Karang Tengah (Karangtengah)",
+    "poscode": "53182",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3302",
+        "name": "Banyumas"
+    },
+    "kecamatan": {
+        "code": "330220",
+        "name": "Kembaran"
+    }
+}

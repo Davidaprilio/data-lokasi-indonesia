@@ -1,0 +1,72 @@
+[
+    {
+        "code": "321804",
+        "name": "Cigugur",
+        "count": {
+            "desa": 7
+        }
+    },
+    {
+        "code": "321802",
+        "name": "Cijulang",
+        "count": {
+            "desa": 7
+        }
+    },
+    {
+        "code": "321803",
+        "name": "Cimerak",
+        "count": {
+            "desa": 11
+        }
+    },
+    {
+        "code": "321808",
+        "name": "Kalipucang",
+        "count": {
+            "desa": 9
+        }
+    },
+    {
+        "code": "321805",
+        "name": "Langkaplancar",
+        "count": {
+            "desa": 15
+        }
+    },
+    {
+        "code": "321806",
+        "name": "Mangunjaya",
+        "count": {
+            "desa": 5
+        }
+    },
+    {
+        "code": "321807",
+        "name": "Padaherang",
+        "count": {
+            "desa": 14
+        }
+    },
+    {
+        "code": "321809",
+        "name": "Pangandaran",
+        "count": {
+            "desa": 8
+        }
+    },
+    {
+        "code": "321801",
+        "name": "Parigi",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "321810",
+        "name": "Sidamulih",
+        "count": {
+            "desa": 7
+        }
+    }
+]

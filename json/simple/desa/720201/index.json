@@ -1,0 +1,37 @@
+[
+    {
+        "code": "7202011007",
+        "name": "Gebangrejo",
+        "poscode": "94619"
+    },
+    {
+        "code": "7202011017",
+        "name": "Gebangrejo Barat",
+        "poscode": "94619"
+    },
+    {
+        "code": "7202011016",
+        "name": "Gebangrejo Timur",
+        "poscode": "94619"
+    },
+    {
+        "code": "7202011003",
+        "name": "Kayamanya",
+        "poscode": "94617"
+    },
+    {
+        "code": "7202011018",
+        "name": "Kayamanya Sentral",
+        "poscode": "94617"
+    },
+    {
+        "code": "7202011002",
+        "name": "Moengko Baru",
+        "poscode": "94618"
+    },
+    {
+        "code": "7202011001",
+        "name": "Moengko Lama",
+        "poscode": "94618"
+    }
+]

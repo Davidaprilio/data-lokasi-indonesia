@@ -1,0 +1,17 @@
+{
+    "code": "3171061005",
+    "name": "Kebon Sirih",
+    "poscode": "10340",
+    "provinsi": {
+        "code": "31",
+        "name": "DKI Jakarta"
+    },
+    "kabupaten": {
+        "code": "3171",
+        "name": "Jakarta Pusat"
+    },
+    "kecamatan": {
+        "code": "317106",
+        "name": "Menteng"
+    }
+}

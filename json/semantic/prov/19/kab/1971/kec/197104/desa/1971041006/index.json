@@ -1,0 +1,17 @@
+{
+    "code": "1971041006",
+    "name": "Asam",
+    "poscode": "33135",
+    "provinsi": {
+        "code": "19",
+        "name": "Kepulauan Bangka Belitung"
+    },
+    "kabupaten": {
+        "code": "1971",
+        "name": "Pangkal Pinang"
+    },
+    "kecamatan": {
+        "code": "197104",
+        "name": "Rangkui"
+    }
+}

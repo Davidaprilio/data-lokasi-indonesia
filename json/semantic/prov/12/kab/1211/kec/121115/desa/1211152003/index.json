@@ -1,0 +1,17 @@
+{
+    "code": "1211152003",
+    "name": "Sitinjo II",
+    "poscode": "22219",
+    "provinsi": {
+        "code": "12",
+        "name": "Sumatera Utara"
+    },
+    "kabupaten": {
+        "code": "1211",
+        "name": "Dairi"
+    },
+    "kecamatan": {
+        "code": "121115",
+        "name": "Sitinjo"
+    }
+}

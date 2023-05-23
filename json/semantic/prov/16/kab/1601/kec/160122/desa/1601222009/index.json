@@ -1,0 +1,17 @@
+{
+    "code": "1601222009",
+    "name": "Karta Mulya (Karta Mulia)",
+    "poscode": "32192",
+    "provinsi": {
+        "code": "16",
+        "name": "Sumatera Selatan"
+    },
+    "kabupaten": {
+        "code": "1601",
+        "name": "Ogan Komering Ulu"
+    },
+    "kecamatan": {
+        "code": "160122",
+        "name": "Lubuk Batang"
+    }
+}

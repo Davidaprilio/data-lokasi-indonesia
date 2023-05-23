@@ -1,0 +1,17 @@
+{
+    "code": "1406012005",
+    "name": "Pematang Tebih",
+    "poscode": "28553",
+    "provinsi": {
+        "code": "14",
+        "name": "Riau"
+    },
+    "kabupaten": {
+        "code": "1406",
+        "name": "Rokan Hulu"
+    },
+    "kecamatan": {
+        "code": "140601",
+        "name": "Ujung Batu"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "9507172004",
+    "name": "Wuragi",
+    "poscode": "99597",
+    "provinsi": {
+        "code": "95",
+        "name": "Papua Pegunungan"
+    },
+    "kabupaten": {
+        "code": "9507",
+        "name": "Lanny Jaya"
+    },
+    "kecamatan": {
+        "code": "950717",
+        "name": "Wereka"
+    }
+}

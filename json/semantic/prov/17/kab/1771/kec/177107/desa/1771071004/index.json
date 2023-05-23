@@ -1,0 +1,17 @@
+{
+    "code": "1771071004",
+    "name": "Penurunan",
+    "poscode": "38223",
+    "provinsi": {
+        "code": "17",
+        "name": "Bengkulu"
+    },
+    "kabupaten": {
+        "code": "1771",
+        "name": "Bengkulu"
+    },
+    "kecamatan": {
+        "code": "177107",
+        "name": "Ratu Samban"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "9504392006",
+    "name": "Timoneri",
+    "poscode": "99035",
+    "provinsi": {
+        "code": "95",
+        "name": "Papua Pegunungan"
+    },
+    "kabupaten": {
+        "code": "9504",
+        "name": "Tolikara"
+    },
+    "kecamatan": {
+        "code": "950439",
+        "name": "Wugi"
+    }
+}

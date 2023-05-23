@@ -1,0 +1,17 @@
+{
+    "code": "3275111001",
+    "name": "Pedurenan (Padurenan)",
+    "poscode": "17156",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3275",
+        "name": "Bekasi"
+    },
+    "kecamatan": {
+        "code": "327511",
+        "name": "Mustikajaya (Mustika Jaya)"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "1275011001",
+    "name": "Pahlawan",
+    "poscode": "20743",
+    "provinsi": {
+        "code": "12",
+        "name": "Sumatera Utara"
+    },
+    "kabupaten": {
+        "code": "1275",
+        "name": "Binjai"
+    },
+    "kecamatan": {
+        "code": "127501",
+        "name": "Binjai Utara"
+    }
+}

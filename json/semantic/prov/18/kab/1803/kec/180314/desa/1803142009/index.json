@@ -1,0 +1,17 @@
+{
+    "code": "1803142009",
+    "name": "Sukoharjo",
+    "poscode": "34585",
+    "provinsi": {
+        "code": "18",
+        "name": "Lampung"
+    },
+    "kabupaten": {
+        "code": "1803",
+        "name": "Lampung Utara"
+    },
+    "kecamatan": {
+        "code": "180314",
+        "name": "Abung Surakarta"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "3506042014",
+    "name": "Mangunrejo",
+    "poscode": "64171",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3506",
+        "name": "Kediri"
+    },
+    "kecamatan": {
+        "code": "350604",
+        "name": "Ngadiluwih"
+    }
+}

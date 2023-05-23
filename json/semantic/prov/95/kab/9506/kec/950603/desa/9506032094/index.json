@@ -1,0 +1,17 @@
+{
+    "code": "9506032094",
+    "name": "Wanam",
+    "poscode": "99085",
+    "provinsi": {
+        "code": "95",
+        "name": "Papua Pegunungan"
+    },
+    "kabupaten": {
+        "code": "9506",
+        "name": "Yalimo"
+    },
+    "kecamatan": {
+        "code": "950603",
+        "name": "Abenaho"
+    }
+}

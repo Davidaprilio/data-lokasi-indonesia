@@ -1,0 +1,17 @@
+{
+    "code": "1376011021",
+    "name": "Ibuah",
+    "poscode": "26229",
+    "provinsi": {
+        "code": "13",
+        "name": "Sumatera Barat"
+    },
+    "kabupaten": {
+        "code": "1376",
+        "name": "Payakumbuh"
+    },
+    "kecamatan": {
+        "code": "137601",
+        "name": "Payakumbuh Barat"
+    }
+}

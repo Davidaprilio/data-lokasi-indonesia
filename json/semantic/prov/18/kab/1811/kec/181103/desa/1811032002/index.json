@@ -1,0 +1,17 @@
+{
+    "code": "1811032002",
+    "name": "Panggung Jaya",
+    "poscode": "34696",
+    "provinsi": {
+        "code": "18",
+        "name": "Lampung"
+    },
+    "kabupaten": {
+        "code": "1811",
+        "name": "Mesuji"
+    },
+    "kecamatan": {
+        "code": "181103",
+        "name": "Rawa Jitu Utara"
+    }
+}

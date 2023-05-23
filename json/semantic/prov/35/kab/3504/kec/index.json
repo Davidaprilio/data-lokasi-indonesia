@@ -1,0 +1,135 @@
+[
+    {
+        "code": "350417",
+        "name": "Bandung",
+        "count": {
+            "desa": 18
+        }
+    },
+    {
+        "code": "350415",
+        "name": "Besuki",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "350402",
+        "name": "Boyolangu",
+        "count": {
+            "desa": 17
+        }
+    },
+    {
+        "code": "350416",
+        "name": "Campurdarat (Campur Darat)",
+        "count": {
+            "desa": 9
+        }
+    },
+    {
+        "code": "350409",
+        "name": "Gondang",
+        "count": {
+            "desa": 20
+        }
+    },
+    {
+        "code": "350414",
+        "name": "Kalidawir",
+        "count": {
+            "desa": 17
+        }
+    },
+    {
+        "code": "350408",
+        "name": "Karangrejo (Karang Rejo)",
+        "count": {
+            "desa": 13
+        }
+    },
+    {
+        "code": "350405",
+        "name": "Kauman",
+        "count": {
+            "desa": 13
+        }
+    },
+    {
+        "code": "350403",
+        "name": "Kedungwaru",
+        "count": {
+            "desa": 19
+        }
+    },
+    {
+        "code": "350404",
+        "name": "Ngantru",
+        "count": {
+            "desa": 13
+        }
+    },
+    {
+        "code": "350411",
+        "name": "Ngunut",
+        "count": {
+            "desa": 18
+        }
+    },
+    {
+        "code": "350406",
+        "name": "Pagerwojo",
+        "count": {
+            "desa": 11
+        }
+    },
+    {
+        "code": "350418",
+        "name": "Pakel",
+        "count": {
+            "desa": 19
+        }
+    },
+    {
+        "code": "350412",
+        "name": "Pucanglaban",
+        "count": {
+            "desa": 9
+        }
+    },
+    {
+        "code": "350413",
+        "name": "Rejotangan",
+        "count": {
+            "desa": 16
+        }
+    },
+    {
+        "code": "350407",
+        "name": "Sendang",
+        "count": {
+            "desa": 11
+        }
+    },
+    {
+        "code": "350410",
+        "name": "Sumbergempol",
+        "count": {
+            "desa": 17
+        }
+    },
+    {
+        "code": "350419",
+        "name": "Tanggunggunung (Tanggung Gunung)",
+        "count": {
+            "desa": 7
+        }
+    },
+    {
+        "code": "350401",
+        "name": "Tulungagung",
+        "count": {
+            "desa": 14
+        }
+    }
+]

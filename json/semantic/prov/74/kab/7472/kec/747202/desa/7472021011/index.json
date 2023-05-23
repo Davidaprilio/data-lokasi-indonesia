@@ -1,0 +1,17 @@
+{
+    "code": "7472021011",
+    "name": "Bukit Wolio Indah",
+    "poscode": "93711",
+    "provinsi": {
+        "code": "74",
+        "name": "Sulawesi Tenggara"
+    },
+    "kabupaten": {
+        "code": "7472",
+        "name": "Bau Bau"
+    },
+    "kecamatan": {
+        "code": "747202",
+        "name": "Wolio"
+    }
+}

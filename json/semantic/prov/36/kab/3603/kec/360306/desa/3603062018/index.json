@@ -1,0 +1,17 @@
+{
+    "code": "3603062018",
+    "name": "Kresek",
+    "poscode": "15621",
+    "provinsi": {
+        "code": "36",
+        "name": "Banten"
+    },
+    "kabupaten": {
+        "code": "3603",
+        "name": "Tangerang"
+    },
+    "kecamatan": {
+        "code": "360306",
+        "name": "Kresek"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "code": "3277",
+    "type": "Kota",
+    "name": "Cimahi",
+    "fullname": "Kota Cimahi",
+    "jumlah": {
+        "kecamatan": 3,
+        "desa": 15
+    }
+}

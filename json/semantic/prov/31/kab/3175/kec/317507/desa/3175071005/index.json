@@ -1,0 +1,17 @@
+{
+    "code": "3175071005",
+    "name": "Malaka Sari",
+    "poscode": "13460",
+    "provinsi": {
+        "code": "31",
+        "name": "DKI Jakarta"
+    },
+    "kabupaten": {
+        "code": "3175",
+        "name": "Jakarta Timur"
+    },
+    "kecamatan": {
+        "code": "317507",
+        "name": "Duren Sawit"
+    }
+}

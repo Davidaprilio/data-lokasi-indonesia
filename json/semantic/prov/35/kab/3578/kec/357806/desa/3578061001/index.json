@@ -1,0 +1,17 @@
+{
+    "code": "3578061001",
+    "name": "Petemon",
+    "poscode": "60252",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3578",
+        "name": "Surabaya"
+    },
+    "kecamatan": {
+        "code": "357806",
+        "name": "Sawahan"
+    }
+}

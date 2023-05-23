@@ -1,0 +1,17 @@
+{
+    "code": "1115062012",
+    "name": "Gampong Teungoh",
+    "poscode": "23674",
+    "provinsi": {
+        "code": "11",
+        "name": "Aceh (NAD)"
+    },
+    "kabupaten": {
+        "code": "1115",
+        "name": "Nagan Raya"
+    },
+    "kecamatan": {
+        "code": "111506",
+        "name": "Suka Makmue"
+    }
+}

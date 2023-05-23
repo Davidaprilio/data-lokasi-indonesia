@@ -1,0 +1,17 @@
+{
+    "code": "8171012001",
+    "name": "Latuhalat",
+    "poscode": "97118",
+    "provinsi": {
+        "code": "81",
+        "name": "Maluku"
+    },
+    "kabupaten": {
+        "code": "8171",
+        "name": "Ambon"
+    },
+    "kecamatan": {
+        "code": "817101",
+        "name": "Nusaniwe (Nusanive)"
+    }
+}

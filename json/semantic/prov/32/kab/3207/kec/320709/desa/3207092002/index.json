@@ -1,0 +1,17 @@
+{
+    "code": "3207092002",
+    "name": "Talagasari",
+    "poscode": "46253",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3207",
+        "name": "Ciamis"
+    },
+    "kecamatan": {
+        "code": "320709",
+        "name": "Kawali"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "6110082003",
+    "name": "Nanga Belimbing",
+    "poscode": "79678",
+    "provinsi": {
+        "code": "61",
+        "name": "Kalimantan Barat"
+    },
+    "kabupaten": {
+        "code": "6110",
+        "name": "Melawi"
+    },
+    "kecamatan": {
+        "code": "611008",
+        "name": "Pinoh Utara"
+    }
+}

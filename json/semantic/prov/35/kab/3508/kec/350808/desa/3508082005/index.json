@@ -1,0 +1,17 @@
+{
+    "code": "3508082005",
+    "name": "Sumbersari",
+    "poscode": "67359",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3508",
+        "name": "Lumajang"
+    },
+    "kecamatan": {
+        "code": "350808",
+        "name": "Rowokangkung"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "3205011003",
+    "name": "Margawati",
+    "poscode": "44113",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3205",
+        "name": "Garut"
+    },
+    "kecamatan": {
+        "code": "320501",
+        "name": "Garut Kota"
+    }
+}

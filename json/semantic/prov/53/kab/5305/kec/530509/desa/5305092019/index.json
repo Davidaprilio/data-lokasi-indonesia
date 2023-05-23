@@ -1,0 +1,17 @@
+{
+    "code": "5305092019",
+    "name": "Blang Merang",
+    "poscode": "85880",
+    "provinsi": {
+        "code": "53",
+        "name": "Nusa Tenggara Timur (NTT)"
+    },
+    "kabupaten": {
+        "code": "5305",
+        "name": "Alor"
+    },
+    "kecamatan": {
+        "code": "530509",
+        "name": "Pantar Barat"
+    }
+}

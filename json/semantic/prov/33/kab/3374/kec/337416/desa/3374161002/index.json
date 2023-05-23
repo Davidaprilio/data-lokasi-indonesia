@@ -1,0 +1,17 @@
+{
+    "code": "3374161002",
+    "name": "Tugurejo",
+    "poscode": "50185",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3374",
+        "name": "Semarang"
+    },
+    "kecamatan": {
+        "code": "337416",
+        "name": "Tugu"
+    }
+}

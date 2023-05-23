@@ -1,0 +1,17 @@
+{
+    "code": "3525141010",
+    "name": "Kebomas",
+    "poscode": "61121",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3525",
+        "name": "Gresik"
+    },
+    "kecamatan": {
+        "code": "352514",
+        "name": "Kebomas"
+    }
+}

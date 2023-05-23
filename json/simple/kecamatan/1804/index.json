@@ -1,0 +1,107 @@
+[
+    {
+        "code": "180419",
+        "name": "Air Hitam",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "180404",
+        "name": "Balik Bukit",
+        "count": {
+            "desa": 12
+        }
+    },
+    {
+        "code": "180423",
+        "name": "Bandar Negeri Suoh",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "180410",
+        "name": "Batu Brak",
+        "count": {
+            "desa": 11
+        }
+    },
+    {
+        "code": "180421",
+        "name": "Batu Ketulis",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "180406",
+        "name": "Belalau",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "180415",
+        "name": "Gedung Surian",
+        "count": {
+            "desa": 5
+        }
+    },
+    {
+        "code": "180418",
+        "name": "Kebun Tebu",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "180422",
+        "name": "Lumbok Seminung",
+        "count": {
+            "desa": 11
+        }
+    },
+    {
+        "code": "180420",
+        "name": "Pagar Dewa",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "180408",
+        "name": "Sekincau",
+        "count": {
+            "desa": 5
+        }
+    },
+    {
+        "code": "180411",
+        "name": "Sukau",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "180405",
+        "name": "Sumber Jaya",
+        "count": {
+            "desa": 6
+        }
+    },
+    {
+        "code": "180409",
+        "name": "Suoh",
+        "count": {
+            "desa": 7
+        }
+    },
+    {
+        "code": "180407",
+        "name": "Way Tenong",
+        "count": {
+            "desa": 9
+        }
+    }
+]

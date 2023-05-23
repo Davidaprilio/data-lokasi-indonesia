@@ -1,0 +1,17 @@
+{
+    "code": "3207072003",
+    "name": "Sukakerta",
+    "poscode": "46263",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3207",
+        "name": "Ciamis"
+    },
+    "kecamatan": {
+        "code": "320707",
+        "name": "Panumbangan"
+    }
+}

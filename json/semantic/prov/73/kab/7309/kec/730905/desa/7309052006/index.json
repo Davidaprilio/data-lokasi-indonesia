@@ -1,0 +1,17 @@
+{
+    "code": "7309052006",
+    "name": "Salenrang",
+    "poscode": "90554",
+    "provinsi": {
+        "code": "73",
+        "name": "Sulawesi Selatan"
+    },
+    "kabupaten": {
+        "code": "7309",
+        "name": "Maros"
+    },
+    "kecamatan": {
+        "code": "730905",
+        "name": "Bontoa (Maros Utara)"
+    }
+}

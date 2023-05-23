@@ -1,0 +1,17 @@
+{
+    "code": "6309022009",
+    "name": "Takulat",
+    "poscode": "71552",
+    "provinsi": {
+        "code": "63",
+        "name": "Kalimantan Selatan"
+    },
+    "kabupaten": {
+        "code": "6309",
+        "name": "Tabalong"
+    },
+    "kecamatan": {
+        "code": "630902",
+        "name": "Kelua (Klua)"
+    }
+}

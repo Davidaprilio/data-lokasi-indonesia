@@ -1,0 +1,17 @@
+{
+    "code": "3213031005",
+    "name": "Soklat",
+    "poscode": "41215",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3213",
+        "name": "Subang"
+    },
+    "kecamatan": {
+        "code": "321303",
+        "name": "Subang"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "6211042003",
+    "name": "Lawang Uru",
+    "poscode": "74863",
+    "provinsi": {
+        "code": "62",
+        "name": "Kalimantan Tengah"
+    },
+    "kabupaten": {
+        "code": "6211",
+        "name": "Pulang Pisau"
+    },
+    "kecamatan": {
+        "code": "621104",
+        "name": "Banama Tingang"
+    }
+}

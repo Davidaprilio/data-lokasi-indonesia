@@ -1,0 +1,17 @@
+{
+    "code": "3524222003",
+    "name": "Pangkatrejo",
+    "poscode": "62218",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3524",
+        "name": "Lamongan"
+    },
+    "kecamatan": {
+        "code": "352422",
+        "name": "Lamongan"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "7111062001",
+    "name": "Biniha Timur",
+    "poscode": "95779",
+    "provinsi": {
+        "code": "71",
+        "name": "Sulawesi Utara"
+    },
+    "kabupaten": {
+        "code": "7111",
+        "name": "Bolaang Mongondow Selatan"
+    },
+    "kecamatan": {
+        "code": "711106",
+        "name": "Helumo"
+    }
+}

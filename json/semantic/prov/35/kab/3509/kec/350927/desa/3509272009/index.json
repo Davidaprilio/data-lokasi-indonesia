@@ -1,0 +1,17 @@
+{
+    "code": "3509272009",
+    "name": "Plalangan",
+    "poscode": "68113",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3509",
+        "name": "Jember"
+    },
+    "kecamatan": {
+        "code": "350927",
+        "name": "Kalisat"
+    }
+}

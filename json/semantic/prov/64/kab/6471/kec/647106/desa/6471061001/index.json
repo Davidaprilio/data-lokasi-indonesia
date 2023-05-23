@@ -1,0 +1,17 @@
+{
+    "code": "6471061001",
+    "name": "Prapatan",
+    "poscode": "76111",
+    "provinsi": {
+        "code": "64",
+        "name": "Kalimantan Timur"
+    },
+    "kabupaten": {
+        "code": "6471",
+        "name": "Balikpapan"
+    },
+    "kecamatan": {
+        "code": "647106",
+        "name": "Balikpapan Kota"
+    }
+}

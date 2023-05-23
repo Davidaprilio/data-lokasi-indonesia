@@ -1,0 +1,156 @@
+[
+    {
+        "code": "531102",
+        "name": "Haharu",
+        "count": {
+            "desa": 7
+        }
+    },
+    {
+        "code": "531114",
+        "name": "Kahaunguweti (Kahaungu Eti)",
+        "count": {
+            "desa": 9
+        }
+    },
+    {
+        "code": "531117",
+        "name": "Kambata Mapambuhang",
+        "count": {
+            "desa": 6
+        }
+    },
+    {
+        "code": "531116",
+        "name": "Kambera",
+        "count": {
+            "desa": 8
+        }
+    },
+    {
+        "code": "531120",
+        "name": "Kanatang",
+        "count": {
+            "desa": 5
+        }
+    },
+    {
+        "code": "531113",
+        "name": "Karera",
+        "count": {
+            "desa": 7
+        }
+    },
+    {
+        "code": "531119",
+        "name": "Katala Hamu Lingu",
+        "count": {
+            "desa": 5
+        }
+    },
+    {
+        "code": "531101",
+        "name": "Kota Waingapu",
+        "count": {
+            "desa": 7
+        }
+    },
+    {
+        "code": "531103",
+        "name": "Lewa",
+        "count": {
+            "desa": 8
+        }
+    },
+    {
+        "code": "531118",
+        "name": "Lewa Tidahu",
+        "count": {
+            "desa": 6
+        }
+    },
+    {
+        "code": "531122",
+        "name": "Mahu",
+        "count": {
+            "desa": 6
+        }
+    },
+    {
+        "code": "531115",
+        "name": "Matawai Lappau (La Pawu)",
+        "count": {
+            "desa": 6
+        }
+    },
+    {
+        "code": "531121",
+        "name": "Ngadu Ngala",
+        "count": {
+            "desa": 5
+        }
+    },
+    {
+        "code": "531104",
+        "name": "Nggaha Ori Angu (Nggaha Oriangu)",
+        "count": {
+            "desa": 8
+        }
+    },
+    {
+        "code": "531112",
+        "name": "Paberiwai",
+        "count": {
+            "desa": 7
+        }
+    },
+    {
+        "code": "531110",
+        "name": "Pahunga Lodu",
+        "count": {
+            "desa": 8
+        }
+    },
+    {
+        "code": "531107",
+        "name": "Pandawai",
+        "count": {
+            "desa": 7
+        }
+    },
+    {
+        "code": "531106",
+        "name": "Pinu Pahar (Pinupahar / Pirapahar)",
+        "count": {
+            "desa": 6
+        }
+    },
+    {
+        "code": "531109",
+        "name": "Rindi",
+        "count": {
+            "desa": 8
+        }
+    },
+    {
+        "code": "531105",
+        "name": "Tabundung",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "531108",
+        "name": "Umalulu",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "531111",
+        "name": "Wulla Waijelu (Wula Waijelu)",
+        "count": {
+            "desa": 7
+        }
+    }
+]

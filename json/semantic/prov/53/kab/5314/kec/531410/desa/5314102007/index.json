@@ -1,0 +1,17 @@
+{
+    "code": "5314102007",
+    "name": "Tena Lai",
+    "poscode": "85974",
+    "provinsi": {
+        "code": "53",
+        "name": "Nusa Tenggara Timur (NTT)"
+    },
+    "kabupaten": {
+        "code": "5314",
+        "name": "Rote Ndao"
+    },
+    "kecamatan": {
+        "code": "531410",
+        "name": "Landu Leko"
+    }
+}

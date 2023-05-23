@@ -1,0 +1,44 @@
+[
+    {
+        "code": "537101",
+        "name": "Alak",
+        "count": {
+            "desa": 12
+        }
+    },
+    {
+        "code": "537103",
+        "name": "Kelapa Lima",
+        "count": {
+            "desa": 5
+        }
+    },
+    {
+        "code": "537106",
+        "name": "Kota Lama",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "537105",
+        "name": "Kota Raja",
+        "count": {
+            "desa": 8
+        }
+    },
+    {
+        "code": "537102",
+        "name": "Maulafa",
+        "count": {
+            "desa": 9
+        }
+    },
+    {
+        "code": "537104",
+        "name": "Oebobo",
+        "count": {
+            "desa": 7
+        }
+    }
+]

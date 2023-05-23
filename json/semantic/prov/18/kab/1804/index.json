@@ -1,0 +1,10 @@
+{
+    "code": "1804",
+    "type": "Kabupaten",
+    "name": "Lampung Barat",
+    "fullname": "Kabupaten Lampung Barat",
+    "jumlah": {
+        "kecamatan": 15,
+        "desa": 136
+    }
+}

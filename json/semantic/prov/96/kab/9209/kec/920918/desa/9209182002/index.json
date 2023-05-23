@@ -1,0 +1,17 @@
+{
+    "code": "9209182002",
+    "name": "Krisnos",
+    "poscode": "98376",
+    "provinsi": {
+        "code": "96",
+        "name": "Papua Barat Daya"
+    },
+    "kabupaten": {
+        "code": "9209",
+        "name": "Tambrauw"
+    },
+    "kecamatan": {
+        "code": "920918",
+        "name": "Tobouw"
+    }
+}

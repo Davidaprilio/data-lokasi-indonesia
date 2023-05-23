@@ -1,0 +1,17 @@
+{
+    "code": "1220122012",
+    "name": "Manare Tua",
+    "poscode": "22746",
+    "provinsi": {
+        "code": "12",
+        "name": "Sumatera Utara"
+    },
+    "kabupaten": {
+        "code": "1220",
+        "name": "Padang Lawas Utara"
+    },
+    "kecamatan": {
+        "code": "122012",
+        "name": "Ujung Batu"
+    }
+}

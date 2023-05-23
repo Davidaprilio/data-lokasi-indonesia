@@ -1,0 +1,17 @@
+{
+    "code": "1607142005",
+    "name": "Bintaran",
+    "poscode": "30973",
+    "provinsi": {
+        "code": "16",
+        "name": "Sumatera Selatan"
+    },
+    "kabupaten": {
+        "code": "1607",
+        "name": "Banyuasin"
+    },
+    "kecamatan": {
+        "code": "160714",
+        "name": "Air Salek"
+    }
+}

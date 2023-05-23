@@ -1,0 +1,10 @@
+{
+    "code": "1902",
+    "type": "Kabupaten",
+    "name": "Belitung",
+    "fullname": "Kabupaten Belitung",
+    "jumlah": {
+        "kecamatan": 5,
+        "desa": 49
+    }
+}

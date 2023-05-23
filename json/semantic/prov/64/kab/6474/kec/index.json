@@ -1,0 +1,23 @@
+[
+    {
+        "code": "647403",
+        "name": "Bontang Barat",
+        "count": {
+            "desa": 3
+        }
+    },
+    {
+        "code": "647402",
+        "name": "Bontang Selatan",
+        "count": {
+            "desa": 6
+        }
+    },
+    {
+        "code": "647401",
+        "name": "Bontang Utara",
+        "count": {
+            "desa": 6
+        }
+    }
+]

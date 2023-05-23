@@ -1,0 +1,17 @@
+{
+    "code": "9503032026",
+    "name": "Babet",
+    "poscode": "99740",
+    "provinsi": {
+        "code": "95",
+        "name": "Papua Pegunungan"
+    },
+    "kabupaten": {
+        "code": "9503",
+        "name": "Yahukimo"
+    },
+    "kecamatan": {
+        "code": "950303",
+        "name": "Ninia"
+    }
+}

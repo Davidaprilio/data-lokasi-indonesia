@@ -1,0 +1,135 @@
+[
+    {
+        "code": "650305",
+        "name": "Krayan",
+        "count": {
+            "desa": 23
+        }
+    },
+    {
+        "code": "650319",
+        "name": "Krayan Barat",
+        "count": {
+            "desa": 25
+        }
+    },
+    {
+        "code": "650307",
+        "name": "Krayan Selatan",
+        "count": {
+            "desa": 13
+        }
+    },
+    {
+        "code": "650317",
+        "name": "Krayan Tengah",
+        "count": {
+            "desa": 11
+        }
+    },
+    {
+        "code": "650318",
+        "name": "Krayan Timur",
+        "count": {
+            "desa": 17
+        }
+    },
+    {
+        "code": "650304",
+        "name": "Lumbis",
+        "count": {
+            "desa": 28
+        }
+    },
+    {
+        "code": "650315",
+        "name": "Lumbis Ogong",
+        "count": {
+            "desa": 49
+        }
+    },
+    {
+        "code": "650302",
+        "name": "Nunukan",
+        "count": {
+            "desa": 5
+        }
+    },
+    {
+        "code": "650309",
+        "name": "Nunukan Selatan",
+        "count": {
+            "desa": 4
+        }
+    },
+    {
+        "code": "650301",
+        "name": "Sebatik",
+        "count": {
+            "desa": 4
+        }
+    },
+    {
+        "code": "650308",
+        "name": "Sebatik Barat",
+        "count": {
+            "desa": 4
+        }
+    },
+    {
+        "code": "650312",
+        "name": "Sebatik Tengah",
+        "count": {
+            "desa": 4
+        }
+    },
+    {
+        "code": "650310",
+        "name": "Sebatik Timur",
+        "count": {
+            "desa": 4
+        }
+    },
+    {
+        "code": "650311",
+        "name": "Sebatik Utara",
+        "count": {
+            "desa": 3
+        }
+    },
+    {
+        "code": "650306",
+        "name": "Sebuku",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "650313",
+        "name": "Sei Menggaris",
+        "count": {
+            "desa": 4
+        }
+    },
+    {
+        "code": "650303",
+        "name": "Sembakung",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "650316",
+        "name": "Sembakung Atulai",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "650314",
+        "name": "Tulin Onsoi",
+        "count": {
+            "desa": 12
+        }
+    }
+]

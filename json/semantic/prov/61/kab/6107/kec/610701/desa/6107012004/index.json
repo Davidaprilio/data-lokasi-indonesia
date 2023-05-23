@@ -1,0 +1,17 @@
+{
+    "code": "6107012004",
+    "name": "Sei/Sungai Jaga A",
+    "poscode": "79272",
+    "provinsi": {
+        "code": "61",
+        "name": "Kalimantan Barat"
+    },
+    "kabupaten": {
+        "code": "6107",
+        "name": "Bengkayang"
+    },
+    "kecamatan": {
+        "code": "610701",
+        "name": "Sungai Raya"
+    }
+}

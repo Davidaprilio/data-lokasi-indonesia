@@ -1,0 +1,17 @@
+{
+    "code": "7172071005",
+    "name": "Bitung Timur",
+    "poscode": "95522",
+    "provinsi": {
+        "code": "71",
+        "name": "Sulawesi Utara"
+    },
+    "kabupaten": {
+        "code": "7172",
+        "name": "Bitung"
+    },
+    "kecamatan": {
+        "code": "717207",
+        "name": "Maesa"
+    }
+}

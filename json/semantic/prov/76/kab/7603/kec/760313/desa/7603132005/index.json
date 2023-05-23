@@ -1,0 +1,17 @@
+{
+    "code": "7603132005",
+    "name": "Siwi",
+    "poscode": "91363",
+    "provinsi": {
+        "code": "76",
+        "name": "Sulawesi Barat"
+    },
+    "kabupaten": {
+        "code": "7603",
+        "name": "Mamasa"
+    },
+    "kecamatan": {
+        "code": "760313",
+        "name": "Nosu"
+    }
+}

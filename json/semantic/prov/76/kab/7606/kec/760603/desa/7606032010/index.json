@@ -1,0 +1,17 @@
+{
+    "code": "7606032010",
+    "name": "Barakkang",
+    "poscode": "91461",
+    "provinsi": {
+        "code": "76",
+        "name": "Sulawesi Barat"
+    },
+    "kabupaten": {
+        "code": "7606",
+        "name": "Mamuju Tengah"
+    },
+    "kecamatan": {
+        "code": "760603",
+        "name": "Budong-Budong"
+    }
+}

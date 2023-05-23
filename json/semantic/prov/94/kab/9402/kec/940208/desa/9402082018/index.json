@@ -1,0 +1,17 @@
+{
+    "code": "9402082018",
+    "name": "Muara",
+    "poscode": "98925",
+    "provinsi": {
+        "code": "94",
+        "name": "Papua Tengah"
+    },
+    "kabupaten": {
+        "code": "9402",
+        "name": "Puncak Jaya"
+    },
+    "kecamatan": {
+        "code": "940208",
+        "name": "Yamo"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "3514122004",
+    "name": "Kepulungan",
+    "poscode": "67155",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3514",
+        "name": "Pasuruan"
+    },
+    "kecamatan": {
+        "code": "351412",
+        "name": "Gempol"
+    }
+}

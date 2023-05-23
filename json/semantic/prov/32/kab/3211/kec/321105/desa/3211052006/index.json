@@ -1,0 +1,17 @@
+{
+    "code": "3211052006",
+    "name": "Linggajaya",
+    "poscode": "45363",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3211",
+        "name": "Sumedang"
+    },
+    "kecamatan": {
+        "code": "321105",
+        "name": "Cisitu"
+    }
+}

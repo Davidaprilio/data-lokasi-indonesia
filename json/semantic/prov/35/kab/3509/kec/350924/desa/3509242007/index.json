@@ -1,0 +1,17 @@
+{
+    "code": "3509242007",
+    "name": "Pakusari",
+    "poscode": "68181",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3509",
+        "name": "Jember"
+    },
+    "kecamatan": {
+        "code": "350924",
+        "name": "Pakusari"
+    }
+}

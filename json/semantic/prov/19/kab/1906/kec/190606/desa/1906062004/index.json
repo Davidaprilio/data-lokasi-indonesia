@@ -1,0 +1,17 @@
+{
+    "code": "1906062004",
+    "name": "Lintang",
+    "poscode": "33563",
+    "provinsi": {
+        "code": "19",
+        "name": "Kepulauan Bangka Belitung"
+    },
+    "kabupaten": {
+        "code": "1906",
+        "name": "Belitung Timur"
+    },
+    "kecamatan": {
+        "code": "190606",
+        "name": "Simpang Renggiang"
+    }
+}

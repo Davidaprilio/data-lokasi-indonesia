@@ -1,0 +1,17 @@
+{
+    "code": "7271061006",
+    "name": "Boyaoge",
+    "poscode": "94221",
+    "provinsi": {
+        "code": "72",
+        "name": "Sulawesi Tengah"
+    },
+    "kabupaten": {
+        "code": "7271",
+        "name": "Palu"
+    },
+    "kecamatan": {
+        "code": "727106",
+        "name": "Tatanga"
+    }
+}

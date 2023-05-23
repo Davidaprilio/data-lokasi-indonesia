@@ -1,0 +1,17 @@
+{
+    "code": "9502012001",
+    "name": "Kabiding (Betaabib)",
+    "poscode": "99415",
+    "provinsi": {
+        "code": "95",
+        "name": "Papua Pegunungan"
+    },
+    "kabupaten": {
+        "code": "9502",
+        "name": "Pegunungan Bintang"
+    },
+    "kecamatan": {
+        "code": "950201",
+        "name": "Oksibil"
+    }
+}

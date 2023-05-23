@@ -1,0 +1,17 @@
+{
+    "code": "3174081006",
+    "name": "Cikoko",
+    "poscode": "12770",
+    "provinsi": {
+        "code": "31",
+        "name": "DKI Jakarta"
+    },
+    "kabupaten": {
+        "code": "3174",
+        "name": "Jakarta Selatan"
+    },
+    "kecamatan": {
+        "code": "317408",
+        "name": "Pancoran"
+    }
+}

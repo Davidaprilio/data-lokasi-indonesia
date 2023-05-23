@@ -1,0 +1,17 @@
+{
+    "code": "1275011009",
+    "name": "Jati Karya",
+    "poscode": "20746",
+    "provinsi": {
+        "code": "12",
+        "name": "Sumatera Utara"
+    },
+    "kabupaten": {
+        "code": "1275",
+        "name": "Binjai"
+    },
+    "kecamatan": {
+        "code": "127501",
+        "name": "Binjai Utara"
+    }
+}

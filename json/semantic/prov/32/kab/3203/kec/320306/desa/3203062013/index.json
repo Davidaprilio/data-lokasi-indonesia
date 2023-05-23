@@ -1,0 +1,17 @@
+{
+    "code": "3203062013",
+    "name": "Neglasari",
+    "poscode": "43283",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3203",
+        "name": "Cianjur"
+    },
+    "kecamatan": {
+        "code": "320306",
+        "name": "Bojongpicung"
+    }
+}

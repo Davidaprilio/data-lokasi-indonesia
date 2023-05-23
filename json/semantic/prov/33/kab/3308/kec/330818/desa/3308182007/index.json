@@ -1,0 +1,17 @@
+{
+    "code": "3308182007",
+    "name": "Kleteran",
+    "poscode": "56196",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3308",
+        "name": "Magelang"
+    },
+    "kecamatan": {
+        "code": "330818",
+        "name": "Grabag"
+    }
+}

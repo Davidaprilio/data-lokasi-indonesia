@@ -1,0 +1,17 @@
+{
+    "code": "7172011003",
+    "name": "Batulubang",
+    "poscode": "95552",
+    "provinsi": {
+        "code": "71",
+        "name": "Sulawesi Utara"
+    },
+    "kabupaten": {
+        "code": "7172",
+        "name": "Bitung"
+    },
+    "kecamatan": {
+        "code": "717201",
+        "name": "Lembeh Selatan (Bitung Selatan)"
+    }
+}

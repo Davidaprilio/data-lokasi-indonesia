@@ -1,0 +1,17 @@
+{
+    "code": "7504112001",
+    "name": "Wanggarasi (Wonggarasi Timur)",
+    "poscode": "96465",
+    "provinsi": {
+        "code": "75",
+        "name": "Gorontalo"
+    },
+    "kabupaten": {
+        "code": "7504",
+        "name": "Pahuwato"
+    },
+    "kecamatan": {
+        "code": "750411",
+        "name": "Wanggarasi"
+    }
+}

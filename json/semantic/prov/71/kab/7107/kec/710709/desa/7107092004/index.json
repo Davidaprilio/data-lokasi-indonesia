@@ -1,0 +1,17 @@
+{
+    "code": "7107092004",
+    "name": "Molompar Dua",
+    "poscode": "95990",
+    "provinsi": {
+        "code": "71",
+        "name": "Sulawesi Utara"
+    },
+    "kabupaten": {
+        "code": "7107",
+        "name": "Minahasa Tenggara"
+    },
+    "kecamatan": {
+        "code": "710709",
+        "name": "Tombatu Timur"
+    }
+}

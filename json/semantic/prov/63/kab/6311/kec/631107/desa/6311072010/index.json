@@ -1,0 +1,17 @@
+{
+    "code": "6311072010",
+    "name": "Bungin",
+    "poscode": "71617",
+    "provinsi": {
+        "code": "63",
+        "name": "Kalimantan Selatan"
+    },
+    "kabupaten": {
+        "code": "6311",
+        "name": "Balangan"
+    },
+    "kecamatan": {
+        "code": "631107",
+        "name": "Paringin Selatan"
+    }
+}

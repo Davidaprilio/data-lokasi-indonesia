@@ -1,0 +1,17 @@
+{
+    "code": "3211032011",
+    "name": "Pakualam (Paku Alam)",
+    "poscode": "45372",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3211",
+        "name": "Sumedang"
+    },
+    "kecamatan": {
+        "code": "321103",
+        "name": "Darmaraja"
+    }
+}

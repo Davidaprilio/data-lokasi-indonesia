@@ -1,0 +1,17 @@
+{
+    "code": "1802262003",
+    "name": "Rajawali (Raja Wali)",
+    "poscode": "34159",
+    "provinsi": {
+        "code": "18",
+        "name": "Lampung"
+    },
+    "kabupaten": {
+        "code": "1802",
+        "name": "Lampung Tengah"
+    },
+    "kecamatan": {
+        "code": "180226",
+        "name": "Bandar Surabaya"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "6472051012",
+    "name": "Sempaja Barat",
+    "poscode": "75119",
+    "provinsi": {
+        "code": "64",
+        "name": "Kalimantan Timur"
+    },
+    "kabupaten": {
+        "code": "6472",
+        "name": "Samarinda"
+    },
+    "kecamatan": {
+        "code": "647205",
+        "name": "Samarinda Utara"
+    }
+}

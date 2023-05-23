@@ -1,0 +1,17 @@
+{
+    "code": "1709022014",
+    "name": "Jum'at (Jumat)",
+    "poscode": "38385",
+    "provinsi": {
+        "code": "17",
+        "name": "Bengkulu"
+    },
+    "kabupaten": {
+        "code": "1709",
+        "name": "Bengkulu Tengah"
+    },
+    "kecamatan": {
+        "code": "170902",
+        "name": "Talang Empat"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "1804092006",
+    "name": "Banding Agung",
+    "poscode": "34880",
+    "provinsi": {
+        "code": "18",
+        "name": "Lampung"
+    },
+    "kabupaten": {
+        "code": "1804",
+        "name": "Lampung Barat"
+    },
+    "kecamatan": {
+        "code": "180409",
+        "name": "Suoh"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "1803152011",
+    "name": "Sumber Agung",
+    "poscode": "34559",
+    "provinsi": {
+        "code": "18",
+        "name": "Lampung"
+    },
+    "kabupaten": {
+        "code": "1803",
+        "name": "Lampung Utara"
+    },
+    "kecamatan": {
+        "code": "180315",
+        "name": "Muara Sungkai"
+    }
+}

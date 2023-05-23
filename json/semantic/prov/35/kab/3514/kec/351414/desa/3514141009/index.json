@@ -1,0 +1,17 @@
+{
+    "code": "3514141009",
+    "name": "Latek",
+    "poscode": "67153",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3514",
+        "name": "Pasuruan"
+    },
+    "kecamatan": {
+        "code": "351414",
+        "name": "Bangil"
+    }
+}

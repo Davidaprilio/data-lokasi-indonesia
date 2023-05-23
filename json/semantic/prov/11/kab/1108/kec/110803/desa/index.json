@@ -1,0 +1,197 @@
+[
+    {
+        "code": "1108032012",
+        "name": "Alue Rambee (Alue Rambe)",
+        "poscode": "24371"
+    },
+    {
+        "code": "1108032036",
+        "name": "Babah Lueng",
+        "poscode": "24371"
+    },
+    {
+        "code": "1108032006",
+        "name": "Bayu",
+        "poscode": "24371"
+    },
+    {
+        "code": "1108032007",
+        "name": "Blang Ado",
+        "poscode": "24371"
+    },
+    {
+        "code": "1108032021",
+        "name": "Blang Gurah",
+        "poscode": "24371"
+    },
+    {
+        "code": "1108032013",
+        "name": "Blang Riek",
+        "poscode": "24371"
+    },
+    {
+        "code": "1108032003",
+        "name": "Blang Talon",
+        "poscode": "24371"
+    },
+    {
+        "code": "1108032014",
+        "name": "Cempeudak (Ceumpeudak)",
+        "poscode": "24371"
+    },
+    {
+        "code": "1108032023",
+        "name": "Ceumeucet (Cot Meunye Cut)",
+        "poscode": "24371"
+    },
+    {
+        "code": "1108032016",
+        "name": "Cot Merbo (Cot Merbo / Meureubo)",
+        "poscode": "24371"
+    },
+    {
+        "code": "1108032004",
+        "name": "Cot Rheu (Cot Rheue)",
+        "poscode": "24371"
+    },
+    {
+        "code": "1108032031",
+        "name": "Cot Seumiyong (Cot Seuminyong / Sumiyong)",
+        "poscode": "24371"
+    },
+    {
+        "code": "1108032026",
+        "name": "Cot Seutui",
+        "poscode": "24371"
+    },
+    {
+        "code": "1108032008",
+        "name": "Dayah Meunara (Meunasah Dayah Meunara / Mon Ara)",
+        "poscode": "24371"
+    },
+    {
+        "code": "1108032022",
+        "name": "Guha Ulue (Guha Uleue)",
+        "poscode": "24371"
+    },
+    {
+        "code": "1108032017",
+        "name": "Keude Blang Ara",
+        "poscode": "24371"
+    },
+    {
+        "code": "1108032018",
+        "name": "Keude Krueng",
+        "poscode": "24371"
+    },
+    {
+        "code": "1108032032",
+        "name": "Keureusek",
+        "poscode": "24371"
+    },
+    {
+        "code": "1108032005",
+        "name": "Krueng Manyang",
+        "poscode": "24371"
+    },
+    {
+        "code": "1108032019",
+        "name": "Krueng Seunong",
+        "poscode": "24371"
+    },
+    {
+        "code": "1108032033",
+        "name": "Krueng Seupeng",
+        "poscode": "24371"
+    },
+    {
+        "code": "1108032027",
+        "name": "Langkuta (Lang Kuta)",
+        "poscode": "24371"
+    },
+    {
+        "code": "1108032011",
+        "name": "Lhok Jok",
+        "poscode": "24371"
+    },
+    {
+        "code": "1108032001",
+        "name": "Meunasah Blang Ara",
+        "poscode": "24371"
+    },
+    {
+        "code": "1108032002",
+        "name": "Meunasah Buket/Bukit",
+        "poscode": "24371"
+    },
+    {
+        "code": "1108032030",
+        "name": "Meunasah Kulam",
+        "poscode": "24371"
+    },
+    {
+        "code": "1108032009",
+        "name": "Meunasah Kumbang",
+        "poscode": "24371"
+    },
+    {
+        "code": "1108032010",
+        "name": "Meunyecut Bahagia",
+        "poscode": "24371"
+    },
+    {
+        "code": "1108032029",
+        "name": "Meuria (Meuriya)",
+        "poscode": "24371"
+    },
+    {
+        "code": "1108032034",
+        "name": "Mulieng/Muling Manyang",
+        "poscode": "24371"
+    },
+    {
+        "code": "1108032035",
+        "name": "Mulieng/Muling Meucat",
+        "poscode": "24371"
+    },
+    {
+        "code": "1108032037",
+        "name": "Panton Rayeuk I",
+        "poscode": "24371"
+    },
+    {
+        "code": "1108032038",
+        "name": "Panton Rayeuk II",
+        "poscode": "24371"
+    },
+    {
+        "code": "1108032024",
+        "name": "Pulo Barat",
+        "poscode": "24371"
+    },
+    {
+        "code": "1108032020",
+        "name": "Pulo Iboh/Iboih",
+        "poscode": "24371"
+    },
+    {
+        "code": "1108032025",
+        "name": "Pulo Rayeuk/Rayek",
+        "poscode": "24371"
+    },
+    {
+        "code": "1108032028",
+        "name": "Saweuk",
+        "poscode": "24371"
+    },
+    {
+        "code": "1108032015",
+        "name": "Seuneubok Drien",
+        "poscode": "24371"
+    },
+    {
+        "code": "1108032039",
+        "name": "Sido Muliyo (Sido Mulyo)",
+        "poscode": "24371"
+    }
+]

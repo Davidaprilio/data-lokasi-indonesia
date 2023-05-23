@@ -1,0 +1,17 @@
+{
+    "code": "1105052007",
+    "name": "Cot Seulamat",
+    "poscode": "23650",
+    "provinsi": {
+        "code": "11",
+        "name": "Aceh (NAD)"
+    },
+    "kabupaten": {
+        "code": "1105",
+        "name": "Aceh Barat"
+    },
+    "kecamatan": {
+        "code": "110505",
+        "name": "Samatiga"
+    }
+}

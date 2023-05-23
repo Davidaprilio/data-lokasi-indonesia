@@ -1,0 +1,17 @@
+{
+    "code": "1118032017",
+    "name": "Jurong Ara",
+    "poscode": "24186",
+    "provinsi": {
+        "code": "11",
+        "name": "Aceh (NAD)"
+    },
+    "kabupaten": {
+        "code": "1118",
+        "name": "Pidie Jaya"
+    },
+    "kecamatan": {
+        "code": "111803",
+        "name": "Jangka Buaya (Jangka Buya)"
+    }
+}

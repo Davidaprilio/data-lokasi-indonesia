@@ -1,0 +1,17 @@
+{
+    "code": "1112052021",
+    "name": "Krueng Panto",
+    "poscode": "23766",
+    "provinsi": {
+        "code": "11",
+        "name": "Aceh (NAD)"
+    },
+    "kabupaten": {
+        "code": "1112",
+        "name": "Aceh Barat Daya"
+    },
+    "kecamatan": {
+        "code": "111205",
+        "name": "Kuala Batee"
+    }
+}

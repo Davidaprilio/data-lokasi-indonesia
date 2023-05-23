@@ -1,0 +1,47 @@
+[
+    {
+        "code": "1408042004",
+        "name": "Meredan",
+        "poscode": "28772"
+    },
+    {
+        "code": "1408042007",
+        "name": "Meredan Barat",
+        "poscode": "28772"
+    },
+    {
+        "code": "1408041001",
+        "name": "Perawang",
+        "poscode": "28772"
+    },
+    {
+        "code": "1408042008",
+        "name": "Perawang Barat",
+        "poscode": "28772"
+    },
+    {
+        "code": "1408042003",
+        "name": "Pinang Sebatang",
+        "poscode": "28772"
+    },
+    {
+        "code": "1408042006",
+        "name": "Pinang Sebatang Barat",
+        "poscode": "28772"
+    },
+    {
+        "code": "1408042005",
+        "name": "Pinang Sebatang Timur",
+        "poscode": "28772"
+    },
+    {
+        "code": "1408042002",
+        "name": "Tualang",
+        "poscode": "28772"
+    },
+    {
+        "code": "1408042009",
+        "name": "Tualang Timur",
+        "poscode": "28772"
+    }
+]

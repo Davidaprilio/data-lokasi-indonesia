@@ -1,0 +1,17 @@
+{
+    "code": "3504102015",
+    "name": "Jabalsari",
+    "poscode": "66291",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3504",
+        "name": "Tulungagung"
+    },
+    "kecamatan": {
+        "code": "350410",
+        "name": "Sumbergempol"
+    }
+}

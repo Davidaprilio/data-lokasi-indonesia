@@ -1,0 +1,17 @@
+{
+    "code": "1802012016",
+    "name": "Agung Timur",
+    "poscode": "34174",
+    "provinsi": {
+        "code": "18",
+        "name": "Lampung"
+    },
+    "kabupaten": {
+        "code": "1802",
+        "name": "Lampung Tengah"
+    },
+    "kecamatan": {
+        "code": "180201",
+        "name": "Kalirejo"
+    }
+}

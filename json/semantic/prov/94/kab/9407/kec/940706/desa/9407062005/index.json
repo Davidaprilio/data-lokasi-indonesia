@@ -1,0 +1,17 @@
+{
+    "code": "9407062005",
+    "name": "Pugisiga",
+    "poscode": "98792",
+    "provinsi": {
+        "code": "94",
+        "name": "Papua Tengah"
+    },
+    "kabupaten": {
+        "code": "9407",
+        "name": "Intan Jaya"
+    },
+    "kecamatan": {
+        "code": "940706",
+        "name": "Hitadipa"
+    }
+}

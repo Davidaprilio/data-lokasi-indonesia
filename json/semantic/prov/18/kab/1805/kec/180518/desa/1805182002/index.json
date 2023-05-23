@@ -1,0 +1,17 @@
+{
+    "code": "1805182002",
+    "name": "Bumi Dipasena Agung",
+    "poscode": "34590",
+    "provinsi": {
+        "code": "18",
+        "name": "Lampung"
+    },
+    "kabupaten": {
+        "code": "1805",
+        "name": "Tulang Bawang"
+    },
+    "kecamatan": {
+        "code": "180518",
+        "name": "Rawa Jitu Timur (Rawajitu Timur)"
+    }
+}

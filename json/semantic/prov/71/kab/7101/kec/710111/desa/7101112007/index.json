@@ -1,0 +1,17 @@
+{
+    "code": "7101112007",
+    "name": "Dondomon",
+    "poscode": "95734",
+    "provinsi": {
+        "code": "71",
+        "name": "Sulawesi Utara"
+    },
+    "kabupaten": {
+        "code": "7101",
+        "name": "Bolaang Mongondow"
+    },
+    "kecamatan": {
+        "code": "710111",
+        "name": "Dumoga Utara"
+    }
+}

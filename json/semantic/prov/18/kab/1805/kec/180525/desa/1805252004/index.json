@@ -1,0 +1,17 @@
+{
+    "code": "1805252004",
+    "name": "Mahabang",
+    "poscode": "34596",
+    "provinsi": {
+        "code": "18",
+        "name": "Lampung"
+    },
+    "kabupaten": {
+        "code": "1805",
+        "name": "Tulang Bawang"
+    },
+    "kecamatan": {
+        "code": "180525",
+        "name": "Dente Teladas"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "7408022010",
+    "name": "Kasumeeto",
+    "poscode": "93954",
+    "provinsi": {
+        "code": "74",
+        "name": "Sulawesi Tenggara"
+    },
+    "kabupaten": {
+        "code": "7408",
+        "name": "Kolaka Utara"
+    },
+    "kecamatan": {
+        "code": "740802",
+        "name": "Pakue"
+    }
+}

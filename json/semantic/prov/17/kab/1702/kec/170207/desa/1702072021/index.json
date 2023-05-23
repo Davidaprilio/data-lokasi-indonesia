@@ -1,0 +1,17 @@
+{
+    "code": "1702072021",
+    "name": "Taba Tinggi",
+    "poscode": "39180",
+    "provinsi": {
+        "code": "17",
+        "name": "Bengkulu"
+    },
+    "kabupaten": {
+        "code": "1702",
+        "name": "Rejang Lebong"
+    },
+    "kecamatan": {
+        "code": "170207",
+        "name": "Padang Ulak Tanding"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "9407032003",
+    "name": "Debasiga",
+    "poscode": "98785",
+    "provinsi": {
+        "code": "94",
+        "name": "Papua Tengah"
+    },
+    "kabupaten": {
+        "code": "9407",
+        "name": "Intan Jaya"
+    },
+    "kecamatan": {
+        "code": "940703",
+        "name": "Wandai"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "6106112006",
+    "name": "Belikai",
+    "poscode": "78772",
+    "provinsi": {
+        "code": "61",
+        "name": "Kalimantan Barat"
+    },
+    "kabupaten": {
+        "code": "6106",
+        "name": "Kapuas Hulu"
+    },
+    "kecamatan": {
+        "code": "610611",
+        "name": "Seberuang"
+    }
+}

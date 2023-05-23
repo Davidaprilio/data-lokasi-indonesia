@@ -1,0 +1,17 @@
+{
+    "code": "5321032012",
+    "name": "Weseben",
+    "poscode": "85775",
+    "provinsi": {
+        "code": "53",
+        "name": "Nusa Tenggara Timur (NTT)"
+    },
+    "kabupaten": {
+        "code": "5321",
+        "name": "Malaka"
+    },
+    "kecamatan": {
+        "code": "532103",
+        "name": "Wewiku"
+    }
+}

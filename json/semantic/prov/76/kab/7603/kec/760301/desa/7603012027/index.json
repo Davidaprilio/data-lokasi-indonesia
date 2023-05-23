@@ -1,0 +1,17 @@
+{
+    "code": "7603012027",
+    "name": "Salu Alo",
+    "poscode": "91370",
+    "provinsi": {
+        "code": "76",
+        "name": "Sulawesi Barat"
+    },
+    "kabupaten": {
+        "code": "7603",
+        "name": "Mamasa"
+    },
+    "kecamatan": {
+        "code": "760301",
+        "name": "Mambi"
+    }
+}

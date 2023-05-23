@@ -1,0 +1,17 @@
+{
+    "code": "1205232008",
+    "name": "Sala Haji (Salahaji)",
+    "poscode": "20859",
+    "provinsi": {
+        "code": "12",
+        "name": "Sumatera Utara"
+    },
+    "kabupaten": {
+        "code": "1205",
+        "name": "Langkat"
+    },
+    "kecamatan": {
+        "code": "120523",
+        "name": "Pematang Jaya"
+    }
+}

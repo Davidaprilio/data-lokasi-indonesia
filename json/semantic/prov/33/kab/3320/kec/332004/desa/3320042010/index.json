@@ -1,0 +1,17 @@
+{
+    "code": "3320042010",
+    "name": "Buaran",
+    "poscode": "59465",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3320",
+        "name": "Jepara"
+    },
+    "kecamatan": {
+        "code": "332004",
+        "name": "Mayong"
+    }
+}

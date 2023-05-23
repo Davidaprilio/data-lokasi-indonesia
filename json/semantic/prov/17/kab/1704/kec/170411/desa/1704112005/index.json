@@ -1,0 +1,17 @@
+{
+    "code": "1704112005",
+    "name": "Ulak Bandung",
+    "poscode": "38966",
+    "provinsi": {
+        "code": "17",
+        "name": "Bengkulu"
+    },
+    "kabupaten": {
+        "code": "1704",
+        "name": "Kaur"
+    },
+    "kecamatan": {
+        "code": "170411",
+        "name": "Muara Sahung"
+    }
+}

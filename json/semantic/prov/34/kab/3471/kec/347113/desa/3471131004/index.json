@@ -1,0 +1,17 @@
+{
+    "code": "3471131004",
+    "name": "Warungboto",
+    "poscode": "55164",
+    "provinsi": {
+        "code": "34",
+        "name": "DI Yogyakarta"
+    },
+    "kabupaten": {
+        "code": "3471",
+        "name": "Yogyakarta"
+    },
+    "kecamatan": {
+        "code": "347113",
+        "name": "Umbulharjo"
+    }
+}

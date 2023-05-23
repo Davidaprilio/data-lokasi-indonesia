@@ -1,0 +1,17 @@
+{
+    "code": "3603281001",
+    "name": "Kelapa Dua",
+    "poscode": "15811",
+    "provinsi": {
+        "code": "36",
+        "name": "Banten"
+    },
+    "kabupaten": {
+        "code": "3603",
+        "name": "Tangerang"
+    },
+    "kecamatan": {
+        "code": "360328",
+        "name": "Kelapa Dua"
+    }
+}

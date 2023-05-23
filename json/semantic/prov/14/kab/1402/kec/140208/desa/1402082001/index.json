@@ -1,0 +1,17 @@
+{
+    "code": "1402082001",
+    "name": "Siambul",
+    "poscode": "29356",
+    "provinsi": {
+        "code": "14",
+        "name": "Riau"
+    },
+    "kabupaten": {
+        "code": "1402",
+        "name": "Indragiri Hulu"
+    },
+    "kecamatan": {
+        "code": "140208",
+        "name": "Batang Gangsal (Batang Gansal)"
+    }
+}

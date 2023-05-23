@@ -1,0 +1,17 @@
+{
+    "code": "1807242005",
+    "name": "Giri Mulyo",
+    "poscode": "34383",
+    "provinsi": {
+        "code": "18",
+        "name": "Lampung"
+    },
+    "kabupaten": {
+        "code": "1807",
+        "name": "Lampung Timur"
+    },
+    "kecamatan": {
+        "code": "180724",
+        "name": "Marga Sekampung"
+    }
+}

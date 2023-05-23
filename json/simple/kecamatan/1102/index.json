@@ -1,0 +1,114 @@
+[
+    {
+        "code": "110206",
+        "name": "Babul Makmur",
+        "count": {
+            "desa": 21
+        }
+    },
+    {
+        "code": "110211",
+        "name": "Babul Rahmah",
+        "count": {
+            "desa": 27
+        }
+    },
+    {
+        "code": "110204",
+        "name": "Babussalam",
+        "count": {
+            "desa": 27
+        }
+    },
+    {
+        "code": "110205",
+        "name": "Badar",
+        "count": {
+            "desa": 18
+        }
+    },
+    {
+        "code": "110203",
+        "name": "Bambel",
+        "count": {
+            "desa": 33
+        }
+    },
+    {
+        "code": "110209",
+        "name": "Bukit Tusam",
+        "count": {
+            "desa": 23
+        }
+    },
+    {
+        "code": "110207",
+        "name": "Darul Hasanah",
+        "count": {
+            "desa": 28
+        }
+    },
+    {
+        "code": "110213",
+        "name": "Deleng Pokhkisen (Deleng Pokhisen)",
+        "count": {
+            "desa": 22
+        }
+    },
+    {
+        "code": "110212",
+        "name": "Ketambe",
+        "count": {
+            "desa": 25
+        }
+    },
+    {
+        "code": "110201",
+        "name": "Lawe Alas",
+        "count": {
+            "desa": 28
+        }
+    },
+    {
+        "code": "110208",
+        "name": "Lawe Bulan",
+        "count": {
+            "desa": 24
+        }
+    },
+    {
+        "code": "110202",
+        "name": "Lawe Sigala Gala",
+        "count": {
+            "desa": 35
+        }
+    },
+    {
+        "code": "110214",
+        "name": "Lawe Sumur",
+        "count": {
+            "desa": 18
+        }
+    },
+    {
+        "code": "110216",
+        "name": "Leuser",
+        "count": {
+            "desa": 23
+        }
+    },
+    {
+        "code": "110210",
+        "name": "Semadam",
+        "count": {
+            "desa": 19
+        }
+    },
+    {
+        "code": "110215",
+        "name": "Tanoh Alas (Tanah Alas)",
+        "count": {
+            "desa": 14
+        }
+    }
+]

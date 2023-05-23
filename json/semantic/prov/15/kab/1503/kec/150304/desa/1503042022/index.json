@@ -1,0 +1,17 @@
+{
+    "code": "1503042022",
+    "name": "Danau Serdang",
+    "poscode": "37491",
+    "provinsi": {
+        "code": "15",
+        "name": "Jambi"
+    },
+    "kabupaten": {
+        "code": "1503",
+        "name": "Sarolangun"
+    },
+    "kecamatan": {
+        "code": "150304",
+        "name": "Pauh"
+    }
+}

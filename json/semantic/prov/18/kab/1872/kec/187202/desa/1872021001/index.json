@@ -1,0 +1,17 @@
+{
+    "code": "1872021001",
+    "name": "Banjarsari (Banjar Sari)",
+    "poscode": "34117",
+    "provinsi": {
+        "code": "18",
+        "name": "Lampung"
+    },
+    "kabupaten": {
+        "code": "1872",
+        "name": "Metro"
+    },
+    "kecamatan": {
+        "code": "187202",
+        "name": "Metro Utara"
+    }
+}

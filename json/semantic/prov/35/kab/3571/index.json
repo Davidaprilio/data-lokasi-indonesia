@@ -1,0 +1,10 @@
+{
+    "code": "3571",
+    "type": "Kota",
+    "name": "Kediri",
+    "fullname": "Kota Kediri",
+    "jumlah": {
+        "kecamatan": 3,
+        "desa": 46
+    }
+}

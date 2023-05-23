@@ -1,0 +1,17 @@
+{
+    "code": "3674061001",
+    "name": "Pamulang Barat",
+    "poscode": "15417",
+    "provinsi": {
+        "code": "36",
+        "name": "Banten"
+    },
+    "kabupaten": {
+        "code": "3674",
+        "name": "Tangerang Selatan"
+    },
+    "kecamatan": {
+        "code": "367406",
+        "name": "Pamulang"
+    }
+}

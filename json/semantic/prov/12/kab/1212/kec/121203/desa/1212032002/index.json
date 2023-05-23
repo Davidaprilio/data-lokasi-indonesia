@@ -1,0 +1,17 @@
+{
+    "code": "1212032002",
+    "name": "Sitorang (Sitorang I)",
+    "poscode": "22382",
+    "provinsi": {
+        "code": "12",
+        "name": "Sumatera Utara"
+    },
+    "kabupaten": {
+        "code": "1212",
+        "name": "Toba"
+    },
+    "kecamatan": {
+        "code": "121203",
+        "name": "Silaen"
+    }
+}

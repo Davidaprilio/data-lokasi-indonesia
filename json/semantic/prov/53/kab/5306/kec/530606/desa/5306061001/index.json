@@ -1,0 +1,17 @@
+{
+    "code": "5306061001",
+    "name": "Ritaebang",
+    "poscode": "86272",
+    "provinsi": {
+        "code": "53",
+        "name": "Nusa Tenggara Timur (NTT)"
+    },
+    "kabupaten": {
+        "code": "5306",
+        "name": "Flores Timur"
+    },
+    "kecamatan": {
+        "code": "530606",
+        "name": "Solor Barat"
+    }
+}

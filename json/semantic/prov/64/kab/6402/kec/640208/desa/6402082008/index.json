@@ -1,0 +1,17 @@
+{
+    "code": "6402082008",
+    "name": "Muhuran",
+    "poscode": "75561",
+    "provinsi": {
+        "code": "64",
+        "name": "Kalimantan Timur"
+    },
+    "kabupaten": {
+        "code": "6402",
+        "name": "Kutai Kartanegara"
+    },
+    "kecamatan": {
+        "code": "640208",
+        "name": "Kota Bangun"
+    }
+}

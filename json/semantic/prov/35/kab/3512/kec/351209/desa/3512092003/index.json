@@ -1,0 +1,17 @@
+{
+    "code": "3512092003",
+    "name": "Tanjung Kamal",
+    "poscode": "68363",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3512",
+        "name": "Situbondo"
+    },
+    "kecamatan": {
+        "code": "351209",
+        "name": "Mangaran"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "3520092005",
+    "name": "Bibis",
+    "poscode": "63391",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3520",
+        "name": "Magetan"
+    },
+    "kecamatan": {
+        "code": "352009",
+        "name": "Sukomoro"
+    }
+}

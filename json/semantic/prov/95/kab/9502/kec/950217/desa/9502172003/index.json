@@ -1,0 +1,17 @@
+{
+    "code": "9502172003",
+    "name": "Kawor",
+    "poscode": "99433",
+    "provinsi": {
+        "code": "95",
+        "name": "Papua Pegunungan"
+    },
+    "kabupaten": {
+        "code": "9502",
+        "name": "Pegunungan Bintang"
+    },
+    "kecamatan": {
+        "code": "950217",
+        "name": "Kawor"
+    }
+}

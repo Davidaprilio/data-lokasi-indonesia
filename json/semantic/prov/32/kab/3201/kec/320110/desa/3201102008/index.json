@@ -1,0 +1,17 @@
+{
+    "code": "3201102008",
+    "name": "Bojongindah (Bojong Indah)",
+    "poscode": "16330",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3201",
+        "name": "Bogor"
+    },
+    "kecamatan": {
+        "code": "320110",
+        "name": "Parung"
+    }
+}

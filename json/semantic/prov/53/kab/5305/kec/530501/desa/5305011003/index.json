@@ -1,0 +1,17 @@
+{
+    "code": "5305011003",
+    "name": "Kalabahi Tengah",
+    "poscode": "85812",
+    "provinsi": {
+        "code": "53",
+        "name": "Nusa Tenggara Timur (NTT)"
+    },
+    "kabupaten": {
+        "code": "5305",
+        "name": "Alor"
+    },
+    "kecamatan": {
+        "code": "530501",
+        "name": "Teluk Mutiara"
+    }
+}

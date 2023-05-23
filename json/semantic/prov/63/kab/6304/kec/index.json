@@ -1,0 +1,121 @@
+[
+    {
+        "code": "630405",
+        "name": "Alalak",
+        "count": {
+            "desa": 18
+        }
+    },
+    {
+        "code": "630404",
+        "name": "Anjir Muara",
+        "count": {
+            "desa": 15
+        }
+    },
+    {
+        "code": "630403",
+        "name": "Anjir Pasar",
+        "count": {
+            "desa": 15
+        }
+    },
+    {
+        "code": "630410",
+        "name": "Bakumpai",
+        "count": {
+            "desa": 9
+        }
+    },
+    {
+        "code": "630414",
+        "name": "Barambai",
+        "count": {
+            "desa": 11
+        }
+    },
+    {
+        "code": "630408",
+        "name": "Belawang",
+        "count": {
+            "desa": 13
+        }
+    },
+    {
+        "code": "630409",
+        "name": "Cerbon",
+        "count": {
+            "desa": 8
+        }
+    },
+    {
+        "code": "630417",
+        "name": "Jejangkit",
+        "count": {
+            "desa": 7
+        }
+    },
+    {
+        "code": "630411",
+        "name": "Kuripan",
+        "count": {
+            "desa": 9
+        }
+    },
+    {
+        "code": "630406",
+        "name": "Mandastana",
+        "count": {
+            "desa": 14
+        }
+    },
+    {
+        "code": "630415",
+        "name": "Marabahan",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "630413",
+        "name": "Mekarsari (Mekar Sari)",
+        "count": {
+            "desa": 9
+        }
+    },
+    {
+        "code": "630407",
+        "name": "Rantau Badauh",
+        "count": {
+            "desa": 9
+        }
+    },
+    {
+        "code": "630412",
+        "name": "Tabukan",
+        "count": {
+            "desa": 11
+        }
+    },
+    {
+        "code": "630401",
+        "name": "Tabunganen",
+        "count": {
+            "desa": 14
+        }
+    },
+    {
+        "code": "630402",
+        "name": "Tamban",
+        "count": {
+            "desa": 16
+        }
+    },
+    {
+        "code": "630416",
+        "name": "Wanaraya",
+        "count": {
+            "desa": 13
+        }
+    }
+]

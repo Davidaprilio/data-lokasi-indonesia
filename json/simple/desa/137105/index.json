@@ -1,0 +1,32 @@
+[
+    {
+        "code": "1371051002",
+        "name": "Bungus Barat",
+        "poscode": "25237"
+    },
+    {
+        "code": "1371051003",
+        "name": "Bungus Selatan",
+        "poscode": "25237"
+    },
+    {
+        "code": "1371051001",
+        "name": "Bungus Timur",
+        "poscode": "25237"
+    },
+    {
+        "code": "1371051006",
+        "name": "Teluk Kabung Selatan",
+        "poscode": "25237"
+    },
+    {
+        "code": "1371051005",
+        "name": "Teluk Kabung Tengah",
+        "poscode": "25237"
+    },
+    {
+        "code": "1371051004",
+        "name": "Teluk Kabung Utara",
+        "poscode": "25237"
+    }
+]

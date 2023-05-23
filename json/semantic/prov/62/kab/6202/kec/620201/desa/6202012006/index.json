@@ -1,0 +1,17 @@
+{
+    "code": "6202012006",
+    "name": "Pamalian",
+    "poscode": "74353",
+    "provinsi": {
+        "code": "62",
+        "name": "Kalimantan Tengah"
+    },
+    "kabupaten": {
+        "code": "6202",
+        "name": "Kotawaringin Timur"
+    },
+    "kecamatan": {
+        "code": "620201",
+        "name": "Kota Besi"
+    }
+}

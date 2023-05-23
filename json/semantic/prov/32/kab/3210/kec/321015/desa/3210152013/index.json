@@ -1,0 +1,17 @@
+{
+    "code": "3210152013",
+    "name": "Randegan Kulon",
+    "poscode": "45458",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3210",
+        "name": "Majalengka"
+    },
+    "kecamatan": {
+        "code": "321015",
+        "name": "Jatitujuh"
+    }
+}

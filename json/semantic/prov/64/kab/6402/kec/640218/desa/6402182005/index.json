@@ -1,0 +1,17 @@
+{
+    "code": "6402182005",
+    "name": "Lebak Mantan",
+    "poscode": "75559",
+    "provinsi": {
+        "code": "64",
+        "name": "Kalimantan Timur"
+    },
+    "kabupaten": {
+        "code": "6402",
+        "name": "Kutai Kartanegara"
+    },
+    "kecamatan": {
+        "code": "640218",
+        "name": "Muara Wis"
+    }
+}

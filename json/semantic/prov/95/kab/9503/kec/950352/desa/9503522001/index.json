@@ -1,0 +1,17 @@
+{
+    "code": "9503522001",
+    "name": "Kayo",
+    "poscode": "99704",
+    "provinsi": {
+        "code": "95",
+        "name": "Papua Pegunungan"
+    },
+    "kabupaten": {
+        "code": "9503",
+        "name": "Yahukimo"
+    },
+    "kecamatan": {
+        "code": "950352",
+        "name": "Kayo"
+    }
+}

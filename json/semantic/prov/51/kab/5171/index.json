@@ -1,0 +1,10 @@
+{
+    "code": "5171",
+    "type": "Kota",
+    "name": "Denpasar",
+    "fullname": "Kota Denpasar",
+    "jumlah": {
+        "kecamatan": 4,
+        "desa": 43
+    }
+}

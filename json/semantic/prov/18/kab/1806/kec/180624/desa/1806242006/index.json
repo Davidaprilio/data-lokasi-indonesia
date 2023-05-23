@@ -1,0 +1,17 @@
+{
+    "code": "1806242006",
+    "name": "Banjar Agung",
+    "poscode": "35613",
+    "provinsi": {
+        "code": "18",
+        "name": "Lampung"
+    },
+    "kabupaten": {
+        "code": "1806",
+        "name": "Tanggamus"
+    },
+    "kecamatan": {
+        "code": "180624",
+        "name": "Limau"
+    }
+}

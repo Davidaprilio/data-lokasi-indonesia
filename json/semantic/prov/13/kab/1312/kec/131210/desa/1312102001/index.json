@@ -1,0 +1,17 @@
+{
+    "code": "1312102001",
+    "name": "Koto Baru",
+    "poscode": "26568",
+    "provinsi": {
+        "code": "13",
+        "name": "Sumatera Barat"
+    },
+    "kabupaten": {
+        "code": "1312",
+        "name": "Pasaman Barat"
+    },
+    "kecamatan": {
+        "code": "131210",
+        "name": "Luhak Nan Duo"
+    }
+}

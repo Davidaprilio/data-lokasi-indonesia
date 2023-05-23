@@ -1,0 +1,17 @@
+{
+    "code": "3602102002",
+    "name": "Parungkujang",
+    "poscode": "42353",
+    "provinsi": {
+        "code": "36",
+        "name": "Banten"
+    },
+    "kabupaten": {
+        "code": "3602",
+        "name": "Lebak"
+    },
+    "kecamatan": {
+        "code": "360210",
+        "name": "Cileles"
+    }
+}

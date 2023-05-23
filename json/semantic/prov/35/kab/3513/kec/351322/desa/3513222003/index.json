@@ -1,0 +1,17 @@
+{
+    "code": "3513222003",
+    "name": "Jrebeng",
+    "poscode": "67253",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3513",
+        "name": "Probolinggo"
+    },
+    "kecamatan": {
+        "code": "351322",
+        "name": "Wonomerto"
+    }
+}

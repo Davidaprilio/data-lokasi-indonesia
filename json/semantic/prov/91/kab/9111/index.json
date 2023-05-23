@@ -1,0 +1,10 @@
+{
+    "code": "9111",
+    "type": "Kabupaten",
+    "name": "Keerom",
+    "fullname": "Kabupaten Keerom",
+    "jumlah": {
+        "kecamatan": 11,
+        "desa": 91
+    }
+}

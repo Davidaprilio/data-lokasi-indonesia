@@ -1,0 +1,17 @@
+{
+    "code": "3471061002",
+    "name": "Notoprajan",
+    "poscode": "55262",
+    "provinsi": {
+        "code": "34",
+        "name": "DI Yogyakarta"
+    },
+    "kabupaten": {
+        "code": "3471",
+        "name": "Yogyakarta"
+    },
+    "kecamatan": {
+        "code": "347106",
+        "name": "Ngampilan"
+    }
+}

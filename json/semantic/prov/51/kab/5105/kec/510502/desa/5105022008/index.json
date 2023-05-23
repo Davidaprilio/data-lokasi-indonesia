@@ -1,0 +1,17 @@
+{
+    "code": "5105022008",
+    "name": "Aan",
+    "poscode": "80752",
+    "provinsi": {
+        "code": "51",
+        "name": "Bali"
+    },
+    "kabupaten": {
+        "code": "5105",
+        "name": "Klungkung"
+    },
+    "kecamatan": {
+        "code": "510502",
+        "name": "Banjarangkan"
+    }
+}

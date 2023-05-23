@@ -1,0 +1,17 @@
+{
+    "code": "3213022011",
+    "name": "Cigadog",
+    "poscode": "41283",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3213",
+        "name": "Subang"
+    },
+    "kecamatan": {
+        "code": "321302",
+        "name": "Cisalak"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "3516062018",
+    "name": "Ngrame",
+    "poscode": "61384",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3516",
+        "name": "Mojokerto"
+    },
+    "kecamatan": {
+        "code": "351606",
+        "name": "Pungging"
+    }
+}

@@ -1,0 +1,222 @@
+[
+    {
+        "code": "5305",
+        "type": "Kabupaten",
+        "name": "Alor",
+        "fullname": "Kabupaten Alor",
+        "jumlah": {
+            "kecamatan": 17,
+            "desa": 175
+        }
+    },
+    {
+        "code": "5304",
+        "type": "Kabupaten",
+        "name": "Belu",
+        "fullname": "Kabupaten Belu",
+        "jumlah": {
+            "kecamatan": 12,
+            "desa": 81
+        }
+    },
+    {
+        "code": "5308",
+        "type": "Kabupaten",
+        "name": "Ende",
+        "fullname": "Kabupaten Ende",
+        "jumlah": {
+            "kecamatan": 21,
+            "desa": 278
+        }
+    },
+    {
+        "code": "5306",
+        "type": "Kabupaten",
+        "name": "Flores Timur",
+        "fullname": "Kabupaten Flores Timur",
+        "jumlah": {
+            "kecamatan": 19,
+            "desa": 250
+        }
+    },
+    {
+        "code": "5301",
+        "type": "Kabupaten",
+        "name": "Kupang",
+        "fullname": "Kabupaten Kupang",
+        "jumlah": {
+            "kecamatan": 24,
+            "desa": 177
+        }
+    },
+    {
+        "code": "5371",
+        "type": "Kota",
+        "name": "Kupang",
+        "fullname": "Kota Kupang",
+        "jumlah": {
+            "kecamatan": 6,
+            "desa": 51
+        }
+    },
+    {
+        "code": "5313",
+        "type": "Kabupaten",
+        "name": "Lembata",
+        "fullname": "Kabupaten Lembata",
+        "jumlah": {
+            "kecamatan": 9,
+            "desa": 151
+        }
+    },
+    {
+        "code": "5321",
+        "type": "Kabupaten",
+        "name": "Malaka",
+        "fullname": "Kabupaten Malaka",
+        "jumlah": {
+            "kecamatan": 12,
+            "desa": 127
+        }
+    },
+    {
+        "code": "5310",
+        "type": "Kabupaten",
+        "name": "Manggarai",
+        "fullname": "Kabupaten Manggarai",
+        "jumlah": {
+            "kecamatan": 12,
+            "desa": 171
+        }
+    },
+    {
+        "code": "5315",
+        "type": "Kabupaten",
+        "name": "Manggarai Barat",
+        "fullname": "Kabupaten Manggarai Barat",
+        "jumlah": {
+            "kecamatan": 12,
+            "desa": 169
+        }
+    },
+    {
+        "code": "5319",
+        "type": "Kabupaten",
+        "name": "Manggarai Timur",
+        "fullname": "Kabupaten Manggarai Timur",
+        "jumlah": {
+            "kecamatan": 9,
+            "desa": 176
+        }
+    },
+    {
+        "code": "5316",
+        "type": "Kabupaten",
+        "name": "Nagekeo",
+        "fullname": "Kabupaten Nagekeo",
+        "jumlah": {
+            "kecamatan": 7,
+            "desa": 113
+        }
+    },
+    {
+        "code": "5309",
+        "type": "Kabupaten",
+        "name": "Ngada",
+        "fullname": "Kabupaten Ngada",
+        "jumlah": {
+            "kecamatan": 12,
+            "desa": 151
+        }
+    },
+    {
+        "code": "5314",
+        "type": "Kabupaten",
+        "name": "Rote Ndao",
+        "fullname": "Kabupaten Rote Ndao",
+        "jumlah": {
+            "kecamatan": 10,
+            "desa": 119
+        }
+    },
+    {
+        "code": "5320",
+        "type": "Kabupaten",
+        "name": "Sabu Raijua",
+        "fullname": "Kabupaten Sabu Raijua",
+        "jumlah": {
+            "kecamatan": 6,
+            "desa": 63
+        }
+    },
+    {
+        "code": "5307",
+        "type": "Kabupaten",
+        "name": "Sikka",
+        "fullname": "Kabupaten Sikka",
+        "jumlah": {
+            "kecamatan": 21,
+            "desa": 160
+        }
+    },
+    {
+        "code": "5312",
+        "type": "Kabupaten",
+        "name": "Sumba Barat",
+        "fullname": "Kabupaten Sumba Barat",
+        "jumlah": {
+            "kecamatan": 6,
+            "desa": 74
+        }
+    },
+    {
+        "code": "5318",
+        "type": "Kabupaten",
+        "name": "Sumba Barat Daya",
+        "fullname": "Kabupaten Sumba Barat Daya",
+        "jumlah": {
+            "kecamatan": 11,
+            "desa": 175
+        }
+    },
+    {
+        "code": "5317",
+        "type": "Kabupaten",
+        "name": "Sumba Tengah",
+        "fullname": "Kabupaten Sumba Tengah",
+        "jumlah": {
+            "kecamatan": 5,
+            "desa": 65
+        }
+    },
+    {
+        "code": "5311",
+        "type": "Kabupaten",
+        "name": "Sumba Timur",
+        "fullname": "Kabupaten Sumba Timur",
+        "jumlah": {
+            "kecamatan": 22,
+            "desa": 156
+        }
+    },
+    {
+        "code": "5302",
+        "type": "Kabupaten",
+        "name": "Timor Tengah Selatan",
+        "fullname": "Kabupaten Timor Tengah Selatan",
+        "jumlah": {
+            "kecamatan": 32,
+            "desa": 278
+        }
+    },
+    {
+        "code": "5303",
+        "type": "Kabupaten",
+        "name": "Timor Tengah Utara",
+        "fullname": "Kabupaten Timor Tengah Utara",
+        "jumlah": {
+            "kecamatan": 24,
+            "desa": 193
+        }
+    }
+]

@@ -1,0 +1,17 @@
+{
+    "code": "1805232003",
+    "name": "Gedung Rejo Sakti",
+    "poscode": "34592",
+    "provinsi": {
+        "code": "18",
+        "name": "Lampung"
+    },
+    "kabupaten": {
+        "code": "1805",
+        "name": "Tulang Bawang"
+    },
+    "kecamatan": {
+        "code": "180523",
+        "name": "Penawar Aji"
+    }
+}

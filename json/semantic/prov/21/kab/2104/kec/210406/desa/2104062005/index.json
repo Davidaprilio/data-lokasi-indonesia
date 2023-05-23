@@ -1,0 +1,17 @@
+{
+    "code": "2104062005",
+    "name": "Persing",
+    "poscode": "29870",
+    "provinsi": {
+        "code": "21",
+        "name": "Kepulauan Riau"
+    },
+    "kabupaten": {
+        "code": "2104",
+        "name": "Lingga"
+    },
+    "kecamatan": {
+        "code": "210406",
+        "name": "Singkep Pesisir"
+    }
+}

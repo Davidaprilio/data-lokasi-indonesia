@@ -1,0 +1,10 @@
+{
+    "code": "7410",
+    "type": "Kabupaten",
+    "name": "Buton Utara",
+    "fullname": "Kabupaten Buton Utara",
+    "jumlah": {
+        "kecamatan": 6,
+        "desa": 90
+    }
+}

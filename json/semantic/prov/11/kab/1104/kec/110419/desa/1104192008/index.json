@@ -1,0 +1,17 @@
+{
+    "code": "1104192008",
+    "name": "Bukit Sari",
+    "poscode": "24564",
+    "provinsi": {
+        "code": "11",
+        "name": "Aceh (NAD)"
+    },
+    "kabupaten": {
+        "code": "1104",
+        "name": "Aceh Tengah"
+    },
+    "kecamatan": {
+        "code": "110419",
+        "name": "Jagong Jeget"
+    }
+}

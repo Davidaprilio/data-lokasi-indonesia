@@ -1,0 +1,17 @@
+{
+    "code": "3307072015",
+    "name": "Kembaran",
+    "poscode": "56372",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3307",
+        "name": "Wonosobo"
+    },
+    "kecamatan": {
+        "code": "330707",
+        "name": "Kalikajar"
+    }
+}

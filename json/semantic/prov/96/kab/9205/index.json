@@ -1,0 +1,10 @@
+{
+    "code": "9205",
+    "type": "Kabupaten",
+    "name": "Raja Ampat",
+    "fullname": "Kabupaten Raja Ampat",
+    "jumlah": {
+        "kecamatan": 24,
+        "desa": 121
+    }
+}

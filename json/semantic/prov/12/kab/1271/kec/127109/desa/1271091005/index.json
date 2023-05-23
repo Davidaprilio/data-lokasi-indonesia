@@ -1,0 +1,17 @@
+{
+    "code": "1271091005",
+    "name": "Harjosari II",
+    "poscode": "20147",
+    "provinsi": {
+        "code": "12",
+        "name": "Sumatera Utara"
+    },
+    "kabupaten": {
+        "code": "1271",
+        "name": "Medan"
+    },
+    "kecamatan": {
+        "code": "127109",
+        "name": "Medan Amplas"
+    }
+}

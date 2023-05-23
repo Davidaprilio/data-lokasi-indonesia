@@ -1,0 +1,10 @@
+{
+    "code": "3520",
+    "type": "Kabupaten",
+    "name": "Magetan",
+    "fullname": "Kabupaten Magetan",
+    "jumlah": {
+        "kecamatan": 18,
+        "desa": 235
+    }
+}

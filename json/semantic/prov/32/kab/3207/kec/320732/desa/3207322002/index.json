@@ -1,0 +1,17 @@
+{
+    "code": "3207322002",
+    "name": "Sukamaju",
+    "poscode": "46274",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3207",
+        "name": "Ciamis"
+    },
+    "kecamatan": {
+        "code": "320732",
+        "name": "Baregbeg"
+    }
+}

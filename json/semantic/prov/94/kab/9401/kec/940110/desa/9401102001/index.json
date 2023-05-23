@@ -1,0 +1,17 @@
+{
+    "code": "9401102001",
+    "name": "Unipa (Siriwo / Unipo)",
+    "poscode": "98841",
+    "provinsi": {
+        "code": "94",
+        "name": "Papua Tengah"
+    },
+    "kabupaten": {
+        "code": "9401",
+        "name": "Nabire"
+    },
+    "kecamatan": {
+        "code": "940110",
+        "name": "Siriwo"
+    }
+}

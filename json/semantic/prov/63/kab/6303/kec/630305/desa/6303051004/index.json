@@ -1,0 +1,17 @@
+{
+    "code": "6303051004",
+    "name": "Murung Keraton",
+    "poscode": "70616",
+    "provinsi": {
+        "code": "63",
+        "name": "Kalimantan Selatan"
+    },
+    "kabupaten": {
+        "code": "6303",
+        "name": "Banjar"
+    },
+    "kecamatan": {
+        "code": "630305",
+        "name": "Martapura (Martapura Kota)"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "5271061006",
+    "name": "Turida",
+    "poscode": "83237",
+    "provinsi": {
+        "code": "52",
+        "name": "Nusa Tenggara Barat (NTB)"
+    },
+    "kabupaten": {
+        "code": "5271",
+        "name": "Mataram"
+    },
+    "kecamatan": {
+        "code": "527106",
+        "name": "Sandubaya (Sandujaya)"
+    }
+}

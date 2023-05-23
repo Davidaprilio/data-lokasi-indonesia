@@ -1,0 +1,17 @@
+{
+    "code": "3216232002",
+    "name": "Karangindah",
+    "poscode": "17350",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3216",
+        "name": "Bekasi"
+    },
+    "kecamatan": {
+        "code": "321623",
+        "name": "Bojongmangu"
+    }
+}

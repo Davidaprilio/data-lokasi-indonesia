@@ -1,0 +1,112 @@
+[
+    {
+        "code": "8171",
+        "type": "Kota",
+        "name": "Ambon",
+        "fullname": "Kota Ambon",
+        "jumlah": {
+            "kecamatan": 5,
+            "desa": 50
+        }
+    },
+    {
+        "code": "8104",
+        "type": "Kabupaten",
+        "name": "Buru",
+        "fullname": "Kabupaten Buru",
+        "jumlah": {
+            "kecamatan": 10,
+            "desa": 82
+        }
+    },
+    {
+        "code": "8109",
+        "type": "Kabupaten",
+        "name": "Buru Selatan",
+        "fullname": "Kabupaten Buru Selatan",
+        "jumlah": {
+            "kecamatan": 6,
+            "desa": 79
+        }
+    },
+    {
+        "code": "8107",
+        "type": "Kabupaten",
+        "name": "Kepulauan Aru",
+        "fullname": "Kabupaten Kepulauan Aru",
+        "jumlah": {
+            "kecamatan": 10,
+            "desa": 119
+        }
+    },
+    {
+        "code": "8103",
+        "type": "Kabupaten",
+        "name": "Kepulauan Tanimbar (Maluku Tenggara Barat)",
+        "fullname": "Kabupaten Kepulauan Tanimbar (Maluku Tenggara Barat)",
+        "jumlah": {
+            "kecamatan": 10,
+            "desa": 82
+        }
+    },
+    {
+        "code": "8108",
+        "type": "Kabupaten",
+        "name": "Maluku Barat Daya",
+        "fullname": "Kabupaten Maluku Barat Daya",
+        "jumlah": {
+            "kecamatan": 17,
+            "desa": 118
+        }
+    },
+    {
+        "code": "8101",
+        "type": "Kabupaten",
+        "name": "Maluku Tengah",
+        "fullname": "Kabupaten Maluku Tengah",
+        "jumlah": {
+            "kecamatan": 18,
+            "desa": 192
+        }
+    },
+    {
+        "code": "8102",
+        "type": "Kabupaten",
+        "name": "Maluku Tenggara",
+        "fullname": "Kabupaten Maluku Tenggara",
+        "jumlah": {
+            "kecamatan": 11,
+            "desa": 191
+        }
+    },
+    {
+        "code": "8106",
+        "type": "Kabupaten",
+        "name": "Seram Bagian Barat",
+        "fullname": "Kabupaten Seram Bagian Barat",
+        "jumlah": {
+            "kecamatan": 11,
+            "desa": 92
+        }
+    },
+    {
+        "code": "8105",
+        "type": "Kabupaten",
+        "name": "Seram Bagian Timur",
+        "fullname": "Kabupaten Seram Bagian Timur",
+        "jumlah": {
+            "kecamatan": 15,
+            "desa": 198
+        }
+    },
+    {
+        "code": "8172",
+        "type": "Kota",
+        "name": "Tual",
+        "fullname": "Kota Tual",
+        "jumlah": {
+            "kecamatan": 5,
+            "desa": 30
+        }
+    }
+]

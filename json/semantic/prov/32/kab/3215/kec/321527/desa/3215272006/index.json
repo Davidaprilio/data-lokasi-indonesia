@@ -1,0 +1,17 @@
+{
+    "code": "3215272006",
+    "name": "Karangmulya",
+    "poscode": "41361",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3215",
+        "name": "Karawang"
+    },
+    "kecamatan": {
+        "code": "321527",
+        "name": "Telukjambe Barat"
+    }
+}

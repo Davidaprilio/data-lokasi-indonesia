@@ -1,0 +1,17 @@
+{
+    "code": "1708052006",
+    "name": "Bukit Barisan",
+    "poscode": "39371",
+    "provinsi": {
+        "code": "17",
+        "name": "Bengkulu"
+    },
+    "kabupaten": {
+        "code": "1708",
+        "name": "Kepahiang"
+    },
+    "kecamatan": {
+        "code": "170805",
+        "name": "Merigi"
+    }
+}

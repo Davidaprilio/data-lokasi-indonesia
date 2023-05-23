@@ -1,0 +1,17 @@
+{
+    "code": "3209312001",
+    "name": "Cikeduk",
+    "poscode": "45155",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3209",
+        "name": "Cirebon"
+    },
+    "kecamatan": {
+        "code": "320931",
+        "name": "Depok"
+    }
+}

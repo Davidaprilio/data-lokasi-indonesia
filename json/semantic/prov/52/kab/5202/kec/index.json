@@ -1,0 +1,86 @@
+[
+    {
+        "code": "520203",
+        "name": "Batukliang",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "520212",
+        "name": "Batukliang Utara",
+        "count": {
+            "desa": 8
+        }
+    },
+    {
+        "code": "520207",
+        "name": "Janapria",
+        "count": {
+            "desa": 12
+        }
+    },
+    {
+        "code": "520202",
+        "name": "Jonggat",
+        "count": {
+            "desa": 13
+        }
+    },
+    {
+        "code": "520209",
+        "name": "Kopang",
+        "count": {
+            "desa": 11
+        }
+    },
+    {
+        "code": "520201",
+        "name": "Praya",
+        "count": {
+            "desa": 15
+        }
+    },
+    {
+        "code": "520205",
+        "name": "Praya Barat",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "520211",
+        "name": "Praya Barat Daya",
+        "count": {
+            "desa": 11
+        }
+    },
+    {
+        "code": "520210",
+        "name": "Praya Tengah",
+        "count": {
+            "desa": 12
+        }
+    },
+    {
+        "code": "520206",
+        "name": "Praya Timur",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "520208",
+        "name": "Pringgarata",
+        "count": {
+            "desa": 11
+        }
+    },
+    {
+        "code": "520204",
+        "name": "Pujut",
+        "count": {
+            "desa": 16
+        }
+    }
+]

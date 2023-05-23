@@ -1,0 +1,17 @@
+{
+    "code": "3171021002",
+    "name": "Karang Anyar",
+    "poscode": "10740",
+    "provinsi": {
+        "code": "31",
+        "name": "DKI Jakarta"
+    },
+    "kabupaten": {
+        "code": "3171",
+        "name": "Jakarta Pusat"
+    },
+    "kecamatan": {
+        "code": "317102",
+        "name": "Sawah Besar"
+    }
+}

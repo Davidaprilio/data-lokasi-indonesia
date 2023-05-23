@@ -1,0 +1,17 @@
+{
+    "code": "7606052001",
+    "name": "Karossa",
+    "poscode": "91460",
+    "provinsi": {
+        "code": "76",
+        "name": "Sulawesi Barat"
+    },
+    "kabupaten": {
+        "code": "7606",
+        "name": "Mamuju Tengah"
+    },
+    "kecamatan": {
+        "code": "760605",
+        "name": "Karossa"
+    }
+}

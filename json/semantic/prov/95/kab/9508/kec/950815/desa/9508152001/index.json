@@ -1,0 +1,17 @@
+{
+    "code": "9508152001",
+    "name": "Alama",
+    "poscode": "99901",
+    "provinsi": {
+        "code": "95",
+        "name": "Papua Pegunungan"
+    },
+    "kabupaten": {
+        "code": "9508",
+        "name": "Nduga"
+    },
+    "kecamatan": {
+        "code": "950815",
+        "name": "Alama"
+    }
+}

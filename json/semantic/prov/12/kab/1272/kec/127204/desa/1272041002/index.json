@@ -1,0 +1,17 @@
+{
+    "code": "1272041002",
+    "name": "Karo",
+    "poscode": "21122",
+    "provinsi": {
+        "code": "12",
+        "name": "Sumatera Utara"
+    },
+    "kabupaten": {
+        "code": "1272",
+        "name": "Pematangsiantar"
+    },
+    "kecamatan": {
+        "code": "127204",
+        "name": "Siantar Selatan"
+    }
+}

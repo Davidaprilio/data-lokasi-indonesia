@@ -1,0 +1,17 @@
+{
+    "code": "8271071006",
+    "name": "Tafraka",
+    "poscode": "97745",
+    "provinsi": {
+        "code": "82",
+        "name": "Maluku Utara"
+    },
+    "kabupaten": {
+        "code": "8271",
+        "name": "Ternate"
+    },
+    "kecamatan": {
+        "code": "827107",
+        "name": "Pulau Hiri"
+    }
+}

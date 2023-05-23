@@ -1,0 +1,17 @@
+{
+    "code": "6309012003",
+    "name": "Sei/Sungai Durian",
+    "poscode": "72167",
+    "provinsi": {
+        "code": "63",
+        "name": "Kalimantan Selatan"
+    },
+    "kabupaten": {
+        "code": "6309",
+        "name": "Tabalong"
+    },
+    "kecamatan": {
+        "code": "630901",
+        "name": "Banua Lawas"
+    }
+}

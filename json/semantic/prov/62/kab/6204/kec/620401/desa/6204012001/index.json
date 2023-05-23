@@ -1,0 +1,17 @@
+{
+    "code": "6204012001",
+    "name": "Tampulang",
+    "poscode": "73763",
+    "provinsi": {
+        "code": "62",
+        "name": "Kalimantan Tengah"
+    },
+    "kabupaten": {
+        "code": "6204",
+        "name": "Barito Selatan"
+    },
+    "kecamatan": {
+        "code": "620401",
+        "name": "Jenamas"
+    }
+}

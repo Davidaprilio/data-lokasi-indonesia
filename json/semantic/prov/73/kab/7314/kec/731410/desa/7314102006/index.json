@@ -1,0 +1,17 @@
+{
+    "code": "7314102006",
+    "name": "Betao",
+    "poscode": "91683",
+    "provinsi": {
+        "code": "73",
+        "name": "Sulawesi Selatan"
+    },
+    "kabupaten": {
+        "code": "7314",
+        "name": "Sidenreng Rappang"
+    },
+    "kecamatan": {
+        "code": "731410",
+        "name": "Pitu Riawa"
+    }
+}

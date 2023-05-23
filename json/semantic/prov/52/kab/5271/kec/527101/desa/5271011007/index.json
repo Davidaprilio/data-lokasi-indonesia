@@ -1,0 +1,17 @@
+{
+    "code": "5271011007",
+    "name": "Ampenan Utara",
+    "poscode": "83511",
+    "provinsi": {
+        "code": "52",
+        "name": "Nusa Tenggara Barat (NTB)"
+    },
+    "kabupaten": {
+        "code": "5271",
+        "name": "Mataram"
+    },
+    "kecamatan": {
+        "code": "527101",
+        "name": "Ampenan"
+    }
+}

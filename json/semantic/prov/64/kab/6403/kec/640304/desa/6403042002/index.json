@@ -1,0 +1,17 @@
+{
+    "code": "6403042002",
+    "name": "Punan Segah",
+    "poscode": "77361",
+    "provinsi": {
+        "code": "64",
+        "name": "Kalimantan Timur"
+    },
+    "kabupaten": {
+        "code": "6403",
+        "name": "Berau"
+    },
+    "kecamatan": {
+        "code": "640304",
+        "name": "Segah"
+    }
+}

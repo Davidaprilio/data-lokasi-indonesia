@@ -1,0 +1,17 @@
+{
+    "code": "1309032004",
+    "name": "Muntei",
+    "poscode": "25397",
+    "provinsi": {
+        "code": "13",
+        "name": "Sumatera Barat"
+    },
+    "kabupaten": {
+        "code": "1309",
+        "name": "Kepulauan Mentawai"
+    },
+    "kecamatan": {
+        "code": "130903",
+        "name": "Siberut Selatan"
+    }
+}

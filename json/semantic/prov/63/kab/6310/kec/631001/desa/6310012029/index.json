@@ -1,0 +1,17 @@
+{
+    "code": "6310012029",
+    "name": "Maju Makmur",
+    "poscode": "72211",
+    "provinsi": {
+        "code": "63",
+        "name": "Kalimantan Selatan"
+    },
+    "kabupaten": {
+        "code": "6310",
+        "name": "Tanah Bumbu"
+    },
+    "kecamatan": {
+        "code": "631001",
+        "name": "Batu Licin (Batulicin)"
+    }
+}

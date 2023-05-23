@@ -1,0 +1,17 @@
+{
+    "code": "7402362011",
+    "name": "Batu Gong",
+    "poscode": "93450",
+    "provinsi": {
+        "code": "74",
+        "name": "Sulawesi Tenggara"
+    },
+    "kabupaten": {
+        "code": "7402",
+        "name": "Konawe"
+    },
+    "kecamatan": {
+        "code": "740236",
+        "name": "Lalonggasumeeto"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "1116122005",
+    "name": "Kebon Batang Ara (Kebun Batang Ara)",
+    "poscode": "24476",
+    "provinsi": {
+        "code": "11",
+        "name": "Aceh (NAD)"
+    },
+    "kabupaten": {
+        "code": "1116",
+        "name": "Aceh Tamiang"
+    },
+    "kecamatan": {
+        "code": "111612",
+        "name": "Sekerak"
+    }
+}

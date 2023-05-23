@@ -1,0 +1,17 @@
+{
+    "code": "3303112006",
+    "name": "Karanggedang",
+    "poscode": "53354",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3303",
+        "name": "Purbalingga"
+    },
+    "kecamatan": {
+        "code": "330311",
+        "name": "Karanganyar"
+    }
+}

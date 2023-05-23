@@ -1,0 +1,17 @@
+{
+    "code": "1405012002",
+    "name": "Air Emas",
+    "poscode": "28388",
+    "provinsi": {
+        "code": "14",
+        "name": "Riau"
+    },
+    "kabupaten": {
+        "code": "1405",
+        "name": "Pelalawan"
+    },
+    "kecamatan": {
+        "code": "140501",
+        "name": "Ukui"
+    }
+}

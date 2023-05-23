@@ -1,0 +1,17 @@
+{
+    "code": "7271081006",
+    "name": "Poboya",
+    "poscode": "94115",
+    "provinsi": {
+        "code": "72",
+        "name": "Sulawesi Tengah"
+    },
+    "kabupaten": {
+        "code": "7271",
+        "name": "Palu"
+    },
+    "kecamatan": {
+        "code": "727108",
+        "name": "Mantikulore"
+    }
+}

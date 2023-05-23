@@ -1,0 +1,128 @@
+[
+    {
+        "code": "520610",
+        "name": "Ambalawi",
+        "count": {
+            "desa": 6
+        }
+    },
+    {
+        "code": "520604",
+        "name": "Belo",
+        "count": {
+            "desa": 9
+        }
+    },
+    {
+        "code": "520602",
+        "name": "Bolo",
+        "count": {
+            "desa": 14
+        }
+    },
+    {
+        "code": "520608",
+        "name": "Donggo",
+        "count": {
+            "desa": 9
+        }
+    },
+    {
+        "code": "520617",
+        "name": "Lambitu",
+        "count": {
+            "desa": 6
+        }
+    },
+    {
+        "code": "520612",
+        "name": "Lambu",
+        "count": {
+            "desa": 14
+        }
+    },
+    {
+        "code": "520611",
+        "name": "Langgudu",
+        "count": {
+            "desa": 15
+        }
+    },
+    {
+        "code": "520613",
+        "name": "Madapangga",
+        "count": {
+            "desa": 11
+        }
+    },
+    {
+        "code": "520601",
+        "name": "Monta",
+        "count": {
+            "desa": 14
+        }
+    },
+    {
+        "code": "520618",
+        "name": "Palibelo",
+        "count": {
+            "desa": 12
+        }
+    },
+    {
+        "code": "520616",
+        "name": "Parado",
+        "count": {
+            "desa": 5
+        }
+    },
+    {
+        "code": "520609",
+        "name": "Sanggar",
+        "count": {
+            "desa": 6
+        }
+    },
+    {
+        "code": "520606",
+        "name": "Sape",
+        "count": {
+            "desa": 18
+        }
+    },
+    {
+        "code": "520615",
+        "name": "Soromandi",
+        "count": {
+            "desa": 7
+        }
+    },
+    {
+        "code": "520614",
+        "name": "Tambora",
+        "count": {
+            "desa": 7
+        }
+    },
+    {
+        "code": "520605",
+        "name": "Wawo",
+        "count": {
+            "desa": 9
+        }
+    },
+    {
+        "code": "520607",
+        "name": "Wera",
+        "count": {
+            "desa": 14
+        }
+    },
+    {
+        "code": "520603",
+        "name": "Woha",
+        "count": {
+            "desa": 15
+        }
+    }
+]

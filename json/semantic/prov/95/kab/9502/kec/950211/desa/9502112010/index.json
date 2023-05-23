@@ -1,0 +1,17 @@
+{
+    "code": "9502112010",
+    "name": "Muruman",
+    "poscode": "99411",
+    "provinsi": {
+        "code": "95",
+        "name": "Papua Pegunungan"
+    },
+    "kabupaten": {
+        "code": "9502",
+        "name": "Pegunungan Bintang"
+    },
+    "kecamatan": {
+        "code": "950211",
+        "name": "Alemsom"
+    }
+}

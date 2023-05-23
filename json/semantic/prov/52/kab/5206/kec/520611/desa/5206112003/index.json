@@ -1,0 +1,17 @@
+{
+    "code": "5206112003",
+    "name": "Rupe",
+    "poscode": "84180",
+    "provinsi": {
+        "code": "52",
+        "name": "Nusa Tenggara Barat (NTB)"
+    },
+    "kabupaten": {
+        "code": "5206",
+        "name": "Bima"
+    },
+    "kecamatan": {
+        "code": "520611",
+        "name": "Langgudu"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "3212112012",
+    "name": "Limbangan",
+    "poscode": "45282",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3212",
+        "name": "Indramayu"
+    },
+    "kecamatan": {
+        "code": "321211",
+        "name": "Juntinyuat"
+    }
+}

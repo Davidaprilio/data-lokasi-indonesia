@@ -1,0 +1,17 @@
+{
+    "code": "2171101005",
+    "name": "Sukajadi",
+    "poscode": "29432",
+    "provinsi": {
+        "code": "21",
+        "name": "Kepulauan Riau"
+    },
+    "kabupaten": {
+        "code": "2171",
+        "name": "Batam"
+    },
+    "kecamatan": {
+        "code": "217110",
+        "name": "Batam Kota"
+    }
+}

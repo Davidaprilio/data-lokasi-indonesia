@@ -1,0 +1,17 @@
+{
+    "code": "7208232009",
+    "name": "Muara Jaya",
+    "poscode": "94475",
+    "provinsi": {
+        "code": "72",
+        "name": "Sulawesi Tengah"
+    },
+    "kabupaten": {
+        "code": "7208",
+        "name": "Parigi Moutong"
+    },
+    "kecamatan": {
+        "code": "720823",
+        "name": "Sidoan"
+    }
+}

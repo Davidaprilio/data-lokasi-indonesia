@@ -1,0 +1,17 @@
+{
+    "code": "1201031004",
+    "name": "Lubuk Tukko",
+    "poscode": "22615",
+    "provinsi": {
+        "code": "12",
+        "name": "Sumatera Utara"
+    },
+    "kabupaten": {
+        "code": "1201",
+        "name": "Tapanuli Tengah"
+    },
+    "kecamatan": {
+        "code": "120103",
+        "name": "Pandan"
+    }
+}

@@ -1,0 +1,58 @@
+[
+    {
+        "code": "367201",
+        "name": "Cibeber",
+        "count": {
+            "desa": 6
+        }
+    },
+    {
+        "code": "367202",
+        "name": "Cilegon",
+        "count": {
+            "desa": 5
+        }
+    },
+    {
+        "code": "367208",
+        "name": "Citangkil",
+        "count": {
+            "desa": 7
+        }
+    },
+    {
+        "code": "367204",
+        "name": "Ciwandan",
+        "count": {
+            "desa": 6
+        }
+    },
+    {
+        "code": "367206",
+        "name": "Gerogol",
+        "count": {
+            "desa": 4
+        }
+    },
+    {
+        "code": "367205",
+        "name": "Jombang",
+        "count": {
+            "desa": 5
+        }
+    },
+    {
+        "code": "367203",
+        "name": "Pulomerak",
+        "count": {
+            "desa": 4
+        }
+    },
+    {
+        "code": "367207",
+        "name": "Purwakarta",
+        "count": {
+            "desa": 6
+        }
+    }
+]

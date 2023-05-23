@@ -1,0 +1,17 @@
+{
+    "code": "1309092002",
+    "name": "Taikako",
+    "poscode": "25399",
+    "provinsi": {
+        "code": "13",
+        "name": "Sumatera Barat"
+    },
+    "kabupaten": {
+        "code": "1309",
+        "name": "Kepulauan Mentawai"
+    },
+    "kecamatan": {
+        "code": "130909",
+        "name": "Sikakap"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "3506172007",
+    "name": "Pelem",
+    "poscode": "64213",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3506",
+        "name": "Kediri"
+    },
+    "kecamatan": {
+        "code": "350617",
+        "name": "Pare"
+    }
+}

@@ -1,0 +1,212 @@
+[
+    {
+        "code": "321308",
+        "name": "Binong",
+        "count": {
+            "desa": 9
+        }
+    },
+    {
+        "code": "321313",
+        "name": "Blanakan",
+        "count": {
+            "desa": 9
+        }
+    },
+    {
+        "code": "321309",
+        "name": "Ciasem",
+        "count": {
+            "desa": 9
+        }
+    },
+    {
+        "code": "321329",
+        "name": "Ciater",
+        "count": {
+            "desa": 7
+        }
+    },
+    {
+        "code": "321317",
+        "name": "Cibogo",
+        "count": {
+            "desa": 9
+        }
+    },
+    {
+        "code": "321319",
+        "name": "Cijambe",
+        "count": {
+            "desa": 8
+        }
+    },
+    {
+        "code": "321322",
+        "name": "Cikaum",
+        "count": {
+            "desa": 9
+        }
+    },
+    {
+        "code": "321320",
+        "name": "Cipeundeuy",
+        "count": {
+            "desa": 7
+        }
+    },
+    {
+        "code": "321318",
+        "name": "Cipunagara",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "321302",
+        "name": "Cisalak",
+        "count": {
+            "desa": 9
+        }
+    },
+    {
+        "code": "321315",
+        "name": "Compreng",
+        "count": {
+            "desa": 8
+        }
+    },
+    {
+        "code": "321327",
+        "name": "Dawuan",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "321312",
+        "name": "Jalancagak",
+        "count": {
+            "desa": 7
+        }
+    },
+    {
+        "code": "321304",
+        "name": "Kalijati",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "321326",
+        "name": "Kasomalang",
+        "count": {
+            "desa": 8
+        }
+    },
+    {
+        "code": "321321",
+        "name": "Legonkulon",
+        "count": {
+            "desa": 7
+        }
+    },
+    {
+        "code": "321305",
+        "name": "Pabuaran",
+        "count": {
+            "desa": 8
+        }
+    },
+    {
+        "code": "321307",
+        "name": "Pagaden",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "321328",
+        "name": "Pagaden Barat",
+        "count": {
+            "desa": 9
+        }
+    },
+    {
+        "code": "321311",
+        "name": "Pamanukan",
+        "count": {
+            "desa": 8
+        }
+    },
+    {
+        "code": "321316",
+        "name": "Patokbeusi",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "321306",
+        "name": "Purwadadi",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "321330",
+        "name": "Pusakajaya",
+        "count": {
+            "desa": 8
+        }
+    },
+    {
+        "code": "321310",
+        "name": "Pusakanagara",
+        "count": {
+            "desa": 7
+        }
+    },
+    {
+        "code": "321301",
+        "name": "Sagalaherang",
+        "count": {
+            "desa": 7
+        }
+    },
+    {
+        "code": "321323",
+        "name": "Serangpanjang",
+        "count": {
+            "desa": 6
+        }
+    },
+    {
+        "code": "321303",
+        "name": "Subang",
+        "count": {
+            "desa": 8
+        }
+    },
+    {
+        "code": "321324",
+        "name": "Sukasari",
+        "count": {
+            "desa": 7
+        }
+    },
+    {
+        "code": "321325",
+        "name": "Tambakdahan",
+        "count": {
+            "desa": 9
+        }
+    },
+    {
+        "code": "321314",
+        "name": "Tanjungsiang",
+        "count": {
+            "desa": 10
+        }
+    }
+]

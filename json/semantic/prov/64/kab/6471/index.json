@@ -1,0 +1,10 @@
+{
+    "code": "6471",
+    "type": "Kota",
+    "name": "Balikpapan",
+    "fullname": "Kota Balikpapan",
+    "jumlah": {
+        "kecamatan": 6,
+        "desa": 34
+    }
+}

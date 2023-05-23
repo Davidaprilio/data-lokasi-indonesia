@@ -1,0 +1,17 @@
+{
+    "code": "6402022003",
+    "name": "Jembayan",
+    "poscode": "75571",
+    "provinsi": {
+        "code": "64",
+        "name": "Kalimantan Timur"
+    },
+    "kabupaten": {
+        "code": "6402",
+        "name": "Kutai Kartanegara"
+    },
+    "kecamatan": {
+        "code": "640202",
+        "name": "Loa Kulu"
+    }
+}

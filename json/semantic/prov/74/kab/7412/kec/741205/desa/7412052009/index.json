@@ -1,0 +1,17 @@
+{
+    "code": "7412052009",
+    "name": "Sukarela Jaya",
+    "poscode": "93394",
+    "provinsi": {
+        "code": "74",
+        "name": "Sulawesi Tenggara"
+    },
+    "kabupaten": {
+        "code": "7412",
+        "name": "Konawe Kepulauan"
+    },
+    "kecamatan": {
+        "code": "741205",
+        "name": "Wawonii Tenggara"
+    }
+}

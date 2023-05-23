@@ -1,0 +1,17 @@
+{
+    "code": "1608172007",
+    "name": "Karsa Jaya",
+    "poscode": "32380",
+    "provinsi": {
+        "code": "16",
+        "name": "Sumatera Selatan"
+    },
+    "kabupaten": {
+        "code": "1608",
+        "name": "Ogan Komering Ulu Timur"
+    },
+    "kecamatan": {
+        "code": "160817",
+        "name": "Belitang Jaya"
+    }
+}

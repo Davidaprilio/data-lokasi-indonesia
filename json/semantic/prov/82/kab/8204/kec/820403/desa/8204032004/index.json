@@ -1,0 +1,17 @@
+{
+    "code": "8204032004",
+    "name": "Foya Tobaru",
+    "poscode": "97783",
+    "provinsi": {
+        "code": "82",
+        "name": "Maluku Utara"
+    },
+    "kabupaten": {
+        "code": "8204",
+        "name": "Halmahera Selatan"
+    },
+    "kecamatan": {
+        "code": "820403",
+        "name": "Gane Timur"
+    }
+}

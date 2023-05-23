@@ -1,0 +1,17 @@
+{
+    "code": "3173081006",
+    "name": "Kembangan Selatan",
+    "poscode": "11610",
+    "provinsi": {
+        "code": "31",
+        "name": "DKI Jakarta"
+    },
+    "kabupaten": {
+        "code": "3173",
+        "name": "Jakarta Barat"
+    },
+    "kecamatan": {
+        "code": "317308",
+        "name": "Kembangan"
+    }
+}

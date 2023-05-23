@@ -1,0 +1,17 @@
+{
+    "code": "3208292005",
+    "name": "Sukasari",
+    "poscode": "45584",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3208",
+        "name": "Kuningan"
+    },
+    "kecamatan": {
+        "code": "320829",
+        "name": "Karang Kancana (Karangkancana)"
+    }
+}

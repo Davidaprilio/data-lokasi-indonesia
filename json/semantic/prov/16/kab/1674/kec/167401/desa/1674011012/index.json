@@ -1,0 +1,17 @@
+{
+    "code": "1674011012",
+    "name": "Payuputat (Payu Putat)",
+    "poscode": "31141",
+    "provinsi": {
+        "code": "16",
+        "name": "Sumatera Selatan"
+    },
+    "kabupaten": {
+        "code": "1674",
+        "name": "Prabumulih"
+    },
+    "kecamatan": {
+        "code": "167401",
+        "name": "Prabumulih Barat"
+    }
+}

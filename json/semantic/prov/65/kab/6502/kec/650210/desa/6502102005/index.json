@@ -1,0 +1,17 @@
+{
+    "code": "6502102005",
+    "name": "Metulang",
+    "poscode": "77573",
+    "provinsi": {
+        "code": "65",
+        "name": "Kalimantan Utara"
+    },
+    "kabupaten": {
+        "code": "6502",
+        "name": "Malinau"
+    },
+    "kecamatan": {
+        "code": "650210",
+        "name": "Kayan Selatan"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "1402042008",
+    "name": "Air Molek II",
+    "poscode": "29358",
+    "provinsi": {
+        "code": "14",
+        "name": "Riau"
+    },
+    "kabupaten": {
+        "code": "1402",
+        "name": "Indragiri Hulu"
+    },
+    "kecamatan": {
+        "code": "140204",
+        "name": "Pasir Penyu"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "1202112011",
+    "name": "Hutajulu Parbalik/Purbalik",
+    "poscode": "22453",
+    "provinsi": {
+        "code": "12",
+        "name": "Sumatera Utara"
+    },
+    "kabupaten": {
+        "code": "1202",
+        "name": "Tapanuli Utara"
+    },
+    "kecamatan": {
+        "code": "120211",
+        "name": "Parmonangan"
+    }
+}

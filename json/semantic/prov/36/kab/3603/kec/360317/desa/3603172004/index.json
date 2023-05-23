@@ -1,0 +1,17 @@
+{
+    "code": "3603172004",
+    "name": "Kadu Jaya",
+    "poscode": "15810",
+    "provinsi": {
+        "code": "36",
+        "name": "Banten"
+    },
+    "kabupaten": {
+        "code": "3603",
+        "name": "Tangerang"
+    },
+    "kecamatan": {
+        "code": "360317",
+        "name": "Curug"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "1504072005",
+    "name": "Penerokan",
+    "poscode": "36615",
+    "provinsi": {
+        "code": "15",
+        "name": "Jambi"
+    },
+    "kabupaten": {
+        "code": "1504",
+        "name": "Batanghari"
+    },
+    "kecamatan": {
+        "code": "150407",
+        "name": "Bajubang"
+    }
+}

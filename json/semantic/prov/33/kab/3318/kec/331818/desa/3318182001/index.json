@@ -1,0 +1,17 @@
+{
+    "code": "3318182001",
+    "name": "Medani",
+    "poscode": "59157",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3318",
+        "name": "Pati"
+    },
+    "kecamatan": {
+        "code": "331818",
+        "name": "Cluwak"
+    }
+}

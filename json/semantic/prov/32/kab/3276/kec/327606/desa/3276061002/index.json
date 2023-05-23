@@ -1,0 +1,17 @@
+{
+    "code": "3276061002",
+    "name": "Kukusan",
+    "poscode": "16425",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3276",
+        "name": "Depok"
+    },
+    "kecamatan": {
+        "code": "327606",
+        "name": "Beji"
+    }
+}

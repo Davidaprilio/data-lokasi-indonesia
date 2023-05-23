@@ -1,0 +1,17 @@
+{
+    "code": "6501082004",
+    "name": "Naha Aya",
+    "poscode": "77262",
+    "provinsi": {
+        "code": "65",
+        "name": "Kalimantan Utara"
+    },
+    "kabupaten": {
+        "code": "6501",
+        "name": "Bulungan"
+    },
+    "kecamatan": {
+        "code": "650108",
+        "name": "Peso Hilir/Ilir"
+    }
+}

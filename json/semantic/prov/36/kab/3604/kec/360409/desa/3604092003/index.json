@@ -1,0 +1,17 @@
+{
+    "code": "3604092003",
+    "name": "Pulo",
+    "poscode": "42182",
+    "provinsi": {
+        "code": "36",
+        "name": "Banten"
+    },
+    "kabupaten": {
+        "code": "3604",
+        "name": "Serang"
+    },
+    "kecamatan": {
+        "code": "360409",
+        "name": "Ciruas"
+    }
+}

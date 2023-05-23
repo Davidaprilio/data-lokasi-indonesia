@@ -1,0 +1,67 @@
+[
+    {
+        "code": "1608052011",
+        "name": "Bandar Jaya",
+        "poscode": "32367"
+    },
+    {
+        "code": "1608052010",
+        "name": "Bantan",
+        "poscode": "32367"
+    },
+    {
+        "code": "1608052013",
+        "name": "Bantan Pelita",
+        "poscode": "32367"
+    },
+    {
+        "code": "1608052004",
+        "name": "Banu Ayu (Banuayu)",
+        "poscode": "32367"
+    },
+    {
+        "code": "1608052003",
+        "name": "Banu Mas (Banumas)",
+        "poscode": "32367"
+    },
+    {
+        "code": "1608052002",
+        "name": "Negeri Agung",
+        "poscode": "32367"
+    },
+    {
+        "code": "1608052012",
+        "name": "Negeri Agung Jaya",
+        "poscode": "32367"
+    },
+    {
+        "code": "1608052001",
+        "name": "Negeri Pakuan",
+        "poscode": "32367"
+    },
+    {
+        "code": "1608052009",
+        "name": "Pahang Asri",
+        "poscode": "32367"
+    },
+    {
+        "code": "1608052008",
+        "name": "Pemetung Besuki (Pemetung Basuki)",
+        "poscode": "32367"
+    },
+    {
+        "code": "1608052005",
+        "name": "Pulau Negara",
+        "poscode": "32367"
+    },
+    {
+        "code": "1608052006",
+        "name": "Saung Dadi",
+        "poscode": "32367"
+    },
+    {
+        "code": "1608052007",
+        "name": "Terantang/Trantang Sakti",
+        "poscode": "32367"
+    }
+]

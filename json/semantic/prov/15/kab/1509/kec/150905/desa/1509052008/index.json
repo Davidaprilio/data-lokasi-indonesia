@@ -1,0 +1,17 @@
+{
+    "code": "1509052008",
+    "name": "Teriti",
+    "poscode": "37573",
+    "provinsi": {
+        "code": "15",
+        "name": "Jambi"
+    },
+    "kabupaten": {
+        "code": "1509",
+        "name": "Tebo"
+    },
+    "kecamatan": {
+        "code": "150905",
+        "name": "Sumay"
+    }
+}

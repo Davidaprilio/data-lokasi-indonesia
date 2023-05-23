@@ -1,0 +1,17 @@
+{
+    "code": "1201192003",
+    "name": "Masundung",
+    "poscode": "22652",
+    "provinsi": {
+        "code": "12",
+        "name": "Sumatera Utara"
+    },
+    "kabupaten": {
+        "code": "1201",
+        "name": "Tapanuli Tengah"
+    },
+    "kecamatan": {
+        "code": "120119",
+        "name": "Lumut"
+    }
+}

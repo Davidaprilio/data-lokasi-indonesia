@@ -1,0 +1,17 @@
+{
+    "code": "3509232005",
+    "name": "Suco",
+    "poscode": "68174",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3509",
+        "name": "Jember"
+    },
+    "kecamatan": {
+        "code": "350923",
+        "name": "Mumbulsari"
+    }
+}

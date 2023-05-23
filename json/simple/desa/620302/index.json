@@ -1,0 +1,42 @@
+[
+    {
+        "code": "6203022006",
+        "name": "Bakungin",
+        "poscode": "73525"
+    },
+    {
+        "code": "6203021004",
+        "name": "Barimba",
+        "poscode": "73524"
+    },
+    {
+        "code": "6203021003",
+        "name": "Dahirang",
+        "poscode": "73523"
+    },
+    {
+        "code": "6203021002",
+        "name": "Hampatung",
+        "poscode": "73522"
+    },
+    {
+        "code": "6203021001",
+        "name": "Mambulau",
+        "poscode": "73521"
+    },
+    {
+        "code": "6203022008",
+        "name": "Saka Batur",
+        "poscode": "73525"
+    },
+    {
+        "code": "6203022007",
+        "name": "Sei/Sungai Asam",
+        "poscode": "73525"
+    },
+    {
+        "code": "6203021005",
+        "name": "Sei/Sungai Pasah",
+        "poscode": "73525"
+    }
+]

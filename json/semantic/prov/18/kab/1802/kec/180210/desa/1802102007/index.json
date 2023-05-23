@@ -1,0 +1,17 @@
+{
+    "code": "1802102007",
+    "name": "Sakti Buana",
+    "poscode": "34156",
+    "provinsi": {
+        "code": "18",
+        "name": "Lampung"
+    },
+    "kabupaten": {
+        "code": "1802",
+        "name": "Lampung Tengah"
+    },
+    "kecamatan": {
+        "code": "180210",
+        "name": "Seputih Banyak"
+    }
+}

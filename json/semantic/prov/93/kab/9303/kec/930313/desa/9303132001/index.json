@@ -1,0 +1,17 @@
+{
+    "code": "9303132001",
+    "name": "Yeloba",
+    "poscode": "99851",
+    "provinsi": {
+        "code": "93",
+        "name": "Papua Selatan"
+    },
+    "kabupaten": {
+        "code": "9303",
+        "name": "Mappi"
+    },
+    "kecamatan": {
+        "code": "930313",
+        "name": "Bamgi"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "7504062006",
+    "name": "Dudepo",
+    "poscode": "96366",
+    "provinsi": {
+        "code": "75",
+        "name": "Gorontalo"
+    },
+    "kabupaten": {
+        "code": "7504",
+        "name": "Pahuwato"
+    },
+    "kecamatan": {
+        "code": "750406",
+        "name": "Patilanggio"
+    }
+}

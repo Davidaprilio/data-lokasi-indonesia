@@ -1,0 +1,17 @@
+{
+    "code": "1201062001",
+    "name": "Unte Mungkur IV",
+    "poscode": "22562",
+    "provinsi": {
+        "code": "12",
+        "name": "Sumatera Utara"
+    },
+    "kabupaten": {
+        "code": "1201",
+        "name": "Tapanuli Tengah"
+    },
+    "kecamatan": {
+        "code": "120106",
+        "name": "Kolang"
+    }
+}

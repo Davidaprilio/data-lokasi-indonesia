@@ -1,0 +1,32 @@
+[
+    {
+        "code": "3171041006",
+        "name": "Bungur",
+        "poscode": "10460"
+    },
+    {
+        "code": "3171041002",
+        "name": "Kenari",
+        "poscode": "10430"
+    },
+    {
+        "code": "3171041004",
+        "name": "Kramat",
+        "poscode": "10450"
+    },
+    {
+        "code": "3171041005",
+        "name": "Kwitang",
+        "poscode": "10420"
+    },
+    {
+        "code": "3171041003",
+        "name": "Paseban",
+        "poscode": "10440"
+    },
+    {
+        "code": "3171041001",
+        "name": "Senen",
+        "poscode": "10410"
+    }
+]

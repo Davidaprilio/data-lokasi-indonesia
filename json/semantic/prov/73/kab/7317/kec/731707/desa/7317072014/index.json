@@ -1,0 +1,17 @@
+{
+    "code": "7317072014",
+    "name": "Senga Selatan",
+    "poscode": "91983",
+    "provinsi": {
+        "code": "73",
+        "name": "Sulawesi Selatan"
+    },
+    "kabupaten": {
+        "code": "7317",
+        "name": "Luwu"
+    },
+    "kecamatan": {
+        "code": "731707",
+        "name": "Belopa"
+    }
+}

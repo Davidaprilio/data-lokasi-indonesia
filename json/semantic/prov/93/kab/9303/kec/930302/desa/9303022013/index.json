@@ -1,0 +1,17 @@
+{
+    "code": "9303022013",
+    "name": "Waman",
+    "poscode": "99873",
+    "provinsi": {
+        "code": "93",
+        "name": "Papua Selatan"
+    },
+    "kabupaten": {
+        "code": "9303",
+        "name": "Mappi"
+    },
+    "kecamatan": {
+        "code": "930302",
+        "name": "Mambioman Bapai"
+    }
+}

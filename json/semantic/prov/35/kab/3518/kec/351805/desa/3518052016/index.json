@@ -1,0 +1,17 @@
+{
+    "code": "3518052016",
+    "name": "Kecubung",
+    "poscode": "64472",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3518",
+        "name": "Nganjuk"
+    },
+    "kecamatan": {
+        "code": "351805",
+        "name": "Pace"
+    }
+}

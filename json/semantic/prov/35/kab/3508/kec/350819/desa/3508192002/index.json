@@ -1,0 +1,17 @@
+{
+    "code": "3508192002",
+    "name": "Kudus",
+    "poscode": "67356",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3508",
+        "name": "Lumajang"
+    },
+    "kecamatan": {
+        "code": "350819",
+        "name": "Klakah"
+    }
+}

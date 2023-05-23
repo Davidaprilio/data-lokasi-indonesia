@@ -1,0 +1,17 @@
+{
+    "code": "6306051002",
+    "name": "Kandangan Utara",
+    "poscode": "71214",
+    "provinsi": {
+        "code": "63",
+        "name": "Kalimantan Selatan"
+    },
+    "kabupaten": {
+        "code": "6306",
+        "name": "Hulu Sungai Selatan"
+    },
+    "kecamatan": {
+        "code": "630605",
+        "name": "Kandangan"
+    }
+}

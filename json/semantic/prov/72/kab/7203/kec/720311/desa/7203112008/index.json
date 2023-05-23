@@ -1,0 +1,17 @@
+{
+    "code": "7203112008",
+    "name": "Sibado",
+    "poscode": "94354",
+    "provinsi": {
+        "code": "72",
+        "name": "Sulawesi Tengah"
+    },
+    "kabupaten": {
+        "code": "7203",
+        "name": "Donggala"
+    },
+    "kecamatan": {
+        "code": "720311",
+        "name": "Sirenja"
+    }
+}

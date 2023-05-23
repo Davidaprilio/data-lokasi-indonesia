@@ -1,0 +1,17 @@
+{
+    "code": "1114022003",
+    "name": "Dayah Baro",
+    "poscode": "23654",
+    "provinsi": {
+        "code": "11",
+        "name": "Aceh (NAD)"
+    },
+    "kabupaten": {
+        "code": "1114",
+        "name": "Aceh Jaya"
+    },
+    "kecamatan": {
+        "code": "111402",
+        "name": "Krueng Sabee"
+    }
+}

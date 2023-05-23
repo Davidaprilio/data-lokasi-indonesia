@@ -1,0 +1,128 @@
+[
+    {
+        "code": "160214",
+        "name": "Air Sugihan",
+        "count": {
+            "desa": 19
+        }
+    },
+    {
+        "code": "160218",
+        "name": "Cengal",
+        "count": {
+            "desa": 17
+        }
+    },
+    {
+        "code": "160217",
+        "name": "Jejawi",
+        "count": {
+            "desa": 19
+        }
+    },
+    {
+        "code": "160205",
+        "name": "Kayu Agung",
+        "count": {
+            "desa": 25
+        }
+    },
+    {
+        "code": "160213",
+        "name": "Lempuing",
+        "count": {
+            "desa": 19
+        }
+    },
+    {
+        "code": "160222",
+        "name": "Lempuing Jaya",
+        "count": {
+            "desa": 16
+        }
+    },
+    {
+        "code": "160204",
+        "name": "Mesuji",
+        "count": {
+            "desa": 17
+        }
+    },
+    {
+        "code": "160220",
+        "name": "Mesuji Makmur",
+        "count": {
+            "desa": 19
+        }
+    },
+    {
+        "code": "160221",
+        "name": "Mesuji Raya",
+        "count": {
+            "desa": 17
+        }
+    },
+    {
+        "code": "160212",
+        "name": "Pampangan",
+        "count": {
+            "desa": 22
+        }
+    },
+    {
+        "code": "160219",
+        "name": "Pangkalan Lampam",
+        "count": {
+            "desa": 19
+        }
+    },
+    {
+        "code": "160203",
+        "name": "Pedamaran",
+        "count": {
+            "desa": 14
+        }
+    },
+    {
+        "code": "160224",
+        "name": "Pedamaran Timur",
+        "count": {
+            "desa": 7
+        }
+    },
+    {
+        "code": "160208",
+        "name": "Sirah Pulau Padang",
+        "count": {
+            "desa": 20
+        }
+    },
+    {
+        "code": "160215",
+        "name": "Sungai Menang",
+        "count": {
+            "desa": 18
+        }
+    },
+    {
+        "code": "160202",
+        "name": "Tanjung Lubuk",
+        "count": {
+            "desa": 22
+        }
+    },
+    {
+        "code": "160223",
+        "name": "Teluk Gelam",
+        "count": {
+            "desa": 14
+        }
+    },
+    {
+        "code": "160211",
+        "name": "Tulung Selapan",
+        "count": {
+            "desa": 23
+        }
+    }
+]

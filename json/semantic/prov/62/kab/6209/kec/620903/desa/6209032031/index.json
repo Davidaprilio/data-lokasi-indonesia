@@ -1,0 +1,17 @@
+{
+    "code": "6209032031",
+    "name": "Bumi Agung",
+    "poscode": "74162",
+    "provinsi": {
+        "code": "62",
+        "name": "Kalimantan Tengah"
+    },
+    "kabupaten": {
+        "code": "6209",
+        "name": "Lamandau"
+    },
+    "kecamatan": {
+        "code": "620903",
+        "name": "Bulik"
+    }
+}

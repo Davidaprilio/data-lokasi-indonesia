@@ -1,0 +1,10 @@
+{
+    "code": "1212",
+    "type": "Kabupaten",
+    "name": "Toba",
+    "fullname": "Kabupaten Toba",
+    "jumlah": {
+        "kecamatan": 16,
+        "desa": 244
+    }
+}

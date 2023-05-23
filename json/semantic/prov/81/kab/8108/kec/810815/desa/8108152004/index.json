@@ -1,0 +1,17 @@
+{
+    "code": "8108152004",
+    "name": "Kahilin",
+    "poscode": "97448",
+    "provinsi": {
+        "code": "81",
+        "name": "Maluku"
+    },
+    "kabupaten": {
+        "code": "8108",
+        "name": "Maluku Barat Daya"
+    },
+    "kecamatan": {
+        "code": "810815",
+        "name": "Wetar Timur"
+    }
+}

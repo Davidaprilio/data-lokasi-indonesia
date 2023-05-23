@@ -1,0 +1,17 @@
+{
+    "code": "9402262010",
+    "name": "Wurabume",
+    "poscode": "98921",
+    "provinsi": {
+        "code": "94",
+        "name": "Papua Tengah"
+    },
+    "kabupaten": {
+        "code": "9402",
+        "name": "Puncak Jaya"
+    },
+    "kecamatan": {
+        "code": "940226",
+        "name": "Kalome"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "1211082007",
+    "name": "Janji",
+    "poscode": "22263",
+    "provinsi": {
+        "code": "12",
+        "name": "Sumatera Utara"
+    },
+    "kabupaten": {
+        "code": "1211",
+        "name": "Dairi"
+    },
+    "kecamatan": {
+        "code": "121108",
+        "name": "Siempat Nempu Hilir"
+    }
+}

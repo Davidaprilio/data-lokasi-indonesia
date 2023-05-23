@@ -1,0 +1,67 @@
+[
+    {
+        "code": "3212232001",
+        "name": "Anjatan",
+        "poscode": "45256"
+    },
+    {
+        "code": "3212232010",
+        "name": "Anjatan Baru",
+        "poscode": "45256"
+    },
+    {
+        "code": "3212232013",
+        "name": "Anjatan Utara",
+        "poscode": "45256"
+    },
+    {
+        "code": "3212232003",
+        "name": "Bugis",
+        "poscode": "45256"
+    },
+    {
+        "code": "3212232004",
+        "name": "Bugis Tua (Bugistua)",
+        "poscode": "45256"
+    },
+    {
+        "code": "3212232011",
+        "name": "Cilandak",
+        "poscode": "45256"
+    },
+    {
+        "code": "3212232012",
+        "name": "Cilandak Lor",
+        "poscode": "45256"
+    },
+    {
+        "code": "3212232006",
+        "name": "Kedungwungu",
+        "poscode": "45256"
+    },
+    {
+        "code": "3212232009",
+        "name": "Kopyah",
+        "poscode": "45256"
+    },
+    {
+        "code": "3212232008",
+        "name": "Lempuyang",
+        "poscode": "45256"
+    },
+    {
+        "code": "3212232002",
+        "name": "Mangunjaya",
+        "poscode": "45256"
+    },
+    {
+        "code": "3212232005",
+        "name": "Salamdarma",
+        "poscode": "45256"
+    },
+    {
+        "code": "3212232007",
+        "name": "Wanguk",
+        "poscode": "45256"
+    }
+]

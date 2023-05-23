@@ -1,0 +1,62 @@
+[
+    {
+        "code": "3173",
+        "type": "Kota",
+        "name": "Jakarta Barat",
+        "fullname": "Kota Jakarta Barat",
+        "jumlah": {
+            "kecamatan": 8,
+            "desa": 56
+        }
+    },
+    {
+        "code": "3171",
+        "type": "Kota",
+        "name": "Jakarta Pusat",
+        "fullname": "Kota Jakarta Pusat",
+        "jumlah": {
+            "kecamatan": 8,
+            "desa": 44
+        }
+    },
+    {
+        "code": "3174",
+        "type": "Kota",
+        "name": "Jakarta Selatan",
+        "fullname": "Kota Jakarta Selatan",
+        "jumlah": {
+            "kecamatan": 10,
+            "desa": 65
+        }
+    },
+    {
+        "code": "3175",
+        "type": "Kota",
+        "name": "Jakarta Timur",
+        "fullname": "Kota Jakarta Timur",
+        "jumlah": {
+            "kecamatan": 10,
+            "desa": 65
+        }
+    },
+    {
+        "code": "3172",
+        "type": "Kota",
+        "name": "Jakarta Utara",
+        "fullname": "Kota Jakarta Utara",
+        "jumlah": {
+            "kecamatan": 6,
+            "desa": 31
+        }
+    },
+    {
+        "code": "3101",
+        "type": "Kabupaten",
+        "name": "Kepulauan Seribu",
+        "fullname": "Kabupaten Kepulauan Seribu",
+        "jumlah": {
+            "kecamatan": 2,
+            "desa": 6
+        }
+    }
+]

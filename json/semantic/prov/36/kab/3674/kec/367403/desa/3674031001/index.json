@@ -1,0 +1,17 @@
+{
+    "code": "3674031001",
+    "name": "Pondok Betung",
+    "poscode": "15221",
+    "provinsi": {
+        "code": "36",
+        "name": "Banten"
+    },
+    "kabupaten": {
+        "code": "3674",
+        "name": "Tangerang Selatan"
+    },
+    "kecamatan": {
+        "code": "367403",
+        "name": "Pondok Aren"
+    }
+}

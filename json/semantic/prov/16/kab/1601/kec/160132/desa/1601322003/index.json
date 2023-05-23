@@ -1,0 +1,17 @@
+{
+    "code": "1601322003",
+    "name": "Kampai",
+    "poscode": "32193",
+    "provinsi": {
+        "code": "16",
+        "name": "Sumatera Selatan"
+    },
+    "kabupaten": {
+        "code": "1601",
+        "name": "Ogan Komering Ulu"
+    },
+    "kecamatan": {
+        "code": "160132",
+        "name": "Kedaton Peninjauan Raya"
+    }
+}

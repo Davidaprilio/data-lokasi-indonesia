@@ -1,0 +1,37 @@
+[
+    {
+        "code": "1272011004",
+        "name": "Asuhan",
+        "poscode": "21136"
+    },
+    {
+        "code": "1272011001",
+        "name": "Kebun Sayur",
+        "poscode": "21134"
+    },
+    {
+        "code": "1272011005",
+        "name": "Merdeka",
+        "poscode": "21135"
+    },
+    {
+        "code": "1272011003",
+        "name": "Pahlawan",
+        "poscode": "21132"
+    },
+    {
+        "code": "1272011006",
+        "name": "Pardomuan",
+        "poscode": "21131"
+    },
+    {
+        "code": "1272011007",
+        "name": "Siopat Suhu",
+        "poscode": "21139"
+    },
+    {
+        "code": "1272011002",
+        "name": "Tomuan",
+        "poscode": "21133"
+    }
+]

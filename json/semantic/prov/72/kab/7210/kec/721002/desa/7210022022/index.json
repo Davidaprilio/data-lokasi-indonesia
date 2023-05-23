@@ -1,0 +1,17 @@
+{
+    "code": "7210022022",
+    "name": "Sarumana",
+    "poscode": "94366",
+    "provinsi": {
+        "code": "72",
+        "name": "Sulawesi Tengah"
+    },
+    "kabupaten": {
+        "code": "7210",
+        "name": "Sigi"
+    },
+    "kecamatan": {
+        "code": "721002",
+        "name": "Palolo"
+    }
+}

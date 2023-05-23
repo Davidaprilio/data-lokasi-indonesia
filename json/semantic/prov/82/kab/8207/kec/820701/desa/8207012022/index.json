@@ -1,0 +1,17 @@
+{
+    "code": "8207012022",
+    "name": "Sabala",
+    "poscode": "97771",
+    "provinsi": {
+        "code": "82",
+        "name": "Maluku Utara"
+    },
+    "kabupaten": {
+        "code": "8207",
+        "name": "Pulau Morotai"
+    },
+    "kecamatan": {
+        "code": "820701",
+        "name": "Morotai Selatan"
+    }
+}

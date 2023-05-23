@@ -1,0 +1,17 @@
+{
+    "code": "3306132018",
+    "name": "Tegalsari",
+    "poscode": "54261",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3306",
+        "name": "Purworejo"
+    },
+    "kecamatan": {
+        "code": "330613",
+        "name": "Bruno"
+    }
+}

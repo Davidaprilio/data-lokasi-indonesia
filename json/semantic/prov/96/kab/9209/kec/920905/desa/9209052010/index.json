@@ -1,0 +1,17 @@
+{
+    "code": "9209052010",
+    "name": "Sungguwan",
+    "poscode": "98373",
+    "provinsi": {
+        "code": "96",
+        "name": "Papua Barat Daya"
+    },
+    "kabupaten": {
+        "code": "9209",
+        "name": "Tambrauw"
+    },
+    "kecamatan": {
+        "code": "920905",
+        "name": "Sausapor"
+    }
+}

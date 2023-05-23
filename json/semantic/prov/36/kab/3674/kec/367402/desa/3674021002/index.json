@@ -1,0 +1,17 @@
+{
+    "code": "3674021002",
+    "name": "Pakualam",
+    "poscode": "15320",
+    "provinsi": {
+        "code": "36",
+        "name": "Banten"
+    },
+    "kabupaten": {
+        "code": "3674",
+        "name": "Tangerang Selatan"
+    },
+    "kecamatan": {
+        "code": "367402",
+        "name": "Serpong Utara"
+    }
+}

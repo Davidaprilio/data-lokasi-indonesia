@@ -1,0 +1,17 @@
+{
+    "code": "1701111003",
+    "name": "Tanjung Mulia",
+    "poscode": "38518",
+    "provinsi": {
+        "code": "17",
+        "name": "Bengkulu"
+    },
+    "kabupaten": {
+        "code": "1701",
+        "name": "Bengkulu Selatan"
+    },
+    "kecamatan": {
+        "code": "170111",
+        "name": "Pasar Manna"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "3320061011",
+    "name": "Pengkol",
+    "poscode": "59415",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3320",
+        "name": "Jepara"
+    },
+    "kecamatan": {
+        "code": "332006",
+        "name": "Jepara"
+    }
+}

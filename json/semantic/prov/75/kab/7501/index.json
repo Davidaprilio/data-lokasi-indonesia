@@ -1,0 +1,10 @@
+{
+    "code": "7501",
+    "type": "Kabupaten",
+    "name": "Gorontalo",
+    "fullname": "Kabupaten Gorontalo",
+    "jumlah": {
+        "kecamatan": 19,
+        "desa": 205
+    }
+}

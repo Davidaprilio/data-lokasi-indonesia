@@ -1,0 +1,17 @@
+{
+    "code": "9503062017",
+    "name": "Pinda",
+    "poscode": "99712",
+    "provinsi": {
+        "code": "95",
+        "name": "Papua Pegunungan"
+    },
+    "kabupaten": {
+        "code": "9503",
+        "name": "Yahukimo"
+    },
+    "kecamatan": {
+        "code": "950306",
+        "name": "Silimo"
+    }
+}

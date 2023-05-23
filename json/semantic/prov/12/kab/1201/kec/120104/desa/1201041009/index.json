@@ -1,0 +1,17 @@
+{
+    "code": "1201041009",
+    "name": "Albion Prancis",
+    "poscode": "22653",
+    "provinsi": {
+        "code": "12",
+        "name": "Sumatera Utara"
+    },
+    "kabupaten": {
+        "code": "1201",
+        "name": "Tapanuli Tengah"
+    },
+    "kecamatan": {
+        "code": "120104",
+        "name": "Pinangsori"
+    }
+}

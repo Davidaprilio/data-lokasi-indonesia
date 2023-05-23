@@ -1,0 +1,10 @@
+{
+    "code": "35",
+    "name": "Jawa Timur",
+    "jumlah": {
+        "kota": 9,
+        "kabupaten": 29,
+        "kecamatan": 666,
+        "desa": 8
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "6304122001",
+    "name": "Pantang Raya",
+    "poscode": "70553",
+    "provinsi": {
+        "code": "63",
+        "name": "Kalimantan Selatan"
+    },
+    "kabupaten": {
+        "code": "6304",
+        "name": "Barito Kuala"
+    },
+    "kecamatan": {
+        "code": "630412",
+        "name": "Tabukan"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "1172022002",
+    "name": "Keuneukai (Keunekai)",
+    "poscode": "23528",
+    "provinsi": {
+        "code": "11",
+        "name": "Aceh (NAD)"
+    },
+    "kabupaten": {
+        "code": "1172",
+        "name": "Sabang"
+    },
+    "kecamatan": {
+        "code": "117202",
+        "name": "Sukajaya"
+    }
+}

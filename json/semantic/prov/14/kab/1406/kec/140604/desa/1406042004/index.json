@@ -1,0 +1,17 @@
+{
+    "code": "1406042004",
+    "name": "Batas",
+    "poscode": "28558",
+    "provinsi": {
+        "code": "14",
+        "name": "Riau"
+    },
+    "kabupaten": {
+        "code": "1406",
+        "name": "Rokan Hulu"
+    },
+    "kecamatan": {
+        "code": "140604",
+        "name": "Tambusai"
+    }
+}

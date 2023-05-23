@@ -1,0 +1,86 @@
+[
+    {
+        "code": "820506",
+        "name": "Mangoli Barat",
+        "count": {
+            "desa": 7
+        }
+    },
+    {
+        "code": "820512",
+        "name": "Mangoli Selatan",
+        "count": {
+            "desa": 5
+        }
+    },
+    {
+        "code": "820511",
+        "name": "Mangoli Tengah",
+        "count": {
+            "desa": 9
+        }
+    },
+    {
+        "code": "820501",
+        "name": "Mangoli Timur",
+        "count": {
+            "desa": 5
+        }
+    },
+    {
+        "code": "820513",
+        "name": "Mangoli Utara",
+        "count": {
+            "desa": 7
+        }
+    },
+    {
+        "code": "820510",
+        "name": "Mangoli Utara Timur",
+        "count": {
+            "desa": 4
+        }
+    },
+    {
+        "code": "820502",
+        "name": "Sanana",
+        "count": {
+            "desa": 11
+        }
+    },
+    {
+        "code": "820518",
+        "name": "Sanana Utara",
+        "count": {
+            "desa": 7
+        }
+    },
+    {
+        "code": "820503",
+        "name": "Sulabesi Barat",
+        "count": {
+            "desa": 6
+        }
+    },
+    {
+        "code": "820509",
+        "name": "Sulabesi Selatan",
+        "count": {
+            "desa": 5
+        }
+    },
+    {
+        "code": "820507",
+        "name": "Sulabesi Tengah",
+        "count": {
+            "desa": 6
+        }
+    },
+    {
+        "code": "820508",
+        "name": "Sulabesi Timur",
+        "count": {
+            "desa": 6
+        }
+    }
+]

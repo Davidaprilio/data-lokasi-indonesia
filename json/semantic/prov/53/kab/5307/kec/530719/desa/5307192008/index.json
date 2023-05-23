@@ -1,0 +1,17 @@
+{
+    "code": "5307192008",
+    "name": "Habi",
+    "poscode": "86180",
+    "provinsi": {
+        "code": "53",
+        "name": "Nusa Tenggara Timur (NTT)"
+    },
+    "kabupaten": {
+        "code": "5307",
+        "name": "Sikka"
+    },
+    "kecamatan": {
+        "code": "530719",
+        "name": "Kangae"
+    }
+}

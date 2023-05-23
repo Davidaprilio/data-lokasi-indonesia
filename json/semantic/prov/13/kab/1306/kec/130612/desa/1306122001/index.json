@@ -1,0 +1,17 @@
+{
+    "code": "1306122001",
+    "name": "Padang Laweh",
+    "poscode": "26182",
+    "provinsi": {
+        "code": "13",
+        "name": "Sumatera Barat"
+    },
+    "kabupaten": {
+        "code": "1306",
+        "name": "Agam"
+    },
+    "kecamatan": {
+        "code": "130612",
+        "name": "Sungai Pua (Puar)"
+    }
+}

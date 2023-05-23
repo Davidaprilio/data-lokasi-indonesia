@@ -1,0 +1,17 @@
+{
+    "code": "1114012003",
+    "name": "Padang Kleng",
+    "poscode": "23653",
+    "provinsi": {
+        "code": "11",
+        "name": "Aceh (NAD)"
+    },
+    "kabupaten": {
+        "code": "1114",
+        "name": "Aceh Jaya"
+    },
+    "kecamatan": {
+        "code": "111401",
+        "name": "Teunom"
+    }
+}

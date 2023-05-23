@@ -1,0 +1,17 @@
+{
+    "code": "1117102008",
+    "name": "Pantan Lues",
+    "poscode": "24553",
+    "provinsi": {
+        "code": "11",
+        "name": "Aceh (NAD)"
+    },
+    "kabupaten": {
+        "code": "1117",
+        "name": "Bener Meriah"
+    },
+    "kecamatan": {
+        "code": "111710",
+        "name": "Gajah Putih"
+    }
+}

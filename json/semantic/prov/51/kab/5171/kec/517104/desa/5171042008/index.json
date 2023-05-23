@@ -1,0 +1,17 @@
+{
+    "code": "5171042008",
+    "name": "Ubung Kaja",
+    "poscode": "80116",
+    "provinsi": {
+        "code": "51",
+        "name": "Bali"
+    },
+    "kabupaten": {
+        "code": "5171",
+        "name": "Denpasar"
+    },
+    "kecamatan": {
+        "code": "517104",
+        "name": "Denpasar Utara"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "3503032008",
+    "name": "Karanganyar",
+    "poscode": "66362",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3503",
+        "name": "Trenggalek"
+    },
+    "kecamatan": {
+        "code": "350303",
+        "name": "Pule"
+    }
+}

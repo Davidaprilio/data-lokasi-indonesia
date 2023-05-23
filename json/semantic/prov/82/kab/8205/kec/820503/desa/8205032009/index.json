@@ -1,0 +1,17 @@
+{
+    "code": "8205032009",
+    "name": "Nahi",
+    "poscode": "97797",
+    "provinsi": {
+        "code": "82",
+        "name": "Maluku Utara"
+    },
+    "kabupaten": {
+        "code": "8205",
+        "name": "Kepulauan Sula"
+    },
+    "kecamatan": {
+        "code": "820503",
+        "name": "Sulabesi Barat"
+    }
+}

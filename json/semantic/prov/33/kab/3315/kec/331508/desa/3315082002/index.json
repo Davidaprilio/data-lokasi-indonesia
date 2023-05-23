@@ -1,0 +1,17 @@
+{
+    "code": "3315082002",
+    "name": "Suwatu",
+    "poscode": "58183",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3315",
+        "name": "Grobogan"
+    },
+    "kecamatan": {
+        "code": "331508",
+        "name": "Gabus"
+    }
+}

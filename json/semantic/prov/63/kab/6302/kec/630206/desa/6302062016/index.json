@@ -1,0 +1,17 @@
+{
+    "code": "6302062016",
+    "name": "Sebatung",
+    "poscode": "72113",
+    "provinsi": {
+        "code": "63",
+        "name": "Kalimantan Selatan"
+    },
+    "kabupaten": {
+        "code": "6302",
+        "name": "Kotabaru"
+    },
+    "kecamatan": {
+        "code": "630206",
+        "name": "Pulau Laut / Pulaulaut Utara"
+    }
+}

@@ -1,0 +1,44 @@
+[
+    {
+        "code": "810903",
+        "name": "Ambalau",
+        "count": {
+            "desa": 7
+        }
+    },
+    {
+        "code": "810906",
+        "name": "Fena Fafan",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "810904",
+        "name": "Kepala Madan",
+        "count": {
+            "desa": 15
+        }
+    },
+    {
+        "code": "810905",
+        "name": "Leksula",
+        "count": {
+            "desa": 19
+        }
+    },
+    {
+        "code": "810901",
+        "name": "Namrole",
+        "count": {
+            "desa": 17
+        }
+    },
+    {
+        "code": "810902",
+        "name": "Waesama",
+        "count": {
+            "desa": 11
+        }
+    }
+]

@@ -1,0 +1,17 @@
+{
+    "code": "3271051007",
+    "name": "Tanah Baru",
+    "poscode": "16154",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3271",
+        "name": "Bogor"
+    },
+    "kecamatan": {
+        "code": "327105",
+        "name": "Bogor Utara"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "3308042002",
+    "name": "Salam",
+    "poscode": "56484",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3308",
+        "name": "Magelang"
+    },
+    "kecamatan": {
+        "code": "330804",
+        "name": "Salam"
+    }
+}

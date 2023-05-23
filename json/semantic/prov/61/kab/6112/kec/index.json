@@ -1,0 +1,65 @@
+[
+    {
+        "code": "611205",
+        "name": "Batu Ampar",
+        "count": {
+            "desa": 15
+        }
+    },
+    {
+        "code": "611202",
+        "name": "Kuala Mandor B",
+        "count": {
+            "desa": 5
+        }
+    },
+    {
+        "code": "611206",
+        "name": "Kubu",
+        "count": {
+            "desa": 20
+        }
+    },
+    {
+        "code": "611207",
+        "name": "Rasau Jaya",
+        "count": {
+            "desa": 6
+        }
+    },
+    {
+        "code": "611203",
+        "name": "Sungai Ambawang",
+        "count": {
+            "desa": 14
+        }
+    },
+    {
+        "code": "611209",
+        "name": "Sungai Kakap",
+        "count": {
+            "desa": 13
+        }
+    },
+    {
+        "code": "611201",
+        "name": "Sungai Raya",
+        "count": {
+            "desa": 20
+        }
+    },
+    {
+        "code": "611208",
+        "name": "Teluk Pakedai",
+        "count": {
+            "desa": 14
+        }
+    },
+    {
+        "code": "611204",
+        "name": "Terentang",
+        "count": {
+            "desa": 10
+        }
+    }
+]

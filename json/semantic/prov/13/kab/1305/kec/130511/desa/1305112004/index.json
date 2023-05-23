@@ -1,0 +1,17 @@
+{
+    "code": "1305112004",
+    "name": "Toboh Gadang Barat",
+    "poscode": "25582",
+    "provinsi": {
+        "code": "13",
+        "name": "Sumatera Barat"
+    },
+    "kabupaten": {
+        "code": "1305",
+        "name": "Padang Pariaman"
+    },
+    "kecamatan": {
+        "code": "130511",
+        "name": "Sintuak Toboh Gadang"
+    }
+}

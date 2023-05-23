@@ -1,0 +1,17 @@
+{
+    "code": "1206172001",
+    "name": "Sukatendel (Suka Tendel)",
+    "poscode": "22156",
+    "provinsi": {
+        "code": "12",
+        "name": "Sumatera Utara"
+    },
+    "kabupaten": {
+        "code": "1206",
+        "name": "Karo"
+    },
+    "kecamatan": {
+        "code": "120617",
+        "name": "Tiganderket"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "6402122005",
+    "name": "Umaq Dian",
+    "poscode": "75558",
+    "provinsi": {
+        "code": "64",
+        "name": "Kalimantan Timur"
+    },
+    "kabupaten": {
+        "code": "6402",
+        "name": "Kutai Kartanegara"
+    },
+    "kecamatan": {
+        "code": "640212",
+        "name": "Tabang"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "1601132002",
+    "name": "Laya",
+    "poscode": "32125",
+    "provinsi": {
+        "code": "16",
+        "name": "Sumatera Selatan"
+    },
+    "kabupaten": {
+        "code": "1601",
+        "name": "Ogan Komering Ulu"
+    },
+    "kecamatan": {
+        "code": "160113",
+        "name": "Baturaja Barat"
+    }
+}

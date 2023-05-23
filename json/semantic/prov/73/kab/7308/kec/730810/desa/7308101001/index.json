@@ -1,0 +1,17 @@
+{
+    "code": "7308101001",
+    "name": "Tanete",
+    "poscode": "92772",
+    "provinsi": {
+        "code": "73",
+        "name": "Sulawesi Selatan"
+    },
+    "kabupaten": {
+        "code": "7308",
+        "name": "Bone"
+    },
+    "kecamatan": {
+        "code": "730810",
+        "name": "Cina"
+    }
+}

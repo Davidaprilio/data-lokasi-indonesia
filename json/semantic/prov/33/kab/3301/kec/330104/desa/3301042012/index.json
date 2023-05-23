@@ -1,0 +1,17 @@
+{
+    "code": "3301042012",
+    "name": "Pagubugan",
+    "poscode": "53280",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3301",
+        "name": "Cilacap"
+    },
+    "kecamatan": {
+        "code": "330104",
+        "name": "Binangun"
+    }
+}

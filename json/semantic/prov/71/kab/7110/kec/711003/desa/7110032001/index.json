@@ -1,0 +1,17 @@
+{
+    "code": "7110032001",
+    "name": "Idumun",
+    "poscode": "95786",
+    "provinsi": {
+        "code": "71",
+        "name": "Sulawesi Utara"
+    },
+    "kabupaten": {
+        "code": "7110",
+        "name": "Bolaang Mongondow Timur"
+    },
+    "kecamatan": {
+        "code": "711003",
+        "name": "Nuangan"
+    }
+}

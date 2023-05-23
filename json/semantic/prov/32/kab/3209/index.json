@@ -1,0 +1,10 @@
+{
+    "code": "3209",
+    "type": "Kabupaten",
+    "name": "Cirebon",
+    "fullname": "Kabupaten Cirebon",
+    "jumlah": {
+        "kecamatan": 40,
+        "desa": 424
+    }
+}

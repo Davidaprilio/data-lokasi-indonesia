@@ -1,0 +1,17 @@
+{
+    "code": "1208182016",
+    "name": "Talang Bayu",
+    "poscode": "21182",
+    "provinsi": {
+        "code": "12",
+        "name": "Sumatera Utara"
+    },
+    "kabupaten": {
+        "code": "1208",
+        "name": "Simalungun"
+    },
+    "kecamatan": {
+        "code": "120818",
+        "name": "Huta Bayu Raja"
+    }
+}

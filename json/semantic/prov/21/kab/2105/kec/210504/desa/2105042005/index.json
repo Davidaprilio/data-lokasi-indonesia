@@ -1,0 +1,17 @@
+{
+    "code": "2105042005",
+    "name": "Telaga Kecil",
+    "poscode": "29790",
+    "provinsi": {
+        "code": "21",
+        "name": "Kepulauan Riau"
+    },
+    "kabupaten": {
+        "code": "2105",
+        "name": "Kepulauan Anambas"
+    },
+    "kecamatan": {
+        "code": "210504",
+        "name": "Siantan Selatan"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "8105112018",
+    "name": "Etaralu",
+    "poscode": "97596",
+    "provinsi": {
+        "code": "81",
+        "name": "Maluku"
+    },
+    "kabupaten": {
+        "code": "8105",
+        "name": "Seram Bagian Timur"
+    },
+    "kecamatan": {
+        "code": "810511",
+        "name": "Gorom Timur"
+    }
+}

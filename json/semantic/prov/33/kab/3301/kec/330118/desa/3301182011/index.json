@@ -1,0 +1,17 @@
+{
+    "code": "3301182011",
+    "name": "Sidasari",
+    "poscode": "53262",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3301",
+        "name": "Cilacap"
+    },
+    "kecamatan": {
+        "code": "330118",
+        "name": "Cipari"
+    }
+}

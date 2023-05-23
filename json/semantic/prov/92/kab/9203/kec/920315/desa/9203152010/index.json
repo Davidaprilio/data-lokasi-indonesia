@@ -1,0 +1,17 @@
+{
+    "code": "9203152010",
+    "name": "Warpa",
+    "poscode": "98015",
+    "provinsi": {
+        "code": "92",
+        "name": "Papua Barat"
+    },
+    "kabupaten": {
+        "code": "9203",
+        "name": "Fak Fak"
+    },
+    "kecamatan": {
+        "code": "920315",
+        "name": "Kayauni"
+    }
+}

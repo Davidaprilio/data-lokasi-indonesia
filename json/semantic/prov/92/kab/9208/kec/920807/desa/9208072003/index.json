@@ -1,0 +1,17 @@
+{
+    "code": "9208072003",
+    "name": "Urubika",
+    "poscode": "98122",
+    "provinsi": {
+        "code": "92",
+        "name": "Papua Barat"
+    },
+    "kabupaten": {
+        "code": "9208",
+        "name": "Kaimana"
+    },
+    "kecamatan": {
+        "code": "920807",
+        "name": "Yamor"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "1208302020",
+    "name": "Rawa Masin",
+    "poscode": "21187",
+    "provinsi": {
+        "code": "12",
+        "name": "Sumatera Utara"
+    },
+    "kabupaten": {
+        "code": "1208",
+        "name": "Simalungun"
+    },
+    "kecamatan": {
+        "code": "120830",
+        "name": "Ujung Padang"
+    }
+}

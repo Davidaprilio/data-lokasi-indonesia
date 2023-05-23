@@ -1,0 +1,17 @@
+{
+    "code": "3577021001",
+    "name": "Manguharjo",
+    "poscode": "63127",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3577",
+        "name": "Madiun"
+    },
+    "kecamatan": {
+        "code": "357702",
+        "name": "Manguharjo"
+    }
+}

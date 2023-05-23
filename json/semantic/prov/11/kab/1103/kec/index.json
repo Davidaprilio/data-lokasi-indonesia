@@ -1,0 +1,170 @@
+[
+    {
+        "code": "110315",
+        "name": "Banda Alam",
+        "count": {
+            "desa": 16
+        }
+    },
+    {
+        "code": "110304",
+        "name": "Birem Bayeun",
+        "count": {
+            "desa": 27
+        }
+    },
+    {
+        "code": "110301",
+        "name": "Darul Aman",
+        "count": {
+            "desa": 45
+        }
+    },
+    {
+        "code": "110322",
+        "name": "Darul Falah",
+        "count": {
+            "desa": 11
+        }
+    },
+    {
+        "code": "110321",
+        "name": "Darul Iksan (Ihsan)",
+        "count": {
+            "desa": 16
+        }
+    },
+    {
+        "code": "110303",
+        "name": "Idi Rayeuk",
+        "count": {
+            "desa": 35
+        }
+    },
+    {
+        "code": "110323",
+        "name": "Idi Timur",
+        "count": {
+            "desa": 13
+        }
+    },
+    {
+        "code": "110314",
+        "name": "Idi Tunong",
+        "count": {
+            "desa": 25
+        }
+    },
+    {
+        "code": "110313",
+        "name": "Indra Makmu (Indra Makmur)",
+        "count": {
+            "desa": 13
+        }
+    },
+    {
+        "code": "110302",
+        "name": "Julok",
+        "count": {
+            "desa": 37
+        }
+    },
+    {
+        "code": "110312",
+        "name": "Madat",
+        "count": {
+            "desa": 26
+        }
+    },
+    {
+        "code": "110306",
+        "name": "Nurussalam",
+        "count": {
+            "desa": 31
+        }
+    },
+    {
+        "code": "110311",
+        "name": "Pante Bidari",
+        "count": {
+            "desa": 25
+        }
+    },
+    {
+        "code": "110316",
+        "name": "Peudawa",
+        "count": {
+            "desa": 17
+        }
+    },
+    {
+        "code": "110324",
+        "name": "Peunaron",
+        "count": {
+            "desa": 5
+        }
+    },
+    {
+        "code": "110307",
+        "name": "Peureulak",
+        "count": {
+            "desa": 38
+        }
+    },
+    {
+        "code": "110318",
+        "name": "Peureulak Barat",
+        "count": {
+            "desa": 15
+        }
+    },
+    {
+        "code": "110317",
+        "name": "Peureulak Timur",
+        "count": {
+            "desa": 20
+        }
+    },
+    {
+        "code": "110310",
+        "name": "Rantau Peureulak (Ranto Peureulak)",
+        "count": {
+            "desa": 23
+        }
+    },
+    {
+        "code": "110308",
+        "name": "Rantau Selamat",
+        "count": {
+            "desa": 14
+        }
+    },
+    {
+        "code": "110305",
+        "name": "Serbajadi",
+        "count": {
+            "desa": 17
+        }
+    },
+    {
+        "code": "110320",
+        "name": "Simpang Jernih",
+        "count": {
+            "desa": 8
+        }
+    },
+    {
+        "code": "110309",
+        "name": "Simpang Ulim",
+        "count": {
+            "desa": 23
+        }
+    },
+    {
+        "code": "110319",
+        "name": "Sungai Raya",
+        "count": {
+            "desa": 13
+        }
+    }
+]

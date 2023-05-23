@@ -1,0 +1,17 @@
+{
+    "code": "9405072008",
+    "name": "Ayume",
+    "poscode": "98970",
+    "provinsi": {
+        "code": "94",
+        "name": "Papua Tengah"
+    },
+    "kabupaten": {
+        "code": "9405",
+        "name": "Puncak"
+    },
+    "kecamatan": {
+        "code": "940507",
+        "name": "Agandugume"
+    }
+}

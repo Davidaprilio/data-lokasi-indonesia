@@ -1,0 +1,17 @@
+{
+    "code": "3602152005",
+    "name": "Baros",
+    "poscode": "42352",
+    "provinsi": {
+        "code": "36",
+        "name": "Banten"
+    },
+    "kabupaten": {
+        "code": "3602",
+        "name": "Lebak"
+    },
+    "kecamatan": {
+        "code": "360215",
+        "name": "Warunggunung"
+    }
+}

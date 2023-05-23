@@ -1,0 +1,17 @@
+{
+    "code": "3328012009",
+    "name": "Karangdawa",
+    "poscode": "52463",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3328",
+        "name": "Tegal"
+    },
+    "kecamatan": {
+        "code": "332801",
+        "name": "Margasari"
+    }
+}

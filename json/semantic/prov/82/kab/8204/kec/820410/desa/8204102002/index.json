@@ -1,0 +1,17 @@
+{
+    "code": "8204102002",
+    "name": "Bobawae",
+    "poscode": "97784",
+    "provinsi": {
+        "code": "82",
+        "name": "Maluku Utara"
+    },
+    "kabupaten": {
+        "code": "8204",
+        "name": "Halmahera Selatan"
+    },
+    "kecamatan": {
+        "code": "820410",
+        "name": "Makian Barat"
+    }
+}

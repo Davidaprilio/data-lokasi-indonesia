@@ -1,0 +1,42 @@
+[
+    {
+        "code": "3671061001",
+        "name": "Paninggilan",
+        "poscode": "15153"
+    },
+    {
+        "code": "3671061008",
+        "name": "Paninggilan Utara",
+        "poscode": "15153"
+    },
+    {
+        "code": "3671061005",
+        "name": "Parung Serab",
+        "poscode": "15153"
+    },
+    {
+        "code": "3671061002",
+        "name": "Sudimara Barat",
+        "poscode": "15151"
+    },
+    {
+        "code": "3671061006",
+        "name": "Sudimara Jaya",
+        "poscode": "15151"
+    },
+    {
+        "code": "3671061007",
+        "name": "Sudimara Selatan",
+        "poscode": "15151"
+    },
+    {
+        "code": "3671061003",
+        "name": "Sudimara Timur",
+        "poscode": "15151"
+    },
+    {
+        "code": "3671061004",
+        "name": "Tajur",
+        "poscode": "15152"
+    }
+]

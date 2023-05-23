@@ -1,0 +1,17 @@
+{
+    "code": "6212082001",
+    "name": "Batu Mirau",
+    "poscode": "73970",
+    "provinsi": {
+        "code": "62",
+        "name": "Kalimantan Tengah"
+    },
+    "kabupaten": {
+        "code": "6212",
+        "name": "Murung Raya"
+    },
+    "kecamatan": {
+        "code": "621208",
+        "name": "Sungai Babuat"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "5207082004",
+    "name": "Mantun",
+    "poscode": "84459",
+    "provinsi": {
+        "code": "52",
+        "name": "Nusa Tenggara Barat (NTB)"
+    },
+    "kabupaten": {
+        "code": "5207",
+        "name": "Sumbawa Barat"
+    },
+    "kecamatan": {
+        "code": "520708",
+        "name": "Maluk"
+    }
+}

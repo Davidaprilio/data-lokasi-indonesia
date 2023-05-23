@@ -1,0 +1,17 @@
+{
+    "code": "7402021004",
+    "name": "Ambekairi",
+    "poscode": "93413",
+    "provinsi": {
+        "code": "74",
+        "name": "Sulawesi Tenggara"
+    },
+    "kabupaten": {
+        "code": "7402",
+        "name": "Konawe"
+    },
+    "kecamatan": {
+        "code": "740202",
+        "name": "Unaaha"
+    }
+}

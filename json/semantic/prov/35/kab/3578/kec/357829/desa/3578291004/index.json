@@ -1,0 +1,17 @@
+{
+    "code": "3578291004",
+    "name": "Bulak",
+    "poscode": "60124",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3578",
+        "name": "Surabaya"
+    },
+    "kecamatan": {
+        "code": "357829",
+        "name": "Bulak"
+    }
+}

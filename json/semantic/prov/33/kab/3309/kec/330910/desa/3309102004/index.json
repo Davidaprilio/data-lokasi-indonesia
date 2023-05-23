@@ -1,0 +1,17 @@
+{
+    "code": "3309102004",
+    "name": "Jatisari",
+    "poscode": "57376",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3309",
+        "name": "Boyolali"
+    },
+    "kecamatan": {
+        "code": "330910",
+        "name": "Sambi"
+    }
+}

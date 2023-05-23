@@ -1,0 +1,17 @@
+{
+    "code": "9501642005",
+    "name": "Heberima",
+    "poscode": "99502",
+    "provinsi": {
+        "code": "95",
+        "name": "Papua Pegunungan"
+    },
+    "kabupaten": {
+        "code": "9501",
+        "name": "Jayawijaya"
+    },
+    "kecamatan": {
+        "code": "950164",
+        "name": "Asotipo"
+    }
+}

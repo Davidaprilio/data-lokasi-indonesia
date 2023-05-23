@@ -1,0 +1,17 @@
+{
+    "code": "3321112003",
+    "name": "Kedondong",
+    "poscode": "59517",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3321",
+        "name": "Demak"
+    },
+    "kecamatan": {
+        "code": "332111",
+        "name": "Demak"
+    }
+}

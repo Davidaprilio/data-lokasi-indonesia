@@ -1,0 +1,17 @@
+{
+    "code": "7302011001",
+    "name": "Matekko (Mattekko)",
+    "poscode": "92561",
+    "provinsi": {
+        "code": "73",
+        "name": "Sulawesi Selatan"
+    },
+    "kabupaten": {
+        "code": "7302",
+        "name": "Bulukumba"
+    },
+    "kecamatan": {
+        "code": "730201",
+        "name": "Gantorang/Gantarang (Gangking)"
+    }
+}

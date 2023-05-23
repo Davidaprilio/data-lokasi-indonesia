@@ -1,0 +1,17 @@
+{
+    "code": "1310042004",
+    "name": "Gunung Medan",
+    "poscode": "27678",
+    "provinsi": {
+        "code": "13",
+        "name": "Sumatera Barat"
+    },
+    "kabupaten": {
+        "code": "1310",
+        "name": "Dharmasraya"
+    },
+    "kecamatan": {
+        "code": "131004",
+        "name": "Sitiung"
+    }
+}

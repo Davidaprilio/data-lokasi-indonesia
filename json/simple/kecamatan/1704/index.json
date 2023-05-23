@@ -1,0 +1,107 @@
+[
+    {
+        "code": "170405",
+        "name": "Kaur Selatan",
+        "count": {
+            "desa": 19
+        }
+    },
+    {
+        "code": "170404",
+        "name": "Kaur Tengah",
+        "count": {
+            "desa": 9
+        }
+    },
+    {
+        "code": "170403",
+        "name": "Kaur Utara",
+        "count": {
+            "desa": 11
+        }
+    },
+    {
+        "code": "170409",
+        "name": "Kelam Tengah",
+        "count": {
+            "desa": 13
+        }
+    },
+    {
+        "code": "170401",
+        "name": "Kinal",
+        "count": {
+            "desa": 14
+        }
+    },
+    {
+        "code": "170410",
+        "name": "Luas",
+        "count": {
+            "desa": 12
+        }
+    },
+    {
+        "code": "170413",
+        "name": "Lungkang Kule",
+        "count": {
+            "desa": 9
+        }
+    },
+    {
+        "code": "170406",
+        "name": "Maje",
+        "count": {
+            "desa": 19
+        }
+    },
+    {
+        "code": "170411",
+        "name": "Muara Sahung",
+        "count": {
+            "desa": 7
+        }
+    },
+    {
+        "code": "170407",
+        "name": "Nasal",
+        "count": {
+            "desa": 17
+        }
+    },
+    {
+        "code": "170414",
+        "name": "Padang Guci Hilir",
+        "count": {
+            "desa": 9
+        }
+    },
+    {
+        "code": "170415",
+        "name": "Padang Guci Hulu",
+        "count": {
+            "desa": 11
+        }
+    },
+    {
+        "code": "170408",
+        "name": "Semidang Gumai (Gumay)",
+        "count": {
+            "desa": 13
+        }
+    },
+    {
+        "code": "170402",
+        "name": "Tanjung Kemuning",
+        "count": {
+            "desa": 20
+        }
+    },
+    {
+        "code": "170412",
+        "name": "Tetap (Muara Tetap)",
+        "count": {
+            "desa": 12
+        }
+    }
+]

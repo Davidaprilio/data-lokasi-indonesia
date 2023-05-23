@@ -1,0 +1,17 @@
+{
+    "code": "3519072004",
+    "name": "Karangrejo",
+    "poscode": "63181",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3519",
+        "name": "Madiun"
+    },
+    "kecamatan": {
+        "code": "351907",
+        "name": "Wungu"
+    }
+}

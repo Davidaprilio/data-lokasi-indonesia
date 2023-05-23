@@ -1,0 +1,17 @@
+{
+    "code": "3314022013",
+    "name": "Dari",
+    "poscode": "57283",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3314",
+        "name": "Sragen"
+    },
+    "kecamatan": {
+        "code": "331402",
+        "name": "Plupuh"
+    }
+}

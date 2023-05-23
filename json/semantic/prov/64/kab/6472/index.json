@@ -1,0 +1,10 @@
+{
+    "code": "6472",
+    "type": "Kota",
+    "name": "Samarinda",
+    "fullname": "Kota Samarinda",
+    "jumlah": {
+        "kecamatan": 10,
+        "desa": 59
+    }
+}

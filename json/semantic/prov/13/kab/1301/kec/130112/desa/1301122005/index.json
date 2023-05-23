@@ -1,0 +1,17 @@
+{
+    "code": "1301122005",
+    "name": "Puluik-Puluik Selatan",
+    "poscode": "25653",
+    "provinsi": {
+        "code": "13",
+        "name": "Sumatera Barat"
+    },
+    "kabupaten": {
+        "code": "1301",
+        "name": "Pesisir Selatan"
+    },
+    "kecamatan": {
+        "code": "130112",
+        "name": "IV Nagari Bayang Utara"
+    }
+}

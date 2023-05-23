@@ -1,0 +1,17 @@
+{
+    "code": "1504042006",
+    "name": "Hajran",
+    "poscode": "36656",
+    "provinsi": {
+        "code": "15",
+        "name": "Jambi"
+    },
+    "kabupaten": {
+        "code": "1504",
+        "name": "Batanghari"
+    },
+    "kecamatan": {
+        "code": "150404",
+        "name": "Batin XXIV"
+    }
+}

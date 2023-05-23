@@ -1,0 +1,17 @@
+{
+    "code": "3571011004",
+    "name": "Pojok",
+    "poscode": "64115",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3571",
+        "name": "Kediri"
+    },
+    "kecamatan": {
+        "code": "357101",
+        "name": "Mojoroto"
+    }
+}

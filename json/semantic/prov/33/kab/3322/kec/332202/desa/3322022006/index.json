@@ -1,0 +1,17 @@
+{
+    "code": "3322022006",
+    "name": "Klero",
+    "poscode": "50775",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3322",
+        "name": "Semarang"
+    },
+    "kecamatan": {
+        "code": "332202",
+        "name": "Tengaran"
+    }
+}

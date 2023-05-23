@@ -1,0 +1,17 @@
+{
+    "code": "3217112002",
+    "name": "Budiharja",
+    "poscode": "40567",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3217",
+        "name": "Bandung Barat"
+    },
+    "kecamatan": {
+        "code": "321711",
+        "name": "Cililin"
+    }
+}

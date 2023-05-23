@@ -1,0 +1,17 @@
+{
+    "code": "1904032012",
+    "name": "Melabun",
+    "poscode": "33675",
+    "provinsi": {
+        "code": "19",
+        "name": "Kepulauan Bangka Belitung"
+    },
+    "kabupaten": {
+        "code": "1904",
+        "name": "Bangka Tengah"
+    },
+    "kecamatan": {
+        "code": "190403",
+        "name": "Sungai Selan"
+    }
+}

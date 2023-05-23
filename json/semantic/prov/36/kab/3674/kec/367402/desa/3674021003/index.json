@@ -1,0 +1,17 @@
+{
+    "code": "3674021003",
+    "name": "Pakujaya (Paku Jaya)",
+    "poscode": "15324",
+    "provinsi": {
+        "code": "36",
+        "name": "Banten"
+    },
+    "kabupaten": {
+        "code": "3674",
+        "name": "Tangerang Selatan"
+    },
+    "kecamatan": {
+        "code": "367402",
+        "name": "Serpong Utara"
+    }
+}

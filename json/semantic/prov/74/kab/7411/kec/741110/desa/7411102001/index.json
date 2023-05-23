@@ -1,0 +1,17 @@
+{
+    "code": "7411102001",
+    "name": "Aere",
+    "poscode": "93573",
+    "provinsi": {
+        "code": "74",
+        "name": "Sulawesi Tenggara"
+    },
+    "kabupaten": {
+        "code": "7411",
+        "name": "Kolaka Timur"
+    },
+    "kecamatan": {
+        "code": "741110",
+        "name": "Aere"
+    }
+}

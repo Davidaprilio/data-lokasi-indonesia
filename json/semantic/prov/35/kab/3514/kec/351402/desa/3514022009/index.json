@@ -1,0 +1,17 @@
+{
+    "code": "3514022009",
+    "name": "Pungging",
+    "poscode": "67165",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3514",
+        "name": "Pasuruan"
+    },
+    "kecamatan": {
+        "code": "351402",
+        "name": "Tutur"
+    }
+}

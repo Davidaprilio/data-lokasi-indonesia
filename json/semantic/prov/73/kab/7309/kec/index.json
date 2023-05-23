@@ -1,0 +1,100 @@
+[
+    {
+        "code": "730903",
+        "name": "Bantimurung",
+        "count": {
+            "desa": 8
+        }
+    },
+    {
+        "code": "730905",
+        "name": "Bontoa (Maros Utara)",
+        "count": {
+            "desa": 9
+        }
+    },
+    {
+        "code": "730902",
+        "name": "Camba",
+        "count": {
+            "desa": 8
+        }
+    },
+    {
+        "code": "730910",
+        "name": "Cenrana",
+        "count": {
+            "desa": 7
+        }
+    },
+    {
+        "code": "730912",
+        "name": "Lau",
+        "count": {
+            "desa": 6
+        }
+    },
+    {
+        "code": "730906",
+        "name": "Malllawa (Mallawa)",
+        "count": {
+            "desa": 11
+        }
+    },
+    {
+        "code": "730901",
+        "name": "Mandai",
+        "count": {
+            "desa": 6
+        }
+    },
+    {
+        "code": "730904",
+        "name": "Maros Baru",
+        "count": {
+            "desa": 7
+        }
+    },
+    {
+        "code": "730908",
+        "name": "Marusu",
+        "count": {
+            "desa": 7
+        }
+    },
+    {
+        "code": "730913",
+        "name": "Moncong Loe (Moncongloe)",
+        "count": {
+            "desa": 5
+        }
+    },
+    {
+        "code": "730909",
+        "name": "Simbang",
+        "count": {
+            "desa": 6
+        }
+    },
+    {
+        "code": "730907",
+        "name": "Tanralili",
+        "count": {
+            "desa": 8
+        }
+    },
+    {
+        "code": "730911",
+        "name": "Tompobulu (Tompu Bulu)",
+        "count": {
+            "desa": 8
+        }
+    },
+    {
+        "code": "730914",
+        "name": "Turikale",
+        "count": {
+            "desa": 7
+        }
+    }
+]

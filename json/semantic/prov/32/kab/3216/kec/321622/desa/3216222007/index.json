@@ -1,0 +1,17 @@
+{
+    "code": "3216222007",
+    "name": "Sindangmulya",
+    "poscode": "17340",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3216",
+        "name": "Bekasi"
+    },
+    "kecamatan": {
+        "code": "321622",
+        "name": "Cibarusah"
+    }
+}

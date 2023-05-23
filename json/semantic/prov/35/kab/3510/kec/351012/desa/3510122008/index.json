@@ -1,0 +1,17 @@
+{
+    "code": "3510122008",
+    "name": "Padang",
+    "poscode": "68464",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3510",
+        "name": "Banyuwangi"
+    },
+    "kecamatan": {
+        "code": "351012",
+        "name": "Singojuruh"
+    }
+}

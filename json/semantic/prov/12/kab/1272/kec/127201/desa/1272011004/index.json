@@ -1,0 +1,17 @@
+{
+    "code": "1272011004",
+    "name": "Asuhan",
+    "poscode": "21136",
+    "provinsi": {
+        "code": "12",
+        "name": "Sumatera Utara"
+    },
+    "kabupaten": {
+        "code": "1272",
+        "name": "Pematangsiantar"
+    },
+    "kecamatan": {
+        "code": "127201",
+        "name": "Siantar Timur"
+    }
+}

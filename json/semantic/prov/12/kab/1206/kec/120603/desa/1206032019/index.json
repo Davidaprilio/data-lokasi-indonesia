@@ -1,0 +1,17 @@
+{
+    "code": "1206032019",
+    "name": "Penampen",
+    "poscode": "22172",
+    "provinsi": {
+        "code": "12",
+        "name": "Sumatera Utara"
+    },
+    "kabupaten": {
+        "code": "1206",
+        "name": "Karo"
+    },
+    "kecamatan": {
+        "code": "120603",
+        "name": "Barusjahe (Barus Jahe)"
+    }
+}

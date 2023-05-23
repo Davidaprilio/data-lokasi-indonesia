@@ -1,0 +1,17 @@
+{
+    "code": "6171011003",
+    "name": "Benuamelayu Darat (Benua Melayu Darat)",
+    "poscode": "78122",
+    "provinsi": {
+        "code": "61",
+        "name": "Kalimantan Barat"
+    },
+    "kabupaten": {
+        "code": "6171",
+        "name": "Pontianak"
+    },
+    "kecamatan": {
+        "code": "617101",
+        "name": "Pontianak Selatan"
+    }
+}

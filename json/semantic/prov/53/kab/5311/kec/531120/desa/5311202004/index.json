@@ -1,0 +1,17 @@
+{
+    "code": "5311202004",
+    "name": "Mondu",
+    "poscode": "87154",
+    "provinsi": {
+        "code": "53",
+        "name": "Nusa Tenggara Timur (NTT)"
+    },
+    "kabupaten": {
+        "code": "5311",
+        "name": "Sumba Timur"
+    },
+    "kecamatan": {
+        "code": "531120",
+        "name": "Kanatang"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "8106102005",
+    "name": "Seakasale (Soakasale)",
+    "poscode": "97561",
+    "provinsi": {
+        "code": "81",
+        "name": "Maluku"
+    },
+    "kabupaten": {
+        "code": "8106",
+        "name": "Seram Bagian Barat"
+    },
+    "kecamatan": {
+        "code": "810610",
+        "name": "Taniwel Timur"
+    }
+}

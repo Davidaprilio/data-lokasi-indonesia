@@ -1,0 +1,17 @@
+{
+    "code": "9209112012",
+    "name": "Thomas",
+    "poscode": "98396",
+    "provinsi": {
+        "code": "96",
+        "name": "Papua Barat Daya"
+    },
+    "kabupaten": {
+        "code": "9209",
+        "name": "Tambrauw"
+    },
+    "kecamatan": {
+        "code": "920911",
+        "name": "Senopi"
+    }
+}

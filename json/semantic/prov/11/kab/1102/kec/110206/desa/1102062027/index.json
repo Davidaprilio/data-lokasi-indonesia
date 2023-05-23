@@ -1,0 +1,17 @@
+{
+    "code": "1102062027",
+    "name": "Pintu Alas",
+    "poscode": "24673",
+    "provinsi": {
+        "code": "11",
+        "name": "Aceh (NAD)"
+    },
+    "kabupaten": {
+        "code": "1102",
+        "name": "Aceh Tenggara"
+    },
+    "kecamatan": {
+        "code": "110206",
+        "name": "Babul Makmur"
+    }
+}

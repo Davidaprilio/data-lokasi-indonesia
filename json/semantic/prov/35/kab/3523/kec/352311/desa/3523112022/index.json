@@ -1,0 +1,17 @@
+{
+    "code": "3523112022",
+    "name": "Sandingrowo",
+    "poscode": "62372",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3523",
+        "name": "Tuban"
+    },
+    "kecamatan": {
+        "code": "352311",
+        "name": "Soko"
+    }
+}

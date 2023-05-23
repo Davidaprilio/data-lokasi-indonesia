@@ -1,0 +1,17 @@
+{
+    "code": "7402321001",
+    "name": "Bungguosu",
+    "poscode": "93461",
+    "provinsi": {
+        "code": "74",
+        "name": "Sulawesi Tenggara"
+    },
+    "kabupaten": {
+        "code": "7402",
+        "name": "Konawe"
+    },
+    "kecamatan": {
+        "code": "740232",
+        "name": "Konawe"
+    }
+}

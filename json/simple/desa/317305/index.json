@@ -1,0 +1,37 @@
+[
+    {
+        "code": "3173051005",
+        "name": "Duri Kepa",
+        "poscode": "11510"
+    },
+    {
+        "code": "3173051001",
+        "name": "Kebon Jeruk",
+        "poscode": "11530"
+    },
+    {
+        "code": "3173051007",
+        "name": "Kedoya Selatan",
+        "poscode": "11520"
+    },
+    {
+        "code": "3173051006",
+        "name": "Kedoya Utara",
+        "poscode": "11520"
+    },
+    {
+        "code": "3173051004",
+        "name": "Kelapa Dua",
+        "poscode": "11550"
+    },
+    {
+        "code": "3173051003",
+        "name": "Sukabumi Selatan (Udik)",
+        "poscode": "11560"
+    },
+    {
+        "code": "3173051002",
+        "name": "Sukabumi Utara (Ilir)",
+        "poscode": "11540"
+    }
+]

@@ -1,0 +1,17 @@
+{
+    "code": "3316042010",
+    "name": "Tanjung",
+    "poscode": "58381",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3316",
+        "name": "Blora"
+    },
+    "kecamatan": {
+        "code": "331604",
+        "name": "Kedungtuban"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "1118062025",
+    "name": "Cut Langgien (Cut Langien)",
+    "poscode": "24184",
+    "provinsi": {
+        "code": "11",
+        "name": "Aceh (NAD)"
+    },
+    "kabupaten": {
+        "code": "1118",
+        "name": "Pidie Jaya"
+    },
+    "kecamatan": {
+        "code": "111806",
+        "name": "Bandar Baru"
+    }
+}

@@ -1,0 +1,128 @@
+[
+    {
+        "code": "352012",
+        "name": "Barat",
+        "count": {
+            "desa": 14
+        }
+    },
+    {
+        "code": "352010",
+        "name": "Bendo",
+        "count": {
+            "desa": 16
+        }
+    },
+    {
+        "code": "352013",
+        "name": "Karangrejo",
+        "count": {
+            "desa": 13
+        }
+    },
+    {
+        "code": "352014",
+        "name": "Karas",
+        "count": {
+            "desa": 11
+        }
+    },
+    {
+        "code": "352015",
+        "name": "Kartoharjo (Kertoharjo)",
+        "count": {
+            "desa": 12
+        }
+    },
+    {
+        "code": "352005",
+        "name": "Kawedanan",
+        "count": {
+            "desa": 20
+        }
+    },
+    {
+        "code": "352003",
+        "name": "Lembeyan",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "352006",
+        "name": "Magetan",
+        "count": {
+            "desa": 14
+        }
+    },
+    {
+        "code": "352011",
+        "name": "Maospati",
+        "count": {
+            "desa": 15
+        }
+    },
+    {
+        "code": "352016",
+        "name": "Ngariboyo",
+        "count": {
+            "desa": 12
+        }
+    },
+    {
+        "code": "352017",
+        "name": "Nguntoronadi",
+        "count": {
+            "desa": 9
+        }
+    },
+    {
+        "code": "352008",
+        "name": "Panekan",
+        "count": {
+            "desa": 17
+        }
+    },
+    {
+        "code": "352002",
+        "name": "Parang",
+        "count": {
+            "desa": 13
+        }
+    },
+    {
+        "code": "352007",
+        "name": "Plaosan",
+        "count": {
+            "desa": 15
+        }
+    },
+    {
+        "code": "352001",
+        "name": "Poncol",
+        "count": {
+            "desa": 8
+        }
+    },
+    {
+        "code": "352018",
+        "name": "Sidorejo",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "352009",
+        "name": "Sukomoro",
+        "count": {
+            "desa": 14
+        }
+    },
+    {
+        "code": "352004",
+        "name": "Takeran",
+        "count": {
+            "desa": 12
+        }
+    }
+]

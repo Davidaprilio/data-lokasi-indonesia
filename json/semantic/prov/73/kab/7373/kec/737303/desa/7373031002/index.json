@@ -1,0 +1,17 @@
+{
+    "code": "7373031002",
+    "name": "Songka",
+    "poscode": "91959",
+    "provinsi": {
+        "code": "73",
+        "name": "Sulawesi Selatan"
+    },
+    "kabupaten": {
+        "code": "7373",
+        "name": "Palopo"
+    },
+    "kecamatan": {
+        "code": "737303",
+        "name": "Wara Selatan"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "3306142005",
+    "name": "Bulus",
+    "poscode": "54191",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3306",
+        "name": "Purworejo"
+    },
+    "kecamatan": {
+        "code": "330614",
+        "name": "Gebang"
+    }
+}

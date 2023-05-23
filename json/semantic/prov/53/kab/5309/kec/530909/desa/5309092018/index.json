@@ -1,0 +1,17 @@
+{
+    "code": "5309092018",
+    "name": "Lengkosambi Barat",
+    "poscode": "86419",
+    "provinsi": {
+        "code": "53",
+        "name": "Nusa Tenggara Timur (NTT)"
+    },
+    "kabupaten": {
+        "code": "5309",
+        "name": "Ngada"
+    },
+    "kecamatan": {
+        "code": "530909",
+        "name": "Riung"
+    }
+}

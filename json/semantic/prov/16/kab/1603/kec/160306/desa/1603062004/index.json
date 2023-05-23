@@ -1,0 +1,17 @@
+{
+    "code": "1603062004",
+    "name": "Gaung Telang",
+    "poscode": "31170",
+    "provinsi": {
+        "code": "16",
+        "name": "Sumatera Selatan"
+    },
+    "kabupaten": {
+        "code": "1603",
+        "name": "Muara Enim"
+    },
+    "kecamatan": {
+        "code": "160306",
+        "name": "Gelumbang"
+    }
+}

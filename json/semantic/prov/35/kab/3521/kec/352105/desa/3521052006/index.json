@@ -1,0 +1,17 @@
+{
+    "code": "3521052006",
+    "name": "Keniten",
+    "poscode": "63271",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3521",
+        "name": "Ngawi"
+    },
+    "kecamatan": {
+        "code": "352105",
+        "name": "Geneng"
+    }
+}

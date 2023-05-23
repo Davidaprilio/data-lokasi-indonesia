@@ -1,0 +1,17 @@
+{
+    "code": "7107122002",
+    "name": "Wioi Satu",
+    "poscode": "95995",
+    "provinsi": {
+        "code": "71",
+        "name": "Sulawesi Utara"
+    },
+    "kabupaten": {
+        "code": "7107",
+        "name": "Minahasa Tenggara"
+    },
+    "kecamatan": {
+        "code": "710712",
+        "name": "Ratahan Timur"
+    }
+}

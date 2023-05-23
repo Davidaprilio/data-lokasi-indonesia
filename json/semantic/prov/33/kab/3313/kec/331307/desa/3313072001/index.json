@@ -1,0 +1,17 @@
+{
+    "code": "3313072001",
+    "name": "Puntukrejo",
+    "poscode": "57793",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3313",
+        "name": "Karanganyar"
+    },
+    "kecamatan": {
+        "code": "331307",
+        "name": "Ngargoyoso"
+    }
+}

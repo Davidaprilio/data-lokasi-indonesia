@@ -1,0 +1,17 @@
+{
+    "code": "1571061002",
+    "name": "Tanjung Raden",
+    "poscode": "36264",
+    "provinsi": {
+        "code": "15",
+        "name": "Jambi"
+    },
+    "kabupaten": {
+        "code": "1571",
+        "name": "Jambi"
+    },
+    "kecamatan": {
+        "code": "157106",
+        "name": "Danau Teluk"
+    }
+}

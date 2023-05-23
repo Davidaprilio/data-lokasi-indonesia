@@ -1,0 +1,17 @@
+{
+    "code": "1571101001",
+    "name": "Sungai Putri",
+    "poscode": "36122",
+    "provinsi": {
+        "code": "15",
+        "name": "Jambi"
+    },
+    "kabupaten": {
+        "code": "1571",
+        "name": "Jambi"
+    },
+    "kecamatan": {
+        "code": "157110",
+        "name": "Danau Sipin"
+    }
+}

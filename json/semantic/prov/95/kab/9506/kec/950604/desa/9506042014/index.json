@@ -1,0 +1,17 @@
+{
+    "code": "9506042014",
+    "name": "Puruku",
+    "poscode": "99081",
+    "provinsi": {
+        "code": "95",
+        "name": "Papua Pegunungan"
+    },
+    "kabupaten": {
+        "code": "9506",
+        "name": "Yalimo"
+    },
+    "kecamatan": {
+        "code": "950604",
+        "name": "Benawa"
+    }
+}

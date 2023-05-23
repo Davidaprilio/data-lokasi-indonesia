@@ -1,0 +1,72 @@
+[
+    {
+        "code": "820202",
+        "name": "Patani",
+        "count": {
+            "desa": 5
+        }
+    },
+    {
+        "code": "820208",
+        "name": "Patani Barat",
+        "count": {
+            "desa": 5
+        }
+    },
+    {
+        "code": "820210",
+        "name": "Patani Timur",
+        "count": {
+            "desa": 6
+        }
+    },
+    {
+        "code": "820206",
+        "name": "Patani Utara",
+        "count": {
+            "desa": 6
+        }
+    },
+    {
+        "code": "820203",
+        "name": "Pulau Gebe",
+        "count": {
+            "desa": 8
+        }
+    },
+    {
+        "code": "820201",
+        "name": "Weda",
+        "count": {
+            "desa": 7
+        }
+    },
+    {
+        "code": "820205",
+        "name": "Weda Selatan",
+        "count": {
+            "desa": 8
+        }
+    },
+    {
+        "code": "820207",
+        "name": "Weda Tengah",
+        "count": {
+            "desa": 7
+        }
+    },
+    {
+        "code": "820209",
+        "name": "Weda Timur",
+        "count": {
+            "desa": 4
+        }
+    },
+    {
+        "code": "820204",
+        "name": "Weda Utara",
+        "count": {
+            "desa": 5
+        }
+    }
+]

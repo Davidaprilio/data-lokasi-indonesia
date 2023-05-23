@@ -1,0 +1,17 @@
+{
+    "code": "7101122004",
+    "name": "Tandu",
+    "poscode": "95741",
+    "provinsi": {
+        "code": "71",
+        "name": "Sulawesi Utara"
+    },
+    "kabupaten": {
+        "code": "7101",
+        "name": "Bolaang Mongondow"
+    },
+    "kecamatan": {
+        "code": "710112",
+        "name": "Lolak"
+    }
+}

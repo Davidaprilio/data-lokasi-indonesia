@@ -1,0 +1,17 @@
+{
+    "code": "7103202002",
+    "name": "Basauh",
+    "poscode": "95850",
+    "provinsi": {
+        "code": "71",
+        "name": "Sulawesi Utara"
+    },
+    "kabupaten": {
+        "code": "7103",
+        "name": "Kepulauan Sangihe"
+    },
+    "kecamatan": {
+        "code": "710320",
+        "name": "Tabukan Selatan Tenggara"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "3217082002",
+    "name": "Padalarang",
+    "poscode": "40553",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3217",
+        "name": "Bandung Barat"
+    },
+    "kecamatan": {
+        "code": "321708",
+        "name": "Padalarang"
+    }
+}

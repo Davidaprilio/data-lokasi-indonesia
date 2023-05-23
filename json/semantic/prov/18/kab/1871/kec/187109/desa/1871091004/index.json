@@ -1,0 +1,17 @@
+{
+    "code": "1871091004",
+    "name": "Kupang Teba",
+    "poscode": "35212",
+    "provinsi": {
+        "code": "18",
+        "name": "Lampung"
+    },
+    "kabupaten": {
+        "code": "1871",
+        "name": "Bandar Lampung"
+    },
+    "kecamatan": {
+        "code": "187109",
+        "name": "Telukbetung Utara"
+    }
+}

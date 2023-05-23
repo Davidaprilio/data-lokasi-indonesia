@@ -1,0 +1,17 @@
+{
+    "code": "7505092010",
+    "name": "Zuriyati",
+    "poscode": "96526",
+    "provinsi": {
+        "code": "75",
+        "name": "Gorontalo"
+    },
+    "kabupaten": {
+        "code": "7505",
+        "name": "Gorontalo Utara"
+    },
+    "kecamatan": {
+        "code": "750509",
+        "name": "Monano"
+    }
+}

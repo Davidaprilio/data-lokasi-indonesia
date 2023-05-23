@@ -1,0 +1,17 @@
+{
+    "code": "1106012004",
+    "name": "Tunong Krueng Kala",
+    "poscode": "23354",
+    "provinsi": {
+        "code": "11",
+        "name": "Aceh (NAD)"
+    },
+    "kabupaten": {
+        "code": "1106",
+        "name": "Aceh Besar"
+    },
+    "kecamatan": {
+        "code": "110601",
+        "name": "Lhoong"
+    }
+}

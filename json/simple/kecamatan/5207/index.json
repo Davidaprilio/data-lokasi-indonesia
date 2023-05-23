@@ -1,0 +1,58 @@
+[
+    {
+        "code": "520707",
+        "name": "Brang Ene",
+        "count": {
+            "desa": 6
+        }
+    },
+    {
+        "code": "520705",
+        "name": "Brang Rea",
+        "count": {
+            "desa": 9
+        }
+    },
+    {
+        "code": "520701",
+        "name": "Jereweh",
+        "count": {
+            "desa": 4
+        }
+    },
+    {
+        "code": "520708",
+        "name": "Maluk",
+        "count": {
+            "desa": 5
+        }
+    },
+    {
+        "code": "520706",
+        "name": "Poto Tano",
+        "count": {
+            "desa": 8
+        }
+    },
+    {
+        "code": "520703",
+        "name": "Sateluk (Seteluk)",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "520704",
+        "name": "Sekongkang",
+        "count": {
+            "desa": 7
+        }
+    },
+    {
+        "code": "520702",
+        "name": "Taliwang",
+        "count": {
+            "desa": 15
+        }
+    }
+]

@@ -1,0 +1,17 @@
+{
+    "code": "5371041008",
+    "name": "Oetete",
+    "poscode": "85112",
+    "provinsi": {
+        "code": "53",
+        "name": "Nusa Tenggara Timur (NTT)"
+    },
+    "kabupaten": {
+        "code": "5371",
+        "name": "Kupang"
+    },
+    "kecamatan": {
+        "code": "537104",
+        "name": "Oebobo"
+    }
+}

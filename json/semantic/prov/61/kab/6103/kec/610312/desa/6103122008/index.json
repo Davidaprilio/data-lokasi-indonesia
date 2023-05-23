@@ -1,0 +1,17 @@
+{
+    "code": "6103122008",
+    "name": "Semoncol",
+    "poscode": "78563",
+    "provinsi": {
+        "code": "61",
+        "name": "Kalimantan Barat"
+    },
+    "kabupaten": {
+        "code": "6103",
+        "name": "Sanggau"
+    },
+    "kecamatan": {
+        "code": "610312",
+        "name": "Balai"
+    }
+}

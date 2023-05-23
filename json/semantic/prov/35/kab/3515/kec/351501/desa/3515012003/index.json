@@ -1,0 +1,17 @@
+{
+    "code": "3515012003",
+    "name": "Singogalih",
+    "poscode": "61265",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3515",
+        "name": "Sidoarjo"
+    },
+    "kecamatan": {
+        "code": "351501",
+        "name": "Tarik"
+    }
+}

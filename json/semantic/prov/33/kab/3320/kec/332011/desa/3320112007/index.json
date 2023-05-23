@@ -1,0 +1,17 @@
+{
+    "code": "3320112007",
+    "name": "Semat",
+    "poscode": "59424",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3320",
+        "name": "Jepara"
+    },
+    "kecamatan": {
+        "code": "332011",
+        "name": "Tahunan"
+    }
+}

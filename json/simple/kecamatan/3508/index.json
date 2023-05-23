@@ -1,0 +1,149 @@
+[
+    {
+        "code": "350803",
+        "name": "Candipuro",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "350813",
+        "name": "Gucialit",
+        "count": {
+            "desa": 9
+        }
+    },
+    {
+        "code": "350817",
+        "name": "Jatiroto",
+        "count": {
+            "desa": 6
+        }
+    },
+    {
+        "code": "350816",
+        "name": "Kedungjajang",
+        "count": {
+            "desa": 12
+        }
+    },
+    {
+        "code": "350819",
+        "name": "Klakah",
+        "count": {
+            "desa": 12
+        }
+    },
+    {
+        "code": "350806",
+        "name": "Kunir",
+        "count": {
+            "desa": 11
+        }
+    },
+    {
+        "code": "350810",
+        "name": "Lumajang",
+        "count": {
+            "desa": 12
+        }
+    },
+    {
+        "code": "350814",
+        "name": "Padang",
+        "count": {
+            "desa": 9
+        }
+    },
+    {
+        "code": "350804",
+        "name": "Pasirian",
+        "count": {
+            "desa": 11
+        }
+    },
+    {
+        "code": "350811",
+        "name": "Pasrujambe/Pasujambe",
+        "count": {
+            "desa": 7
+        }
+    },
+    {
+        "code": "350802",
+        "name": "Pronojiwo",
+        "count": {
+            "desa": 6
+        }
+    },
+    {
+        "code": "350818",
+        "name": "Randuagung",
+        "count": {
+            "desa": 12
+        }
+    },
+    {
+        "code": "350820",
+        "name": "Ranuyoso",
+        "count": {
+            "desa": 11
+        }
+    },
+    {
+        "code": "350808",
+        "name": "Rowokangkung",
+        "count": {
+            "desa": 7
+        }
+    },
+    {
+        "code": "350812",
+        "name": "Senduro",
+        "count": {
+            "desa": 12
+        }
+    },
+    {
+        "code": "350815",
+        "name": "Sukodono",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "350821",
+        "name": "Sumbersuko",
+        "count": {
+            "desa": 8
+        }
+    },
+    {
+        "code": "350809",
+        "name": "Tekung",
+        "count": {
+            "desa": 8
+        }
+    },
+    {
+        "code": "350805",
+        "name": "Tempeh",
+        "count": {
+            "desa": 13
+        }
+    },
+    {
+        "code": "350801",
+        "name": "Tempursari",
+        "count": {
+            "desa": 7
+        }
+    },
+    {
+        "code": "350807",
+        "name": "Yosowilangun",
+        "count": {
+            "desa": 12
+        }
+    }
+]

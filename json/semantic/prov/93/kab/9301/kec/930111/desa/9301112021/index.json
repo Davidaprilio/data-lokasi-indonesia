@@ -1,0 +1,17 @@
+{
+    "code": "9301112021",
+    "name": "Candra Jaya",
+    "poscode": "99646",
+    "provinsi": {
+        "code": "93",
+        "name": "Papua Selatan"
+    },
+    "kabupaten": {
+        "code": "9301",
+        "name": "Merauke"
+    },
+    "kecamatan": {
+        "code": "930111",
+        "name": "Kurik"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "1203212012",
+    "name": "Bange",
+    "poscode": "22774",
+    "provinsi": {
+        "code": "12",
+        "name": "Sumatera Utara"
+    },
+    "kabupaten": {
+        "code": "1203",
+        "name": "Tapanuli Selatan"
+    },
+    "kecamatan": {
+        "code": "120321",
+        "name": "Sayur Matinggi"
+    }
+}

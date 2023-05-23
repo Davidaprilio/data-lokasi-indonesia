@@ -1,0 +1,17 @@
+{
+    "code": "3323031026",
+    "name": "Walitelon Selatan",
+    "poscode": "56229",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3323",
+        "name": "Temanggung"
+    },
+    "kecamatan": {
+        "code": "332303",
+        "name": "Temanggung"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "code": "1371",
+    "type": "Kota",
+    "name": "Padang",
+    "fullname": "Kota Padang",
+    "jumlah": {
+        "kecamatan": 11,
+        "desa": 104
+    }
+}

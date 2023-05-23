@@ -1,0 +1,17 @@
+{
+    "code": "3573041010",
+    "name": "Mulyorejo",
+    "poscode": "65147",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3573",
+        "name": "Malang"
+    },
+    "kecamatan": {
+        "code": "357304",
+        "name": "Sukun"
+    }
+}

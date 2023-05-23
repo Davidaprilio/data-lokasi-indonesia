@@ -1,0 +1,17 @@
+{
+    "code": "9503212009",
+    "name": "Walialema",
+    "poscode": "99717",
+    "provinsi": {
+        "code": "95",
+        "name": "Papua Pegunungan"
+    },
+    "kabupaten": {
+        "code": "9503",
+        "name": "Yahukimo"
+    },
+    "kecamatan": {
+        "code": "950321",
+        "name": "Ukha"
+    }
+}

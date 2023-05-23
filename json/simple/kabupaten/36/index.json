@@ -1,0 +1,82 @@
+[
+    {
+        "code": "3672",
+        "type": "Kota",
+        "name": "Cilegon",
+        "fullname": "Kota Cilegon",
+        "jumlah": {
+            "kecamatan": 8,
+            "desa": 43
+        }
+    },
+    {
+        "code": "3602",
+        "type": "Kabupaten",
+        "name": "Lebak",
+        "fullname": "Kabupaten Lebak",
+        "jumlah": {
+            "kecamatan": 28,
+            "desa": 345
+        }
+    },
+    {
+        "code": "3601",
+        "type": "Kabupaten",
+        "name": "Pandeglang",
+        "fullname": "Kabupaten Pandeglang",
+        "jumlah": {
+            "kecamatan": 35,
+            "desa": 339
+        }
+    },
+    {
+        "code": "3673",
+        "type": "Kota",
+        "name": "Serang",
+        "fullname": "Kota Serang",
+        "jumlah": {
+            "kecamatan": 6,
+            "desa": 66
+        }
+    },
+    {
+        "code": "3604",
+        "type": "Kabupaten",
+        "name": "Serang",
+        "fullname": "Kabupaten Serang",
+        "jumlah": {
+            "kecamatan": 29,
+            "desa": 326
+        }
+    },
+    {
+        "code": "3671",
+        "type": "Kota",
+        "name": "Tangerang",
+        "fullname": "Kota Tangerang",
+        "jumlah": {
+            "kecamatan": 13,
+            "desa": 104
+        }
+    },
+    {
+        "code": "3603",
+        "type": "Kabupaten",
+        "name": "Tangerang",
+        "fullname": "Kabupaten Tangerang",
+        "jumlah": {
+            "kecamatan": 29,
+            "desa": 274
+        }
+    },
+    {
+        "code": "3674",
+        "type": "Kota",
+        "name": "Tangerang Selatan",
+        "fullname": "Kota Tangerang Selatan",
+        "jumlah": {
+            "kecamatan": 7,
+            "desa": 54
+        }
+    }
+]

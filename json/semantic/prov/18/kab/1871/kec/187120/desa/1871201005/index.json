@@ -1,0 +1,17 @@
+{
+    "code": "1871201005",
+    "name": "Kangkung",
+    "poscode": "35224",
+    "provinsi": {
+        "code": "18",
+        "name": "Lampung"
+    },
+    "kabupaten": {
+        "code": "1871",
+        "name": "Bandar Lampung"
+    },
+    "kecamatan": {
+        "code": "187120",
+        "name": "Bumi Waras"
+    }
+}

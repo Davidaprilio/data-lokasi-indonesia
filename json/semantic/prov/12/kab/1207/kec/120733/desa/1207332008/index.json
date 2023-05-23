@@ -1,0 +1,17 @@
+{
+    "code": "1207332008",
+    "name": "Sidoarjo II Ramunia (Sidoarjo Dua Ramunia)",
+    "poscode": "20552",
+    "provinsi": {
+        "code": "12",
+        "name": "Sumatera Utara"
+    },
+    "kabupaten": {
+        "code": "1207",
+        "name": "Deli Serdang"
+    },
+    "kecamatan": {
+        "code": "120733",
+        "name": "Beringin"
+    }
+}

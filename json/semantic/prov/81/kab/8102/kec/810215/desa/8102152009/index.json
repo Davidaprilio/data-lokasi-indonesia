@@ -1,0 +1,17 @@
+{
+    "code": "8102152009",
+    "name": "Ngayub",
+    "poscode": "97623",
+    "provinsi": {
+        "code": "81",
+        "name": "Maluku"
+    },
+    "kabupaten": {
+        "code": "8102",
+        "name": "Maluku Tenggara"
+    },
+    "kecamatan": {
+        "code": "810215",
+        "name": "Manyeuw"
+    }
+}

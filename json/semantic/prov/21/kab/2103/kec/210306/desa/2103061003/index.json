@@ -1,0 +1,17 @@
+{
+    "code": "2103061003",
+    "name": "Serasan",
+    "poscode": "29781",
+    "provinsi": {
+        "code": "21",
+        "name": "Kepulauan Riau"
+    },
+    "kabupaten": {
+        "code": "2103",
+        "name": "Natuna"
+    },
+    "kecamatan": {
+        "code": "210306",
+        "name": "Serasan"
+    }
+}

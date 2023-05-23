@@ -1,0 +1,17 @@
+{
+    "code": "3306122003",
+    "name": "Rejosari",
+    "poscode": "54262",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3306",
+        "name": "Purworejo"
+    },
+    "kecamatan": {
+        "code": "330612",
+        "name": "Kemiri"
+    }
+}

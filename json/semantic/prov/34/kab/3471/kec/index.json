@@ -1,0 +1,100 @@
+[
+    {
+        "code": "347104",
+        "name": "Danurejan",
+        "count": {
+            "desa": 3
+        }
+    },
+    {
+        "code": "347105",
+        "name": "Gedongtengen (Gedong Tengen)",
+        "count": {
+            "desa": 2
+        }
+    },
+    {
+        "code": "347103",
+        "name": "Gondokusuman",
+        "count": {
+            "desa": 5
+        }
+    },
+    {
+        "code": "347110",
+        "name": "Gondomanan",
+        "count": {
+            "desa": 2
+        }
+    },
+    {
+        "code": "347102",
+        "name": "Jetis",
+        "count": {
+            "desa": 3
+        }
+    },
+    {
+        "code": "347114",
+        "name": "Kotagede",
+        "count": {
+            "desa": 3
+        }
+    },
+    {
+        "code": "347109",
+        "name": "Kraton",
+        "count": {
+            "desa": 3
+        }
+    },
+    {
+        "code": "347108",
+        "name": "Mantrijeron",
+        "count": {
+            "desa": 3
+        }
+    },
+    {
+        "code": "347112",
+        "name": "Mergangsan",
+        "count": {
+            "desa": 3
+        }
+    },
+    {
+        "code": "347106",
+        "name": "Ngampilan",
+        "count": {
+            "desa": 2
+        }
+    },
+    {
+        "code": "347111",
+        "name": "Pakualaman",
+        "count": {
+            "desa": 2
+        }
+    },
+    {
+        "code": "347101",
+        "name": "Tegalrejo",
+        "count": {
+            "desa": 4
+        }
+    },
+    {
+        "code": "347113",
+        "name": "Umbulharjo",
+        "count": {
+            "desa": 7
+        }
+    },
+    {
+        "code": "347107",
+        "name": "Wirobrajan",
+        "count": {
+            "desa": 3
+        }
+    }
+]

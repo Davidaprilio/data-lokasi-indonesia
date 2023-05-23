@@ -1,0 +1,17 @@
+{
+    "code": "3517092003",
+    "name": "Plandi",
+    "poscode": "61412",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3517",
+        "name": "Jombang"
+    },
+    "kecamatan": {
+        "code": "351709",
+        "name": "Jombang"
+    }
+}

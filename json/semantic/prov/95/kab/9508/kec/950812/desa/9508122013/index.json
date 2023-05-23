@@ -1,0 +1,17 @@
+{
+    "code": "9508122013",
+    "name": "Sabiem",
+    "poscode": "99912",
+    "provinsi": {
+        "code": "95",
+        "name": "Papua Pegunungan"
+    },
+    "kabupaten": {
+        "code": "9508",
+        "name": "Nduga"
+    },
+    "kecamatan": {
+        "code": "950812",
+        "name": "Mebarok"
+    }
+}

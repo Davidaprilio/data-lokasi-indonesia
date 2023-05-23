@@ -1,0 +1,17 @@
+{
+    "code": "5302282005",
+    "name": "Tunis",
+    "poscode": "85582",
+    "provinsi": {
+        "code": "53",
+        "name": "Nusa Tenggara Timur (NTT)"
+    },
+    "kabupaten": {
+        "code": "5302",
+        "name": "Timor Tengah Selatan"
+    },
+    "kecamatan": {
+        "code": "530228",
+        "name": "Fautmolo"
+    }
+}

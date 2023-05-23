@@ -1,0 +1,17 @@
+{
+    "code": "1110092006",
+    "name": "Muara Pea",
+    "poscode": "24792",
+    "provinsi": {
+        "code": "11",
+        "name": "Aceh (NAD)"
+    },
+    "kabupaten": {
+        "code": "1110",
+        "name": "Aceh Singkil"
+    },
+    "kecamatan": {
+        "code": "111009",
+        "name": "Kota Baharu"
+    }
+}

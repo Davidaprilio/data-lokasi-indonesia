@@ -1,0 +1,17 @@
+{
+    "code": "3511032001",
+    "name": "Kembang",
+    "poscode": "68272",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3511",
+        "name": "Bondowoso"
+    },
+    "kecamatan": {
+        "code": "351103",
+        "name": "Tlogosari"
+    }
+}

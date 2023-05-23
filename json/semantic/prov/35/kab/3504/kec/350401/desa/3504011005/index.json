@@ -1,0 +1,17 @@
+{
+    "code": "3504011005",
+    "name": "Jepun",
+    "poscode": "66218",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3504",
+        "name": "Tulungagung"
+    },
+    "kecamatan": {
+        "code": "350401",
+        "name": "Tulungagung"
+    }
+}

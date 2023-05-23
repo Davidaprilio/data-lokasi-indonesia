@@ -1,0 +1,17 @@
+{
+    "code": "7271041010",
+    "name": "Mamboro Barat",
+    "poscode": "94148",
+    "provinsi": {
+        "code": "72",
+        "name": "Sulawesi Tengah"
+    },
+    "kabupaten": {
+        "code": "7271",
+        "name": "Palu"
+    },
+    "kecamatan": {
+        "code": "727104",
+        "name": "Palu Utara"
+    }
+}

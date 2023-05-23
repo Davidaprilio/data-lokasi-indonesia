@@ -1,0 +1,17 @@
+{
+    "code": "1371111003",
+    "name": "Aie Pacah (Air Pacah)",
+    "poscode": "25176",
+    "provinsi": {
+        "code": "13",
+        "name": "Sumatera Barat"
+    },
+    "kabupaten": {
+        "code": "1371",
+        "name": "Padang"
+    },
+    "kecamatan": {
+        "code": "137111",
+        "name": "Koto Tangah"
+    }
+}

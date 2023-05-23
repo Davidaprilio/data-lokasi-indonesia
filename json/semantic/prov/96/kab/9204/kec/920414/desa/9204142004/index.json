@@ -1,0 +1,17 @@
+{
+    "code": "9204142004",
+    "name": "Benawa I",
+    "poscode": "98222",
+    "provinsi": {
+        "code": "96",
+        "name": "Papua Barat Daya"
+    },
+    "kabupaten": {
+        "code": "9204",
+        "name": "Sorong Selatan"
+    },
+    "kecamatan": {
+        "code": "920414",
+        "name": "Kais"
+    }
+}

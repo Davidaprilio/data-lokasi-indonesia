@@ -1,0 +1,17 @@
+{
+    "code": "3215011006",
+    "name": "Tanjungmekar",
+    "poscode": "41311",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3215",
+        "name": "Karawang"
+    },
+    "kecamatan": {
+        "code": "321501",
+        "name": "Karawang Barat"
+    }
+}

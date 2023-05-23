@@ -1,0 +1,17 @@
+{
+    "code": "7110042013",
+    "name": "Purworejo Timur",
+    "poscode": "95780",
+    "provinsi": {
+        "code": "71",
+        "name": "Sulawesi Utara"
+    },
+    "kabupaten": {
+        "code": "7110",
+        "name": "Bolaang Mongondow Timur"
+    },
+    "kecamatan": {
+        "code": "711004",
+        "name": "Modayag"
+    }
+}

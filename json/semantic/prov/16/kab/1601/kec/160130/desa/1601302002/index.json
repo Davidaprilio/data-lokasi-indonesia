@@ -1,0 +1,17 @@
+{
+    "code": "1601302002",
+    "name": "Batu Marta II (Batumarta II)",
+    "poscode": "32152",
+    "provinsi": {
+        "code": "16",
+        "name": "Sumatera Selatan"
+    },
+    "kabupaten": {
+        "code": "1601",
+        "name": "Ogan Komering Ulu"
+    },
+    "kecamatan": {
+        "code": "160130",
+        "name": "Lubuk Raja"
+    }
+}

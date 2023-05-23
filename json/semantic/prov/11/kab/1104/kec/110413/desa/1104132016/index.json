@@ -1,0 +1,17 @@
+{
+    "code": "1104132016",
+    "name": "Blang Delem",
+    "poscode": "24562",
+    "provinsi": {
+        "code": "11",
+        "name": "Aceh (NAD)"
+    },
+    "kabupaten": {
+        "code": "1104",
+        "name": "Aceh Tengah"
+    },
+    "kecamatan": {
+        "code": "110413",
+        "name": "Celala"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "1572012004",
+    "name": "Pasar Baru",
+    "poscode": "37111",
+    "provinsi": {
+        "code": "15",
+        "name": "Jambi"
+    },
+    "kabupaten": {
+        "code": "1572",
+        "name": "Sungai Penuh"
+    },
+    "kecamatan": {
+        "code": "157201",
+        "name": "Sungai Penuh"
+    }
+}

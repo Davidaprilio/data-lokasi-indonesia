@@ -1,0 +1,10 @@
+{
+    "code": "3373",
+    "type": "Kota",
+    "name": "Salatiga",
+    "fullname": "Kota Salatiga",
+    "jumlah": {
+        "kecamatan": 4,
+        "desa": 23
+    }
+}

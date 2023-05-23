@@ -1,0 +1,17 @@
+{
+    "code": "1110102004",
+    "name": "Ketapang Indah",
+    "poscode": "24791",
+    "provinsi": {
+        "code": "11",
+        "name": "Aceh (NAD)"
+    },
+    "kabupaten": {
+        "code": "1110",
+        "name": "Aceh Singkil"
+    },
+    "kecamatan": {
+        "code": "111010",
+        "name": "Singkil Utara"
+    }
+}

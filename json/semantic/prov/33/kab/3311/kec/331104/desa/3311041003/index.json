@@ -1,0 +1,17 @@
+{
+    "code": "3311041003",
+    "name": "Mandan",
+    "poscode": "57516",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3311",
+        "name": "Sukoharjo"
+    },
+    "kecamatan": {
+        "code": "331104",
+        "name": "Sukoharjo"
+    }
+}

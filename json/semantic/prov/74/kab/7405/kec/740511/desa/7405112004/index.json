@@ -1,0 +1,17 @@
+{
+    "code": "7405112004",
+    "name": "Tambeanga",
+    "poscode": "93892",
+    "provinsi": {
+        "code": "74",
+        "name": "Sulawesi Tenggara"
+    },
+    "kabupaten": {
+        "code": "7405",
+        "name": "Konawe Selatan"
+    },
+    "kecamatan": {
+        "code": "740511",
+        "name": "Laonti"
+    }
+}

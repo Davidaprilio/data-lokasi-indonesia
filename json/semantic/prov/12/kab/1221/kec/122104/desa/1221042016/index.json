@@ -1,0 +1,17 @@
+{
+    "code": "1221042016",
+    "name": "Suro Dingin (Surodingin)",
+    "poscode": "22766",
+    "provinsi": {
+        "code": "12",
+        "name": "Sumatera Utara"
+    },
+    "kabupaten": {
+        "code": "1221",
+        "name": "Padang Lawas"
+    },
+    "kecamatan": {
+        "code": "122104",
+        "name": "Lubuk Barumun"
+    }
+}

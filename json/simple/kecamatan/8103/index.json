@@ -1,0 +1,72 @@
+[
+    {
+        "code": "810308",
+        "name": "Kormomolin",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "810318",
+        "name": "Molu Maru",
+        "count": {
+            "desa": 5
+        }
+    },
+    {
+        "code": "810309",
+        "name": "Nirunmas",
+        "count": {
+            "desa": 5
+        }
+    },
+    {
+        "code": "810302",
+        "name": "Selaru",
+        "count": {
+            "desa": 7
+        }
+    },
+    {
+        "code": "810301",
+        "name": "Tanimbar Selatan",
+        "count": {
+            "desa": 12
+        }
+    },
+    {
+        "code": "810305",
+        "name": "Tanimbar Utara",
+        "count": {
+            "desa": 8
+        }
+    },
+    {
+        "code": "810304",
+        "name": "Wer Maktian",
+        "count": {
+            "desa": 9
+        }
+    },
+    {
+        "code": "810303",
+        "name": "Wer Tamrian",
+        "count": {
+            "desa": 9
+        }
+    },
+    {
+        "code": "810307",
+        "name": "Wuar Labobar",
+        "count": {
+            "desa": 11
+        }
+    },
+    {
+        "code": "810306",
+        "name": "Yaru",
+        "count": {
+            "desa": 6
+        }
+    }
+]

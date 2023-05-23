@@ -1,0 +1,17 @@
+{
+    "code": "3202082007",
+    "name": "Sindangresmi",
+    "poscode": "43171",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3202",
+        "name": "Sukabumi"
+    },
+    "kecamatan": {
+        "code": "320208",
+        "name": "Jampangtengah (Jampang Tengah)"
+    }
+}

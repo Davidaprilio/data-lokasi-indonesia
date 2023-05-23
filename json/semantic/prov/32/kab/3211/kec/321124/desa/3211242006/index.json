@@ -1,0 +1,17 @@
+{
+    "code": "3211242006",
+    "name": "Bugel",
+    "poscode": "45382",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3211",
+        "name": "Sumedang"
+    },
+    "kecamatan": {
+        "code": "321124",
+        "name": "Tomo"
+    }
+}

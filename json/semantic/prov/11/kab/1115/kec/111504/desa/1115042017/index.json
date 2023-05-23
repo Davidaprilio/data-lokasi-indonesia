@@ -1,0 +1,17 @@
+{
+    "code": "1115042017",
+    "name": "Keude Seumot",
+    "poscode": "23672",
+    "provinsi": {
+        "code": "11",
+        "name": "Aceh (NAD)"
+    },
+    "kabupaten": {
+        "code": "1115",
+        "name": "Nagan Raya"
+    },
+    "kecamatan": {
+        "code": "111504",
+        "name": "Beutong"
+    }
+}

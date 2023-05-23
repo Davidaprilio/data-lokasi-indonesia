@@ -1,0 +1,17 @@
+{
+    "code": "3517172003",
+    "name": "Bakalanrayung",
+    "poscode": "61454",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3517",
+        "name": "Jombang"
+    },
+    "kecamatan": {
+        "code": "351717",
+        "name": "Kudu"
+    }
+}

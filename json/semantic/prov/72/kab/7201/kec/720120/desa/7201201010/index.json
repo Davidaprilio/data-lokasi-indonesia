@@ -1,0 +1,17 @@
+{
+    "code": "7201201010",
+    "name": "Tanjung Tuwis",
+    "poscode": "94717",
+    "provinsi": {
+        "code": "72",
+        "name": "Sulawesi Tengah"
+    },
+    "kabupaten": {
+        "code": "7201",
+        "name": "Banggai"
+    },
+    "kecamatan": {
+        "code": "720120",
+        "name": "Luwuk Selatan"
+    }
+}

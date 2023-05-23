@@ -1,0 +1,37 @@
+[
+    {
+        "code": "1905012005",
+        "name": "Air Belo",
+        "poscode": "33351"
+    },
+    {
+        "code": "1905012007",
+        "name": "Air Limau",
+        "poscode": "33351"
+    },
+    {
+        "code": "1905012004",
+        "name": "Air Putih",
+        "poscode": "33351"
+    },
+    {
+        "code": "1905012006",
+        "name": "Belo Laut (Belolaut)",
+        "poscode": "33351"
+    },
+    {
+        "code": "1905011003",
+        "name": "Sungai Baru",
+        "poscode": "33312"
+    },
+    {
+        "code": "1905011002",
+        "name": "Sungai Daeng",
+        "poscode": "33313"
+    },
+    {
+        "code": "1905011001",
+        "name": "Tanjung",
+        "poscode": "33311"
+    }
+]

@@ -1,0 +1,17 @@
+{
+    "code": "1507042013",
+    "name": "Karya Bakti",
+    "poscode": "36772",
+    "provinsi": {
+        "code": "15",
+        "name": "Jambi"
+    },
+    "kabupaten": {
+        "code": "1507",
+        "name": "Tanjung Jabung Timur"
+    },
+    "kecamatan": {
+        "code": "150704",
+        "name": "Rantau Rasau"
+    }
+}

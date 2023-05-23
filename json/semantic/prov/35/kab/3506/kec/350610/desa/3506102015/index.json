@@ -1,0 +1,17 @@
+{
+    "code": "3506102015",
+    "name": "Kerkep",
+    "poscode": "64181",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3506",
+        "name": "Kediri"
+    },
+    "kecamatan": {
+        "code": "350610",
+        "name": "Gurah"
+    }
+}

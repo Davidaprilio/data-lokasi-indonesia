@@ -1,0 +1,17 @@
+{
+    "code": "7403302004",
+    "name": "Bahutara",
+    "poscode": "93660",
+    "provinsi": {
+        "code": "74",
+        "name": "Sulawesi Tenggara"
+    },
+    "kabupaten": {
+        "code": "7403",
+        "name": "Muna"
+    },
+    "kecamatan": {
+        "code": "740330",
+        "name": "Kontu Kowuna"
+    }
+}

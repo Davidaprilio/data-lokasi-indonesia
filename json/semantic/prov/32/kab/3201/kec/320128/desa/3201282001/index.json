@@ -1,0 +1,17 @@
+{
+    "code": "3201282001",
+    "name": "Cijeruk",
+    "poscode": "16740",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3201",
+        "name": "Bogor"
+    },
+    "kecamatan": {
+        "code": "320128",
+        "name": "Cijeruk"
+    }
+}

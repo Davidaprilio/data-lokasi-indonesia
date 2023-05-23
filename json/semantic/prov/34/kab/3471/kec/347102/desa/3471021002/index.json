@@ -1,0 +1,17 @@
+{
+    "code": "3471021002",
+    "name": "Cokrodiningratan",
+    "poscode": "55233",
+    "provinsi": {
+        "code": "34",
+        "name": "DI Yogyakarta"
+    },
+    "kabupaten": {
+        "code": "3471",
+        "name": "Yogyakarta"
+    },
+    "kecamatan": {
+        "code": "347102",
+        "name": "Jetis"
+    }
+}

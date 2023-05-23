@@ -1,0 +1,17 @@
+{
+    "code": "1602051003",
+    "name": "Sidakersa (Sidareksa)",
+    "poscode": "30615",
+    "provinsi": {
+        "code": "16",
+        "name": "Sumatera Selatan"
+    },
+    "kabupaten": {
+        "code": "1602",
+        "name": "Ogan Komering Ilir"
+    },
+    "kecamatan": {
+        "code": "160205",
+        "name": "Kayu Agung"
+    }
+}

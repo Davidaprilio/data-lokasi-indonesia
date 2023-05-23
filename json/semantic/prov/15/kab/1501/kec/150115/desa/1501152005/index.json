@@ -1,0 +1,17 @@
+{
+    "code": "1501152005",
+    "name": "Jernih Jaya",
+    "poscode": "37163",
+    "provinsi": {
+        "code": "15",
+        "name": "Jambi"
+    },
+    "kabupaten": {
+        "code": "1501",
+        "name": "Kerinci"
+    },
+    "kecamatan": {
+        "code": "150115",
+        "name": "Gunung Tujuh"
+    }
+}

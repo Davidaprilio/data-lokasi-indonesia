@@ -1,0 +1,17 @@
+{
+    "code": "1603042020",
+    "name": "Kayu Ara Sakti",
+    "poscode": "31353",
+    "provinsi": {
+        "code": "16",
+        "name": "Sumatera Selatan"
+    },
+    "kabupaten": {
+        "code": "1603",
+        "name": "Muara Enim"
+    },
+    "kecamatan": {
+        "code": "160304",
+        "name": "Gunung Megang"
+    }
+}

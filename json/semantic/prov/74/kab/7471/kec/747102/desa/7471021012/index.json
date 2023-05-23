@@ -1,0 +1,17 @@
+{
+    "code": "7471021012",
+    "name": "Mangga Dua",
+    "poscode": "93128",
+    "provinsi": {
+        "code": "74",
+        "name": "Sulawesi Tenggara"
+    },
+    "kabupaten": {
+        "code": "7471",
+        "name": "Kendari"
+    },
+    "kecamatan": {
+        "code": "747102",
+        "name": "Kendari"
+    }
+}

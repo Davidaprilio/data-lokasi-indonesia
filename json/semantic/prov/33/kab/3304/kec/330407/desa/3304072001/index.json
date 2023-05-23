@@ -1,0 +1,17 @@
+{
+    "code": "3304072001",
+    "name": "Pringamba",
+    "poscode": "53481",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3304",
+        "name": "Banjarnegara"
+    },
+    "kecamatan": {
+        "code": "330407",
+        "name": "Sigaluh"
+    }
+}

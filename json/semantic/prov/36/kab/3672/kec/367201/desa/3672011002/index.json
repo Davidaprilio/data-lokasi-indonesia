@@ -1,0 +1,17 @@
+{
+    "code": "3672011002",
+    "name": "Kedaleman",
+    "poscode": "42422",
+    "provinsi": {
+        "code": "36",
+        "name": "Banten"
+    },
+    "kabupaten": {
+        "code": "3672",
+        "name": "Cilegon"
+    },
+    "kecamatan": {
+        "code": "367201",
+        "name": "Cibeber"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "1273021004",
+    "name": "Pancuran Gerobak",
+    "poscode": "22524",
+    "provinsi": {
+        "code": "12",
+        "name": "Sumatera Utara"
+    },
+    "kabupaten": {
+        "code": "1273",
+        "name": "Sibolga"
+    },
+    "kecamatan": {
+        "code": "127302",
+        "name": "Sibolga Kota"
+    }
+}

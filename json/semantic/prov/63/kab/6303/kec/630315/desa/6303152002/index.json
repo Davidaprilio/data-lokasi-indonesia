@@ -1,0 +1,17 @@
+{
+    "code": "6303152002",
+    "name": "Keramat",
+    "poscode": "70617",
+    "provinsi": {
+        "code": "63",
+        "name": "Kalimantan Selatan"
+    },
+    "kabupaten": {
+        "code": "6303",
+        "name": "Banjar"
+    },
+    "kecamatan": {
+        "code": "630315",
+        "name": "Martapura Timur"
+    }
+}

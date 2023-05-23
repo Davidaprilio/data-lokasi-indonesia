@@ -1,0 +1,17 @@
+{
+    "code": "1377012017",
+    "name": "Pauah/Pauh Barat",
+    "poscode": "25512",
+    "provinsi": {
+        "code": "13",
+        "name": "Sumatera Barat"
+    },
+    "kabupaten": {
+        "code": "1377",
+        "name": "Pariaman"
+    },
+    "kecamatan": {
+        "code": "137701",
+        "name": "Pariaman Tengah"
+    }
+}

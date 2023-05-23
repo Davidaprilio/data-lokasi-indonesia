@@ -1,0 +1,17 @@
+{
+    "code": "7103162001",
+    "name": "Kendahe I (Kendahe Satu)",
+    "poscode": "95852",
+    "provinsi": {
+        "code": "71",
+        "name": "Sulawesi Utara"
+    },
+    "kabupaten": {
+        "code": "7103",
+        "name": "Kepulauan Sangihe"
+    },
+    "kecamatan": {
+        "code": "710316",
+        "name": "Kendahe"
+    }
+}

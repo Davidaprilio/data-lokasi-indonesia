@@ -1,0 +1,17 @@
+{
+    "code": "3371011007",
+    "name": "Magersari",
+    "poscode": "56126",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3371",
+        "name": "Magelang"
+    },
+    "kecamatan": {
+        "code": "337101",
+        "name": "Magelang Selatan"
+    }
+}

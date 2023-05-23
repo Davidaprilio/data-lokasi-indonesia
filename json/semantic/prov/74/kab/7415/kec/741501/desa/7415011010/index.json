@@ -1,0 +1,17 @@
+{
+    "code": "7415011010",
+    "name": "Lakambau",
+    "poscode": "93741",
+    "provinsi": {
+        "code": "74",
+        "name": "Sulawesi Tenggara"
+    },
+    "kabupaten": {
+        "code": "7415",
+        "name": "Buton Selatan"
+    },
+    "kecamatan": {
+        "code": "741501",
+        "name": "Batauga"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "9119052003",
+    "name": "Wayori (Mayori)",
+    "poscode": "98581",
+    "provinsi": {
+        "code": "91",
+        "name": "Papua"
+    },
+    "kabupaten": {
+        "code": "9119",
+        "name": "Supiori"
+    },
+    "kecamatan": {
+        "code": "911905",
+        "name": "Supiori Barat"
+    }
+}

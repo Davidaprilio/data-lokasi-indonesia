@@ -1,0 +1,17 @@
+{
+    "code": "7371111008",
+    "name": "Laikang",
+    "poscode": "90242",
+    "provinsi": {
+        "code": "73",
+        "name": "Sulawesi Selatan"
+    },
+    "kabupaten": {
+        "code": "7371",
+        "name": "Makassar"
+    },
+    "kecamatan": {
+        "code": "737111",
+        "name": "Biringkanaya (Biring Kanaya)"
+    }
+}

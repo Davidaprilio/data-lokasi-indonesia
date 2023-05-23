@@ -1,0 +1,17 @@
+{
+    "code": "1272041003",
+    "name": "Simalungun",
+    "poscode": "21121",
+    "provinsi": {
+        "code": "12",
+        "name": "Sumatera Utara"
+    },
+    "kabupaten": {
+        "code": "1272",
+        "name": "Pematangsiantar"
+    },
+    "kecamatan": {
+        "code": "127204",
+        "name": "Siantar Selatan"
+    }
+}

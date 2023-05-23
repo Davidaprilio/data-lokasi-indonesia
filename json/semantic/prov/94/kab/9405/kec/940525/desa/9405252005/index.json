@@ -1,0 +1,17 @@
+{
+    "code": "9405252005",
+    "name": "Wamagun",
+    "poscode": "98962",
+    "provinsi": {
+        "code": "94",
+        "name": "Papua Tengah"
+    },
+    "kabupaten": {
+        "code": "9405",
+        "name": "Puncak"
+    },
+    "kecamatan": {
+        "code": "940525",
+        "name": "Erelmakawia"
+    }
+}

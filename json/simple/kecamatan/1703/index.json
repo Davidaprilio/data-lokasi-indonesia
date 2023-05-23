@@ -1,0 +1,135 @@
+[
+    {
+        "code": "170315",
+        "name": "Air Besi",
+        "count": {
+            "desa": 15
+        }
+    },
+    {
+        "code": "170316",
+        "name": "Air Napal",
+        "count": {
+            "desa": 12
+        }
+    },
+    {
+        "code": "170320",
+        "name": "Air Padang",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "170321",
+        "name": "Arma Jaya",
+        "count": {
+            "desa": 12
+        }
+    },
+    {
+        "code": "170311",
+        "name": "Batik Nau",
+        "count": {
+            "desa": 15
+        }
+    },
+    {
+        "code": "170301",
+        "name": "Enggano",
+        "count": {
+            "desa": 6
+        }
+    },
+    {
+        "code": "170308",
+        "name": "Giri Mulia (Giri Mulya)",
+        "count": {
+            "desa": 6
+        }
+    },
+    {
+        "code": "170319",
+        "name": "Hulu Palik",
+        "count": {
+            "desa": 15
+        }
+    },
+    {
+        "code": "170306",
+        "name": "Kerkap",
+        "count": {
+            "desa": 18
+        }
+    },
+    {
+        "code": "170312",
+        "name": "Ketahun",
+        "count": {
+            "desa": 11
+        }
+    },
+    {
+        "code": "170307",
+        "name": "Kota Arga Makmur",
+        "count": {
+            "desa": 16
+        }
+    },
+    {
+        "code": "170310",
+        "name": "Lais",
+        "count": {
+            "desa": 13
+        }
+    },
+    {
+        "code": "170325",
+        "name": "Marga Sakti Sebelat (Marga Sakti)",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "170313",
+        "name": "Napal Putih",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "170309",
+        "name": "Padang Jaya",
+        "count": {
+            "desa": 12
+        }
+    },
+    {
+        "code": "170324",
+        "name": "Pinang Raya",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "170314",
+        "name": "Putri Hijau",
+        "count": {
+            "desa": 9
+        }
+    },
+    {
+        "code": "170322",
+        "name": "Tanjung Agung Palik",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "170323",
+        "name": "Ulok Kupai",
+        "count": {
+            "desa": 10
+        }
+    }
+]

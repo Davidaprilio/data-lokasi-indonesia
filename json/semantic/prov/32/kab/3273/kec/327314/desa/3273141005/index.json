@@ -1,0 +1,17 @@
+{
+    "code": "3273141005",
+    "name": "Sukapada",
+    "poscode": "40125",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3273",
+        "name": "Bandung"
+    },
+    "kecamatan": {
+        "code": "327314",
+        "name": "Cibeunying Kidul"
+    }
+}

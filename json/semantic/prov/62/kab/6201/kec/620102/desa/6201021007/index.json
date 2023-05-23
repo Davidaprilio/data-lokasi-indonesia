@@ -1,0 +1,17 @@
+{
+    "code": "6201021007",
+    "name": "Raja",
+    "poscode": "74114",
+    "provinsi": {
+        "code": "62",
+        "name": "Kalimantan Tengah"
+    },
+    "kabupaten": {
+        "code": "6201",
+        "name": "Kotawaringin Barat"
+    },
+    "kecamatan": {
+        "code": "620102",
+        "name": "Arut Selatan"
+    }
+}

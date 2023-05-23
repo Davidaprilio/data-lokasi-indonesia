@@ -1,0 +1,17 @@
+{
+    "code": "3272041002",
+    "name": "Nyomplong",
+    "poscode": "43131",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3272",
+        "name": "Sukabumi"
+    },
+    "kecamatan": {
+        "code": "327204",
+        "name": "Warudoyong"
+    }
+}

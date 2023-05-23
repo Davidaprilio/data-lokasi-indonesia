@@ -1,0 +1,10 @@
+{
+    "code": "9405",
+    "type": "Kabupaten",
+    "name": "Puncak",
+    "fullname": "Kabupaten Puncak",
+    "jumlah": {
+        "kecamatan": 25,
+        "desa": 206
+    }
+}

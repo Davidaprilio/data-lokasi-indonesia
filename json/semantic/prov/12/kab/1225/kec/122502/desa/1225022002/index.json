@@ -1,0 +1,17 @@
+{
+    "code": "1225022002",
+    "name": "Imana",
+    "poscode": "22863",
+    "provinsi": {
+        "code": "12",
+        "name": "Sumatera Utara"
+    },
+    "kabupaten": {
+        "code": "1225",
+        "name": "Nias Barat"
+    },
+    "kecamatan": {
+        "code": "122502",
+        "name": "Sirombu"
+    }
+}

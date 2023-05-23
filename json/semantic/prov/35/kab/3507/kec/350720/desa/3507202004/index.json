@@ -1,0 +1,17 @@
+{
+    "code": "3507202004",
+    "name": "Banjarsari",
+    "poscode": "65164",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3507",
+        "name": "Malang"
+    },
+    "kecamatan": {
+        "code": "350720",
+        "name": "Ngajung (Ngajum)"
+    }
+}

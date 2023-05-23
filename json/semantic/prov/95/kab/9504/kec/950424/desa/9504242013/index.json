@@ -1,0 +1,17 @@
+{
+    "code": "9504242013",
+    "name": "Nini",
+    "poscode": "99052",
+    "provinsi": {
+        "code": "95",
+        "name": "Papua Pegunungan"
+    },
+    "kabupaten": {
+        "code": "9504",
+        "name": "Tolikara"
+    },
+    "kecamatan": {
+        "code": "950424",
+        "name": "Dundu (Ndundu)"
+    }
+}

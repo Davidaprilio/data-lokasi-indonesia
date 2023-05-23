@@ -1,0 +1,17 @@
+{
+    "code": "7503012004",
+    "name": "Talumopatu",
+    "poscode": "96545",
+    "provinsi": {
+        "code": "75",
+        "name": "Gorontalo"
+    },
+    "kabupaten": {
+        "code": "7503",
+        "name": "Bone Bolango"
+    },
+    "kecamatan": {
+        "code": "750301",
+        "name": "Tapa"
+    }
+}

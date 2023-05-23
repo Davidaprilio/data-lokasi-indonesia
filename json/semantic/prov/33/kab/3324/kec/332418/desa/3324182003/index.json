@@ -1,0 +1,17 @@
+{
+    "code": "3324182003",
+    "name": "Kedunggading",
+    "poscode": "51359",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3324",
+        "name": "Kendal"
+    },
+    "kecamatan": {
+        "code": "332418",
+        "name": "Ringinarum"
+    }
+}

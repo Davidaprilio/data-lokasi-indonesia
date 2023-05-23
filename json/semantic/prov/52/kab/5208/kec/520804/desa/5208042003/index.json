@@ -1,0 +1,17 @@
+{
+    "code": "5208042003",
+    "name": "Anyar",
+    "poscode": "83354",
+    "provinsi": {
+        "code": "52",
+        "name": "Nusa Tenggara Barat (NTB)"
+    },
+    "kabupaten": {
+        "code": "5208",
+        "name": "Lombok Utara"
+    },
+    "kecamatan": {
+        "code": "520804",
+        "name": "Bayan"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "1706062002",
+    "name": "Serami Baru",
+    "poscode": "38762",
+    "provinsi": {
+        "code": "17",
+        "name": "Bengkulu"
+    },
+    "kabupaten": {
+        "code": "1706",
+        "name": "Muko Muko"
+    },
+    "kecamatan": {
+        "code": "170606",
+        "name": "Malin Deman"
+    }
+}

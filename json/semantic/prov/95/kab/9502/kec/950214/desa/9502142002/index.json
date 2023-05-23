@@ -1,0 +1,17 @@
+{
+    "code": "9502142002",
+    "name": "Mimin",
+    "poscode": "99416",
+    "provinsi": {
+        "code": "95",
+        "name": "Papua Pegunungan"
+    },
+    "kabupaten": {
+        "code": "9502",
+        "name": "Pegunungan Bintang"
+    },
+    "kecamatan": {
+        "code": "950214",
+        "name": "Oksop"
+    }
+}

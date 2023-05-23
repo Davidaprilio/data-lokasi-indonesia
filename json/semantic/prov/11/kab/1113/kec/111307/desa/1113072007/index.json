@@ -1,0 +1,17 @@
+{
+    "code": "1113072007",
+    "name": "Uning Pune",
+    "poscode": "24658",
+    "provinsi": {
+        "code": "11",
+        "name": "Aceh (NAD)"
+    },
+    "kabupaten": {
+        "code": "1113",
+        "name": "Gayo Lues"
+    },
+    "kecamatan": {
+        "code": "111307",
+        "name": "Puteri Betung (Putri Betung)"
+    }
+}

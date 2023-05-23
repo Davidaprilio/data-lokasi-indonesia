@@ -1,0 +1,17 @@
+{
+    "code": "1203202002",
+    "name": "Huraba",
+    "poscode": "22737",
+    "provinsi": {
+        "code": "12",
+        "name": "Sumatera Utara"
+    },
+    "kabupaten": {
+        "code": "1203",
+        "name": "Tapanuli Selatan"
+    },
+    "kecamatan": {
+        "code": "120320",
+        "name": "Marancar"
+    }
+}

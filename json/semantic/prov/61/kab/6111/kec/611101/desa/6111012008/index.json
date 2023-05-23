@@ -1,0 +1,17 @@
+{
+    "code": "6111012008",
+    "name": "Sedahan Jaya",
+    "poscode": "78852",
+    "provinsi": {
+        "code": "61",
+        "name": "Kalimantan Barat"
+    },
+    "kabupaten": {
+        "code": "6111",
+        "name": "Kayong Utara"
+    },
+    "kecamatan": {
+        "code": "611101",
+        "name": "Sukadana"
+    }
+}

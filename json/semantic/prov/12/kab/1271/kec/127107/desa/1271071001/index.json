@@ -1,0 +1,17 @@
+{
+    "code": "1271071001",
+    "name": "Tanjung Selamat",
+    "poscode": "20134",
+    "provinsi": {
+        "code": "12",
+        "name": "Sumatera Utara"
+    },
+    "kabupaten": {
+        "code": "1271",
+        "name": "Medan"
+    },
+    "kecamatan": {
+        "code": "127107",
+        "name": "Medan Tuntungan"
+    }
+}

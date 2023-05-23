@@ -1,0 +1,17 @@
+{
+    "code": "1109052010",
+    "name": "Kuala Baru",
+    "poscode": "23890",
+    "provinsi": {
+        "code": "11",
+        "name": "Aceh (NAD)"
+    },
+    "kabupaten": {
+        "code": "1109",
+        "name": "Simeulue"
+    },
+    "kecamatan": {
+        "code": "110905",
+        "name": "Teluk Dalam"
+    }
+}

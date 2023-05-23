@@ -1,0 +1,17 @@
+{
+    "code": "3514202012",
+    "name": "Sumberagung (Sumber Agung)",
+    "poscode": "67184",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3514",
+        "name": "Pasuruan"
+    },
+    "kecamatan": {
+        "code": "351420",
+        "name": "Grati"
+    }
+}

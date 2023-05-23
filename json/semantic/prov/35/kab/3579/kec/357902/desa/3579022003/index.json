@@ -1,0 +1,17 @@
+{
+    "code": "3579022003",
+    "name": "Tulungrejo (Tulung Rejo)",
+    "poscode": "65336",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3579",
+        "name": "Batu"
+    },
+    "kecamatan": {
+        "code": "357902",
+        "name": "Bumiaji"
+    }
+}

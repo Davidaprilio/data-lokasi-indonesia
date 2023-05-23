@@ -1,0 +1,17 @@
+{
+    "code": "6106232006",
+    "name": "Langau",
+    "poscode": "78769",
+    "provinsi": {
+        "code": "61",
+        "name": "Kalimantan Barat"
+    },
+    "kabupaten": {
+        "code": "6106",
+        "name": "Kapuas Hulu"
+    },
+    "kecamatan": {
+        "code": "610623",
+        "name": "Puring Kencana"
+    }
+}

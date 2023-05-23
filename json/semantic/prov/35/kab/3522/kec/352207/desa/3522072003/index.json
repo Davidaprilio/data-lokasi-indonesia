@@ -1,0 +1,17 @@
+{
+    "code": "3522072003",
+    "name": "Wedoro",
+    "poscode": "62183",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3522",
+        "name": "Bojonegoro"
+    },
+    "kecamatan": {
+        "code": "352207",
+        "name": "Sugihwaras"
+    }
+}

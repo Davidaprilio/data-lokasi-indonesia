@@ -1,0 +1,17 @@
+{
+    "code": "3174041001",
+    "name": "Pasar Minggu",
+    "poscode": "12520",
+    "provinsi": {
+        "code": "31",
+        "name": "DKI Jakarta"
+    },
+    "kabupaten": {
+        "code": "3174",
+        "name": "Jakarta Selatan"
+    },
+    "kecamatan": {
+        "code": "317404",
+        "name": "Pasar Minggu"
+    }
+}

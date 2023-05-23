@@ -1,0 +1,17 @@
+{
+    "code": "1213022023",
+    "name": "Binanga",
+    "poscode": "22979",
+    "provinsi": {
+        "code": "12",
+        "name": "Sumatera Utara"
+    },
+    "kabupaten": {
+        "code": "1213",
+        "name": "Mandailing Natal"
+    },
+    "kecamatan": {
+        "code": "121302",
+        "name": "Panyabungan Utara"
+    }
+}

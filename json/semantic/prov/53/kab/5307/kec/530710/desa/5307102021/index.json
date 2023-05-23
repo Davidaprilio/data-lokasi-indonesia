@@ -1,0 +1,17 @@
+{
+    "code": "5307102021",
+    "name": "Waiara",
+    "poscode": "86182",
+    "provinsi": {
+        "code": "53",
+        "name": "Nusa Tenggara Timur (NTT)"
+    },
+    "kabupaten": {
+        "code": "5307",
+        "name": "Sikka"
+    },
+    "kecamatan": {
+        "code": "530710",
+        "name": "Kewapante"
+    }
+}

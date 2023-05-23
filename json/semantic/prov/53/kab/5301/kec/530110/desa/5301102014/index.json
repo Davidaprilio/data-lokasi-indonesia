@@ -1,0 +1,17 @@
+{
+    "code": "5301102014",
+    "name": "Oebola Dalam",
+    "poscode": "85371",
+    "provinsi": {
+        "code": "53",
+        "name": "Nusa Tenggara Timur (NTT)"
+    },
+    "kabupaten": {
+        "code": "5301",
+        "name": "Kupang"
+    },
+    "kecamatan": {
+        "code": "530110",
+        "name": "Fatuleu"
+    }
+}

@@ -1,0 +1,128 @@
+[
+    {
+        "code": "640817",
+        "name": "Batu Ampar",
+        "count": {
+            "desa": 7
+        }
+    },
+    {
+        "code": "640809",
+        "name": "Bengalon",
+        "count": {
+            "desa": 11
+        }
+    },
+    {
+        "code": "640806",
+        "name": "Busang",
+        "count": {
+            "desa": 6
+        }
+    },
+    {
+        "code": "640810",
+        "name": "Kaliorang",
+        "count": {
+            "desa": 7
+        }
+    },
+    {
+        "code": "640816",
+        "name": "Karangan",
+        "count": {
+            "desa": 7
+        }
+    },
+    {
+        "code": "640815",
+        "name": "Kaubun",
+        "count": {
+            "desa": 8
+        }
+    },
+    {
+        "code": "640808",
+        "name": "Kombeng (Kongbeng)",
+        "count": {
+            "desa": 7
+        }
+    },
+    {
+        "code": "640818",
+        "name": "Long Mesangat",
+        "count": {
+            "desa": 7
+        }
+    },
+    {
+        "code": "640801",
+        "name": "Muara Ancalong",
+        "count": {
+            "desa": 9
+        }
+    },
+    {
+        "code": "640803",
+        "name": "Muara Bengkal",
+        "count": {
+            "desa": 7
+        }
+    },
+    {
+        "code": "640802",
+        "name": "Muara Wahau",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "640814",
+        "name": "Rantau Pulung",
+        "count": {
+            "desa": 9
+        }
+    },
+    {
+        "code": "640811",
+        "name": "Sandaran",
+        "count": {
+            "desa": 9
+        }
+    },
+    {
+        "code": "640812",
+        "name": "Sangatta Selatan",
+        "count": {
+            "desa": 4
+        }
+    },
+    {
+        "code": "640804",
+        "name": "Sangatta Utara",
+        "count": {
+            "desa": 4
+        }
+    },
+    {
+        "code": "640805",
+        "name": "Sangkulirang",
+        "count": {
+            "desa": 15
+        }
+    },
+    {
+        "code": "640807",
+        "name": "Telen",
+        "count": {
+            "desa": 8
+        }
+    },
+    {
+        "code": "640813",
+        "name": "Teluk Pandan",
+        "count": {
+            "desa": 6
+        }
+    }
+]

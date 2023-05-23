@@ -1,0 +1,17 @@
+{
+    "code": "3604052007",
+    "name": "Terate",
+    "poscode": "42161",
+    "provinsi": {
+        "code": "36",
+        "name": "Banten"
+    },
+    "kabupaten": {
+        "code": "3604",
+        "name": "Serang"
+    },
+    "kecamatan": {
+        "code": "360405",
+        "name": "Kramatwatu"
+    }
+}

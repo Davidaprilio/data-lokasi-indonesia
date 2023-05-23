@@ -1,0 +1,17 @@
+{
+    "code": "1308172002",
+    "name": "Sontang Cubadak",
+    "poscode": "26352",
+    "provinsi": {
+        "code": "13",
+        "name": "Sumatera Barat"
+    },
+    "kabupaten": {
+        "code": "1308",
+        "name": "Pasaman"
+    },
+    "kecamatan": {
+        "code": "130817",
+        "name": "Padang Gelugur"
+    }
+}

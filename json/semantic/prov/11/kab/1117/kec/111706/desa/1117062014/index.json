@@ -1,0 +1,17 @@
+{
+    "code": "1117062014",
+    "name": "Merie Satu",
+    "poscode": "24580",
+    "provinsi": {
+        "code": "11",
+        "name": "Aceh (NAD)"
+    },
+    "kabupaten": {
+        "code": "1117",
+        "name": "Bener Meriah"
+    },
+    "kecamatan": {
+        "code": "111706",
+        "name": "Wih Pesam"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "5171032008",
+    "name": "Tegal Harum",
+    "poscode": "80119",
+    "provinsi": {
+        "code": "51",
+        "name": "Bali"
+    },
+    "kabupaten": {
+        "code": "5171",
+        "name": "Denpasar"
+    },
+    "kecamatan": {
+        "code": "517103",
+        "name": "Denpasar Barat"
+    }
+}

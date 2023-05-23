@@ -1,0 +1,10 @@
+{
+    "code": "81",
+    "name": "Maluku",
+    "jumlah": {
+        "kota": 2,
+        "kabupaten": 9,
+        "kecamatan": 118,
+        "desa": 1
+    }
+}

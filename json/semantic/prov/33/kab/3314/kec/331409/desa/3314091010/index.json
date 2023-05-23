@@ -1,0 +1,17 @@
+{
+    "code": "3314091010",
+    "name": "Kroyo",
+    "poscode": "57221",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3314",
+        "name": "Sragen"
+    },
+    "kecamatan": {
+        "code": "331409",
+        "name": "Karangmalang"
+    }
+}

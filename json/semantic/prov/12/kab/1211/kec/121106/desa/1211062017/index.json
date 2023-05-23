@@ -1,0 +1,17 @@
+{
+    "code": "1211062017",
+    "name": "Lau Njuhar I",
+    "poscode": "22253",
+    "provinsi": {
+        "code": "12",
+        "name": "Sumatera Utara"
+    },
+    "kabupaten": {
+        "code": "1211",
+        "name": "Dairi"
+    },
+    "kecamatan": {
+        "code": "121106",
+        "name": "Tanah Pinem"
+    }
+}

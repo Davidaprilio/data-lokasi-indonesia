@@ -1,0 +1,67 @@
+[
+    {
+        "code": "1207282006",
+        "name": "Bakaran Batu",
+        "poscode": "20511"
+    },
+    {
+        "code": "1207281010",
+        "name": "Cemara",
+        "poscode": "20517"
+    },
+    {
+        "code": "1207281007",
+        "name": "Lubuk Pakam I-II",
+        "poscode": "20511"
+    },
+    {
+        "code": "1207281008",
+        "name": "Lubuk Pakam III (Lubuk Pakam Tiga)",
+        "poscode": "20516"
+    },
+    {
+        "code": "1207281013",
+        "name": "Lubuk Pakam Pekan",
+        "poscode": "20512"
+    },
+    {
+        "code": "1207282002",
+        "name": "Pagar Jati",
+        "poscode": "20518"
+    },
+    {
+        "code": "1207282005",
+        "name": "Pagar Merbau III (Pagar Merbau Tiga)",
+        "poscode": "20515"
+    },
+    {
+        "code": "1207281009",
+        "name": "Paluh Kemiri",
+        "poscode": "20513"
+    },
+    {
+        "code": "1207282004",
+        "name": "Pasar Melintang",
+        "poscode": "20518"
+    },
+    {
+        "code": "1207281012",
+        "name": "Petapahan",
+        "poscode": "20514"
+    },
+    {
+        "code": "1207282001",
+        "name": "Sekip",
+        "poscode": "20517"
+    },
+    {
+        "code": "1207281011",
+        "name": "Syahmad",
+        "poscode": "20515"
+    },
+    {
+        "code": "1207282003",
+        "name": "Tanjung Garbus I (Tanjung Garbus)",
+        "poscode": "20511"
+    }
+]

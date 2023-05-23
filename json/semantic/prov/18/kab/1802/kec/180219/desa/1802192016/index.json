@@ -1,0 +1,17 @@
+{
+    "code": "1802192016",
+    "name": "Tawang Negeri",
+    "poscode": "34176",
+    "provinsi": {
+        "code": "18",
+        "name": "Lampung"
+    },
+    "kabupaten": {
+        "code": "1802",
+        "name": "Lampung Tengah"
+    },
+    "kecamatan": {
+        "code": "180219",
+        "name": "Pubian"
+    }
+}

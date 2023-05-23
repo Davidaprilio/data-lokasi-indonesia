@@ -1,0 +1,17 @@
+{
+    "code": "1110062022",
+    "name": "Tulaan",
+    "poscode": "24793",
+    "provinsi": {
+        "code": "11",
+        "name": "Aceh (NAD)"
+    },
+    "kabupaten": {
+        "code": "1110",
+        "name": "Aceh Singkil"
+    },
+    "kecamatan": {
+        "code": "111006",
+        "name": "Gunung Meriah (Mariah)"
+    }
+}

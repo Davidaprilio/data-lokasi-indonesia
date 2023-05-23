@@ -1,0 +1,17 @@
+{
+    "code": "3274031002",
+    "name": "Harjamukti",
+    "poscode": "45143",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3274",
+        "name": "Cirebon"
+    },
+    "kecamatan": {
+        "code": "327403",
+        "name": "Harjamukti"
+    }
+}

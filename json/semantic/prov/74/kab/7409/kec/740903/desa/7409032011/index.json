@@ -1,0 +1,17 @@
+{
+    "code": "7409032011",
+    "name": "Molore Pantai",
+    "poscode": "93351",
+    "provinsi": {
+        "code": "74",
+        "name": "Sulawesi Tenggara"
+    },
+    "kabupaten": {
+        "code": "7409",
+        "name": "Konawe Utara"
+    },
+    "kecamatan": {
+        "code": "740903",
+        "name": "Langgikima"
+    }
+}

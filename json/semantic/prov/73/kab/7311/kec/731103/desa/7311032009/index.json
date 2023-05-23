@@ -1,0 +1,17 @@
+{
+    "code": "7311032009",
+    "name": "Galung",
+    "poscode": "90711",
+    "provinsi": {
+        "code": "73",
+        "name": "Sulawesi Selatan"
+    },
+    "kabupaten": {
+        "code": "7311",
+        "name": "Barru"
+    },
+    "kecamatan": {
+        "code": "731103",
+        "name": "Barru"
+    }
+}

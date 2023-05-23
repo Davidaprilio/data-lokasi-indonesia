@@ -1,0 +1,17 @@
+{
+    "code": "8104142002",
+    "name": "Masarete",
+    "poscode": "97577",
+    "provinsi": {
+        "code": "81",
+        "name": "Maluku"
+    },
+    "kabupaten": {
+        "code": "8104",
+        "name": "Buru"
+    },
+    "kecamatan": {
+        "code": "810414",
+        "name": "Teluk Kaiely"
+    }
+}

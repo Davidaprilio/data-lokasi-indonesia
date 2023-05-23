@@ -1,0 +1,17 @@
+{
+    "code": "3516142008",
+    "name": "Terusan",
+    "poscode": "61351",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3516",
+        "name": "Mojokerto"
+    },
+    "kecamatan": {
+        "code": "351614",
+        "name": "Gedeg"
+    }
+}

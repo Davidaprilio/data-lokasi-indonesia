@@ -1,0 +1,17 @@
+{
+    "code": "1471011007",
+    "name": "Sukajadi",
+    "poscode": "28121",
+    "provinsi": {
+        "code": "14",
+        "name": "Riau"
+    },
+    "kabupaten": {
+        "code": "1471",
+        "name": "Pekanbaru"
+    },
+    "kecamatan": {
+        "code": "147101",
+        "name": "Sukajadi"
+    }
+}

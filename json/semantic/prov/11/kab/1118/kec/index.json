@@ -1,0 +1,58 @@
+[
+    {
+        "code": "111806",
+        "name": "Bandar Baru",
+        "count": {
+            "desa": 43
+        }
+    },
+    {
+        "code": "111804",
+        "name": "Bandar Dua",
+        "count": {
+            "desa": 45
+        }
+    },
+    {
+        "code": "111803",
+        "name": "Jangka Buaya (Jangka Buya)",
+        "count": {
+            "desa": 18
+        }
+    },
+    {
+        "code": "111805",
+        "name": "Meurah Dua",
+        "count": {
+            "desa": 19
+        }
+    },
+    {
+        "code": "111801",
+        "name": "Meureudu",
+        "count": {
+            "desa": 30
+        }
+    },
+    {
+        "code": "111807",
+        "name": "Panteraja",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "111808",
+        "name": "Trienggadeng",
+        "count": {
+            "desa": 27
+        }
+    },
+    {
+        "code": "111802",
+        "name": "Ulim",
+        "count": {
+            "desa": 30
+        }
+    }
+]

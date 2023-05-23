@@ -1,0 +1,17 @@
+{
+    "code": "9204152002",
+    "name": "Wamargege",
+    "poscode": "98211",
+    "provinsi": {
+        "code": "96",
+        "name": "Papua Barat Daya"
+    },
+    "kabupaten": {
+        "code": "9204",
+        "name": "Sorong Selatan"
+    },
+    "kecamatan": {
+        "code": "920415",
+        "name": "Konda"
+    }
+}

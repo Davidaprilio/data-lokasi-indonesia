@@ -1,0 +1,17 @@
+{
+    "code": "7304042008",
+    "name": "Camba-Camba",
+    "poscode": "92360",
+    "provinsi": {
+        "code": "73",
+        "name": "Sulawesi Selatan"
+    },
+    "kabupaten": {
+        "code": "7304",
+        "name": "Jeneponto"
+    },
+    "kecamatan": {
+        "code": "730404",
+        "name": "Batang"
+    }
+}

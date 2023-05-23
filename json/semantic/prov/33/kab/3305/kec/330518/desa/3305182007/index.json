@@ -1,0 +1,17 @@
+{
+    "code": "3305182007",
+    "name": "Kedungjati",
+    "poscode": "54421",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3305",
+        "name": "Kebumen"
+    },
+    "kecamatan": {
+        "code": "330518",
+        "name": "Sempor"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "6501102001",
+    "name": "Bunyu Barat (Pulau Bunyu Barat)",
+    "poscode": "77281",
+    "provinsi": {
+        "code": "65",
+        "name": "Kalimantan Utara"
+    },
+    "kabupaten": {
+        "code": "6501",
+        "name": "Bulungan"
+    },
+    "kecamatan": {
+        "code": "650110",
+        "name": "Bunyu (Pulau Bunyu)"
+    }
+}

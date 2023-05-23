@@ -1,0 +1,17 @@
+{
+    "code": "1609112007",
+    "name": "Muara Sindang",
+    "poscode": "32272",
+    "provinsi": {
+        "code": "16",
+        "name": "Sumatera Selatan"
+    },
+    "kabupaten": {
+        "code": "1609",
+        "name": "Ogan Komering Ulu Selatan"
+    },
+    "kecamatan": {
+        "code": "160911",
+        "name": "Kisam Ilir"
+    }
+}

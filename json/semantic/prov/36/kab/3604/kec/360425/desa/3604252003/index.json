@@ -1,0 +1,17 @@
+{
+    "code": "3604252003",
+    "name": "Nanggung",
+    "poscode": "42178",
+    "provinsi": {
+        "code": "36",
+        "name": "Banten"
+    },
+    "kabupaten": {
+        "code": "3604",
+        "name": "Serang"
+    },
+    "kecamatan": {
+        "code": "360425",
+        "name": "Kopo"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "3603332002",
+    "name": "Kedaung",
+    "poscode": "15551",
+    "provinsi": {
+        "code": "36",
+        "name": "Banten"
+    },
+    "kabupaten": {
+        "code": "3603",
+        "name": "Tangerang"
+    },
+    "kecamatan": {
+        "code": "360333",
+        "name": "Mekar Baru"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "9405222005",
+    "name": "Deogi",
+    "poscode": "98975",
+    "provinsi": {
+        "code": "94",
+        "name": "Papua Tengah"
+    },
+    "kabupaten": {
+        "code": "9405",
+        "name": "Puncak"
+    },
+    "kecamatan": {
+        "code": "940522",
+        "name": "Oneri"
+    }
+}

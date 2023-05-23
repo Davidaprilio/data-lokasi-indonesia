@@ -1,0 +1,17 @@
+{
+    "code": "6571041001",
+    "name": "Juata Laut",
+    "poscode": "77116",
+    "provinsi": {
+        "code": "65",
+        "name": "Kalimantan Utara"
+    },
+    "kabupaten": {
+        "code": "6571",
+        "name": "Tarakan"
+    },
+    "kecamatan": {
+        "code": "657104",
+        "name": "Tarakan Utara"
+    }
+}

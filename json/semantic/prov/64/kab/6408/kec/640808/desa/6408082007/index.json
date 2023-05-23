@@ -1,0 +1,17 @@
+{
+    "code": "6408082007",
+    "name": "Miau Baru",
+    "poscode": "75555",
+    "provinsi": {
+        "code": "64",
+        "name": "Kalimantan Timur"
+    },
+    "kabupaten": {
+        "code": "6408",
+        "name": "Kutai Timur"
+    },
+    "kecamatan": {
+        "code": "640808",
+        "name": "Kombeng (Kongbeng)"
+    }
+}

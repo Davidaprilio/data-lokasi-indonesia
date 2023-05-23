@@ -1,0 +1,17 @@
+{
+    "code": "3375011003",
+    "name": "Podosugih",
+    "poscode": "51111",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3375",
+        "name": "Pekalongan"
+    },
+    "kecamatan": {
+        "code": "337501",
+        "name": "Pekalongan Barat"
+    }
+}

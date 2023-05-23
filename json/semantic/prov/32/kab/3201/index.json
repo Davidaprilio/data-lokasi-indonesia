@@ -1,0 +1,10 @@
+{
+    "code": "3201",
+    "type": "Kabupaten",
+    "name": "Bogor",
+    "fullname": "Kabupaten Bogor",
+    "jumlah": {
+        "kecamatan": 40,
+        "desa": 435
+    }
+}

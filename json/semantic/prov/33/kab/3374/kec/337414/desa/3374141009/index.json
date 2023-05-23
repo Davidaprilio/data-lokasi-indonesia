@@ -1,0 +1,17 @@
+{
+    "code": "3374141009",
+    "name": "Jatibarang",
+    "poscode": "50219",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3374",
+        "name": "Semarang"
+    },
+    "kecamatan": {
+        "code": "337414",
+        "name": "Mijen"
+    }
+}

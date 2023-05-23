@@ -1,0 +1,17 @@
+{
+    "code": "3306061016",
+    "name": "Paduroso",
+    "poscode": "54112",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3306",
+        "name": "Purworejo"
+    },
+    "kecamatan": {
+        "code": "330606",
+        "name": "Purworejo"
+    }
+}

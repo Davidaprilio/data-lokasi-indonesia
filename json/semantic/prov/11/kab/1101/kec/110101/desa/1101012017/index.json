@@ -1,0 +1,17 @@
+{
+    "code": "1101012017",
+    "name": "Gampong Baro (Kampung Baru)",
+    "poscode": "23773",
+    "provinsi": {
+        "code": "11",
+        "name": "Aceh (NAD)"
+    },
+    "kabupaten": {
+        "code": "1101",
+        "name": "Aceh Selatan"
+    },
+    "kecamatan": {
+        "code": "110101",
+        "name": "Bakongan"
+    }
+}

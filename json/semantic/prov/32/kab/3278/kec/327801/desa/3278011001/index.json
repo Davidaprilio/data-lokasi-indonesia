@@ -1,0 +1,17 @@
+{
+    "code": "3278011001",
+    "name": "Yudanagara",
+    "poscode": "46121",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3278",
+        "name": "Tasikmalaya"
+    },
+    "kecamatan": {
+        "code": "327801",
+        "name": "Cihideung"
+    }
+}

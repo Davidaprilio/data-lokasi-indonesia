@@ -1,0 +1,17 @@
+{
+    "code": "3273121002",
+    "name": "Maleer",
+    "poscode": "40274",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3273",
+        "name": "Bandung"
+    },
+    "kecamatan": {
+        "code": "327312",
+        "name": "Batununggal"
+    }
+}

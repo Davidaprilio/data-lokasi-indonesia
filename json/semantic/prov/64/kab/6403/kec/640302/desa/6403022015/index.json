@@ -1,0 +1,17 @@
+{
+    "code": "6403022015",
+    "name": "Bumi Jaya",
+    "poscode": "77375",
+    "provinsi": {
+        "code": "64",
+        "name": "Kalimantan Timur"
+    },
+    "kabupaten": {
+        "code": "6403",
+        "name": "Berau"
+    },
+    "kecamatan": {
+        "code": "640302",
+        "name": "Talisayan"
+    }
+}

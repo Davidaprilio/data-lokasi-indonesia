@@ -1,0 +1,17 @@
+{
+    "code": "3216012002",
+    "name": "Segarajaya (Segara Jaya)",
+    "poscode": "17218",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3216",
+        "name": "Bekasi"
+    },
+    "kecamatan": {
+        "code": "321601",
+        "name": "Tarumajaya"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "1203142037",
+    "name": "Natambang Roncitan",
+    "poscode": "22748",
+    "provinsi": {
+        "code": "12",
+        "name": "Sumatera Utara"
+    },
+    "kabupaten": {
+        "code": "1203",
+        "name": "Tapanuli Selatan"
+    },
+    "kecamatan": {
+        "code": "120314",
+        "name": "Arse"
+    }
+}

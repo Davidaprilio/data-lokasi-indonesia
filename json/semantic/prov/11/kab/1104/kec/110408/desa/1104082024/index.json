@@ -1,0 +1,17 @@
+{
+    "code": "1104082024",
+    "name": "Gele Pulo",
+    "poscode": "24571",
+    "provinsi": {
+        "code": "11",
+        "name": "Aceh (NAD)"
+    },
+    "kabupaten": {
+        "code": "1104",
+        "name": "Aceh Tengah"
+    },
+    "kecamatan": {
+        "code": "110408",
+        "name": "Bintang"
+    }
+}

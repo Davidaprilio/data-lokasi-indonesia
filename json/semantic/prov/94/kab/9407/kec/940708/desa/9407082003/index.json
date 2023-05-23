@@ -1,0 +1,17 @@
+{
+    "code": "9407082003",
+    "name": "Dapiaga",
+    "poscode": "98783",
+    "provinsi": {
+        "code": "94",
+        "name": "Papua Tengah"
+    },
+    "kabupaten": {
+        "code": "9407",
+        "name": "Intan Jaya"
+    },
+    "kecamatan": {
+        "code": "940708",
+        "name": "Tomosiga"
+    }
+}

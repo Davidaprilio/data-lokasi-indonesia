@@ -1,0 +1,17 @@
+{
+    "code": "3573051002",
+    "name": "Merjosari",
+    "poscode": "65144",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3573",
+        "name": "Malang"
+    },
+    "kecamatan": {
+        "code": "357305",
+        "name": "Lowokwaru"
+    }
+}

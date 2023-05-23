@@ -1,0 +1,17 @@
+{
+    "code": "3518162015",
+    "name": "Talang",
+    "poscode": "64453",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3518",
+        "name": "Nganjuk"
+    },
+    "kecamatan": {
+        "code": "351816",
+        "name": "Rejoso"
+    }
+}

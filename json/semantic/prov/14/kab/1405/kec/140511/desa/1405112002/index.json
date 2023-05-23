@@ -1,0 +1,17 @@
+{
+    "code": "1405112002",
+    "name": "Lubuk Ogung",
+    "poscode": "28383",
+    "provinsi": {
+        "code": "14",
+        "name": "Riau"
+    },
+    "kabupaten": {
+        "code": "1405",
+        "name": "Pelalawan"
+    },
+    "kecamatan": {
+        "code": "140511",
+        "name": "Bandar Sei Kijang"
+    }
+}

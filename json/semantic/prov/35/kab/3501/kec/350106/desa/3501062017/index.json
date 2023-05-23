@@ -1,0 +1,17 @@
+{
+    "code": "3501062017",
+    "name": "Jatimalang",
+    "poscode": "63581",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3501",
+        "name": "Pacitan"
+    },
+    "kecamatan": {
+        "code": "350106",
+        "name": "Arjosari"
+    }
+}

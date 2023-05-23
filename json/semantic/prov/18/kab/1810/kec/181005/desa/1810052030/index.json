@@ -1,0 +1,17 @@
+{
+    "code": "1810052030",
+    "name": "Sumber Rejo",
+    "poscode": "35375",
+    "provinsi": {
+        "code": "18",
+        "name": "Lampung"
+    },
+    "kabupaten": {
+        "code": "1810",
+        "name": "Pringsewu"
+    },
+    "kecamatan": {
+        "code": "181005",
+        "name": "Pagelaran"
+    }
+}

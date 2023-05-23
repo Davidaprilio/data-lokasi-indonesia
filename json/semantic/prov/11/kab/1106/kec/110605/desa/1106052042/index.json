@@ -1,0 +1,17 @@
+{
+    "code": "1106052042",
+    "name": "Seubam Lhok (Seuban Lhok)",
+    "poscode": "23362",
+    "provinsi": {
+        "code": "11",
+        "name": "Aceh (NAD)"
+    },
+    "kabupaten": {
+        "code": "1106",
+        "name": "Aceh Besar"
+    },
+    "kecamatan": {
+        "code": "110605",
+        "name": "Mantasiek (Montasik)"
+    }
+}

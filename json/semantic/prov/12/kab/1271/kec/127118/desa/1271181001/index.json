@@ -1,0 +1,17 @@
+{
+    "code": "1271181001",
+    "name": "Pandau Hilir",
+    "poscode": "20232",
+    "provinsi": {
+        "code": "12",
+        "name": "Sumatera Utara"
+    },
+    "kabupaten": {
+        "code": "1271",
+        "name": "Medan"
+    },
+    "kecamatan": {
+        "code": "127118",
+        "name": "Medan Perjuangan"
+    }
+}

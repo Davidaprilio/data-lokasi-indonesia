@@ -1,0 +1,17 @@
+{
+    "code": "3275091004",
+    "name": "Jatirasa",
+    "poscode": "17424",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3275",
+        "name": "Bekasi"
+    },
+    "kecamatan": {
+        "code": "327509",
+        "name": "Jatiasih"
+    }
+}

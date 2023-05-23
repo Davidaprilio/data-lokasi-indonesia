@@ -1,0 +1,17 @@
+{
+    "code": "3522282001",
+    "name": "Gayam",
+    "poscode": "62154",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3522",
+        "name": "Bojonegoro"
+    },
+    "kecamatan": {
+        "code": "352228",
+        "name": "Gayam"
+    }
+}

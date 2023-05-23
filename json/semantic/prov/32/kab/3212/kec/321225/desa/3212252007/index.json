@@ -1,0 +1,17 @@
+{
+    "code": "3212252007",
+    "name": "Mekarwaru",
+    "poscode": "45264",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3212",
+        "name": "Indramayu"
+    },
+    "kecamatan": {
+        "code": "321225",
+        "name": "Gantar"
+    }
+}

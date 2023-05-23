@@ -1,0 +1,17 @@
+{
+    "code": "8105052022",
+    "name": "Guliar",
+    "poscode": "97595",
+    "provinsi": {
+        "code": "81",
+        "name": "Maluku"
+    },
+    "kabupaten": {
+        "code": "8105",
+        "name": "Seram Bagian Timur"
+    },
+    "kecamatan": {
+        "code": "810505",
+        "name": "Wakate"
+    }
+}

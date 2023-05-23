@@ -1,0 +1,17 @@
+{
+    "code": "1113042015",
+    "name": "Berhut",
+    "poscode": "24656",
+    "provinsi": {
+        "code": "11",
+        "name": "Aceh (NAD)"
+    },
+    "kabupaten": {
+        "code": "1113",
+        "name": "Gayo Lues"
+    },
+    "kecamatan": {
+        "code": "111304",
+        "name": "Terangun (Terangon)"
+    }
+}

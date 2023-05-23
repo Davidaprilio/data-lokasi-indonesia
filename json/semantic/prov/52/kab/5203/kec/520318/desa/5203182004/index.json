@@ -1,0 +1,17 @@
+{
+    "code": "5203182004",
+    "name": "Gereneng",
+    "poscode": "83674",
+    "provinsi": {
+        "code": "52",
+        "name": "Nusa Tenggara Barat (NTB)"
+    },
+    "kabupaten": {
+        "code": "5203",
+        "name": "Lombok Timur"
+    },
+    "kecamatan": {
+        "code": "520318",
+        "name": "Sakra Timur"
+    }
+}

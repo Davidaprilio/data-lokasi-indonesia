@@ -1,0 +1,17 @@
+{
+    "code": "3501102014",
+    "name": "Ngumbul",
+    "poscode": "63571",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3501",
+        "name": "Pacitan"
+    },
+    "kecamatan": {
+        "code": "350110",
+        "name": "Tulakan"
+    }
+}

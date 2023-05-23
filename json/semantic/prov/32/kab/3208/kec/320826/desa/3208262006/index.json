@@ -1,0 +1,17 @@
+{
+    "code": "3208262006",
+    "name": "Pakapasan Girang",
+    "poscode": "45564",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3208",
+        "name": "Kuningan"
+    },
+    "kecamatan": {
+        "code": "320826",
+        "name": "Hantara"
+    }
+}

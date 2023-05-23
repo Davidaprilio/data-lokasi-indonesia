@@ -1,0 +1,72 @@
+[
+    {
+        "code": "317406",
+        "name": "Cilandak",
+        "count": {
+            "desa": 5
+        }
+    },
+    {
+        "code": "317409",
+        "name": "Jagakarsa",
+        "count": {
+            "desa": 6
+        }
+    },
+    {
+        "code": "317407",
+        "name": "Kebayoran Baru",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "317405",
+        "name": "Kebayoran Lama",
+        "count": {
+            "desa": 6
+        }
+    },
+    {
+        "code": "317403",
+        "name": "Mampang Prapatan",
+        "count": {
+            "desa": 5
+        }
+    },
+    {
+        "code": "317408",
+        "name": "Pancoran",
+        "count": {
+            "desa": 6
+        }
+    },
+    {
+        "code": "317404",
+        "name": "Pasar Minggu",
+        "count": {
+            "desa": 7
+        }
+    },
+    {
+        "code": "317410",
+        "name": "Pesanggrahan",
+        "count": {
+            "desa": 5
+        }
+    },
+    {
+        "code": "317402",
+        "name": "Setiabudi (Setia Budi)",
+        "count": {
+            "desa": 8
+        }
+    },
+    {
+        "code": "317401",
+        "name": "Tebet",
+        "count": {
+            "desa": 7
+        }
+    }
+]

@@ -1,0 +1,10 @@
+{
+    "code": "3214",
+    "type": "Kabupaten",
+    "name": "Purwakarta",
+    "fullname": "Kabupaten Purwakarta",
+    "jumlah": {
+        "kecamatan": 17,
+        "desa": 192
+    }
+}

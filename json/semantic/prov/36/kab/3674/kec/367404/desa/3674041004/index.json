@@ -1,0 +1,17 @@
+{
+    "code": "3674041004",
+    "name": "Sawah Lama",
+    "poscode": "15413",
+    "provinsi": {
+        "code": "36",
+        "name": "Banten"
+    },
+    "kabupaten": {
+        "code": "3674",
+        "name": "Tangerang Selatan"
+    },
+    "kecamatan": {
+        "code": "367404",
+        "name": "Ciputat"
+    }
+}

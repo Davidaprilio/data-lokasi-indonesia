@@ -1,0 +1,17 @@
+{
+    "code": "3602022019",
+    "name": "Cibarengkok",
+    "poscode": "42390",
+    "provinsi": {
+        "code": "36",
+        "name": "Banten"
+    },
+    "kabupaten": {
+        "code": "3602",
+        "name": "Lebak"
+    },
+    "kecamatan": {
+        "code": "360202",
+        "name": "Panggarangan"
+    }
+}

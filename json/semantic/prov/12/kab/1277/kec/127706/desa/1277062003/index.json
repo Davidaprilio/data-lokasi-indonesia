@@ -1,0 +1,17 @@
+{
+    "code": "1277062003",
+    "name": "Simasom",
+    "poscode": "22729",
+    "provinsi": {
+        "code": "12",
+        "name": "Sumatera Utara"
+    },
+    "kabupaten": {
+        "code": "1277",
+        "name": "Padangsidimpuan"
+    },
+    "kecamatan": {
+        "code": "127706",
+        "name": "Padangsidimpuan Angkola Julu"
+    }
+}

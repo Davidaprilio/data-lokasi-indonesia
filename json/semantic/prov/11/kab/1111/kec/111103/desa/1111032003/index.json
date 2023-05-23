@@ -1,0 +1,17 @@
+{
+    "code": "1111032003",
+    "name": "Meunasah Krueng",
+    "poscode": "24262",
+    "provinsi": {
+        "code": "11",
+        "name": "Aceh (NAD)"
+    },
+    "kabupaten": {
+        "code": "1111",
+        "name": "Bireuen"
+    },
+    "kecamatan": {
+        "code": "111103",
+        "name": "Peudada"
+    }
+}

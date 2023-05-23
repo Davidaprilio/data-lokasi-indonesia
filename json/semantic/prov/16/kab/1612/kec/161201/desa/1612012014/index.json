@@ -1,0 +1,17 @@
+{
+    "code": "1612012014",
+    "name": "Benakat Minyak",
+    "poscode": "31214",
+    "provinsi": {
+        "code": "16",
+        "name": "Sumatera Selatan"
+    },
+    "kabupaten": {
+        "code": "1612",
+        "name": "Penukal Abab Lematang Ilir"
+    },
+    "kecamatan": {
+        "code": "161201",
+        "name": "Talang Ubi"
+    }
+}

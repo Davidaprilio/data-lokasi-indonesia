@@ -1,0 +1,17 @@
+{
+    "code": "3509182004",
+    "name": "Pondokrejo",
+    "poscode": "68173",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3509",
+        "name": "Jember"
+    },
+    "kecamatan": {
+        "code": "350918",
+        "name": "Tempurejo"
+    }
+}

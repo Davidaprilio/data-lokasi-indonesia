@@ -1,0 +1,10 @@
+{
+    "code": "3519",
+    "type": "Kabupaten",
+    "name": "Madiun",
+    "fullname": "Kabupaten Madiun",
+    "jumlah": {
+        "kecamatan": 15,
+        "desa": 206
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "6503042009",
+    "name": "Nainsid",
+    "poscode": "77457",
+    "provinsi": {
+        "code": "65",
+        "name": "Kalimantan Utara"
+    },
+    "kabupaten": {
+        "code": "6503",
+        "name": "Nunukan"
+    },
+    "kecamatan": {
+        "code": "650304",
+        "name": "Lumbis"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "1406082006",
+    "name": "Rambah Muda",
+    "poscode": "28561",
+    "provinsi": {
+        "code": "14",
+        "name": "Riau"
+    },
+    "kabupaten": {
+        "code": "1406",
+        "name": "Rokan Hulu"
+    },
+    "kecamatan": {
+        "code": "140608",
+        "name": "Rambah Hilir"
+    }
+}

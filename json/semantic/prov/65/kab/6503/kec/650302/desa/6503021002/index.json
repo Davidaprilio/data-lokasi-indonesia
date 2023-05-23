@@ -1,0 +1,17 @@
+{
+    "code": "6503021002",
+    "name": "Nunukan Barat",
+    "poscode": "77482",
+    "provinsi": {
+        "code": "65",
+        "name": "Kalimantan Utara"
+    },
+    "kabupaten": {
+        "code": "6503",
+        "name": "Nunukan"
+    },
+    "kecamatan": {
+        "code": "650302",
+        "name": "Nunukan"
+    }
+}

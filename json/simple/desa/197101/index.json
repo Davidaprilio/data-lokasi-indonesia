@@ -1,0 +1,37 @@
+[
+    {
+        "code": "1971011007",
+        "name": "Air Itam",
+        "poscode": "33149"
+    },
+    {
+        "code": "1971011011",
+        "name": "Air Mawar",
+        "poscode": "33147"
+    },
+    {
+        "code": "1971011006",
+        "name": "Bacang",
+        "poscode": "33148"
+    },
+    {
+        "code": "1971011008",
+        "name": "Pasir Putih",
+        "poscode": "33147"
+    },
+    {
+        "code": "1971011004",
+        "name": "Semabung Lama",
+        "poscode": "33147"
+    },
+    {
+        "code": "1971011010",
+        "name": "Sinar Bulan",
+        "poscode": "33147"
+    },
+    {
+        "code": "1971011009",
+        "name": "Temberan",
+        "poscode": "33147"
+    }
+]

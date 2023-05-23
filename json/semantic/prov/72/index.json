@@ -1,0 +1,10 @@
+{
+    "code": "72",
+    "name": "Sulawesi Tengah",
+    "jumlah": {
+        "kota": 1,
+        "kabupaten": 12,
+        "kecamatan": 175,
+        "desa": 2
+    }
+}

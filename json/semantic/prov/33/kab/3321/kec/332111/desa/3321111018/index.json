@@ -1,0 +1,17 @@
+{
+    "code": "3321111018",
+    "name": "Bintoro",
+    "poscode": "59511",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3321",
+        "name": "Demak"
+    },
+    "kecamatan": {
+        "code": "332111",
+        "name": "Demak"
+    }
+}

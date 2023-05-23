@@ -1,0 +1,17 @@
+{
+    "code": "7202242004",
+    "name": "Mekarsari",
+    "poscode": "94657",
+    "provinsi": {
+        "code": "72",
+        "name": "Sulawesi Tengah"
+    },
+    "kabupaten": {
+        "code": "7202",
+        "name": "Poso"
+    },
+    "kecamatan": {
+        "code": "720224",
+        "name": "Lore Timur"
+    }
+}

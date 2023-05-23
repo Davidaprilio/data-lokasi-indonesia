@@ -1,0 +1,17 @@
+{
+    "code": "1274061001",
+    "name": "Pulau Simardan",
+    "poscode": "21366",
+    "provinsi": {
+        "code": "12",
+        "name": "Sumatera Utara"
+    },
+    "kabupaten": {
+        "code": "1274",
+        "name": "Tanjung Balai"
+    },
+    "kecamatan": {
+        "code": "127406",
+        "name": "Datuk Bandar Timur"
+    }
+}

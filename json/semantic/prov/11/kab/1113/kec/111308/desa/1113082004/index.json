@@ -1,0 +1,17 @@
+{
+    "code": "1113082004",
+    "name": "Sangir",
+    "poscode": "24652",
+    "provinsi": {
+        "code": "11",
+        "name": "Aceh (NAD)"
+    },
+    "kabupaten": {
+        "code": "1113",
+        "name": "Gayo Lues"
+    },
+    "kecamatan": {
+        "code": "111308",
+        "name": "Dabun Gelang (Debun Gelang)"
+    }
+}

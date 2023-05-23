@@ -1,0 +1,10 @@
+{
+    "code": "3525",
+    "type": "Kabupaten",
+    "name": "Gresik",
+    "fullname": "Kabupaten Gresik",
+    "jumlah": {
+        "kecamatan": 18,
+        "desa": 356
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "1373042009",
+    "name": "Salak",
+    "poscode": "27447",
+    "provinsi": {
+        "code": "13",
+        "name": "Sumatera Barat"
+    },
+    "kabupaten": {
+        "code": "1373",
+        "name": "Sawahlunto"
+    },
+    "kecamatan": {
+        "code": "137304",
+        "name": "Talawi"
+    }
+}

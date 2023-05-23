@@ -1,0 +1,17 @@
+{
+    "code": "9504272034",
+    "name": "Tigir",
+    "poscode": "99058",
+    "provinsi": {
+        "code": "95",
+        "name": "Papua Pegunungan"
+    },
+    "kabupaten": {
+        "code": "9504",
+        "name": "Tolikara"
+    },
+    "kecamatan": {
+        "code": "950427",
+        "name": "Poganeri"
+    }
+}

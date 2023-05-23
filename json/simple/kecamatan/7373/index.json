@@ -1,0 +1,65 @@
+[
+    {
+        "code": "737309",
+        "name": "Bara",
+        "count": {
+            "desa": 5
+        }
+    },
+    {
+        "code": "737308",
+        "name": "Mungkajang",
+        "count": {
+            "desa": 4
+        }
+    },
+    {
+        "code": "737307",
+        "name": "Sendana",
+        "count": {
+            "desa": 4
+        }
+    },
+    {
+        "code": "737304",
+        "name": "Telluwanua",
+        "count": {
+            "desa": 7
+        }
+    },
+    {
+        "code": "737301",
+        "name": "Wara",
+        "count": {
+            "desa": 6
+        }
+    },
+    {
+        "code": "737306",
+        "name": "Wara Barat",
+        "count": {
+            "desa": 5
+        }
+    },
+    {
+        "code": "737303",
+        "name": "Wara Selatan",
+        "count": {
+            "desa": 4
+        }
+    },
+    {
+        "code": "737305",
+        "name": "Wara Timur",
+        "count": {
+            "desa": 7
+        }
+    },
+    {
+        "code": "737302",
+        "name": "Wara Utara",
+        "count": {
+            "desa": 6
+        }
+    }
+]

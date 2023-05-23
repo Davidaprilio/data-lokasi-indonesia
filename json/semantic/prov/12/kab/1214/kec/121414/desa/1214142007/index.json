@@ -1,0 +1,17 @@
+{
+    "code": "1214142007",
+    "name": "Tobualo",
+    "poscode": "22873",
+    "provinsi": {
+        "code": "12",
+        "name": "Sumatera Utara"
+    },
+    "kabupaten": {
+        "code": "1214",
+        "name": "Nias Selatan"
+    },
+    "kecamatan": {
+        "code": "121414",
+        "name": "Umbunasi"
+    }
+}

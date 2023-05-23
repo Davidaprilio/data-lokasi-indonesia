@@ -1,0 +1,17 @@
+{
+    "code": "7606052003",
+    "name": "Lara",
+    "poscode": "91460",
+    "provinsi": {
+        "code": "76",
+        "name": "Sulawesi Barat"
+    },
+    "kabupaten": {
+        "code": "7606",
+        "name": "Mamuju Tengah"
+    },
+    "kecamatan": {
+        "code": "760605",
+        "name": "Karossa"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "6205042012",
+    "name": "Mampuak I",
+    "poscode": "73881",
+    "provinsi": {
+        "code": "62",
+        "name": "Kalimantan Tengah"
+    },
+    "kabupaten": {
+        "code": "6205",
+        "name": "Barito Utara"
+    },
+    "kecamatan": {
+        "code": "620504",
+        "name": "Teweh Timur"
+    }
+}

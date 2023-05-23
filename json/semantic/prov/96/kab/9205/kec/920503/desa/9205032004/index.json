@@ -1,0 +1,17 @@
+{
+    "code": "9205032004",
+    "name": "Saonek",
+    "poscode": "98475",
+    "provinsi": {
+        "code": "96",
+        "name": "Papua Barat Daya"
+    },
+    "kabupaten": {
+        "code": "9205",
+        "name": "Raja Ampat"
+    },
+    "kecamatan": {
+        "code": "920503",
+        "name": "Waigeo Selatan"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "7202011016",
+    "name": "Gebangrejo Timur",
+    "poscode": "94619",
+    "provinsi": {
+        "code": "72",
+        "name": "Sulawesi Tengah"
+    },
+    "kabupaten": {
+        "code": "7202",
+        "name": "Poso"
+    },
+    "kecamatan": {
+        "code": "720201",
+        "name": "Poso Kota"
+    }
+}

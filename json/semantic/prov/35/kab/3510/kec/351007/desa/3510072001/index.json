@@ -1,0 +1,17 @@
+{
+    "code": "3510072001",
+    "name": "Purwodadi",
+    "poscode": "68486",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3510",
+        "name": "Banyuwangi"
+    },
+    "kecamatan": {
+        "code": "351007",
+        "name": "Gambiran"
+    }
+}

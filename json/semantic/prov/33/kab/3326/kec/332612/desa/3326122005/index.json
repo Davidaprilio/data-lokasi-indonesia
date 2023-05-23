@@ -1,0 +1,17 @@
+{
+    "code": "3326122005",
+    "name": "Kwagean",
+    "poscode": "51181",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3326",
+        "name": "Pekalongan"
+    },
+    "kecamatan": {
+        "code": "332612",
+        "name": "Wonopringgo"
+    }
+}

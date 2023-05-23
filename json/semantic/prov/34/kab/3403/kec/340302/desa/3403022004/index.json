@@ -1,0 +1,17 @@
+{
+    "code": "3403022004",
+    "name": "Pengkol",
+    "poscode": "55852",
+    "provinsi": {
+        "code": "34",
+        "name": "DI Yogyakarta"
+    },
+    "kabupaten": {
+        "code": "3403",
+        "name": "Gunungkidul"
+    },
+    "kecamatan": {
+        "code": "340302",
+        "name": "Nglipar"
+    }
+}

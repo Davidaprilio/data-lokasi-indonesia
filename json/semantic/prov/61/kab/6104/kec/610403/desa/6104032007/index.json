@@ -1,0 +1,17 @@
+{
+    "code": "6104032007",
+    "name": "Kemuning",
+    "poscode": "78864",
+    "provinsi": {
+        "code": "61",
+        "name": "Kalimantan Barat"
+    },
+    "kabupaten": {
+        "code": "6104",
+        "name": "Ketapang"
+    },
+    "kecamatan": {
+        "code": "610403",
+        "name": "Manis Mata"
+    }
+}

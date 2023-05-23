@@ -1,0 +1,17 @@
+{
+    "code": "7202041006",
+    "name": "Pamona",
+    "poscode": "94663",
+    "provinsi": {
+        "code": "72",
+        "name": "Sulawesi Tengah"
+    },
+    "kabupaten": {
+        "code": "7202",
+        "name": "Poso"
+    },
+    "kecamatan": {
+        "code": "720204",
+        "name": "Pamona Puselemba"
+    }
+}

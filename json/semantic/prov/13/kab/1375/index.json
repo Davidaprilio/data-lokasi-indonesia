@@ -1,0 +1,10 @@
+{
+    "code": "1375",
+    "type": "Kota",
+    "name": "Bukittinggi",
+    "fullname": "Kota Bukittinggi",
+    "jumlah": {
+        "kecamatan": 3,
+        "desa": 24
+    }
+}

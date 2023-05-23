@@ -1,0 +1,37 @@
+[
+    {
+        "code": "9110042001",
+        "name": "Ansudu (Ansubi)",
+        "poscode": "99370"
+    },
+    {
+        "code": "9110042014",
+        "name": "Ansudu Dua (Ansudu II / Srem)",
+        "poscode": "99370"
+    },
+    {
+        "code": "9110042002",
+        "name": "Betaf",
+        "poscode": "99370"
+    },
+    {
+        "code": "9110042013",
+        "name": "Betaf Dua (Betaf II / Tamnir)",
+        "poscode": "99370"
+    },
+    {
+        "code": "9110042011",
+        "name": "Komra",
+        "poscode": "99370"
+    },
+    {
+        "code": "9110042010",
+        "name": "Sunum (Yamna)",
+        "poscode": "99370"
+    },
+    {
+        "code": "9110042003",
+        "name": "Yamben (Jamber/Beneraf)",
+        "poscode": "99370"
+    }
+]

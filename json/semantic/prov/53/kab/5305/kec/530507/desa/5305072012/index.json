@@ -1,0 +1,17 @@
+{
+    "code": "5305072012",
+    "name": "Lakwati",
+    "poscode": "85870",
+    "provinsi": {
+        "code": "53",
+        "name": "Nusa Tenggara Timur (NTT)"
+    },
+    "kabupaten": {
+        "code": "5305",
+        "name": "Alor"
+    },
+    "kecamatan": {
+        "code": "530507",
+        "name": "Alor Tengah Utara"
+    }
+}

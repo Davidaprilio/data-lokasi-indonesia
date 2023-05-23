@@ -1,0 +1,10 @@
+{
+    "code": "9501",
+    "type": "Kabupaten",
+    "name": "Jayawijaya",
+    "fullname": "Kabupaten Jayawijaya",
+    "jumlah": {
+        "kecamatan": 40,
+        "desa": 332
+    }
+}

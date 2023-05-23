@@ -1,0 +1,17 @@
+{
+    "code": "3578101008",
+    "name": "Dukuh Setro",
+    "poscode": "60138",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3578",
+        "name": "Surabaya"
+    },
+    "kecamatan": {
+        "code": "357810",
+        "name": "Tambaksari"
+    }
+}

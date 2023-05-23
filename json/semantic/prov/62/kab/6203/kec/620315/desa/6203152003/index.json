@@ -1,0 +1,17 @@
+{
+    "code": "6203152003",
+    "name": "Lawang Tamang",
+    "poscode": "73556",
+    "provinsi": {
+        "code": "62",
+        "name": "Kalimantan Tengah"
+    },
+    "kabupaten": {
+        "code": "6203",
+        "name": "Kapuas"
+    },
+    "kecamatan": {
+        "code": "620315",
+        "name": "Mandau Talawang"
+    }
+}

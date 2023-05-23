@@ -1,0 +1,17 @@
+{
+    "code": "3203011009",
+    "name": "Sayang",
+    "poscode": "43213",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3203",
+        "name": "Cianjur"
+    },
+    "kecamatan": {
+        "code": "320301",
+        "name": "Cianjur"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "1802222003",
+    "name": "Sendang Baru",
+    "poscode": "34178",
+    "provinsi": {
+        "code": "18",
+        "name": "Lampung"
+    },
+    "kabupaten": {
+        "code": "1802",
+        "name": "Lampung Tengah"
+    },
+    "kecamatan": {
+        "code": "180222",
+        "name": "Sendang Agung"
+    }
+}

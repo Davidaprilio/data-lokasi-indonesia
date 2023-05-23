@@ -1,0 +1,17 @@
+{
+    "code": "3572021006",
+    "name": "Sukorejo",
+    "poscode": "66121",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3572",
+        "name": "Blitar"
+    },
+    "kecamatan": {
+        "code": "357202",
+        "name": "Sukorejo"
+    }
+}

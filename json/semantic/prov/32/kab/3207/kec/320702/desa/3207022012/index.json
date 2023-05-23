@@ -1,0 +1,17 @@
+{
+    "code": "3207022012",
+    "name": "Darmacaang",
+    "poscode": "46261",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3207",
+        "name": "Ciamis"
+    },
+    "kecamatan": {
+        "code": "320702",
+        "name": "Cikoneng"
+    }
+}

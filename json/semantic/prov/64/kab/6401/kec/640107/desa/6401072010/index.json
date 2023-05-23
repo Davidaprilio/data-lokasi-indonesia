@@ -1,0 +1,17 @@
+{
+    "code": "6401072010",
+    "name": "Lusan",
+    "poscode": "76253",
+    "provinsi": {
+        "code": "64",
+        "name": "Kalimantan Timur"
+    },
+    "kabupaten": {
+        "code": "6401",
+        "name": "Paser"
+    },
+    "kecamatan": {
+        "code": "640107",
+        "name": "Muara Komam"
+    }
+}

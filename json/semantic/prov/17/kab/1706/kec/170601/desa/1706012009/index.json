@@ -1,0 +1,17 @@
+{
+    "code": "1706012009",
+    "name": "Tanjung Alai",
+    "poscode": "38756",
+    "provinsi": {
+        "code": "17",
+        "name": "Bengkulu"
+    },
+    "kabupaten": {
+        "code": "1706",
+        "name": "Muko Muko"
+    },
+    "kecamatan": {
+        "code": "170601",
+        "name": "Lubuk Pinang"
+    }
+}

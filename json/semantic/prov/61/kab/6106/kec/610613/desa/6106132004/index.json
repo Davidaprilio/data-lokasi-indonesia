@@ -1,0 +1,17 @@
+{
+    "code": "6106132004",
+    "name": "Bajau Andai",
+    "poscode": "78768",
+    "provinsi": {
+        "code": "61",
+        "name": "Kalimantan Barat"
+    },
+    "kabupaten": {
+        "code": "6106",
+        "name": "Kapuas Hulu"
+    },
+    "kecamatan": {
+        "code": "610613",
+        "name": "Empanang"
+    }
+}

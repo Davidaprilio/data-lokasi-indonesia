@@ -1,0 +1,149 @@
+[
+    {
+        "code": "530705",
+        "name": "Alok",
+        "count": {
+            "desa": 7
+        }
+    },
+    {
+        "code": "530714",
+        "name": "Alok Barat",
+        "count": {
+            "desa": 4
+        }
+    },
+    {
+        "code": "530715",
+        "name": "Alok Timur",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "530711",
+        "name": "Bola",
+        "count": {
+            "desa": 6
+        }
+    },
+    {
+        "code": "530720",
+        "name": "Doreng",
+        "count": {
+            "desa": 7
+        }
+    },
+    {
+        "code": "530718",
+        "name": "Hewokloang",
+        "count": {
+            "desa": 7
+        }
+    },
+    {
+        "code": "530719",
+        "name": "Kangae",
+        "count": {
+            "desa": 9
+        }
+    },
+    {
+        "code": "530710",
+        "name": "Kewapante",
+        "count": {
+            "desa": 8
+        }
+    },
+    {
+        "code": "530716",
+        "name": "Koting",
+        "count": {
+            "desa": 6
+        }
+    },
+    {
+        "code": "530703",
+        "name": "Lela",
+        "count": {
+            "desa": 9
+        }
+    },
+    {
+        "code": "530712",
+        "name": "Magepanda",
+        "count": {
+            "desa": 5
+        }
+    },
+    {
+        "code": "530721",
+        "name": "Mapitara",
+        "count": {
+            "desa": 4
+        }
+    },
+    {
+        "code": "530702",
+        "name": "Mego",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "530707",
+        "name": "Nelle (Maumerei)",
+        "count": {
+            "desa": 5
+        }
+    },
+    {
+        "code": "530704",
+        "name": "Nita",
+        "count": {
+            "desa": 12
+        }
+    },
+    {
+        "code": "530701",
+        "name": "Paga",
+        "count": {
+            "desa": 8
+        }
+    },
+    {
+        "code": "530706",
+        "name": "Palue",
+        "count": {
+            "desa": 8
+        }
+    },
+    {
+        "code": "530708",
+        "name": "Talibura",
+        "count": {
+            "desa": 12
+        }
+    },
+    {
+        "code": "530717",
+        "name": "Tana Wawo",
+        "count": {
+            "desa": 8
+        }
+    },
+    {
+        "code": "530713",
+        "name": "Waiblama",
+        "count": {
+            "desa": 6
+        }
+    },
+    {
+        "code": "530709",
+        "name": "Waigete",
+        "count": {
+            "desa": 9
+        }
+    }
+]

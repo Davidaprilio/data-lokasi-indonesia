@@ -1,0 +1,122 @@
+[
+    {
+        "code": "1403",
+        "type": "Kabupaten",
+        "name": "Bengkalis",
+        "fullname": "Kabupaten Bengkalis",
+        "jumlah": {
+            "kecamatan": 11,
+            "desa": 155
+        }
+    },
+    {
+        "code": "1472",
+        "type": "Kota",
+        "name": "Dumai",
+        "fullname": "Kota Dumai",
+        "jumlah": {
+            "kecamatan": 7,
+            "desa": 33
+        }
+    },
+    {
+        "code": "1404",
+        "type": "Kabupaten",
+        "name": "Indragiri Hilir",
+        "fullname": "Kabupaten Indragiri Hilir",
+        "jumlah": {
+            "kecamatan": 20,
+            "desa": 236
+        }
+    },
+    {
+        "code": "1402",
+        "type": "Kabupaten",
+        "name": "Indragiri Hulu",
+        "fullname": "Kabupaten Indragiri Hulu",
+        "jumlah": {
+            "kecamatan": 14,
+            "desa": 194
+        }
+    },
+    {
+        "code": "1401",
+        "type": "Kabupaten",
+        "name": "Kampar",
+        "fullname": "Kabupaten Kampar",
+        "jumlah": {
+            "kecamatan": 21,
+            "desa": 250
+        }
+    },
+    {
+        "code": "1410",
+        "type": "Kabupaten",
+        "name": "Kepulauan Meranti",
+        "fullname": "Kabupaten Kepulauan Meranti",
+        "jumlah": {
+            "kecamatan": 9,
+            "desa": 101
+        }
+    },
+    {
+        "code": "1409",
+        "type": "Kabupaten",
+        "name": "Kuantan Singingi",
+        "fullname": "Kabupaten Kuantan Singingi",
+        "jumlah": {
+            "kecamatan": 15,
+            "desa": 229
+        }
+    },
+    {
+        "code": "1471",
+        "type": "Kota",
+        "name": "Pekanbaru",
+        "fullname": "Kota Pekanbaru",
+        "jumlah": {
+            "kecamatan": 12,
+            "desa": 83
+        }
+    },
+    {
+        "code": "1405",
+        "type": "Kabupaten",
+        "name": "Pelalawan",
+        "fullname": "Kabupaten Pelalawan",
+        "jumlah": {
+            "kecamatan": 12,
+            "desa": 118
+        }
+    },
+    {
+        "code": "1407",
+        "type": "Kabupaten",
+        "name": "Rokan Hilir",
+        "fullname": "Kabupaten Rokan Hilir",
+        "jumlah": {
+            "kecamatan": 18,
+            "desa": 184
+        }
+    },
+    {
+        "code": "1406",
+        "type": "Kabupaten",
+        "name": "Rokan Hulu",
+        "fullname": "Kabupaten Rokan Hulu",
+        "jumlah": {
+            "kecamatan": 16,
+            "desa": 145
+        }
+    },
+    {
+        "code": "1408",
+        "type": "Kabupaten",
+        "name": "Siak",
+        "fullname": "Kabupaten Siak",
+        "jumlah": {
+            "kecamatan": 14,
+            "desa": 131
+        }
+    }
+]

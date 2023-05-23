@@ -1,0 +1,17 @@
+{
+    "code": "1277032012",
+    "name": "Batang Bahal",
+    "poscode": "22731",
+    "provinsi": {
+        "code": "12",
+        "name": "Sumatera Utara"
+    },
+    "kabupaten": {
+        "code": "1277",
+        "name": "Padangsidimpuan"
+    },
+    "kecamatan": {
+        "code": "127703",
+        "name": "Padangsidimpuan Batunadua"
+    }
+}

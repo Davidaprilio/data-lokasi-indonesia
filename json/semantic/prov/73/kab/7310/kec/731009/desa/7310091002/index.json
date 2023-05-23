@@ -1,0 +1,17 @@
+{
+    "code": "7310091002",
+    "name": "Segeri",
+    "poscode": "90656",
+    "provinsi": {
+        "code": "73",
+        "name": "Sulawesi Selatan"
+    },
+    "kabupaten": {
+        "code": "7310",
+        "name": "Pangkajene Kepulauan"
+    },
+    "kecamatan": {
+        "code": "731009",
+        "name": "Segeri"
+    }
+}

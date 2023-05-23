@@ -1,0 +1,17 @@
+{
+    "code": "6303032004",
+    "name": "Makmur",
+    "poscode": "70652",
+    "provinsi": {
+        "code": "63",
+        "name": "Kalimantan Selatan"
+    },
+    "kabupaten": {
+        "code": "6303",
+        "name": "Banjar"
+    },
+    "kecamatan": {
+        "code": "630303",
+        "name": "Gambut"
+    }
+}

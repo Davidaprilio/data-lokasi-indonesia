@@ -1,0 +1,17 @@
+{
+    "code": "3529212007",
+    "name": "Rosong",
+    "poscode": "69484",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3529",
+        "name": "Sumenep"
+    },
+    "kecamatan": {
+        "code": "352921",
+        "name": "Nonggunong"
+    }
+}

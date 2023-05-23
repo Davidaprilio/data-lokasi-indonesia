@@ -1,0 +1,58 @@
+[
+    {
+        "code": "760501",
+        "name": "Banggae",
+        "count": {
+            "desa": 8
+        }
+    },
+    {
+        "code": "760508",
+        "name": "Banggae Timur",
+        "count": {
+            "desa": 9
+        }
+    },
+    {
+        "code": "760504",
+        "name": "Malunda",
+        "count": {
+            "desa": 12
+        }
+    },
+    {
+        "code": "760502",
+        "name": "Pamboang",
+        "count": {
+            "desa": 15
+        }
+    },
+    {
+        "code": "760503",
+        "name": "Sendana",
+        "count": {
+            "desa": 16
+        }
+    },
+    {
+        "code": "760506",
+        "name": "Tammerodo Sendana (Tammeredo Sendana)",
+        "count": {
+            "desa": 7
+        }
+    },
+    {
+        "code": "760507",
+        "name": "Tubo (Tubo Sendana)",
+        "count": {
+            "desa": 7
+        }
+    },
+    {
+        "code": "760505",
+        "name": "Ulumanda (Ulumunda)",
+        "count": {
+            "desa": 8
+        }
+    }
+]

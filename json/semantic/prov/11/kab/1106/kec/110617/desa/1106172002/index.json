@@ -1,0 +1,17 @@
+{
+    "code": "1106172002",
+    "name": "Lam Ara Cut",
+    "poscode": "23365",
+    "provinsi": {
+        "code": "11",
+        "name": "Aceh (NAD)"
+    },
+    "kabupaten": {
+        "code": "1106",
+        "name": "Aceh Besar"
+    },
+    "kecamatan": {
+        "code": "110617",
+        "name": "Kota Malaka (Kuta Malaka)"
+    }
+}

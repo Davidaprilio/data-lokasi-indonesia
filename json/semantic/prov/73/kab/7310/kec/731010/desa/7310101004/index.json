@@ -1,0 +1,17 @@
+{
+    "code": "7310101004",
+    "name": "Bonto Kio (Bontokio)",
+    "poscode": "90614",
+    "provinsi": {
+        "code": "73",
+        "name": "Sulawesi Selatan"
+    },
+    "kabupaten": {
+        "code": "7310",
+        "name": "Pangkajene Kepulauan"
+    },
+    "kecamatan": {
+        "code": "731010",
+        "name": "Minasa Tene"
+    }
+}

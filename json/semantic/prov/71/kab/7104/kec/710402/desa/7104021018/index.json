@@ -1,0 +1,17 @@
+{
+    "code": "7104021018",
+    "name": "Beo Barat",
+    "poscode": "95876",
+    "provinsi": {
+        "code": "71",
+        "name": "Sulawesi Utara"
+    },
+    "kabupaten": {
+        "code": "7104",
+        "name": "Kepulauan Talaud"
+    },
+    "kecamatan": {
+        "code": "710402",
+        "name": "Beo"
+    }
+}

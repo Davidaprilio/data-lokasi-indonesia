@@ -1,0 +1,17 @@
+{
+    "code": "6110022001",
+    "name": "Tanjung Niaga",
+    "poscode": "79672",
+    "provinsi": {
+        "code": "61",
+        "name": "Kalimantan Barat"
+    },
+    "kabupaten": {
+        "code": "6110",
+        "name": "Melawi"
+    },
+    "kecamatan": {
+        "code": "611002",
+        "name": "Nanga Pinoh"
+    }
+}

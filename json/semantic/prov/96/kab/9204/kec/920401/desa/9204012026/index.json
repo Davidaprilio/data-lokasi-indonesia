@@ -1,0 +1,17 @@
+{
+    "code": "9204012026",
+    "name": "Tegirolo",
+    "poscode": "98216",
+    "provinsi": {
+        "code": "96",
+        "name": "Papua Barat Daya"
+    },
+    "kabupaten": {
+        "code": "9204",
+        "name": "Sorong Selatan"
+    },
+    "kecamatan": {
+        "code": "920401",
+        "name": "Teminabuan"
+    }
+}

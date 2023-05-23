@@ -1,0 +1,17 @@
+{
+    "code": "3201362001",
+    "name": "Tanjungsari",
+    "poscode": "16841",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3201",
+        "name": "Bogor"
+    },
+    "kecamatan": {
+        "code": "320136",
+        "name": "Tanjungsari"
+    }
+}

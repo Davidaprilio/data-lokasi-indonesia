@@ -1,0 +1,17 @@
+{
+    "code": "1971061003",
+    "name": "Gabek Satu",
+    "poscode": "33118",
+    "provinsi": {
+        "code": "19",
+        "name": "Kepulauan Bangka Belitung"
+    },
+    "kabupaten": {
+        "code": "1971",
+        "name": "Pangkal Pinang"
+    },
+    "kecamatan": {
+        "code": "197106",
+        "name": "Gabek"
+    }
+}

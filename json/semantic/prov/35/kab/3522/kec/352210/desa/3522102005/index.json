@@ -1,0 +1,17 @@
+{
+    "code": "3522102005",
+    "name": "Blongsong",
+    "poscode": "62192",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3522",
+        "name": "Bojonegoro"
+    },
+    "kecamatan": {
+        "code": "352210",
+        "name": "Baureno"
+    }
+}

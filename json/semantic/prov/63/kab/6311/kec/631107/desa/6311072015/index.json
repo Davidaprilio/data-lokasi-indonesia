@@ -1,0 +1,17 @@
+{
+    "code": "6311072015",
+    "name": "Lingsir",
+    "poscode": "71662",
+    "provinsi": {
+        "code": "63",
+        "name": "Kalimantan Selatan"
+    },
+    "kabupaten": {
+        "code": "6311",
+        "name": "Balangan"
+    },
+    "kecamatan": {
+        "code": "631107",
+        "name": "Paringin Selatan"
+    }
+}

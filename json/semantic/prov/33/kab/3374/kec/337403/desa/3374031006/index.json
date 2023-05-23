@@ -1,0 +1,17 @@
+{
+    "code": "3374031006",
+    "name": "Bugangan",
+    "poscode": "50126",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3374",
+        "name": "Semarang"
+    },
+    "kecamatan": {
+        "code": "337403",
+        "name": "Semarang Timur"
+    }
+}

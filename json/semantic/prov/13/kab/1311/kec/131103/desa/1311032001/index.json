@@ -1,0 +1,17 @@
+{
+    "code": "1311032001",
+    "name": "Pakan Rabaa",
+    "poscode": "27775",
+    "provinsi": {
+        "code": "13",
+        "name": "Sumatera Barat"
+    },
+    "kabupaten": {
+        "code": "1311",
+        "name": "Solok Selatan"
+    },
+    "kecamatan": {
+        "code": "131103",
+        "name": "Koto Parik Gadang Diateh"
+    }
+}

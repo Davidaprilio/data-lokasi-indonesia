@@ -1,0 +1,17 @@
+{
+    "code": "1906032002",
+    "name": "Jangkang",
+    "poscode": "33561",
+    "provinsi": {
+        "code": "19",
+        "name": "Kepulauan Bangka Belitung"
+    },
+    "kabupaten": {
+        "code": "1906",
+        "name": "Belitung Timur"
+    },
+    "kecamatan": {
+        "code": "190603",
+        "name": "Dendang"
+    }
+}

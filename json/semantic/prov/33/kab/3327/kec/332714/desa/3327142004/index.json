@@ -1,0 +1,17 @@
+{
+    "code": "3327142004",
+    "name": "Datar",
+    "poscode": "52358",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3327",
+        "name": "Pemalang"
+    },
+    "kecamatan": {
+        "code": "332714",
+        "name": "Warungpring"
+    }
+}

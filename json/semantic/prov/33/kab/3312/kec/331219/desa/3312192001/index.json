@@ -1,0 +1,17 @@
+{
+    "code": "3312192001",
+    "name": "Padarangin",
+    "poscode": "57694",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3312",
+        "name": "Wonogiri"
+    },
+    "kecamatan": {
+        "code": "331219",
+        "name": "Slogohimo"
+    }
+}

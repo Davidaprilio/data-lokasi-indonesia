@@ -1,0 +1,17 @@
+{
+    "code": "3578201002",
+    "name": "Jajar Tunggal (Jajartunggal)",
+    "poscode": "60229",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3578",
+        "name": "Surabaya"
+    },
+    "kecamatan": {
+        "code": "357820",
+        "name": "Wiyung"
+    }
+}

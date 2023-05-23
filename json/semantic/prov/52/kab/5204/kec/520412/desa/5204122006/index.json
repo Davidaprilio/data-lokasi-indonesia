@@ -1,0 +1,17 @@
+{
+    "code": "5204122006",
+    "name": "Dete",
+    "poscode": "84382",
+    "provinsi": {
+        "code": "52",
+        "name": "Nusa Tenggara Barat (NTB)"
+    },
+    "kabupaten": {
+        "code": "5204",
+        "name": "Sumbawa"
+    },
+    "kecamatan": {
+        "code": "520412",
+        "name": "Lape (Lape Lopok)"
+    }
+}

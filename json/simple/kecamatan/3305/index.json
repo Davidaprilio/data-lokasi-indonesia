@@ -1,0 +1,184 @@
+[
+    {
+        "code": "330515",
+        "name": "Adimulyo",
+        "count": {
+            "desa": 23
+        }
+    },
+    {
+        "code": "330511",
+        "name": "Alian/Aliyan",
+        "count": {
+            "desa": 16
+        }
+    },
+    {
+        "code": "330507",
+        "name": "Ambal",
+        "count": {
+            "desa": 32
+        }
+    },
+    {
+        "code": "330501",
+        "name": "Ayah",
+        "count": {
+            "desa": 18
+        }
+    },
+    {
+        "code": "330523",
+        "name": "Bonorowo",
+        "count": {
+            "desa": 11
+        }
+    },
+    {
+        "code": "330502",
+        "name": "Buayan",
+        "count": {
+            "desa": 20
+        }
+    },
+    {
+        "code": "330506",
+        "name": "Buluspesantren",
+        "count": {
+            "desa": 21
+        }
+    },
+    {
+        "code": "330519",
+        "name": "Gombong",
+        "count": {
+            "desa": 14
+        }
+    },
+    {
+        "code": "330520",
+        "name": "Karanganyar",
+        "count": {
+            "desa": 11
+        }
+    },
+    {
+        "code": "330521",
+        "name": "Karanggayam",
+        "count": {
+            "desa": 19
+        }
+    },
+    {
+        "code": "330526",
+        "name": "Karangsambung",
+        "count": {
+            "desa": 14
+        }
+    },
+    {
+        "code": "330512",
+        "name": "Kebumen",
+        "count": {
+            "desa": 29
+        }
+    },
+    {
+        "code": "330505",
+        "name": "Klirong",
+        "count": {
+            "desa": 24
+        }
+    },
+    {
+        "code": "330510",
+        "name": "Kutowinangun",
+        "count": {
+            "desa": 19
+        }
+    },
+    {
+        "code": "330516",
+        "name": "Kuwarasan",
+        "count": {
+            "desa": 22
+        }
+    },
+    {
+        "code": "330508",
+        "name": "Mirit",
+        "count": {
+            "desa": 22
+        }
+    },
+    {
+        "code": "330524",
+        "name": "Padureso",
+        "count": {
+            "desa": 9
+        }
+    },
+    {
+        "code": "330513",
+        "name": "Pejagoan",
+        "count": {
+            "desa": 13
+        }
+    },
+    {
+        "code": "330504",
+        "name": "Petanahan",
+        "count": {
+            "desa": 21
+        }
+    },
+    {
+        "code": "330525",
+        "name": "Poncowarno",
+        "count": {
+            "desa": 11
+        }
+    },
+    {
+        "code": "330509",
+        "name": "Prembun",
+        "count": {
+            "desa": 13
+        }
+    },
+    {
+        "code": "330503",
+        "name": "Puring",
+        "count": {
+            "desa": 23
+        }
+    },
+    {
+        "code": "330517",
+        "name": "Rowokele",
+        "count": {
+            "desa": 11
+        }
+    },
+    {
+        "code": "330522",
+        "name": "Sadang",
+        "count": {
+            "desa": 7
+        }
+    },
+    {
+        "code": "330518",
+        "name": "Sempor",
+        "count": {
+            "desa": 16
+        }
+    },
+    {
+        "code": "330514",
+        "name": "Sruweng",
+        "count": {
+            "desa": 21
+        }
+    }
+]

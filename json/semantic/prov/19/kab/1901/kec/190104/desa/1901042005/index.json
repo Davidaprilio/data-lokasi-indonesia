@@ -1,0 +1,17 @@
+{
+    "code": "1901042005",
+    "name": "Paya Benua (Payabenua)",
+    "poscode": "33173",
+    "provinsi": {
+        "code": "19",
+        "name": "Kepulauan Bangka Belitung"
+    },
+    "kabupaten": {
+        "code": "1901",
+        "name": "Bangka"
+    },
+    "kecamatan": {
+        "code": "190104",
+        "name": "Mendo Barat"
+    }
+}

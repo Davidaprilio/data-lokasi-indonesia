@@ -1,0 +1,17 @@
+{
+    "code": "1116022043",
+    "name": "Kuala Penaga",
+    "poscode": "24470",
+    "provinsi": {
+        "code": "11",
+        "name": "Aceh (NAD)"
+    },
+    "kabupaten": {
+        "code": "1116",
+        "name": "Aceh Tamiang"
+    },
+    "kecamatan": {
+        "code": "111602",
+        "name": "Bendahara"
+    }
+}

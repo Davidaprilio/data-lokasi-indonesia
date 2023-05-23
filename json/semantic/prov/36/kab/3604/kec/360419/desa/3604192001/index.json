@@ -1,0 +1,17 @@
+{
+    "code": "3604192001",
+    "name": "Petir",
+    "poscode": "42172",
+    "provinsi": {
+        "code": "36",
+        "name": "Banten"
+    },
+    "kabupaten": {
+        "code": "3604",
+        "name": "Serang"
+    },
+    "kecamatan": {
+        "code": "360419",
+        "name": "Petir"
+    }
+}

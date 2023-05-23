@@ -1,0 +1,17 @@
+{
+    "code": "6172051001",
+    "name": "Sedau",
+    "poscode": "79163",
+    "provinsi": {
+        "code": "61",
+        "name": "Kalimantan Barat"
+    },
+    "kabupaten": {
+        "code": "6172",
+        "name": "Singkawang"
+    },
+    "kecamatan": {
+        "code": "617205",
+        "name": "Singkawang Selatan"
+    }
+}

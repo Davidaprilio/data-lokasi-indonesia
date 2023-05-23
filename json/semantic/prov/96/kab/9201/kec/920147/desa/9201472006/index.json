@@ -1,0 +1,17 @@
+{
+    "code": "9201472006",
+    "name": "Klahen",
+    "poscode": "98434",
+    "provinsi": {
+        "code": "96",
+        "name": "Papua Barat Daya"
+    },
+    "kabupaten": {
+        "code": "9201",
+        "name": "Sorong"
+    },
+    "kecamatan": {
+        "code": "920147",
+        "name": "Buk"
+    }
+}

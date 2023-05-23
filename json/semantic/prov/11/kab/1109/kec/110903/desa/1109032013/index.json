@@ -1,0 +1,17 @@
+{
+    "code": "1109032013",
+    "name": "Lantik",
+    "poscode": "23897",
+    "provinsi": {
+        "code": "11",
+        "name": "Aceh (NAD)"
+    },
+    "kabupaten": {
+        "code": "1109",
+        "name": "Simeulue"
+    },
+    "kecamatan": {
+        "code": "110903",
+        "name": "Teupah Barat"
+    }
+}

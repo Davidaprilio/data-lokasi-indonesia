@@ -1,0 +1,17 @@
+{
+    "code": "6101012004",
+    "name": "Pendawan",
+    "poscode": "79460",
+    "provinsi": {
+        "code": "61",
+        "name": "Kalimantan Barat"
+    },
+    "kabupaten": {
+        "code": "6101",
+        "name": "Sambas"
+    },
+    "kecamatan": {
+        "code": "610101",
+        "name": "Sambas"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "1117052022",
+    "name": "Tingkem Bersatu",
+    "poscode": "24581",
+    "provinsi": {
+        "code": "11",
+        "name": "Aceh (NAD)"
+    },
+    "kabupaten": {
+        "code": "1117",
+        "name": "Bener Meriah"
+    },
+    "kecamatan": {
+        "code": "111705",
+        "name": "Bukit"
+    }
+}

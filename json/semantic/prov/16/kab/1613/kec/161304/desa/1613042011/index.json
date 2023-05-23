@@ -1,0 +1,17 @@
+{
+    "code": "1613042011",
+    "name": "Pauh I",
+    "poscode": "31655",
+    "provinsi": {
+        "code": "16",
+        "name": "Sumatera Selatan"
+    },
+    "kabupaten": {
+        "code": "1613",
+        "name": "Musi Rawas Utara"
+    },
+    "kecamatan": {
+        "code": "161304",
+        "name": "Rawas Ilir"
+    }
+}

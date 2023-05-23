@@ -1,0 +1,17 @@
+{
+    "code": "9105052003",
+    "name": "Serewen",
+    "poscode": "98652",
+    "provinsi": {
+        "code": "91",
+        "name": "Papua"
+    },
+    "kabupaten": {
+        "code": "9105",
+        "name": "Kepulauan Yapen"
+    },
+    "kecamatan": {
+        "code": "910505",
+        "name": "Poom"
+    }
+}

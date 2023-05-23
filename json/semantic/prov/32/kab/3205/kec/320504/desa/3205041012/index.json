@@ -1,0 +1,17 @@
+{
+    "code": "3205041012",
+    "name": "Pananjung",
+    "poscode": "44151",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3205",
+        "name": "Garut"
+    },
+    "kecamatan": {
+        "code": "320504",
+        "name": "Tarogong Kaler"
+    }
+}

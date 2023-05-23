@@ -1,0 +1,17 @@
+{
+    "code": "7203272001",
+    "name": "Powelua",
+    "poscode": "94341",
+    "provinsi": {
+        "code": "72",
+        "name": "Sulawesi Tengah"
+    },
+    "kabupaten": {
+        "code": "7203",
+        "name": "Donggala"
+    },
+    "kecamatan": {
+        "code": "720327",
+        "name": "Banawa Tengah"
+    }
+}

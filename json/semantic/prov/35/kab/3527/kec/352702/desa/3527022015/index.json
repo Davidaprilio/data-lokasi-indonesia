@@ -1,0 +1,17 @@
+{
+    "code": "3527022015",
+    "name": "Kodak",
+    "poscode": "69270",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3527",
+        "name": "Sampang"
+    },
+    "kecamatan": {
+        "code": "352702",
+        "name": "Torjun"
+    }
+}

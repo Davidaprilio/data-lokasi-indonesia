@@ -1,0 +1,17 @@
+{
+    "code": "2102041002",
+    "name": "Baran Barat",
+    "poscode": "29666",
+    "provinsi": {
+        "code": "21",
+        "name": "Kepulauan Riau"
+    },
+    "kabupaten": {
+        "code": "2102",
+        "name": "Karimun"
+    },
+    "kecamatan": {
+        "code": "210204",
+        "name": "Meral"
+    }
+}

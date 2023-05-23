@@ -1,0 +1,17 @@
+{
+    "code": "9105102009",
+    "name": "Mambawi",
+    "poscode": "98653",
+    "provinsi": {
+        "code": "91",
+        "name": "Papua"
+    },
+    "kabupaten": {
+        "code": "9105",
+        "name": "Kepulauan Yapen"
+    },
+    "kecamatan": {
+        "code": "910510",
+        "name": "Kepulauan Ambai"
+    }
+}

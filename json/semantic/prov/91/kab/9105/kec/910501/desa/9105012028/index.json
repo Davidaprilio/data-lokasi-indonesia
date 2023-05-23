@@ -1,0 +1,17 @@
+{
+    "code": "9105012028",
+    "name": "Nundawipi",
+    "poscode": "98624",
+    "provinsi": {
+        "code": "91",
+        "name": "Papua"
+    },
+    "kabupaten": {
+        "code": "9105",
+        "name": "Kepulauan Yapen"
+    },
+    "kecamatan": {
+        "code": "910501",
+        "name": "Yapen Selatan"
+    }
+}

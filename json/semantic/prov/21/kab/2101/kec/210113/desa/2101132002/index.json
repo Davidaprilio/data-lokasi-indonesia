@@ -1,0 +1,17 @@
+{
+    "code": "2101132002",
+    "name": "Mantang Besar",
+    "poscode": "29156",
+    "provinsi": {
+        "code": "21",
+        "name": "Kepulauan Riau"
+    },
+    "kabupaten": {
+        "code": "2101",
+        "name": "Bintan"
+    },
+    "kecamatan": {
+        "code": "210113",
+        "name": "Mantang"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "code": "3371",
+    "type": "Kota",
+    "name": "Magelang",
+    "fullname": "Kota Magelang",
+    "jumlah": {
+        "kecamatan": 3,
+        "desa": 17
+    }
+}

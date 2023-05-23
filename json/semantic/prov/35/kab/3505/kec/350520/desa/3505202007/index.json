@@ -1,0 +1,17 @@
+{
+    "code": "3505202007",
+    "name": "Wates",
+    "poscode": "66194",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3505",
+        "name": "Blitar"
+    },
+    "kecamatan": {
+        "code": "350520",
+        "name": "Wates"
+    }
+}

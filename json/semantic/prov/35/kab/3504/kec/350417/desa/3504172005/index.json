@@ -1,0 +1,17 @@
+{
+    "code": "3504172005",
+    "name": "Suwaru",
+    "poscode": "66274",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3504",
+        "name": "Tulungagung"
+    },
+    "kecamatan": {
+        "code": "350417",
+        "name": "Bandung"
+    }
+}

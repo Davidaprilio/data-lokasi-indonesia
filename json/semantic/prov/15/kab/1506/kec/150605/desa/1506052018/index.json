@@ -1,0 +1,17 @@
+{
+    "code": "1506052018",
+    "name": "Pinang Gading",
+    "poscode": "36554",
+    "provinsi": {
+        "code": "15",
+        "name": "Jambi"
+    },
+    "kabupaten": {
+        "code": "1506",
+        "name": "Tanjung Jabung Barat"
+    },
+    "kecamatan": {
+        "code": "150605",
+        "name": "Merlung"
+    }
+}

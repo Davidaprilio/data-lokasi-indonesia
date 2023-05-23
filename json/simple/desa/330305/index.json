@@ -1,0 +1,67 @@
+[
+    {
+        "code": "3303051005",
+        "name": "Bancar",
+        "poscode": "53316"
+    },
+    {
+        "code": "3303051001",
+        "name": "Bojong",
+        "poscode": "53319"
+    },
+    {
+        "code": "3303052004",
+        "name": "Jatisaba",
+        "poscode": "53316"
+    },
+    {
+        "code": "3303051009",
+        "name": "Kandanggampang (Kandang Gampang)",
+        "poscode": "53319"
+    },
+    {
+        "code": "3303051003",
+        "name": "Kedungmenjangan (Kedung Menjangan)",
+        "poscode": "53315"
+    },
+    {
+        "code": "3303051012",
+        "name": "Kembaran Kulon",
+        "poscode": "53319"
+    },
+    {
+        "code": "3303051007",
+        "name": "Penambongan",
+        "poscode": "53314"
+    },
+    {
+        "code": "3303051008",
+        "name": "Purbalingga Kidul",
+        "poscode": "53313"
+    },
+    {
+        "code": "3303051010",
+        "name": "Purbalingga Kulon",
+        "poscode": "53312"
+    },
+    {
+        "code": "3303051011",
+        "name": "Purbalingga Lor",
+        "poscode": "53311"
+    },
+    {
+        "code": "3303051006",
+        "name": "Purbalingga Wetan",
+        "poscode": "53317"
+    },
+    {
+        "code": "3303052002",
+        "name": "Toyareja",
+        "poscode": "53315"
+    },
+    {
+        "code": "3303051013",
+        "name": "Wirasana",
+        "poscode": "53318"
+    }
+]

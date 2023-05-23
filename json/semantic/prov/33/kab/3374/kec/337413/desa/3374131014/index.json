@@ -1,0 +1,17 @@
+{
+    "code": "3374131014",
+    "name": "Tawangsari",
+    "poscode": "50144",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3374",
+        "name": "Semarang"
+    },
+    "kecamatan": {
+        "code": "337413",
+        "name": "Semarang Barat"
+    }
+}

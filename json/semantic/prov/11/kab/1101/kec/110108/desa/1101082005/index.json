@@ -1,0 +1,17 @@
+{
+    "code": "1101082005",
+    "name": "Jambo Apha",
+    "poscode": "23716",
+    "provinsi": {
+        "code": "11",
+        "name": "Aceh (NAD)"
+    },
+    "kabupaten": {
+        "code": "1101",
+        "name": "Aceh Selatan"
+    },
+    "kecamatan": {
+        "code": "110108",
+        "name": "Tapaktuan (Tapak Tuan)"
+    }
+}

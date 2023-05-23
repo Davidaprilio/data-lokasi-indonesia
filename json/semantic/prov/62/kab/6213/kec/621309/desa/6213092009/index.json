@@ -1,0 +1,17 @@
+{
+    "code": "6213092009",
+    "name": "Gandrung",
+    "poscode": "73654",
+    "provinsi": {
+        "code": "62",
+        "name": "Kalimantan Tengah"
+    },
+    "kabupaten": {
+        "code": "6213",
+        "name": "Barito Timur"
+    },
+    "kecamatan": {
+        "code": "621309",
+        "name": "Paku"
+    }
+}

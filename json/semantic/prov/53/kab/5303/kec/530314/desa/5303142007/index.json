@@ -1,0 +1,17 @@
+{
+    "code": "5303142007",
+    "name": "Maurisu Utara",
+    "poscode": "85650",
+    "provinsi": {
+        "code": "53",
+        "name": "Nusa Tenggara Timur (NTT)"
+    },
+    "kabupaten": {
+        "code": "5303",
+        "name": "Timor Tengah Utara"
+    },
+    "kecamatan": {
+        "code": "530314",
+        "name": "Bikomi Selatan"
+    }
+}

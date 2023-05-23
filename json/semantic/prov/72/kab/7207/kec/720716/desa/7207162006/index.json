@@ -1,0 +1,17 @@
+{
+    "code": "7207162006",
+    "name": "Tombos",
+    "poscode": "94888",
+    "provinsi": {
+        "code": "72",
+        "name": "Sulawesi Tengah"
+    },
+    "kabupaten": {
+        "code": "7207",
+        "name": "Banggai Kepulauan"
+    },
+    "kecamatan": {
+        "code": "720716",
+        "name": "Peling Tengah"
+    }
+}

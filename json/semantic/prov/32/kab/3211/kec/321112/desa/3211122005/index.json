@@ -1,0 +1,17 @@
+{
+    "code": "3211122005",
+    "name": "Mekarsari",
+    "poscode": "45366",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3211",
+        "name": "Sumedang"
+    },
+    "kecamatan": {
+        "code": "321112",
+        "name": "Sukasari"
+    }
+}

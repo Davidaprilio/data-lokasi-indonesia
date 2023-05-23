@@ -1,0 +1,17 @@
+{
+    "code": "3275031003",
+    "name": "Harapanbaru (Harapan Baru)",
+    "poscode": "17123",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3275",
+        "name": "Bekasi"
+    },
+    "kecamatan": {
+        "code": "327503",
+        "name": "Bekasi Utara"
+    }
+}

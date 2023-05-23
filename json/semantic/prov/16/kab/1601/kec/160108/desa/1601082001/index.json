@@ -1,0 +1,17 @@
+{
+    "code": "1601082001",
+    "name": "Gunung Meraksa",
+    "poscode": "32154",
+    "provinsi": {
+        "code": "16",
+        "name": "Sumatera Selatan"
+    },
+    "kabupaten": {
+        "code": "1601",
+        "name": "Ogan Komering Ulu"
+    },
+    "kecamatan": {
+        "code": "160108",
+        "name": "Pengandonan"
+    }
+}

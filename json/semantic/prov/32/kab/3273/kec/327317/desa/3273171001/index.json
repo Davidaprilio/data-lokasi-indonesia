@@ -1,0 +1,17 @@
+{
+    "code": "3273171001",
+    "name": "Situsaeur",
+    "poscode": "40234",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3273",
+        "name": "Bandung"
+    },
+    "kecamatan": {
+        "code": "327317",
+        "name": "Bojongloa Kidul"
+    }
+}

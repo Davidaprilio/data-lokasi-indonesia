@@ -1,0 +1,17 @@
+{
+    "code": "3308192014",
+    "name": "Klopo",
+    "poscode": "56192",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3308",
+        "name": "Magelang"
+    },
+    "kecamatan": {
+        "code": "330819",
+        "name": "Tegalrejo"
+    }
+}

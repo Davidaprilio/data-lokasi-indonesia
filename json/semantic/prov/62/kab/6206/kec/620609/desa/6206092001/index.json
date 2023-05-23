@@ -1,0 +1,17 @@
+{
+    "code": "6206092001",
+    "name": "Mendawai",
+    "poscode": "74464",
+    "provinsi": {
+        "code": "62",
+        "name": "Kalimantan Tengah"
+    },
+    "kabupaten": {
+        "code": "6206",
+        "name": "Katingan"
+    },
+    "kecamatan": {
+        "code": "620609",
+        "name": "Mendawai"
+    }
+}

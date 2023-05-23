@@ -1,0 +1,17 @@
+{
+    "code": "6401042002",
+    "name": "Janju",
+    "poscode": "76251",
+    "provinsi": {
+        "code": "64",
+        "name": "Kalimantan Timur"
+    },
+    "kabupaten": {
+        "code": "6401",
+        "name": "Paser"
+    },
+    "kecamatan": {
+        "code": "640104",
+        "name": "Tanah Grogot"
+    }
+}

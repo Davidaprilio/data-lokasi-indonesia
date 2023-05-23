@@ -1,0 +1,17 @@
+{
+    "code": "1508152004",
+    "name": "Pulau Kerakap",
+    "poscode": "37254",
+    "provinsi": {
+        "code": "15",
+        "name": "Jambi"
+    },
+    "kabupaten": {
+        "code": "1508",
+        "name": "Bungo"
+    },
+    "kecamatan": {
+        "code": "150815",
+        "name": "Bathin II Pelayang"
+    }
+}

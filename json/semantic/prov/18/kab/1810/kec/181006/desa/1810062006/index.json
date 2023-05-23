@@ -1,0 +1,17 @@
+{
+    "code": "1810062006",
+    "name": "Waya Krui",
+    "poscode": "35373",
+    "provinsi": {
+        "code": "18",
+        "name": "Lampung"
+    },
+    "kabupaten": {
+        "code": "1810",
+        "name": "Pringsewu"
+    },
+    "kecamatan": {
+        "code": "181006",
+        "name": "Banyumas"
+    }
+}

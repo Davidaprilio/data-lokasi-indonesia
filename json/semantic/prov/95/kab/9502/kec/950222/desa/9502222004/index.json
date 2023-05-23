@@ -1,0 +1,17 @@
+{
+    "code": "9502222004",
+    "name": "Okbumul",
+    "poscode": "99425",
+    "provinsi": {
+        "code": "95",
+        "name": "Papua Pegunungan"
+    },
+    "kabupaten": {
+        "code": "9502",
+        "name": "Pegunungan Bintang"
+    },
+    "kecamatan": {
+        "code": "950222",
+        "name": "Oklip"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "1503082013",
+    "name": "Muaralati",
+    "poscode": "37480",
+    "provinsi": {
+        "code": "15",
+        "name": "Jambi"
+    },
+    "kabupaten": {
+        "code": "1503",
+        "name": "Sarolangun"
+    },
+    "kecamatan": {
+        "code": "150308",
+        "name": "Bathin VIII (Batin VIII)"
+    }
+}

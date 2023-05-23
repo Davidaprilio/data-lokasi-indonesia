@@ -1,0 +1,17 @@
+{
+    "code": "1107292001",
+    "name": "U Bungkok (U Bangkok)",
+    "poscode": "24180",
+    "provinsi": {
+        "code": "11",
+        "name": "Aceh (NAD)"
+    },
+    "kabupaten": {
+        "code": "1107",
+        "name": "Pidie"
+    },
+    "kecamatan": {
+        "code": "110729",
+        "name": "Glumpang Baro"
+    }
+}

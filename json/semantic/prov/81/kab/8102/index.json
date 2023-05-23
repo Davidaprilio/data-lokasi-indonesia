@@ -1,0 +1,10 @@
+{
+    "code": "8102",
+    "type": "Kabupaten",
+    "name": "Maluku Tenggara",
+    "fullname": "Kabupaten Maluku Tenggara",
+    "jumlah": {
+        "kecamatan": 11,
+        "desa": 191
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "1671171005",
+    "name": "Tuan Kentang",
+    "poscode": "30251",
+    "provinsi": {
+        "code": "16",
+        "name": "Sumatera Selatan"
+    },
+    "kabupaten": {
+        "code": "1671",
+        "name": "Palembang"
+    },
+    "kecamatan": {
+        "code": "167117",
+        "name": "Jakabaring"
+    }
+}

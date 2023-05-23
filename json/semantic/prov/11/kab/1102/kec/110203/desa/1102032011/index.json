@@ -1,0 +1,17 @@
+{
+    "code": "1102032011",
+    "name": "Biak Muli",
+    "poscode": "24672",
+    "provinsi": {
+        "code": "11",
+        "name": "Aceh (NAD)"
+    },
+    "kabupaten": {
+        "code": "1102",
+        "name": "Aceh Tenggara"
+    },
+    "kecamatan": {
+        "code": "110203",
+        "name": "Bambel"
+    }
+}

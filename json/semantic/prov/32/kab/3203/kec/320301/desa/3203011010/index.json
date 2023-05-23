@@ -1,0 +1,17 @@
+{
+    "code": "3203011010",
+    "name": "Solokpandan",
+    "poscode": "43214",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3203",
+        "name": "Cianjur"
+    },
+    "kecamatan": {
+        "code": "320301",
+        "name": "Cianjur"
+    }
+}

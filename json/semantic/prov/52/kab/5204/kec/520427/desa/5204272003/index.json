@@ -1,0 +1,17 @@
+{
+    "code": "5204272003",
+    "name": "Ledang",
+    "poscode": "84370",
+    "provinsi": {
+        "code": "52",
+        "name": "Nusa Tenggara Barat (NTB)"
+    },
+    "kabupaten": {
+        "code": "5204",
+        "name": "Sumbawa"
+    },
+    "kecamatan": {
+        "code": "520427",
+        "name": "Lenangguar"
+    }
+}

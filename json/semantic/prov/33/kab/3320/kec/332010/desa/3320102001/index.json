@@ -1,0 +1,17 @@
+{
+    "code": "3320102001",
+    "name": "Karimunjawa",
+    "poscode": "59455",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3320",
+        "name": "Jepara"
+    },
+    "kecamatan": {
+        "code": "332010",
+        "name": "Karimun Jawa (Karimunjawa)"
+    }
+}

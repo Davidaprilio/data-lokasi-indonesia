@@ -1,0 +1,17 @@
+{
+    "code": "9201012004",
+    "name": "Malaumkarta",
+    "poscode": "98452",
+    "provinsi": {
+        "code": "96",
+        "name": "Papua Barat Daya"
+    },
+    "kabupaten": {
+        "code": "9201",
+        "name": "Sorong"
+    },
+    "kecamatan": {
+        "code": "920101",
+        "name": "Makbon"
+    }
+}

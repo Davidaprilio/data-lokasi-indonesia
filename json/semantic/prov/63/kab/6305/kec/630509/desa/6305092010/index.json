@@ -1,0 +1,17 @@
+{
+    "code": "6305092010",
+    "name": "Timbung",
+    "poscode": "71153",
+    "provinsi": {
+        "code": "63",
+        "name": "Kalimantan Selatan"
+    },
+    "kabupaten": {
+        "code": "6305",
+        "name": "Tapin"
+    },
+    "kecamatan": {
+        "code": "630509",
+        "name": "Bungur"
+    }
+}

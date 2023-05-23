@@ -1,0 +1,17 @@
+{
+    "code": "5301181002",
+    "name": "Sonraen",
+    "poscode": "85377",
+    "provinsi": {
+        "code": "53",
+        "name": "Nusa Tenggara Timur (NTT)"
+    },
+    "kabupaten": {
+        "code": "5301",
+        "name": "Kupang"
+    },
+    "kecamatan": {
+        "code": "530118",
+        "name": "Amarasi Selatan"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "7303032002",
+    "name": "Lonrong",
+    "poscode": "92415",
+    "provinsi": {
+        "code": "73",
+        "name": "Sulawesi Selatan"
+    },
+    "kabupaten": {
+        "code": "7303",
+        "name": "Bantaeng"
+    },
+    "kecamatan": {
+        "code": "730303",
+        "name": "Eremerasa"
+    }
+}

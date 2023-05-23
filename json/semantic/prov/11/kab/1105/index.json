@@ -1,0 +1,10 @@
+{
+    "code": "1105",
+    "type": "Kabupaten",
+    "name": "Aceh Barat",
+    "fullname": "Kabupaten Aceh Barat",
+    "jumlah": {
+        "kecamatan": 12,
+        "desa": 322
+    }
+}

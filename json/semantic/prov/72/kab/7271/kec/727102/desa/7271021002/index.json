@@ -1,0 +1,17 @@
+{
+    "code": "7271021002",
+    "name": "Ujuna",
+    "poscode": "94222",
+    "provinsi": {
+        "code": "72",
+        "name": "Sulawesi Tengah"
+    },
+    "kabupaten": {
+        "code": "7271",
+        "name": "Palu"
+    },
+    "kecamatan": {
+        "code": "727102",
+        "name": "Palu Barat"
+    }
+}

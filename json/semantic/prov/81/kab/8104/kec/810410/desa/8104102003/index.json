@@ -1,0 +1,17 @@
+{
+    "code": "8104102003",
+    "name": "Pela",
+    "poscode": "97574",
+    "provinsi": {
+        "code": "81",
+        "name": "Maluku"
+    },
+    "kabupaten": {
+        "code": "8104",
+        "name": "Buru"
+    },
+    "kecamatan": {
+        "code": "810410",
+        "name": "Batabual"
+    }
+}

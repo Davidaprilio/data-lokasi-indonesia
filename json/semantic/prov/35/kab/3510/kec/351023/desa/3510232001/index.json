@@ -1,0 +1,17 @@
+{
+    "code": "3510232001",
+    "name": "Tegalsari",
+    "poscode": "68485",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3510",
+        "name": "Banyuwangi"
+    },
+    "kecamatan": {
+        "code": "351023",
+        "name": "Tegalsari"
+    }
+}

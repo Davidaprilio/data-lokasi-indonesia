@@ -1,0 +1,17 @@
+{
+    "code": "1502082003",
+    "name": "Muara Delang",
+    "poscode": "37354",
+    "provinsi": {
+        "code": "15",
+        "name": "Jambi"
+    },
+    "kabupaten": {
+        "code": "1502",
+        "name": "Merangin"
+    },
+    "kecamatan": {
+        "code": "150208",
+        "name": "Tabir Selatan"
+    }
+}

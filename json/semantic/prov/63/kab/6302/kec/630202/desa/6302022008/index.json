@@ -1,0 +1,17 @@
+{
+    "code": "6302022008",
+    "name": "Sepagar",
+    "poscode": "72153",
+    "provinsi": {
+        "code": "63",
+        "name": "Kalimantan Selatan"
+    },
+    "kabupaten": {
+        "code": "6302",
+        "name": "Kotabaru"
+    },
+    "kecamatan": {
+        "code": "630202",
+        "name": "Pulau Laut / Pulaulaut Barat"
+    }
+}

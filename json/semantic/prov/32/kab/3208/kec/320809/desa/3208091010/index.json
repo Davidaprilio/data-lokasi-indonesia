@@ -1,0 +1,17 @@
+{
+    "code": "3208091010",
+    "name": "Awirarangan",
+    "poscode": "45511",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3208",
+        "name": "Kuningan"
+    },
+    "kecamatan": {
+        "code": "320809",
+        "name": "Kuningan"
+    }
+}

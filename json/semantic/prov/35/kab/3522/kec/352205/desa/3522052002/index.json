@@ -1,0 +1,17 @@
+{
+    "code": "3522052002",
+    "name": "Cancung",
+    "poscode": "62172",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3522",
+        "name": "Bojonegoro"
+    },
+    "kecamatan": {
+        "code": "352205",
+        "name": "Bubulan"
+    }
+}

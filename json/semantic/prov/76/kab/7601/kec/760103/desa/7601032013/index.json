@@ -1,0 +1,17 @@
+{
+    "code": "7601032013",
+    "name": "Towoni (Toroni)",
+    "poscode": "91572",
+    "provinsi": {
+        "code": "76",
+        "name": "Sulawesi Barat"
+    },
+    "kabupaten": {
+        "code": "7601",
+        "name": "Pasangkayu (Mamuju Utara)"
+    },
+    "kecamatan": {
+        "code": "760103",
+        "name": "Baras"
+    }
+}

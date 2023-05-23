@@ -1,0 +1,17 @@
+{
+    "code": "6401062004",
+    "name": "Tajur",
+    "poscode": "76282",
+    "provinsi": {
+        "code": "64",
+        "name": "Kalimantan Timur"
+    },
+    "kabupaten": {
+        "code": "6401",
+        "name": "Paser"
+    },
+    "kecamatan": {
+        "code": "640106",
+        "name": "Long Ikis"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "9209132010",
+    "name": "Wertim",
+    "poscode": "98365",
+    "provinsi": {
+        "code": "96",
+        "name": "Papua Barat Daya"
+    },
+    "kabupaten": {
+        "code": "9209",
+        "name": "Tambrauw"
+    },
+    "kecamatan": {
+        "code": "920913",
+        "name": "Bikar"
+    }
+}

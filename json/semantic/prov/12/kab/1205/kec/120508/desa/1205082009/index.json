@@ -1,0 +1,17 @@
+{
+    "code": "1205082009",
+    "name": "Sumber Mulyo",
+    "poscode": "20851",
+    "provinsi": {
+        "code": "12",
+        "name": "Sumatera Utara"
+    },
+    "kabupaten": {
+        "code": "1205",
+        "name": "Langkat"
+    },
+    "kecamatan": {
+        "code": "120508",
+        "name": "Wampu"
+    }
+}

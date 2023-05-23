@@ -1,0 +1,17 @@
+{
+    "code": "1277052006",
+    "name": "Sigulang",
+    "poscode": "22730",
+    "provinsi": {
+        "code": "12",
+        "name": "Sumatera Utara"
+    },
+    "kabupaten": {
+        "code": "1277",
+        "name": "Padangsidimpuan"
+    },
+    "kecamatan": {
+        "code": "127705",
+        "name": "Padangsidimpuan Tenggara"
+    }
+}

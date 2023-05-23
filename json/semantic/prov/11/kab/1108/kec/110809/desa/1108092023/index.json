@@ -1,0 +1,17 @@
+{
+    "code": "1108092023",
+    "name": "Ulee Rubek Barat",
+    "poscode": "24393",
+    "provinsi": {
+        "code": "11",
+        "name": "Aceh (NAD)"
+    },
+    "kabupaten": {
+        "code": "1108",
+        "name": "Aceh Utara"
+    },
+    "kecamatan": {
+        "code": "110809",
+        "name": "Seunuddon (Seunudon)"
+    }
+}

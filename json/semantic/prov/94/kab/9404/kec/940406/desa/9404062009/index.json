@@ -1,0 +1,17 @@
+{
+    "code": "9404062009",
+    "name": "Bunaraugin",
+    "poscode": "99961",
+    "provinsi": {
+        "code": "94",
+        "name": "Papua Tengah"
+    },
+    "kabupaten": {
+        "code": "9404",
+        "name": "Mimika"
+    },
+    "kecamatan": {
+        "code": "940406",
+        "name": "Jila"
+    }
+}

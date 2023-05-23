@@ -1,0 +1,17 @@
+{
+    "code": "3208072020",
+    "name": "Pagundan",
+    "poscode": "45574",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3208",
+        "name": "Kuningan"
+    },
+    "kecamatan": {
+        "code": "320807",
+        "name": "Lebakwangi"
+    }
+}

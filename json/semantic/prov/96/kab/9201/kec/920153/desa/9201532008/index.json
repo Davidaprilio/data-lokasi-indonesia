@@ -1,0 +1,17 @@
+{
+    "code": "9201532008",
+    "name": "Durian Kari",
+    "poscode": "98425",
+    "provinsi": {
+        "code": "96",
+        "name": "Papua Barat Daya"
+    },
+    "kabupaten": {
+        "code": "9201",
+        "name": "Sorong"
+    },
+    "kecamatan": {
+        "code": "920153",
+        "name": "Salawati Tengah"
+    }
+}

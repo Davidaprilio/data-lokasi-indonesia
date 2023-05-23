@@ -1,0 +1,17 @@
+{
+    "code": "3210122010",
+    "name": "Mandapa",
+    "poscode": "45453",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3210",
+        "name": "Majalengka"
+    },
+    "kecamatan": {
+        "code": "321012",
+        "name": "Dawuan"
+    }
+}

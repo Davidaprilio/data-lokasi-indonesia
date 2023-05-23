@@ -1,0 +1,17 @@
+{
+    "code": "3602162012",
+    "name": "Ciapus",
+    "poscode": "42397",
+    "provinsi": {
+        "code": "36",
+        "name": "Banten"
+    },
+    "kabupaten": {
+        "code": "3602",
+        "name": "Lebak"
+    },
+    "kecamatan": {
+        "code": "360216",
+        "name": "Cijaku"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "3321052003",
+    "name": "Pulosari",
+    "poscode": "59561",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3321",
+        "name": "Demak"
+    },
+    "kecamatan": {
+        "code": "332105",
+        "name": "Karangtengah (Karang Tengah)"
+    }
+}

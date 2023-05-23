@@ -1,0 +1,17 @@
+{
+    "code": "6310092005",
+    "name": "Angsana",
+    "poscode": "72275",
+    "provinsi": {
+        "code": "63",
+        "name": "Kalimantan Selatan"
+    },
+    "kabupaten": {
+        "code": "6310",
+        "name": "Tanah Bumbu"
+    },
+    "kecamatan": {
+        "code": "631009",
+        "name": "Angsana"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "6408182003",
+    "name": "Mukti Utama",
+    "poscode": "75656",
+    "provinsi": {
+        "code": "64",
+        "name": "Kalimantan Timur"
+    },
+    "kabupaten": {
+        "code": "6408",
+        "name": "Kutai Timur"
+    },
+    "kecamatan": {
+        "code": "640818",
+        "name": "Long Mesangat"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "9404052005",
+    "name": "Sumapro",
+    "poscode": "99965",
+    "provinsi": {
+        "code": "94",
+        "name": "Papua Tengah"
+    },
+    "kabupaten": {
+        "code": "9404",
+        "name": "Mimika"
+    },
+    "kecamatan": {
+        "code": "940405",
+        "name": "Jita"
+    }
+}

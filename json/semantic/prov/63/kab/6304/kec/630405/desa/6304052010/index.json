@@ -1,0 +1,17 @@
+{
+    "code": "6304052010",
+    "name": "Sei/Sungai Pitung",
+    "poscode": "70582",
+    "provinsi": {
+        "code": "63",
+        "name": "Kalimantan Selatan"
+    },
+    "kabupaten": {
+        "code": "6304",
+        "name": "Barito Kuala"
+    },
+    "kecamatan": {
+        "code": "630405",
+        "name": "Alalak"
+    }
+}

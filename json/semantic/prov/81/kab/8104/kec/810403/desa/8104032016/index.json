@@ -1,0 +1,17 @@
+{
+    "code": "8104032016",
+    "name": "Waekerta",
+    "poscode": "97578",
+    "provinsi": {
+        "code": "81",
+        "name": "Maluku"
+    },
+    "kabupaten": {
+        "code": "8104",
+        "name": "Buru"
+    },
+    "kecamatan": {
+        "code": "810403",
+        "name": "Waeapo"
+    }
+}

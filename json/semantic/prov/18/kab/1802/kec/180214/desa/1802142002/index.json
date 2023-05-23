@@ -1,0 +1,17 @@
+{
+    "code": "1802142002",
+    "name": "Sidokerto",
+    "poscode": "34160",
+    "provinsi": {
+        "code": "18",
+        "name": "Lampung"
+    },
+    "kabupaten": {
+        "code": "1802",
+        "name": "Lampung Tengah"
+    },
+    "kecamatan": {
+        "code": "180214",
+        "name": "Bumi Ratu Nuban"
+    }
+}

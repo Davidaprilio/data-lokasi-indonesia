@@ -1,0 +1,17 @@
+{
+    "code": "5321102004",
+    "name": "Alas Selatan",
+    "poscode": "85767",
+    "provinsi": {
+        "code": "53",
+        "name": "Nusa Tenggara Timur (NTT)"
+    },
+    "kabupaten": {
+        "code": "5321",
+        "name": "Malaka"
+    },
+    "kecamatan": {
+        "code": "532110",
+        "name": "Kobalima Timur"
+    }
+}

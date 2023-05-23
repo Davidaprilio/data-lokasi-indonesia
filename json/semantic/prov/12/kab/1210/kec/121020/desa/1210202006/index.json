@@ -1,0 +1,17 @@
+{
+    "code": "1210202006",
+    "name": "Maranti/Meranti Paham",
+    "poscode": "21470",
+    "provinsi": {
+        "code": "12",
+        "name": "Sumatera Utara"
+    },
+    "kabupaten": {
+        "code": "1210",
+        "name": "Labuhanbatu"
+    },
+    "kecamatan": {
+        "code": "121020",
+        "name": "Panai Hulu"
+    }
+}

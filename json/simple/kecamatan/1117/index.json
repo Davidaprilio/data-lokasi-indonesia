@@ -1,0 +1,72 @@
+[
+    {
+        "code": "111704",
+        "name": "Bandar",
+        "count": {
+            "desa": 35
+        }
+    },
+    {
+        "code": "111708",
+        "name": "Bener Kelipah",
+        "count": {
+            "desa": 12
+        }
+    },
+    {
+        "code": "111705",
+        "name": "Bukit",
+        "count": {
+            "desa": 40
+        }
+    },
+    {
+        "code": "111710",
+        "name": "Gajah Putih",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "111709",
+        "name": "Mesidah",
+        "count": {
+            "desa": 15
+        }
+    },
+    {
+        "code": "111702",
+        "name": "Permata",
+        "count": {
+            "desa": 27
+        }
+    },
+    {
+        "code": "111701",
+        "name": "Pintu Rime Gayo",
+        "count": {
+            "desa": 23
+        }
+    },
+    {
+        "code": "111703",
+        "name": "Syiah Utama",
+        "count": {
+            "desa": 14
+        }
+    },
+    {
+        "code": "111707",
+        "name": "Timang Gajah",
+        "count": {
+            "desa": 30
+        }
+    },
+    {
+        "code": "111706",
+        "name": "Wih Pesam",
+        "count": {
+            "desa": 26
+        }
+    }
+]

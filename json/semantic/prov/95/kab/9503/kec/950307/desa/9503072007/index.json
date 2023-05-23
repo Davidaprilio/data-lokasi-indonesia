@@ -1,0 +1,17 @@
+{
+    "code": "9503072007",
+    "name": "Hirin",
+    "poscode": "99710",
+    "provinsi": {
+        "code": "95",
+        "name": "Papua Pegunungan"
+    },
+    "kabupaten": {
+        "code": "9503",
+        "name": "Yahukimo"
+    },
+    "kecamatan": {
+        "code": "950307",
+        "name": "Samenage"
+    }
+}

@@ -1,0 +1,65 @@
+[
+    {
+        "code": "141005",
+        "name": "Merbau",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "141006",
+        "name": "Pulaumerbau",
+        "count": {
+            "desa": 11
+        }
+    },
+    {
+        "code": "141003",
+        "name": "Rangsang",
+        "count": {
+            "desa": 14
+        }
+    },
+    {
+        "code": "141002",
+        "name": "Rangsang Barat",
+        "count": {
+            "desa": 12
+        }
+    },
+    {
+        "code": "141009",
+        "name": "Rangsang Pesisir",
+        "count": {
+            "desa": 11
+        }
+    },
+    {
+        "code": "141008",
+        "name": "Tasik Putri Puyu",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "141001",
+        "name": "Tebing Tinggi",
+        "count": {
+            "desa": 9
+        }
+    },
+    {
+        "code": "141004",
+        "name": "Tebing Tinggi Barat",
+        "count": {
+            "desa": 14
+        }
+    },
+    {
+        "code": "141007",
+        "name": "Tebing Tinggi Timur",
+        "count": {
+            "desa": 10
+        }
+    }
+]

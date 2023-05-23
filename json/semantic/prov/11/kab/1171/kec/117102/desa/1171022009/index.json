@@ -1,0 +1,17 @@
+{
+    "code": "1171022009",
+    "name": "Lamdingin",
+    "poscode": "23127",
+    "provinsi": {
+        "code": "11",
+        "name": "Aceh (NAD)"
+    },
+    "kabupaten": {
+        "code": "1171",
+        "name": "Banda Aceh"
+    },
+    "kecamatan": {
+        "code": "117102",
+        "name": "Kuta Alam"
+    }
+}

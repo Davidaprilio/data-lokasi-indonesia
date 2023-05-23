@@ -1,0 +1,17 @@
+{
+    "code": "3503092003",
+    "name": "Surenlor",
+    "poscode": "66351",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3503",
+        "name": "Trenggalek"
+    },
+    "kecamatan": {
+        "code": "350309",
+        "name": "Bendungan"
+    }
+}

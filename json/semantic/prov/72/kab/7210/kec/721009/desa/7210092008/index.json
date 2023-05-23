@@ -1,0 +1,17 @@
+{
+    "code": "7210092008",
+    "name": "Sambo",
+    "poscode": "94371",
+    "provinsi": {
+        "code": "72",
+        "name": "Sulawesi Tengah"
+    },
+    "kabupaten": {
+        "code": "7210",
+        "name": "Sigi"
+    },
+    "kecamatan": {
+        "code": "721009",
+        "name": "Dolo Selatan"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "3529192001",
+    "name": "Grujugan",
+    "poscode": "69472",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3529",
+        "name": "Sumenep"
+    },
+    "kecamatan": {
+        "code": "352919",
+        "name": "Gapura"
+    }
+}

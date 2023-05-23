@@ -1,0 +1,37 @@
+[
+    {
+        "code": "7171111006",
+        "name": "Dendengan Dalam",
+        "poscode": "95127"
+    },
+    {
+        "code": "7171111007",
+        "name": "Dendengan Luar",
+        "poscode": "95127"
+    },
+    {
+        "code": "7171111002",
+        "name": "Kairagi Weru",
+        "poscode": "95129"
+    },
+    {
+        "code": "7171111005",
+        "name": "Malendeng",
+        "poscode": "95129"
+    },
+    {
+        "code": "7171111003",
+        "name": "Paal Dua",
+        "poscode": "95129"
+    },
+    {
+        "code": "7171111004",
+        "name": "Perkamil",
+        "poscode": "95129"
+    },
+    {
+        "code": "7171111001",
+        "name": "Ranomuut (Ranomut)",
+        "poscode": "95128"
+    }
+]

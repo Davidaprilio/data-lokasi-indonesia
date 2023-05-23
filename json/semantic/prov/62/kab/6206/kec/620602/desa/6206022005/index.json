@@ -1,0 +1,17 @@
+{
+    "code": "6206022005",
+    "name": "Talian Kereng",
+    "poscode": "74413",
+    "provinsi": {
+        "code": "62",
+        "name": "Kalimantan Tengah"
+    },
+    "kabupaten": {
+        "code": "6206",
+        "name": "Katingan"
+    },
+    "kecamatan": {
+        "code": "620602",
+        "name": "Katingan Hilir"
+    }
+}

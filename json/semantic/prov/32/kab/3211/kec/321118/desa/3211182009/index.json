@@ -1,0 +1,17 @@
+{
+    "code": "3211182009",
+    "name": "Sirnamulya",
+    "poscode": "45321",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3211",
+        "name": "Sumedang"
+    },
+    "kecamatan": {
+        "code": "321118",
+        "name": "Sumedang Utara"
+    }
+}

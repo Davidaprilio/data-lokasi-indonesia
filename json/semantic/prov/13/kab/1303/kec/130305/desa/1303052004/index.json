@@ -1,0 +1,17 @@
+{
+    "code": "1303052004",
+    "name": "Mundam Sakti",
+    "poscode": "27561",
+    "provinsi": {
+        "code": "13",
+        "name": "Sumatera Barat"
+    },
+    "kabupaten": {
+        "code": "1303",
+        "name": "Sijunjung"
+    },
+    "kecamatan": {
+        "code": "130305",
+        "name": "IV Nagari"
+    }
+}

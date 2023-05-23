@@ -1,0 +1,17 @@
+{
+    "code": "1311042004",
+    "name": "Padang Air Dingin",
+    "poscode": "27773",
+    "provinsi": {
+        "code": "13",
+        "name": "Sumatera Barat"
+    },
+    "kabupaten": {
+        "code": "1311",
+        "name": "Solok Selatan"
+    },
+    "kecamatan": {
+        "code": "131104",
+        "name": "Sangir Jujuan"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "3205352005",
+    "name": "Sukajaya",
+    "poscode": "44169",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3205",
+        "name": "Garut"
+    },
+    "kecamatan": {
+        "code": "320535",
+        "name": "Cisewu"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "6309122002",
+    "name": "Usih",
+    "poscode": "71572",
+    "provinsi": {
+        "code": "63",
+        "name": "Kalimantan Selatan"
+    },
+    "kabupaten": {
+        "code": "6309",
+        "name": "Tabalong"
+    },
+    "kecamatan": {
+        "code": "630912",
+        "name": "Bintang Ara"
+    }
+}

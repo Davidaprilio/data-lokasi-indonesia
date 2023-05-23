@@ -1,0 +1,17 @@
+{
+    "code": "3373011006",
+    "name": "Pulutan",
+    "poscode": "50716",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3373",
+        "name": "Salatiga"
+    },
+    "kecamatan": {
+        "code": "337301",
+        "name": "Sidorejo"
+    }
+}

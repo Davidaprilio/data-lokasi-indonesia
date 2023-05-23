@@ -1,0 +1,17 @@
+{
+    "code": "1508121002",
+    "name": "Sungai Kerjan",
+    "poscode": "37212",
+    "provinsi": {
+        "code": "15",
+        "name": "Jambi"
+    },
+    "kabupaten": {
+        "code": "1508",
+        "name": "Bungo"
+    },
+    "kecamatan": {
+        "code": "150812",
+        "name": "Bungo Dani"
+    }
+}

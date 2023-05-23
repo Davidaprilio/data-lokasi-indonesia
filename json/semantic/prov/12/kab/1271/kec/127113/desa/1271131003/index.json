@@ -1,0 +1,17 @@
+{
+    "code": "1271131003",
+    "name": "Besar",
+    "poscode": "20251",
+    "provinsi": {
+        "code": "12",
+        "name": "Sumatera Utara"
+    },
+    "kabupaten": {
+        "code": "1271",
+        "name": "Medan"
+    },
+    "kecamatan": {
+        "code": "127113",
+        "name": "Medan Labuhan"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "1806262001",
+    "name": "Way Harong",
+    "poscode": "35679",
+    "provinsi": {
+        "code": "18",
+        "name": "Lampung"
+    },
+    "kabupaten": {
+        "code": "1806",
+        "name": "Tanggamus"
+    },
+    "kecamatan": {
+        "code": "180626",
+        "name": "Air Naningan"
+    }
+}

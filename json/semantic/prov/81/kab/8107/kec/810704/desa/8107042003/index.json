@@ -1,0 +1,17 @@
+{
+    "code": "8107042003",
+    "name": "Kabufin",
+    "poscode": "97660",
+    "provinsi": {
+        "code": "81",
+        "name": "Maluku"
+    },
+    "kabupaten": {
+        "code": "8107",
+        "name": "Kepulauan Aru"
+    },
+    "kecamatan": {
+        "code": "810704",
+        "name": "Aru Utara"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "6402151004",
+    "name": "Sari Jaya (Sarijaya)",
+    "poscode": "75251",
+    "provinsi": {
+        "code": "64",
+        "name": "Kalimantan Timur"
+    },
+    "kabupaten": {
+        "code": "6402",
+        "name": "Kutai Kartanegara"
+    },
+    "kecamatan": {
+        "code": "640215",
+        "name": "Sanga-Sanga"
+    }
+}

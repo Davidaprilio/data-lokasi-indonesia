@@ -1,0 +1,17 @@
+{
+    "code": "3273151001",
+    "name": "Cijerah",
+    "poscode": "40213",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3273",
+        "name": "Bandung"
+    },
+    "kecamatan": {
+        "code": "327315",
+        "name": "Bandung Kulon"
+    }
+}

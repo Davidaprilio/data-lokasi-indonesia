@@ -1,0 +1,17 @@
+{
+    "code": "1103052010",
+    "name": "Sunti",
+    "poscode": "24460",
+    "provinsi": {
+        "code": "11",
+        "name": "Aceh (NAD)"
+    },
+    "kabupaten": {
+        "code": "1103",
+        "name": "Aceh Timur"
+    },
+    "kecamatan": {
+        "code": "110305",
+        "name": "Serbajadi"
+    }
+}

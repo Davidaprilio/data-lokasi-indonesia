@@ -1,0 +1,17 @@
+{
+    "code": "7502042001",
+    "name": "Limbato",
+    "poscode": "96263",
+    "provinsi": {
+        "code": "75",
+        "name": "Gorontalo"
+    },
+    "kabupaten": {
+        "code": "7502",
+        "name": "Boalemo"
+    },
+    "kecamatan": {
+        "code": "750204",
+        "name": "Tilamuta"
+    }
+}

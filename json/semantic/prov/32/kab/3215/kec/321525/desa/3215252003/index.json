@@ -1,0 +1,17 @@
+{
+    "code": "3215252003",
+    "name": "Pangulah Utara",
+    "poscode": "41376",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3215",
+        "name": "Karawang"
+    },
+    "kecamatan": {
+        "code": "321525",
+        "name": "Kota Baru (Kotabaru)"
+    }
+}

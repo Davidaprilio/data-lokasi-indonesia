@@ -1,0 +1,17 @@
+{
+    "code": "1605012007",
+    "name": "Wonokerto",
+    "poscode": "31662",
+    "provinsi": {
+        "code": "16",
+        "name": "Sumatera Selatan"
+    },
+    "kabupaten": {
+        "code": "1605",
+        "name": "Musi Rawas"
+    },
+    "kecamatan": {
+        "code": "160501",
+        "name": "Tugumulyo"
+    }
+}

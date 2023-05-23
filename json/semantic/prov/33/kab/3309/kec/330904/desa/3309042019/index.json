@@ -1,0 +1,17 @@
+{
+    "code": "3309042019",
+    "name": "Sukorame",
+    "poscode": "57331",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3309",
+        "name": "Boyolali"
+    },
+    "kecamatan": {
+        "code": "330904",
+        "name": "Musuk"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "3273031001",
+    "name": "Babakan Ciparay",
+    "poscode": "40223",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3273",
+        "name": "Bandung"
+    },
+    "kecamatan": {
+        "code": "327303",
+        "name": "Babakan Ciparay"
+    }
+}

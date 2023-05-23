@@ -1,0 +1,17 @@
+{
+    "code": "1602122036",
+    "name": "Ulak Pianggu",
+    "poscode": "30654",
+    "provinsi": {
+        "code": "16",
+        "name": "Sumatera Selatan"
+    },
+    "kabupaten": {
+        "code": "1602",
+        "name": "Ogan Komering Ilir"
+    },
+    "kecamatan": {
+        "code": "160212",
+        "name": "Pampangan"
+    }
+}

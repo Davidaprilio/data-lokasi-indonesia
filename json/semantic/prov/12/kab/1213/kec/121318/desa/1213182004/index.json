@@ -1,0 +1,17 @@
+{
+    "code": "1213182004",
+    "name": "Tandikek",
+    "poscode": "22984",
+    "provinsi": {
+        "code": "12",
+        "name": "Sumatera Utara"
+    },
+    "kabupaten": {
+        "code": "1213",
+        "name": "Mandailing Natal"
+    },
+    "kecamatan": {
+        "code": "121318",
+        "name": "Ranto Baek"
+    }
+}

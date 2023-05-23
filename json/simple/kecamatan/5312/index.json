@@ -1,0 +1,44 @@
+[
+    {
+        "code": "531215",
+        "name": "Kota Waikabubak",
+        "count": {
+            "desa": 13
+        }
+    },
+    {
+        "code": "531218",
+        "name": "Laboya Barat (Lamboya Barat)",
+        "count": {
+            "desa": 4
+        }
+    },
+    {
+        "code": "531212",
+        "name": "Lamboya",
+        "count": {
+            "desa": 11
+        }
+    },
+    {
+        "code": "531210",
+        "name": "Loli",
+        "count": {
+            "desa": 14
+        }
+    },
+    {
+        "code": "531204",
+        "name": "Tana Righu",
+        "count": {
+            "desa": 18
+        }
+    },
+    {
+        "code": "531211",
+        "name": "Wanokaka",
+        "count": {
+            "desa": 14
+        }
+    }
+]

@@ -1,0 +1,17 @@
+{
+    "code": "3203242001",
+    "name": "Naringgul",
+    "poscode": "43274",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3203",
+        "name": "Cianjur"
+    },
+    "kecamatan": {
+        "code": "320324",
+        "name": "Naringgul"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "6403012005",
+    "name": "Merasa",
+    "poscode": "77362",
+    "provinsi": {
+        "code": "64",
+        "name": "Kalimantan Timur"
+    },
+    "kabupaten": {
+        "code": "6403",
+        "name": "Berau"
+    },
+    "kecamatan": {
+        "code": "640301",
+        "name": "Kelay"
+    }
+}

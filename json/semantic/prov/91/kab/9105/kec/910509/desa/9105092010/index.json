@@ -1,0 +1,17 @@
+{
+    "code": "9105092010",
+    "name": "Arareni",
+    "poscode": "98642",
+    "provinsi": {
+        "code": "91",
+        "name": "Papua"
+    },
+    "kabupaten": {
+        "code": "9105",
+        "name": "Kepulauan Yapen"
+    },
+    "kecamatan": {
+        "code": "910509",
+        "name": "Teluk Ampimoi"
+    }
+}

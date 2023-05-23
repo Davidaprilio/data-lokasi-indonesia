@@ -1,0 +1,17 @@
+{
+    "code": "3217142007",
+    "name": "Pasirpogor",
+    "poscode": "40563",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3217",
+        "name": "Bandung Barat"
+    },
+    "kecamatan": {
+        "code": "321714",
+        "name": "Sindangkerta"
+    }
+}

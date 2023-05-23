@@ -1,0 +1,17 @@
+{
+    "code": "7371051002",
+    "name": "Melayu",
+    "poscode": "90171",
+    "provinsi": {
+        "code": "73",
+        "name": "Sulawesi Selatan"
+    },
+    "kabupaten": {
+        "code": "7371",
+        "name": "Makassar"
+    },
+    "kecamatan": {
+        "code": "737105",
+        "name": "Wajo"
+    }
+}

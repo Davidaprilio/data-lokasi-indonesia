@@ -1,0 +1,17 @@
+{
+    "code": "1104112018",
+    "name": "Paya Tumpi I",
+    "poscode": "24519",
+    "provinsi": {
+        "code": "11",
+        "name": "Aceh (NAD)"
+    },
+    "kabupaten": {
+        "code": "1104",
+        "name": "Aceh Tengah"
+    },
+    "kecamatan": {
+        "code": "110411",
+        "name": "Kebayakan"
+    }
+}

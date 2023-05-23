@@ -1,0 +1,17 @@
+{
+    "code": "3527112002",
+    "name": "Tobai Tengah",
+    "poscode": "69262",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3527",
+        "name": "Sampang"
+    },
+    "kecamatan": {
+        "code": "352711",
+        "name": "Sokobanah"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "code": "1221",
+    "type": "Kabupaten",
+    "name": "Padang Lawas",
+    "fullname": "Kabupaten Padang Lawas",
+    "jumlah": {
+        "kecamatan": 12,
+        "desa": 304
+    }
+}

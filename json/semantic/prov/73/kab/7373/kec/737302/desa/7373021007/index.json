@@ -1,0 +1,17 @@
+{
+    "code": "7373021007",
+    "name": "Penggoli",
+    "poscode": "91914",
+    "provinsi": {
+        "code": "73",
+        "name": "Sulawesi Selatan"
+    },
+    "kabupaten": {
+        "code": "7373",
+        "name": "Palopo"
+    },
+    "kecamatan": {
+        "code": "737302",
+        "name": "Wara Utara"
+    }
+}

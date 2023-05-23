@@ -1,0 +1,17 @@
+{
+    "code": "5205052013",
+    "name": "Raba Baka",
+    "poscode": "84251",
+    "provinsi": {
+        "code": "52",
+        "name": "Nusa Tenggara Barat (NTB)"
+    },
+    "kabupaten": {
+        "code": "5205",
+        "name": "Dompu"
+    },
+    "kecamatan": {
+        "code": "520505",
+        "name": "Woja"
+    }
+}

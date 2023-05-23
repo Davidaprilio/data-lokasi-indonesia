@@ -1,0 +1,17 @@
+{
+    "code": "1106172015",
+    "name": "Reuleung Glumpang (Reuleung Geulumpang)",
+    "poscode": "23365",
+    "provinsi": {
+        "code": "11",
+        "name": "Aceh (NAD)"
+    },
+    "kabupaten": {
+        "code": "1106",
+        "name": "Aceh Besar"
+    },
+    "kecamatan": {
+        "code": "110617",
+        "name": "Kota Malaka (Kuta Malaka)"
+    }
+}

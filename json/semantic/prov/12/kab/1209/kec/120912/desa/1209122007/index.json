@@ -1,0 +1,17 @@
+{
+    "code": "1209122007",
+    "name": "Sei/Sungai Lama",
+    "poscode": "21271",
+    "provinsi": {
+        "code": "12",
+        "name": "Sumatera Utara"
+    },
+    "kabupaten": {
+        "code": "1209",
+        "name": "Asahan"
+    },
+    "kecamatan": {
+        "code": "120912",
+        "name": "Simpang Empat"
+    }
+}

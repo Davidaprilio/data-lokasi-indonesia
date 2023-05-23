@@ -1,0 +1,17 @@
+{
+    "code": "6106152013",
+    "name": "Bukit Penai",
+    "poscode": "78773",
+    "provinsi": {
+        "code": "61",
+        "name": "Kalimantan Barat"
+    },
+    "kabupaten": {
+        "code": "6106",
+        "name": "Kapuas Hulu"
+    },
+    "kecamatan": {
+        "code": "610615",
+        "name": "Silat Hilir"
+    }
+}

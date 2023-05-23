@@ -1,0 +1,142 @@
+[
+    {
+        "code": "330409",
+        "name": "Banjarmangu",
+        "count": {
+            "desa": 17
+        }
+    },
+    {
+        "code": "330406",
+        "name": "Banjarnegara",
+        "count": {
+            "desa": 13
+        }
+    },
+    {
+        "code": "330416",
+        "name": "Batur",
+        "count": {
+            "desa": 8
+        }
+    },
+    {
+        "code": "330405",
+        "name": "Bawang",
+        "count": {
+            "desa": 18
+        }
+    },
+    {
+        "code": "330418",
+        "name": "Kalibening",
+        "count": {
+            "desa": 16
+        }
+    },
+    {
+        "code": "330413",
+        "name": "Karangkobar",
+        "count": {
+            "desa": 13
+        }
+    },
+    {
+        "code": "330408",
+        "name": "Madukara",
+        "count": {
+            "desa": 20
+        }
+    },
+    {
+        "code": "330403",
+        "name": "Mandiraja",
+        "count": {
+            "desa": 16
+        }
+    },
+    {
+        "code": "330420",
+        "name": "Pagedongan",
+        "count": {
+            "desa": 9
+        }
+    },
+    {
+        "code": "330414",
+        "name": "Pagentan",
+        "count": {
+            "desa": 16
+        }
+    },
+    {
+        "code": "330419",
+        "name": "Pandanarum",
+        "count": {
+            "desa": 8
+        }
+    },
+    {
+        "code": "330415",
+        "name": "Pejawaran",
+        "count": {
+            "desa": 17
+        }
+    },
+    {
+        "code": "330412",
+        "name": "Punggelan",
+        "count": {
+            "desa": 17
+        }
+    },
+    {
+        "code": "330404",
+        "name": "Purwanegara (Purwonegoro)",
+        "count": {
+            "desa": 13
+        }
+    },
+    {
+        "code": "330402",
+        "name": "Purworeja Klampok (Purworejo Klampok)",
+        "count": {
+            "desa": 8
+        }
+    },
+    {
+        "code": "330411",
+        "name": "Rakit",
+        "count": {
+            "desa": 11
+        }
+    },
+    {
+        "code": "330407",
+        "name": "Sigaluh",
+        "count": {
+            "desa": 15
+        }
+    },
+    {
+        "code": "330401",
+        "name": "Susukan",
+        "count": {
+            "desa": 15
+        }
+    },
+    {
+        "code": "330410",
+        "name": "Wanadadi (Wonodadi)",
+        "count": {
+            "desa": 11
+        }
+    },
+    {
+        "code": "330417",
+        "name": "Wanayasa",
+        "count": {
+            "desa": 17
+        }
+    }
+]

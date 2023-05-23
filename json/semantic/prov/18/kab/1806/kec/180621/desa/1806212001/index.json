@@ -1,0 +1,17 @@
+{
+    "code": "1806212001",
+    "name": "Banjar Negeri",
+    "poscode": "35379",
+    "provinsi": {
+        "code": "18",
+        "name": "Lampung"
+    },
+    "kabupaten": {
+        "code": "1806",
+        "name": "Tanggamus"
+    },
+    "kecamatan": {
+        "code": "180621",
+        "name": "Gunung Alip"
+    }
+}

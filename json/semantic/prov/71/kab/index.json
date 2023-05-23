@@ -1,0 +1,152 @@
+[
+    {
+        "code": "7172",
+        "type": "Kota",
+        "name": "Bitung",
+        "fullname": "Kota Bitung",
+        "jumlah": {
+            "kecamatan": 8,
+            "desa": 69
+        }
+    },
+    {
+        "code": "7101",
+        "type": "Kabupaten",
+        "name": "Bolaang Mongondow",
+        "fullname": "Kabupaten Bolaang Mongondow",
+        "jumlah": {
+            "kecamatan": 15,
+            "desa": 202
+        }
+    },
+    {
+        "code": "7111",
+        "type": "Kabupaten",
+        "name": "Bolaang Mongondow Selatan",
+        "fullname": "Kabupaten Bolaang Mongondow Selatan",
+        "jumlah": {
+            "kecamatan": 7,
+            "desa": 81
+        }
+    },
+    {
+        "code": "7110",
+        "type": "Kabupaten",
+        "name": "Bolaang Mongondow Timur",
+        "fullname": "Kabupaten Bolaang Mongondow Timur",
+        "jumlah": {
+            "kecamatan": 7,
+            "desa": 81
+        }
+    },
+    {
+        "code": "7108",
+        "type": "Kabupaten",
+        "name": "Bolaang Mongondow Utara",
+        "fullname": "Kabupaten Bolaang Mongondow Utara",
+        "jumlah": {
+            "kecamatan": 6,
+            "desa": 107
+        }
+    },
+    {
+        "code": "7103",
+        "type": "Kabupaten",
+        "name": "Kepulauan Sangihe",
+        "fullname": "Kabupaten Kepulauan Sangihe",
+        "jumlah": {
+            "kecamatan": 15,
+            "desa": 167
+        }
+    },
+    {
+        "code": "7109",
+        "type": "Kabupaten",
+        "name": "Kepulauan Siau Tagulandang Biaro (Sitaro)",
+        "fullname": "Kabupaten Kepulauan Siau Tagulandang Biaro (Sitaro)",
+        "jumlah": {
+            "kecamatan": 10,
+            "desa": 93
+        }
+    },
+    {
+        "code": "7104",
+        "type": "Kabupaten",
+        "name": "Kepulauan Talaud",
+        "fullname": "Kabupaten Kepulauan Talaud",
+        "jumlah": {
+            "kecamatan": 19,
+            "desa": 153
+        }
+    },
+    {
+        "code": "7174",
+        "type": "Kota",
+        "name": "Kotamobagu",
+        "fullname": "Kota Kotamobagu",
+        "jumlah": {
+            "kecamatan": 4,
+            "desa": 33
+        }
+    },
+    {
+        "code": "7171",
+        "type": "Kota",
+        "name": "Manado",
+        "fullname": "Kota Manado",
+        "jumlah": {
+            "kecamatan": 11,
+            "desa": 87
+        }
+    },
+    {
+        "code": "7102",
+        "type": "Kabupaten",
+        "name": "Minahasa",
+        "fullname": "Kabupaten Minahasa",
+        "jumlah": {
+            "kecamatan": 25,
+            "desa": 270
+        }
+    },
+    {
+        "code": "7105",
+        "type": "Kabupaten",
+        "name": "Minahasa Selatan",
+        "fullname": "Kabupaten Minahasa Selatan",
+        "jumlah": {
+            "kecamatan": 17,
+            "desa": 177
+        }
+    },
+    {
+        "code": "7107",
+        "type": "Kabupaten",
+        "name": "Minahasa Tenggara",
+        "fullname": "Kabupaten Minahasa Tenggara",
+        "jumlah": {
+            "kecamatan": 12,
+            "desa": 144
+        }
+    },
+    {
+        "code": "7106",
+        "type": "Kabupaten",
+        "name": "Minahasa Utara",
+        "fullname": "Kabupaten Minahasa Utara",
+        "jumlah": {
+            "kecamatan": 10,
+            "desa": 131
+        }
+    },
+    {
+        "code": "7173",
+        "type": "Kota",
+        "name": "Tomohon",
+        "fullname": "Kota Tomohon",
+        "jumlah": {
+            "kecamatan": 5,
+            "desa": 44
+        }
+    }
+]

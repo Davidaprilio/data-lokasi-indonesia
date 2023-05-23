@@ -1,0 +1,17 @@
+{
+    "code": "9301202002",
+    "name": "Padua",
+    "poscode": "99640",
+    "provinsi": {
+        "code": "93",
+        "name": "Papua Selatan"
+    },
+    "kabupaten": {
+        "code": "9301",
+        "name": "Merauke"
+    },
+    "kecamatan": {
+        "code": "930120",
+        "name": "Ilwayab (Ilyawab)"
+    }
+}

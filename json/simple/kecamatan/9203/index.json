@@ -1,0 +1,121 @@
+[
+    {
+        "code": "920313",
+        "name": "Arguni",
+        "count": {
+            "desa": 5
+        }
+    },
+    {
+        "code": "920307",
+        "name": "Bomberay",
+        "count": {
+            "desa": 7
+        }
+    },
+    {
+        "code": "920301",
+        "name": "Fak-Fak (Fakfak)",
+        "count": {
+            "desa": 5
+        }
+    },
+    {
+        "code": "920302",
+        "name": "Fak-Fak Barat (Fakfak Barat)",
+        "count": {
+            "desa": 9
+        }
+    },
+    {
+        "code": "920305",
+        "name": "Fak-Fak Tengah (Fakfak Tengah)",
+        "count": {
+            "desa": 14
+        }
+    },
+    {
+        "code": "920303",
+        "name": "Fak-Fak Timur (Fakfak Timur)",
+        "count": {
+            "desa": 6
+        }
+    },
+    {
+        "code": "920312",
+        "name": "Fakfak Timur Tengah",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "920316",
+        "name": "Furwagi",
+        "count": {
+            "desa": 8
+        }
+    },
+    {
+        "code": "920306",
+        "name": "Karas",
+        "count": {
+            "desa": 7
+        }
+    },
+    {
+        "code": "920315",
+        "name": "Kayauni",
+        "count": {
+            "desa": 9
+        }
+    },
+    {
+        "code": "920304",
+        "name": "Kokas",
+        "count": {
+            "desa": 15
+        }
+    },
+    {
+        "code": "920308",
+        "name": "Kramongmongga",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "920314",
+        "name": "Mbahamdandara",
+        "count": {
+            "desa": 7
+        }
+    },
+    {
+        "code": "920310",
+        "name": "Pariwari",
+        "count": {
+            "desa": 9
+        }
+    },
+    {
+        "code": "920309",
+        "name": "Teluk Patipi",
+        "count": {
+            "desa": 13
+        }
+    },
+    {
+        "code": "920317",
+        "name": "Tomage",
+        "count": {
+            "desa": 9
+        }
+    },
+    {
+        "code": "920311",
+        "name": "Wartutin",
+        "count": {
+            "desa": 6
+        }
+    }
+]

@@ -1,0 +1,17 @@
+{
+    "code": "9119042001",
+    "name": "Rayori",
+    "poscode": "98571",
+    "provinsi": {
+        "code": "91",
+        "name": "Papua"
+    },
+    "kabupaten": {
+        "code": "9119",
+        "name": "Supiori"
+    },
+    "kecamatan": {
+        "code": "911904",
+        "name": "Kepulauan Aruri"
+    }
+}

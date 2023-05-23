@@ -1,0 +1,17 @@
+{
+    "code": "6302212006",
+    "name": "Gosong Panjang",
+    "poscode": "72151",
+    "provinsi": {
+        "code": "63",
+        "name": "Kalimantan Selatan"
+    },
+    "kabupaten": {
+        "code": "6302",
+        "name": "Kotabaru"
+    },
+    "kecamatan": {
+        "code": "630221",
+        "name": "Pulau Laut / Pulaulaut Tanjung Selayar"
+    }
+}

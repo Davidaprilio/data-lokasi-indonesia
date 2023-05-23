@@ -1,0 +1,17 @@
+{
+    "code": "9110132007",
+    "name": "Waskey",
+    "poscode": "99377",
+    "provinsi": {
+        "code": "91",
+        "name": "Papua"
+    },
+    "kabupaten": {
+        "code": "9110",
+        "name": "Sarmi"
+    },
+    "kecamatan": {
+        "code": "911013",
+        "name": "Sarmi Timur"
+    }
+}

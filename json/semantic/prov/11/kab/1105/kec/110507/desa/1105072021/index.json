@@ -1,0 +1,17 @@
+{
+    "code": "1105072021",
+    "name": "Simpang Peut",
+    "poscode": "23652",
+    "provinsi": {
+        "code": "11",
+        "name": "Aceh (NAD)"
+    },
+    "kabupaten": {
+        "code": "1105",
+        "name": "Aceh Barat"
+    },
+    "kecamatan": {
+        "code": "110507",
+        "name": "Arongan Lambalek"
+    }
+}

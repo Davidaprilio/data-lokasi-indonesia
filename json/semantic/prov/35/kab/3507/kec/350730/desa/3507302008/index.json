@@ -1,0 +1,17 @@
+{
+    "code": "3507302008",
+    "name": "Ampelgading",
+    "poscode": "65183",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3507",
+        "name": "Malang"
+    },
+    "kecamatan": {
+        "code": "350730",
+        "name": "Tirtoyudo"
+    }
+}

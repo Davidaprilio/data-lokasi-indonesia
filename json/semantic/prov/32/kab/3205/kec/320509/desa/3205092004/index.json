@@ -1,0 +1,17 @@
+{
+    "code": "3205092004",
+    "name": "Sukarame",
+    "poscode": "44152",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3205",
+        "name": "Garut"
+    },
+    "kecamatan": {
+        "code": "320509",
+        "name": "Leles"
+    }
+}

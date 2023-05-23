@@ -1,0 +1,17 @@
+{
+    "code": "1802042014",
+    "name": "Gunung Sari",
+    "poscode": "34165",
+    "provinsi": {
+        "code": "18",
+        "name": "Lampung"
+    },
+    "kabupaten": {
+        "code": "1802",
+        "name": "Lampung Tengah"
+    },
+    "kecamatan": {
+        "code": "180204",
+        "name": "Gunung Sugih"
+    }
+}

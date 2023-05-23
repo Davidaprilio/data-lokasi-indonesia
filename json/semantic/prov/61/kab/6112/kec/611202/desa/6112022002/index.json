@@ -1,0 +1,17 @@
+{
+    "code": "6112022002",
+    "name": "Kubu Padi",
+    "poscode": "78355",
+    "provinsi": {
+        "code": "61",
+        "name": "Kalimantan Barat"
+    },
+    "kabupaten": {
+        "code": "6112",
+        "name": "Kubu Raya"
+    },
+    "kecamatan": {
+        "code": "611202",
+        "name": "Kuala Mandor B"
+    }
+}

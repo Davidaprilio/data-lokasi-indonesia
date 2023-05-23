@@ -1,0 +1,17 @@
+{
+    "code": "9508302005",
+    "name": "Nenggeagin",
+    "poscode": "99914",
+    "provinsi": {
+        "code": "95",
+        "name": "Papua Pegunungan"
+    },
+    "kabupaten": {
+        "code": "9508",
+        "name": "Nduga"
+    },
+    "kecamatan": {
+        "code": "950830",
+        "name": "Nenggeagin"
+    }
+}

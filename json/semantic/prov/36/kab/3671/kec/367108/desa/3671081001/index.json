@@ -1,0 +1,17 @@
+{
+    "code": "3671081001",
+    "name": "Periuk",
+    "poscode": "15131",
+    "provinsi": {
+        "code": "36",
+        "name": "Banten"
+    },
+    "kabupaten": {
+        "code": "3671",
+        "name": "Tangerang"
+    },
+    "kecamatan": {
+        "code": "367108",
+        "name": "Periuk"
+    }
+}

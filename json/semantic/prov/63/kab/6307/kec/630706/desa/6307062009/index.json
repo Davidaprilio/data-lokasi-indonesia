@@ -1,0 +1,17 @@
+{
+    "code": "6307062009",
+    "name": "Benawa Tengah",
+    "poscode": "71315",
+    "provinsi": {
+        "code": "63",
+        "name": "Kalimantan Selatan"
+    },
+    "kabupaten": {
+        "code": "6307",
+        "name": "Hulu Sungai Tengah"
+    },
+    "kecamatan": {
+        "code": "630706",
+        "name": "Barabai"
+    }
+}

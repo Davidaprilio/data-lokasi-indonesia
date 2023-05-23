@@ -1,0 +1,17 @@
+{
+    "code": "7308231001",
+    "name": "Bajoe",
+    "poscode": "92716",
+    "provinsi": {
+        "code": "73",
+        "name": "Sulawesi Selatan"
+    },
+    "kabupaten": {
+        "code": "7308",
+        "name": "Bone"
+    },
+    "kecamatan": {
+        "code": "730823",
+        "name": "Tanete Riattang Timur"
+    }
+}

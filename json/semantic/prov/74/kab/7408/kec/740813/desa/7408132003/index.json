@@ -1,0 +1,17 @@
+{
+    "code": "7408132003",
+    "name": "Katoi",
+    "poscode": "93913",
+    "provinsi": {
+        "code": "74",
+        "name": "Sulawesi Tenggara"
+    },
+    "kabupaten": {
+        "code": "7408",
+        "name": "Kolaka Utara"
+    },
+    "kecamatan": {
+        "code": "740813",
+        "name": "Katoi"
+    }
+}

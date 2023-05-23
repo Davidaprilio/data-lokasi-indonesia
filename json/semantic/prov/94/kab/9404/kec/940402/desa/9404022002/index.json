@@ -1,0 +1,17 @@
+{
+    "code": "9404022002",
+    "name": "Amungun",
+    "poscode": "99964",
+    "provinsi": {
+        "code": "94",
+        "name": "Papua Tengah"
+    },
+    "kabupaten": {
+        "code": "9404",
+        "name": "Mimika"
+    },
+    "kecamatan": {
+        "code": "940402",
+        "name": "Agimuga"
+    }
+}

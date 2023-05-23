@@ -1,0 +1,17 @@
+{
+    "code": "3507102012",
+    "name": "Putukrejo",
+    "poscode": "65174",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3507",
+        "name": "Malang"
+    },
+    "kecamatan": {
+        "code": "350710",
+        "name": "Gondanglegi"
+    }
+}

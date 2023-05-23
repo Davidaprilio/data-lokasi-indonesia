@@ -1,0 +1,17 @@
+{
+    "code": "8207032009",
+    "name": "Cendana",
+    "poscode": "97772",
+    "provinsi": {
+        "code": "82",
+        "name": "Maluku Utara"
+    },
+    "kabupaten": {
+        "code": "8207",
+        "name": "Pulau Morotai"
+    },
+    "kecamatan": {
+        "code": "820703",
+        "name": "Morotai Jaya"
+    }
+}

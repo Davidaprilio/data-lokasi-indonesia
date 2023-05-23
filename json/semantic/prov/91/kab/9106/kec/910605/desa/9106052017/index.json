@@ -1,0 +1,17 @@
+{
+    "code": "9106052017",
+    "name": "Pyefuri",
+    "poscode": "98562",
+    "provinsi": {
+        "code": "91",
+        "name": "Papua"
+    },
+    "kabupaten": {
+        "code": "9106",
+        "name": "Biak Numfor"
+    },
+    "kecamatan": {
+        "code": "910605",
+        "name": "Numfor Timur"
+    }
+}

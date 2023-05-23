@@ -1,0 +1,17 @@
+{
+    "code": "7371141003",
+    "name": "Tamalanrea Indah",
+    "poscode": "90245",
+    "provinsi": {
+        "code": "73",
+        "name": "Sulawesi Selatan"
+    },
+    "kabupaten": {
+        "code": "7371",
+        "name": "Makassar"
+    },
+    "kecamatan": {
+        "code": "737114",
+        "name": "Tamalanrea"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "3672061003",
+    "name": "Rawa Arum",
+    "poscode": "42436",
+    "provinsi": {
+        "code": "36",
+        "name": "Banten"
+    },
+    "kabupaten": {
+        "code": "3672",
+        "name": "Cilegon"
+    },
+    "kecamatan": {
+        "code": "367206",
+        "name": "Gerogol"
+    }
+}

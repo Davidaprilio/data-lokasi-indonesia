@@ -1,0 +1,17 @@
+{
+    "code": "6503172006",
+    "name": "Binuang",
+    "poscode": "77458",
+    "provinsi": {
+        "code": "65",
+        "name": "Kalimantan Utara"
+    },
+    "kabupaten": {
+        "code": "6503",
+        "name": "Nunukan"
+    },
+    "kecamatan": {
+        "code": "650317",
+        "name": "Krayan Tengah"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "9404091001",
+    "name": "Kuala Kencana",
+    "poscode": "99969",
+    "provinsi": {
+        "code": "94",
+        "name": "Papua Tengah"
+    },
+    "kabupaten": {
+        "code": "9404",
+        "name": "Mimika"
+    },
+    "kecamatan": {
+        "code": "940409",
+        "name": "Kuala Kencana"
+    }
+}

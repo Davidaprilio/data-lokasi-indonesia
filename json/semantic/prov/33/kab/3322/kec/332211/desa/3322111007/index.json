@@ -1,0 +1,17 @@
+{
+    "code": "3322111007",
+    "name": "Harjosari",
+    "poscode": "50661",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3322",
+        "name": "Semarang"
+    },
+    "kecamatan": {
+        "code": "332211",
+        "name": "Bawen"
+    }
+}

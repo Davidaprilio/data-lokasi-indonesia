@@ -1,0 +1,17 @@
+{
+    "code": "6207092003",
+    "name": "Kalang",
+    "poscode": "74281",
+    "provinsi": {
+        "code": "62",
+        "name": "Kalimantan Tengah"
+    },
+    "kabupaten": {
+        "code": "6207",
+        "name": "Seruyan"
+    },
+    "kecamatan": {
+        "code": "620709",
+        "name": "Batu Ampar"
+    }
+}

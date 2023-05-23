@@ -1,0 +1,17 @@
+{
+    "code": "1206082005",
+    "name": "Limang",
+    "poscode": "22162",
+    "provinsi": {
+        "code": "12",
+        "name": "Sumatera Utara"
+    },
+    "kabupaten": {
+        "code": "1206",
+        "name": "Karo"
+    },
+    "kecamatan": {
+        "code": "120608",
+        "name": "Tigabinanga (Tiga Binanga)"
+    }
+}

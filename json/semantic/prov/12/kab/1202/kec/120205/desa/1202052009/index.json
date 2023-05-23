@@ -1,0 +1,17 @@
+{
+    "code": "1202052009",
+    "name": "Lumban Dolok",
+    "poscode": "22463",
+    "provinsi": {
+        "code": "12",
+        "name": "Sumatera Utara"
+    },
+    "kabupaten": {
+        "code": "1202",
+        "name": "Tapanuli Utara"
+    },
+    "kecamatan": {
+        "code": "120205",
+        "name": "Pahae Julu"
+    }
+}

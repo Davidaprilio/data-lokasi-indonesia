@@ -1,0 +1,17 @@
+{
+    "code": "1872011004",
+    "name": "Hadimulyo Barat",
+    "poscode": "34113",
+    "provinsi": {
+        "code": "18",
+        "name": "Lampung"
+    },
+    "kabupaten": {
+        "code": "1872",
+        "name": "Metro"
+    },
+    "kecamatan": {
+        "code": "187201",
+        "name": "Metro Pusat"
+    }
+}

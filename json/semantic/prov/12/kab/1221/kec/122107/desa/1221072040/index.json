@@ -1,0 +1,17 @@
+{
+    "code": "1221072040",
+    "name": "Pagaran Baringin",
+    "poscode": "22763",
+    "provinsi": {
+        "code": "12",
+        "name": "Sumatera Utara"
+    },
+    "kabupaten": {
+        "code": "1221",
+        "name": "Padang Lawas"
+    },
+    "kecamatan": {
+        "code": "122107",
+        "name": "Barumun"
+    }
+}

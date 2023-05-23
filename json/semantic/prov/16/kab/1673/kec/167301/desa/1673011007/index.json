@@ -1,0 +1,17 @@
+{
+    "code": "1673011007",
+    "name": "Batu Urip Taba",
+    "poscode": "31628",
+    "provinsi": {
+        "code": "16",
+        "name": "Sumatera Selatan"
+    },
+    "kabupaten": {
+        "code": "1673",
+        "name": "Lubuk Linggau"
+    },
+    "kecamatan": {
+        "code": "167301",
+        "name": "Lubuk Linggau Timur Satu (I)"
+    }
+}

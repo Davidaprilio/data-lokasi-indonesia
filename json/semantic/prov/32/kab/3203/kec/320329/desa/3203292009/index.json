@@ -1,0 +1,17 @@
+{
+    "code": "3203292009",
+    "name": "Sinarbakti",
+    "poscode": "43284",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3203",
+        "name": "Cianjur"
+    },
+    "kecamatan": {
+        "code": "320329",
+        "name": "Cijati"
+    }
+}

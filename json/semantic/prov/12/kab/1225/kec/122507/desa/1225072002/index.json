@@ -1,0 +1,17 @@
+{
+    "code": "1225072002",
+    "name": "Duria",
+    "poscode": "22875",
+    "provinsi": {
+        "code": "12",
+        "name": "Sumatera Utara"
+    },
+    "kabupaten": {
+        "code": "1225",
+        "name": "Nias Barat"
+    },
+    "kecamatan": {
+        "code": "122507",
+        "name": "Lolofitu Moi"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "3301172010",
+    "name": "Karangasem",
+    "poscode": "53273",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3301",
+        "name": "Cilacap"
+    },
+    "kecamatan": {
+        "code": "330117",
+        "name": "Sampang"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "7311012002",
+    "name": "Harapan",
+    "poscode": "90763",
+    "provinsi": {
+        "code": "73",
+        "name": "Sulawesi Selatan"
+    },
+    "kabupaten": {
+        "code": "7311",
+        "name": "Barru"
+    },
+    "kecamatan": {
+        "code": "731101",
+        "name": "Tanete Riaja"
+    }
+}

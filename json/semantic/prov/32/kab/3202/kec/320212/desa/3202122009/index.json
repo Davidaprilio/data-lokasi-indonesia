@@ -1,0 +1,17 @@
+{
+    "code": "3202122009",
+    "name": "Balekambang",
+    "poscode": "43352",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3202",
+        "name": "Sukabumi"
+    },
+    "kecamatan": {
+        "code": "320212",
+        "name": "Nagrak"
+    }
+}

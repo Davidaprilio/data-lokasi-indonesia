@@ -1,0 +1,10 @@
+{
+    "code": "1104",
+    "type": "Kabupaten",
+    "name": "Aceh Tengah",
+    "fullname": "Kabupaten Aceh Tengah",
+    "jumlah": {
+        "kecamatan": 14,
+        "desa": 295
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "7208192003",
+    "name": "Toboli Barat",
+    "poscode": "94463",
+    "provinsi": {
+        "code": "72",
+        "name": "Sulawesi Tengah"
+    },
+    "kabupaten": {
+        "code": "7208",
+        "name": "Parigi Moutong"
+    },
+    "kecamatan": {
+        "code": "720819",
+        "name": "Parigi Utara"
+    }
+}

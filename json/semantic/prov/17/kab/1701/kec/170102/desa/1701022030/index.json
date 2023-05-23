@@ -1,0 +1,17 @@
+{
+    "code": "1701022030",
+    "name": "Tanjung Agung",
+    "poscode": "38552",
+    "provinsi": {
+        "code": "17",
+        "name": "Bengkulu"
+    },
+    "kabupaten": {
+        "code": "1701",
+        "name": "Bengkulu Selatan"
+    },
+    "kecamatan": {
+        "code": "170102",
+        "name": "Seginim"
+    }
+}

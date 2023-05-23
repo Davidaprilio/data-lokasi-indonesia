@@ -1,0 +1,17 @@
+{
+    "code": "3171081001",
+    "name": "Johar Baru",
+    "poscode": "10560",
+    "provinsi": {
+        "code": "31",
+        "name": "DKI Jakarta"
+    },
+    "kabupaten": {
+        "code": "3171",
+        "name": "Jakarta Pusat"
+    },
+    "kecamatan": {
+        "code": "317108",
+        "name": "Johar Baru"
+    }
+}

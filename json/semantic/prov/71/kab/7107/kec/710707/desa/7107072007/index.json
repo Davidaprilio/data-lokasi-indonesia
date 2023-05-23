@@ -1,0 +1,17 @@
+{
+    "code": "7107072007",
+    "name": "Banga",
+    "poscode": "95982",
+    "provinsi": {
+        "code": "71",
+        "name": "Sulawesi Utara"
+    },
+    "kabupaten": {
+        "code": "7107",
+        "name": "Minahasa Tenggara"
+    },
+    "kecamatan": {
+        "code": "710707",
+        "name": "Touluaan Selatan"
+    }
+}

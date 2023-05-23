@@ -1,0 +1,17 @@
+{
+    "code": "9401222003",
+    "name": "Gerbang Sadu",
+    "poscode": "98856",
+    "provinsi": {
+        "code": "94",
+        "name": "Papua Tengah"
+    },
+    "kabupaten": {
+        "code": "9401",
+        "name": "Nabire"
+    },
+    "kecamatan": {
+        "code": "940122",
+        "name": "Nabire Barat"
+    }
+}

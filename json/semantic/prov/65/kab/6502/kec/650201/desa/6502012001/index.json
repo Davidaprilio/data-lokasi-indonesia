@@ -1,0 +1,17 @@
+{
+    "code": "6502012001",
+    "name": "Long Gafid",
+    "poscode": "77555",
+    "provinsi": {
+        "code": "65",
+        "name": "Kalimantan Utara"
+    },
+    "kabupaten": {
+        "code": "6502",
+        "name": "Malinau"
+    },
+    "kecamatan": {
+        "code": "650201",
+        "name": "Mentarang"
+    }
+}

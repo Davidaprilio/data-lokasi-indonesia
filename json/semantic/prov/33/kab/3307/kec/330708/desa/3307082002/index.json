@@ -1,0 +1,17 @@
+{
+    "code": "3307082002",
+    "name": "Sudungdewo",
+    "poscode": "56371",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3307",
+        "name": "Wonosobo"
+    },
+    "kecamatan": {
+        "code": "330708",
+        "name": "Kertek"
+    }
+}

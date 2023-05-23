@@ -1,0 +1,17 @@
+{
+    "code": "3508062004",
+    "name": "Sukorejo",
+    "poscode": "67383",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3508",
+        "name": "Lumajang"
+    },
+    "kecamatan": {
+        "code": "350806",
+        "name": "Kunir"
+    }
+}

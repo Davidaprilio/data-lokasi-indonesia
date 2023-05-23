@@ -1,0 +1,17 @@
+{
+    "code": "7403062009",
+    "name": "Lambiku",
+    "poscode": "93622",
+    "provinsi": {
+        "code": "74",
+        "name": "Sulawesi Tenggara"
+    },
+    "kabupaten": {
+        "code": "7403",
+        "name": "Muna"
+    },
+    "kecamatan": {
+        "code": "740306",
+        "name": "Napabalano"
+    }
+}

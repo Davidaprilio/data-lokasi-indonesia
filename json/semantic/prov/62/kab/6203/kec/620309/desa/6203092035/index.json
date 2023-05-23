@@ -1,0 +1,17 @@
+{
+    "code": "6203092035",
+    "name": "Harapan Jaya",
+    "poscode": "73553",
+    "provinsi": {
+        "code": "62",
+        "name": "Kalimantan Tengah"
+    },
+    "kabupaten": {
+        "code": "6203",
+        "name": "Kapuas"
+    },
+    "kecamatan": {
+        "code": "620309",
+        "name": "Mantangai"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "6401052005",
+    "name": "Rangan",
+    "poscode": "76281",
+    "provinsi": {
+        "code": "64",
+        "name": "Kalimantan Timur"
+    },
+    "kabupaten": {
+        "code": "6401",
+        "name": "Paser"
+    },
+    "kecamatan": {
+        "code": "640105",
+        "name": "Kuaro"
+    }
+}

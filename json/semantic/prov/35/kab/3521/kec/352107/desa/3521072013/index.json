@@ -1,0 +1,17 @@
+{
+    "code": "3521072013",
+    "name": "Karangjati",
+    "poscode": "63284",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3521",
+        "name": "Ngawi"
+    },
+    "kecamatan": {
+        "code": "352107",
+        "name": "Karangjati"
+    }
+}

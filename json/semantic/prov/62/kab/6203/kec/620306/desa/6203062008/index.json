@@ -1,0 +1,17 @@
+{
+    "code": "6203062008",
+    "name": "Teluk Palinget",
+    "poscode": "73592",
+    "provinsi": {
+        "code": "62",
+        "name": "Kalimantan Tengah"
+    },
+    "kabupaten": {
+        "code": "6203",
+        "name": "Kapuas"
+    },
+    "kecamatan": {
+        "code": "620306",
+        "name": "Pulau Petak"
+    }
+}

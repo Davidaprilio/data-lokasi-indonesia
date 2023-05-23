@@ -1,0 +1,17 @@
+{
+    "code": "6202072001",
+    "name": "Pondok Damar",
+    "poscode": "74361",
+    "provinsi": {
+        "code": "62",
+        "name": "Kalimantan Tengah"
+    },
+    "kabupaten": {
+        "code": "6202",
+        "name": "Kotawaringin Timur"
+    },
+    "kecamatan": {
+        "code": "620207",
+        "name": "Mentaya Hilir Utara"
+    }
+}

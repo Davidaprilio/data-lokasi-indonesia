@@ -1,0 +1,17 @@
+{
+    "code": "3218102001",
+    "name": "Sidamulih",
+    "poscode": "46365",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3218",
+        "name": "Pangandaran"
+    },
+    "kecamatan": {
+        "code": "321810",
+        "name": "Sidamulih"
+    }
+}

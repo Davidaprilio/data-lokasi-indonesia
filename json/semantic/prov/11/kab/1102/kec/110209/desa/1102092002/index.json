@@ -1,0 +1,17 @@
+{
+    "code": "1102092002",
+    "name": "Kute Lengat Selian (Kuta Lengat Selian)",
+    "poscode": "24671",
+    "provinsi": {
+        "code": "11",
+        "name": "Aceh (NAD)"
+    },
+    "kabupaten": {
+        "code": "1102",
+        "name": "Aceh Tenggara"
+    },
+    "kecamatan": {
+        "code": "110209",
+        "name": "Bukit Tusam"
+    }
+}

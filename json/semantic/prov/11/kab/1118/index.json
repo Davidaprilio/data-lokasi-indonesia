@@ -1,0 +1,10 @@
+{
+    "code": "1118",
+    "type": "Kabupaten",
+    "name": "Pidie Jaya",
+    "fullname": "Kabupaten Pidie Jaya",
+    "jumlah": {
+        "kecamatan": 8,
+        "desa": 222
+    }
+}

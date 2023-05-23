@@ -1,0 +1,17 @@
+{
+    "code": "3321032007",
+    "name": "Bogosari",
+    "poscode": "59565",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3321",
+        "name": "Demak"
+    },
+    "kecamatan": {
+        "code": "332103",
+        "name": "Guntur"
+    }
+}

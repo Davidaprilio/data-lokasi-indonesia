@@ -1,0 +1,17 @@
+{
+    "code": "5203112004",
+    "name": "Perian",
+    "poscode": "83663",
+    "provinsi": {
+        "code": "52",
+        "name": "Nusa Tenggara Barat (NTB)"
+    },
+    "kabupaten": {
+        "code": "5203",
+        "name": "Lombok Timur"
+    },
+    "kecamatan": {
+        "code": "520311",
+        "name": "Montong Gading"
+    }
+}

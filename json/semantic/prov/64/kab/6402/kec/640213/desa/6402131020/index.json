@@ -1,0 +1,17 @@
+{
+    "code": "6402131020",
+    "name": "Karya Merdeka",
+    "poscode": "75271",
+    "provinsi": {
+        "code": "64",
+        "name": "Kalimantan Timur"
+    },
+    "kabupaten": {
+        "code": "6402",
+        "name": "Kutai Kartanegara"
+    },
+    "kecamatan": {
+        "code": "640213",
+        "name": "Samboja (Semboja)"
+    }
+}

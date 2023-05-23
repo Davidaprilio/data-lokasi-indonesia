@@ -1,0 +1,17 @@
+{
+    "code": "3374071003",
+    "name": "Barusari",
+    "poscode": "50245",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3374",
+        "name": "Semarang"
+    },
+    "kecamatan": {
+        "code": "337407",
+        "name": "Semarang Selatan"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "3313032004",
+    "name": "Kwangsan",
+    "poscode": "57783",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3313",
+        "name": "Karanganyar"
+    },
+    "kecamatan": {
+        "code": "331303",
+        "name": "Jumapolo"
+    }
+}

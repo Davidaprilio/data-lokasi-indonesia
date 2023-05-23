@@ -1,0 +1,17 @@
+{
+    "code": "1571071002",
+    "name": "Simpang III Sipin (Simpang Tiga Sipin)",
+    "poscode": "36126",
+    "provinsi": {
+        "code": "15",
+        "name": "Jambi"
+    },
+    "kabupaten": {
+        "code": "1571",
+        "name": "Jambi"
+    },
+    "kecamatan": {
+        "code": "157107",
+        "name": "Kota Baru"
+    }
+}

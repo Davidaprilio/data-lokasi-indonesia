@@ -1,0 +1,17 @@
+{
+    "code": "3301231001",
+    "name": "Mertasinga",
+    "poscode": "53232",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3301",
+        "name": "Cilacap"
+    },
+    "kecamatan": {
+        "code": "330123",
+        "name": "Cilacap Utara"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "3207012012",
+    "name": "Panyingkiran",
+    "poscode": "46211",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3207",
+        "name": "Ciamis"
+    },
+    "kecamatan": {
+        "code": "320701",
+        "name": "Ciamis"
+    }
+}

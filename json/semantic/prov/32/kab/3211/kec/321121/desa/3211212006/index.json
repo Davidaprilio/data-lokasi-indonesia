@@ -1,0 +1,17 @@
+{
+    "code": "3211212006",
+    "name": "Tanjungwangi",
+    "poscode": "45352",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3211",
+        "name": "Sumedang"
+    },
+    "kecamatan": {
+        "code": "321121",
+        "name": "Tanjungmedar"
+    }
+}

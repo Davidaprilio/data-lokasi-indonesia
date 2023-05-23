@@ -1,0 +1,17 @@
+{
+    "code": "1901052004",
+    "name": "Sempan",
+    "poscode": "33251",
+    "provinsi": {
+        "code": "19",
+        "name": "Kepulauan Bangka Belitung"
+    },
+    "kabupaten": {
+        "code": "1901",
+        "name": "Bangka"
+    },
+    "kecamatan": {
+        "code": "190105",
+        "name": "Pemali"
+    }
+}

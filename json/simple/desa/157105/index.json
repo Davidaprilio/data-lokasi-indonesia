@@ -1,0 +1,32 @@
+[
+    {
+        "code": "1571051001",
+        "name": "Arab Melayu",
+        "poscode": "36251"
+    },
+    {
+        "code": "1571051003",
+        "name": "Jelmu",
+        "poscode": "36253"
+    },
+    {
+        "code": "1571051002",
+        "name": "Mudung Laut",
+        "poscode": "36252"
+    },
+    {
+        "code": "1571051005",
+        "name": "Tahtul Yaman",
+        "poscode": "36255"
+    },
+    {
+        "code": "1571051006",
+        "name": "Tanjung Johor",
+        "poscode": "36256"
+    },
+    {
+        "code": "1571051004",
+        "name": "Tengah",
+        "poscode": "36254"
+    }
+]

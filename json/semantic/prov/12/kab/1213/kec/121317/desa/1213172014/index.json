@@ -1,0 +1,17 @@
+{
+    "code": "1213172014",
+    "name": "Suka Makmur",
+    "poscode": "22989",
+    "provinsi": {
+        "code": "12",
+        "name": "Sumatera Utara"
+    },
+    "kabupaten": {
+        "code": "1213",
+        "name": "Mandailing Natal"
+    },
+    "kecamatan": {
+        "code": "121317",
+        "name": "Muara Batang Gadis"
+    }
+}

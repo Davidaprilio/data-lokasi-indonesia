@@ -1,0 +1,17 @@
+{
+    "code": "9206122002",
+    "name": "Tisaida",
+    "poscode": "98145",
+    "provinsi": {
+        "code": "92",
+        "name": "Papua Barat"
+    },
+    "kabupaten": {
+        "code": "9206",
+        "name": "Teluk Bintuni"
+    },
+    "kecamatan": {
+        "code": "920612",
+        "name": "Tuhiba"
+    }
+}

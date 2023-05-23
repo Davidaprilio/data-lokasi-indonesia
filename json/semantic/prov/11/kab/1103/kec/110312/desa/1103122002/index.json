@@ -1,0 +1,17 @@
+{
+    "code": "1103122002",
+    "name": "Matang Keupula Sa (Matang Kupula / Keupula Satu)",
+    "poscode": "24462",
+    "provinsi": {
+        "code": "11",
+        "name": "Aceh (NAD)"
+    },
+    "kabupaten": {
+        "code": "1103",
+        "name": "Aceh Timur"
+    },
+    "kecamatan": {
+        "code": "110312",
+        "name": "Madat"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "1508012002",
+    "name": "Lubuk Niur",
+    "poscode": "37255",
+    "provinsi": {
+        "code": "15",
+        "name": "Jambi"
+    },
+    "kabupaten": {
+        "code": "1508",
+        "name": "Bungo"
+    },
+    "kecamatan": {
+        "code": "150801",
+        "name": "Tanah Tumbuh"
+    }
+}

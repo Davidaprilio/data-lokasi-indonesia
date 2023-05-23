@@ -1,0 +1,17 @@
+{
+    "code": "7207052013",
+    "name": "Balayon",
+    "poscode": "94883",
+    "provinsi": {
+        "code": "72",
+        "name": "Sulawesi Tengah"
+    },
+    "kabupaten": {
+        "code": "7207",
+        "name": "Banggai Kepulauan"
+    },
+    "kecamatan": {
+        "code": "720705",
+        "name": "Liang"
+    }
+}

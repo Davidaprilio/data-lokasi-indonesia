@@ -1,0 +1,17 @@
+{
+    "code": "9210112001",
+    "name": "Suswa",
+    "poscode": "98251",
+    "provinsi": {
+        "code": "96",
+        "name": "Papua Barat Daya"
+    },
+    "kabupaten": {
+        "code": "9210",
+        "name": "Maybrat"
+    },
+    "kecamatan": {
+        "code": "921011",
+        "name": "Mare"
+    }
+}

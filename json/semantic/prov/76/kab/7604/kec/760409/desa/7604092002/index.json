@@ -1,0 +1,17 @@
+{
+    "code": "7604092002",
+    "name": "Lilli",
+    "poscode": "91350",
+    "provinsi": {
+        "code": "76",
+        "name": "Sulawesi Barat"
+    },
+    "kabupaten": {
+        "code": "7604",
+        "name": "Polewali Mandar"
+    },
+    "kecamatan": {
+        "code": "760409",
+        "name": "Matangnga"
+    }
+}

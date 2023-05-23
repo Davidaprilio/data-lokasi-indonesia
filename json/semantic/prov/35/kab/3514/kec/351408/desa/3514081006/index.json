@@ -1,0 +1,17 @@
+{
+    "code": "3514081006",
+    "name": "Purwosari",
+    "poscode": "67162",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3514",
+        "name": "Pasuruan"
+    },
+    "kecamatan": {
+        "code": "351408",
+        "name": "Purwosari"
+    }
+}

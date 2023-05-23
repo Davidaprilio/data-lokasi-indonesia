@@ -1,0 +1,17 @@
+{
+    "code": "3372051013",
+    "name": "Banyuanyar",
+    "poscode": "57137",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3372",
+        "name": "Surakarta"
+    },
+    "kecamatan": {
+        "code": "337205",
+        "name": "Banjarsari"
+    }
+}

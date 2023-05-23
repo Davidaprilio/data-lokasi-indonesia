@@ -1,0 +1,17 @@
+{
+    "code": "7371121001",
+    "name": "Manggala",
+    "poscode": "90234",
+    "provinsi": {
+        "code": "73",
+        "name": "Sulawesi Selatan"
+    },
+    "kabupaten": {
+        "code": "7371",
+        "name": "Makassar"
+    },
+    "kecamatan": {
+        "code": "737112",
+        "name": "Manggala"
+    }
+}

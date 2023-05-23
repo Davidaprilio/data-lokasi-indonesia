@@ -1,0 +1,17 @@
+{
+    "code": "9202052024",
+    "name": "Membowi",
+    "poscode": "98318",
+    "provinsi": {
+        "code": "92",
+        "name": "Papua Barat"
+    },
+    "kabupaten": {
+        "code": "9202",
+        "name": "Manokwari"
+    },
+    "kecamatan": {
+        "code": "920205",
+        "name": "Masni"
+    }
+}

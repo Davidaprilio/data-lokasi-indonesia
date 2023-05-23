@@ -1,0 +1,121 @@
+[
+    {
+        "code": "620308",
+        "name": "Basarang",
+        "count": {
+            "desa": 14
+        }
+    },
+    {
+        "code": "620317",
+        "name": "Bataguh",
+        "count": {
+            "desa": 15
+        }
+    },
+    {
+        "code": "620316",
+        "name": "Dadahup",
+        "count": {
+            "desa": 13
+        }
+    },
+    {
+        "code": "620305",
+        "name": "Kapuas Barat",
+        "count": {
+            "desa": 12
+        }
+    },
+    {
+        "code": "620302",
+        "name": "Kapuas Hilir",
+        "count": {
+            "desa": 8
+        }
+    },
+    {
+        "code": "620312",
+        "name": "Kapuas Hulu",
+        "count": {
+            "desa": 14
+        }
+    },
+    {
+        "code": "620304",
+        "name": "Kapuas Kuala",
+        "count": {
+            "desa": 13
+        }
+    },
+    {
+        "code": "620307",
+        "name": "Kapuas Murung",
+        "count": {
+            "desa": 23
+        }
+    },
+    {
+        "code": "620311",
+        "name": "Kapuas Tengah",
+        "count": {
+            "desa": 13
+        }
+    },
+    {
+        "code": "620303",
+        "name": "Kapuas Timur",
+        "count": {
+            "desa": 7
+        }
+    },
+    {
+        "code": "620315",
+        "name": "Mandau Talawang",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "620309",
+        "name": "Mantangai",
+        "count": {
+            "desa": 38
+        }
+    },
+    {
+        "code": "620314",
+        "name": "Pasak Talawang",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "620306",
+        "name": "Pulau Petak",
+        "count": {
+            "desa": 12
+        }
+    },
+    {
+        "code": "620301",
+        "name": "Selat",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "620313",
+        "name": "Tamban Catur",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "620310",
+        "name": "Timpah",
+        "count": {
+            "desa": 9
+        }
+    }
+]

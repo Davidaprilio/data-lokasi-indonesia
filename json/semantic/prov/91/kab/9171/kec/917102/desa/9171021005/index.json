@@ -1,0 +1,17 @@
+{
+    "code": "9171021005",
+    "name": "Entrop",
+    "poscode": "99224",
+    "provinsi": {
+        "code": "91",
+        "name": "Papua"
+    },
+    "kabupaten": {
+        "code": "9171",
+        "name": "Jayapura"
+    },
+    "kecamatan": {
+        "code": "917102",
+        "name": "Jayapura Selatan"
+    }
+}

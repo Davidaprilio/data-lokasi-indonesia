@@ -1,0 +1,17 @@
+{
+    "code": "7201052023",
+    "name": "Tinonda",
+    "poscode": "94771",
+    "provinsi": {
+        "code": "72",
+        "name": "Sulawesi Tengah"
+    },
+    "kabupaten": {
+        "code": "7201",
+        "name": "Banggai"
+    },
+    "kecamatan": {
+        "code": "720105",
+        "name": "Lamala"
+    }
+}

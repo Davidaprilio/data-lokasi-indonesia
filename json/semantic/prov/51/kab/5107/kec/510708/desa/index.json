@@ -1,0 +1,47 @@
+[
+    {
+        "code": "5107082001",
+        "name": "Ban",
+        "poscode": "80853"
+    },
+    {
+        "code": "5107082008",
+        "name": "Baturinggit (Batu Ringgit)",
+        "poscode": "80853"
+    },
+    {
+        "code": "5107082002",
+        "name": "Dukuh",
+        "poscode": "80853"
+    },
+    {
+        "code": "5107082003",
+        "name": "Kubu",
+        "poscode": "80853"
+    },
+    {
+        "code": "5107082009",
+        "name": "Sukadana",
+        "poscode": "80853"
+    },
+    {
+        "code": "5107082004",
+        "name": "Tianyar (Tianyar Timur)",
+        "poscode": "80853"
+    },
+    {
+        "code": "5107082005",
+        "name": "Tianyar Barat",
+        "poscode": "80853"
+    },
+    {
+        "code": "5107082006",
+        "name": "Tianyar Tengah",
+        "poscode": "80853"
+    },
+    {
+        "code": "5107082007",
+        "name": "Tulamben",
+        "poscode": "80853"
+    }
+]

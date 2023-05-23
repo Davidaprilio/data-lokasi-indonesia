@@ -1,0 +1,17 @@
+{
+    "code": "3318042005",
+    "name": "Karangsumber",
+    "poscode": "59181",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3318",
+        "name": "Pati"
+    },
+    "kecamatan": {
+        "code": "331804",
+        "name": "Winong"
+    }
+}

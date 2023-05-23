@@ -1,0 +1,17 @@
+{
+    "code": "9502302004",
+    "name": "Tupalma Dua",
+    "poscode": "99402",
+    "provinsi": {
+        "code": "95",
+        "name": "Papua Pegunungan"
+    },
+    "kabupaten": {
+        "code": "9502",
+        "name": "Pegunungan Bintang"
+    },
+    "kecamatan": {
+        "code": "950230",
+        "name": "Jetfa"
+    }
+}

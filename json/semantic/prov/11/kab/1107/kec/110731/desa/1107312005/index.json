@@ -1,0 +1,17 @@
+{
+    "code": "1107312005",
+    "name": "Pulo Raya",
+    "poscode": "24168",
+    "provinsi": {
+        "code": "11",
+        "name": "Aceh (NAD)"
+    },
+    "kabupaten": {
+        "code": "1107",
+        "name": "Pidie"
+    },
+    "kecamatan": {
+        "code": "110731",
+        "name": "Titeue"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "1609092012",
+    "name": "Sidodadi",
+    "poscode": "32265",
+    "provinsi": {
+        "code": "16",
+        "name": "Sumatera Selatan"
+    },
+    "kabupaten": {
+        "code": "1609",
+        "name": "Ogan Komering Ulu Selatan"
+    },
+    "kecamatan": {
+        "code": "160909",
+        "name": "Buay Pemaca"
+    }
+}

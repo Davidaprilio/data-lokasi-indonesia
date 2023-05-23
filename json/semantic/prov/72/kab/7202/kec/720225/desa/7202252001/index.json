@@ -1,0 +1,17 @@
+{
+    "code": "7202252001",
+    "name": "Watutau",
+    "poscode": "94653",
+    "provinsi": {
+        "code": "72",
+        "name": "Sulawesi Tengah"
+    },
+    "kabupaten": {
+        "code": "7202",
+        "name": "Poso"
+    },
+    "kecamatan": {
+        "code": "720225",
+        "name": "Lore Piore"
+    }
+}

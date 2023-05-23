@@ -1,0 +1,17 @@
+{
+    "code": "3502052003",
+    "name": "Tumpak Pelem (Tumpakpelem)",
+    "poscode": "63475",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3502",
+        "name": "Ponorogo"
+    },
+    "kecamatan": {
+        "code": "350205",
+        "name": "Sawoo"
+    }
+}

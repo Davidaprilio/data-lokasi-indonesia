@@ -1,0 +1,17 @@
+{
+    "code": "6304072002",
+    "name": "Pindahan Baru",
+    "poscode": "70561",
+    "provinsi": {
+        "code": "63",
+        "name": "Kalimantan Selatan"
+    },
+    "kabupaten": {
+        "code": "6304",
+        "name": "Barito Kuala"
+    },
+    "kecamatan": {
+        "code": "630407",
+        "name": "Rantau Badauh"
+    }
+}

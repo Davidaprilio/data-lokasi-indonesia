@@ -1,0 +1,10 @@
+{
+    "code": "5312",
+    "type": "Kabupaten",
+    "name": "Sumba Barat",
+    "fullname": "Kabupaten Sumba Barat",
+    "jumlah": {
+        "kecamatan": 6,
+        "desa": 74
+    }
+}

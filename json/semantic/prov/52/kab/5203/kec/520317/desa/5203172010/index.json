@@ -1,0 +1,17 @@
+{
+    "code": "5203172010",
+    "name": "Banjarsari",
+    "poscode": "83614",
+    "provinsi": {
+        "code": "52",
+        "name": "Nusa Tenggara Barat (NTB)"
+    },
+    "kabupaten": {
+        "code": "5203",
+        "name": "Lombok Timur"
+    },
+    "kecamatan": {
+        "code": "520317",
+        "name": "Labuhan Haji"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "1274041004",
+    "name": "Kapias Pulau Buaya",
+    "poscode": "21331",
+    "provinsi": {
+        "code": "12",
+        "name": "Sumatera Utara"
+    },
+    "kabupaten": {
+        "code": "1274",
+        "name": "Tanjung Balai"
+    },
+    "kecamatan": {
+        "code": "127404",
+        "name": "Teluk Nibung"
+    }
+}

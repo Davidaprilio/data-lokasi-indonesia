@@ -1,0 +1,17 @@
+{
+    "code": "1503012014",
+    "name": "Bukit Kalimau Ulu",
+    "poscode": "37485",
+    "provinsi": {
+        "code": "15",
+        "name": "Jambi"
+    },
+    "kabupaten": {
+        "code": "1503",
+        "name": "Sarolangun"
+    },
+    "kecamatan": {
+        "code": "150301",
+        "name": "Batang Asai"
+    }
+}

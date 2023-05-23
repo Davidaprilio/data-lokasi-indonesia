@@ -1,0 +1,17 @@
+{
+    "code": "3521162007",
+    "name": "Cantel",
+    "poscode": "63252",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3521",
+        "name": "Ngawi"
+    },
+    "kecamatan": {
+        "code": "352116",
+        "name": "Pitu"
+    }
+}

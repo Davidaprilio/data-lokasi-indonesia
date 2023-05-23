@@ -1,0 +1,17 @@
+{
+    "code": "6311032004",
+    "name": "Bihara",
+    "poscode": "71664",
+    "provinsi": {
+        "code": "63",
+        "name": "Kalimantan Selatan"
+    },
+    "kabupaten": {
+        "code": "6311",
+        "name": "Balangan"
+    },
+    "kecamatan": {
+        "code": "631103",
+        "name": "Awayan"
+    }
+}

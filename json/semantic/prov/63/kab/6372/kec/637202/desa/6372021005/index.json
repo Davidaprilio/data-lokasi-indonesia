@@ -1,0 +1,17 @@
+{
+    "code": "6372021005",
+    "name": "Guntung Manggis",
+    "poscode": "70724",
+    "provinsi": {
+        "code": "63",
+        "name": "Kalimantan Selatan"
+    },
+    "kabupaten": {
+        "code": "6372",
+        "name": "Banjarbaru"
+    },
+    "kecamatan": {
+        "code": "637202",
+        "name": "Landasan Ulin"
+    }
+}

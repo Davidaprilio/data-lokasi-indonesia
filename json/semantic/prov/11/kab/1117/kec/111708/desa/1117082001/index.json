@@ -1,0 +1,17 @@
+{
+    "code": "1117082001",
+    "name": "Bandar Jaya (Batin Bandar Jaya)",
+    "poscode": "24583",
+    "provinsi": {
+        "code": "11",
+        "name": "Aceh (NAD)"
+    },
+    "kabupaten": {
+        "code": "1117",
+        "name": "Bener Meriah"
+    },
+    "kecamatan": {
+        "code": "111708",
+        "name": "Bener Kelipah"
+    }
+}

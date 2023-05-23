@@ -1,0 +1,17 @@
+{
+    "code": "9209232006",
+    "name": "Nabisai",
+    "poscode": "98393",
+    "provinsi": {
+        "code": "96",
+        "name": "Papua Barat Daya"
+    },
+    "kabupaten": {
+        "code": "9209",
+        "name": "Tambrauw"
+    },
+    "kecamatan": {
+        "code": "920923",
+        "name": "Kebar Timur"
+    }
+}

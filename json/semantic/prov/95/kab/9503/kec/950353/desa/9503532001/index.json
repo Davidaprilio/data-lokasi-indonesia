@@ -1,0 +1,17 @@
+{
+    "code": "9503532001",
+    "name": "Sumo",
+    "poscode": "99714",
+    "provinsi": {
+        "code": "95",
+        "name": "Papua Pegunungan"
+    },
+    "kabupaten": {
+        "code": "9503",
+        "name": "Yahukimo"
+    },
+    "kecamatan": {
+        "code": "950353",
+        "name": "Sumo"
+    }
+}

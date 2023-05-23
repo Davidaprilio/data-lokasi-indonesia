@@ -1,0 +1,86 @@
+[
+    {
+        "code": "130804",
+        "name": "Bonjol",
+        "count": {
+            "desa": 4
+        }
+    },
+    {
+        "code": "130812",
+        "name": "Duo Koto",
+        "count": {
+            "desa": 2
+        }
+    },
+    {
+        "code": "130805",
+        "name": "Lubuk Sikaping",
+        "count": {
+            "desa": 6
+        }
+    },
+    {
+        "code": "130808",
+        "name": "Mapat Tunggul",
+        "count": {
+            "desa": 3
+        }
+    },
+    {
+        "code": "130815",
+        "name": "Mapat Tunggul Selatan",
+        "count": {
+            "desa": 2
+        }
+    },
+    {
+        "code": "130817",
+        "name": "Padang Gelugur",
+        "count": {
+            "desa": 4
+        }
+    },
+    {
+        "code": "130807",
+        "name": "Panti",
+        "count": {
+            "desa": 3
+        }
+    },
+    {
+        "code": "130814",
+        "name": "Rao",
+        "count": {
+            "desa": 2
+        }
+    },
+    {
+        "code": "130819",
+        "name": "Rao Selatan",
+        "count": {
+            "desa": 3
+        }
+    },
+    {
+        "code": "130818",
+        "name": "Rao Utara",
+        "count": {
+            "desa": 3
+        }
+    },
+    {
+        "code": "130816",
+        "name": "Simpang Alahan Mati",
+        "count": {
+            "desa": 2
+        }
+    },
+    {
+        "code": "130813",
+        "name": "Tigo Nagari",
+        "count": {
+            "desa": 3
+        }
+    }
+]

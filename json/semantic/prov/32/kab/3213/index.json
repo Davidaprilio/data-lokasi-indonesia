@@ -1,0 +1,10 @@
+{
+    "code": "3213",
+    "type": "Kabupaten",
+    "name": "Subang",
+    "fullname": "Kabupaten Subang",
+    "jumlah": {
+        "kecamatan": 30,
+        "desa": 253
+    }
+}

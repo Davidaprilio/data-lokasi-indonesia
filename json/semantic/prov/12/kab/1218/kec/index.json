@@ -1,0 +1,121 @@
+[
+    {
+        "code": "121806",
+        "name": "Bandar Khalifah",
+        "count": {
+            "desa": 5
+        }
+    },
+    {
+        "code": "121817",
+        "name": "Bintang Bayu",
+        "count": {
+            "desa": 19
+        }
+    },
+    {
+        "code": "121809",
+        "name": "Dolok Masihul",
+        "count": {
+            "desa": 28
+        }
+    },
+    {
+        "code": "121807",
+        "name": "Dolok Merawan",
+        "count": {
+            "desa": 17
+        }
+    },
+    {
+        "code": "121810",
+        "name": "Kotarih",
+        "count": {
+            "desa": 11
+        }
+    },
+    {
+        "code": "121801",
+        "name": "Pantai Cermin",
+        "count": {
+            "desa": 12
+        }
+    },
+    {
+        "code": "121814",
+        "name": "Pegajahan",
+        "count": {
+            "desa": 13
+        }
+    },
+    {
+        "code": "121802",
+        "name": "Perbaungan",
+        "count": {
+            "desa": 28
+        }
+    },
+    {
+        "code": "121815",
+        "name": "Sei Bamban",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "121804",
+        "name": "Sei Rampah",
+        "count": {
+            "desa": 17
+        }
+    },
+    {
+        "code": "121812",
+        "name": "Serba Jadi",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "121811",
+        "name": "Silinda",
+        "count": {
+            "desa": 9
+        }
+    },
+    {
+        "code": "121808",
+        "name": "Sipispis",
+        "count": {
+            "desa": 20
+        }
+    },
+    {
+        "code": "121805",
+        "name": "Tanjung Beringin",
+        "count": {
+            "desa": 8
+        }
+    },
+    {
+        "code": "121816",
+        "name": "Tebing Syahbandar",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "121813",
+        "name": "Tebing Tinggi",
+        "count": {
+            "desa": 14
+        }
+    },
+    {
+        "code": "121803",
+        "name": "Teluk Mengkudu",
+        "count": {
+            "desa": 12
+        }
+    }
+]

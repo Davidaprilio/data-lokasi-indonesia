@@ -1,0 +1,17 @@
+{
+    "code": "5311161001",
+    "name": "Wangga",
+    "poscode": "87116",
+    "provinsi": {
+        "code": "53",
+        "name": "Nusa Tenggara Timur (NTT)"
+    },
+    "kabupaten": {
+        "code": "5311",
+        "name": "Sumba Timur"
+    },
+    "kecamatan": {
+        "code": "531116",
+        "name": "Kambera"
+    }
+}

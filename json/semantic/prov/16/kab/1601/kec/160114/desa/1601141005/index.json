@@ -1,0 +1,17 @@
+{
+    "code": "1601141005",
+    "name": "Sukaraya",
+    "poscode": "32112",
+    "provinsi": {
+        "code": "16",
+        "name": "Sumatera Selatan"
+    },
+    "kabupaten": {
+        "code": "1601",
+        "name": "Ogan Komering Ulu"
+    },
+    "kecamatan": {
+        "code": "160114",
+        "name": "Baturaja Timur"
+    }
+}

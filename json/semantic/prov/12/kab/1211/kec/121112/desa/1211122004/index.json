@@ -1,0 +1,17 @@
+{
+    "code": "1211122004",
+    "name": "Rante Besi",
+    "poscode": "22250",
+    "provinsi": {
+        "code": "12",
+        "name": "Sumatera Utara"
+    },
+    "kabupaten": {
+        "code": "1211",
+        "name": "Dairi"
+    },
+    "kecamatan": {
+        "code": "121112",
+        "name": "Gunung Sitember"
+    }
+}

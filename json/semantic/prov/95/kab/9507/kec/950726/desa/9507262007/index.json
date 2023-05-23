@@ -1,0 +1,17 @@
+{
+    "code": "9507262007",
+    "name": "Lorea",
+    "poscode": "99584",
+    "provinsi": {
+        "code": "95",
+        "name": "Papua Pegunungan"
+    },
+    "kabupaten": {
+        "code": "9507",
+        "name": "Lanny Jaya"
+    },
+    "kecamatan": {
+        "code": "950726",
+        "name": "Balingga Barat"
+    }
+}

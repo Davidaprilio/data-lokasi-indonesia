@@ -1,0 +1,17 @@
+{
+    "code": "7206102006",
+    "name": "Bahodopi",
+    "poscode": "94974",
+    "provinsi": {
+        "code": "72",
+        "name": "Sulawesi Tengah"
+    },
+    "kabupaten": {
+        "code": "7206",
+        "name": "Morowali"
+    },
+    "kecamatan": {
+        "code": "720610",
+        "name": "Bahodopi"
+    }
+}

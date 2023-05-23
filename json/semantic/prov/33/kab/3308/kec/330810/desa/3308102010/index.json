@@ -1,0 +1,17 @@
+{
+    "code": "3308102010",
+    "name": "Banyurojo",
+    "poscode": "56172",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3308",
+        "name": "Magelang"
+    },
+    "kecamatan": {
+        "code": "330810",
+        "name": "Mertoyudan"
+    }
+}

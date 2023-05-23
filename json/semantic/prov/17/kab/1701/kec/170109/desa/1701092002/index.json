@@ -1,0 +1,17 @@
+{
+    "code": "1701092002",
+    "name": "Batu Kuning",
+    "poscode": "38573",
+    "provinsi": {
+        "code": "17",
+        "name": "Bengkulu"
+    },
+    "kabupaten": {
+        "code": "1701",
+        "name": "Bengkulu Selatan"
+    },
+    "kecamatan": {
+        "code": "170109",
+        "name": "Ulu Manna"
+    }
+}

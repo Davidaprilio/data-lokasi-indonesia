@@ -1,0 +1,51 @@
+[
+    {
+        "code": "131103",
+        "name": "Koto Parik Gadang Diateh",
+        "count": {
+            "desa": 4
+        }
+    },
+    {
+        "code": "131106",
+        "name": "Pauh Duo",
+        "count": {
+            "desa": 4
+        }
+    },
+    {
+        "code": "131101",
+        "name": "Sangir",
+        "count": {
+            "desa": 4
+        }
+    },
+    {
+        "code": "131107",
+        "name": "Sangir Balai Janggo",
+        "count": {
+            "desa": 4
+        }
+    },
+    {
+        "code": "131105",
+        "name": "Sangir Batang Hari",
+        "count": {
+            "desa": 7
+        }
+    },
+    {
+        "code": "131104",
+        "name": "Sangir Jujuan",
+        "count": {
+            "desa": 5
+        }
+    },
+    {
+        "code": "131102",
+        "name": "Sungai Pagu",
+        "count": {
+            "desa": 11
+        }
+    }
+]

@@ -1,0 +1,17 @@
+{
+    "code": "7408092002",
+    "name": "Lahabaru",
+    "poscode": "93959",
+    "provinsi": {
+        "code": "74",
+        "name": "Sulawesi Tenggara"
+    },
+    "kabupaten": {
+        "code": "7408",
+        "name": "Kolaka Utara"
+    },
+    "kecamatan": {
+        "code": "740809",
+        "name": "Watunohu"
+    }
+}

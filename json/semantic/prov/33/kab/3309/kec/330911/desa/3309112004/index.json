@@ -1,0 +1,17 @@
+{
+    "code": "3309112004",
+    "name": "Gagaksipat",
+    "poscode": "57375",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3309",
+        "name": "Boyolali"
+    },
+    "kecamatan": {
+        "code": "330911",
+        "name": "Ngemplak"
+    }
+}

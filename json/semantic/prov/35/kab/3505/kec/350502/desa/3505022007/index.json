@@ -1,0 +1,17 @@
+{
+    "code": "3505022007",
+    "name": "Karanggondang",
+    "poscode": "66154",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3505",
+        "name": "Blitar"
+    },
+    "kecamatan": {
+        "code": "350502",
+        "name": "Udanawu"
+    }
+}

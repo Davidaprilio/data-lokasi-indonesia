@@ -1,0 +1,17 @@
+{
+    "code": "7307012008",
+    "name": "Boto Lempangan",
+    "poscode": "92653",
+    "provinsi": {
+        "code": "73",
+        "name": "Sulawesi Selatan"
+    },
+    "kabupaten": {
+        "code": "7307",
+        "name": "Sinjai"
+    },
+    "kecamatan": {
+        "code": "730701",
+        "name": "Sinjai Barat"
+    }
+}

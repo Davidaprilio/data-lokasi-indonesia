@@ -1,0 +1,47 @@
+[
+    {
+        "code": "6371031009",
+        "name": "Basirih",
+        "poscode": "70245"
+    },
+    {
+        "code": "6371031002",
+        "name": "Belitung Selatan",
+        "poscode": "70116"
+    },
+    {
+        "code": "6371031001",
+        "name": "Belitung Utara",
+        "poscode": "70116"
+    },
+    {
+        "code": "6371031008",
+        "name": "Kuin Cerucuk",
+        "poscode": "70129"
+    },
+    {
+        "code": "6371031007",
+        "name": "Kuin Selatan",
+        "poscode": "70128"
+    },
+    {
+        "code": "6371031003",
+        "name": "Pelambuan",
+        "poscode": "70118"
+    },
+    {
+        "code": "6371031004",
+        "name": "Telaga Biru",
+        "poscode": "70119"
+    },
+    {
+        "code": "6371031005",
+        "name": "Telawang",
+        "poscode": "70112"
+    },
+    {
+        "code": "6371031006",
+        "name": "Teluk Tiram",
+        "poscode": "70113"
+    }
+]

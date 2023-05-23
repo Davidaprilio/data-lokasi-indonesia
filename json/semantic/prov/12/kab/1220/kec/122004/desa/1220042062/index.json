@@ -1,0 +1,17 @@
+{
+    "code": "1220042062",
+    "name": "Sigama",
+    "poscode": "22754",
+    "provinsi": {
+        "code": "12",
+        "name": "Sumatera Utara"
+    },
+    "kabupaten": {
+        "code": "1220",
+        "name": "Padang Lawas Utara"
+    },
+    "kecamatan": {
+        "code": "122004",
+        "name": "Padang Bolak"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "7606042011",
+    "name": "Tappilina",
+    "poscode": "91464",
+    "provinsi": {
+        "code": "76",
+        "name": "Sulawesi Barat"
+    },
+    "kabupaten": {
+        "code": "7606",
+        "name": "Mamuju Tengah"
+    },
+    "kecamatan": {
+        "code": "760604",
+        "name": "Topoyo"
+    }
+}

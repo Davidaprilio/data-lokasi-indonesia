@@ -1,0 +1,17 @@
+{
+    "code": "3273091003",
+    "name": "Citarum",
+    "poscode": "40115",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3273",
+        "name": "Bandung"
+    },
+    "kecamatan": {
+        "code": "327309",
+        "name": "Bandung Wetan"
+    }
+}

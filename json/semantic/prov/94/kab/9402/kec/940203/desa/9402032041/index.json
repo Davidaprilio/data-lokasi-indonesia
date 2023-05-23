@@ -1,0 +1,17 @@
+{
+    "code": "9402032041",
+    "name": "Juria Satu",
+    "poscode": "98935",
+    "provinsi": {
+        "code": "94",
+        "name": "Papua Tengah"
+    },
+    "kabupaten": {
+        "code": "9402",
+        "name": "Puncak Jaya"
+    },
+    "kecamatan": {
+        "code": "940203",
+        "name": "Ilu"
+    }
+}

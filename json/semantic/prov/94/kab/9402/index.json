@@ -1,0 +1,10 @@
+{
+    "code": "9402",
+    "type": "Kabupaten",
+    "name": "Puncak Jaya",
+    "fullname": "Kabupaten Puncak Jaya",
+    "jumlah": {
+        "kecamatan": 26,
+        "desa": 305
+    }
+}

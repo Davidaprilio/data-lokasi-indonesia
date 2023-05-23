@@ -1,0 +1,17 @@
+{
+    "code": "1905032005",
+    "name": "Rukam",
+    "poscode": "33362",
+    "provinsi": {
+        "code": "19",
+        "name": "Kepulauan Bangka Belitung"
+    },
+    "kabupaten": {
+        "code": "1905",
+        "name": "Bangka Barat"
+    },
+    "kecamatan": {
+        "code": "190503",
+        "name": "Jebus"
+    }
+}

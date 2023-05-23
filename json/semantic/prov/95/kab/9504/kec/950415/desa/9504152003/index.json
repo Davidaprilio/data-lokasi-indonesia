@@ -1,0 +1,17 @@
+{
+    "code": "9504152003",
+    "name": "Abimbak",
+    "poscode": "99013",
+    "provinsi": {
+        "code": "95",
+        "name": "Papua Pegunungan"
+    },
+    "kabupaten": {
+        "code": "9504",
+        "name": "Tolikara"
+    },
+    "kecamatan": {
+        "code": "950415",
+        "name": "Bokoneri"
+    }
+}

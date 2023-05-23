@@ -1,0 +1,17 @@
+{
+    "code": "3374041002",
+    "name": "Kaligawe",
+    "poscode": "50164",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3374",
+        "name": "Semarang"
+    },
+    "kecamatan": {
+        "code": "337404",
+        "name": "Gayamsari"
+    }
+}

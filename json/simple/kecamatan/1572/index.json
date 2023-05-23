@@ -1,0 +1,58 @@
+[
+    {
+        "code": "157203",
+        "name": "Hamparan Rawang",
+        "count": {
+            "desa": 13
+        }
+    },
+    {
+        "code": "157207",
+        "name": "Koto Baru",
+        "count": {
+            "desa": 6
+        }
+    },
+    {
+        "code": "157205",
+        "name": "Kumun Debai",
+        "count": {
+            "desa": 9
+        }
+    },
+    {
+        "code": "157202",
+        "name": "Pesisir Bukit",
+        "count": {
+            "desa": 9
+        }
+    },
+    {
+        "code": "157206",
+        "name": "Pondok Tinggi",
+        "count": {
+            "desa": 8
+        }
+    },
+    {
+        "code": "157208",
+        "name": "Sungai Bungkal",
+        "count": {
+            "desa": 6
+        }
+    },
+    {
+        "code": "157201",
+        "name": "Sungai Penuh",
+        "count": {
+            "desa": 5
+        }
+    },
+    {
+        "code": "157204",
+        "name": "Tanah Kampung",
+        "count": {
+            "desa": 13
+        }
+    }
+]

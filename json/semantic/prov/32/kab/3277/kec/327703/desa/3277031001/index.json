@@ -1,0 +1,17 @@
+{
+    "code": "3277031001",
+    "name": "Pasirkaliki",
+    "poscode": "40514",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3277",
+        "name": "Cimahi"
+    },
+    "kecamatan": {
+        "code": "327703",
+        "name": "Cimahi Utara"
+    }
+}

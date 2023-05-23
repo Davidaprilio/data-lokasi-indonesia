@@ -1,0 +1,17 @@
+{
+    "code": "3578241002",
+    "name": "Kendangsari",
+    "poscode": "60292",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3578",
+        "name": "Surabaya"
+    },
+    "kecamatan": {
+        "code": "357824",
+        "name": "Tenggilis Mejoyo"
+    }
+}

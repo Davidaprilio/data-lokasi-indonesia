@@ -1,0 +1,17 @@
+{
+    "code": "8206022013",
+    "name": "Geltoli",
+    "poscode": "97860",
+    "provinsi": {
+        "code": "82",
+        "name": "Maluku Utara"
+    },
+    "kabupaten": {
+        "code": "8206",
+        "name": "Halmahera Timur"
+    },
+    "kecamatan": {
+        "code": "820602",
+        "name": "Maba"
+    }
+}

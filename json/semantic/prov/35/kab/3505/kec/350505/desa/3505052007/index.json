@@ -1,0 +1,17 @@
+{
+    "code": "3505052007",
+    "name": "Bululawang",
+    "poscode": "66163",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3505",
+        "name": "Blitar"
+    },
+    "kecamatan": {
+        "code": "350505",
+        "name": "Bakung"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "code": "3172",
+    "type": "Kota",
+    "name": "Jakarta Utara",
+    "fullname": "Kota Jakarta Utara",
+    "jumlah": {
+        "kecamatan": 6,
+        "desa": 31
+    }
+}

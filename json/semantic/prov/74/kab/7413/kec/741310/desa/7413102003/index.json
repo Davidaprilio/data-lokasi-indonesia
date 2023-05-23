@@ -1,0 +1,17 @@
+{
+    "code": "7413102003",
+    "name": "Tanjung Pinang",
+    "poscode": "93655",
+    "provinsi": {
+        "code": "74",
+        "name": "Sulawesi Tenggara"
+    },
+    "kabupaten": {
+        "code": "7413",
+        "name": "Muna Barat"
+    },
+    "kecamatan": {
+        "code": "741310",
+        "name": "Kusambi"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "3213242007",
+    "name": "Sukasari",
+    "poscode": "41250",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3213",
+        "name": "Subang"
+    },
+    "kecamatan": {
+        "code": "321324",
+        "name": "Sukasari"
+    }
+}

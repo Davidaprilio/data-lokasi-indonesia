@@ -1,0 +1,17 @@
+{
+    "code": "1803021006",
+    "name": "Kotabumi Ilir",
+    "poscode": "34517",
+    "provinsi": {
+        "code": "18",
+        "name": "Lampung"
+    },
+    "kabupaten": {
+        "code": "1803",
+        "name": "Lampung Utara"
+    },
+    "kecamatan": {
+        "code": "180302",
+        "name": "Kotabumi"
+    }
+}

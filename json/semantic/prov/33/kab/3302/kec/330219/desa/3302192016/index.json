@@ -1,0 +1,17 @@
+{
+    "code": "3302192016",
+    "name": "Sokaraja Kulon",
+    "poscode": "53181",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3302",
+        "name": "Banyumas"
+    },
+    "kecamatan": {
+        "code": "330219",
+        "name": "Sokaraja"
+    }
+}

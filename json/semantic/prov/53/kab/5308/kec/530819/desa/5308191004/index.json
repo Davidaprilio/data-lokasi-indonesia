@@ -1,0 +1,17 @@
+{
+    "code": "5308191004",
+    "name": "Paupire",
+    "poscode": "86318",
+    "provinsi": {
+        "code": "53",
+        "name": "Nusa Tenggara Timur (NTT)"
+    },
+    "kabupaten": {
+        "code": "5308",
+        "name": "Ende"
+    },
+    "kecamatan": {
+        "code": "530819",
+        "name": "Ende Tengah"
+    }
+}

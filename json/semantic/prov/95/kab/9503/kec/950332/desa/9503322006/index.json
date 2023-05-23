@@ -1,0 +1,17 @@
+{
+    "code": "9503322006",
+    "name": "Famek",
+    "poscode": "99761",
+    "provinsi": {
+        "code": "95",
+        "name": "Papua Pegunungan"
+    },
+    "kabupaten": {
+        "code": "9503",
+        "name": "Yahukimo"
+    },
+    "kecamatan": {
+        "code": "950332",
+        "name": "Puldama"
+    }
+}

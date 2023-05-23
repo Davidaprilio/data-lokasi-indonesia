@@ -1,0 +1,17 @@
+{
+    "code": "1502142004",
+    "name": "Rejo Sari",
+    "poscode": "37358",
+    "provinsi": {
+        "code": "15",
+        "name": "Jambi"
+    },
+    "kabupaten": {
+        "code": "1502",
+        "name": "Merangin"
+    },
+    "kecamatan": {
+        "code": "150214",
+        "name": "Tabir Ilir"
+    }
+}

@@ -1,0 +1,30 @@
+[
+    {
+        "code": "127302",
+        "name": "Sibolga Kota",
+        "count": {
+            "desa": 4
+        }
+    },
+    {
+        "code": "127304",
+        "name": "Sibolga Sambas",
+        "count": {
+            "desa": 4
+        }
+    },
+    {
+        "code": "127303",
+        "name": "Sibolga Selatan",
+        "count": {
+            "desa": 4
+        }
+    },
+    {
+        "code": "127301",
+        "name": "Sibolga Utara",
+        "count": {
+            "desa": 5
+        }
+    }
+]

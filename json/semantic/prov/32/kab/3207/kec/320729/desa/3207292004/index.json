@@ -1,0 +1,17 @@
+{
+    "code": "3207292004",
+    "name": "Bojongmalang",
+    "poscode": "46381",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3207",
+        "name": "Ciamis"
+    },
+    "kecamatan": {
+        "code": "320729",
+        "name": "Cimaragas"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "7503092013",
+    "name": "Waluhu",
+    "poscode": "96571",
+    "provinsi": {
+        "code": "75",
+        "name": "Gorontalo"
+    },
+    "kabupaten": {
+        "code": "7503",
+        "name": "Bone Bolango"
+    },
+    "kecamatan": {
+        "code": "750309",
+        "name": "Bone"
+    }
+}

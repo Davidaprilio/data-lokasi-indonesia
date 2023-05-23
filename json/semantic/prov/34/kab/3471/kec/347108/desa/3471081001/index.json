@@ -1,0 +1,17 @@
+{
+    "code": "3471081001",
+    "name": "Gedongkiwo",
+    "poscode": "55142",
+    "provinsi": {
+        "code": "34",
+        "name": "DI Yogyakarta"
+    },
+    "kabupaten": {
+        "code": "3471",
+        "name": "Yogyakarta"
+    },
+    "kecamatan": {
+        "code": "347108",
+        "name": "Mantrijeron"
+    }
+}

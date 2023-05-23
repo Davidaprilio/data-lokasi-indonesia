@@ -1,0 +1,17 @@
+{
+    "code": "1209172004",
+    "name": "Silau Jawa",
+    "poscode": "21262",
+    "provinsi": {
+        "code": "12",
+        "name": "Sumatera Utara"
+    },
+    "kabupaten": {
+        "code": "1209",
+        "name": "Asahan"
+    },
+    "kecamatan": {
+        "code": "120917",
+        "name": "Bandar Pasir Mandoge"
+    }
+}

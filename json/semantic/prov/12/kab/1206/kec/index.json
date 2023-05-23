@@ -1,0 +1,121 @@
+[
+    {
+        "code": "120603",
+        "name": "Barusjahe (Barus Jahe)",
+        "count": {
+            "desa": 19
+        }
+    },
+    {
+        "code": "120602",
+        "name": "Brastagi (Berastagi)",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "120614",
+        "name": "Dolat Rayat",
+        "count": {
+            "desa": 7
+        }
+    },
+    {
+        "code": "120607",
+        "name": "Juhar",
+        "count": {
+            "desa": 25
+        }
+    },
+    {
+        "code": "120601",
+        "name": "Kabanjahe",
+        "count": {
+            "desa": 13
+        }
+    },
+    {
+        "code": "120613",
+        "name": "Kutabuluh (Kuta Buluh)",
+        "count": {
+            "desa": 16
+        }
+    },
+    {
+        "code": "120609",
+        "name": "Laubaleng",
+        "count": {
+            "desa": 15
+        }
+    },
+    {
+        "code": "120610",
+        "name": "Mardingding (Mardinding)",
+        "count": {
+            "desa": 12
+        }
+    },
+    {
+        "code": "120615",
+        "name": "Merdeka",
+        "count": {
+            "desa": 9
+        }
+    },
+    {
+        "code": "120605",
+        "name": "Merek",
+        "count": {
+            "desa": 19
+        }
+    },
+    {
+        "code": "120606",
+        "name": "Munte",
+        "count": {
+            "desa": 22
+        }
+    },
+    {
+        "code": "120616",
+        "name": "Naman Teran (Nama Teran)",
+        "count": {
+            "desa": 14
+        }
+    },
+    {
+        "code": "120611",
+        "name": "Payung",
+        "count": {
+            "desa": 8
+        }
+    },
+    {
+        "code": "120612",
+        "name": "Simpang Empat",
+        "count": {
+            "desa": 17
+        }
+    },
+    {
+        "code": "120608",
+        "name": "Tigabinanga (Tiga Binanga)",
+        "count": {
+            "desa": 20
+        }
+    },
+    {
+        "code": "120617",
+        "name": "Tiganderket",
+        "count": {
+            "desa": 17
+        }
+    },
+    {
+        "code": "120604",
+        "name": "Tigapanah (Tiga Panah)",
+        "count": {
+            "desa": 26
+        }
+    }
+]

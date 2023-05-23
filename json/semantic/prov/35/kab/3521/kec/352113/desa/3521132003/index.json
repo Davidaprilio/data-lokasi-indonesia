@@ -1,0 +1,17 @@
+{
+    "code": "3521132003",
+    "name": "Kedungharjo",
+    "poscode": "63260",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3521",
+        "name": "Ngawi"
+    },
+    "kecamatan": {
+        "code": "352113",
+        "name": "Mantingan"
+    }
+}

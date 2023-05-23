@@ -1,0 +1,17 @@
+{
+    "code": "3518122009",
+    "name": "Ngrami",
+    "poscode": "64481",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3518",
+        "name": "Nganjuk"
+    },
+    "kecamatan": {
+        "code": "351812",
+        "name": "Sukomoro"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "3312052001",
+    "name": "Hargosari",
+    "poscode": "57672",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3312",
+        "name": "Wonogiri"
+    },
+    "kecamatan": {
+        "code": "331205",
+        "name": "Tirtomoyo"
+    }
+}

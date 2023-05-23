@@ -1,0 +1,17 @@
+{
+    "code": "9404182003",
+    "name": "Senawak",
+    "poscode": "99966",
+    "provinsi": {
+        "code": "94",
+        "name": "Papua Tengah"
+    },
+    "kabupaten": {
+        "code": "9404",
+        "name": "Mimika"
+    },
+    "kecamatan": {
+        "code": "940418",
+        "name": "Alama"
+    }
+}

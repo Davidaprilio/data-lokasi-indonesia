@@ -1,0 +1,17 @@
+{
+    "code": "6501022001",
+    "name": "Long Beluah",
+    "poscode": "77217",
+    "provinsi": {
+        "code": "65",
+        "name": "Kalimantan Utara"
+    },
+    "kabupaten": {
+        "code": "6501",
+        "name": "Bulungan"
+    },
+    "kecamatan": {
+        "code": "650102",
+        "name": "Tanjung Palas Barat"
+    }
+}

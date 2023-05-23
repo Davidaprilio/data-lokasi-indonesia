@@ -1,0 +1,17 @@
+{
+    "code": "5305142007",
+    "name": "Ombay",
+    "poscode": "85884",
+    "provinsi": {
+        "code": "53",
+        "name": "Nusa Tenggara Timur (NTT)"
+    },
+    "kabupaten": {
+        "code": "5305",
+        "name": "Alor"
+    },
+    "kecamatan": {
+        "code": "530514",
+        "name": "Pantar Timur"
+    }
+}

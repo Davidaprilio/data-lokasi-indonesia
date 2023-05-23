@@ -1,0 +1,17 @@
+{
+    "code": "3210232010",
+    "name": "Rawa",
+    "poscode": "45467",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3210",
+        "name": "Majalengka"
+    },
+    "kecamatan": {
+        "code": "321023",
+        "name": "Cingambul"
+    }
+}

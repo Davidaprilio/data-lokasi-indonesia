@@ -1,0 +1,17 @@
+{
+    "code": "6201012010",
+    "name": "Sei/Sungai Tendang",
+    "poscode": "74181",
+    "provinsi": {
+        "code": "62",
+        "name": "Kalimantan Tengah"
+    },
+    "kabupaten": {
+        "code": "6201",
+        "name": "Kotawaringin Barat"
+    },
+    "kecamatan": {
+        "code": "620101",
+        "name": "Kumai"
+    }
+}

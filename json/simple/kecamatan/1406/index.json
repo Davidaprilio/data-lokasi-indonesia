@@ -1,0 +1,114 @@
+[
+    {
+        "code": "140610",
+        "name": "Bangun Purba",
+        "count": {
+            "desa": 7
+        }
+    },
+    {
+        "code": "140613",
+        "name": "Bonai Darussalam",
+        "count": {
+            "desa": 7
+        }
+    },
+    {
+        "code": "140612",
+        "name": "Kabun",
+        "count": {
+            "desa": 6
+        }
+    },
+    {
+        "code": "140605",
+        "name": "Kepenuhan",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "140615",
+        "name": "Kepenuhan Hulu",
+        "count": {
+            "desa": 5
+        }
+    },
+    {
+        "code": "140606",
+        "name": "Kunto Darussalam",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "140614",
+        "name": "Pagaran Tapah Darussalam",
+        "count": {
+            "desa": 3
+        }
+    },
+    {
+        "code": "140616",
+        "name": "Pendalian IV Koto",
+        "count": {
+            "desa": 5
+        }
+    },
+    {
+        "code": "140603",
+        "name": "Rambah",
+        "count": {
+            "desa": 14
+        }
+    },
+    {
+        "code": "140608",
+        "name": "Rambah Hilir",
+        "count": {
+            "desa": 13
+        }
+    },
+    {
+        "code": "140607",
+        "name": "Rambah Samo",
+        "count": {
+            "desa": 14
+        }
+    },
+    {
+        "code": "140602",
+        "name": "Rokan IV Koto",
+        "count": {
+            "desa": 14
+        }
+    },
+    {
+        "code": "140604",
+        "name": "Tambusai",
+        "count": {
+            "desa": 12
+        }
+    },
+    {
+        "code": "140609",
+        "name": "Tambusai Utara",
+        "count": {
+            "desa": 11
+        }
+    },
+    {
+        "code": "140611",
+        "name": "Tandun",
+        "count": {
+            "desa": 9
+        }
+    },
+    {
+        "code": "140601",
+        "name": "Ujung Batu",
+        "count": {
+            "desa": 5
+        }
+    }
+]

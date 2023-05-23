@@ -1,0 +1,17 @@
+{
+    "code": "3573031001",
+    "name": "Kotalama",
+    "poscode": "65136",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3573",
+        "name": "Malang"
+    },
+    "kecamatan": {
+        "code": "357303",
+        "name": "Kedungkandang"
+    }
+}

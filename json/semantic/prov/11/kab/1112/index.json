@@ -1,0 +1,10 @@
+{
+    "code": "1112",
+    "type": "Kabupaten",
+    "name": "Aceh Barat Daya",
+    "fullname": "Kabupaten Aceh Barat Daya",
+    "jumlah": {
+        "kecamatan": 9,
+        "desa": 152
+    }
+}

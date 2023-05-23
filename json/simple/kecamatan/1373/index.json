@@ -1,0 +1,30 @@
+[
+    {
+        "code": "137302",
+        "name": "Barangin",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "137301",
+        "name": "Lembah Segar",
+        "count": {
+            "desa": 11
+        }
+    },
+    {
+        "code": "137303",
+        "name": "Silungkang",
+        "count": {
+            "desa": 5
+        }
+    },
+    {
+        "code": "137304",
+        "name": "Talawi",
+        "count": {
+            "desa": 11
+        }
+    }
+]

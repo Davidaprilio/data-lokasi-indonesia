@@ -1,0 +1,17 @@
+{
+    "code": "3515182004",
+    "name": "Ngingas",
+    "poscode": "61256",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3515",
+        "name": "Sidoarjo"
+    },
+    "kecamatan": {
+        "code": "351518",
+        "name": "Waru"
+    }
+}

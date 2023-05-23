@@ -1,0 +1,10 @@
+{
+    "code": "2102",
+    "type": "Kabupaten",
+    "name": "Karimun",
+    "fullname": "Kabupaten Karimun",
+    "jumlah": {
+        "kecamatan": 12,
+        "desa": 71
+    }
+}

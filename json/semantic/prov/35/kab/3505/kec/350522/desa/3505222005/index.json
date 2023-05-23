@@ -1,0 +1,17 @@
+{
+    "code": "3505222005",
+    "name": "Tegalrejo",
+    "poscode": "66184",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3505",
+        "name": "Blitar"
+    },
+    "kecamatan": {
+        "code": "350522",
+        "name": "Selopuro"
+    }
+}

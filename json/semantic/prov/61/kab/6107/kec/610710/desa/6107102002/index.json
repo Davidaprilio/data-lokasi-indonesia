@@ -1,0 +1,17 @@
+{
+    "code": "6107102002",
+    "name": "Muhi Bersatu",
+    "poscode": "79288",
+    "provinsi": {
+        "code": "61",
+        "name": "Kalimantan Barat"
+    },
+    "kabupaten": {
+        "code": "6107",
+        "name": "Bengkayang"
+    },
+    "kecamatan": {
+        "code": "610710",
+        "name": "Suti Semarang"
+    }
+}

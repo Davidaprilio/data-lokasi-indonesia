@@ -1,0 +1,17 @@
+{
+    "code": "3328022001",
+    "name": "Guci",
+    "poscode": "52466",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3328",
+        "name": "Tegal"
+    },
+    "kecamatan": {
+        "code": "332802",
+        "name": "Bumijawa"
+    }
+}

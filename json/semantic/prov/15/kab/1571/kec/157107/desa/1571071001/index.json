@@ -1,0 +1,17 @@
+{
+    "code": "1571071001",
+    "name": "Suka Karya",
+    "poscode": "36127",
+    "provinsi": {
+        "code": "15",
+        "name": "Jambi"
+    },
+    "kabupaten": {
+        "code": "1571",
+        "name": "Jambi"
+    },
+    "kecamatan": {
+        "code": "157107",
+        "name": "Kota Baru"
+    }
+}

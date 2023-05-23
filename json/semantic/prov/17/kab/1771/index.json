@@ -1,0 +1,10 @@
+{
+    "code": "1771",
+    "type": "Kota",
+    "name": "Bengkulu",
+    "fullname": "Kota Bengkulu",
+    "jumlah": {
+        "kecamatan": 9,
+        "desa": 67
+    }
+}

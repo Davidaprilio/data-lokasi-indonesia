@@ -1,0 +1,17 @@
+{
+    "code": "3173041011",
+    "name": "Duri Selatan",
+    "poscode": "11270",
+    "provinsi": {
+        "code": "31",
+        "name": "DKI Jakarta"
+    },
+    "kabupaten": {
+        "code": "3173",
+        "name": "Jakarta Barat"
+    },
+    "kecamatan": {
+        "code": "317304",
+        "name": "Tambora"
+    }
+}

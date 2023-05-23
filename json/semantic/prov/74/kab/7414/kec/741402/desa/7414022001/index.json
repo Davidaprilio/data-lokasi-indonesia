@@ -1,0 +1,17 @@
+{
+    "code": "7414022001",
+    "name": "Bonemarambe",
+    "poscode": "93765",
+    "provinsi": {
+        "code": "74",
+        "name": "Sulawesi Tenggara"
+    },
+    "kabupaten": {
+        "code": "7414",
+        "name": "Buton Tengah"
+    },
+    "kecamatan": {
+        "code": "741402",
+        "name": "Mawasangka Timur"
+    }
+}

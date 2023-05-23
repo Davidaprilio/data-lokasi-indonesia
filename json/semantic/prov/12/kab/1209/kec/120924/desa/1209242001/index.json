@@ -1,0 +1,17 @@
+{
+    "code": "1209242001",
+    "name": "Sei Nangka",
+    "poscode": "21382",
+    "provinsi": {
+        "code": "12",
+        "name": "Sumatera Utara"
+    },
+    "kabupaten": {
+        "code": "1209",
+        "name": "Asahan"
+    },
+    "kecamatan": {
+        "code": "120924",
+        "name": "Sei Kepayang Barat"
+    }
+}

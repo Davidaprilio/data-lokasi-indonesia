@@ -1,0 +1,17 @@
+{
+    "code": "3527082010",
+    "name": "Birem",
+    "poscode": "69253",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3527",
+        "name": "Sampang"
+    },
+    "kecamatan": {
+        "code": "352708",
+        "name": "Tambelangan"
+    }
+}

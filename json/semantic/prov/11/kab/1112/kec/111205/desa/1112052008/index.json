@@ -1,0 +1,17 @@
+{
+    "code": "1112052008",
+    "name": "Muka Blang",
+    "poscode": "23766",
+    "provinsi": {
+        "code": "11",
+        "name": "Aceh (NAD)"
+    },
+    "kabupaten": {
+        "code": "1112",
+        "name": "Aceh Barat Daya"
+    },
+    "kecamatan": {
+        "code": "111205",
+        "name": "Kuala Batee"
+    }
+}

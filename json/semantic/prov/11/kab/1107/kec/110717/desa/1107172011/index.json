@@ -1,0 +1,17 @@
+{
+    "code": "1107172011",
+    "name": "Mancang",
+    "poscode": "24164",
+    "provinsi": {
+        "code": "11",
+        "name": "Aceh (NAD)"
+    },
+    "kabupaten": {
+        "code": "1107",
+        "name": "Pidie"
+    },
+    "kecamatan": {
+        "code": "110717",
+        "name": "Sakti"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "7502022005",
+    "name": "Sukamaju",
+    "poscode": "96262",
+    "provinsi": {
+        "code": "75",
+        "name": "Gorontalo"
+    },
+    "kabupaten": {
+        "code": "7502",
+        "name": "Boalemo"
+    },
+    "kecamatan": {
+        "code": "750202",
+        "name": "Wonosari"
+    }
+}

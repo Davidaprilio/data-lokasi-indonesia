@@ -1,0 +1,17 @@
+{
+    "code": "7173031007",
+    "name": "Wailan",
+    "poscode": "95418",
+    "provinsi": {
+        "code": "71",
+        "name": "Sulawesi Utara"
+    },
+    "kabupaten": {
+        "code": "7173",
+        "name": "Tomohon"
+    },
+    "kecamatan": {
+        "code": "717303",
+        "name": "Tomohon Utara"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "7410062010",
+    "name": "Sumampeno",
+    "poscode": "93671",
+    "provinsi": {
+        "code": "74",
+        "name": "Sulawesi Tenggara"
+    },
+    "kabupaten": {
+        "code": "7410",
+        "name": "Buton Utara"
+    },
+    "kecamatan": {
+        "code": "741006",
+        "name": "Wakorumba Utara"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "1102022026",
+    "name": "Gaya Jaya",
+    "poscode": "24676",
+    "provinsi": {
+        "code": "11",
+        "name": "Aceh (NAD)"
+    },
+    "kabupaten": {
+        "code": "1102",
+        "name": "Aceh Tenggara"
+    },
+    "kecamatan": {
+        "code": "110202",
+        "name": "Lawe Sigala Gala"
+    }
+}

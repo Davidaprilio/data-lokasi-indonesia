@@ -1,0 +1,191 @@
+[
+    {
+        "code": "110801",
+        "name": "Baktiya",
+        "count": {
+            "desa": 57
+        }
+    },
+    {
+        "code": "110819",
+        "name": "Baktiya Barat",
+        "count": {
+            "desa": 26
+        }
+    },
+    {
+        "code": "110826",
+        "name": "Banda Baro",
+        "count": {
+            "desa": 9
+        }
+    },
+    {
+        "code": "110817",
+        "name": "Cot Girek",
+        "count": {
+            "desa": 24
+        }
+    },
+    {
+        "code": "110802",
+        "name": "Dewantara",
+        "count": {
+            "desa": 15
+        }
+    },
+    {
+        "code": "110825",
+        "name": "Geuredong Pase",
+        "count": {
+            "desa": 11
+        }
+    },
+    {
+        "code": "110803",
+        "name": "Kuta Makmur",
+        "count": {
+            "desa": 39
+        }
+    },
+    {
+        "code": "110818",
+        "name": "Langkahan",
+        "count": {
+            "desa": 23
+        }
+    },
+    {
+        "code": "110823",
+        "name": "Lapang",
+        "count": {
+            "desa": 11
+        }
+    },
+    {
+        "code": "110804",
+        "name": "Lhoksukon",
+        "count": {
+            "desa": 75
+        }
+    },
+    {
+        "code": "110805",
+        "name": "Matangkuli",
+        "count": {
+            "desa": 49
+        }
+    },
+    {
+        "code": "110807",
+        "name": "Meurah Mulia",
+        "count": {
+            "desa": 50
+        }
+    },
+    {
+        "code": "110806",
+        "name": "Muara Batu",
+        "count": {
+            "desa": 24
+        }
+    },
+    {
+        "code": "110821",
+        "name": "Nibong",
+        "count": {
+            "desa": 20
+        }
+    },
+    {
+        "code": "110816",
+        "name": "Nisam",
+        "count": {
+            "desa": 29
+        }
+    },
+    {
+        "code": "110827",
+        "name": "Nisam Antara",
+        "count": {
+            "desa": 6
+        }
+    },
+    {
+        "code": "110820",
+        "name": "Paya Bakong",
+        "count": {
+            "desa": 39
+        }
+    },
+    {
+        "code": "110824",
+        "name": "Pirak Timur",
+        "count": {
+            "desa": 23
+        }
+    },
+    {
+        "code": "110808",
+        "name": "Samudera",
+        "count": {
+            "desa": 40
+        }
+    },
+    {
+        "code": "110815",
+        "name": "Sawang",
+        "count": {
+            "desa": 39
+        }
+    },
+    {
+        "code": "110809",
+        "name": "Seunuddon (Seunudon)",
+        "count": {
+            "desa": 33
+        }
+    },
+    {
+        "code": "110822",
+        "name": "Simpang Kramat (Keramat)",
+        "count": {
+            "desa": 16
+        }
+    },
+    {
+        "code": "110810",
+        "name": "Syamtalira Aron",
+        "count": {
+            "desa": 34
+        }
+    },
+    {
+        "code": "110811",
+        "name": "Syamtalira Bayu",
+        "count": {
+            "desa": 38
+        }
+    },
+    {
+        "code": "110814",
+        "name": "Tanah Jambo Aye",
+        "count": {
+            "desa": 47
+        }
+    },
+    {
+        "code": "110812",
+        "name": "Tanah Luas",
+        "count": {
+            "desa": 57
+        }
+    },
+    {
+        "code": "110813",
+        "name": "Tanah Pasir",
+        "count": {
+            "desa": 18
+        }
+    }
+]

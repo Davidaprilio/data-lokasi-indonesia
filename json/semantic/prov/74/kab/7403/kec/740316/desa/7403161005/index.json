@@ -1,0 +1,17 @@
+{
+    "code": "7403161005",
+    "name": "Raha II",
+    "poscode": "93612",
+    "provinsi": {
+        "code": "74",
+        "name": "Sulawesi Tenggara"
+    },
+    "kabupaten": {
+        "code": "7403",
+        "name": "Muna"
+    },
+    "kecamatan": {
+        "code": "740316",
+        "name": "Katobu"
+    }
+}

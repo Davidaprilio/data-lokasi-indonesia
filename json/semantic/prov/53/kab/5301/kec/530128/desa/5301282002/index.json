@@ -1,0 +1,17 @@
+{
+    "code": "5301282002",
+    "name": "Nonbaun",
+    "poscode": "85220",
+    "provinsi": {
+        "code": "53",
+        "name": "Nusa Tenggara Timur (NTT)"
+    },
+    "kabupaten": {
+        "code": "5301",
+        "name": "Kupang"
+    },
+    "kecamatan": {
+        "code": "530128",
+        "name": "Fatuleu Tengah"
+    }
+}

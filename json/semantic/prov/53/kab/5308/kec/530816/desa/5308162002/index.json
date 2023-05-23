@@ -1,0 +1,17 @@
+{
+    "code": "5308162002",
+    "name": "Sokoria",
+    "poscode": "86363",
+    "provinsi": {
+        "code": "53",
+        "name": "Nusa Tenggara Timur (NTT)"
+    },
+    "kabupaten": {
+        "code": "5308",
+        "name": "Ende"
+    },
+    "kecamatan": {
+        "code": "530816",
+        "name": "Ndona Timur"
+    }
+}

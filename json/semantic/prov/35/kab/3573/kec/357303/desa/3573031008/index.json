@@ -1,0 +1,17 @@
+{
+    "code": "3573031008",
+    "name": "Sawojajar",
+    "poscode": "65139",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3573",
+        "name": "Malang"
+    },
+    "kecamatan": {
+        "code": "357303",
+        "name": "Kedungkandang"
+    }
+}

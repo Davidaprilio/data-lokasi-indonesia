@@ -1,0 +1,17 @@
+{
+    "code": "9508202005",
+    "name": "Area",
+    "poscode": "99904",
+    "provinsi": {
+        "code": "95",
+        "name": "Papua Pegunungan"
+    },
+    "kabupaten": {
+        "code": "9508",
+        "name": "Nduga"
+    },
+    "kecamatan": {
+        "code": "950820",
+        "name": "Inikgal"
+    }
+}

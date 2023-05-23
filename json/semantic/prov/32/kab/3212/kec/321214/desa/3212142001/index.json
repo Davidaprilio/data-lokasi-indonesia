@@ -1,0 +1,17 @@
+{
+    "code": "3212142001",
+    "name": "Tegal Sembadra (Tegalsembadra)",
+    "poscode": "45285",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3212",
+        "name": "Indramayu"
+    },
+    "kecamatan": {
+        "code": "321214",
+        "name": "Balongan"
+    }
+}

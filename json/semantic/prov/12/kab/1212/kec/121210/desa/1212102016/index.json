@@ -1,0 +1,17 @@
+{
+    "code": "1212102016",
+    "name": "Partoruan Janji Matogu",
+    "poscode": "22385",
+    "provinsi": {
+        "code": "12",
+        "name": "Sumatera Utara"
+    },
+    "kabupaten": {
+        "code": "1212",
+        "name": "Toba"
+    },
+    "kecamatan": {
+        "code": "121210",
+        "name": "Uluan"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "1174042014",
+    "name": "Meurandeh Aceh",
+    "poscode": "24416",
+    "provinsi": {
+        "code": "11",
+        "name": "Aceh (NAD)"
+    },
+    "kabupaten": {
+        "code": "1174",
+        "name": "Langsa"
+    },
+    "kecamatan": {
+        "code": "117404",
+        "name": "Langsa Lama"
+    }
+}

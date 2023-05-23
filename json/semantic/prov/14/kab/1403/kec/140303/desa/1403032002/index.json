@@ -1,0 +1,17 @@
+{
+    "code": "1403032002",
+    "name": "Dompas",
+    "poscode": "28761",
+    "provinsi": {
+        "code": "14",
+        "name": "Riau"
+    },
+    "kabupaten": {
+        "code": "1403",
+        "name": "Bengkalis"
+    },
+    "kecamatan": {
+        "code": "140303",
+        "name": "Bukit Batu"
+    }
+}

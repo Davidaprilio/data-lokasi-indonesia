@@ -1,0 +1,17 @@
+{
+    "code": "1673051006",
+    "name": "Karya Bakti",
+    "poscode": "31623",
+    "provinsi": {
+        "code": "16",
+        "name": "Sumatera Selatan"
+    },
+    "kabupaten": {
+        "code": "1673",
+        "name": "Lubuk Linggau"
+    },
+    "kecamatan": {
+        "code": "167305",
+        "name": "Lubuk Linggau Timur Dua (II)"
+    }
+}

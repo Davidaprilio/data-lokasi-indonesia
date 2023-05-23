@@ -1,0 +1,17 @@
+{
+    "code": "3471131002",
+    "name": "Muja Muju",
+    "poscode": "55165",
+    "provinsi": {
+        "code": "34",
+        "name": "DI Yogyakarta"
+    },
+    "kabupaten": {
+        "code": "3471",
+        "name": "Yogyakarta"
+    },
+    "kecamatan": {
+        "code": "347113",
+        "name": "Umbulharjo"
+    }
+}

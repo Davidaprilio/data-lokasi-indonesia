@@ -1,0 +1,10 @@
+{
+    "code": "3275",
+    "type": "Kota",
+    "name": "Bekasi",
+    "fullname": "Kota Bekasi",
+    "jumlah": {
+        "kecamatan": 12,
+        "desa": 56
+    }
+}

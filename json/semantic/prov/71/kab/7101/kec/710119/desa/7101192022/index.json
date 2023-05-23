@@ -1,0 +1,17 @@
+{
+    "code": "7101192022",
+    "name": "Inuai",
+    "poscode": "95751",
+    "provinsi": {
+        "code": "71",
+        "name": "Sulawesi Utara"
+    },
+    "kabupaten": {
+        "code": "7101",
+        "name": "Bolaang Mongondow"
+    },
+    "kecamatan": {
+        "code": "710119",
+        "name": "Passi Barat"
+    }
+}

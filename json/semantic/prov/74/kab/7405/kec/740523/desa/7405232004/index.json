@@ -1,0 +1,17 @@
+{
+    "code": "7405232004",
+    "name": "Ngapawali",
+    "poscode": "93894",
+    "provinsi": {
+        "code": "74",
+        "name": "Sulawesi Tenggara"
+    },
+    "kabupaten": {
+        "code": "7405",
+        "name": "Konawe Selatan"
+    },
+    "kecamatan": {
+        "code": "740523",
+        "name": "Kolono Timur"
+    }
+}

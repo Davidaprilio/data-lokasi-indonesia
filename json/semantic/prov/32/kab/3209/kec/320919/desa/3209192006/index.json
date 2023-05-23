@@ -1,0 +1,17 @@
+{
+    "code": "3209192006",
+    "name": "Setu Kulon",
+    "poscode": "45159",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3209",
+        "name": "Cirebon"
+    },
+    "kecamatan": {
+        "code": "320919",
+        "name": "Weru"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "3518012001",
+    "name": "Bendolo",
+    "poscode": "64475",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3518",
+        "name": "Nganjuk"
+    },
+    "kecamatan": {
+        "code": "351801",
+        "name": "Sawahan"
+    }
+}

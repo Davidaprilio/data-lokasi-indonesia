@@ -1,0 +1,17 @@
+{
+    "code": "9301042018",
+    "name": "Mambum",
+    "poscode": "99641",
+    "provinsi": {
+        "code": "93",
+        "name": "Papua Selatan"
+    },
+    "kabupaten": {
+        "code": "9301",
+        "name": "Merauke"
+    },
+    "kecamatan": {
+        "code": "930104",
+        "name": "Kimaam"
+    }
+}

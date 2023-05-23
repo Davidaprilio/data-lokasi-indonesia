@@ -1,0 +1,51 @@
+[
+    {
+        "code": "741406",
+        "name": "Gu",
+        "count": {
+            "desa": 12
+        }
+    },
+    {
+        "code": "741401",
+        "name": "Lakudo",
+        "count": {
+            "desa": 15
+        }
+    },
+    {
+        "code": "741404",
+        "name": "Mawasangka",
+        "count": {
+            "desa": 19
+        }
+    },
+    {
+        "code": "741403",
+        "name": "Mawasangka Tengah",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "741402",
+        "name": "Mawasangka Timur",
+        "count": {
+            "desa": 8
+        }
+    },
+    {
+        "code": "741407",
+        "name": "Sangia Wambulu",
+        "count": {
+            "desa": 6
+        }
+    },
+    {
+        "code": "741405",
+        "name": "Talaga Raya",
+        "count": {
+            "desa": 7
+        }
+    }
+]

@@ -1,0 +1,17 @@
+{
+    "code": "8271021001",
+    "name": "Sasa",
+    "poscode": "97719",
+    "provinsi": {
+        "code": "82",
+        "name": "Maluku Utara"
+    },
+    "kabupaten": {
+        "code": "8271",
+        "name": "Ternate"
+    },
+    "kecamatan": {
+        "code": "827102",
+        "name": "Kota Ternate Selatan"
+    }
+}

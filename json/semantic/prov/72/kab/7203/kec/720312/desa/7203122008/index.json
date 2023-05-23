@@ -1,0 +1,17 @@
+{
+    "code": "7203122008",
+    "name": "Meli",
+    "poscode": "94355",
+    "provinsi": {
+        "code": "72",
+        "name": "Sulawesi Tengah"
+    },
+    "kabupaten": {
+        "code": "7203",
+        "name": "Donggala"
+    },
+    "kecamatan": {
+        "code": "720312",
+        "name": "Balaesang"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "3312171002",
+    "name": "Tegalrejo",
+    "poscode": "57695",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3312",
+        "name": "Wonogiri"
+    },
+    "kecamatan": {
+        "code": "331217",
+        "name": "Purwantoro"
+    }
+}

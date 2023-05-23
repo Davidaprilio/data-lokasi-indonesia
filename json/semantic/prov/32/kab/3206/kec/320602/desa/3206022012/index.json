@@ -1,0 +1,17 @@
+{
+    "code": "3206022012",
+    "name": "Cikapinis",
+    "poscode": "46186",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3206",
+        "name": "Tasikmalaya"
+    },
+    "kecamatan": {
+        "code": "320602",
+        "name": "Karangnunggal"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "5310062002",
+    "name": "Rado",
+    "poscode": "86591",
+    "provinsi": {
+        "code": "53",
+        "name": "Nusa Tenggara Timur (NTT)"
+    },
+    "kabupaten": {
+        "code": "5310",
+        "name": "Manggarai"
+    },
+    "kecamatan": {
+        "code": "531006",
+        "name": "Cibal"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "3310162007",
+    "name": "Mendak",
+    "poscode": "57471",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3310",
+        "name": "Klaten"
+    },
+    "kecamatan": {
+        "code": "331016",
+        "name": "Delanggu"
+    }
+}

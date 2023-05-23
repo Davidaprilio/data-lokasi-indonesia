@@ -1,0 +1,17 @@
+{
+    "code": "3509201002",
+    "name": "Jumerto",
+    "poscode": "68114",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3509",
+        "name": "Jember"
+    },
+    "kecamatan": {
+        "code": "350920",
+        "name": "Patrang"
+    }
+}

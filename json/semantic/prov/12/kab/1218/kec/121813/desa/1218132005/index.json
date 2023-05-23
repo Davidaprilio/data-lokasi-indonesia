@@ -1,0 +1,17 @@
+{
+    "code": "1218132005",
+    "name": "Pertapaan",
+    "poscode": "20999",
+    "provinsi": {
+        "code": "12",
+        "name": "Sumatera Utara"
+    },
+    "kabupaten": {
+        "code": "1218",
+        "name": "Serdang Bedagai"
+    },
+    "kecamatan": {
+        "code": "121813",
+        "name": "Tebing Tinggi"
+    }
+}

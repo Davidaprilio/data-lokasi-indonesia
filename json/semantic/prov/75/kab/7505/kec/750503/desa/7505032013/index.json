@@ -1,0 +1,17 @@
+{
+    "code": "7505032013",
+    "name": "Hiyalooile",
+    "poscode": "96525",
+    "provinsi": {
+        "code": "75",
+        "name": "Gorontalo"
+    },
+    "kabupaten": {
+        "code": "7505",
+        "name": "Gorontalo Utara"
+    },
+    "kecamatan": {
+        "code": "750503",
+        "name": "Anggrek"
+    }
+}

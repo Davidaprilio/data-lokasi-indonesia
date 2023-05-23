@@ -1,0 +1,17 @@
+{
+    "code": "3509222004",
+    "name": "Candijati",
+    "poscode": "68191",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3509",
+        "name": "Jember"
+    },
+    "kecamatan": {
+        "code": "350922",
+        "name": "Arjasa"
+    }
+}

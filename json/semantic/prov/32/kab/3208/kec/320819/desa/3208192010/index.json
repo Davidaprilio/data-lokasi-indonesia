@@ -1,0 +1,17 @@
+{
+    "code": "3208192010",
+    "name": "Padamatang",
+    "poscode": "45559",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3208",
+        "name": "Kuningan"
+    },
+    "kecamatan": {
+        "code": "320819",
+        "name": "Pasawahan"
+    }
+}

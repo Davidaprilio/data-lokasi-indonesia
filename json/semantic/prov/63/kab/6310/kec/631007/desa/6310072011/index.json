@@ -1,0 +1,17 @@
+{
+    "code": "6310072011",
+    "name": "Maju Sejahtera",
+    "poscode": "72211",
+    "provinsi": {
+        "code": "63",
+        "name": "Kalimantan Selatan"
+    },
+    "kabupaten": {
+        "code": "6310",
+        "name": "Tanah Bumbu"
+    },
+    "kecamatan": {
+        "code": "631007",
+        "name": "Karang Bintang"
+    }
+}

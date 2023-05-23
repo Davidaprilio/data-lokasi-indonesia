@@ -1,0 +1,10 @@
+{
+    "code": "51",
+    "name": "Bali",
+    "jumlah": {
+        "kota": 1,
+        "kabupaten": 8,
+        "kecamatan": 57,
+        "desa": 716
+    }
+}

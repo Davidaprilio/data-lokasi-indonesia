@@ -1,0 +1,17 @@
+{
+    "code": "3509142006",
+    "name": "Kemiri",
+    "poscode": "68153",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3509",
+        "name": "Jember"
+    },
+    "kecamatan": {
+        "code": "350914",
+        "name": "Panti"
+    }
+}

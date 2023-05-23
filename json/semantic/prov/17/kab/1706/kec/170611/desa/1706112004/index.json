@@ -1,0 +1,17 @@
+{
+    "code": "1706112004",
+    "name": "Tanjung Mulya",
+    "poscode": "38755",
+    "provinsi": {
+        "code": "17",
+        "name": "Bengkulu"
+    },
+    "kabupaten": {
+        "code": "1706",
+        "name": "Muko Muko"
+    },
+    "kecamatan": {
+        "code": "170611",
+        "name": "XIV Koto"
+    }
+}

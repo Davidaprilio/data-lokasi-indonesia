@@ -1,0 +1,17 @@
+{
+    "code": "7208052022",
+    "name": "Ambesia Selatan",
+    "poscode": "94478",
+    "provinsi": {
+        "code": "72",
+        "name": "Sulawesi Tengah"
+    },
+    "kabupaten": {
+        "code": "7208",
+        "name": "Parigi Moutong"
+    },
+    "kecamatan": {
+        "code": "720805",
+        "name": "Tomini"
+    }
+}

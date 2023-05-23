@@ -1,0 +1,17 @@
+{
+    "code": "3515052001",
+    "name": "Panggreh",
+    "poscode": "61276",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3515",
+        "name": "Sidoarjo"
+    },
+    "kecamatan": {
+        "code": "351505",
+        "name": "Jabon"
+    }
+}

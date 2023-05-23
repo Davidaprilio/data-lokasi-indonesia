@@ -1,0 +1,17 @@
+{
+    "code": "1806022033",
+    "name": "Sinar Betung",
+    "poscode": "35377",
+    "provinsi": {
+        "code": "18",
+        "name": "Lampung"
+    },
+    "kabupaten": {
+        "code": "1806",
+        "name": "Tanggamus"
+    },
+    "kecamatan": {
+        "code": "180602",
+        "name": "Talang Padang"
+    }
+}

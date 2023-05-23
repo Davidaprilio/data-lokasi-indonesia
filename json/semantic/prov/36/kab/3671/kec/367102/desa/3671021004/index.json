@@ -1,0 +1,17 @@
+{
+    "code": "3671021004",
+    "name": "Gandasari",
+    "poscode": "15137",
+    "provinsi": {
+        "code": "36",
+        "name": "Banten"
+    },
+    "kabupaten": {
+        "code": "3671",
+        "name": "Tangerang"
+    },
+    "kecamatan": {
+        "code": "367102",
+        "name": "Jatiuwung"
+    }
+}

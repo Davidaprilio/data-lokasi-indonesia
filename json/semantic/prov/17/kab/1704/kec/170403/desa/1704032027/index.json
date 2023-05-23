@@ -1,0 +1,17 @@
+{
+    "code": "1704032027",
+    "name": "Tanjung Betung II",
+    "poscode": "38956",
+    "provinsi": {
+        "code": "17",
+        "name": "Bengkulu"
+    },
+    "kabupaten": {
+        "code": "1704",
+        "name": "Kaur"
+    },
+    "kecamatan": {
+        "code": "170403",
+        "name": "Kaur Utara"
+    }
+}

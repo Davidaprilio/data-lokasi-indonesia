@@ -1,0 +1,65 @@
+[
+    {
+        "code": "620503",
+        "name": "Gunung Purei",
+        "count": {
+            "desa": 11
+        }
+    },
+    {
+        "code": "620502",
+        "name": "Gunung Timang",
+        "count": {
+            "desa": 16
+        }
+    },
+    {
+        "code": "620506",
+        "name": "Lahei",
+        "count": {
+            "desa": 13
+        }
+    },
+    {
+        "code": "620509",
+        "name": "Lahei Barat",
+        "count": {
+            "desa": 11
+        }
+    },
+    {
+        "code": "620501",
+        "name": "Montallat (Montalat)",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "620507",
+        "name": "Teweh Baru",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "620508",
+        "name": "Teweh Selatan",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "620505",
+        "name": "Teweh Tengah",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "620504",
+        "name": "Teweh Timur",
+        "count": {
+            "desa": 12
+        }
+    }
+]

@@ -1,0 +1,17 @@
+{
+    "code": "1173022005",
+    "name": "Kota Lhokseumawe (Lhokseumawe)",
+    "poscode": "24314",
+    "provinsi": {
+        "code": "11",
+        "name": "Aceh (NAD)"
+    },
+    "kabupaten": {
+        "code": "1173",
+        "name": "Lhokseumawe"
+    },
+    "kecamatan": {
+        "code": "117302",
+        "name": "Banda Sakti"
+    }
+}

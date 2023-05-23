@@ -1,0 +1,17 @@
+{
+    "code": "1901032005",
+    "name": "Kimak",
+    "poscode": "33172",
+    "provinsi": {
+        "code": "19",
+        "name": "Kepulauan Bangka Belitung"
+    },
+    "kabupaten": {
+        "code": "1901",
+        "name": "Bangka"
+    },
+    "kecamatan": {
+        "code": "190103",
+        "name": "Merawang"
+    }
+}

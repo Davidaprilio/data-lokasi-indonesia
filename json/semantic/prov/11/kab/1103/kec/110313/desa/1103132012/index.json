@@ -1,0 +1,17 @@
+{
+    "code": "1103132012",
+    "name": "Perkebunan Julok Rayeuk Selatan",
+    "poscode": "24457",
+    "provinsi": {
+        "code": "11",
+        "name": "Aceh (NAD)"
+    },
+    "kabupaten": {
+        "code": "1103",
+        "name": "Aceh Timur"
+    },
+    "kecamatan": {
+        "code": "110313",
+        "name": "Indra Makmu (Indra Makmur)"
+    }
+}

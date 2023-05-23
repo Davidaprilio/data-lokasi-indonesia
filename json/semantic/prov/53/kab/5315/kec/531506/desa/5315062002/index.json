@@ -1,0 +1,17 @@
+{
+    "code": "5315062002",
+    "name": "Golo Ketak",
+    "poscode": "86754",
+    "provinsi": {
+        "code": "53",
+        "name": "Nusa Tenggara Timur (NTT)"
+    },
+    "kabupaten": {
+        "code": "5315",
+        "name": "Manggarai Barat"
+    },
+    "kecamatan": {
+        "code": "531506",
+        "name": "Boleng"
+    }
+}

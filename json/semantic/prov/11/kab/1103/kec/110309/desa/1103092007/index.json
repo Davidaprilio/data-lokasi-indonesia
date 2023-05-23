@@ -1,0 +1,17 @@
+{
+    "code": "1103092007",
+    "name": "Matang Kumbang",
+    "poscode": "24465",
+    "provinsi": {
+        "code": "11",
+        "name": "Aceh (NAD)"
+    },
+    "kabupaten": {
+        "code": "1103",
+        "name": "Aceh Timur"
+    },
+    "kecamatan": {
+        "code": "110309",
+        "name": "Simpang Ulim"
+    }
+}

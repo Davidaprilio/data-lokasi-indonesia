@@ -1,0 +1,17 @@
+{
+    "code": "1505052012",
+    "name": "Nyogan",
+    "poscode": "36364",
+    "provinsi": {
+        "code": "15",
+        "name": "Jambi"
+    },
+    "kabupaten": {
+        "code": "1505",
+        "name": "Muaro Jambi"
+    },
+    "kecamatan": {
+        "code": "150505",
+        "name": "Mestong"
+    }
+}

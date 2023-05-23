@@ -1,0 +1,17 @@
+{
+    "code": "1674021005",
+    "name": "Prabu Jaya",
+    "poscode": "31111",
+    "provinsi": {
+        "code": "16",
+        "name": "Sumatera Selatan"
+    },
+    "kabupaten": {
+        "code": "1674",
+        "name": "Prabumulih"
+    },
+    "kecamatan": {
+        "code": "167402",
+        "name": "Prabumulih Timur"
+    }
+}

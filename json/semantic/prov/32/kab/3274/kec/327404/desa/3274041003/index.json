@@ -1,0 +1,17 @@
+{
+    "code": "3274041003",
+    "name": "Pulasaren",
+    "poscode": "45116",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3274",
+        "name": "Cirebon"
+    },
+    "kecamatan": {
+        "code": "327404",
+        "name": "Pekalipan"
+    }
+}

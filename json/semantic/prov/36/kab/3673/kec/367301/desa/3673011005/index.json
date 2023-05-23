@@ -1,0 +1,17 @@
+{
+    "code": "3673011005",
+    "name": "Lopang",
+    "poscode": "42113",
+    "provinsi": {
+        "code": "36",
+        "name": "Banten"
+    },
+    "kabupaten": {
+        "code": "3673",
+        "name": "Serang"
+    },
+    "kecamatan": {
+        "code": "367301",
+        "name": "Serang"
+    }
+}

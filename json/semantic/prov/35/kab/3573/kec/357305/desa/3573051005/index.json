@@ -1,0 +1,17 @@
+{
+    "code": "3573051005",
+    "name": "Sumbersari",
+    "poscode": "65145",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3573",
+        "name": "Malang"
+    },
+    "kecamatan": {
+        "code": "357305",
+        "name": "Lowokwaru"
+    }
+}

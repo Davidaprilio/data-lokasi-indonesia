@@ -1,0 +1,17 @@
+{
+    "code": "5203212005",
+    "name": "Lenek Kali Bambang",
+    "poscode": "83653",
+    "provinsi": {
+        "code": "52",
+        "name": "Nusa Tenggara Barat (NTB)"
+    },
+    "kabupaten": {
+        "code": "5203",
+        "name": "Lombok Timur"
+    },
+    "kecamatan": {
+        "code": "520321",
+        "name": "Lenek"
+    }
+}

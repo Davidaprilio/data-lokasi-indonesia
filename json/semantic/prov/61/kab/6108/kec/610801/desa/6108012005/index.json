@@ -1,0 +1,17 @@
+{
+    "code": "6108012005",
+    "name": "Amboyo Utara",
+    "poscode": "79354",
+    "provinsi": {
+        "code": "61",
+        "name": "Kalimantan Barat"
+    },
+    "kabupaten": {
+        "code": "6108",
+        "name": "Landak"
+    },
+    "kecamatan": {
+        "code": "610801",
+        "name": "Ngabang"
+    }
+}

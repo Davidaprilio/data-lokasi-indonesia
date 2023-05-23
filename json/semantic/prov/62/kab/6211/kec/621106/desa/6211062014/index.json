@@ -1,0 +1,17 @@
+{
+    "code": "6211062014",
+    "name": "Gandang Barat",
+    "poscode": "74873",
+    "provinsi": {
+        "code": "62",
+        "name": "Kalimantan Tengah"
+    },
+    "kabupaten": {
+        "code": "6211",
+        "name": "Pulang Pisau"
+    },
+    "kecamatan": {
+        "code": "621106",
+        "name": "Maliku"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "3528012002",
+    "name": "Terrak",
+    "poscode": "69371",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3528",
+        "name": "Pamekasan"
+    },
+    "kecamatan": {
+        "code": "352801",
+        "name": "Tlanakan"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "7408032021",
+    "name": "Makkuaseng",
+    "poscode": "93955",
+    "provinsi": {
+        "code": "74",
+        "name": "Sulawesi Tenggara"
+    },
+    "kabupaten": {
+        "code": "7408",
+        "name": "Kolaka Utara"
+    },
+    "kecamatan": {
+        "code": "740803",
+        "name": "Batu Putih"
+    }
+}

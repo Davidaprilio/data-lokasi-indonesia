@@ -1,0 +1,72 @@
+[
+    {
+        "code": "927108",
+        "name": "Klaurung",
+        "count": {
+            "desa": 4
+        }
+    },
+    {
+        "code": "927110",
+        "name": "Maladum Mes",
+        "count": {
+            "desa": 4
+        }
+    },
+    {
+        "code": "927109",
+        "name": "Malaimsimsa",
+        "count": {
+            "desa": 4
+        }
+    },
+    {
+        "code": "927101",
+        "name": "Sorong",
+        "count": {
+            "desa": 4
+        }
+    },
+    {
+        "code": "927103",
+        "name": "Sorong Barat",
+        "count": {
+            "desa": 4
+        }
+    },
+    {
+        "code": "927104",
+        "name": "Sorong Kepulauan",
+        "count": {
+            "desa": 4
+        }
+    },
+    {
+        "code": "927107",
+        "name": "Sorong Kota",
+        "count": {
+            "desa": 4
+        }
+    },
+    {
+        "code": "927106",
+        "name": "Sorong Manoi",
+        "count": {
+            "desa": 5
+        }
+    },
+    {
+        "code": "927102",
+        "name": "Sorong Timur",
+        "count": {
+            "desa": 4
+        }
+    },
+    {
+        "code": "927105",
+        "name": "Sorong Utara",
+        "count": {
+            "desa": 4
+        }
+    }
+]

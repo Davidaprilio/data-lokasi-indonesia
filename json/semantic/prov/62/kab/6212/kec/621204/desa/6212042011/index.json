@@ -1,0 +1,17 @@
+{
+    "code": "6212042011",
+    "name": "Muara Babuat",
+    "poscode": "73971",
+    "provinsi": {
+        "code": "62",
+        "name": "Kalimantan Tengah"
+    },
+    "kabupaten": {
+        "code": "6212",
+        "name": "Murung Raya"
+    },
+    "kecamatan": {
+        "code": "621204",
+        "name": "Permata Intan"
+    }
+}

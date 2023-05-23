@@ -1,0 +1,17 @@
+{
+    "code": "7403192006",
+    "name": "Bangkali",
+    "poscode": "93624",
+    "provinsi": {
+        "code": "74",
+        "name": "Sulawesi Tenggara"
+    },
+    "kabupaten": {
+        "code": "7403",
+        "name": "Muna"
+    },
+    "kecamatan": {
+        "code": "740319",
+        "name": "Watopute"
+    }
+}

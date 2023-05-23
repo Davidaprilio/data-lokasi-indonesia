@@ -1,0 +1,17 @@
+{
+    "code": "3201402006",
+    "name": "Gunung Malang (Gunungmalang)",
+    "poscode": "16371",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3201",
+        "name": "Bogor"
+    },
+    "kecamatan": {
+        "code": "320140",
+        "name": "Tenjolaya"
+    }
+}

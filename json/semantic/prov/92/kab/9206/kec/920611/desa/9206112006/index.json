@@ -1,0 +1,17 @@
+{
+    "code": "9206112006",
+    "name": "Korano Jaya",
+    "poscode": "98143",
+    "provinsi": {
+        "code": "92",
+        "name": "Papua Barat"
+    },
+    "kabupaten": {
+        "code": "9206",
+        "name": "Teluk Bintuni"
+    },
+    "kecamatan": {
+        "code": "920611",
+        "name": "Manimeri"
+    }
+}

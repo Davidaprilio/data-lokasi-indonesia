@@ -1,0 +1,17 @@
+{
+    "code": "9210042010",
+    "name": "Fuog Selatan",
+    "poscode": "98272",
+    "provinsi": {
+        "code": "96",
+        "name": "Papua Barat Daya"
+    },
+    "kabupaten": {
+        "code": "9210",
+        "name": "Maybrat"
+    },
+    "kecamatan": {
+        "code": "921004",
+        "name": "Aifat Selatan"
+    }
+}

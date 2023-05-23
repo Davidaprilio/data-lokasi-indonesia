@@ -1,0 +1,17 @@
+{
+    "code": "3578301005",
+    "name": "Benowo",
+    "poscode": "60195",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3578",
+        "name": "Surabaya"
+    },
+    "kecamatan": {
+        "code": "357830",
+        "name": "Pakal"
+    }
+}

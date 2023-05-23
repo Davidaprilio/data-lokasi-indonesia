@@ -1,0 +1,17 @@
+{
+    "code": "3321111016",
+    "name": "Singorejo",
+    "poscode": "59513",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3321",
+        "name": "Demak"
+    },
+    "kecamatan": {
+        "code": "332111",
+        "name": "Demak"
+    }
+}

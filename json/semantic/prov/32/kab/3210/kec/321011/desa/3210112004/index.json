@@ -1,0 +1,17 @@
+{
+    "code": "3210112004",
+    "name": "Andir",
+    "poscode": "45454",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3210",
+        "name": "Majalengka"
+    },
+    "kecamatan": {
+        "code": "321011",
+        "name": "Jatiwangi"
+    }
+}

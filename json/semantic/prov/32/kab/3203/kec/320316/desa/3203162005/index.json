@@ -1,0 +1,17 @@
+{
+    "code": "3203162005",
+    "name": "Sukagalih",
+    "poscode": "43265",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3203",
+        "name": "Cianjur"
+    },
+    "kecamatan": {
+        "code": "320316",
+        "name": "Takokak"
+    }
+}

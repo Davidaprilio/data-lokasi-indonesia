@@ -1,0 +1,17 @@
+{
+    "code": "6107142004",
+    "name": "Suka Maju",
+    "poscode": "79211",
+    "provinsi": {
+        "code": "61",
+        "name": "Kalimantan Barat"
+    },
+    "kabupaten": {
+        "code": "6107",
+        "name": "Bengkayang"
+    },
+    "kecamatan": {
+        "code": "610714",
+        "name": "Sungai Betung"
+    }
+}

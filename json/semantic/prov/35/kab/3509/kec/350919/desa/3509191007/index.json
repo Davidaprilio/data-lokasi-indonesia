@@ -1,0 +1,17 @@
+{
+    "code": "3509191007",
+    "name": "Tegalbesar (Tegal Besar)",
+    "poscode": "68132",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3509",
+        "name": "Jember"
+    },
+    "kecamatan": {
+        "code": "350919",
+        "name": "Kaliwates"
+    }
+}

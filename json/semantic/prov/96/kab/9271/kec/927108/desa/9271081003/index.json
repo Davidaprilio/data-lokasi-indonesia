@@ -1,0 +1,17 @@
+{
+    "code": "9271081003",
+    "name": "Klasaman",
+    "poscode": "98417",
+    "provinsi": {
+        "code": "96",
+        "name": "Papua Barat Daya"
+    },
+    "kabupaten": {
+        "code": "9271",
+        "name": "Sorong"
+    },
+    "kecamatan": {
+        "code": "927108",
+        "name": "Klaurung"
+    }
+}

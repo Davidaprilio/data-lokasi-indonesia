@@ -1,0 +1,17 @@
+{
+    "code": "1401182003",
+    "name": "Kampung Panjang (Air Tiris)",
+    "poscode": "28469",
+    "provinsi": {
+        "code": "14",
+        "name": "Riau"
+    },
+    "kabupaten": {
+        "code": "1401",
+        "name": "Kampar"
+    },
+    "kecamatan": {
+        "code": "140118",
+        "name": "Kampar Utara"
+    }
+}

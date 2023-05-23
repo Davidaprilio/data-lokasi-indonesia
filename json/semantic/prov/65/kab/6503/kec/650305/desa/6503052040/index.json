@@ -1,0 +1,17 @@
+{
+    "code": "6503052040",
+    "name": "Long Katung",
+    "poscode": "77456",
+    "provinsi": {
+        "code": "65",
+        "name": "Kalimantan Utara"
+    },
+    "kabupaten": {
+        "code": "6503",
+        "name": "Nunukan"
+    },
+    "kecamatan": {
+        "code": "650305",
+        "name": "Krayan"
+    }
+}

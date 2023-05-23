@@ -1,0 +1,17 @@
+{
+    "code": "5204192003",
+    "name": "Suka Mulya",
+    "poscode": "84383",
+    "provinsi": {
+        "code": "52",
+        "name": "Nusa Tenggara Barat (NTB)"
+    },
+    "kabupaten": {
+        "code": "5204",
+        "name": "Sumbawa"
+    },
+    "kecamatan": {
+        "code": "520419",
+        "name": "Labangka"
+    }
+}

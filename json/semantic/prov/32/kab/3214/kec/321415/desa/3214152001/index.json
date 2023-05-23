@@ -1,0 +1,17 @@
+{
+    "code": "3214152001",
+    "name": "Kutamanah",
+    "poscode": "41116",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3214",
+        "name": "Purwakarta"
+    },
+    "kecamatan": {
+        "code": "321415",
+        "name": "Sukasari"
+    }
+}

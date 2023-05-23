@@ -1,0 +1,17 @@
+{
+    "code": "1306032003",
+    "name": "Maninjau",
+    "poscode": "26471",
+    "provinsi": {
+        "code": "13",
+        "name": "Sumatera Barat"
+    },
+    "kabupaten": {
+        "code": "1306",
+        "name": "Agam"
+    },
+    "kecamatan": {
+        "code": "130603",
+        "name": "Tanjung Raya"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "9207052007",
+    "name": "Yarpate",
+    "poscode": "98335",
+    "provinsi": {
+        "code": "92",
+        "name": "Papua Barat"
+    },
+    "kabupaten": {
+        "code": "9207",
+        "name": "Teluk Wondama"
+    },
+    "kecamatan": {
+        "code": "920705",
+        "name": "Wamesa"
+    }
+}

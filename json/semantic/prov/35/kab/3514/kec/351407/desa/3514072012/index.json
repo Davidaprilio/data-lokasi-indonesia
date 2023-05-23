@@ -1,0 +1,17 @@
+{
+    "code": "3514072012",
+    "name": "Karangasem (Karang Asem)",
+    "poscode": "67173",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3514",
+        "name": "Pasuruan"
+    },
+    "kecamatan": {
+        "code": "351407",
+        "name": "Wonorejo"
+    }
+}

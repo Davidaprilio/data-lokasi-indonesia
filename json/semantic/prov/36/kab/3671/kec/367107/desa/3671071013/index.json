@@ -1,0 +1,17 @@
+{
+    "code": "3671071013",
+    "name": "Gerendeng",
+    "poscode": "15113",
+    "provinsi": {
+        "code": "36",
+        "name": "Banten"
+    },
+    "kabupaten": {
+        "code": "3671",
+        "name": "Tangerang"
+    },
+    "kecamatan": {
+        "code": "367107",
+        "name": "Karawaci"
+    }
+}

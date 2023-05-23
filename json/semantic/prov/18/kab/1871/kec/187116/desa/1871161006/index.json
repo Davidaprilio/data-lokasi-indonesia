@@ -1,0 +1,17 @@
+{
+    "code": "1871161006",
+    "name": "Gunungagung (Gunung Agung)",
+    "poscode": "35157",
+    "provinsi": {
+        "code": "18",
+        "name": "Lampung"
+    },
+    "kabupaten": {
+        "code": "1871",
+        "name": "Bandar Lampung"
+    },
+    "kecamatan": {
+        "code": "187116",
+        "name": "Langkapura"
+    }
+}

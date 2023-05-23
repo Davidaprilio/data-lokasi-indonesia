@@ -1,0 +1,17 @@
+{
+    "code": "1111012040",
+    "name": "Tanjong Baro",
+    "poscode": "24264",
+    "provinsi": {
+        "code": "11",
+        "name": "Aceh (NAD)"
+    },
+    "kabupaten": {
+        "code": "1111",
+        "name": "Bireuen"
+    },
+    "kecamatan": {
+        "code": "111101",
+        "name": "Samalanga"
+    }
+}

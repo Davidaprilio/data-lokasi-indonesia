@@ -1,0 +1,17 @@
+{
+    "code": "9503102004",
+    "name": "Ujin",
+    "poscode": "99708",
+    "provinsi": {
+        "code": "95",
+        "name": "Papua Pegunungan"
+    },
+    "kabupaten": {
+        "code": "9503",
+        "name": "Yahukimo"
+    },
+    "kecamatan": {
+        "code": "950310",
+        "name": "Obio"
+    }
+}

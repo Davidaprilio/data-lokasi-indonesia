@@ -1,0 +1,10 @@
+{
+    "code": "1205",
+    "type": "Kabupaten",
+    "name": "Langkat",
+    "fullname": "Kabupaten Langkat",
+    "jumlah": {
+        "kecamatan": 23,
+        "desa": 277
+    }
+}

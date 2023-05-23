@@ -1,0 +1,17 @@
+{
+    "code": "3513132003",
+    "name": "Alasnyiur (Alas Nyiur)",
+    "poscode": "67283",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3513",
+        "name": "Probolinggo"
+    },
+    "kecamatan": {
+        "code": "351313",
+        "name": "Besuk"
+    }
+}

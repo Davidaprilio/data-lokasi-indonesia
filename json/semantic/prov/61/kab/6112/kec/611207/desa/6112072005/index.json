@@ -1,0 +1,17 @@
+{
+    "code": "6112072005",
+    "name": "Bintang Mas",
+    "poscode": "78382",
+    "provinsi": {
+        "code": "61",
+        "name": "Kalimantan Barat"
+    },
+    "kabupaten": {
+        "code": "6112",
+        "name": "Kubu Raya"
+    },
+    "kecamatan": {
+        "code": "611207",
+        "name": "Rasau Jaya"
+    }
+}

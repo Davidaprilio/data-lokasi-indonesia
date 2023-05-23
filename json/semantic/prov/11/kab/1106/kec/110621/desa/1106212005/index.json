@@ -1,0 +1,17 @@
+{
+    "code": "1106212005",
+    "name": "Gle Deyah (Gla Deyah)",
+    "poscode": "23370",
+    "provinsi": {
+        "code": "11",
+        "name": "Aceh (NAD)"
+    },
+    "kabupaten": {
+        "code": "1106",
+        "name": "Aceh Besar"
+    },
+    "kecamatan": {
+        "code": "110621",
+        "name": "Krueng Barona Jaya"
+    }
+}

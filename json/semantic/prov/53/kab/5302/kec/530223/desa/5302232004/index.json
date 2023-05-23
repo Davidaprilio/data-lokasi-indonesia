@@ -1,0 +1,17 @@
+{
+    "code": "5302232004",
+    "name": "Niti",
+    "poscode": "85577",
+    "provinsi": {
+        "code": "53",
+        "name": "Nusa Tenggara Timur (NTT)"
+    },
+    "kabupaten": {
+        "code": "5302",
+        "name": "Timor Tengah Selatan"
+    },
+    "kecamatan": {
+        "code": "530223",
+        "name": "Kok Baun"
+    }
+}

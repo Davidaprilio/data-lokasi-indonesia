@@ -1,0 +1,17 @@
+{
+    "code": "3211171001",
+    "name": "Pasanggrahan Baru (Pasanggrahan)",
+    "poscode": "45313",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3211",
+        "name": "Sumedang"
+    },
+    "kecamatan": {
+        "code": "321117",
+        "name": "Sumedang Selatan"
+    }
+}

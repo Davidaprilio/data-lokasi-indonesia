@@ -1,0 +1,17 @@
+{
+    "code": "7271081002",
+    "name": "Tondo",
+    "poscode": "94119",
+    "provinsi": {
+        "code": "72",
+        "name": "Sulawesi Tengah"
+    },
+    "kabupaten": {
+        "code": "7271",
+        "name": "Palu"
+    },
+    "kecamatan": {
+        "code": "727108",
+        "name": "Mantikulore"
+    }
+}

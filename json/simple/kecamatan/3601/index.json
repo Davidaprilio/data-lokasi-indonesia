@@ -1,0 +1,247 @@
+[
+    {
+        "code": "360107",
+        "name": "Angsana",
+        "count": {
+            "desa": 9
+        }
+    },
+    {
+        "code": "360120",
+        "name": "Banjar",
+        "count": {
+            "desa": 11
+        }
+    },
+    {
+        "code": "360110",
+        "name": "Bojong",
+        "count": {
+            "desa": 8
+        }
+    },
+    {
+        "code": "360122",
+        "name": "Cadasari",
+        "count": {
+            "desa": 11
+        }
+    },
+    {
+        "code": "360128",
+        "name": "Carita",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "360103",
+        "name": "Cibaliung",
+        "count": {
+            "desa": 9
+        }
+    },
+    {
+        "code": "360127",
+        "name": "Cibitung",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "360105",
+        "name": "Cigeulis",
+        "count": {
+            "desa": 9
+        }
+    },
+    {
+        "code": "360126",
+        "name": "Cikeudal (Cikedal)",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "360104",
+        "name": "Cikeusik",
+        "count": {
+            "desa": 14
+        }
+    },
+    {
+        "code": "360102",
+        "name": "Cimanggu",
+        "count": {
+            "desa": 12
+        }
+    },
+    {
+        "code": "360118",
+        "name": "Cimanuk",
+        "count": {
+            "desa": 11
+        }
+    },
+    {
+        "code": "360115",
+        "name": "Cipeucang",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "360123",
+        "name": "Cisata",
+        "count": {
+            "desa": 9
+        }
+    },
+    {
+        "code": "360116",
+        "name": "Jiput",
+        "count": {
+            "desa": 13
+        }
+    },
+    {
+        "code": "360119",
+        "name": "Kaduhejo",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "360125",
+        "name": "Karang Tanjung",
+        "count": {
+            "desa": 4
+        }
+    },
+    {
+        "code": "360133",
+        "name": "Koroncong",
+        "count": {
+            "desa": 12
+        }
+    },
+    {
+        "code": "360112",
+        "name": "Labuan",
+        "count": {
+            "desa": 9
+        }
+    },
+    {
+        "code": "360134",
+        "name": "Majasari",
+        "count": {
+            "desa": 5
+        }
+    },
+    {
+        "code": "360117",
+        "name": "Mandalawangi",
+        "count": {
+            "desa": 15
+        }
+    },
+    {
+        "code": "360130",
+        "name": "Mekarjaya",
+        "count": {
+            "desa": 8
+        }
+    },
+    {
+        "code": "360113",
+        "name": "Menes",
+        "count": {
+            "desa": 12
+        }
+    },
+    {
+        "code": "360108",
+        "name": "Munjul",
+        "count": {
+            "desa": 9
+        }
+    },
+    {
+        "code": "360109",
+        "name": "Pagelaran",
+        "count": {
+            "desa": 13
+        }
+    },
+    {
+        "code": "360121",
+        "name": "Pandeglang",
+        "count": {
+            "desa": 4
+        }
+    },
+    {
+        "code": "360106",
+        "name": "Panimbang",
+        "count": {
+            "desa": 6
+        }
+    },
+    {
+        "code": "360124",
+        "name": "Patia",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "360111",
+        "name": "Picung",
+        "count": {
+            "desa": 9
+        }
+    },
+    {
+        "code": "360132",
+        "name": "Pulosari",
+        "count": {
+            "desa": 9
+        }
+    },
+    {
+        "code": "360114",
+        "name": "Saketi",
+        "count": {
+            "desa": 14
+        }
+    },
+    {
+        "code": "360131",
+        "name": "Sindangresmi",
+        "count": {
+            "desa": 9
+        }
+    },
+    {
+        "code": "360135",
+        "name": "Sobang",
+        "count": {
+            "desa": 8
+        }
+    },
+    {
+        "code": "360129",
+        "name": "Sukaresmi",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "360101",
+        "name": "Sumur",
+        "count": {
+            "desa": 7
+        }
+    }
+]

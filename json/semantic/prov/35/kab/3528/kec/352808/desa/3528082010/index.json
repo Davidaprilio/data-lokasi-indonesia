@@ -1,0 +1,17 @@
+{
+    "code": "3528082010",
+    "name": "Montok",
+    "poscode": "69383",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3528",
+        "name": "Pamekasan"
+    },
+    "kecamatan": {
+        "code": "352808",
+        "name": "Larangan"
+    }
+}

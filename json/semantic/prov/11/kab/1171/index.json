@@ -1,0 +1,10 @@
+{
+    "code": "1171",
+    "type": "Kota",
+    "name": "Banda Aceh",
+    "fullname": "Kota Banda Aceh",
+    "jumlah": {
+        "kecamatan": 9,
+        "desa": 90
+    }
+}

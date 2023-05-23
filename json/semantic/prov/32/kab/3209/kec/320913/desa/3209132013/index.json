@@ -1,0 +1,17 @@
+{
+    "code": "3209132013",
+    "name": "Kondangsari",
+    "poscode": "45172",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3209",
+        "name": "Cirebon"
+    },
+    "kecamatan": {
+        "code": "320913",
+        "name": "Beber"
+    }
+}

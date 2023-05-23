@@ -1,0 +1,10 @@
+{
+    "code": "3674",
+    "type": "Kota",
+    "name": "Tangerang Selatan",
+    "fullname": "Kota Tangerang Selatan",
+    "jumlah": {
+        "kecamatan": 7,
+        "desa": 54
+    }
+}

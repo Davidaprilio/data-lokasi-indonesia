@@ -1,0 +1,17 @@
+{
+    "code": "3212212001",
+    "name": "Curug",
+    "poscode": "45254",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3212",
+        "name": "Indramayu"
+    },
+    "kecamatan": {
+        "code": "321221",
+        "name": "Kandanghaur"
+    }
+}

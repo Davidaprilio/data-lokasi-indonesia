@@ -1,0 +1,17 @@
+{
+    "code": "3206362007",
+    "name": "Pasirhuni",
+    "poscode": "46156",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3206",
+        "name": "Tasikmalaya"
+    },
+    "kecamatan": {
+        "code": "320636",
+        "name": "Ciawi"
+    }
+}

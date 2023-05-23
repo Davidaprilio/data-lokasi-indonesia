@@ -1,0 +1,17 @@
+{
+    "code": "1209272005",
+    "name": "Bangun Sari",
+    "poscode": "21260",
+    "provinsi": {
+        "code": "12",
+        "name": "Sumatera Utara"
+    },
+    "kabupaten": {
+        "code": "1209",
+        "name": "Asahan"
+    },
+    "kecamatan": {
+        "code": "120927",
+        "name": "Setia Janji"
+    }
+}

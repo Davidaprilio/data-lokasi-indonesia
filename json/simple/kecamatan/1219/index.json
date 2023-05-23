@@ -1,0 +1,86 @@
+[
+    {
+        "code": "121903",
+        "name": "Air Putih",
+        "count": {
+            "desa": 19
+        }
+    },
+    {
+        "code": "121910",
+        "name": "Datuk Lima Puluh",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "121911",
+        "name": "Datuk Tanah Datar",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "121908",
+        "name": "Laut Tador",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "121904",
+        "name": "Lima Puluh (Limapuluh)",
+        "count": {
+            "desa": 12
+        }
+    },
+    {
+        "code": "121909",
+        "name": "Lima Puluh Pesisir",
+        "count": {
+            "desa": 13
+        }
+    },
+    {
+        "code": "121901",
+        "name": "Medang Deras",
+        "count": {
+            "desa": 21
+        }
+    },
+    {
+        "code": "121912",
+        "name": "Nibung Hangus",
+        "count": {
+            "desa": 12
+        }
+    },
+    {
+        "code": "121907",
+        "name": "Sei Balai",
+        "count": {
+            "desa": 14
+        }
+    },
+    {
+        "code": "121902",
+        "name": "Sei Suka",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "121905",
+        "name": "Talawi",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "121906",
+        "name": "Tanjung Tiram",
+        "count": {
+            "desa": 10
+        }
+    }
+]

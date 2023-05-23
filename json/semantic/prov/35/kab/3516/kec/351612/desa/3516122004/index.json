@@ -1,0 +1,17 @@
+{
+    "code": "3516122004",
+    "name": "Temon",
+    "poscode": "61362",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3516",
+        "name": "Mojokerto"
+    },
+    "kecamatan": {
+        "code": "351612",
+        "name": "Trowulan"
+    }
+}

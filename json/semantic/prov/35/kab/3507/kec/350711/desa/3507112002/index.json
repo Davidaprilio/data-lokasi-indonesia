@@ -1,0 +1,17 @@
+{
+    "code": "3507112002",
+    "name": "Kalipare",
+    "poscode": "65166",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3507",
+        "name": "Malang"
+    },
+    "kecamatan": {
+        "code": "350711",
+        "name": "Kalipare"
+    }
+}

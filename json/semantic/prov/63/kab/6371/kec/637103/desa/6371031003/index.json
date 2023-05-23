@@ -1,0 +1,17 @@
+{
+    "code": "6371031003",
+    "name": "Pelambuan",
+    "poscode": "70118",
+    "provinsi": {
+        "code": "63",
+        "name": "Kalimantan Selatan"
+    },
+    "kabupaten": {
+        "code": "6371",
+        "name": "Banjarmasin"
+    },
+    "kecamatan": {
+        "code": "637103",
+        "name": "Banjarmasin Barat"
+    }
+}

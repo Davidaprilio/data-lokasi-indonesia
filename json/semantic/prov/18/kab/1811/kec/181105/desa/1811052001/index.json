@@ -1,0 +1,17 @@
+{
+    "code": "1811052001",
+    "name": "Simpang Pematang",
+    "poscode": "34699",
+    "provinsi": {
+        "code": "18",
+        "name": "Lampung"
+    },
+    "kabupaten": {
+        "code": "1811",
+        "name": "Mesuji"
+    },
+    "kecamatan": {
+        "code": "181105",
+        "name": "Simpang Pematang"
+    }
+}

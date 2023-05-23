@@ -1,0 +1,17 @@
+{
+    "code": "1222052005",
+    "name": "Rintis",
+    "poscode": "21461",
+    "provinsi": {
+        "code": "12",
+        "name": "Sumatera Utara"
+    },
+    "kabupaten": {
+        "code": "1222",
+        "name": "Labuhanbatu Selatan"
+    },
+    "kecamatan": {
+        "code": "122205",
+        "name": "Silangkitang"
+    }
+}

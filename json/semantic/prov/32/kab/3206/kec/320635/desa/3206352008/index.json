@@ -1,0 +1,17 @@
+{
+    "code": "3206352008",
+    "name": "Karangresik",
+    "poscode": "46175",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3206",
+        "name": "Tasikmalaya"
+    },
+    "kecamatan": {
+        "code": "320635",
+        "name": "Jamanis"
+    }
+}

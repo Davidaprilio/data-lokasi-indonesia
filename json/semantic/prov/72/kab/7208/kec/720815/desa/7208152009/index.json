@@ -1,0 +1,17 @@
+{
+    "code": "7208152009",
+    "name": "Catur Karya",
+    "poscode": "94473",
+    "provinsi": {
+        "code": "72",
+        "name": "Sulawesi Tengah"
+    },
+    "kabupaten": {
+        "code": "7208",
+        "name": "Parigi Moutong"
+    },
+    "kecamatan": {
+        "code": "720815",
+        "name": "Balinggi"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "1223032003",
+    "name": "Sei/Sungai Sentang",
+    "poscode": "21474",
+    "provinsi": {
+        "code": "12",
+        "name": "Sumatera Utara"
+    },
+    "kabupaten": {
+        "code": "1223",
+        "name": "Labuhanbatu Utara"
+    },
+    "kecamatan": {
+        "code": "122303",
+        "name": "Kualuh Hilir"
+    }
+}

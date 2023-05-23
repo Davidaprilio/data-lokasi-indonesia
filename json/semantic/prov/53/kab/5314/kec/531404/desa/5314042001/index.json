@@ -1,0 +1,17 @@
+{
+    "code": "5314042001",
+    "name": "Maubesi",
+    "poscode": "85971",
+    "provinsi": {
+        "code": "53",
+        "name": "Nusa Tenggara Timur (NTT)"
+    },
+    "kabupaten": {
+        "code": "5314",
+        "name": "Rote Ndao"
+    },
+    "kecamatan": {
+        "code": "531404",
+        "name": "Rote Tengah"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "7405042008",
+    "name": "Kiaea",
+    "poscode": "93882",
+    "provinsi": {
+        "code": "74",
+        "name": "Sulawesi Tenggara"
+    },
+    "kabupaten": {
+        "code": "7405",
+        "name": "Konawe Selatan"
+    },
+    "kecamatan": {
+        "code": "740504",
+        "name": "Palangga"
+    }
+}

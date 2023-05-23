@@ -1,0 +1,17 @@
+{
+    "code": "7201231006",
+    "name": "Nambo Lempek Baru",
+    "poscode": "94760",
+    "provinsi": {
+        "code": "72",
+        "name": "Sulawesi Tengah"
+    },
+    "kabupaten": {
+        "code": "7201",
+        "name": "Banggai"
+    },
+    "kecamatan": {
+        "code": "720123",
+        "name": "Nambo"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "8202072005",
+    "name": "Woekob",
+    "poscode": "97853",
+    "provinsi": {
+        "code": "82",
+        "name": "Maluku Utara"
+    },
+    "kabupaten": {
+        "code": "8202",
+        "name": "Halmahera Tengah"
+    },
+    "kecamatan": {
+        "code": "820207",
+        "name": "Weda Tengah"
+    }
+}

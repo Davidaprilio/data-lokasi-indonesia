@@ -1,0 +1,42 @@
+[
+    {
+        "code": "7403161004",
+        "name": "Butung-Butung",
+        "poscode": "93611"
+    },
+    {
+        "code": "7403161006",
+        "name": "Foo Kuni (Mangga Kuning)",
+        "poscode": "93616"
+    },
+    {
+        "code": "7403161007",
+        "name": "Laende",
+        "poscode": "93611"
+    },
+    {
+        "code": "7403161008",
+        "name": "Raha I",
+        "poscode": "93611"
+    },
+    {
+        "code": "7403161005",
+        "name": "Raha II",
+        "poscode": "93612"
+    },
+    {
+        "code": "7403161002",
+        "name": "Raha III",
+        "poscode": "93613"
+    },
+    {
+        "code": "7403161003",
+        "name": "Wamponiki",
+        "poscode": "93611"
+    },
+    {
+        "code": "7403161001",
+        "name": "Watonea",
+        "poscode": "93615"
+    }
+]

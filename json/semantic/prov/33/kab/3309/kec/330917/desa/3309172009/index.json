@@ -1,0 +1,17 @@
+{
+    "code": "3309172009",
+    "name": "Guwo",
+    "poscode": "57383",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3309",
+        "name": "Boyolali"
+    },
+    "kecamatan": {
+        "code": "330917",
+        "name": "Kemusu"
+    }
+}

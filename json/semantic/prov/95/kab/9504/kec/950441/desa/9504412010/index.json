@@ -1,0 +1,17 @@
+{
+    "code": "9504412010",
+    "name": "Belela",
+    "poscode": "99016",
+    "provinsi": {
+        "code": "95",
+        "name": "Papua Pegunungan"
+    },
+    "kabupaten": {
+        "code": "9504",
+        "name": "Tolikara"
+    },
+    "kecamatan": {
+        "code": "950441",
+        "name": "Tagime"
+    }
+}

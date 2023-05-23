@@ -1,0 +1,17 @@
+{
+    "code": "7211042011",
+    "name": "Lalong",
+    "poscode": "94892",
+    "provinsi": {
+        "code": "72",
+        "name": "Sulawesi Tengah"
+    },
+    "kabupaten": {
+        "code": "7211",
+        "name": "Banggai Laut"
+    },
+    "kecamatan": {
+        "code": "721104",
+        "name": "Bangkurung"
+    }
+}

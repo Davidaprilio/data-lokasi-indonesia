@@ -1,0 +1,10 @@
+{
+    "code": "1501",
+    "type": "Kabupaten",
+    "name": "Kerinci",
+    "fullname": "Kabupaten Kerinci",
+    "jumlah": {
+        "kecamatan": 16,
+        "desa": 287
+    }
+}

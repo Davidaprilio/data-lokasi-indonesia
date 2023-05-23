@@ -1,0 +1,17 @@
+{
+    "code": "9503202009",
+    "name": "Yalimo",
+    "poscode": "99716",
+    "provinsi": {
+        "code": "95",
+        "name": "Papua Pegunungan"
+    },
+    "kabupaten": {
+        "code": "9503",
+        "name": "Yahukimo"
+    },
+    "kecamatan": {
+        "code": "950320",
+        "name": "Tangma"
+    }
+}

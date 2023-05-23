@@ -1,0 +1,17 @@
+{
+    "code": "1704082009",
+    "name": "Nusuk",
+    "poscode": "38967",
+    "provinsi": {
+        "code": "17",
+        "name": "Bengkulu"
+    },
+    "kabupaten": {
+        "code": "1704",
+        "name": "Kaur"
+    },
+    "kecamatan": {
+        "code": "170408",
+        "name": "Semidang Gumai (Gumay)"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "1221092002",
+    "name": "Tamiang",
+    "poscode": "22742",
+    "provinsi": {
+        "code": "12",
+        "name": "Sumatera Utara"
+    },
+    "kabupaten": {
+        "code": "1221",
+        "name": "Padang Lawas"
+    },
+    "kecamatan": {
+        "code": "122109",
+        "name": "Batang Lubu Sutam"
+    }
+}

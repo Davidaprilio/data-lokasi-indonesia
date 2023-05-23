@@ -1,0 +1,72 @@
+[
+    {
+        "code": "630804",
+        "name": "Amuntai Selatan",
+        "count": {
+            "desa": 30
+        }
+    },
+    {
+        "code": "630805",
+        "name": "Amuntai Tengah",
+        "count": {
+            "desa": 29
+        }
+    },
+    {
+        "code": "630806",
+        "name": "Amuntai Utara",
+        "count": {
+            "desa": 26
+        }
+    },
+    {
+        "code": "630802",
+        "name": "Babirik",
+        "count": {
+            "desa": 23
+        }
+    },
+    {
+        "code": "630807",
+        "name": "Banjang",
+        "count": {
+            "desa": 20
+        }
+    },
+    {
+        "code": "630801",
+        "name": "Danau Panggang",
+        "count": {
+            "desa": 16
+        }
+    },
+    {
+        "code": "630808",
+        "name": "Haur Gading",
+        "count": {
+            "desa": 18
+        }
+    },
+    {
+        "code": "630809",
+        "name": "Paminggir",
+        "count": {
+            "desa": 7
+        }
+    },
+    {
+        "code": "630803",
+        "name": "Sungai Pandan",
+        "count": {
+            "desa": 33
+        }
+    },
+    {
+        "code": "630810",
+        "name": "Sungai Tabukan",
+        "count": {
+            "desa": 17
+        }
+    }
+]

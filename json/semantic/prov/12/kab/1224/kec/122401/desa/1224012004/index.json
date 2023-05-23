@@ -1,0 +1,17 @@
+{
+    "code": "1224012004",
+    "name": "Lawira I",
+    "poscode": "22856",
+    "provinsi": {
+        "code": "12",
+        "name": "Sumatera Utara"
+    },
+    "kabupaten": {
+        "code": "1224",
+        "name": "Nias Utara"
+    },
+    "kecamatan": {
+        "code": "122401",
+        "name": "Lotu"
+    }
+}

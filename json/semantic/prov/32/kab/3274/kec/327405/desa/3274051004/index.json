@@ -1,0 +1,17 @@
+{
+    "code": "3274051004",
+    "name": "Drajat",
+    "poscode": "45133",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3274",
+        "name": "Cirebon"
+    },
+    "kecamatan": {
+        "code": "327405",
+        "name": "Kesambi"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "8101262010",
+    "name": "Itawaka",
+    "poscode": "97585",
+    "provinsi": {
+        "code": "81",
+        "name": "Maluku"
+    },
+    "kabupaten": {
+        "code": "8101",
+        "name": "Maluku Tengah"
+    },
+    "kecamatan": {
+        "code": "810126",
+        "name": "Saparua Timur"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "code": "7202",
+    "type": "Kabupaten",
+    "name": "Poso",
+    "fullname": "Kabupaten Poso",
+    "jumlah": {
+        "kecamatan": 19,
+        "desa": 170
+    }
+}

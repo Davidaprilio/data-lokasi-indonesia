@@ -1,0 +1,17 @@
+{
+    "code": "1506012004",
+    "name": "Pematang Pauh",
+    "poscode": "36552",
+    "provinsi": {
+        "code": "15",
+        "name": "Jambi"
+    },
+    "kabupaten": {
+        "code": "1506",
+        "name": "Tanjung Jabung Barat"
+    },
+    "kecamatan": {
+        "code": "150601",
+        "name": "Tungkal Ulu"
+    }
+}

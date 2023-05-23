@@ -1,0 +1,282 @@
+[
+    {
+        "code": "320105",
+        "name": "Babakan Madang",
+        "count": {
+            "desa": 9
+        }
+    },
+    {
+        "code": "320113",
+        "name": "Bojong Gede (Bojonggede)",
+        "count": {
+            "desa": 9
+        }
+    },
+    {
+        "code": "320127",
+        "name": "Caringin",
+        "count": {
+            "desa": 12
+        }
+    },
+    {
+        "code": "320108",
+        "name": "Cariu",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "320115",
+        "name": "Ciampea",
+        "count": {
+            "desa": 13
+        }
+    },
+    {
+        "code": "320124",
+        "name": "Ciawi",
+        "count": {
+            "desa": 13
+        }
+    },
+    {
+        "code": "320101",
+        "name": "Cibinong",
+        "count": {
+            "desa": 13
+        }
+    },
+    {
+        "code": "320116",
+        "name": "Cibungbulang",
+        "count": {
+            "desa": 15
+        }
+    },
+    {
+        "code": "320138",
+        "name": "Cigombong",
+        "count": {
+            "desa": 9
+        }
+    },
+    {
+        "code": "320122",
+        "name": "Cigudeg",
+        "count": {
+            "desa": 15
+        }
+    },
+    {
+        "code": "320128",
+        "name": "Cijeruk",
+        "count": {
+            "desa": 9
+        }
+    },
+    {
+        "code": "320107",
+        "name": "Cileungsi",
+        "count": {
+            "desa": 12
+        }
+    },
+    {
+        "code": "320129",
+        "name": "Ciomas",
+        "count": {
+            "desa": 11
+        }
+    },
+    {
+        "code": "320125",
+        "name": "Cisarua",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "320133",
+        "name": "Ciseeng",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "320103",
+        "name": "Citeureup",
+        "count": {
+            "desa": 14
+        }
+    },
+    {
+        "code": "320130",
+        "name": "Dramaga",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "320102",
+        "name": "Gunung Putri",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "320111",
+        "name": "Gunung Sindur",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "320119",
+        "name": "Jasinga",
+        "count": {
+            "desa": 16
+        }
+    },
+    {
+        "code": "320106",
+        "name": "Jonggol",
+        "count": {
+            "desa": 14
+        }
+    },
+    {
+        "code": "320112",
+        "name": "Kemang",
+        "count": {
+            "desa": 9
+        }
+    },
+    {
+        "code": "320132",
+        "name": "Klapanunggal",
+        "count": {
+            "desa": 9
+        }
+    },
+    {
+        "code": "320114",
+        "name": "Leuwiliang",
+        "count": {
+            "desa": 11
+        }
+    },
+    {
+        "code": "320139",
+        "name": "Leuwisadeng",
+        "count": {
+            "desa": 8
+        }
+    },
+    {
+        "code": "320126",
+        "name": "Megamendung",
+        "count": {
+            "desa": 12
+        }
+    },
+    {
+        "code": "320121",
+        "name": "Nanggung",
+        "count": {
+            "desa": 11
+        }
+    },
+    {
+        "code": "320117",
+        "name": "Pamijahan",
+        "count": {
+            "desa": 15
+        }
+    },
+    {
+        "code": "320110",
+        "name": "Parung",
+        "count": {
+            "desa": 9
+        }
+    },
+    {
+        "code": "320120",
+        "name": "Parung Panjang",
+        "count": {
+            "desa": 11
+        }
+    },
+    {
+        "code": "320134",
+        "name": "Ranca Bungur",
+        "count": {
+            "desa": 7
+        }
+    },
+    {
+        "code": "320118",
+        "name": "Rumpin",
+        "count": {
+            "desa": 14
+        }
+    },
+    {
+        "code": "320135",
+        "name": "Sukajaya",
+        "count": {
+            "desa": 11
+        }
+    },
+    {
+        "code": "320109",
+        "name": "Sukamakmur",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "320104",
+        "name": "Sukaraja",
+        "count": {
+            "desa": 13
+        }
+    },
+    {
+        "code": "320137",
+        "name": "Tajurhalang",
+        "count": {
+            "desa": 7
+        }
+    },
+    {
+        "code": "320131",
+        "name": "Tamansari",
+        "count": {
+            "desa": 8
+        }
+    },
+    {
+        "code": "320136",
+        "name": "Tanjungsari",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "320123",
+        "name": "Tenjo",
+        "count": {
+            "desa": 9
+        }
+    },
+    {
+        "code": "320140",
+        "name": "Tenjolaya",
+        "count": {
+            "desa": 7
+        }
+    }
+]

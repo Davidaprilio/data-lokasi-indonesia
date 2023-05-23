@@ -1,0 +1,17 @@
+{
+    "code": "5371011001",
+    "name": "Namosain",
+    "poscode": "85232",
+    "provinsi": {
+        "code": "53",
+        "name": "Nusa Tenggara Timur (NTT)"
+    },
+    "kabupaten": {
+        "code": "5371",
+        "name": "Kupang"
+    },
+    "kecamatan": {
+        "code": "537101",
+        "name": "Alak"
+    }
+}

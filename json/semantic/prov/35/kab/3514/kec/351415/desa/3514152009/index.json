@@ -1,0 +1,17 @@
+{
+    "code": "3514152009",
+    "name": "Rembang",
+    "poscode": "67152",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3514",
+        "name": "Pasuruan"
+    },
+    "kecamatan": {
+        "code": "351415",
+        "name": "Rembang"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "1219082009",
+    "name": "Sei Simujur",
+    "poscode": "21257",
+    "provinsi": {
+        "code": "12",
+        "name": "Sumatera Utara"
+    },
+    "kabupaten": {
+        "code": "1219",
+        "name": "Batu Bara"
+    },
+    "kecamatan": {
+        "code": "121908",
+        "name": "Laut Tador"
+    }
+}

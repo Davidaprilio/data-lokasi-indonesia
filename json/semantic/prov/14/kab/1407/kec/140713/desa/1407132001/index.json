@@ -1,0 +1,17 @@
+{
+    "code": "1407132001",
+    "name": "Sekapas",
+    "poscode": "28984",
+    "provinsi": {
+        "code": "14",
+        "name": "Riau"
+    },
+    "kabupaten": {
+        "code": "1407",
+        "name": "Rokan Hilir"
+    },
+    "kecamatan": {
+        "code": "140713",
+        "name": "Rantau Kopar"
+    }
+}

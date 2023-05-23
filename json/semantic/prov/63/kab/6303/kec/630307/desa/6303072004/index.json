@@ -1,0 +1,17 @@
+{
+    "code": "6303072004",
+    "name": "Danau Salak",
+    "poscode": "70670",
+    "provinsi": {
+        "code": "63",
+        "name": "Kalimantan Selatan"
+    },
+    "kabupaten": {
+        "code": "6303",
+        "name": "Banjar"
+    },
+    "kecamatan": {
+        "code": "630307",
+        "name": "Astambul"
+    }
+}

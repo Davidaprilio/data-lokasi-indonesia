@@ -1,0 +1,17 @@
+{
+    "code": "3303132002",
+    "name": "Bantarbarang",
+    "poscode": "53356",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3303",
+        "name": "Purbalingga"
+    },
+    "kecamatan": {
+        "code": "330313",
+        "name": "Rembang"
+    }
+}

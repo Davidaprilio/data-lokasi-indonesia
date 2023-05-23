@@ -1,0 +1,10 @@
+{
+    "code": "8171",
+    "type": "Kota",
+    "name": "Ambon",
+    "fullname": "Kota Ambon",
+    "jumlah": {
+        "kecamatan": 5,
+        "desa": 50
+    }
+}

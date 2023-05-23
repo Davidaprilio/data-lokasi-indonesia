@@ -1,0 +1,17 @@
+{
+    "code": "3320112013",
+    "name": "Kecapi",
+    "poscode": "59429",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3320",
+        "name": "Jepara"
+    },
+    "kecamatan": {
+        "code": "332011",
+        "name": "Tahunan"
+    }
+}

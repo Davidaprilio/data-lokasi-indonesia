@@ -1,0 +1,17 @@
+{
+    "code": "3320022012",
+    "name": "Krasak",
+    "poscode": "59460",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3320",
+        "name": "Jepara"
+    },
+    "kecamatan": {
+        "code": "332002",
+        "name": "Pecangaan"
+    }
+}

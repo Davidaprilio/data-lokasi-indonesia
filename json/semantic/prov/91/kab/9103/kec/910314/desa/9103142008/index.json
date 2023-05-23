@@ -1,0 +1,17 @@
+{
+    "code": "9103142008",
+    "name": "Karya Bumi",
+    "poscode": "99360",
+    "provinsi": {
+        "code": "91",
+        "name": "Papua"
+    },
+    "kabupaten": {
+        "code": "9103",
+        "name": "Jayapura"
+    },
+    "kecamatan": {
+        "code": "910314",
+        "name": "Nambluong"
+    }
+}

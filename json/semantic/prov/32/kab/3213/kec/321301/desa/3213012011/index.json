@@ -1,0 +1,17 @@
+{
+    "code": "3213012011",
+    "name": "Sagalaherang Kaler",
+    "poscode": "41282",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3213",
+        "name": "Subang"
+    },
+    "kecamatan": {
+        "code": "321301",
+        "name": "Sagalaherang"
+    }
+}

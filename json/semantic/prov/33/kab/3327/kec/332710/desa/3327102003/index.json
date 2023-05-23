@@ -1,0 +1,17 @@
+{
+    "code": "3327102003",
+    "name": "Karangasem",
+    "poscode": "52362",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3327",
+        "name": "Pemalang"
+    },
+    "kecamatan": {
+        "code": "332710",
+        "name": "Petarukan"
+    }
+}

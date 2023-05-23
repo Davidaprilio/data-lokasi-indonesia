@@ -1,0 +1,37 @@
+[
+    {
+        "code": "1871031001",
+        "name": "Gedong Air",
+        "poscode": "35151"
+    },
+    {
+        "code": "1871031008",
+        "name": "Kelapa Tiga Permai",
+        "poscode": "35159"
+    },
+    {
+        "code": "1871031011",
+        "name": "Segalamider (Segala Mider)",
+        "poscode": "35152"
+    },
+    {
+        "code": "1871031006",
+        "name": "Sukadana Ham",
+        "poscode": "35156"
+    },
+    {
+        "code": "1871031002",
+        "name": "Sukajawa (Suka Jawa)",
+        "poscode": "35151"
+    },
+    {
+        "code": "1871031010",
+        "name": "Sukajawa Baru",
+        "poscode": "35151"
+    },
+    {
+        "code": "1871031004",
+        "name": "Susunan Baru",
+        "poscode": "35155"
+    }
+]

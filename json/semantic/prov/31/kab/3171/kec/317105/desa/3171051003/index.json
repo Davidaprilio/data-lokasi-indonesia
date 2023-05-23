@@ -1,0 +1,17 @@
+{
+    "code": "3171051003",
+    "name": "Rawasari",
+    "poscode": "10570",
+    "provinsi": {
+        "code": "31",
+        "name": "DKI Jakarta"
+    },
+    "kabupaten": {
+        "code": "3171",
+        "name": "Jakarta Pusat"
+    },
+    "kecamatan": {
+        "code": "317105",
+        "name": "Cempaka Putih"
+    }
+}

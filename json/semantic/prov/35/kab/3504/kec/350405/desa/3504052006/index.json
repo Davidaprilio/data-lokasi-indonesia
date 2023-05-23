@@ -1,0 +1,17 @@
+{
+    "code": "3504052006",
+    "name": "Kalangbret",
+    "poscode": "66261",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3504",
+        "name": "Tulungagung"
+    },
+    "kecamatan": {
+        "code": "350405",
+        "name": "Kauman"
+    }
+}

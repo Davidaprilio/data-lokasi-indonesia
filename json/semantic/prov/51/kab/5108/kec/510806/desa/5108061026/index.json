@@ -1,0 +1,17 @@
+{
+    "code": "5108061026",
+    "name": "Kampung Bugis",
+    "poscode": "81115",
+    "provinsi": {
+        "code": "51",
+        "name": "Bali"
+    },
+    "kabupaten": {
+        "code": "5108",
+        "name": "Buleleng"
+    },
+    "kecamatan": {
+        "code": "510806",
+        "name": "Buleleng"
+    }
+}

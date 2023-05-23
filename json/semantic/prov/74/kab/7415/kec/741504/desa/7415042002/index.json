@@ -1,0 +1,17 @@
+{
+    "code": "7415042002",
+    "name": "Batuatas Barat",
+    "poscode": "93745",
+    "provinsi": {
+        "code": "74",
+        "name": "Sulawesi Tenggara"
+    },
+    "kabupaten": {
+        "code": "7415",
+        "name": "Buton Selatan"
+    },
+    "kecamatan": {
+        "code": "741504",
+        "name": "Batu Atas"
+    }
+}

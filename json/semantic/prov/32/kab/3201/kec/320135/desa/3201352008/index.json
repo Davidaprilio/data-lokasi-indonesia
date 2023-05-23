@@ -1,0 +1,17 @@
+{
+    "code": "3201352008",
+    "name": "Sukamulih",
+    "poscode": "16661",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3201",
+        "name": "Bogor"
+    },
+    "kecamatan": {
+        "code": "320135",
+        "name": "Sukajaya"
+    }
+}

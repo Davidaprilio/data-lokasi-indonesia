@@ -1,0 +1,17 @@
+{
+    "code": "5301122008",
+    "name": "Leloboko",
+    "poscode": "85373",
+    "provinsi": {
+        "code": "53",
+        "name": "Nusa Tenggara Timur (NTT)"
+    },
+    "kabupaten": {
+        "code": "5301",
+        "name": "Kupang"
+    },
+    "kecamatan": {
+        "code": "530112",
+        "name": "Amfoang Selatan"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "3603102006",
+    "name": "Kosambi",
+    "poscode": "15532",
+    "provinsi": {
+        "code": "36",
+        "name": "Banten"
+    },
+    "kabupaten": {
+        "code": "3603",
+        "name": "Tangerang"
+    },
+    "kecamatan": {
+        "code": "360310",
+        "name": "Sukadiri"
+    }
+}

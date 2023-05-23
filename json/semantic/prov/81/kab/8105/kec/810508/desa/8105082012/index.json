@@ -1,0 +1,17 @@
+{
+    "code": "8105082012",
+    "name": "Mising",
+    "poscode": "97591",
+    "provinsi": {
+        "code": "81",
+        "name": "Maluku"
+    },
+    "kabupaten": {
+        "code": "8105",
+        "name": "Seram Bagian Timur"
+    },
+    "kecamatan": {
+        "code": "810508",
+        "name": "Kilmury"
+    }
+}

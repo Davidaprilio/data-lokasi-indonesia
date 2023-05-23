@@ -1,0 +1,17 @@
+{
+    "code": "7603102004",
+    "name": "Tabang Barat",
+    "poscode": "91364",
+    "provinsi": {
+        "code": "76",
+        "name": "Sulawesi Barat"
+    },
+    "kabupaten": {
+        "code": "7603",
+        "name": "Mamasa"
+    },
+    "kecamatan": {
+        "code": "760310",
+        "name": "Tabang"
+    }
+}

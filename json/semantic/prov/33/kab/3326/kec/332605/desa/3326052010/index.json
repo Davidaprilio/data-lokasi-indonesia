@@ -1,0 +1,17 @@
+{
+    "code": "3326052010",
+    "name": "Krompeng",
+    "poscode": "51192",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3326",
+        "name": "Pekalongan"
+    },
+    "kecamatan": {
+        "code": "332605",
+        "name": "Talun"
+    }
+}

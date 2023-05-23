@@ -1,0 +1,17 @@
+{
+    "code": "3214062013",
+    "name": "Sadarkarya",
+    "poscode": "41163",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3214",
+        "name": "Purwakarta"
+    },
+    "kecamatan": {
+        "code": "321406",
+        "name": "Darangdan"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "3603222011",
+    "name": "Malang Nengah",
+    "poscode": "15330",
+    "provinsi": {
+        "code": "36",
+        "name": "Banten"
+    },
+    "kabupaten": {
+        "code": "3603",
+        "name": "Tangerang"
+    },
+    "kecamatan": {
+        "code": "360322",
+        "name": "Pagedangan"
+    }
+}

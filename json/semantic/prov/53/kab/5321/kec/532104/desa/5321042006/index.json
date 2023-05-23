@@ -1,0 +1,17 @@
+{
+    "code": "5321042006",
+    "name": "Wederok",
+    "poscode": "85774",
+    "provinsi": {
+        "code": "53",
+        "name": "Nusa Tenggara Timur (NTT)"
+    },
+    "kabupaten": {
+        "code": "5321",
+        "name": "Malaka"
+    },
+    "kecamatan": {
+        "code": "532104",
+        "name": "Weliman"
+    }
+}

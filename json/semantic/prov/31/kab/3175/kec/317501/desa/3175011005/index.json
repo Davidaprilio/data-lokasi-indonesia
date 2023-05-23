@@ -1,0 +1,17 @@
+{
+    "code": "3175011005",
+    "name": "Kebon Manggis",
+    "poscode": "13150",
+    "provinsi": {
+        "code": "31",
+        "name": "DKI Jakarta"
+    },
+    "kabupaten": {
+        "code": "3175",
+        "name": "Jakarta Timur"
+    },
+    "kecamatan": {
+        "code": "317501",
+        "name": "Matraman"
+    }
+}

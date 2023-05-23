@@ -1,0 +1,135 @@
+[
+    {
+        "code": "710402",
+        "name": "Beo",
+        "count": {
+            "desa": 6
+        }
+    },
+    {
+        "code": "710418",
+        "name": "Beo Selatan",
+        "count": {
+            "desa": 7
+        }
+    },
+    {
+        "code": "710414",
+        "name": "Beo Utara",
+        "count": {
+            "desa": 8
+        }
+    },
+    {
+        "code": "710409",
+        "name": "Damao (Damau)",
+        "count": {
+            "desa": 8
+        }
+    },
+    {
+        "code": "710404",
+        "name": "Essang",
+        "count": {
+            "desa": 8
+        }
+    },
+    {
+        "code": "710419",
+        "name": "Essang Selatan",
+        "count": {
+            "desa": 9
+        }
+    },
+    {
+        "code": "710408",
+        "name": "Gemeh",
+        "count": {
+            "desa": 15
+        }
+    },
+    {
+        "code": "710406",
+        "name": "Kabaruan",
+        "count": {
+            "desa": 12
+        }
+    },
+    {
+        "code": "710412",
+        "name": "Kalongan",
+        "count": {
+            "desa": 5
+        }
+    },
+    {
+        "code": "710401",
+        "name": "Lirung",
+        "count": {
+            "desa": 7
+        }
+    },
+    {
+        "code": "710407",
+        "name": "Melonguane",
+        "count": {
+            "desa": 13
+        }
+    },
+    {
+        "code": "710416",
+        "name": "Melonguane Timur",
+        "count": {
+            "desa": 6
+        }
+    },
+    {
+        "code": "710413",
+        "name": "Miangas",
+        "count": {
+            "desa": 1
+        }
+    },
+    {
+        "code": "710417",
+        "name": "Moronge",
+        "count": {
+            "desa": 6
+        }
+    },
+    {
+        "code": "710405",
+        "name": "Nanusa",
+        "count": {
+            "desa": 9
+        }
+    },
+    {
+        "code": "710415",
+        "name": "Pulutan",
+        "count": {
+            "desa": 5
+        }
+    },
+    {
+        "code": "710403",
+        "name": "Rainis",
+        "count": {
+            "desa": 11
+        }
+    },
+    {
+        "code": "710411",
+        "name": "Salibabu",
+        "count": {
+            "desa": 6
+        }
+    },
+    {
+        "code": "710410",
+        "name": "Tampan' Amma (Tampan Amma)",
+        "count": {
+            "desa": 11
+        }
+    }
+]

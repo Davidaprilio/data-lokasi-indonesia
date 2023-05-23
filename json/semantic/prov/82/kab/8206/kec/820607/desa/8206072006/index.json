@@ -1,0 +1,17 @@
+{
+    "code": "8206072006",
+    "name": "Woka Jaya",
+    "poscode": "97868",
+    "provinsi": {
+        "code": "82",
+        "name": "Maluku Utara"
+    },
+    "kabupaten": {
+        "code": "8206",
+        "name": "Halmahera Timur"
+    },
+    "kecamatan": {
+        "code": "820607",
+        "name": "Wasile Timur"
+    }
+}

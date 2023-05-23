@@ -1,0 +1,62 @@
+[
+    {
+        "code": "1501212012",
+        "name": "Air Bersih",
+        "poscode": "37166"
+    },
+    {
+        "code": "1501212003",
+        "name": "Air Panas",
+        "poscode": "37166"
+    },
+    {
+        "code": "1501212002",
+        "name": "Baru (Koto Baru Semurup)",
+        "poscode": "37166"
+    },
+    {
+        "code": "1501212004",
+        "name": "Hamparan Pugu",
+        "poscode": "37166"
+    },
+    {
+        "code": "1501212011",
+        "name": "Kecil",
+        "poscode": "37166"
+    },
+    {
+        "code": "1501212010",
+        "name": "Koto Cayo",
+        "poscode": "37166"
+    },
+    {
+        "code": "1501212008",
+        "name": "Koto Datuk",
+        "poscode": "37166"
+    },
+    {
+        "code": "1501212009",
+        "name": "Koto Duo/Dua Baru",
+        "poscode": "37166"
+    },
+    {
+        "code": "1501212001",
+        "name": "Koto Mebai",
+        "poscode": "37166"
+    },
+    {
+        "code": "1501212006",
+        "name": "Koto Mudik",
+        "poscode": "37166"
+    },
+    {
+        "code": "1501212007",
+        "name": "Koto Tengah",
+        "poscode": "37166"
+    },
+    {
+        "code": "1501212005",
+        "name": "Pugu",
+        "poscode": "37166"
+    }
+]

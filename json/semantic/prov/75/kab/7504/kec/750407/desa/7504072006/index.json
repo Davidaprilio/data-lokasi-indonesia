@@ -1,0 +1,17 @@
+{
+    "code": "7504072006",
+    "name": "Marisa IV",
+    "poscode": "96464",
+    "provinsi": {
+        "code": "75",
+        "name": "Gorontalo"
+    },
+    "kabupaten": {
+        "code": "7504",
+        "name": "Pahuwato"
+    },
+    "kecamatan": {
+        "code": "750407",
+        "name": "Taluditi (Taluduti)"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "1409102011",
+    "name": "Kuantan Sako",
+    "poscode": "29556",
+    "provinsi": {
+        "code": "14",
+        "name": "Riau"
+    },
+    "kabupaten": {
+        "code": "1409",
+        "name": "Kuantan Singingi"
+    },
+    "kecamatan": {
+        "code": "140910",
+        "name": "Logas Tanah Darat"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "1204112006",
+    "name": "Hilialawa",
+    "poscode": "22876",
+    "provinsi": {
+        "code": "12",
+        "name": "Sumatera Utara"
+    },
+    "kabupaten": {
+        "code": "1204",
+        "name": "Nias"
+    },
+    "kecamatan": {
+        "code": "120411",
+        "name": "Bawolato"
+    }
+}

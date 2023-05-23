@@ -1,0 +1,17 @@
+{
+    "code": "3374151005",
+    "name": "Kalipancur",
+    "poscode": "50183",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3374",
+        "name": "Semarang"
+    },
+    "kecamatan": {
+        "code": "337415",
+        "name": "Ngaliyan"
+    }
+}

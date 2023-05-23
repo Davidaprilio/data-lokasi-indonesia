@@ -1,0 +1,17 @@
+{
+    "code": "3515041013",
+    "name": "Jatirejo",
+    "poscode": "61274",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3515",
+        "name": "Sidoarjo"
+    },
+    "kecamatan": {
+        "code": "351504",
+        "name": "Porong"
+    }
+}

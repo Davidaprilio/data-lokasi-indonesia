@@ -1,0 +1,10 @@
+{
+    "code": "1505",
+    "type": "Kabupaten",
+    "name": "Muaro Jambi",
+    "fullname": "Kabupaten Muaro Jambi",
+    "jumlah": {
+        "kecamatan": 11,
+        "desa": 155
+    }
+}

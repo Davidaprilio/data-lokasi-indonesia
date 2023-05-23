@@ -1,0 +1,17 @@
+{
+    "code": "9110152003",
+    "name": "Mawes Mukti",
+    "poscode": "99382",
+    "provinsi": {
+        "code": "91",
+        "name": "Papua"
+    },
+    "kabupaten": {
+        "code": "9110",
+        "name": "Sarmi"
+    },
+    "kecamatan": {
+        "code": "911015",
+        "name": "Bonggo Timur"
+    }
+}

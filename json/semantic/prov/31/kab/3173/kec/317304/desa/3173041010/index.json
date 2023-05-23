@@ -1,0 +1,17 @@
+{
+    "code": "3173041010",
+    "name": "Roa Malaka",
+    "poscode": "11230",
+    "provinsi": {
+        "code": "31",
+        "name": "DKI Jakarta"
+    },
+    "kabupaten": {
+        "code": "3173",
+        "name": "Jakarta Barat"
+    },
+    "kecamatan": {
+        "code": "317304",
+        "name": "Tambora"
+    }
+}

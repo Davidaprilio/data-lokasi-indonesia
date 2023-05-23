@@ -1,0 +1,17 @@
+{
+    "code": "1107162003",
+    "name": "Puuk",
+    "poscode": "24151",
+    "provinsi": {
+        "code": "11",
+        "name": "Aceh (NAD)"
+    },
+    "kabupaten": {
+        "code": "1107",
+        "name": "Pidie"
+    },
+    "kecamatan": {
+        "code": "110716",
+        "name": "Pidie"
+    }
+}

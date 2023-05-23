@@ -1,0 +1,17 @@
+{
+    "code": "7604041007",
+    "name": "Madate (Madatte)",
+    "poscode": "91315",
+    "provinsi": {
+        "code": "76",
+        "name": "Sulawesi Barat"
+    },
+    "kabupaten": {
+        "code": "7604",
+        "name": "Polewali Mandar"
+    },
+    "kecamatan": {
+        "code": "760404",
+        "name": "Polewali"
+    }
+}

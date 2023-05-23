@@ -1,0 +1,17 @@
+{
+    "code": "1501072011",
+    "name": "Baru Pulau Sangkar",
+    "poscode": "37175",
+    "provinsi": {
+        "code": "15",
+        "name": "Jambi"
+    },
+    "kabupaten": {
+        "code": "1501",
+        "name": "Kerinci"
+    },
+    "kecamatan": {
+        "code": "150107",
+        "name": "Batang Merangin"
+    }
+}

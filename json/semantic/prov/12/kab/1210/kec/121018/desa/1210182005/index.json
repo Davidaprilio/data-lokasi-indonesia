@@ -1,0 +1,17 @@
+{
+    "code": "1210182005",
+    "name": "Sei Merdeka",
+    "poscode": "21472",
+    "provinsi": {
+        "code": "12",
+        "name": "Sumatera Utara"
+    },
+    "kabupaten": {
+        "code": "1210",
+        "name": "Labuhanbatu"
+    },
+    "kecamatan": {
+        "code": "121018",
+        "name": "Panai Tengah"
+    }
+}

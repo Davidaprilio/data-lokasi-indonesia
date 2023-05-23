@@ -1,0 +1,17 @@
+{
+    "code": "5272011004",
+    "name": "Tanjung",
+    "poscode": "84118",
+    "provinsi": {
+        "code": "52",
+        "name": "Nusa Tenggara Barat (NTB)"
+    },
+    "kabupaten": {
+        "code": "5272",
+        "name": "Bima"
+    },
+    "kecamatan": {
+        "code": "527201",
+        "name": "Rasanae Barat"
+    }
+}

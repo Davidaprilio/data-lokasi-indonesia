@@ -1,0 +1,17 @@
+{
+    "code": "8271031015",
+    "name": "Tabam",
+    "poscode": "97728",
+    "provinsi": {
+        "code": "82",
+        "name": "Maluku Utara"
+    },
+    "kabupaten": {
+        "code": "8271",
+        "name": "Ternate"
+    },
+    "kecamatan": {
+        "code": "827103",
+        "name": "Kota Ternate Utara"
+    }
+}

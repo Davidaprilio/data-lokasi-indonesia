@@ -1,0 +1,17 @@
+{
+    "code": "1209292003",
+    "name": "Rawang Pasar IV",
+    "poscode": "21266",
+    "provinsi": {
+        "code": "12",
+        "name": "Sumatera Utara"
+    },
+    "kabupaten": {
+        "code": "1209",
+        "name": "Asahan"
+    },
+    "kecamatan": {
+        "code": "120929",
+        "name": "Rawang Panca Arga"
+    }
+}

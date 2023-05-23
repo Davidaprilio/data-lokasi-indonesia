@@ -1,0 +1,17 @@
+{
+    "code": "1806132009",
+    "name": "Simpang Kanan",
+    "poscode": "35374",
+    "provinsi": {
+        "code": "18",
+        "name": "Lampung"
+    },
+    "kabupaten": {
+        "code": "1806",
+        "name": "Tanggamus"
+    },
+    "kecamatan": {
+        "code": "180613",
+        "name": "Sumber Rejo (Sumberejo)"
+    }
+}

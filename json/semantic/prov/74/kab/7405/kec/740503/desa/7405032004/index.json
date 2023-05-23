@@ -1,0 +1,17 @@
+{
+    "code": "7405032004",
+    "name": "Alengge Agung",
+    "poscode": "93811",
+    "provinsi": {
+        "code": "74",
+        "name": "Sulawesi Tenggara"
+    },
+    "kabupaten": {
+        "code": "7405",
+        "name": "Konawe Selatan"
+    },
+    "kecamatan": {
+        "code": "740503",
+        "name": "Andoolo"
+    }
+}

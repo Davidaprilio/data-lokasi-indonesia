@@ -1,0 +1,17 @@
+{
+    "code": "3275101005",
+    "name": "Jatiraden",
+    "poscode": "17433",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3275",
+        "name": "Bekasi"
+    },
+    "kecamatan": {
+        "code": "327510",
+        "name": "Jatisampurna (Jati Sampurna)"
+    }
+}

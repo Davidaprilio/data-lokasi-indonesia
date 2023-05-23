@@ -1,0 +1,17 @@
+{
+    "code": "1572032001",
+    "name": "Kampung Diilir",
+    "poscode": "37151",
+    "provinsi": {
+        "code": "15",
+        "name": "Jambi"
+    },
+    "kabupaten": {
+        "code": "1572",
+        "name": "Sungai Penuh"
+    },
+    "kecamatan": {
+        "code": "157203",
+        "name": "Hamparan Rawang"
+    }
+}

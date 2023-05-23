@@ -1,0 +1,17 @@
+{
+    "code": "1807182004",
+    "name": "Pelindung Jaya",
+    "poscode": "34388",
+    "provinsi": {
+        "code": "18",
+        "name": "Lampung"
+    },
+    "kabupaten": {
+        "code": "1807",
+        "name": "Lampung Timur"
+    },
+    "kecamatan": {
+        "code": "180718",
+        "name": "Gunung Pelindung"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "6110082018",
+    "name": "Kompas Raya",
+    "poscode": "79678",
+    "provinsi": {
+        "code": "61",
+        "name": "Kalimantan Barat"
+    },
+    "kabupaten": {
+        "code": "6110",
+        "name": "Melawi"
+    },
+    "kecamatan": {
+        "code": "611008",
+        "name": "Pinoh Utara"
+    }
+}

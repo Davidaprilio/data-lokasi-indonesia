@@ -1,0 +1,17 @@
+{
+    "code": "6503112001",
+    "name": "Sei/Sungai Pancang",
+    "poscode": "77489",
+    "provinsi": {
+        "code": "65",
+        "name": "Kalimantan Utara"
+    },
+    "kabupaten": {
+        "code": "6503",
+        "name": "Nunukan"
+    },
+    "kecamatan": {
+        "code": "650311",
+        "name": "Sebatik Utara"
+    }
+}

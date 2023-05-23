@@ -1,0 +1,17 @@
+{
+    "code": "9504162006",
+    "name": "Wanggulam",
+    "poscode": "99011",
+    "provinsi": {
+        "code": "95",
+        "name": "Papua Pegunungan"
+    },
+    "kabupaten": {
+        "code": "9504",
+        "name": "Tolikara"
+    },
+    "kecamatan": {
+        "code": "950416",
+        "name": "Bewani"
+    }
+}

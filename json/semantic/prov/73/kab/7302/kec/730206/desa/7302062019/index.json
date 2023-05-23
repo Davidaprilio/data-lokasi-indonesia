@@ -1,0 +1,17 @@
+{
+    "code": "7302062019",
+    "name": "Pantama",
+    "poscode": "92574",
+    "provinsi": {
+        "code": "73",
+        "name": "Sulawesi Selatan"
+    },
+    "kabupaten": {
+        "code": "7302",
+        "name": "Bulukumba"
+    },
+    "kecamatan": {
+        "code": "730206",
+        "name": "Kajang"
+    }
+}

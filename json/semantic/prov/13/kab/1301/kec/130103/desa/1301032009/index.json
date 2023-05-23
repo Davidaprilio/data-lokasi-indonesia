@@ -1,0 +1,17 @@
+{
+    "code": "1301032009",
+    "name": "Lakitan Tengah",
+    "poscode": "25663",
+    "provinsi": {
+        "code": "13",
+        "name": "Sumatera Barat"
+    },
+    "kabupaten": {
+        "code": "1301",
+        "name": "Pesisir Selatan"
+    },
+    "kecamatan": {
+        "code": "130103",
+        "name": "Lengayang"
+    }
+}

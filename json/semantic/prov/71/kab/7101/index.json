@@ -1,0 +1,10 @@
+{
+    "code": "7101",
+    "type": "Kabupaten",
+    "name": "Bolaang Mongondow",
+    "fullname": "Kabupaten Bolaang Mongondow",
+    "jumlah": {
+        "kecamatan": 15,
+        "desa": 202
+    }
+}

@@ -1,0 +1,170 @@
+[
+    {
+        "code": "921001",
+        "name": "Aifat",
+        "count": {
+            "desa": 23
+        }
+    },
+    {
+        "code": "921004",
+        "name": "Aifat Selatan",
+        "count": {
+            "desa": 16
+        }
+    },
+    {
+        "code": "921003",
+        "name": "Aifat Timur",
+        "count": {
+            "desa": 9
+        }
+    },
+    {
+        "code": "921013",
+        "name": "Aifat Timur Jauh",
+        "count": {
+            "desa": 7
+        }
+    },
+    {
+        "code": "921014",
+        "name": "Aifat Timur Selatan",
+        "count": {
+            "desa": 6
+        }
+    },
+    {
+        "code": "921012",
+        "name": "Aifat Timur Tengah",
+        "count": {
+            "desa": 12
+        }
+    },
+    {
+        "code": "921002",
+        "name": "Aifat Utara",
+        "count": {
+            "desa": 20
+        }
+    },
+    {
+        "code": "921006",
+        "name": "Aitinyo",
+        "count": {
+            "desa": 17
+        }
+    },
+    {
+        "code": "921005",
+        "name": "Aitinyo Barat",
+        "count": {
+            "desa": 9
+        }
+    },
+    {
+        "code": "921023",
+        "name": "Aitinyo Raya",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "921022",
+        "name": "Aitinyo Tengah",
+        "count": {
+            "desa": 14
+        }
+    },
+    {
+        "code": "921007",
+        "name": "Aitinyo Utara",
+        "count": {
+            "desa": 12
+        }
+    },
+    {
+        "code": "921008",
+        "name": "Ayamaru",
+        "count": {
+            "desa": 8
+        }
+    },
+    {
+        "code": "921021",
+        "name": "Ayamaru Barat",
+        "count": {
+            "desa": 8
+        }
+    },
+    {
+        "code": "921016",
+        "name": "Ayamaru Jaya",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "921015",
+        "name": "Ayamaru Selatan",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "921017",
+        "name": "Ayamaru Selatan Jaya",
+        "count": {
+            "desa": 7
+        }
+    },
+    {
+        "code": "921020",
+        "name": "Ayamaru Tengah",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "921010",
+        "name": "Ayamaru Timur",
+        "count": {
+            "desa": 8
+        }
+    },
+    {
+        "code": "921018",
+        "name": "Ayamaru Timur Selatan",
+        "count": {
+            "desa": 7
+        }
+    },
+    {
+        "code": "921009",
+        "name": "Ayamaru Utara",
+        "count": {
+            "desa": 12
+        }
+    },
+    {
+        "code": "921019",
+        "name": "Ayamaru Utara Timur",
+        "count": {
+            "desa": 7
+        }
+    },
+    {
+        "code": "921011",
+        "name": "Mare",
+        "count": {
+            "desa": 9
+        }
+    },
+    {
+        "code": "921024",
+        "name": "Mare Selatan",
+        "count": {
+            "desa": 9
+        }
+    }
+]

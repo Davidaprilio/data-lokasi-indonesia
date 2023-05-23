@@ -1,0 +1,17 @@
+{
+    "code": "5305011008",
+    "name": "Welai Barat",
+    "poscode": "85816",
+    "provinsi": {
+        "code": "53",
+        "name": "Nusa Tenggara Timur (NTT)"
+    },
+    "kabupaten": {
+        "code": "5305",
+        "name": "Alor"
+    },
+    "kecamatan": {
+        "code": "530501",
+        "name": "Teluk Mutiara"
+    }
+}

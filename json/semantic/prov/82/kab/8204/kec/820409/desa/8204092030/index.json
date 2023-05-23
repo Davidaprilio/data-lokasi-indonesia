@@ -1,0 +1,17 @@
+{
+    "code": "8204092030",
+    "name": "Kokotu",
+    "poscode": "97791",
+    "provinsi": {
+        "code": "82",
+        "name": "Maluku Utara"
+    },
+    "kabupaten": {
+        "code": "8204",
+        "name": "Halmahera Selatan"
+    },
+    "kecamatan": {
+        "code": "820409",
+        "name": "Bacan Barat"
+    }
+}

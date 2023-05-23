@@ -1,0 +1,17 @@
+{
+    "code": "7102232008",
+    "name": "Koha",
+    "poscode": "95661",
+    "provinsi": {
+        "code": "71",
+        "name": "Sulawesi Utara"
+    },
+    "kabupaten": {
+        "code": "7102",
+        "name": "Minahasa"
+    },
+    "kecamatan": {
+        "code": "710223",
+        "name": "Mandolang"
+    }
+}

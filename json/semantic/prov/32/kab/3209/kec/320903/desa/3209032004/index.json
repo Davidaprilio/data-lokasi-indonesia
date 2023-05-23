@@ -1,0 +1,17 @@
+{
+    "code": "3209032004",
+    "name": "Panggangsari",
+    "poscode": "45192",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3209",
+        "name": "Cirebon"
+    },
+    "kecamatan": {
+        "code": "320903",
+        "name": "Losari"
+    }
+}

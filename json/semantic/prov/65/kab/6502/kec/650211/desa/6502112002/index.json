@@ -1,0 +1,17 @@
+{
+    "code": "6502112002",
+    "name": "Long Alango",
+    "poscode": "77562",
+    "provinsi": {
+        "code": "65",
+        "name": "Kalimantan Utara"
+    },
+    "kabupaten": {
+        "code": "6502",
+        "name": "Malinau"
+    },
+    "kecamatan": {
+        "code": "650211",
+        "name": "Bahau Hulu"
+    }
+}

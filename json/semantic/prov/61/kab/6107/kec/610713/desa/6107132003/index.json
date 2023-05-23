@@ -1,0 +1,17 @@
+{
+    "code": "6107132003",
+    "name": "Seren Selimbau",
+    "poscode": "79282",
+    "provinsi": {
+        "code": "61",
+        "name": "Kalimantan Barat"
+    },
+    "kabupaten": {
+        "code": "6107",
+        "name": "Bengkayang"
+    },
+    "kecamatan": {
+        "code": "610713",
+        "name": "Lumar"
+    }
+}

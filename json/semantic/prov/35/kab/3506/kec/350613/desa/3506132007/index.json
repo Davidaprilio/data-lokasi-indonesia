@@ -1,0 +1,17 @@
+{
+    "code": "3506132007",
+    "name": "Sumberejo",
+    "poscode": "64151",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3506",
+        "name": "Kediri"
+    },
+    "kecamatan": {
+        "code": "350613",
+        "name": "Grogol"
+    }
+}

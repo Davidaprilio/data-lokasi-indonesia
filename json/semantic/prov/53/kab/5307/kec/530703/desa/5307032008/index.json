@@ -1,0 +1,17 @@
+{
+    "code": "5307032008",
+    "name": "Baopaat",
+    "poscode": "86161",
+    "provinsi": {
+        "code": "53",
+        "name": "Nusa Tenggara Timur (NTT)"
+    },
+    "kabupaten": {
+        "code": "5307",
+        "name": "Sikka"
+    },
+    "kecamatan": {
+        "code": "530703",
+        "name": "Lela"
+    }
+}

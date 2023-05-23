@@ -1,0 +1,17 @@
+{
+    "code": "3513132017",
+    "name": "Sumberan",
+    "poscode": "67283",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3513",
+        "name": "Probolinggo"
+    },
+    "kecamatan": {
+        "code": "351313",
+        "name": "Besuk"
+    }
+}

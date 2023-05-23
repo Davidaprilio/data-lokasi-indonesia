@@ -1,0 +1,17 @@
+{
+    "code": "1213101010",
+    "name": "Laru Lombang",
+    "poscode": "22996",
+    "provinsi": {
+        "code": "12",
+        "name": "Sumatera Utara"
+    },
+    "kabupaten": {
+        "code": "1213",
+        "name": "Mandailing Natal"
+    },
+    "kecamatan": {
+        "code": "121310",
+        "name": "Tambangan"
+    }
+}

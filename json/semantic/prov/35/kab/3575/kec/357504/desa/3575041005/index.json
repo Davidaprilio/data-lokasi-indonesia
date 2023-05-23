@@ -1,0 +1,17 @@
+{
+    "code": "3575041005",
+    "name": "Kebonsari",
+    "poscode": "67114",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3575",
+        "name": "Pasuruan"
+    },
+    "kecamatan": {
+        "code": "357504",
+        "name": "Panggungrejo"
+    }
+}

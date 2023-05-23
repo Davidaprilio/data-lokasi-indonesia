@@ -1,0 +1,17 @@
+{
+    "code": "3278041006",
+    "name": "Panyingkiran",
+    "poscode": "46411",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3278",
+        "name": "Tasikmalaya"
+    },
+    "kecamatan": {
+        "code": "327804",
+        "name": "Indihiang"
+    }
+}

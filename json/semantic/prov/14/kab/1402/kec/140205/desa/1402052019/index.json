@@ -1,0 +1,17 @@
+{
+    "code": "1402052019",
+    "name": "Batu Rijal Barat",
+    "poscode": "29357",
+    "provinsi": {
+        "code": "14",
+        "name": "Riau"
+    },
+    "kabupaten": {
+        "code": "1402",
+        "name": "Indragiri Hulu"
+    },
+    "kecamatan": {
+        "code": "140205",
+        "name": "Peranap"
+    }
+}

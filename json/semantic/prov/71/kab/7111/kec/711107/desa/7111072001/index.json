@@ -1,0 +1,17 @@
+{
+    "code": "7111072001",
+    "name": "Botuliodu",
+    "poscode": "95778",
+    "provinsi": {
+        "code": "71",
+        "name": "Sulawesi Utara"
+    },
+    "kabupaten": {
+        "code": "7111",
+        "name": "Bolaang Mongondow Selatan"
+    },
+    "kecamatan": {
+        "code": "711107",
+        "name": "Tomini"
+    }
+}

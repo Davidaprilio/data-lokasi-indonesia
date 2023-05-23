@@ -1,0 +1,17 @@
+{
+    "code": "1109022007",
+    "name": "Mutiara",
+    "poscode": "23896",
+    "provinsi": {
+        "code": "11",
+        "name": "Aceh (NAD)"
+    },
+    "kabupaten": {
+        "code": "1109",
+        "name": "Simeulue"
+    },
+    "kecamatan": {
+        "code": "110902",
+        "name": "Salang"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "9404132009",
+    "name": "Lamopi",
+    "poscode": "99951",
+    "provinsi": {
+        "code": "94",
+        "name": "Papua Tengah"
+    },
+    "kabupaten": {
+        "code": "9404",
+        "name": "Mimika"
+    },
+    "kecamatan": {
+        "code": "940413",
+        "name": "Kwamki Narama"
+    }
+}

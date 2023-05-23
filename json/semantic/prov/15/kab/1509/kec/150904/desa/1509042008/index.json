@@ -1,0 +1,17 @@
+{
+    "code": "1509042008",
+    "name": "Pematang Sapat",
+    "poscode": "37551",
+    "provinsi": {
+        "code": "15",
+        "name": "Jambi"
+    },
+    "kabupaten": {
+        "code": "1509",
+        "name": "Tebo"
+    },
+    "kecamatan": {
+        "code": "150904",
+        "name": "Rimbo Bujang"
+    }
+}

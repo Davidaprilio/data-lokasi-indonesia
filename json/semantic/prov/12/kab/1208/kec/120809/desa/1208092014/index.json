@@ -1,0 +1,17 @@
+{
+    "code": "1208092014",
+    "name": "Manik Rambung",
+    "poscode": "21171",
+    "provinsi": {
+        "code": "12",
+        "name": "Sumatera Utara"
+    },
+    "kabupaten": {
+        "code": "1208",
+        "name": "Simalungun"
+    },
+    "kecamatan": {
+        "code": "120809",
+        "name": "Sidamanik"
+    }
+}

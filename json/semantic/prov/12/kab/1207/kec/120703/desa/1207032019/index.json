@@ -1,0 +1,17 @@
+{
+    "code": "1207032019",
+    "name": "Rumah Pil-Pil",
+    "poscode": "20357",
+    "provinsi": {
+        "code": "12",
+        "name": "Sumatera Utara"
+    },
+    "kabupaten": {
+        "code": "1207",
+        "name": "Deli Serdang"
+    },
+    "kecamatan": {
+        "code": "120703",
+        "name": "Sibolangit"
+    }
+}

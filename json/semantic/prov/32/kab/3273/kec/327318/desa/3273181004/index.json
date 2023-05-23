@@ -1,0 +1,17 @@
+{
+    "code": "3273181004",
+    "name": "Cigadung",
+    "poscode": "40191",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3273",
+        "name": "Bandung"
+    },
+    "kecamatan": {
+        "code": "327318",
+        "name": "Cibeunying Kaler"
+    }
+}

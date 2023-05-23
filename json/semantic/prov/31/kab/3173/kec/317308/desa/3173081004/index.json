@@ -1,0 +1,17 @@
+{
+    "code": "3173081004",
+    "name": "Srengseng",
+    "poscode": "11630",
+    "provinsi": {
+        "code": "31",
+        "name": "DKI Jakarta"
+    },
+    "kabupaten": {
+        "code": "3173",
+        "name": "Jakarta Barat"
+    },
+    "kecamatan": {
+        "code": "317308",
+        "name": "Kembangan"
+    }
+}

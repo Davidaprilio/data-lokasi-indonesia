@@ -1,0 +1,17 @@
+{
+    "code": "7306012020",
+    "name": "Bategulung",
+    "poscode": "92153",
+    "provinsi": {
+        "code": "73",
+        "name": "Sulawesi Selatan"
+    },
+    "kabupaten": {
+        "code": "7306",
+        "name": "Gowa"
+    },
+    "kecamatan": {
+        "code": "730601",
+        "name": "Bontonompo"
+    }
+}

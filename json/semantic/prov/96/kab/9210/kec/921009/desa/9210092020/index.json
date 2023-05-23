@@ -1,0 +1,17 @@
+{
+    "code": "9210092020",
+    "name": "Nauwita",
+    "poscode": "98248",
+    "provinsi": {
+        "code": "96",
+        "name": "Papua Barat Daya"
+    },
+    "kabupaten": {
+        "code": "9210",
+        "name": "Maybrat"
+    },
+    "kecamatan": {
+        "code": "921009",
+        "name": "Ayamaru Utara"
+    }
+}

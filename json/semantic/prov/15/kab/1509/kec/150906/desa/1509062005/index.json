@@ -1,0 +1,17 @@
+{
+    "code": "1509062005",
+    "name": "Aur Cino",
+    "poscode": "37561",
+    "provinsi": {
+        "code": "15",
+        "name": "Jambi"
+    },
+    "kabupaten": {
+        "code": "1509",
+        "name": "Tebo"
+    },
+    "kecamatan": {
+        "code": "150906",
+        "name": "VII Koto"
+    }
+}

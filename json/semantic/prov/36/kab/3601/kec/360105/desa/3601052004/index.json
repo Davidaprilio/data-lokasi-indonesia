@@ -1,0 +1,17 @@
+{
+    "code": "3601052004",
+    "name": "Karyabuana",
+    "poscode": "42282",
+    "provinsi": {
+        "code": "36",
+        "name": "Banten"
+    },
+    "kabupaten": {
+        "code": "3601",
+        "name": "Pandeglang"
+    },
+    "kecamatan": {
+        "code": "360105",
+        "name": "Cigeulis"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "5303222003",
+    "name": "Oekopa",
+    "poscode": "85684",
+    "provinsi": {
+        "code": "53",
+        "name": "Nusa Tenggara Timur (NTT)"
+    },
+    "kabupaten": {
+        "code": "5303",
+        "name": "Timor Tengah Utara"
+    },
+    "kecamatan": {
+        "code": "530322",
+        "name": "Biboki Tan Pah"
+    }
+}

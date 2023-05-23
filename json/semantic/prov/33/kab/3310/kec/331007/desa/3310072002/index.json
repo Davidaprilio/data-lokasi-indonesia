@@ -1,0 +1,17 @@
+{
+    "code": "3310072002",
+    "name": "Basin",
+    "poscode": "57486",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3310",
+        "name": "Klaten"
+    },
+    "kecamatan": {
+        "code": "331007",
+        "name": "Kebonarum"
+    }
+}

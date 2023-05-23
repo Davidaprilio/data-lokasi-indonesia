@@ -1,0 +1,72 @@
+[
+    {
+        "code": "520114",
+        "name": "Batu Layar",
+        "count": {
+            "desa": 9
+        }
+    },
+    {
+        "code": "520101",
+        "name": "Gerung",
+        "count": {
+            "desa": 14
+        }
+    },
+    {
+        "code": "520109",
+        "name": "Gunungsari",
+        "count": {
+            "desa": 16
+        }
+    },
+    {
+        "code": "520102",
+        "name": "Kediri",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "520115",
+        "name": "Kuripan",
+        "count": {
+            "desa": 6
+        }
+    },
+    {
+        "code": "520108",
+        "name": "Labuapi",
+        "count": {
+            "desa": 12
+        }
+    },
+    {
+        "code": "520113",
+        "name": "Lembar",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "520112",
+        "name": "Lingsar",
+        "count": {
+            "desa": 15
+        }
+    },
+    {
+        "code": "520103",
+        "name": "Narmada",
+        "count": {
+            "desa": 21
+        }
+    },
+    {
+        "code": "520107",
+        "name": "Sekotong",
+        "count": {
+            "desa": 9
+        }
+    }
+]

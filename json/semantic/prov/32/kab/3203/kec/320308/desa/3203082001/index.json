@@ -1,0 +1,17 @@
+{
+    "code": "3203082001",
+    "name": "Kademangan",
+    "poscode": "43292",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3203",
+        "name": "Cianjur"
+    },
+    "kecamatan": {
+        "code": "320308",
+        "name": "Mande"
+    }
+}

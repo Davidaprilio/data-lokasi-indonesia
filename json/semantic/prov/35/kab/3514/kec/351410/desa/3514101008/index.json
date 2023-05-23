@@ -1,0 +1,17 @@
+{
+    "code": "3514101008",
+    "name": "Pecalukan",
+    "poscode": "67157",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3514",
+        "name": "Pasuruan"
+    },
+    "kecamatan": {
+        "code": "351410",
+        "name": "Prigen"
+    }
+}

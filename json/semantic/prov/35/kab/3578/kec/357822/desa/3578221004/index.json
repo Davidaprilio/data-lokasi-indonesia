@@ -1,0 +1,17 @@
+{
+    "code": "3578221004",
+    "name": "Ketintang",
+    "poscode": "60231",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3578",
+        "name": "Surabaya"
+    },
+    "kecamatan": {
+        "code": "357822",
+        "name": "Gayungan"
+    }
+}

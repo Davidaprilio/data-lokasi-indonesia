@@ -1,0 +1,10 @@
+{
+    "code": "9506",
+    "type": "Kabupaten",
+    "name": "Yalimo",
+    "fullname": "Kabupaten Yalimo",
+    "jumlah": {
+        "kecamatan": 5,
+        "desa": 300
+    }
+}

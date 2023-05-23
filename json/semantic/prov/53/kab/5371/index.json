@@ -1,0 +1,10 @@
+{
+    "code": "5371",
+    "type": "Kota",
+    "name": "Kupang",
+    "fullname": "Kota Kupang",
+    "jumlah": {
+        "kecamatan": 6,
+        "desa": 51
+    }
+}

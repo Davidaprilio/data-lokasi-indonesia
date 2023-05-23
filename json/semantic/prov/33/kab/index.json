@@ -1,0 +1,352 @@
+[
+    {
+        "code": "3304",
+        "type": "Kabupaten",
+        "name": "Banjarnegara",
+        "fullname": "Kabupaten Banjarnegara",
+        "jumlah": {
+            "kecamatan": 20,
+            "desa": 278
+        }
+    },
+    {
+        "code": "3302",
+        "type": "Kabupaten",
+        "name": "Banyumas",
+        "fullname": "Kabupaten Banyumas",
+        "jumlah": {
+            "kecamatan": 27,
+            "desa": 331
+        }
+    },
+    {
+        "code": "3325",
+        "type": "Kabupaten",
+        "name": "Batang",
+        "fullname": "Kabupaten Batang",
+        "jumlah": {
+            "kecamatan": 15,
+            "desa": 248
+        }
+    },
+    {
+        "code": "3316",
+        "type": "Kabupaten",
+        "name": "Blora",
+        "fullname": "Kabupaten Blora",
+        "jumlah": {
+            "kecamatan": 16,
+            "desa": 295
+        }
+    },
+    {
+        "code": "3309",
+        "type": "Kabupaten",
+        "name": "Boyolali",
+        "fullname": "Kabupaten Boyolali",
+        "jumlah": {
+            "kecamatan": 22,
+            "desa": 267
+        }
+    },
+    {
+        "code": "3329",
+        "type": "Kabupaten",
+        "name": "Brebes",
+        "fullname": "Kabupaten Brebes",
+        "jumlah": {
+            "kecamatan": 17,
+            "desa": 297
+        }
+    },
+    {
+        "code": "3301",
+        "type": "Kabupaten",
+        "name": "Cilacap",
+        "fullname": "Kabupaten Cilacap",
+        "jumlah": {
+            "kecamatan": 24,
+            "desa": 284
+        }
+    },
+    {
+        "code": "3321",
+        "type": "Kabupaten",
+        "name": "Demak",
+        "fullname": "Kabupaten Demak",
+        "jumlah": {
+            "kecamatan": 14,
+            "desa": 249
+        }
+    },
+    {
+        "code": "3315",
+        "type": "Kabupaten",
+        "name": "Grobogan",
+        "fullname": "Kabupaten Grobogan",
+        "jumlah": {
+            "kecamatan": 19,
+            "desa": 280
+        }
+    },
+    {
+        "code": "3320",
+        "type": "Kabupaten",
+        "name": "Jepara",
+        "fullname": "Kabupaten Jepara",
+        "jumlah": {
+            "kecamatan": 16,
+            "desa": 195
+        }
+    },
+    {
+        "code": "3313",
+        "type": "Kabupaten",
+        "name": "Karanganyar",
+        "fullname": "Kabupaten Karanganyar",
+        "jumlah": {
+            "kecamatan": 17,
+            "desa": 177
+        }
+    },
+    {
+        "code": "3305",
+        "type": "Kabupaten",
+        "name": "Kebumen",
+        "fullname": "Kabupaten Kebumen",
+        "jumlah": {
+            "kecamatan": 26,
+            "desa": 460
+        }
+    },
+    {
+        "code": "3324",
+        "type": "Kabupaten",
+        "name": "Kendal",
+        "fullname": "Kabupaten Kendal",
+        "jumlah": {
+            "kecamatan": 20,
+            "desa": 286
+        }
+    },
+    {
+        "code": "3310",
+        "type": "Kabupaten",
+        "name": "Klaten",
+        "fullname": "Kabupaten Klaten",
+        "jumlah": {
+            "kecamatan": 26,
+            "desa": 401
+        }
+    },
+    {
+        "code": "3319",
+        "type": "Kabupaten",
+        "name": "Kudus",
+        "fullname": "Kabupaten Kudus",
+        "jumlah": {
+            "kecamatan": 9,
+            "desa": 132
+        }
+    },
+    {
+        "code": "3308",
+        "type": "Kabupaten",
+        "name": "Magelang",
+        "fullname": "Kabupaten Magelang",
+        "jumlah": {
+            "kecamatan": 21,
+            "desa": 372
+        }
+    },
+    {
+        "code": "3371",
+        "type": "Kota",
+        "name": "Magelang",
+        "fullname": "Kota Magelang",
+        "jumlah": {
+            "kecamatan": 3,
+            "desa": 17
+        }
+    },
+    {
+        "code": "3318",
+        "type": "Kabupaten",
+        "name": "Pati",
+        "fullname": "Kabupaten Pati",
+        "jumlah": {
+            "kecamatan": 21,
+            "desa": 406
+        }
+    },
+    {
+        "code": "3375",
+        "type": "Kota",
+        "name": "Pekalongan",
+        "fullname": "Kota Pekalongan",
+        "jumlah": {
+            "kecamatan": 4,
+            "desa": 27
+        }
+    },
+    {
+        "code": "3326",
+        "type": "Kabupaten",
+        "name": "Pekalongan",
+        "fullname": "Kabupaten Pekalongan",
+        "jumlah": {
+            "kecamatan": 19,
+            "desa": 285
+        }
+    },
+    {
+        "code": "3327",
+        "type": "Kabupaten",
+        "name": "Pemalang",
+        "fullname": "Kabupaten Pemalang",
+        "jumlah": {
+            "kecamatan": 14,
+            "desa": 222
+        }
+    },
+    {
+        "code": "3303",
+        "type": "Kabupaten",
+        "name": "Purbalingga",
+        "fullname": "Kabupaten Purbalingga",
+        "jumlah": {
+            "kecamatan": 18,
+            "desa": 239
+        }
+    },
+    {
+        "code": "3306",
+        "type": "Kabupaten",
+        "name": "Purworejo",
+        "fullname": "Kabupaten Purworejo",
+        "jumlah": {
+            "kecamatan": 16,
+            "desa": 494
+        }
+    },
+    {
+        "code": "3317",
+        "type": "Kabupaten",
+        "name": "Rembang",
+        "fullname": "Kabupaten Rembang",
+        "jumlah": {
+            "kecamatan": 14,
+            "desa": 294
+        }
+    },
+    {
+        "code": "3373",
+        "type": "Kota",
+        "name": "Salatiga",
+        "fullname": "Kota Salatiga",
+        "jumlah": {
+            "kecamatan": 4,
+            "desa": 23
+        }
+    },
+    {
+        "code": "3374",
+        "type": "Kota",
+        "name": "Semarang",
+        "fullname": "Kota Semarang",
+        "jumlah": {
+            "kecamatan": 16,
+            "desa": 177
+        }
+    },
+    {
+        "code": "3322",
+        "type": "Kabupaten",
+        "name": "Semarang",
+        "fullname": "Kabupaten Semarang",
+        "jumlah": {
+            "kecamatan": 19,
+            "desa": 235
+        }
+    },
+    {
+        "code": "3314",
+        "type": "Kabupaten",
+        "name": "Sragen",
+        "fullname": "Kabupaten Sragen",
+        "jumlah": {
+            "kecamatan": 20,
+            "desa": 208
+        }
+    },
+    {
+        "code": "3311",
+        "type": "Kabupaten",
+        "name": "Sukoharjo",
+        "fullname": "Kabupaten Sukoharjo",
+        "jumlah": {
+            "kecamatan": 12,
+            "desa": 167
+        }
+    },
+    {
+        "code": "3372",
+        "type": "Kota",
+        "name": "Surakarta",
+        "fullname": "Kota Surakarta",
+        "jumlah": {
+            "kecamatan": 5,
+            "desa": 54
+        }
+    },
+    {
+        "code": "3328",
+        "type": "Kabupaten",
+        "name": "Tegal",
+        "fullname": "Kabupaten Tegal",
+        "jumlah": {
+            "kecamatan": 18,
+            "desa": 287
+        }
+    },
+    {
+        "code": "3376",
+        "type": "Kota",
+        "name": "Tegal",
+        "fullname": "Kota Tegal",
+        "jumlah": {
+            "kecamatan": 4,
+            "desa": 27
+        }
+    },
+    {
+        "code": "3323",
+        "type": "Kabupaten",
+        "name": "Temanggung",
+        "fullname": "Kabupaten Temanggung",
+        "jumlah": {
+            "kecamatan": 20,
+            "desa": 289
+        }
+    },
+    {
+        "code": "3312",
+        "type": "Kabupaten",
+        "name": "Wonogiri",
+        "fullname": "Kabupaten Wonogiri",
+        "jumlah": {
+            "kecamatan": 25,
+            "desa": 294
+        }
+    },
+    {
+        "code": "3307",
+        "type": "Kabupaten",
+        "name": "Wonosobo",
+        "fullname": "Kabupaten Wonosobo",
+        "jumlah": {
+            "kecamatan": 15,
+            "desa": 265
+        }
+    }
+]

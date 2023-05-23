@@ -1,0 +1,17 @@
+{
+    "code": "9504472010",
+    "name": "Minegimen",
+    "poscode": "99064",
+    "provinsi": {
+        "code": "95",
+        "name": "Papua Pegunungan"
+    },
+    "kabupaten": {
+        "code": "9504",
+        "name": "Tolikara"
+    },
+    "kecamatan": {
+        "code": "950447",
+        "name": "Yuko"
+    }
+}

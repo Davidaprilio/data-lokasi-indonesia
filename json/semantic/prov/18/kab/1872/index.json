@@ -1,0 +1,10 @@
+{
+    "code": "1872",
+    "type": "Kota",
+    "name": "Metro",
+    "fullname": "Kota Metro",
+    "jumlah": {
+        "kecamatan": 5,
+        "desa": 22
+    }
+}

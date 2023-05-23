@@ -1,0 +1,17 @@
+{
+    "code": "3403132002",
+    "name": "Sambirejo",
+    "poscode": "55853",
+    "provinsi": {
+        "code": "34",
+        "name": "DI Yogyakarta"
+    },
+    "kabupaten": {
+        "code": "3403",
+        "name": "Gunungkidul"
+    },
+    "kecamatan": {
+        "code": "340313",
+        "name": "Ngawen"
+    }
+}

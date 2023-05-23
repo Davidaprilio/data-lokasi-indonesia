@@ -1,0 +1,17 @@
+{
+    "code": "3312102003",
+    "name": "Bero",
+    "poscode": "57662",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3312",
+        "name": "Wonogiri"
+    },
+    "kecamatan": {
+        "code": "331210",
+        "name": "Manyaran"
+    }
+}

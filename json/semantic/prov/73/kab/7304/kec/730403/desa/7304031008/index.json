@@ -1,0 +1,17 @@
+{
+    "code": "7304031008",
+    "name": "Empoang Utara",
+    "poscode": "92316",
+    "provinsi": {
+        "code": "73",
+        "name": "Sulawesi Selatan"
+    },
+    "kabupaten": {
+        "code": "7304",
+        "name": "Jeneponto"
+    },
+    "kecamatan": {
+        "code": "730403",
+        "name": "Binamu"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "7603172011",
+    "name": "Ulumea",
+    "poscode": "91375",
+    "provinsi": {
+        "code": "76",
+        "name": "Sulawesi Barat"
+    },
+    "kabupaten": {
+        "code": "7603",
+        "name": "Mamasa"
+    },
+    "kecamatan": {
+        "code": "760317",
+        "name": "Mehalaan"
+    }
+}

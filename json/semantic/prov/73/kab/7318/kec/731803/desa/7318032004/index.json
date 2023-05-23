@@ -1,0 +1,17 @@
+{
+    "code": "7318032004",
+    "name": "Mappa'",
+    "poscode": "91872",
+    "provinsi": {
+        "code": "73",
+        "name": "Sulawesi Selatan"
+    },
+    "kabupaten": {
+        "code": "7318",
+        "name": "Tana Toraja"
+    },
+    "kecamatan": {
+        "code": "731803",
+        "name": "Bonggakaradeng"
+    }
+}

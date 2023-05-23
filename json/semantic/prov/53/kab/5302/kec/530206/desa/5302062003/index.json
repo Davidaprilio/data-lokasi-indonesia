@@ -1,0 +1,17 @@
+{
+    "code": "5302062003",
+    "name": "Oebelo",
+    "poscode": "85562",
+    "provinsi": {
+        "code": "53",
+        "name": "Nusa Tenggara Timur (NTT)"
+    },
+    "kabupaten": {
+        "code": "5302",
+        "name": "Timor Tengah Selatan"
+    },
+    "kecamatan": {
+        "code": "530206",
+        "name": "Amanuban Selatan"
+    }
+}

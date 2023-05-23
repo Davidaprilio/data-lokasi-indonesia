@@ -1,0 +1,17 @@
+{
+    "code": "7310061001",
+    "name": "Boriappaka",
+    "poscode": "90651",
+    "provinsi": {
+        "code": "73",
+        "name": "Sulawesi Selatan"
+    },
+    "kabupaten": {
+        "code": "7310",
+        "name": "Pangkajene Kepulauan"
+    },
+    "kecamatan": {
+        "code": "731006",
+        "name": "Bungoro"
+    }
+}

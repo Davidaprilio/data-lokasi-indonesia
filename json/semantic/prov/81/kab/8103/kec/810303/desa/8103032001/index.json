@@ -1,0 +1,17 @@
+{
+    "code": "8103032001",
+    "name": "Tumbur",
+    "poscode": "97473",
+    "provinsi": {
+        "code": "81",
+        "name": "Maluku"
+    },
+    "kabupaten": {
+        "code": "8103",
+        "name": "Kepulauan Tanimbar (Maluku Tenggara Barat)"
+    },
+    "kecamatan": {
+        "code": "810303",
+        "name": "Wer Tamrian"
+    }
+}

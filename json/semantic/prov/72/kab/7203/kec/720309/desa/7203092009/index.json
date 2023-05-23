@@ -1,0 +1,17 @@
+{
+    "code": "7203092009",
+    "name": "Labuan Panimba",
+    "poscode": "94352",
+    "provinsi": {
+        "code": "72",
+        "name": "Sulawesi Tengah"
+    },
+    "kabupaten": {
+        "code": "7203",
+        "name": "Donggala"
+    },
+    "kecamatan": {
+        "code": "720309",
+        "name": "Labuan"
+    }
+}

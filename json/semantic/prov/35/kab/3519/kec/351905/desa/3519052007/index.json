@@ -1,0 +1,17 @@
+{
+    "code": "3519052007",
+    "name": "Cermo",
+    "poscode": "63182",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3519",
+        "name": "Madiun"
+    },
+    "kecamatan": {
+        "code": "351905",
+        "name": "Kare"
+    }
+}

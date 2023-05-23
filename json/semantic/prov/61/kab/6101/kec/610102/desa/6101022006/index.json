@@ -1,0 +1,17 @@
+{
+    "code": "6101022006",
+    "name": "Puringan",
+    "poscode": "79469",
+    "provinsi": {
+        "code": "61",
+        "name": "Kalimantan Barat"
+    },
+    "kabupaten": {
+        "code": "6101",
+        "name": "Sambas"
+    },
+    "kecamatan": {
+        "code": "610102",
+        "name": "Teluk Keramat"
+    }
+}

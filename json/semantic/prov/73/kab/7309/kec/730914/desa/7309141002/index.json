@@ -1,0 +1,17 @@
+{
+    "code": "7309141002",
+    "name": "Bori Bellaya",
+    "poscode": "90512",
+    "provinsi": {
+        "code": "73",
+        "name": "Sulawesi Selatan"
+    },
+    "kabupaten": {
+        "code": "7309",
+        "name": "Maros"
+    },
+    "kecamatan": {
+        "code": "730914",
+        "name": "Turikale"
+    }
+}

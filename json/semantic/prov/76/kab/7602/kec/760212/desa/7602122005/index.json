@@ -1,0 +1,17 @@
+{
+    "code": "7602122005",
+    "name": "Sumare",
+    "poscode": "91513",
+    "provinsi": {
+        "code": "76",
+        "name": "Sulawesi Barat"
+    },
+    "kabupaten": {
+        "code": "7602",
+        "name": "Mamuju"
+    },
+    "kecamatan": {
+        "code": "760212",
+        "name": "Simboro dan Kepulauan"
+    }
+}

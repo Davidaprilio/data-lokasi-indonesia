@@ -1,0 +1,17 @@
+{
+    "code": "9209112005",
+    "name": "Srurem",
+    "poscode": "98396",
+    "provinsi": {
+        "code": "96",
+        "name": "Papua Barat Daya"
+    },
+    "kabupaten": {
+        "code": "9209",
+        "name": "Tambrauw"
+    },
+    "kecamatan": {
+        "code": "920911",
+        "name": "Senopi"
+    }
+}

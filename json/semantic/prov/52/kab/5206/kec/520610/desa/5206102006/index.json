@@ -1,0 +1,17 @@
+{
+    "code": "5206102006",
+    "name": "Kole",
+    "poscode": "84153",
+    "provinsi": {
+        "code": "52",
+        "name": "Nusa Tenggara Barat (NTB)"
+    },
+    "kabupaten": {
+        "code": "5206",
+        "name": "Bima"
+    },
+    "kecamatan": {
+        "code": "520610",
+        "name": "Ambalawi"
+    }
+}

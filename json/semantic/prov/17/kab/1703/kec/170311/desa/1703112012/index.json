@@ -1,0 +1,17 @@
+{
+    "code": "1703112012",
+    "name": "Sekiau",
+    "poscode": "38656",
+    "provinsi": {
+        "code": "17",
+        "name": "Bengkulu"
+    },
+    "kabupaten": {
+        "code": "1703",
+        "name": "Bengkulu Utara"
+    },
+    "kecamatan": {
+        "code": "170311",
+        "name": "Batik Nau"
+    }
+}

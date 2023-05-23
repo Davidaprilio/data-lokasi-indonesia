@@ -1,0 +1,17 @@
+{
+    "code": "6407082009",
+    "name": "Lumpat Dahuq",
+    "poscode": "75777",
+    "provinsi": {
+        "code": "64",
+        "name": "Kalimantan Timur"
+    },
+    "kabupaten": {
+        "code": "6407",
+        "name": "Kutai Barat"
+    },
+    "kecamatan": {
+        "code": "640708",
+        "name": "Damai"
+    }
+}

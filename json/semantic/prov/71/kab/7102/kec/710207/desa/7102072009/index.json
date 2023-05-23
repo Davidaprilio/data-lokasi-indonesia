@@ -1,0 +1,17 @@
+{
+    "code": "7102072009",
+    "name": "Tempok",
+    "poscode": "95693",
+    "provinsi": {
+        "code": "71",
+        "name": "Sulawesi Utara"
+    },
+    "kabupaten": {
+        "code": "7102",
+        "name": "Minahasa"
+    },
+    "kecamatan": {
+        "code": "710207",
+        "name": "Tompaso"
+    }
+}

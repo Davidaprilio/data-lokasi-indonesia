@@ -1,0 +1,62 @@
+[
+    {
+        "code": "1601131011",
+        "name": "Air Gading",
+        "poscode": "32121"
+    },
+    {
+        "code": "1601131007",
+        "name": "Batu Kuning",
+        "poscode": "32121"
+    },
+    {
+        "code": "1601132001",
+        "name": "Batu Putih",
+        "poscode": "32121"
+    },
+    {
+        "code": "1601132008",
+        "name": "Karang Agung",
+        "poscode": "32121"
+    },
+    {
+        "code": "1601132009",
+        "name": "Karang Endah",
+        "poscode": "32121"
+    },
+    {
+        "code": "1601132002",
+        "name": "Laya",
+        "poscode": "32125"
+    },
+    {
+        "code": "1601132006",
+        "name": "Pusar",
+        "poscode": "32126"
+    },
+    {
+        "code": "1601131004",
+        "name": "Saung Naga",
+        "poscode": "32124"
+    },
+    {
+        "code": "1601132012",
+        "name": "Sukamaju",
+        "poscode": "32124"
+    },
+    {
+        "code": "1601131005",
+        "name": "Talang Jawa",
+        "poscode": "32122"
+    },
+    {
+        "code": "1601132010",
+        "name": "Tanjung Karang",
+        "poscode": "32121"
+    },
+    {
+        "code": "1601131003",
+        "name": "Tanjungagung (Tanjung Agung)",
+        "poscode": "32123"
+    }
+]

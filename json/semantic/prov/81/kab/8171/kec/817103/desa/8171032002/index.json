@@ -1,0 +1,17 @@
+{
+    "code": "8171032002",
+    "name": "Halong",
+    "poscode": "97231",
+    "provinsi": {
+        "code": "81",
+        "name": "Maluku"
+    },
+    "kabupaten": {
+        "code": "8171",
+        "name": "Ambon"
+    },
+    "kecamatan": {
+        "code": "817103",
+        "name": "Baguala"
+    }
+}

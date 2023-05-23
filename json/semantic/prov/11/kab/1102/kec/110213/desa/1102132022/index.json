@@ -1,0 +1,17 @@
+{
+    "code": "1102132022",
+    "name": "Kati Jeroh",
+    "poscode": "24660",
+    "provinsi": {
+        "code": "11",
+        "name": "Aceh (NAD)"
+    },
+    "kabupaten": {
+        "code": "1102",
+        "name": "Aceh Tenggara"
+    },
+    "kecamatan": {
+        "code": "110213",
+        "name": "Deleng Pokhkisen (Deleng Pokhisen)"
+    }
+}

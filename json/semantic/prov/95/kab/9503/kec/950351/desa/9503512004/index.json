@@ -1,0 +1,17 @@
+{
+    "code": "9503512004",
+    "name": "Saikama",
+    "poscode": "99720",
+    "provinsi": {
+        "code": "95",
+        "name": "Papua Pegunungan"
+    },
+    "kabupaten": {
+        "code": "9503",
+        "name": "Yahukimo"
+    },
+    "kecamatan": {
+        "code": "950351",
+        "name": "Yogosem"
+    }
+}

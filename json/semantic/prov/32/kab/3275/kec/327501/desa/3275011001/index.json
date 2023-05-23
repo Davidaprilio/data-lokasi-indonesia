@@ -1,0 +1,17 @@
+{
+    "code": "3275011001",
+    "name": "Bekasijaya (Bekasi Jaya)",
+    "poscode": "17112",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3275",
+        "name": "Bekasi"
+    },
+    "kecamatan": {
+        "code": "327501",
+        "name": "Bekasi Timur"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "code": "17",
+    "name": "Bengkulu",
+    "jumlah": {
+        "kota": 1,
+        "kabupaten": 9,
+        "kecamatan": 129,
+        "desa": 1
+    }
+}

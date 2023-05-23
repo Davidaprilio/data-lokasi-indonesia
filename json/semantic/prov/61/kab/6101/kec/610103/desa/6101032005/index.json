@@ -1,0 +1,17 @@
+{
+    "code": "6101032005",
+    "name": "Sarang Burung Kuala",
+    "poscode": "79454",
+    "provinsi": {
+        "code": "61",
+        "name": "Kalimantan Barat"
+    },
+    "kabupaten": {
+        "code": "6101",
+        "name": "Sambas"
+    },
+    "kecamatan": {
+        "code": "610103",
+        "name": "Jawai"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "3524152005",
+    "name": "Payaman",
+    "poscode": "62265",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3524",
+        "name": "Lamongan"
+    },
+    "kecamatan": {
+        "code": "352415",
+        "name": "Solokuro"
+    }
+}

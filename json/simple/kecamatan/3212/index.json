@@ -1,0 +1,219 @@
+[
+    {
+        "code": "321223",
+        "name": "Anjatan",
+        "count": {
+            "desa": 13
+        }
+    },
+    {
+        "code": "321219",
+        "name": "Arahan",
+        "count": {
+            "desa": 8
+        }
+    },
+    {
+        "code": "321214",
+        "name": "Balongan",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "321206",
+        "name": "Bangodua",
+        "count": {
+            "desa": 8
+        }
+    },
+    {
+        "code": "321222",
+        "name": "Bongas",
+        "count": {
+            "desa": 8
+        }
+    },
+    {
+        "code": "321217",
+        "name": "Cantigi",
+        "count": {
+            "desa": 7
+        }
+    },
+    {
+        "code": "321204",
+        "name": "Cikedung",
+        "count": {
+            "desa": 7
+        }
+    },
+    {
+        "code": "321203",
+        "name": "Gabuswetan",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "321225",
+        "name": "Gantar",
+        "count": {
+            "desa": 7
+        }
+    },
+    {
+        "code": "321201",
+        "name": "Haurgeulis",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "321215",
+        "name": "Indramayu",
+        "count": {
+            "desa": 18
+        }
+    },
+    {
+        "code": "321213",
+        "name": "Jatibarang",
+        "count": {
+            "desa": 15
+        }
+    },
+    {
+        "code": "321211",
+        "name": "Juntinyuat",
+        "count": {
+            "desa": 12
+        }
+    },
+    {
+        "code": "321221",
+        "name": "Kandanghaur",
+        "count": {
+            "desa": 13
+        }
+    },
+    {
+        "code": "321210",
+        "name": "Karangampel",
+        "count": {
+            "desa": 11
+        }
+    },
+    {
+        "code": "321228",
+        "name": "Kedokan Bunder",
+        "count": {
+            "desa": 7
+        }
+    },
+    {
+        "code": "321208",
+        "name": "Kertasemaya",
+        "count": {
+            "desa": 13
+        }
+    },
+    {
+        "code": "321209",
+        "name": "Krangkeng",
+        "count": {
+            "desa": 11
+        }
+    },
+    {
+        "code": "321202",
+        "name": "Kroya",
+        "count": {
+            "desa": 9
+        }
+    },
+    {
+        "code": "321205",
+        "name": "Lelea",
+        "count": {
+            "desa": 11
+        }
+    },
+    {
+        "code": "321218",
+        "name": "Lohbener",
+        "count": {
+            "desa": 12
+        }
+    },
+    {
+        "code": "321220",
+        "name": "Losarang",
+        "count": {
+            "desa": 12
+        }
+    },
+    {
+        "code": "321229",
+        "name": "Pasekan",
+        "count": {
+            "desa": 6
+        }
+    },
+    {
+        "code": "321231",
+        "name": "Patrol",
+        "count": {
+            "desa": 8
+        }
+    },
+    {
+        "code": "321216",
+        "name": "Sindang",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "321212",
+        "name": "Sliyeg",
+        "count": {
+            "desa": 14
+        }
+    },
+    {
+        "code": "321227",
+        "name": "Sukagumiwang",
+        "count": {
+            "desa": 7
+        }
+    },
+    {
+        "code": "321224",
+        "name": "Sukra",
+        "count": {
+            "desa": 8
+        }
+    },
+    {
+        "code": "321226",
+        "name": "Trisi/Terisi",
+        "count": {
+            "desa": 9
+        }
+    },
+    {
+        "code": "321230",
+        "name": "Tukdana",
+        "count": {
+            "desa": 13
+        }
+    },
+    {
+        "code": "321207",
+        "name": "Widasari",
+        "count": {
+            "desa": 10
+        }
+    }
+]

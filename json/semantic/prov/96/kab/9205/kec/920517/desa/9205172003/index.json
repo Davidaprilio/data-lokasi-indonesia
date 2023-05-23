@@ -1,0 +1,17 @@
+{
+    "code": "9205172003",
+    "name": "Satukurano",
+    "poscode": "98481",
+    "provinsi": {
+        "code": "96",
+        "name": "Papua Barat Daya"
+    },
+    "kabupaten": {
+        "code": "9205",
+        "name": "Raja Ampat"
+    },
+    "kecamatan": {
+        "code": "920517",
+        "name": "Kepulauan Sembilan"
+    }
+}

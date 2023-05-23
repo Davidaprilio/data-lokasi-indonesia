@@ -1,0 +1,17 @@
+{
+    "code": "3201192009",
+    "name": "Barengkok",
+    "poscode": "16670",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3201",
+        "name": "Bogor"
+    },
+    "kecamatan": {
+        "code": "320119",
+        "name": "Jasinga"
+    }
+}

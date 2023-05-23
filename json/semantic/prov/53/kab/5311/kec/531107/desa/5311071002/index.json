@@ -1,0 +1,17 @@
+{
+    "code": "5311071002",
+    "name": "Watumbaka",
+    "poscode": "87176",
+    "provinsi": {
+        "code": "53",
+        "name": "Nusa Tenggara Timur (NTT)"
+    },
+    "kabupaten": {
+        "code": "5311",
+        "name": "Sumba Timur"
+    },
+    "kecamatan": {
+        "code": "531107",
+        "name": "Pandawai"
+    }
+}

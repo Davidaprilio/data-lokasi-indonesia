@@ -1,0 +1,17 @@
+{
+    "code": "7108062003",
+    "name": "Batu Tajam (Batutajam)",
+    "poscode": "95766",
+    "provinsi": {
+        "code": "71",
+        "name": "Sulawesi Utara"
+    },
+    "kabupaten": {
+        "code": "7108",
+        "name": "Bolaang Mongondow Utara"
+    },
+    "kecamatan": {
+        "code": "710806",
+        "name": "Pinogaluman"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "3214011003",
+    "name": "Nagri Tengah (Nagritengah)",
+    "poscode": "41114",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3214",
+        "name": "Purwakarta"
+    },
+    "kecamatan": {
+        "code": "321401",
+        "name": "Purwakarta"
+    }
+}

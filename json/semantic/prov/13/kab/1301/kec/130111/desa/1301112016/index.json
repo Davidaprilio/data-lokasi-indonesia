@@ -1,0 +1,17 @@
+{
+    "code": "1301112016",
+    "name": "Bukit Buai Tapan (Bukitbuai Tapan)",
+    "poscode": "25672",
+    "provinsi": {
+        "code": "13",
+        "name": "Sumatera Barat"
+    },
+    "kabupaten": {
+        "code": "1301",
+        "name": "Pesisir Selatan"
+    },
+    "kecamatan": {
+        "code": "130111",
+        "name": "Basa Ampek Balai Tapan"
+    }
+}

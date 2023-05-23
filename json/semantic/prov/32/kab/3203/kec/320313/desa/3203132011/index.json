@@ -1,0 +1,17 @@
+{
+    "code": "3203132011",
+    "name": "Rawabelut",
+    "poscode": "43254",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3203",
+        "name": "Cianjur"
+    },
+    "kecamatan": {
+        "code": "320313",
+        "name": "Sukaresmi"
+    }
+}

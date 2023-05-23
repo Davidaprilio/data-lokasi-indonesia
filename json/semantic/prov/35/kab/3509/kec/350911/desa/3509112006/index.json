@@ -1,0 +1,17 @@
+{
+    "code": "3509112006",
+    "name": "Tanjungrejo (Tanjung Rejo)",
+    "poscode": "68162",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3509",
+        "name": "Jember"
+    },
+    "kecamatan": {
+        "code": "350911",
+        "name": "Wuluhan"
+    }
+}

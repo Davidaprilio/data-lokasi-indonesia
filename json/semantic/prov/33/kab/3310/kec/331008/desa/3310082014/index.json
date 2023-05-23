@@ -1,0 +1,17 @@
+{
+    "code": "3310082014",
+    "name": "Prawatan",
+    "poscode": "57452",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3310",
+        "name": "Klaten"
+    },
+    "kecamatan": {
+        "code": "331008",
+        "name": "Jogonalan"
+    }
+}

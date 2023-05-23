@@ -1,0 +1,17 @@
+{
+    "code": "1871121008",
+    "name": "Nusantara Permai",
+    "poscode": "35122",
+    "provinsi": {
+        "code": "18",
+        "name": "Lampung"
+    },
+    "kabupaten": {
+        "code": "1871",
+        "name": "Bandar Lampung"
+    },
+    "kecamatan": {
+        "code": "187112",
+        "name": "Sukabumi"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "1219012014",
+    "name": "Nenas Siam",
+    "poscode": "21258",
+    "provinsi": {
+        "code": "12",
+        "name": "Sumatera Utara"
+    },
+    "kabupaten": {
+        "code": "1219",
+        "name": "Batu Bara"
+    },
+    "kecamatan": {
+        "code": "121901",
+        "name": "Medang Deras"
+    }
+}

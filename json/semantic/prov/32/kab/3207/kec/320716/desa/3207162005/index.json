@@ -1,0 +1,17 @@
+{
+    "code": "3207162005",
+    "name": "Sukasari",
+    "poscode": "46388",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3207",
+        "name": "Ciamis"
+    },
+    "kecamatan": {
+        "code": "320716",
+        "name": "Tambaksari"
+    }
+}

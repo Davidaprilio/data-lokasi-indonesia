@@ -1,0 +1,17 @@
+{
+    "code": "1205232001",
+    "name": "Pematang Tengah",
+    "poscode": "20858",
+    "provinsi": {
+        "code": "12",
+        "name": "Sumatera Utara"
+    },
+    "kabupaten": {
+        "code": "1205",
+        "name": "Langkat"
+    },
+    "kecamatan": {
+        "code": "120523",
+        "name": "Pematang Jaya"
+    }
+}

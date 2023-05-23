@@ -1,0 +1,17 @@
+{
+    "code": "1207212001",
+    "name": "Lantasan Baru",
+    "poscode": "20361",
+    "provinsi": {
+        "code": "12",
+        "name": "Sumatera Utara"
+    },
+    "kabupaten": {
+        "code": "1207",
+        "name": "Deli Serdang"
+    },
+    "kecamatan": {
+        "code": "120721",
+        "name": "Patumbak"
+    }
+}

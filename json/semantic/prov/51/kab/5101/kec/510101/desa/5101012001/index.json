@@ -1,0 +1,17 @@
+{
+    "code": "5101012001",
+    "name": "Cupel",
+    "poscode": "82218",
+    "provinsi": {
+        "code": "51",
+        "name": "Bali"
+    },
+    "kabupaten": {
+        "code": "5101",
+        "name": "Jembrana"
+    },
+    "kecamatan": {
+        "code": "510101",
+        "name": "Negara"
+    }
+}

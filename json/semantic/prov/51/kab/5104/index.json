@@ -1,0 +1,10 @@
+{
+    "code": "5104",
+    "type": "Kabupaten",
+    "name": "Gianyar",
+    "fullname": "Kabupaten Gianyar",
+    "jumlah": {
+        "kecamatan": 7,
+        "desa": 70
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "3276021008",
+    "name": "Curug",
+    "poscode": "16453",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3276",
+        "name": "Depok"
+    },
+    "kecamatan": {
+        "code": "327602",
+        "name": "Cimanggis"
+    }
+}

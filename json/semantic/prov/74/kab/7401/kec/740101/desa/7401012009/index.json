@@ -1,0 +1,17 @@
+{
+    "code": "7401012009",
+    "name": "Tikonu",
+    "poscode": "93560",
+    "provinsi": {
+        "code": "74",
+        "name": "Sulawesi Tenggara"
+    },
+    "kabupaten": {
+        "code": "7401",
+        "name": "Kolaka"
+    },
+    "kecamatan": {
+        "code": "740101",
+        "name": "Wundulako"
+    }
+}

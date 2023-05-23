@@ -1,0 +1,17 @@
+{
+    "code": "3323192002",
+    "name": "Peteken (Pateken)",
+    "poscode": "56266",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3323",
+        "name": "Temanggung"
+    },
+    "kecamatan": {
+        "code": "332319",
+        "name": "Wonoboyo"
+    }
+}

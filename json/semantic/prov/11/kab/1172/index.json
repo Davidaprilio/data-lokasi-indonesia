@@ -1,0 +1,10 @@
+{
+    "code": "1172",
+    "type": "Kota",
+    "name": "Sabang",
+    "fullname": "Kota Sabang",
+    "jumlah": {
+        "kecamatan": 2,
+        "desa": 18
+    }
+}

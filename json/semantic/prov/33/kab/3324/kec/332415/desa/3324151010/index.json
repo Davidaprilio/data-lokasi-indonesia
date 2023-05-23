@@ -1,0 +1,17 @@
+{
+    "code": "3324151010",
+    "name": "Jetis",
+    "poscode": "51315",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3324",
+        "name": "Kendal"
+    },
+    "kecamatan": {
+        "code": "332415",
+        "name": "Kendal"
+    }
+}

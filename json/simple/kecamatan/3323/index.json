@@ -1,0 +1,142 @@
+[
+    {
+        "code": "332316",
+        "name": "Bansari",
+        "count": {
+            "desa": 13
+        }
+    },
+    {
+        "code": "332318",
+        "name": "Bejen",
+        "count": {
+            "desa": 14
+        }
+    },
+    {
+        "code": "332301",
+        "name": "Bulu",
+        "count": {
+            "desa": 19
+        }
+    },
+    {
+        "code": "332312",
+        "name": "Candiroto",
+        "count": {
+            "desa": 14
+        }
+    },
+    {
+        "code": "332320",
+        "name": "Gemawang",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "332310",
+        "name": "Jumo",
+        "count": {
+            "desa": 13
+        }
+    },
+    {
+        "code": "332305",
+        "name": "Kaloran",
+        "count": {
+            "desa": 14
+        }
+    },
+    {
+        "code": "332306",
+        "name": "Kandangan",
+        "count": {
+            "desa": 16
+        }
+    },
+    {
+        "code": "332307",
+        "name": "Kedu",
+        "count": {
+            "desa": 14
+        }
+    },
+    {
+        "code": "332317",
+        "name": "Kledung",
+        "count": {
+            "desa": 13
+        }
+    },
+    {
+        "code": "332313",
+        "name": "Kranggan",
+        "count": {
+            "desa": 13
+        }
+    },
+    {
+        "code": "332309",
+        "name": "Ngadirejo",
+        "count": {
+            "desa": 20
+        }
+    },
+    {
+        "code": "332308",
+        "name": "Parakan",
+        "count": {
+            "desa": 16
+        }
+    },
+    {
+        "code": "332304",
+        "name": "Pringsurat",
+        "count": {
+            "desa": 14
+        }
+    },
+    {
+        "code": "332315",
+        "name": "Selopampang",
+        "count": {
+            "desa": 12
+        }
+    },
+    {
+        "code": "332303",
+        "name": "Temanggung",
+        "count": {
+            "desa": 25
+        }
+    },
+    {
+        "code": "332302",
+        "name": "Tembarak",
+        "count": {
+            "desa": 13
+        }
+    },
+    {
+        "code": "332314",
+        "name": "Tlogomulyo",
+        "count": {
+            "desa": 12
+        }
+    },
+    {
+        "code": "332311",
+        "name": "Tretep",
+        "count": {
+            "desa": 11
+        }
+    },
+    {
+        "code": "332319",
+        "name": "Wonoboyo",
+        "count": {
+            "desa": 13
+        }
+    }
+]

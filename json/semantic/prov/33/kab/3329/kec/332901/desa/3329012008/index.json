@@ -1,0 +1,17 @@
+{
+    "code": "3329012008",
+    "name": "Gandoang",
+    "poscode": "52275",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3329",
+        "name": "Brebes"
+    },
+    "kecamatan": {
+        "code": "332901",
+        "name": "Salem"
+    }
+}

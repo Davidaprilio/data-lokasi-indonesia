@@ -1,0 +1,17 @@
+{
+    "code": "7403372004",
+    "name": "Renda",
+    "poscode": "93623",
+    "provinsi": {
+        "code": "74",
+        "name": "Sulawesi Tenggara"
+    },
+    "kabupaten": {
+        "code": "7403",
+        "name": "Muna"
+    },
+    "kecamatan": {
+        "code": "740337",
+        "name": "Towea"
+    }
+}

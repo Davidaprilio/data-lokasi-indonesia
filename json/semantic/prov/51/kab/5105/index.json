@@ -1,0 +1,10 @@
+{
+    "code": "5105",
+    "type": "Kabupaten",
+    "name": "Klungkung",
+    "fullname": "Kabupaten Klungkung",
+    "jumlah": {
+        "kecamatan": 4,
+        "desa": 59
+    }
+}

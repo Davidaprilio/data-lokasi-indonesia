@@ -1,0 +1,17 @@
+{
+    "code": "3602032011",
+    "name": "Darmasari",
+    "poscode": "42393",
+    "provinsi": {
+        "code": "36",
+        "name": "Banten"
+    },
+    "kabupaten": {
+        "code": "3602",
+        "name": "Lebak"
+    },
+    "kecamatan": {
+        "code": "360203",
+        "name": "Bayah"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "5311062001",
+    "name": "Ramuk",
+    "poscode": "87161",
+    "provinsi": {
+        "code": "53",
+        "name": "Nusa Tenggara Timur (NTT)"
+    },
+    "kabupaten": {
+        "code": "5311",
+        "name": "Sumba Timur"
+    },
+    "kecamatan": {
+        "code": "531106",
+        "name": "Pinu Pahar (Pinupahar / Pirapahar)"
+    }
+}

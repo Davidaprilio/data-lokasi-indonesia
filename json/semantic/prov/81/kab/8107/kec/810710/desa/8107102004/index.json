@@ -1,0 +1,17 @@
+{
+    "code": "8107102004",
+    "name": "Hokmar",
+    "poscode": "97668",
+    "provinsi": {
+        "code": "81",
+        "name": "Maluku"
+    },
+    "kabupaten": {
+        "code": "8107",
+        "name": "Kepulauan Aru"
+    },
+    "kecamatan": {
+        "code": "810710",
+        "name": "Aru Selatan Utara"
+    }
+}

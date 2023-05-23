@@ -1,0 +1,17 @@
+{
+    "code": "3317072005",
+    "name": "Gambiran",
+    "poscode": "59261",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3317",
+        "name": "Rembang"
+    },
+    "kecamatan": {
+        "code": "331707",
+        "name": "Pamotan"
+    }
+}

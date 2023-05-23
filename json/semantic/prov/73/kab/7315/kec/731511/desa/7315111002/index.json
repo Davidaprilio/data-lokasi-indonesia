@@ -1,0 +1,17 @@
+{
+    "code": "7315111002",
+    "name": "Macinnae",
+    "poscode": "91214",
+    "provinsi": {
+        "code": "73",
+        "name": "Sulawesi Selatan"
+    },
+    "kabupaten": {
+        "code": "7315",
+        "name": "Pinrang"
+    },
+    "kecamatan": {
+        "code": "731511",
+        "name": "Paleteang"
+    }
+}

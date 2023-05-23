@@ -1,0 +1,17 @@
+{
+    "code": "3208212008",
+    "name": "Suganangan",
+    "poscode": "45592",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3208",
+        "name": "Kuningan"
+    },
+    "kecamatan": {
+        "code": "320821",
+        "name": "Cipicung"
+    }
+}

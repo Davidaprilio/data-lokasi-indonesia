@@ -1,0 +1,17 @@
+{
+    "code": "1572042003",
+    "name": "Koto Pudung",
+    "poscode": "37121",
+    "provinsi": {
+        "code": "15",
+        "name": "Jambi"
+    },
+    "kabupaten": {
+        "code": "1572",
+        "name": "Sungai Penuh"
+    },
+    "kecamatan": {
+        "code": "157204",
+        "name": "Tanah Kampung"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "6102182008",
+    "name": "Parit Banjar",
+    "poscode": "78919",
+    "provinsi": {
+        "code": "61",
+        "name": "Kalimantan Barat"
+    },
+    "kabupaten": {
+        "code": "6102",
+        "name": "Mempawah"
+    },
+    "kecamatan": {
+        "code": "610218",
+        "name": "Mempawah Timur"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "3209122011",
+    "name": "Pamengkang",
+    "poscode": "45173",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3209",
+        "name": "Cirebon"
+    },
+    "kecamatan": {
+        "code": "320912",
+        "name": "Mundu"
+    }
+}

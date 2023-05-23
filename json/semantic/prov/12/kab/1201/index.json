@@ -1,0 +1,10 @@
+{
+    "code": "1201",
+    "type": "Kabupaten",
+    "name": "Tapanuli Tengah",
+    "fullname": "Kabupaten Tapanuli Tengah",
+    "jumlah": {
+        "kecamatan": 20,
+        "desa": 215
+    }
+}

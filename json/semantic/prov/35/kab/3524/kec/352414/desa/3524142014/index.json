@@ -1,0 +1,17 @@
+{
+    "code": "3524142014",
+    "name": "Paloh",
+    "poscode": "62264",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3524",
+        "name": "Lamongan"
+    },
+    "kecamatan": {
+        "code": "352414",
+        "name": "Paciran"
+    }
+}

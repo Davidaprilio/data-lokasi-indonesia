@@ -1,0 +1,17 @@
+{
+    "code": "3305192007",
+    "name": "Wero",
+    "poscode": "54416",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3305",
+        "name": "Kebumen"
+    },
+    "kecamatan": {
+        "code": "330519",
+        "name": "Gombong"
+    }
+}

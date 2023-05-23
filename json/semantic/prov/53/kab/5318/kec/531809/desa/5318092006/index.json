@@ -1,0 +1,17 @@
+{
+    "code": "5318092006",
+    "name": "Wee Pangali",
+    "poscode": "87255",
+    "provinsi": {
+        "code": "53",
+        "name": "Nusa Tenggara Timur (NTT)"
+    },
+    "kabupaten": {
+        "code": "5318",
+        "name": "Sumba Barat Daya"
+    },
+    "kecamatan": {
+        "code": "531809",
+        "name": "Kota Tambolaka"
+    }
+}

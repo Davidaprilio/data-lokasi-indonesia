@@ -1,0 +1,17 @@
+{
+    "code": "9120012001",
+    "name": "Burmeso",
+    "poscode": "98692",
+    "provinsi": {
+        "code": "91",
+        "name": "Papua"
+    },
+    "kabupaten": {
+        "code": "9120",
+        "name": "Mamberamo Raya"
+    },
+    "kecamatan": {
+        "code": "912001",
+        "name": "Mamberamo Tengah"
+    }
+}

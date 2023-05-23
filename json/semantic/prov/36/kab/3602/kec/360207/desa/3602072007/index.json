@@ -1,0 +1,17 @@
+{
+    "code": "3602072007",
+    "name": "Harjawana",
+    "poscode": "42363",
+    "provinsi": {
+        "code": "36",
+        "name": "Banten"
+    },
+    "kabupaten": {
+        "code": "3602",
+        "name": "Lebak"
+    },
+    "kecamatan": {
+        "code": "360207",
+        "name": "Bojongmanik"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "1171022007",
+    "name": "Kuta Alam",
+    "poscode": "23121",
+    "provinsi": {
+        "code": "11",
+        "name": "Aceh (NAD)"
+    },
+    "kabupaten": {
+        "code": "1171",
+        "name": "Banda Aceh"
+    },
+    "kecamatan": {
+        "code": "117102",
+        "name": "Kuta Alam"
+    }
+}

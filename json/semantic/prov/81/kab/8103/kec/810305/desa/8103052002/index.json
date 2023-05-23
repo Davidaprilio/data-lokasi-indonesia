@@ -1,0 +1,17 @@
+{
+    "code": "8103052002",
+    "name": "Ritabel",
+    "poscode": "97464",
+    "provinsi": {
+        "code": "81",
+        "name": "Maluku"
+    },
+    "kabupaten": {
+        "code": "8103",
+        "name": "Kepulauan Tanimbar (Maluku Tenggara Barat)"
+    },
+    "kecamatan": {
+        "code": "810305",
+        "name": "Tanimbar Utara"
+    }
+}

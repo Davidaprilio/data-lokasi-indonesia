@@ -1,0 +1,58 @@
+[
+    {
+        "code": "820103",
+        "name": "Ibu",
+        "count": {
+            "desa": 17
+        }
+    },
+    {
+        "code": "820108",
+        "name": "Ibu Selatan",
+        "count": {
+            "desa": 16
+        }
+    },
+    {
+        "code": "820107",
+        "name": "Ibu Utara",
+        "count": {
+            "desa": 16
+        }
+    },
+    {
+        "code": "820101",
+        "name": "Jailolo",
+        "count": {
+            "desa": 34
+        }
+    },
+    {
+        "code": "820105",
+        "name": "Jailolo Selatan",
+        "count": {
+            "desa": 22
+        }
+    },
+    {
+        "code": "820102",
+        "name": "Loloda",
+        "count": {
+            "desa": 27
+        }
+    },
+    {
+        "code": "820104",
+        "name": "Sahu",
+        "count": {
+            "desa": 19
+        }
+    },
+    {
+        "code": "820109",
+        "name": "Sahu Timur",
+        "count": {
+            "desa": 18
+        }
+    }
+]

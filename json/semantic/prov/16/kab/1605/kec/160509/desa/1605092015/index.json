@@ -1,0 +1,17 @@
+{
+    "code": "1605092015",
+    "name": "Tanah Periuk (Tanah Periuk I)",
+    "poscode": "31661",
+    "provinsi": {
+        "code": "16",
+        "name": "Sumatera Selatan"
+    },
+    "kabupaten": {
+        "code": "1605",
+        "name": "Musi Rawas"
+    },
+    "kecamatan": {
+        "code": "160509",
+        "name": "Muara Beliti"
+    }
+}

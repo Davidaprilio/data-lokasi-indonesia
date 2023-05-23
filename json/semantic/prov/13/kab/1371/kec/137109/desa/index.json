@@ -1,0 +1,47 @@
+[
+    {
+        "code": "1371091004",
+        "name": "Ampang",
+        "poscode": "25154"
+    },
+    {
+        "code": "1371091002",
+        "name": "Anduring",
+        "poscode": "25151"
+    },
+    {
+        "code": "1371091008",
+        "name": "Gunung Sarik",
+        "poscode": "25158"
+    },
+    {
+        "code": "1371091005",
+        "name": "Kalumbuk",
+        "poscode": "25155"
+    },
+    {
+        "code": "1371091006",
+        "name": "Korong Gadang",
+        "poscode": "25156"
+    },
+    {
+        "code": "1371091007",
+        "name": "Kuranji",
+        "poscode": "25157"
+    },
+    {
+        "code": "1371091003",
+        "name": "Lubuk Lintah",
+        "poscode": "25153"
+    },
+    {
+        "code": "1371091001",
+        "name": "Pasar Ambacang",
+        "poscode": "25152"
+    },
+    {
+        "code": "1371091009",
+        "name": "Sei/Sungai Sapih",
+        "poscode": "25159"
+    }
+]

@@ -1,0 +1,27 @@
+[
+    {
+        "code": "2101072005",
+        "name": "Lancang Kuning",
+        "poscode": "29152"
+    },
+    {
+        "code": "2101071001",
+        "name": "Tanjung Uban Kota",
+        "poscode": "29152"
+    },
+    {
+        "code": "2101071003",
+        "name": "Tanjung Uban Selatan",
+        "poscode": "29152"
+    },
+    {
+        "code": "2101071011",
+        "name": "Tanjung Uban Timur",
+        "poscode": "29152"
+    },
+    {
+        "code": "2101071002",
+        "name": "Tanjung Uban Utara",
+        "poscode": "29152"
+    }
+]

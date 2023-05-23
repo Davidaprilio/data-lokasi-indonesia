@@ -1,0 +1,17 @@
+{
+    "code": "6402012003",
+    "name": "Muara Aloh",
+    "poscode": "75562",
+    "provinsi": {
+        "code": "64",
+        "name": "Kalimantan Timur"
+    },
+    "kabupaten": {
+        "code": "6402",
+        "name": "Kutai Kartanegara"
+    },
+    "kecamatan": {
+        "code": "640201",
+        "name": "Muara Muntai"
+    }
+}

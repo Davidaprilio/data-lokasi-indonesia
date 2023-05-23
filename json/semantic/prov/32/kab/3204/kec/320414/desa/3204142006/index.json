@@ -1,0 +1,17 @@
+{
+    "code": "3204142006",
+    "name": "Langonsari",
+    "poscode": "40376",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3204",
+        "name": "Bandung"
+    },
+    "kecamatan": {
+        "code": "320414",
+        "name": "Pameungpeuk"
+    }
+}

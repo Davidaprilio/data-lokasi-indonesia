@@ -1,0 +1,17 @@
+{
+    "code": "3374081002",
+    "name": "Jatingaleh",
+    "poscode": "50254",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3374",
+        "name": "Semarang"
+    },
+    "kecamatan": {
+        "code": "337408",
+        "name": "Candisari"
+    }
+}

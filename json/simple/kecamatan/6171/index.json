@@ -1,0 +1,44 @@
+[
+    {
+        "code": "617103",
+        "name": "Pontianak Barat",
+        "count": {
+            "desa": 4
+        }
+    },
+    {
+        "code": "617105",
+        "name": "Pontianak Kota",
+        "count": {
+            "desa": 5
+        }
+    },
+    {
+        "code": "617101",
+        "name": "Pontianak Selatan",
+        "count": {
+            "desa": 5
+        }
+    },
+    {
+        "code": "617106",
+        "name": "Pontianak Tenggara",
+        "count": {
+            "desa": 4
+        }
+    },
+    {
+        "code": "617102",
+        "name": "Pontianak Timur",
+        "count": {
+            "desa": 7
+        }
+    },
+    {
+        "code": "617104",
+        "name": "Pontianak Utara",
+        "count": {
+            "desa": 4
+        }
+    }
+]

@@ -1,0 +1,17 @@
+{
+    "code": "1221082025",
+    "name": "Ampolu",
+    "poscode": "22765",
+    "provinsi": {
+        "code": "12",
+        "name": "Sumatera Utara"
+    },
+    "kabupaten": {
+        "code": "1221",
+        "name": "Padang Lawas"
+    },
+    "kecamatan": {
+        "code": "122108",
+        "name": "Sosa"
+    }
+}

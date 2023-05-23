@@ -1,0 +1,17 @@
+{
+    "code": "1802282009",
+    "name": "Mekar Jaya",
+    "poscode": "34157",
+    "provinsi": {
+        "code": "18",
+        "name": "Lampung"
+    },
+    "kabupaten": {
+        "code": "1802",
+        "name": "Lampung Tengah"
+    },
+    "kecamatan": {
+        "code": "180228",
+        "name": "Putra Rumbia"
+    }
+}

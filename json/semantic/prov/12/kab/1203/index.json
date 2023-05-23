@@ -1,0 +1,10 @@
+{
+    "code": "1203",
+    "type": "Kabupaten",
+    "name": "Tapanuli Selatan",
+    "fullname": "Kabupaten Tapanuli Selatan",
+    "jumlah": {
+        "kecamatan": 15,
+        "desa": 248
+    }
+}

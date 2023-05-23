@@ -1,0 +1,17 @@
+{
+    "code": "3303152012",
+    "name": "Mipiran",
+    "poscode": "53372",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3303",
+        "name": "Purbalingga"
+    },
+    "kecamatan": {
+        "code": "330315",
+        "name": "Padamara"
+    }
+}

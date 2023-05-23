@@ -1,0 +1,17 @@
+{
+    "code": "3571031010",
+    "name": "Ngletih",
+    "poscode": "64137",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3571",
+        "name": "Kediri"
+    },
+    "kecamatan": {
+        "code": "357103",
+        "name": "Pesantren"
+    }
+}

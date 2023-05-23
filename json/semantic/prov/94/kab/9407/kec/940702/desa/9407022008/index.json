@@ -1,0 +1,17 @@
+{
+    "code": "9407022008",
+    "name": "Kobae",
+    "poscode": "98791",
+    "provinsi": {
+        "code": "94",
+        "name": "Papua Tengah"
+    },
+    "kabupaten": {
+        "code": "9407",
+        "name": "Intan Jaya"
+    },
+    "kecamatan": {
+        "code": "940702",
+        "name": "Homeyo"
+    }
+}

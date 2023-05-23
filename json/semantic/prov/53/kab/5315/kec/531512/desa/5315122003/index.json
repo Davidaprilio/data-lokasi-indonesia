@@ -1,0 +1,17 @@
+{
+    "code": "5315122003",
+    "name": "Sompang Kolang",
+    "poscode": "86751",
+    "provinsi": {
+        "code": "53",
+        "name": "Nusa Tenggara Timur (NTT)"
+    },
+    "kabupaten": {
+        "code": "5315",
+        "name": "Manggarai Barat"
+    },
+    "kecamatan": {
+        "code": "531512",
+        "name": "Kuwus Barat"
+    }
+}

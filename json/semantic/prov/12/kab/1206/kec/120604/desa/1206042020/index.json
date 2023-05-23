@@ -1,0 +1,17 @@
+{
+    "code": "1206042020",
+    "name": "Mulawari",
+    "poscode": "22170",
+    "provinsi": {
+        "code": "12",
+        "name": "Sumatera Utara"
+    },
+    "kabupaten": {
+        "code": "1206",
+        "name": "Karo"
+    },
+    "kecamatan": {
+        "code": "120604",
+        "name": "Tigapanah (Tiga Panah)"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "3315142003",
+    "name": "Temon",
+    "poscode": "58153",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3315",
+        "name": "Grobogan"
+    },
+    "kecamatan": {
+        "code": "331514",
+        "name": "Brati"
+    }
+}

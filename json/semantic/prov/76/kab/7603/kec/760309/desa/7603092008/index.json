@@ -1,0 +1,17 @@
+{
+    "code": "7603092008",
+    "name": "Mannababa",
+    "poscode": "91367",
+    "provinsi": {
+        "code": "76",
+        "name": "Sulawesi Barat"
+    },
+    "kabupaten": {
+        "code": "7603",
+        "name": "Mamasa"
+    },
+    "kecamatan": {
+        "code": "760309",
+        "name": "Tanduk Kalua"
+    }
+}

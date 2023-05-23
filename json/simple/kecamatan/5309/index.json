@@ -1,0 +1,86 @@
+[
+    {
+        "code": "530901",
+        "name": "Aimere",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "530906",
+        "name": "Bajawa",
+        "count": {
+            "desa": 22
+        }
+    },
+    {
+        "code": "530915",
+        "name": "Bajawa Utara",
+        "count": {
+            "desa": 11
+        }
+    },
+    {
+        "code": "530902",
+        "name": "Golewa",
+        "count": {
+            "desa": 16
+        }
+    },
+    {
+        "code": "530919",
+        "name": "Golewa Barat",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "530918",
+        "name": "Golewa Selatan",
+        "count": {
+            "desa": 12
+        }
+    },
+    {
+        "code": "530920",
+        "name": "Inerie",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "530912",
+        "name": "Jerebuu",
+        "count": {
+            "desa": 12
+        }
+    },
+    {
+        "code": "530909",
+        "name": "Riung",
+        "count": {
+            "desa": 16
+        }
+    },
+    {
+        "code": "530914",
+        "name": "Riung Barat",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "530907",
+        "name": "Soa",
+        "count": {
+            "desa": 14
+        }
+    },
+    {
+        "code": "530916",
+        "name": "Wolomeze (Riung Selatan)",
+        "count": {
+            "desa": 8
+        }
+    }
+]

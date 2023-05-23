@@ -1,0 +1,17 @@
+{
+    "code": "1202012022",
+    "name": "Parbaju Toruan (Parbajutoruan)",
+    "poscode": "22416",
+    "provinsi": {
+        "code": "12",
+        "name": "Sumatera Utara"
+    },
+    "kabupaten": {
+        "code": "1202",
+        "name": "Tapanuli Utara"
+    },
+    "kecamatan": {
+        "code": "120201",
+        "name": "Tarutung"
+    }
+}

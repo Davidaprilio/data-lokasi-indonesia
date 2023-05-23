@@ -1,0 +1,10 @@
+{
+    "code": "61",
+    "name": "Kalimantan Barat",
+    "jumlah": {
+        "kota": 2,
+        "kabupaten": 12,
+        "kecamatan": 174,
+        "desa": 2
+    }
+}

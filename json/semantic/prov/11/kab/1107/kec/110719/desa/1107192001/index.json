@@ -1,0 +1,17 @@
+{
+    "code": "1107192001",
+    "name": "Keudee Tangse",
+    "poscode": "24166",
+    "provinsi": {
+        "code": "11",
+        "name": "Aceh (NAD)"
+    },
+    "kabupaten": {
+        "code": "1107",
+        "name": "Pidie"
+    },
+    "kecamatan": {
+        "code": "110719",
+        "name": "Tangse"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "1405052004",
+    "name": "Segati",
+    "poscode": "28380",
+    "provinsi": {
+        "code": "14",
+        "name": "Riau"
+    },
+    "kabupaten": {
+        "code": "1405",
+        "name": "Pelalawan"
+    },
+    "kecamatan": {
+        "code": "140505",
+        "name": "Langgam"
+    }
+}

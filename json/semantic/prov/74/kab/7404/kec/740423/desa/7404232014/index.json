@@ -1,0 +1,17 @@
+{
+    "code": "7404232014",
+    "name": "Talaga Baru",
+    "poscode": "93756",
+    "provinsi": {
+        "code": "74",
+        "name": "Sulawesi Tenggara"
+    },
+    "kabupaten": {
+        "code": "7404",
+        "name": "Buton"
+    },
+    "kecamatan": {
+        "code": "740423",
+        "name": "Lasalimu"
+    }
+}

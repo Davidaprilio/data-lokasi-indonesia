@@ -1,0 +1,17 @@
+{
+    "code": "9205072012",
+    "name": "Waisilip",
+    "poscode": "98464",
+    "provinsi": {
+        "code": "96",
+        "name": "Papua Barat Daya"
+    },
+    "kabupaten": {
+        "code": "9205",
+        "name": "Raja Ampat"
+    },
+    "kecamatan": {
+        "code": "920507",
+        "name": "Waigeo Barat"
+    }
+}

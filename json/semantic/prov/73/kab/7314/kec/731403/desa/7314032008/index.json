@@ -1,0 +1,17 @@
+{
+    "code": "7314032008",
+    "name": "Buae",
+    "poscode": "91661",
+    "provinsi": {
+        "code": "73",
+        "name": "Sulawesi Selatan"
+    },
+    "kabupaten": {
+        "code": "7314",
+        "name": "Sidenreng Rappang"
+    },
+    "kecamatan": {
+        "code": "731403",
+        "name": "Watang Pulu"
+    }
+}

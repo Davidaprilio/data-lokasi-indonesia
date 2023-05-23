@@ -1,0 +1,17 @@
+{
+    "code": "5305042010",
+    "name": "Malaipea",
+    "poscode": "85871",
+    "provinsi": {
+        "code": "53",
+        "name": "Nusa Tenggara Timur (NTT)"
+    },
+    "kabupaten": {
+        "code": "5305",
+        "name": "Alor"
+    },
+    "kecamatan": {
+        "code": "530504",
+        "name": "Alor Selatan"
+    }
+}

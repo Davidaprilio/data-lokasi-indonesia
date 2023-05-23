@@ -1,0 +1,17 @@
+{
+    "code": "1106042046",
+    "name": "Lampisang Tunong",
+    "poscode": "23951",
+    "provinsi": {
+        "code": "11",
+        "name": "Aceh (NAD)"
+    },
+    "kabupaten": {
+        "code": "1106",
+        "name": "Aceh Besar"
+    },
+    "kecamatan": {
+        "code": "110604",
+        "name": "Seulimeum"
+    }
+}

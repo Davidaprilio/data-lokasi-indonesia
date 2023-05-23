@@ -1,0 +1,17 @@
+{
+    "code": "1871191006",
+    "name": "Way Tataan",
+    "poscode": "35236",
+    "provinsi": {
+        "code": "18",
+        "name": "Lampung"
+    },
+    "kabupaten": {
+        "code": "1871",
+        "name": "Bandar Lampung"
+    },
+    "kecamatan": {
+        "code": "187119",
+        "name": "Telukbetung Timur"
+    }
+}

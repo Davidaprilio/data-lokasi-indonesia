@@ -1,0 +1,17 @@
+{
+    "code": "3601032009",
+    "name": "Sukajadi",
+    "poscode": "42285",
+    "provinsi": {
+        "code": "36",
+        "name": "Banten"
+    },
+    "kabupaten": {
+        "code": "3601",
+        "name": "Pandeglang"
+    },
+    "kecamatan": {
+        "code": "360103",
+        "name": "Cibaliung"
+    }
+}

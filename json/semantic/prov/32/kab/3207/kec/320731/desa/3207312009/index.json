@@ -1,0 +1,17 @@
+{
+    "code": "3207312009",
+    "name": "Wanasigra",
+    "poscode": "46268",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3207",
+        "name": "Ciamis"
+    },
+    "kecamatan": {
+        "code": "320731",
+        "name": "Sindangkasih"
+    }
+}

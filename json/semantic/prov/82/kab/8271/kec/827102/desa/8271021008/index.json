@@ -1,0 +1,17 @@
+{
+    "code": "8271021008",
+    "name": "Mangga Dua",
+    "poscode": "97734",
+    "provinsi": {
+        "code": "82",
+        "name": "Maluku Utara"
+    },
+    "kabupaten": {
+        "code": "8271",
+        "name": "Ternate"
+    },
+    "kecamatan": {
+        "code": "827102",
+        "name": "Kota Ternate Selatan"
+    }
+}

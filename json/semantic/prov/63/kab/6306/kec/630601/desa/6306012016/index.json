@@ -1,0 +1,17 @@
+{
+    "code": "6306012016",
+    "name": "Sarang Halang",
+    "poscode": "71271",
+    "provinsi": {
+        "code": "63",
+        "name": "Kalimantan Selatan"
+    },
+    "kabupaten": {
+        "code": "6306",
+        "name": "Hulu Sungai Selatan"
+    },
+    "kecamatan": {
+        "code": "630601",
+        "name": "Sungai Raya"
+    }
+}

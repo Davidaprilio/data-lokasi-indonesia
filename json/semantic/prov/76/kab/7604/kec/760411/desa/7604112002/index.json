@@ -1,0 +1,17 @@
+{
+    "code": "7604112002",
+    "name": "Lembang Lembang",
+    "poscode": "91321",
+    "provinsi": {
+        "code": "76",
+        "name": "Sulawesi Barat"
+    },
+    "kabupaten": {
+        "code": "7604",
+        "name": "Polewali Mandar"
+    },
+    "kecamatan": {
+        "code": "760411",
+        "name": "Limboro"
+    }
+}

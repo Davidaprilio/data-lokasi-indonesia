@@ -1,0 +1,17 @@
+{
+    "code": "6104122007",
+    "name": "Pesaguan Kiri",
+    "poscode": "78822",
+    "provinsi": {
+        "code": "61",
+        "name": "Kalimantan Barat"
+    },
+    "kabupaten": {
+        "code": "6104",
+        "name": "Ketapang"
+    },
+    "kecamatan": {
+        "code": "610412",
+        "name": "Matan Hilir Selatan"
+    }
+}

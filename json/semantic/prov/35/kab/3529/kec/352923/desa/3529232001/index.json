@@ -1,0 +1,17 @@
+{
+    "code": "3529232001",
+    "name": "Sukajeruk",
+    "poscode": "69492",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3529",
+        "name": "Sumenep"
+    },
+    "kecamatan": {
+        "code": "352923",
+        "name": "Masalembu"
+    }
+}

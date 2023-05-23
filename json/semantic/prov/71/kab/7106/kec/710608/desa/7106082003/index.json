@@ -1,0 +1,17 @@
+{
+    "code": "7106082003",
+    "name": "Kawangkoan",
+    "poscode": "95378",
+    "provinsi": {
+        "code": "71",
+        "name": "Sulawesi Utara"
+    },
+    "kabupaten": {
+        "code": "7106",
+        "name": "Minahasa Utara"
+    },
+    "kecamatan": {
+        "code": "710608",
+        "name": "Kalawat"
+    }
+}

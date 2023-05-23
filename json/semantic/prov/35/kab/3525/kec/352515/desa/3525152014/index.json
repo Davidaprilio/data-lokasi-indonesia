@@ -1,0 +1,17 @@
+{
+    "code": "3525152014",
+    "name": "Gadung",
+    "poscode": "61177",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3525",
+        "name": "Gresik"
+    },
+    "kecamatan": {
+        "code": "352515",
+        "name": "Driyorejo"
+    }
+}

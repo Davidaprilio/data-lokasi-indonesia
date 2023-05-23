@@ -1,0 +1,17 @@
+{
+    "code": "3275081002",
+    "name": "Jatibening",
+    "poscode": "17412",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3275",
+        "name": "Bekasi"
+    },
+    "kecamatan": {
+        "code": "327508",
+        "name": "Pondokgede (Pondok Gede)"
+    }
+}

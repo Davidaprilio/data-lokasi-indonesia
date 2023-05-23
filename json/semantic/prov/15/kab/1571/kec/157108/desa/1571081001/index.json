@@ -1,0 +1,17 @@
+{
+    "code": "1571081001",
+    "name": "Talang Jauh",
+    "poscode": "36133",
+    "provinsi": {
+        "code": "15",
+        "name": "Jambi"
+    },
+    "kabupaten": {
+        "code": "1571",
+        "name": "Jambi"
+    },
+    "kecamatan": {
+        "code": "157108",
+        "name": "Jelutung"
+    }
+}

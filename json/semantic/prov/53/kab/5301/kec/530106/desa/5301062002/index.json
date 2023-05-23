@@ -1,0 +1,17 @@
+{
+    "code": "5301062002",
+    "name": "Nunkurus",
+    "poscode": "85362",
+    "provinsi": {
+        "code": "53",
+        "name": "Nusa Tenggara Timur (NTT)"
+    },
+    "kabupaten": {
+        "code": "5301",
+        "name": "Kupang"
+    },
+    "kecamatan": {
+        "code": "530106",
+        "name": "Kupang Timur"
+    }
+}

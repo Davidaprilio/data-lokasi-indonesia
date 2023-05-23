@@ -1,0 +1,37 @@
+[
+    {
+        "code": "1371041002",
+        "name": "Air Tawar Barat",
+        "poscode": "25132"
+    },
+    {
+        "code": "1371041001",
+        "name": "Air Tawar Timur",
+        "poscode": "25132"
+    },
+    {
+        "code": "1371041006",
+        "name": "Alai Parak Kopi",
+        "poscode": "25139"
+    },
+    {
+        "code": "1371041007",
+        "name": "Gunung Pangilun",
+        "poscode": "25137"
+    },
+    {
+        "code": "1371041005",
+        "name": "Lolong Belanti",
+        "poscode": "25136"
+    },
+    {
+        "code": "1371041004",
+        "name": "Ulak Karang Selatan",
+        "poscode": "25134"
+    },
+    {
+        "code": "1371041003",
+        "name": "Ulak Karang Utara",
+        "poscode": "25133"
+    }
+]

@@ -1,0 +1,17 @@
+{
+    "code": "3204072004",
+    "name": "Melatiwangi",
+    "poscode": "40618",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3204",
+        "name": "Bandung"
+    },
+    "kecamatan": {
+        "code": "320407",
+        "name": "Cilengkrang"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "1101092006",
+    "name": "Kuta Baro/Baru",
+    "poscode": "23774",
+    "provinsi": {
+        "code": "11",
+        "name": "Aceh (NAD)"
+    },
+    "kabupaten": {
+        "code": "1101",
+        "name": "Aceh Selatan"
+    },
+    "kecamatan": {
+        "code": "110109",
+        "name": "Trumon"
+    }
+}

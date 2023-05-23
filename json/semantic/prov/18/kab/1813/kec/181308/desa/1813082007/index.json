@@ -1,0 +1,17 @@
+{
+    "code": "1813082007",
+    "name": "Pemerihan",
+    "poscode": "34874",
+    "provinsi": {
+        "code": "18",
+        "name": "Lampung"
+    },
+    "kabupaten": {
+        "code": "1813",
+        "name": "Pesisir Barat"
+    },
+    "kecamatan": {
+        "code": "181308",
+        "name": "Krui Selatan"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "1104122012",
+    "name": "Tawardi",
+    "poscode": "24568",
+    "provinsi": {
+        "code": "11",
+        "name": "Aceh (NAD)"
+    },
+    "kabupaten": {
+        "code": "1104",
+        "name": "Aceh Tengah"
+    },
+    "kecamatan": {
+        "code": "110412",
+        "name": "Kute Panang"
+    }
+}

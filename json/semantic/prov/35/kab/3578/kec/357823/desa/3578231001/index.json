@@ -1,0 +1,17 @@
+{
+    "code": "3578231001",
+    "name": "Jambangan",
+    "poscode": "60232",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3578",
+        "name": "Surabaya"
+    },
+    "kecamatan": {
+        "code": "357823",
+        "name": "Jambangan"
+    }
+}

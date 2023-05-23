@@ -1,0 +1,17 @@
+{
+    "code": "9401212005",
+    "name": "Keuw",
+    "poscode": "98861",
+    "provinsi": {
+        "code": "94",
+        "name": "Papua Tengah"
+    },
+    "kabupaten": {
+        "code": "9401",
+        "name": "Nabire"
+    },
+    "kecamatan": {
+        "code": "940121",
+        "name": "Wapoga"
+    }
+}

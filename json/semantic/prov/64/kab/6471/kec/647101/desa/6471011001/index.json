@@ -1,0 +1,17 @@
+{
+    "code": "6471011001",
+    "name": "Manggar",
+    "poscode": "76116",
+    "provinsi": {
+        "code": "64",
+        "name": "Kalimantan Timur"
+    },
+    "kabupaten": {
+        "code": "6471",
+        "name": "Balikpapan"
+    },
+    "kecamatan": {
+        "code": "647101",
+        "name": "Balikpapan Timur"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "9501252001",
+    "name": "Walelagama",
+    "poscode": "99510",
+    "provinsi": {
+        "code": "95",
+        "name": "Papua Pegunungan"
+    },
+    "kabupaten": {
+        "code": "9501",
+        "name": "Jayawijaya"
+    },
+    "kecamatan": {
+        "code": "950125",
+        "name": "Walelagama"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "3309032005",
+    "name": "Paras",
+    "poscode": "57362",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3309",
+        "name": "Boyolali"
+    },
+    "kecamatan": {
+        "code": "330903",
+        "name": "Cepogo"
+    }
+}

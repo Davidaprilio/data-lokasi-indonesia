@@ -1,0 +1,79 @@
+[
+    {
+        "code": "750503",
+        "name": "Anggrek",
+        "count": {
+            "desa": 15
+        }
+    },
+    {
+        "code": "750501",
+        "name": "Atinggola",
+        "count": {
+            "desa": 14
+        }
+    },
+    {
+        "code": "750510",
+        "name": "Biau",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "750506",
+        "name": "Gentuma Raya",
+        "count": {
+            "desa": 11
+        }
+    },
+    {
+        "code": "750502",
+        "name": "Kwandang",
+        "count": {
+            "desa": 18
+        }
+    },
+    {
+        "code": "750509",
+        "name": "Monano",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "750508",
+        "name": "Ponelo Kepulauan",
+        "count": {
+            "desa": 4
+        }
+    },
+    {
+        "code": "750504",
+        "name": "Sumalata",
+        "count": {
+            "desa": 11
+        }
+    },
+    {
+        "code": "750511",
+        "name": "Sumalata Timur",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "750505",
+        "name": "Tolinggula",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "750507",
+        "name": "Tomolito",
+        "count": {
+            "desa": 10
+        }
+    }
+]

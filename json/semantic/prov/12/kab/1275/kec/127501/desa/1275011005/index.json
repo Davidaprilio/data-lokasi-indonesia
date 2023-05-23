@@ -1,0 +1,17 @@
+{
+    "code": "1275011005",
+    "name": "Kebun Lada",
+    "poscode": "20744",
+    "provinsi": {
+        "code": "12",
+        "name": "Sumatera Utara"
+    },
+    "kabupaten": {
+        "code": "1275",
+        "name": "Binjai"
+    },
+    "kecamatan": {
+        "code": "127501",
+        "name": "Binjai Utara"
+    }
+}

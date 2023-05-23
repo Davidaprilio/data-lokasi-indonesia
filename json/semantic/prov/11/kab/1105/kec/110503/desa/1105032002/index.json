@@ -1,0 +1,17 @@
+{
+    "code": "1105032002",
+    "name": "Sakuy",
+    "poscode": "23685",
+    "provinsi": {
+        "code": "11",
+        "name": "Aceh (NAD)"
+    },
+    "kabupaten": {
+        "code": "1105",
+        "name": "Aceh Barat"
+    },
+    "kecamatan": {
+        "code": "110503",
+        "name": "Sungai Mas"
+    }
+}

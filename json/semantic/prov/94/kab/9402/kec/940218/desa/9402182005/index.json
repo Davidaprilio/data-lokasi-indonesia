@@ -1,0 +1,17 @@
+{
+    "code": "9402182005",
+    "name": "Tukwi",
+    "poscode": "98911",
+    "provinsi": {
+        "code": "94",
+        "name": "Papua Tengah"
+    },
+    "kabupaten": {
+        "code": "9402",
+        "name": "Puncak Jaya"
+    },
+    "kecamatan": {
+        "code": "940218",
+        "name": "Gurage"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "9503232002",
+    "name": "Nahomas",
+    "poscode": "99756",
+    "provinsi": {
+        "code": "95",
+        "name": "Papua Pegunungan"
+    },
+    "kabupaten": {
+        "code": "9503",
+        "name": "Yahukimo"
+    },
+    "kecamatan": {
+        "code": "950323",
+        "name": "Kosarek"
+    }
+}

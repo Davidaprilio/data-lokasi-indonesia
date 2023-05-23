@@ -1,0 +1,17 @@
+{
+    "code": "3502012011",
+    "name": "Ngloning",
+    "poscode": "63463",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3502",
+        "name": "Ponorogo"
+    },
+    "kecamatan": {
+        "code": "350201",
+        "name": "Slahung"
+    }
+}

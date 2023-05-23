@@ -1,0 +1,72 @@
+[
+    {
+        "code": "631009",
+        "name": "Angsana",
+        "count": {
+            "desa": 9
+        }
+    },
+    {
+        "code": "631001",
+        "name": "Batu Licin (Batulicin)",
+        "count": {
+            "desa": 9
+        }
+    },
+    {
+        "code": "631007",
+        "name": "Karang Bintang",
+        "count": {
+            "desa": 11
+        }
+    },
+    {
+        "code": "631010",
+        "name": "Kuranji",
+        "count": {
+            "desa": 7
+        }
+    },
+    {
+        "code": "631002",
+        "name": "Kusan Hilir",
+        "count": {
+            "desa": 35
+        }
+    },
+    {
+        "code": "631005",
+        "name": "Kusan Hulu",
+        "count": {
+            "desa": 21
+        }
+    },
+    {
+        "code": "631008",
+        "name": "Mantewe",
+        "count": {
+            "desa": 12
+        }
+    },
+    {
+        "code": "631004",
+        "name": "Satui",
+        "count": {
+            "desa": 16
+        }
+    },
+    {
+        "code": "631006",
+        "name": "Simpang Empat",
+        "count": {
+            "desa": 12
+        }
+    },
+    {
+        "code": "631003",
+        "name": "Sungai Loban",
+        "count": {
+            "desa": 17
+        }
+    }
+]

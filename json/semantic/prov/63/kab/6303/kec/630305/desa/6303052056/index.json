@@ -1,0 +1,17 @@
+{
+    "code": "6303052056",
+    "name": "Pasayangan Utara",
+    "poscode": "70619",
+    "provinsi": {
+        "code": "63",
+        "name": "Kalimantan Selatan"
+    },
+    "kabupaten": {
+        "code": "6303",
+        "name": "Banjar"
+    },
+    "kecamatan": {
+        "code": "630305",
+        "name": "Martapura (Martapura Kota)"
+    }
+}

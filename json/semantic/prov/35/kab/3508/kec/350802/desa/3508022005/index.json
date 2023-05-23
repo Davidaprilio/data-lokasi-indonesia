@@ -1,0 +1,17 @@
+{
+    "code": "3508022005",
+    "name": "Oro Oro Ombo",
+    "poscode": "67374",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3508",
+        "name": "Lumajang"
+    },
+    "kecamatan": {
+        "code": "350802",
+        "name": "Pronojiwo"
+    }
+}

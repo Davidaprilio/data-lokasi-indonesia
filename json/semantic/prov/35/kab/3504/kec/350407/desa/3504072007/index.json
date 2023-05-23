@@ -1,0 +1,17 @@
+{
+    "code": "3504072007",
+    "name": "Picisan",
+    "poscode": "66254",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3504",
+        "name": "Tulungagung"
+    },
+    "kecamatan": {
+        "code": "350407",
+        "name": "Sendang"
+    }
+}

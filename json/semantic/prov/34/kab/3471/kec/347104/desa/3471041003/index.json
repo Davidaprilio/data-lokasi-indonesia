@@ -1,0 +1,17 @@
+{
+    "code": "3471041003",
+    "name": "Bausasran",
+    "poscode": "55211",
+    "provinsi": {
+        "code": "34",
+        "name": "DI Yogyakarta"
+    },
+    "kabupaten": {
+        "code": "3471",
+        "name": "Yogyakarta"
+    },
+    "kecamatan": {
+        "code": "347104",
+        "name": "Danurejan"
+    }
+}

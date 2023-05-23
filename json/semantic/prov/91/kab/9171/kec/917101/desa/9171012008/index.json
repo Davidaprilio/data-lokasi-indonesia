@@ -1,0 +1,17 @@
+{
+    "code": "9171012008",
+    "name": "Kayo Batu",
+    "poscode": "99118",
+    "provinsi": {
+        "code": "91",
+        "name": "Papua"
+    },
+    "kabupaten": {
+        "code": "9171",
+        "name": "Jayapura"
+    },
+    "kecamatan": {
+        "code": "917101",
+        "name": "Jayapura Utara"
+    }
+}

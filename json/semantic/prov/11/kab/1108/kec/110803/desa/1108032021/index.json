@@ -1,0 +1,17 @@
+{
+    "code": "1108032021",
+    "name": "Blang Gurah",
+    "poscode": "24371",
+    "provinsi": {
+        "code": "11",
+        "name": "Aceh (NAD)"
+    },
+    "kabupaten": {
+        "code": "1108",
+        "name": "Aceh Utara"
+    },
+    "kecamatan": {
+        "code": "110803",
+        "name": "Kuta Makmur"
+    }
+}

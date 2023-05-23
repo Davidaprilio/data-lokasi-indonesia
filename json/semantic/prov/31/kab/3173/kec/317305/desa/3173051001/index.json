@@ -1,0 +1,17 @@
+{
+    "code": "3173051001",
+    "name": "Kebon Jeruk",
+    "poscode": "11530",
+    "provinsi": {
+        "code": "31",
+        "name": "DKI Jakarta"
+    },
+    "kabupaten": {
+        "code": "3173",
+        "name": "Jakarta Barat"
+    },
+    "kecamatan": {
+        "code": "317305",
+        "name": "Kebon Jeruk"
+    }
+}

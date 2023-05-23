@@ -1,0 +1,17 @@
+{
+    "code": "7111032007",
+    "name": "Linawan I",
+    "poscode": "95775",
+    "provinsi": {
+        "code": "71",
+        "name": "Sulawesi Utara"
+    },
+    "kabupaten": {
+        "code": "7111",
+        "name": "Bolaang Mongondow Selatan"
+    },
+    "kecamatan": {
+        "code": "711103",
+        "name": "Pinolosian"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "7605011013",
+    "name": "Galung",
+    "poscode": "91411",
+    "provinsi": {
+        "code": "76",
+        "name": "Sulawesi Barat"
+    },
+    "kabupaten": {
+        "code": "7605",
+        "name": "Majene"
+    },
+    "kecamatan": {
+        "code": "760501",
+        "name": "Banggae"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "2171011003",
+    "name": "Kasu",
+    "poscode": "29413",
+    "provinsi": {
+        "code": "21",
+        "name": "Kepulauan Riau"
+    },
+    "kabupaten": {
+        "code": "2171",
+        "name": "Batam"
+    },
+    "kecamatan": {
+        "code": "217101",
+        "name": "Belakang Padang"
+    }
+}

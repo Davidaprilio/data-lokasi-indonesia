@@ -1,0 +1,17 @@
+{
+    "code": "5301042006",
+    "name": "Uiasa",
+    "poscode": "85352",
+    "provinsi": {
+        "code": "53",
+        "name": "Nusa Tenggara Timur (NTT)"
+    },
+    "kabupaten": {
+        "code": "5301",
+        "name": "Kupang"
+    },
+    "kecamatan": {
+        "code": "530104",
+        "name": "Semau"
+    }
+}

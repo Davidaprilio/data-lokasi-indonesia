@@ -1,0 +1,17 @@
+{
+    "code": "3308172004",
+    "name": "Sumberejo",
+    "poscode": "56194",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3308",
+        "name": "Magelang"
+    },
+    "kecamatan": {
+        "code": "330817",
+        "name": "Ngablak"
+    }
+}

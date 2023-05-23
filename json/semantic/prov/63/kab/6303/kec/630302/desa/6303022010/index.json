@@ -1,0 +1,17 @@
+{
+    "code": "6303022010",
+    "name": "Kertak Hanyar II (Kertakhanyar II)",
+    "poscode": "70654",
+    "provinsi": {
+        "code": "63",
+        "name": "Kalimantan Selatan"
+    },
+    "kabupaten": {
+        "code": "6303",
+        "name": "Banjar"
+    },
+    "kecamatan": {
+        "code": "630302",
+        "name": "Kertak Hanyar"
+    }
+}

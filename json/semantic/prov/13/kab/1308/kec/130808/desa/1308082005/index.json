@@ -1,0 +1,17 @@
+{
+    "code": "1308082005",
+    "name": "Pintu Padang",
+    "poscode": "26353",
+    "provinsi": {
+        "code": "13",
+        "name": "Sumatera Barat"
+    },
+    "kabupaten": {
+        "code": "1308",
+        "name": "Pasaman"
+    },
+    "kecamatan": {
+        "code": "130808",
+        "name": "Mapat Tunggul"
+    }
+}

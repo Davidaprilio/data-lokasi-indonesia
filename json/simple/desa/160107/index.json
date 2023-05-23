@@ -1,0 +1,57 @@
+[
+    {
+        "code": "1601072006",
+        "name": "Bandar",
+        "poscode": "32151"
+    },
+    {
+        "code": "1601072004",
+        "name": "Kungkilan",
+        "poscode": "32151"
+    },
+    {
+        "code": "1601072003",
+        "name": "Lubuk Baru",
+        "poscode": "32151"
+    },
+    {
+        "code": "1601072007",
+        "name": "Lubuk Leban",
+        "poscode": "32151"
+    },
+    {
+        "code": "1601072010",
+        "name": "Mekar Jaya",
+        "poscode": "32151"
+    },
+    {
+        "code": "1601072009",
+        "name": "Mekar Sari",
+        "poscode": "32151"
+    },
+    {
+        "code": "1601072001",
+        "name": "Negeri Sindang",
+        "poscode": "32151"
+    },
+    {
+        "code": "1601072011",
+        "name": "Penantian",
+        "poscode": "32151"
+    },
+    {
+        "code": "1601072005",
+        "name": "Penyandingan",
+        "poscode": "32151"
+    },
+    {
+        "code": "1601072002",
+        "name": "Rantau Kumpai",
+        "poscode": "32151"
+    },
+    {
+        "code": "1601072008",
+        "name": "Tungku Jaya",
+        "poscode": "32151"
+    }
+]

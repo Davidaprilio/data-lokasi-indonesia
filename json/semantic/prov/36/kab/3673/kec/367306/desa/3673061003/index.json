@@ -1,0 +1,17 @@
+{
+    "code": "3673061003",
+    "name": "Pancur",
+    "poscode": "42162",
+    "provinsi": {
+        "code": "36",
+        "name": "Banten"
+    },
+    "kabupaten": {
+        "code": "3673",
+        "name": "Serang"
+    },
+    "kecamatan": {
+        "code": "367306",
+        "name": "Taktakan"
+    }
+}

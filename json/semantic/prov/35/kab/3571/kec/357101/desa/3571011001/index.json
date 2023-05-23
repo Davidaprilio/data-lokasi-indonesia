@@ -1,0 +1,17 @@
+{
+    "code": "3571011001",
+    "name": "Bandar Lor",
+    "poscode": "64114",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3571",
+        "name": "Kediri"
+    },
+    "kecamatan": {
+        "code": "357101",
+        "name": "Mojoroto"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "3502122002",
+    "name": "Nongkodono",
+    "poscode": "63451",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3502",
+        "name": "Ponorogo"
+    },
+    "kecamatan": {
+        "code": "350212",
+        "name": "Kauman"
+    }
+}

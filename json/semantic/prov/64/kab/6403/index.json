@@ -1,0 +1,10 @@
+{
+    "code": "6403",
+    "type": "Kabupaten",
+    "name": "Berau",
+    "fullname": "Kabupaten Berau",
+    "jumlah": {
+        "kecamatan": 13,
+        "desa": 110
+    }
+}

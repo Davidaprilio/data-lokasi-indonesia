@@ -1,0 +1,17 @@
+{
+    "code": "9203042014",
+    "name": "Kinam",
+    "poscode": "98016",
+    "provinsi": {
+        "code": "92",
+        "name": "Papua Barat"
+    },
+    "kabupaten": {
+        "code": "9203",
+        "name": "Fak Fak"
+    },
+    "kecamatan": {
+        "code": "920304",
+        "name": "Kokas"
+    }
+}

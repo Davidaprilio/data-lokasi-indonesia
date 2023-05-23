@@ -1,0 +1,17 @@
+{
+    "code": "1407122001",
+    "name": "Bantayan/Bantaian",
+    "poscode": "28912",
+    "provinsi": {
+        "code": "14",
+        "name": "Riau"
+    },
+    "kabupaten": {
+        "code": "1407",
+        "name": "Rokan Hilir"
+    },
+    "kecamatan": {
+        "code": "140712",
+        "name": "Batu Hampar"
+    }
+}

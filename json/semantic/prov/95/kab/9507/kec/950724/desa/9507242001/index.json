@@ -1,0 +1,17 @@
+{
+    "code": "9507242001",
+    "name": "Wamitu",
+    "poscode": "99586",
+    "provinsi": {
+        "code": "95",
+        "name": "Papua Pegunungan"
+    },
+    "kabupaten": {
+        "code": "9507",
+        "name": "Lanny Jaya"
+    },
+    "kecamatan": {
+        "code": "950724",
+        "name": "Goa Balim"
+    }
+}

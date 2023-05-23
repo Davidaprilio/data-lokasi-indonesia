@@ -1,0 +1,17 @@
+{
+    "code": "3204172004",
+    "name": "Campakamulya",
+    "poscode": "40374",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3204",
+        "name": "Bandung"
+    },
+    "kecamatan": {
+        "code": "320417",
+        "name": "Cimaung"
+    }
+}

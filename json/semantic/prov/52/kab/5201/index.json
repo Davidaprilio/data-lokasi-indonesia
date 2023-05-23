@@ -1,0 +1,10 @@
+{
+    "code": "5201",
+    "type": "Kabupaten",
+    "name": "Lombok Barat",
+    "fullname": "Kabupaten Lombok Barat",
+    "jumlah": {
+        "kecamatan": 10,
+        "desa": 122
+    }
+}

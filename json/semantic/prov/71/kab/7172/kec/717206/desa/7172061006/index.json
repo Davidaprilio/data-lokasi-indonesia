@@ -1,0 +1,17 @@
+{
+    "code": "7172061006",
+    "name": "Girian Indah",
+    "poscode": "95511",
+    "provinsi": {
+        "code": "71",
+        "name": "Sulawesi Utara"
+    },
+    "kabupaten": {
+        "code": "7172",
+        "name": "Bitung"
+    },
+    "kecamatan": {
+        "code": "717206",
+        "name": "Girian"
+    }
+}

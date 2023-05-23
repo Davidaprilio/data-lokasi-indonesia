@@ -1,0 +1,17 @@
+{
+    "code": "3604242002",
+    "name": "Damping",
+    "poscode": "42179",
+    "provinsi": {
+        "code": "36",
+        "name": "Banten"
+    },
+    "kabupaten": {
+        "code": "3604",
+        "name": "Serang"
+    },
+    "kecamatan": {
+        "code": "360424",
+        "name": "Pamarayan"
+    }
+}

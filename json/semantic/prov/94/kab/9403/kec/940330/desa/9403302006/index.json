@@ -1,0 +1,17 @@
+{
+    "code": "9403302006",
+    "name": "Pupekebo",
+    "poscode": "98735",
+    "provinsi": {
+        "code": "94",
+        "name": "Papua Tengah"
+    },
+    "kabupaten": {
+        "code": "9403",
+        "name": "Paniai"
+    },
+    "kecamatan": {
+        "code": "940330",
+        "name": "Baya Biru"
+    }
+}

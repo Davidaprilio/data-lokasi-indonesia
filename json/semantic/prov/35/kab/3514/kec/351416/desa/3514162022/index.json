@@ -1,0 +1,17 @@
+{
+    "code": "3514162022",
+    "name": "Kraton",
+    "poscode": "67151",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3514",
+        "name": "Pasuruan"
+    },
+    "kecamatan": {
+        "code": "351416",
+        "name": "Kraton"
+    }
+}

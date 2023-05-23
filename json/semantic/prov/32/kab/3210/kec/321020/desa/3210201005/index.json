@@ -1,0 +1,17 @@
+{
+    "code": "3210201005",
+    "name": "Simpeureum",
+    "poscode": "45476",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3210",
+        "name": "Majalengka"
+    },
+    "kecamatan": {
+        "code": "321020",
+        "name": "Cigasong"
+    }
+}

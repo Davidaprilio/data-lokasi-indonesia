@@ -1,0 +1,17 @@
+{
+    "code": "1201141009",
+    "name": "Aek Tolang Induk",
+    "poscode": "22617",
+    "provinsi": {
+        "code": "12",
+        "name": "Sumatera Utara"
+    },
+    "kabupaten": {
+        "code": "1201",
+        "name": "Tapanuli Tengah"
+    },
+    "kecamatan": {
+        "code": "120114",
+        "name": "Tukka"
+    }
+}

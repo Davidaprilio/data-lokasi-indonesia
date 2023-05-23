@@ -1,0 +1,17 @@
+{
+    "code": "1401022035",
+    "name": "Koto Tibun",
+    "poscode": "28461",
+    "provinsi": {
+        "code": "14",
+        "name": "Riau"
+    },
+    "kabupaten": {
+        "code": "1401",
+        "name": "Kampar"
+    },
+    "kecamatan": {
+        "code": "140102",
+        "name": "Kampar"
+    }
+}

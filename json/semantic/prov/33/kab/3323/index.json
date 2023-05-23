@@ -1,0 +1,10 @@
+{
+    "code": "3323",
+    "type": "Kabupaten",
+    "name": "Temanggung",
+    "fullname": "Kabupaten Temanggung",
+    "jumlah": {
+        "kecamatan": 20,
+        "desa": 289
+    }
+}

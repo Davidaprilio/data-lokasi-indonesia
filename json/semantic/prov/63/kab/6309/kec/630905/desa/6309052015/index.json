@@ -1,0 +1,17 @@
+{
+    "code": "6309052015",
+    "name": "Suput",
+    "poscode": "71570",
+    "provinsi": {
+        "code": "63",
+        "name": "Kalimantan Selatan"
+    },
+    "kabupaten": {
+        "code": "6309",
+        "name": "Tabalong"
+    },
+    "kecamatan": {
+        "code": "630905",
+        "name": "Haruai"
+    }
+}

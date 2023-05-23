@@ -1,0 +1,17 @@
+{
+    "code": "7204092008",
+    "name": "Diule",
+    "poscode": "94560",
+    "provinsi": {
+        "code": "72",
+        "name": "Sulawesi Tengah"
+    },
+    "kabupaten": {
+        "code": "7204",
+        "name": "Toli Toli"
+    },
+    "kecamatan": {
+        "code": "720409",
+        "name": "Toli-Toli Utara (Tolitoli Utara)"
+    }
+}

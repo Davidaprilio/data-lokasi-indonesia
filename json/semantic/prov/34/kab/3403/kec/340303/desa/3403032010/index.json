@@ -1,0 +1,17 @@
+{
+    "code": "3403032010",
+    "name": "Logandeng",
+    "poscode": "55861",
+    "provinsi": {
+        "code": "34",
+        "name": "DI Yogyakarta"
+    },
+    "kabupaten": {
+        "code": "3403",
+        "name": "Gunungkidul"
+    },
+    "kecamatan": {
+        "code": "340303",
+        "name": "Playen"
+    }
+}

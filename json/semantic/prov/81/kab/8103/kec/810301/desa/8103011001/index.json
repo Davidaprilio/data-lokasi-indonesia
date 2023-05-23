@@ -1,0 +1,17 @@
+{
+    "code": "8103011001",
+    "name": "Saumlaki",
+    "poscode": "97471",
+    "provinsi": {
+        "code": "81",
+        "name": "Maluku"
+    },
+    "kabupaten": {
+        "code": "8103",
+        "name": "Kepulauan Tanimbar (Maluku Tenggara Barat)"
+    },
+    "kecamatan": {
+        "code": "810301",
+        "name": "Tanimbar Selatan"
+    }
+}

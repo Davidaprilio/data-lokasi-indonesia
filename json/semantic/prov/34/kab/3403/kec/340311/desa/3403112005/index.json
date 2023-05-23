@@ -1,0 +1,17 @@
+{
+    "code": "3403112005",
+    "name": "Pucanganom",
+    "poscode": "55884",
+    "provinsi": {
+        "code": "34",
+        "name": "DI Yogyakarta"
+    },
+    "kabupaten": {
+        "code": "3403",
+        "name": "Gunungkidul"
+    },
+    "kecamatan": {
+        "code": "340311",
+        "name": "Rongkop"
+    }
+}

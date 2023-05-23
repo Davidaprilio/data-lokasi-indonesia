@@ -1,0 +1,17 @@
+{
+    "code": "6171021001",
+    "name": "Paritmayor (Parit Mayor)",
+    "poscode": "78231",
+    "provinsi": {
+        "code": "61",
+        "name": "Kalimantan Barat"
+    },
+    "kabupaten": {
+        "code": "6171",
+        "name": "Pontianak"
+    },
+    "kecamatan": {
+        "code": "617102",
+        "name": "Pontianak Timur"
+    }
+}

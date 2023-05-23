@@ -1,0 +1,17 @@
+{
+    "code": "1204202003",
+    "name": "Fulolo Lalai",
+    "poscode": "22850",
+    "provinsi": {
+        "code": "12",
+        "name": "Sumatera Utara"
+    },
+    "kabupaten": {
+        "code": "1204",
+        "name": "Nias"
+    },
+    "kecamatan": {
+        "code": "120420",
+        "name": "Hiliserangkai (Hili Serangkai / Hilisaranggu)"
+    }
+}

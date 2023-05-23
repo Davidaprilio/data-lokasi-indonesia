@@ -1,0 +1,17 @@
+{
+    "code": "6408032003",
+    "name": "Muara Bengkal Ilir",
+    "poscode": "75656",
+    "provinsi": {
+        "code": "64",
+        "name": "Kalimantan Timur"
+    },
+    "kabupaten": {
+        "code": "6408",
+        "name": "Kutai Timur"
+    },
+    "kecamatan": {
+        "code": "640803",
+        "name": "Muara Bengkal"
+    }
+}

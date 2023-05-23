@@ -1,0 +1,17 @@
+{
+    "code": "3523092014",
+    "name": "Pacing",
+    "poscode": "62366",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3523",
+        "name": "Tuban"
+    },
+    "kecamatan": {
+        "code": "352309",
+        "name": "Parengan"
+    }
+}

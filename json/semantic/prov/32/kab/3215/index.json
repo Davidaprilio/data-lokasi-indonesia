@@ -1,0 +1,10 @@
+{
+    "code": "3215",
+    "type": "Kabupaten",
+    "name": "Karawang",
+    "fullname": "Kabupaten Karawang",
+    "jumlah": {
+        "kecamatan": 30,
+        "desa": 309
+    }
+}

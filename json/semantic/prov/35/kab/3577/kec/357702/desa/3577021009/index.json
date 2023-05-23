@@ -1,0 +1,17 @@
+{
+    "code": "3577021009",
+    "name": "Nambangan Kidul",
+    "poscode": "63128",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3577",
+        "name": "Madiun"
+    },
+    "kecamatan": {
+        "code": "357702",
+        "name": "Manguharjo"
+    }
+}

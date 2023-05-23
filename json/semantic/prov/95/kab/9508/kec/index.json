@@ -1,0 +1,226 @@
+[
+    {
+        "code": "950815",
+        "name": "Alama",
+        "count": {
+            "desa": 4
+        }
+    },
+    {
+        "code": "950818",
+        "name": "Dal",
+        "count": {
+            "desa": 6
+        }
+    },
+    {
+        "code": "950824",
+        "name": "Embetpen",
+        "count": {
+            "desa": 5
+        }
+    },
+    {
+        "code": "950808",
+        "name": "Gearek",
+        "count": {
+            "desa": 7
+        }
+    },
+    {
+        "code": "950805",
+        "name": "Geselma (Geselema)",
+        "count": {
+            "desa": 3
+        }
+    },
+    {
+        "code": "950820",
+        "name": "Inikgal",
+        "count": {
+            "desa": 8
+        }
+    },
+    {
+        "code": "950821",
+        "name": "Iniye",
+        "count": {
+            "desa": 6
+        }
+    },
+    {
+        "code": "950810",
+        "name": "Kegayem",
+        "count": {
+            "desa": 13
+        }
+    },
+    {
+        "code": "950801",
+        "name": "Kenyam",
+        "count": {
+            "desa": 9
+        }
+    },
+    {
+        "code": "950814",
+        "name": "Kilmid",
+        "count": {
+            "desa": 4
+        }
+    },
+    {
+        "code": "950825",
+        "name": "Kora",
+        "count": {
+            "desa": 5
+        }
+    },
+    {
+        "code": "950809",
+        "name": "Koroptak",
+        "count": {
+            "desa": 6
+        }
+    },
+    {
+        "code": "950831",
+        "name": "Krepkuri",
+        "count": {
+            "desa": 6
+        }
+    },
+    {
+        "code": "950817",
+        "name": "Mam",
+        "count": {
+            "desa": 14
+        }
+    },
+    {
+        "code": "950802",
+        "name": "Mapenduma",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "950823",
+        "name": "Mbua Tengah",
+        "count": {
+            "desa": 9
+        }
+    },
+    {
+        "code": "950822",
+        "name": "Mbulmu Yalma",
+        "count": {
+            "desa": 7
+        }
+    },
+    {
+        "code": "950807",
+        "name": "Mbuwa (Mbua / Mbuga)",
+        "count": {
+            "desa": 6
+        }
+    },
+    {
+        "code": "950812",
+        "name": "Mebarok",
+        "count": {
+            "desa": 14
+        }
+    },
+    {
+        "code": "950828",
+        "name": "Moba",
+        "count": {
+            "desa": 8
+        }
+    },
+    {
+        "code": "950806",
+        "name": "Mugi",
+        "count": {
+            "desa": 18
+        }
+    },
+    {
+        "code": "950830",
+        "name": "Nenggeagin",
+        "count": {
+            "desa": 5
+        }
+    },
+    {
+        "code": "950819",
+        "name": "Nirkuri",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "950811",
+        "name": "Paro",
+        "count": {
+            "desa": 5
+        }
+    },
+    {
+        "code": "950832",
+        "name": "Pasir Putih",
+        "count": {
+            "desa": 4
+        }
+    },
+    {
+        "code": "950827",
+        "name": "Pija",
+        "count": {
+            "desa": 5
+        }
+    },
+    {
+        "code": "950804",
+        "name": "Wosak",
+        "count": {
+            "desa": 5
+        }
+    },
+    {
+        "code": "950826",
+        "name": "Wusi",
+        "count": {
+            "desa": 4
+        }
+    },
+    {
+        "code": "950829",
+        "name": "Wutpaga",
+        "count": {
+            "desa": 6
+        }
+    },
+    {
+        "code": "950816",
+        "name": "Yal",
+        "count": {
+            "desa": 20
+        }
+    },
+    {
+        "code": "950813",
+        "name": "Yenggelo",
+        "count": {
+            "desa": 4
+        }
+    },
+    {
+        "code": "950803",
+        "name": "Yigi",
+        "count": {
+            "desa": 12
+        }
+    }
+]

@@ -1,0 +1,17 @@
+{
+    "code": "2104032013",
+    "name": "Penaah",
+    "poscode": "29873",
+    "provinsi": {
+        "code": "21",
+        "name": "Kepulauan Riau"
+    },
+    "kabupaten": {
+        "code": "2104",
+        "name": "Lingga"
+    },
+    "kecamatan": {
+        "code": "210403",
+        "name": "Senayang"
+    }
+}

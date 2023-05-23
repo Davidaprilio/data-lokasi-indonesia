@@ -1,0 +1,17 @@
+{
+    "code": "5201132004",
+    "name": "Sekotong Timur",
+    "poscode": "83364",
+    "provinsi": {
+        "code": "52",
+        "name": "Nusa Tenggara Barat (NTB)"
+    },
+    "kabupaten": {
+        "code": "5201",
+        "name": "Lombok Barat"
+    },
+    "kecamatan": {
+        "code": "520113",
+        "name": "Lembar"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "code": "1871",
+    "type": "Kota",
+    "name": "Bandar Lampung",
+    "fullname": "Kota Bandar Lampung",
+    "jumlah": {
+        "kecamatan": 20,
+        "desa": 126
+    }
+}

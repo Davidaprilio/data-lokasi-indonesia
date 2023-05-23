@@ -1,0 +1,58 @@
+[
+    {
+        "code": "317105",
+        "name": "Cempaka Putih",
+        "count": {
+            "desa": 3
+        }
+    },
+    {
+        "code": "317101",
+        "name": "Gambir",
+        "count": {
+            "desa": 6
+        }
+    },
+    {
+        "code": "317108",
+        "name": "Johar Baru",
+        "count": {
+            "desa": 4
+        }
+    },
+    {
+        "code": "317103",
+        "name": "Kemayoran",
+        "count": {
+            "desa": 8
+        }
+    },
+    {
+        "code": "317106",
+        "name": "Menteng",
+        "count": {
+            "desa": 5
+        }
+    },
+    {
+        "code": "317102",
+        "name": "Sawah Besar",
+        "count": {
+            "desa": 5
+        }
+    },
+    {
+        "code": "317104",
+        "name": "Senen",
+        "count": {
+            "desa": 6
+        }
+    },
+    {
+        "code": "317107",
+        "name": "Tanah Abang",
+        "count": {
+            "desa": 7
+        }
+    }
+]

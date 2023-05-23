@@ -1,0 +1,17 @@
+{
+    "code": "1471071005",
+    "name": "Simpang Tiga",
+    "poscode": "28284",
+    "provinsi": {
+        "code": "14",
+        "name": "Riau"
+    },
+    "kabupaten": {
+        "code": "1471",
+        "name": "Pekanbaru"
+    },
+    "kecamatan": {
+        "code": "147107",
+        "name": "Bukit Raya"
+    }
+}

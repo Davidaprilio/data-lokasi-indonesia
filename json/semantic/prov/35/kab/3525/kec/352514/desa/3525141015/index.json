@@ -1,0 +1,17 @@
+{
+    "code": "3525141015",
+    "name": "Sidomoro",
+    "poscode": "61122",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3525",
+        "name": "Gresik"
+    },
+    "kecamatan": {
+        "code": "352514",
+        "name": "Kebomas"
+    }
+}

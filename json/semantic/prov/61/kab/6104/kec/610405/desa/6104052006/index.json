@@ -1,0 +1,17 @@
+{
+    "code": "6104052006",
+    "name": "Penjawaan",
+    "poscode": "78870",
+    "provinsi": {
+        "code": "61",
+        "name": "Kalimantan Barat"
+    },
+    "kabupaten": {
+        "code": "6104",
+        "name": "Ketapang"
+    },
+    "kecamatan": {
+        "code": "610405",
+        "name": "Sandai"
+    }
+}

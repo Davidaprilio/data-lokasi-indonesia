@@ -1,0 +1,17 @@
+{
+    "code": "3375021002",
+    "name": "Noyontaansari",
+    "poscode": "51129",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3375",
+        "name": "Pekalongan"
+    },
+    "kecamatan": {
+        "code": "337502",
+        "name": "Pekalongan Timur"
+    }
+}

@@ -1,0 +1,32 @@
+[
+    {
+        "code": "1305122003",
+        "name": "Batu Kalang",
+        "poscode": "25573"
+    },
+    {
+        "code": "1305122006",
+        "name": "Batu Kalang Utara (Koto Dalam Utara)",
+        "poscode": "25573"
+    },
+    {
+        "code": "1305122001",
+        "name": "Koto Baru",
+        "poscode": "25573"
+    },
+    {
+        "code": "1305122002",
+        "name": "Koto Dalam",
+        "poscode": "25573"
+    },
+    {
+        "code": "1305122004",
+        "name": "Koto Dalam Barat",
+        "poscode": "25573"
+    },
+    {
+        "code": "1305122005",
+        "name": "Koto Dalam Selatan",
+        "poscode": "25573"
+    }
+]

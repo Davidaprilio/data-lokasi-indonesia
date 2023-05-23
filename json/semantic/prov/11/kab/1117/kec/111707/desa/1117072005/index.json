@@ -1,0 +1,17 @@
+{
+    "code": "1117072005",
+    "name": "Karang Jadi",
+    "poscode": "24555",
+    "provinsi": {
+        "code": "11",
+        "name": "Aceh (NAD)"
+    },
+    "kabupaten": {
+        "code": "1117",
+        "name": "Bener Meriah"
+    },
+    "kecamatan": {
+        "code": "111707",
+        "name": "Timang Gajah"
+    }
+}

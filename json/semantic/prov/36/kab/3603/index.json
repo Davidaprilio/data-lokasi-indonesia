@@ -1,0 +1,10 @@
+{
+    "code": "3603",
+    "type": "Kabupaten",
+    "name": "Tangerang",
+    "fullname": "Kabupaten Tangerang",
+    "jumlah": {
+        "kecamatan": 29,
+        "desa": 274
+    }
+}

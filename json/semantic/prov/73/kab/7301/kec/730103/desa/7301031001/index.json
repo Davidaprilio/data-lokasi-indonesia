@@ -1,0 +1,17 @@
+{
+    "code": "7301031001",
+    "name": "Batangmata",
+    "poscode": "92854",
+    "provinsi": {
+        "code": "73",
+        "name": "Sulawesi Selatan"
+    },
+    "kabupaten": {
+        "code": "7301",
+        "name": "Kepulauan Selayar"
+    },
+    "kecamatan": {
+        "code": "730103",
+        "name": "Bontomatene"
+    }
+}

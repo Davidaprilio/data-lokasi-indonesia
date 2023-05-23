@@ -1,0 +1,17 @@
+{
+    "code": "9303102008",
+    "name": "Harapan",
+    "poscode": "99854",
+    "provinsi": {
+        "code": "93",
+        "name": "Papua Selatan"
+    },
+    "kabupaten": {
+        "code": "9303",
+        "name": "Mappi"
+    },
+    "kecamatan": {
+        "code": "930310",
+        "name": "Venaha"
+    }
+}

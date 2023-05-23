@@ -1,0 +1,17 @@
+{
+    "code": "3324142004",
+    "name": "Lanji",
+    "poscode": "51351",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3324",
+        "name": "Kendal"
+    },
+    "kecamatan": {
+        "code": "332414",
+        "name": "Patebon"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "5321112004",
+    "name": "Rainawe",
+    "poscode": "85766",
+    "provinsi": {
+        "code": "53",
+        "name": "Nusa Tenggara Timur (NTT)"
+    },
+    "kabupaten": {
+        "code": "5321",
+        "name": "Malaka"
+    },
+    "kecamatan": {
+        "code": "532111",
+        "name": "Kobalima"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "7502052003",
+    "name": "Salilama",
+    "poscode": "96265",
+    "provinsi": {
+        "code": "75",
+        "name": "Gorontalo"
+    },
+    "kabupaten": {
+        "code": "7502",
+        "name": "Boalemo"
+    },
+    "kecamatan": {
+        "code": "750205",
+        "name": "Mananggu"
+    }
+}

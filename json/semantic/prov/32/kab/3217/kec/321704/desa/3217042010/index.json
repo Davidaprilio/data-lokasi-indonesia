@@ -1,0 +1,17 @@
+{
+    "code": "3217042010",
+    "name": "Puteran",
+    "poscode": "40556",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3217",
+        "name": "Bandung Barat"
+    },
+    "kecamatan": {
+        "code": "321704",
+        "name": "Cikalongwetan (Cikalong Wetan)"
+    }
+}

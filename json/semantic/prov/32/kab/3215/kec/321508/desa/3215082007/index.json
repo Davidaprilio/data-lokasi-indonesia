@@ -1,0 +1,17 @@
+{
+    "code": "3215082007",
+    "name": "Segarjaya",
+    "poscode": "41354",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3215",
+        "name": "Karawang"
+    },
+    "kecamatan": {
+        "code": "321508",
+        "name": "Batujaya"
+    }
+}

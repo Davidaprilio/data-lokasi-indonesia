@@ -1,0 +1,17 @@
+{
+    "code": "9404031001",
+    "name": "Wania",
+    "poscode": "99962",
+    "provinsi": {
+        "code": "94",
+        "name": "Papua Tengah"
+    },
+    "kabupaten": {
+        "code": "9404",
+        "name": "Mimika"
+    },
+    "kecamatan": {
+        "code": "940403",
+        "name": "Mimika Timur"
+    }
+}

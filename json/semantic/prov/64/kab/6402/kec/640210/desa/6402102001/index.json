@@ -1,0 +1,17 @@
+{
+    "code": "6402102001",
+    "name": "Genting Tanah",
+    "poscode": "75557",
+    "provinsi": {
+        "code": "64",
+        "name": "Kalimantan Timur"
+    },
+    "kabupaten": {
+        "code": "6402",
+        "name": "Kutai Kartanegara"
+    },
+    "kecamatan": {
+        "code": "640210",
+        "name": "Kembang Janggut"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "3510192007",
+    "name": "Sumberarum (Sumber Arum)",
+    "poscode": "68463",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3510",
+        "name": "Banyuwangi"
+    },
+    "kecamatan": {
+        "code": "351019",
+        "name": "Songgon"
+    }
+}

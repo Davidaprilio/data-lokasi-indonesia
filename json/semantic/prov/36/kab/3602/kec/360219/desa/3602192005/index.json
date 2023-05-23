@@ -1,0 +1,17 @@
+{
+    "code": "3602192005",
+    "name": "Kujangsari",
+    "poscode": "42394",
+    "provinsi": {
+        "code": "36",
+        "name": "Banten"
+    },
+    "kabupaten": {
+        "code": "3602",
+        "name": "Lebak"
+    },
+    "kecamatan": {
+        "code": "360219",
+        "name": "Cibeber"
+    }
+}

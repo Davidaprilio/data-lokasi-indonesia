@@ -1,0 +1,17 @@
+{
+    "code": "5302202007",
+    "name": "Ponite (Panite)",
+    "poscode": "85576",
+    "provinsi": {
+        "code": "53",
+        "name": "Nusa Tenggara Timur (NTT)"
+    },
+    "kabupaten": {
+        "code": "5302",
+        "name": "Timor Tengah Selatan"
+    },
+    "kecamatan": {
+        "code": "530220",
+        "name": "Kot Olin"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "code": "53",
+    "name": "Nusa Tenggara Timur (NTT)",
+    "jumlah": {
+        "kota": 1,
+        "kabupaten": 21,
+        "kecamatan": 315,
+        "desa": 3
+    }
+}

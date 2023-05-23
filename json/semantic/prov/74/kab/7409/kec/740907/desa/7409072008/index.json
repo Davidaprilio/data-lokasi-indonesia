@@ -1,0 +1,17 @@
+{
+    "code": "7409072008",
+    "name": "Kokapi",
+    "poscode": "93357",
+    "provinsi": {
+        "code": "74",
+        "name": "Sulawesi Tenggara"
+    },
+    "kabupaten": {
+        "code": "7409",
+        "name": "Konawe Utara"
+    },
+    "kecamatan": {
+        "code": "740907",
+        "name": "Sawa"
+    }
+}

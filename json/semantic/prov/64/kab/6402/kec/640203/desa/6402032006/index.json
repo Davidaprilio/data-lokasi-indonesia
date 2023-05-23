@@ -1,0 +1,17 @@
+{
+    "code": "6402032006",
+    "name": "Batuah",
+    "poscode": "75391",
+    "provinsi": {
+        "code": "64",
+        "name": "Kalimantan Timur"
+    },
+    "kabupaten": {
+        "code": "6402",
+        "name": "Kutai Kartanegara"
+    },
+    "kecamatan": {
+        "code": "640203",
+        "name": "Loa Janan"
+    }
+}

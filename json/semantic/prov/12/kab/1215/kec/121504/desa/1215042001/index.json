@@ -1,0 +1,17 @@
+{
+    "code": "1215042001",
+    "name": "Ulumerah (Ulu Merah)",
+    "poscode": "22276",
+    "provinsi": {
+        "code": "12",
+        "name": "Sumatera Utara"
+    },
+    "kabupaten": {
+        "code": "1215",
+        "name": "Pakpak Bharat"
+    },
+    "kecamatan": {
+        "code": "121504",
+        "name": "Sitellu / Sitelu Tali Urang Julu"
+    }
+}

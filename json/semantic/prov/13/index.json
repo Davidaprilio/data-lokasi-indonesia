@@ -1,0 +1,10 @@
+{
+    "code": "13",
+    "name": "Sumatera Barat",
+    "jumlah": {
+        "kota": 7,
+        "kabupaten": 12,
+        "kecamatan": 179,
+        "desa": 1
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "1221052006",
+    "name": "Tanjung Baringin",
+    "poscode": "22776",
+    "provinsi": {
+        "code": "12",
+        "name": "Sumatera Utara"
+    },
+    "kabupaten": {
+        "code": "1221",
+        "name": "Padang Lawas"
+    },
+    "kecamatan": {
+        "code": "122105",
+        "name": "Huta Raja Tinggi"
+    }
+}

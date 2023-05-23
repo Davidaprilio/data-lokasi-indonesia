@@ -1,0 +1,17 @@
+{
+    "code": "3522202009",
+    "name": "Sekaran",
+    "poscode": "62164",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3522",
+        "name": "Bojonegoro"
+    },
+    "kecamatan": {
+        "code": "352220",
+        "name": "Kasiman"
+    }
+}

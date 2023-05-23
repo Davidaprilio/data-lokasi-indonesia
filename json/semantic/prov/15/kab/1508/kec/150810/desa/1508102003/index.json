@@ -1,0 +1,17 @@
+{
+    "code": "1508102003",
+    "name": "Sepunggur",
+    "poscode": "37210",
+    "provinsi": {
+        "code": "15",
+        "name": "Jambi"
+    },
+    "kabupaten": {
+        "code": "1508",
+        "name": "Bungo"
+    },
+    "kecamatan": {
+        "code": "150810",
+        "name": "Bathin / Batin II Babeko"
+    }
+}

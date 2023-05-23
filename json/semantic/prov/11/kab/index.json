@@ -1,0 +1,232 @@
+[
+    {
+        "code": "1105",
+        "type": "Kabupaten",
+        "name": "Aceh Barat",
+        "fullname": "Kabupaten Aceh Barat",
+        "jumlah": {
+            "kecamatan": 12,
+            "desa": 322
+        }
+    },
+    {
+        "code": "1112",
+        "type": "Kabupaten",
+        "name": "Aceh Barat Daya",
+        "fullname": "Kabupaten Aceh Barat Daya",
+        "jumlah": {
+            "kecamatan": 9,
+            "desa": 152
+        }
+    },
+    {
+        "code": "1106",
+        "type": "Kabupaten",
+        "name": "Aceh Besar",
+        "fullname": "Kabupaten Aceh Besar",
+        "jumlah": {
+            "kecamatan": 23,
+            "desa": 604
+        }
+    },
+    {
+        "code": "1114",
+        "type": "Kabupaten",
+        "name": "Aceh Jaya",
+        "fullname": "Kabupaten Aceh Jaya",
+        "jumlah": {
+            "kecamatan": 9,
+            "desa": 172
+        }
+    },
+    {
+        "code": "1101",
+        "type": "Kabupaten",
+        "name": "Aceh Selatan",
+        "fullname": "Kabupaten Aceh Selatan",
+        "jumlah": {
+            "kecamatan": 18,
+            "desa": 260
+        }
+    },
+    {
+        "code": "1110",
+        "type": "Kabupaten",
+        "name": "Aceh Singkil",
+        "fullname": "Kabupaten Aceh Singkil",
+        "jumlah": {
+            "kecamatan": 11,
+            "desa": 116
+        }
+    },
+    {
+        "code": "1116",
+        "type": "Kabupaten",
+        "name": "Aceh Tamiang",
+        "fullname": "Kabupaten Aceh Tamiang",
+        "jumlah": {
+            "kecamatan": 12,
+            "desa": 213
+        }
+    },
+    {
+        "code": "1104",
+        "type": "Kabupaten",
+        "name": "Aceh Tengah",
+        "fullname": "Kabupaten Aceh Tengah",
+        "jumlah": {
+            "kecamatan": 14,
+            "desa": 295
+        }
+    },
+    {
+        "code": "1102",
+        "type": "Kabupaten",
+        "name": "Aceh Tenggara",
+        "fullname": "Kabupaten Aceh Tenggara",
+        "jumlah": {
+            "kecamatan": 16,
+            "desa": 385
+        }
+    },
+    {
+        "code": "1103",
+        "type": "Kabupaten",
+        "name": "Aceh Timur",
+        "fullname": "Kabupaten Aceh Timur",
+        "jumlah": {
+            "kecamatan": 24,
+            "desa": 513
+        }
+    },
+    {
+        "code": "1108",
+        "type": "Kabupaten",
+        "name": "Aceh Utara",
+        "fullname": "Kabupaten Aceh Utara",
+        "jumlah": {
+            "kecamatan": 27,
+            "desa": 852
+        }
+    },
+    {
+        "code": "1171",
+        "type": "Kota",
+        "name": "Banda Aceh",
+        "fullname": "Kota Banda Aceh",
+        "jumlah": {
+            "kecamatan": 9,
+            "desa": 90
+        }
+    },
+    {
+        "code": "1117",
+        "type": "Kabupaten",
+        "name": "Bener Meriah",
+        "fullname": "Kabupaten Bener Meriah",
+        "jumlah": {
+            "kecamatan": 10,
+            "desa": 232
+        }
+    },
+    {
+        "code": "1111",
+        "type": "Kabupaten",
+        "name": "Bireuen",
+        "fullname": "Kabupaten Bireuen",
+        "jumlah": {
+            "kecamatan": 17,
+            "desa": 609
+        }
+    },
+    {
+        "code": "1113",
+        "type": "Kabupaten",
+        "name": "Gayo Lues",
+        "fullname": "Kabupaten Gayo Lues",
+        "jumlah": {
+            "kecamatan": 11,
+            "desa": 136
+        }
+    },
+    {
+        "code": "1174",
+        "type": "Kota",
+        "name": "Langsa",
+        "fullname": "Kota Langsa",
+        "jumlah": {
+            "kecamatan": 5,
+            "desa": 66
+        }
+    },
+    {
+        "code": "1173",
+        "type": "Kota",
+        "name": "Lhokseumawe",
+        "fullname": "Kota Lhokseumawe",
+        "jumlah": {
+            "kecamatan": 4,
+            "desa": 68
+        }
+    },
+    {
+        "code": "1115",
+        "type": "Kabupaten",
+        "name": "Nagan Raya",
+        "fullname": "Kabupaten Nagan Raya",
+        "jumlah": {
+            "kecamatan": 10,
+            "desa": 222
+        }
+    },
+    {
+        "code": "1107",
+        "type": "Kabupaten",
+        "name": "Pidie",
+        "fullname": "Kabupaten Pidie",
+        "jumlah": {
+            "kecamatan": 23,
+            "desa": 730
+        }
+    },
+    {
+        "code": "1118",
+        "type": "Kabupaten",
+        "name": "Pidie Jaya",
+        "fullname": "Kabupaten Pidie Jaya",
+        "jumlah": {
+            "kecamatan": 8,
+            "desa": 222
+        }
+    },
+    {
+        "code": "1172",
+        "type": "Kota",
+        "name": "Sabang",
+        "fullname": "Kota Sabang",
+        "jumlah": {
+            "kecamatan": 2,
+            "desa": 18
+        }
+    },
+    {
+        "code": "1109",
+        "type": "Kabupaten",
+        "name": "Simeulue",
+        "fullname": "Kabupaten Simeulue",
+        "jumlah": {
+            "kecamatan": 10,
+            "desa": 138
+        }
+    },
+    {
+        "code": "1175",
+        "type": "Kota",
+        "name": "Subulussalam",
+        "fullname": "Kota Subulussalam",
+        "jumlah": {
+            "kecamatan": 5,
+            "desa": 82
+        }
+    }
+]

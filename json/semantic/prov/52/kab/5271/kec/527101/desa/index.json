@@ -1,0 +1,52 @@
+[
+    {
+        "code": "5271011004",
+        "name": "Ampenan Selatan",
+        "poscode": "83114"
+    },
+    {
+        "code": "5271011005",
+        "name": "Ampenan Tengah",
+        "poscode": "83112"
+    },
+    {
+        "code": "5271011007",
+        "name": "Ampenan Utara",
+        "poscode": "83511"
+    },
+    {
+        "code": "5271011009",
+        "name": "Banjar",
+        "poscode": "83118"
+    },
+    {
+        "code": "5271011013",
+        "name": "Bintaro",
+        "poscode": "83118"
+    },
+    {
+        "code": "5271011012",
+        "name": "Dayan Peken (Doyan Peken)",
+        "poscode": "83118"
+    },
+    {
+        "code": "5271011010",
+        "name": "Kebun Sari (Kebunsari)",
+        "poscode": "83118"
+    },
+    {
+        "code": "5271011011",
+        "name": "Pajarakan Karya",
+        "poscode": "83118"
+    },
+    {
+        "code": "5271011006",
+        "name": "Pejeruk",
+        "poscode": "83113"
+    },
+    {
+        "code": "5271011008",
+        "name": "Taman Sari (Tamansari)",
+        "poscode": "83118"
+    }
+]

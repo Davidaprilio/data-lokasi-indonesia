@@ -1,0 +1,42 @@
+[
+    {
+        "code": "1601322001",
+        "name": "Bunglai",
+        "poscode": "32193"
+    },
+    {
+        "code": "1601322003",
+        "name": "Kampai",
+        "poscode": "32193"
+    },
+    {
+        "code": "1601322002",
+        "name": "Kedaton",
+        "poscode": "32193"
+    },
+    {
+        "code": "1601322005",
+        "name": "Kedaton Timur",
+        "poscode": "32193"
+    },
+    {
+        "code": "1601322008",
+        "name": "Lubuk Kemiling",
+        "poscode": "32193"
+    },
+    {
+        "code": "1601322004",
+        "name": "Rantau Panjang",
+        "poscode": "32193"
+    },
+    {
+        "code": "1601322007",
+        "name": "Sinar Kedaton",
+        "poscode": "32193"
+    },
+    {
+        "code": "1601322006",
+        "name": "Suka Pindah",
+        "poscode": "32193"
+    }
+]

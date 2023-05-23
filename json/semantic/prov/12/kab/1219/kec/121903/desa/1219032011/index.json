@@ -1,0 +1,17 @@
+{
+    "code": "1219032011",
+    "name": "Tanjungkubah (Tanjung Kubah)",
+    "poscode": "21256",
+    "provinsi": {
+        "code": "12",
+        "name": "Sumatera Utara"
+    },
+    "kabupaten": {
+        "code": "1219",
+        "name": "Batu Bara"
+    },
+    "kecamatan": {
+        "code": "121903",
+        "name": "Air Putih"
+    }
+}

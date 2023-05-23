@@ -1,0 +1,17 @@
+{
+    "code": "5204081003",
+    "name": "Pekat",
+    "poscode": "84315",
+    "provinsi": {
+        "code": "52",
+        "name": "Nusa Tenggara Barat (NTB)"
+    },
+    "kabupaten": {
+        "code": "5204",
+        "name": "Sumbawa"
+    },
+    "kecamatan": {
+        "code": "520408",
+        "name": "Sumbawa"
+    }
+}

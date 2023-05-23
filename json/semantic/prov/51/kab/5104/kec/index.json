@@ -1,0 +1,51 @@
+[
+    {
+        "code": "510402",
+        "name": "Belah Batuh (Blahbatuh)",
+        "count": {
+            "desa": 9
+        }
+    },
+    {
+        "code": "510403",
+        "name": "Gianyar",
+        "count": {
+            "desa": 17
+        }
+    },
+    {
+        "code": "510407",
+        "name": "Payangan",
+        "count": {
+            "desa": 9
+        }
+    },
+    {
+        "code": "510401",
+        "name": "Sukawati",
+        "count": {
+            "desa": 12
+        }
+    },
+    {
+        "code": "510404",
+        "name": "Tampaksiring (Tampak Siring)",
+        "count": {
+            "desa": 8
+        }
+    },
+    {
+        "code": "510406",
+        "name": "Tegallalang",
+        "count": {
+            "desa": 7
+        }
+    },
+    {
+        "code": "510405",
+        "name": "Ubud",
+        "count": {
+            "desa": 8
+        }
+    }
+]

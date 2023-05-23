@@ -1,0 +1,17 @@
+{
+    "code": "3301211001",
+    "name": "Sidakaya",
+    "poscode": "53212",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3301",
+        "name": "Cilacap"
+    },
+    "kecamatan": {
+        "code": "330121",
+        "name": "Cilacap Selatan"
+    }
+}

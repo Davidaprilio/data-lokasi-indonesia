@@ -1,0 +1,17 @@
+{
+    "code": "5207072002",
+    "name": "Kalimantong",
+    "poscode": "84455",
+    "provinsi": {
+        "code": "52",
+        "name": "Nusa Tenggara Barat (NTB)"
+    },
+    "kabupaten": {
+        "code": "5207",
+        "name": "Sumbawa Barat"
+    },
+    "kecamatan": {
+        "code": "520707",
+        "name": "Brang Ene"
+    }
+}

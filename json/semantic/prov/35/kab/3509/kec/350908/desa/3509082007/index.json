@@ -1,0 +1,17 @@
+{
+    "code": "3509082007",
+    "name": "Bagon",
+    "poscode": "68164",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3509",
+        "name": "Jember"
+    },
+    "kecamatan": {
+        "code": "350908",
+        "name": "Puger"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "code": "14",
+    "name": "Riau",
+    "jumlah": {
+        "kota": 2,
+        "kabupaten": 10,
+        "kecamatan": 172,
+        "desa": 1
+    }
+}

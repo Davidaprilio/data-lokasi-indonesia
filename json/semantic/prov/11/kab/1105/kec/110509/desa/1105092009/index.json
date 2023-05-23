@@ -1,0 +1,17 @@
+{
+    "code": "1105092009",
+    "name": "Paya Baro Ranto P (Paya Baro RP)",
+    "poscode": "23615",
+    "provinsi": {
+        "code": "11",
+        "name": "Aceh (NAD)"
+    },
+    "kabupaten": {
+        "code": "1105",
+        "name": "Aceh Barat"
+    },
+    "kecamatan": {
+        "code": "110509",
+        "name": "Meureubo"
+    }
+}

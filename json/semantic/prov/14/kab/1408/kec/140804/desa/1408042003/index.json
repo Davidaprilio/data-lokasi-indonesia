@@ -1,0 +1,17 @@
+{
+    "code": "1408042003",
+    "name": "Pinang Sebatang",
+    "poscode": "28772",
+    "provinsi": {
+        "code": "14",
+        "name": "Riau"
+    },
+    "kabupaten": {
+        "code": "1408",
+        "name": "Siak"
+    },
+    "kecamatan": {
+        "code": "140804",
+        "name": "Tualang"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "1204282003",
+    "name": "Sihare'o III (Sihaero III)",
+    "poscode": "22855",
+    "provinsi": {
+        "code": "12",
+        "name": "Sumatera Utara"
+    },
+    "kabupaten": {
+        "code": "1204",
+        "name": "Nias"
+    },
+    "kecamatan": {
+        "code": "120428",
+        "name": "Ma'u"
+    }
+}

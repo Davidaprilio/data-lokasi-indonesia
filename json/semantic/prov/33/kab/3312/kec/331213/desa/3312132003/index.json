@@ -1,0 +1,17 @@
+{
+    "code": "3312132003",
+    "name": "Gedong",
+    "poscode": "57681",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3312",
+        "name": "Wonogiri"
+    },
+    "kecamatan": {
+        "code": "331213",
+        "name": "Ngadirojo"
+    }
+}

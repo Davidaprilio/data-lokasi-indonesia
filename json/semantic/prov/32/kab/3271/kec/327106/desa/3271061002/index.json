@@ -1,0 +1,17 @@
+{
+    "code": "3271061002",
+    "name": "Kebon Pedes",
+    "poscode": "16162",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3271",
+        "name": "Bogor"
+    },
+    "kecamatan": {
+        "code": "327106",
+        "name": "Tanah Sareal (Tanah Sereal)"
+    }
+}

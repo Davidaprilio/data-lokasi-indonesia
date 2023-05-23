@@ -1,0 +1,17 @@
+{
+    "code": "1106072018",
+    "name": "Deunong",
+    "poscode": "23352",
+    "provinsi": {
+        "code": "11",
+        "name": "Aceh (NAD)"
+    },
+    "kabupaten": {
+        "code": "1106",
+        "name": "Aceh Besar"
+    },
+    "kecamatan": {
+        "code": "110607",
+        "name": "Darul Imarah"
+    }
+}

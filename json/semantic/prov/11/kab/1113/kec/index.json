@@ -1,0 +1,79 @@
+[
+    {
+        "code": "111309",
+        "name": "Blangjerango (Blang Jerango)",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "111301",
+        "name": "Blangkejeren (Blang Kejeren)",
+        "count": {
+            "desa": 20
+        }
+    },
+    {
+        "code": "111306",
+        "name": "Blangpegayon (Blang Pegayon)",
+        "count": {
+            "desa": 12
+        }
+    },
+    {
+        "code": "111308",
+        "name": "Dabun Gelang (Debun Gelang)",
+        "count": {
+            "desa": 9
+        }
+    },
+    {
+        "code": "111302",
+        "name": "Kutapanjang (Kuta Panjang)",
+        "count": {
+            "desa": 12
+        }
+    },
+    {
+        "code": "111311",
+        "name": "Pantan Cuaca",
+        "count": {
+            "desa": 9
+        }
+    },
+    {
+        "code": "111305",
+        "name": "Pining (Pinding)",
+        "count": {
+            "desa": 9
+        }
+    },
+    {
+        "code": "111307",
+        "name": "Puteri Betung (Putri Betung)",
+        "count": {
+            "desa": 9
+        }
+    },
+    {
+        "code": "111303",
+        "name": "Rikit Gaib",
+        "count": {
+            "desa": 13
+        }
+    },
+    {
+        "code": "111304",
+        "name": "Terangun (Terangon)",
+        "count": {
+            "desa": 23
+        }
+    },
+    {
+        "code": "111310",
+        "name": "Teripe/Tripe Jaya",
+        "count": {
+            "desa": 10
+        }
+    }
+]

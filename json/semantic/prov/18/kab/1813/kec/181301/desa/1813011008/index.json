@@ -1,0 +1,17 @@
+{
+    "code": "1813011008",
+    "name": "Pasar Kota Krui (Kota Pasar Krui)",
+    "poscode": "34894",
+    "provinsi": {
+        "code": "18",
+        "name": "Lampung"
+    },
+    "kabupaten": {
+        "code": "1813",
+        "name": "Pesisir Barat"
+    },
+    "kecamatan": {
+        "code": "181301",
+        "name": "Pesisir Tengah"
+    }
+}

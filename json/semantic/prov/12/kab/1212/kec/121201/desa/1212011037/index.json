@@ -1,0 +1,17 @@
+{
+    "code": "1212011037",
+    "name": "Sangkar Nihuta",
+    "poscode": "22312",
+    "provinsi": {
+        "code": "12",
+        "name": "Sumatera Utara"
+    },
+    "kabupaten": {
+        "code": "1212",
+        "name": "Toba"
+    },
+    "kecamatan": {
+        "code": "121201",
+        "name": "Balige"
+    }
+}

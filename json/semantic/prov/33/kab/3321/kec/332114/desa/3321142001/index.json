@@ -1,0 +1,17 @@
+{
+    "code": "3321142001",
+    "name": "Pilangwetan",
+    "poscode": "59583",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3321",
+        "name": "Demak"
+    },
+    "kecamatan": {
+        "code": "332114",
+        "name": "Kebonagung"
+    }
+}

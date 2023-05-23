@@ -1,0 +1,17 @@
+{
+    "code": "9404162006",
+    "name": "Mawokau Jaya",
+    "poscode": "99963",
+    "provinsi": {
+        "code": "94",
+        "name": "Papua Tengah"
+    },
+    "kabupaten": {
+        "code": "9404",
+        "name": "Mimika"
+    },
+    "kecamatan": {
+        "code": "940416",
+        "name": "Wania"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "7205072009",
+    "name": "Monggonit",
+    "poscode": "94566",
+    "provinsi": {
+        "code": "72",
+        "name": "Sulawesi Tengah"
+    },
+    "kabupaten": {
+        "code": "7205",
+        "name": "Buol"
+    },
+    "kecamatan": {
+        "code": "720507",
+        "name": "Tiloan"
+    }
+}

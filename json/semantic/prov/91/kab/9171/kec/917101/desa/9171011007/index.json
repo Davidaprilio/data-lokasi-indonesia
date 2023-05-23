@@ -1,0 +1,17 @@
+{
+    "code": "9171011007",
+    "name": "Angkasapura",
+    "poscode": "99113",
+    "provinsi": {
+        "code": "91",
+        "name": "Papua"
+    },
+    "kabupaten": {
+        "code": "9171",
+        "name": "Jayapura"
+    },
+    "kecamatan": {
+        "code": "917101",
+        "name": "Jayapura Utara"
+    }
+}

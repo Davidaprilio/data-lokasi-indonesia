@@ -1,0 +1,17 @@
+{
+    "code": "1112012008",
+    "name": "Lhung Asan",
+    "poscode": "23764",
+    "provinsi": {
+        "code": "11",
+        "name": "Aceh (NAD)"
+    },
+    "kabupaten": {
+        "code": "1112",
+        "name": "Aceh Barat Daya"
+    },
+    "kecamatan": {
+        "code": "111201",
+        "name": "Blang Pidie"
+    }
+}

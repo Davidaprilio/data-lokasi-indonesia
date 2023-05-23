@@ -1,0 +1,17 @@
+{
+    "code": "1374011001",
+    "name": "Ganting",
+    "poscode": "27127",
+    "provinsi": {
+        "code": "13",
+        "name": "Sumatera Barat"
+    },
+    "kabupaten": {
+        "code": "1374",
+        "name": "Padang Panjang"
+    },
+    "kecamatan": {
+        "code": "137401",
+        "name": "Padang Panjang Timur"
+    }
+}

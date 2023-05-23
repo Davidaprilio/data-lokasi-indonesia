@@ -1,0 +1,17 @@
+{
+    "code": "6104252002",
+    "name": "Sei/Sungai Melayu Baru",
+    "poscode": "78875",
+    "provinsi": {
+        "code": "61",
+        "name": "Kalimantan Barat"
+    },
+    "kabupaten": {
+        "code": "6104",
+        "name": "Ketapang"
+    },
+    "kecamatan": {
+        "code": "610425",
+        "name": "Sungai Melayu Rayak"
+    }
+}

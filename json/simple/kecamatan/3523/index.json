@@ -1,0 +1,142 @@
+[
+    {
+        "code": "352304",
+        "name": "Bancar",
+        "count": {
+            "desa": 24
+        }
+    },
+    {
+        "code": "352303",
+        "name": "Bangilan",
+        "count": {
+            "desa": 14
+        }
+    },
+    {
+        "code": "352320",
+        "name": "Grabagan",
+        "count": {
+            "desa": 11
+        }
+    },
+    {
+        "code": "352302",
+        "name": "Jatirogo",
+        "count": {
+            "desa": 18
+        }
+    },
+    {
+        "code": "352312",
+        "name": "Jenu",
+        "count": {
+            "desa": 17
+        }
+    },
+    {
+        "code": "352301",
+        "name": "Kenduruan",
+        "count": {
+            "desa": 9
+        }
+    },
+    {
+        "code": "352308",
+        "name": "Kerek",
+        "count": {
+            "desa": 17
+        }
+    },
+    {
+        "code": "352313",
+        "name": "Merakurak",
+        "count": {
+            "desa": 19
+        }
+    },
+    {
+        "code": "352310",
+        "name": "Montong",
+        "count": {
+            "desa": 13
+        }
+    },
+    {
+        "code": "352318",
+        "name": "Palang",
+        "count": {
+            "desa": 19
+        }
+    },
+    {
+        "code": "352309",
+        "name": "Parengan",
+        "count": {
+            "desa": 18
+        }
+    },
+    {
+        "code": "352317",
+        "name": "Plumpang",
+        "count": {
+            "desa": 18
+        }
+    },
+    {
+        "code": "352314",
+        "name": "Rengel",
+        "count": {
+            "desa": 16
+        }
+    },
+    {
+        "code": "352315",
+        "name": "Semanding",
+        "count": {
+            "desa": 17
+        }
+    },
+    {
+        "code": "352305",
+        "name": "Senori",
+        "count": {
+            "desa": 12
+        }
+    },
+    {
+        "code": "352307",
+        "name": "Singgahan",
+        "count": {
+            "desa": 12
+        }
+    },
+    {
+        "code": "352311",
+        "name": "Soko",
+        "count": {
+            "desa": 23
+        }
+    },
+    {
+        "code": "352306",
+        "name": "Tambakboyo",
+        "count": {
+            "desa": 18
+        }
+    },
+    {
+        "code": "352316",
+        "name": "Tuban",
+        "count": {
+            "desa": 17
+        }
+    },
+    {
+        "code": "352319",
+        "name": "Widang",
+        "count": {
+            "desa": 16
+        }
+    }
+]

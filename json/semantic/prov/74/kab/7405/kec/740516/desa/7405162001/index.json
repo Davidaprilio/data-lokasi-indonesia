@@ -1,0 +1,17 @@
+{
+    "code": "7405162001",
+    "name": "Puasana",
+    "poscode": "93890",
+    "provinsi": {
+        "code": "74",
+        "name": "Sulawesi Tenggara"
+    },
+    "kabupaten": {
+        "code": "7405",
+        "name": "Konawe Selatan"
+    },
+    "kecamatan": {
+        "code": "740516",
+        "name": "Moramo Utara"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "5306031011",
+    "name": "Ekasapta",
+    "poscode": "86217",
+    "provinsi": {
+        "code": "53",
+        "name": "Nusa Tenggara Timur (NTT)"
+    },
+    "kabupaten": {
+        "code": "5306",
+        "name": "Flores Timur"
+    },
+    "kecamatan": {
+        "code": "530603",
+        "name": "Larantuka"
+    }
+}

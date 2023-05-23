@@ -1,0 +1,17 @@
+{
+    "code": "8272081001",
+    "name": "Mafututu",
+    "poscode": "97822",
+    "provinsi": {
+        "code": "82",
+        "name": "Maluku Utara"
+    },
+    "kabupaten": {
+        "code": "8272",
+        "name": "Tidore Kepulauan"
+    },
+    "kecamatan": {
+        "code": "827208",
+        "name": "Tidore Timur"
+    }
+}

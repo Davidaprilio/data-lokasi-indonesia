@@ -1,0 +1,17 @@
+{
+    "code": "5314072003",
+    "name": "Oenggaut",
+    "poscode": "85982",
+    "provinsi": {
+        "code": "53",
+        "name": "Nusa Tenggara Timur (NTT)"
+    },
+    "kabupaten": {
+        "code": "5314",
+        "name": "Rote Ndao"
+    },
+    "kecamatan": {
+        "code": "531407",
+        "name": "Rote Barat"
+    }
+}

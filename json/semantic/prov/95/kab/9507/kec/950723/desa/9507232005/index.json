@@ -1,0 +1,17 @@
+{
+    "code": "9507232005",
+    "name": "Mume",
+    "poscode": "99596",
+    "provinsi": {
+        "code": "95",
+        "name": "Papua Pegunungan"
+    },
+    "kabupaten": {
+        "code": "9507",
+        "name": "Lanny Jaya"
+    },
+    "kecamatan": {
+        "code": "950723",
+        "name": "Wano Barat"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "1407102012",
+    "name": "Bangko Permata",
+    "poscode": "28993",
+    "provinsi": {
+        "code": "14",
+        "name": "Riau"
+    },
+    "kabupaten": {
+        "code": "1407",
+        "name": "Rokan Hilir"
+    },
+    "kecamatan": {
+        "code": "140710",
+        "name": "Bangko Pusaka (Pusako)"
+    }
+}

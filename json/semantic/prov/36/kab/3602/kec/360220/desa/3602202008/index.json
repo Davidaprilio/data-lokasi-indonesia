@@ -1,0 +1,17 @@
+{
+    "code": "3602202008",
+    "name": "Girimukti",
+    "poscode": "42398",
+    "provinsi": {
+        "code": "36",
+        "name": "Banten"
+    },
+    "kabupaten": {
+        "code": "3602",
+        "name": "Lebak"
+    },
+    "kecamatan": {
+        "code": "360220",
+        "name": "Cilograng"
+    }
+}

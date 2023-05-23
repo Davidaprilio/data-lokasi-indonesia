@@ -1,0 +1,17 @@
+{
+    "code": "1208322001",
+    "name": "Raya Huluan",
+    "poscode": "21164",
+    "provinsi": {
+        "code": "12",
+        "name": "Sumatera Utara"
+    },
+    "kabupaten": {
+        "code": "1208",
+        "name": "Simalungun"
+    },
+    "kecamatan": {
+        "code": "120832",
+        "name": "Dolog Masagal"
+    }
+}

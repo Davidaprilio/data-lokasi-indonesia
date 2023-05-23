@@ -1,0 +1,17 @@
+{
+    "code": "1603252004",
+    "name": "Sumber Mulya",
+    "poscode": "31174",
+    "provinsi": {
+        "code": "16",
+        "name": "Sumatera Selatan"
+    },
+    "kabupaten": {
+        "code": "1603",
+        "name": "Muara Enim"
+    },
+    "kecamatan": {
+        "code": "160325",
+        "name": "Lubai Ulu"
+    }
+}

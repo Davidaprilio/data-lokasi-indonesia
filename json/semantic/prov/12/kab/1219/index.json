@@ -1,0 +1,10 @@
+{
+    "code": "1219",
+    "type": "Kabupaten",
+    "name": "Batu Bara",
+    "fullname": "Kabupaten Batu Bara",
+    "jumlah": {
+        "kecamatan": 12,
+        "desa": 151
+    }
+}

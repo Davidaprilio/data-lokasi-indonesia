@@ -1,0 +1,17 @@
+{
+    "code": "3505142012",
+    "name": "Jajar",
+    "poscode": "66183",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3505",
+        "name": "Blitar"
+    },
+    "kecamatan": {
+        "code": "350514",
+        "name": "Talun"
+    }
+}

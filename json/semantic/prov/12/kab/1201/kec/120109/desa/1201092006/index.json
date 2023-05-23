@@ -1,0 +1,17 @@
+{
+    "code": "1201092006",
+    "name": "Muara Bolak",
+    "poscode": "22568",
+    "provinsi": {
+        "code": "12",
+        "name": "Sumatera Utara"
+    },
+    "kabupaten": {
+        "code": "1201",
+        "name": "Tapanuli Tengah"
+    },
+    "kecamatan": {
+        "code": "120109",
+        "name": "Sosorgadong (Sosor Gadong)"
+    }
+}

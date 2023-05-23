@@ -1,0 +1,17 @@
+{
+    "code": "1505072021",
+    "name": "Bukit Mas",
+    "poscode": "36365",
+    "provinsi": {
+        "code": "15",
+        "name": "Jambi"
+    },
+    "kabupaten": {
+        "code": "1505",
+        "name": "Muaro Jambi"
+    },
+    "kecamatan": {
+        "code": "150507",
+        "name": "Sungai Bahar"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "3524082006",
+    "name": "Pesanggrahan",
+    "poscode": "62262",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3524",
+        "name": "Lamongan"
+    },
+    "kecamatan": {
+        "code": "352408",
+        "name": "Laren"
+    }
+}

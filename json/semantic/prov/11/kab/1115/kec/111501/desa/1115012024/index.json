@@ -1,0 +1,17 @@
+{
+    "code": "1115012024",
+    "name": "Alue Ie Mameh",
+    "poscode": "23661",
+    "provinsi": {
+        "code": "11",
+        "name": "Aceh (NAD)"
+    },
+    "kabupaten": {
+        "code": "1115",
+        "name": "Nagan Raya"
+    },
+    "kecamatan": {
+        "code": "111501",
+        "name": "Kuala"
+    }
+}

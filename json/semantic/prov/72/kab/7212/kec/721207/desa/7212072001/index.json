@@ -1,0 +1,17 @@
+{
+    "code": "7212072001",
+    "name": "Lembah Sumara (Lembasumara)",
+    "poscode": "94969",
+    "provinsi": {
+        "code": "72",
+        "name": "Sulawesi Tengah"
+    },
+    "kabupaten": {
+        "code": "7212",
+        "name": "Morowali Utara"
+    },
+    "kecamatan": {
+        "code": "721207",
+        "name": "Soyo Jaya"
+    }
+}

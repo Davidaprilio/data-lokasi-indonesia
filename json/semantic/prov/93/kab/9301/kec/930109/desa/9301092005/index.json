@@ -1,0 +1,17 @@
+{
+    "code": "9301092005",
+    "name": "Kafyamke",
+    "poscode": "99635",
+    "provinsi": {
+        "code": "93",
+        "name": "Papua Selatan"
+    },
+    "kabupaten": {
+        "code": "9301",
+        "name": "Merauke"
+    },
+    "kecamatan": {
+        "code": "930109",
+        "name": "Ulilin"
+    }
+}

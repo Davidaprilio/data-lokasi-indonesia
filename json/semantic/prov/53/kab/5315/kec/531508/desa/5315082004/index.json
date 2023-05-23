@@ -1,0 +1,17 @@
+{
+    "code": "5315082004",
+    "name": "Kasong",
+    "poscode": "86750",
+    "provinsi": {
+        "code": "53",
+        "name": "Nusa Tenggara Timur (NTT)"
+    },
+    "kabupaten": {
+        "code": "5315",
+        "name": "Manggarai Barat"
+    },
+    "kecamatan": {
+        "code": "531508",
+        "name": "Ndoso"
+    }
+}

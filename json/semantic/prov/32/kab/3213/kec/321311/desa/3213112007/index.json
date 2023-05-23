@@ -1,0 +1,17 @@
+{
+    "code": "3213112007",
+    "name": "Pamanukan Sebrang",
+    "poscode": "41264",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3213",
+        "name": "Subang"
+    },
+    "kecamatan": {
+        "code": "321311",
+        "name": "Pamanukan"
+    }
+}

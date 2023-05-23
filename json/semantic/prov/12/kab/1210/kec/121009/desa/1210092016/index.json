@@ -1,0 +1,17 @@
+{
+    "code": "1210092016",
+    "name": "N 6/Enam Aek Nabara",
+    "poscode": "21451",
+    "provinsi": {
+        "code": "12",
+        "name": "Sumatera Utara"
+    },
+    "kabupaten": {
+        "code": "1210",
+        "name": "Labuhanbatu"
+    },
+    "kecamatan": {
+        "code": "121009",
+        "name": "Bilah Hulu"
+    }
+}

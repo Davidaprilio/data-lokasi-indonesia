@@ -1,0 +1,17 @@
+{
+    "code": "1311052005",
+    "name": "Sitapus",
+    "poscode": "27779",
+    "provinsi": {
+        "code": "13",
+        "name": "Sumatera Barat"
+    },
+    "kabupaten": {
+        "code": "1311",
+        "name": "Solok Selatan"
+    },
+    "kecamatan": {
+        "code": "131105",
+        "name": "Sangir Batang Hari"
+    }
+}

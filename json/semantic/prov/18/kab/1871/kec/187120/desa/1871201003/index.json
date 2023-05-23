@@ -1,0 +1,17 @@
+{
+    "code": "1871201003",
+    "name": "Garuntang",
+    "poscode": "35227",
+    "provinsi": {
+        "code": "18",
+        "name": "Lampung"
+    },
+    "kabupaten": {
+        "code": "1871",
+        "name": "Bandar Lampung"
+    },
+    "kecamatan": {
+        "code": "187120",
+        "name": "Bumi Waras"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "3206132004",
+    "name": "Purwarahayu",
+    "poscode": "46474",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3206",
+        "name": "Tasikmalaya"
+    },
+    "kecamatan": {
+        "code": "320613",
+        "name": "Taraju"
+    }
+}

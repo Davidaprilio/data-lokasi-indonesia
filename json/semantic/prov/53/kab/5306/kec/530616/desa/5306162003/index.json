@@ -1,0 +1,17 @@
+{
+    "code": "5306162003",
+    "name": "Nurri",
+    "poscode": "86254",
+    "provinsi": {
+        "code": "53",
+        "name": "Nusa Tenggara Timur (NTT)"
+    },
+    "kabupaten": {
+        "code": "5306",
+        "name": "Flores Timur"
+    },
+    "kecamatan": {
+        "code": "530616",
+        "name": "Ile Bura"
+    }
+}

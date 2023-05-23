@@ -1,0 +1,52 @@
+[
+    {
+        "code": "6203011006",
+        "name": "Murung Keramat",
+        "poscode": "73512"
+    },
+    {
+        "code": "6203011023",
+        "name": "Panamas",
+        "poscode": "73514"
+    },
+    {
+        "code": "6203012011",
+        "name": "Pulau Telo",
+        "poscode": "73516"
+    },
+    {
+        "code": "6203012020",
+        "name": "Pulau Telo Baru",
+        "poscode": "73516"
+    },
+    {
+        "code": "6203011022",
+        "name": "Selat Barat",
+        "poscode": "73514"
+    },
+    {
+        "code": "6203011010",
+        "name": "Selat Dalam",
+        "poscode": "73516"
+    },
+    {
+        "code": "6203011007",
+        "name": "Selat Hilir",
+        "poscode": "73513"
+    },
+    {
+        "code": "6203011009",
+        "name": "Selat Hulu",
+        "poscode": "73515"
+    },
+    {
+        "code": "6203011008",
+        "name": "Selat Tengah",
+        "poscode": "73514"
+    },
+    {
+        "code": "6203011021",
+        "name": "Selat Utara",
+        "poscode": "73516"
+    }
+]

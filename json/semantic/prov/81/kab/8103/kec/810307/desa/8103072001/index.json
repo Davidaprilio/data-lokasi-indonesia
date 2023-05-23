@@ -1,0 +1,17 @@
+{
+    "code": "8103072001",
+    "name": "Abat",
+    "poscode": "97465",
+    "provinsi": {
+        "code": "81",
+        "name": "Maluku"
+    },
+    "kabupaten": {
+        "code": "8103",
+        "name": "Kepulauan Tanimbar (Maluku Tenggara Barat)"
+    },
+    "kecamatan": {
+        "code": "810307",
+        "name": "Wuar Labobar"
+    }
+}

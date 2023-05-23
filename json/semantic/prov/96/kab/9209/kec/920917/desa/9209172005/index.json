@@ -1,0 +1,17 @@
+{
+    "code": "9209172005",
+    "name": "Atafrumek",
+    "poscode": "98367",
+    "provinsi": {
+        "code": "96",
+        "name": "Papua Barat Daya"
+    },
+    "kabupaten": {
+        "code": "9209",
+        "name": "Tambrauw"
+    },
+    "kecamatan": {
+        "code": "920917",
+        "name": "Ireres"
+    }
+}

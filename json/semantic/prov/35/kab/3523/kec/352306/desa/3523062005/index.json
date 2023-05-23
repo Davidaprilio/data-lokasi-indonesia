@@ -1,0 +1,17 @@
+{
+    "code": "3523062005",
+    "name": "Belikanget",
+    "poscode": "62353",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3523",
+        "name": "Tuban"
+    },
+    "kecamatan": {
+        "code": "352306",
+        "name": "Tambakboyo"
+    }
+}

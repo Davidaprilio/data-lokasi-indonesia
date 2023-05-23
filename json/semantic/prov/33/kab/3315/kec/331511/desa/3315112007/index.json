@@ -1,0 +1,17 @@
+{
+    "code": "3315112007",
+    "name": "Pojok",
+    "poscode": "58191",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3315",
+        "name": "Grobogan"
+    },
+    "kecamatan": {
+        "code": "331511",
+        "name": "Tawangharjo"
+    }
+}

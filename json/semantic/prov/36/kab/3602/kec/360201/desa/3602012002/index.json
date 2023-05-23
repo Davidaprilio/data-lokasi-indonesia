@@ -1,0 +1,17 @@
+{
+    "code": "3602012002",
+    "name": "Cilangkahan",
+    "poscode": "42391",
+    "provinsi": {
+        "code": "36",
+        "name": "Banten"
+    },
+    "kabupaten": {
+        "code": "3602",
+        "name": "Lebak"
+    },
+    "kecamatan": {
+        "code": "360201",
+        "name": "Malingping"
+    }
+}

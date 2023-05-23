@@ -1,0 +1,10 @@
+{
+    "code": "1408",
+    "type": "Kabupaten",
+    "name": "Siak",
+    "fullname": "Kabupaten Siak",
+    "jumlah": {
+        "kecamatan": 14,
+        "desa": 131
+    }
+}

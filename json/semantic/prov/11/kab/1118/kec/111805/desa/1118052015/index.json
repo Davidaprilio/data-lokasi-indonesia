@@ -1,0 +1,17 @@
+{
+    "code": "1118052015",
+    "name": "Lueng Bimba",
+    "poscode": "24186",
+    "provinsi": {
+        "code": "11",
+        "name": "Aceh (NAD)"
+    },
+    "kabupaten": {
+        "code": "1118",
+        "name": "Pidie Jaya"
+    },
+    "kecamatan": {
+        "code": "111805",
+        "name": "Meurah Dua"
+    }
+}

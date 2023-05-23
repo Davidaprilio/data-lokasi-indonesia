@@ -1,0 +1,17 @@
+{
+    "code": "8208072007",
+    "name": "Maluli",
+    "poscode": "97794",
+    "provinsi": {
+        "code": "82",
+        "name": "Maluku Utara"
+    },
+    "kabupaten": {
+        "code": "8208",
+        "name": "Pulau Taliabu"
+    },
+    "kecamatan": {
+        "code": "820807",
+        "name": "Taliabu Selatan"
+    }
+}

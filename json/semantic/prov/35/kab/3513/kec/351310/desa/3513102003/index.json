@@ -1,0 +1,17 @@
+{
+    "code": "3513102003",
+    "name": "Gunggungan Kidul",
+    "poscode": "67290",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3513",
+        "name": "Probolinggo"
+    },
+    "kecamatan": {
+        "code": "351310",
+        "name": "Pakuniran"
+    }
+}

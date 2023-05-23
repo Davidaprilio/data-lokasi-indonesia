@@ -1,0 +1,17 @@
+{
+    "code": "1401092005",
+    "name": "Batu Sanggan",
+    "poscode": "28474",
+    "provinsi": {
+        "code": "14",
+        "name": "Riau"
+    },
+    "kabupaten": {
+        "code": "1401",
+        "name": "Kampar"
+    },
+    "kecamatan": {
+        "code": "140109",
+        "name": "Kampar Kiri Hulu"
+    }
+}

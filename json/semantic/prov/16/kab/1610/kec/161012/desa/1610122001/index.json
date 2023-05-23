@@ -1,0 +1,17 @@
+{
+    "code": "1610122001",
+    "name": "Serijabo",
+    "poscode": "30662",
+    "provinsi": {
+        "code": "16",
+        "name": "Sumatera Selatan"
+    },
+    "kabupaten": {
+        "code": "1610",
+        "name": "Ogan Ilir"
+    },
+    "kecamatan": {
+        "code": "161012",
+        "name": "Sungai Pinang"
+    }
+}

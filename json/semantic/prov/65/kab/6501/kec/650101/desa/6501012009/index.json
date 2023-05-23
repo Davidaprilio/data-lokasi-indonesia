@@ -1,0 +1,17 @@
+{
+    "code": "6501012009",
+    "name": "Teras Nawang",
+    "poscode": "77214",
+    "provinsi": {
+        "code": "65",
+        "name": "Kalimantan Utara"
+    },
+    "kabupaten": {
+        "code": "6501",
+        "name": "Bulungan"
+    },
+    "kecamatan": {
+        "code": "650101",
+        "name": "Tanjung Palas"
+    }
+}

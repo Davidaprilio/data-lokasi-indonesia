@@ -1,0 +1,17 @@
+{
+    "code": "1217052010",
+    "name": "Turpuk Malau",
+    "poscode": "22391",
+    "provinsi": {
+        "code": "12",
+        "name": "Sumatera Utara"
+    },
+    "kabupaten": {
+        "code": "1217",
+        "name": "Samosir"
+    },
+    "kecamatan": {
+        "code": "121705",
+        "name": "Harian"
+    }
+}

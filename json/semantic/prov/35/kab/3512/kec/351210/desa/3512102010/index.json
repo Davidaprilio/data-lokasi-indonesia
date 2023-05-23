@@ -1,0 +1,17 @@
+{
+    "code": "3512102010",
+    "name": "Pokaan (Poka'an)",
+    "poscode": "68362",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3512",
+        "name": "Situbondo"
+    },
+    "kecamatan": {
+        "code": "351210",
+        "name": "Kapongan"
+    }
+}

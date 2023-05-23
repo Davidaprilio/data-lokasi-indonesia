@@ -1,0 +1,17 @@
+{
+    "code": "7304062004",
+    "name": "Beroanging",
+    "poscode": "92353",
+    "provinsi": {
+        "code": "73",
+        "name": "Sulawesi Selatan"
+    },
+    "kabupaten": {
+        "code": "7304",
+        "name": "Jeneponto"
+    },
+    "kecamatan": {
+        "code": "730406",
+        "name": "Bangkala Barat"
+    }
+}

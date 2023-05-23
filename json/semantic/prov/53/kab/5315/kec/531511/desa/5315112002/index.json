@@ -1,0 +1,17 @@
+{
+    "code": "5315112002",
+    "name": "Manong",
+    "poscode": "86755",
+    "provinsi": {
+        "code": "53",
+        "name": "Nusa Tenggara Timur (NTT)"
+    },
+    "kabupaten": {
+        "code": "5315",
+        "name": "Manggarai Barat"
+    },
+    "kecamatan": {
+        "code": "531511",
+        "name": "Pacar"
+    }
+}

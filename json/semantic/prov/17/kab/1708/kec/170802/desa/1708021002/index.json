@@ -1,0 +1,17 @@
+{
+    "code": "1708021002",
+    "name": "Ujan Mas Atas",
+    "poscode": "39370",
+    "provinsi": {
+        "code": "17",
+        "name": "Bengkulu"
+    },
+    "kabupaten": {
+        "code": "1708",
+        "name": "Kepahiang"
+    },
+    "kecamatan": {
+        "code": "170802",
+        "name": "Ujan Mas"
+    }
+}

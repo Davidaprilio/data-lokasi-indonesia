@@ -1,0 +1,17 @@
+{
+    "code": "6271011004",
+    "name": "Tumbang Rungan",
+    "poscode": "73111",
+    "provinsi": {
+        "code": "62",
+        "name": "Kalimantan Tengah"
+    },
+    "kabupaten": {
+        "code": "6271",
+        "name": "Palangkaraya"
+    },
+    "kecamatan": {
+        "code": "627101",
+        "name": "Pahandut"
+    }
+}

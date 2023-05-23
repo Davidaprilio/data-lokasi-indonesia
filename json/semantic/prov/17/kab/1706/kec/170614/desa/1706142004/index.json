@@ -1,0 +1,17 @@
+{
+    "code": "1706142004",
+    "name": "Sari Bulan",
+    "poscode": "38765",
+    "provinsi": {
+        "code": "17",
+        "name": "Bengkulu"
+    },
+    "kabupaten": {
+        "code": "1706",
+        "name": "Muko Muko"
+    },
+    "kecamatan": {
+        "code": "170614",
+        "name": "Air Dikit"
+    }
+}

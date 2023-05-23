@@ -1,0 +1,17 @@
+{
+    "code": "7202022018",
+    "name": "Tiwaa",
+    "poscode": "94652",
+    "provinsi": {
+        "code": "72",
+        "name": "Sulawesi Tengah"
+    },
+    "kabupaten": {
+        "code": "7202",
+        "name": "Poso"
+    },
+    "kecamatan": {
+        "code": "720202",
+        "name": "Poso Pesisir"
+    }
+}

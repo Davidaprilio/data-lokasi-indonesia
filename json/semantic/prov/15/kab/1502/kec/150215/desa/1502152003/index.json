@@ -1,0 +1,17 @@
+{
+    "code": "1502152003",
+    "name": "Sri Sembilan",
+    "poscode": "37355",
+    "provinsi": {
+        "code": "15",
+        "name": "Jambi"
+    },
+    "kabupaten": {
+        "code": "1502",
+        "name": "Merangin"
+    },
+    "kecamatan": {
+        "code": "150215",
+        "name": "Tabir Timur"
+    }
+}

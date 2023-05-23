@@ -1,0 +1,17 @@
+{
+    "code": "1903052012",
+    "name": "Paku",
+    "poscode": "33778",
+    "provinsi": {
+        "code": "19",
+        "name": "Kepulauan Bangka Belitung"
+    },
+    "kabupaten": {
+        "code": "1903",
+        "name": "Bangka Selatan"
+    },
+    "kecamatan": {
+        "code": "190305",
+        "name": "Payung"
+    }
+}

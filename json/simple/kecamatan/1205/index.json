@@ -1,0 +1,163 @@
+[
+    {
+        "code": "120514",
+        "name": "Babalan",
+        "count": {
+            "desa": 8
+        }
+    },
+    {
+        "code": "120501",
+        "name": "Bahorok",
+        "count": {
+            "desa": 19
+        }
+    },
+    {
+        "code": "120519",
+        "name": "Batang Serangan",
+        "count": {
+            "desa": 8
+        }
+    },
+    {
+        "code": "120518",
+        "name": "Berandan Barat (Brandan Barat)",
+        "count": {
+            "desa": 7
+        }
+    },
+    {
+        "code": "120516",
+        "name": "Besitang",
+        "count": {
+            "desa": 9
+        }
+    },
+    {
+        "code": "120505",
+        "name": "Binjai",
+        "count": {
+            "desa": 7
+        }
+    },
+    {
+        "code": "120513",
+        "name": "Gebang",
+        "count": {
+            "desa": 11
+        }
+    },
+    {
+        "code": "120510",
+        "name": "Hinai",
+        "count": {
+            "desa": 13
+        }
+    },
+    {
+        "code": "120503",
+        "name": "Kuala",
+        "count": {
+            "desa": 16
+        }
+    },
+    {
+        "code": "120522",
+        "name": "Kutambaru",
+        "count": {
+            "desa": 8
+        }
+    },
+    {
+        "code": "120512",
+        "name": "Padang Tualang",
+        "count": {
+            "desa": 12
+        }
+    },
+    {
+        "code": "120515",
+        "name": "Pangkalan Susu",
+        "count": {
+            "desa": 11
+        }
+    },
+    {
+        "code": "120523",
+        "name": "Pematang Jaya",
+        "count": {
+            "desa": 8
+        }
+    },
+    {
+        "code": "120502",
+        "name": "Salapian",
+        "count": {
+            "desa": 17
+        }
+    },
+    {
+        "code": "120520",
+        "name": "Sawit Seberang",
+        "count": {
+            "desa": 7
+        }
+    },
+    {
+        "code": "120509",
+        "name": "Secanggang",
+        "count": {
+            "desa": 17
+        }
+    },
+    {
+        "code": "120504",
+        "name": "Sei Bingei (Sei Binge / Bingai)",
+        "count": {
+            "desa": 16
+        }
+    },
+    {
+        "code": "120517",
+        "name": "Sei Lepan",
+        "count": {
+            "desa": 14
+        }
+    },
+    {
+        "code": "120506",
+        "name": "Selesai",
+        "count": {
+            "desa": 14
+        }
+    },
+    {
+        "code": "120521",
+        "name": "Sirapit (Serapit)",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "120507",
+        "name": "Stabat",
+        "count": {
+            "desa": 12
+        }
+    },
+    {
+        "code": "120511",
+        "name": "Tanjung Pura (Tanjungpura)",
+        "count": {
+            "desa": 19
+        }
+    },
+    {
+        "code": "120508",
+        "name": "Wampu",
+        "count": {
+            "desa": 14
+        }
+    }
+]

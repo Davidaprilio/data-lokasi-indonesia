@@ -1,0 +1,17 @@
+{
+    "code": "6211082003",
+    "name": "Sebangau Mulya",
+    "poscode": "74874",
+    "provinsi": {
+        "code": "62",
+        "name": "Kalimantan Tengah"
+    },
+    "kabupaten": {
+        "code": "6211",
+        "name": "Pulang Pisau"
+    },
+    "kecamatan": {
+        "code": "621108",
+        "name": "Sebangau Kuala"
+    }
+}

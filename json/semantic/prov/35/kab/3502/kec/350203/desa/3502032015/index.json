@@ -1,0 +1,17 @@
+{
+    "code": "3502032015",
+    "name": "Kupuk",
+    "poscode": "63462",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3502",
+        "name": "Ponorogo"
+    },
+    "kecamatan": {
+        "code": "350203",
+        "name": "Bungkal"
+    }
+}

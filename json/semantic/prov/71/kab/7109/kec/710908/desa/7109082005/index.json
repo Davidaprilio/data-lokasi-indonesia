@@ -1,0 +1,17 @@
+{
+    "code": "7109082005",
+    "name": "Batubulan",
+    "poscode": "95869",
+    "provinsi": {
+        "code": "71",
+        "name": "Sulawesi Utara"
+    },
+    "kabupaten": {
+        "code": "7109",
+        "name": "Kepulauan Siau Tagulandang Biaro (Sitaro)"
+    },
+    "kecamatan": {
+        "code": "710908",
+        "name": "Siau Barat Utara"
+    }
+}

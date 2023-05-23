@@ -1,0 +1,17 @@
+{
+    "code": "3210062001",
+    "name": "Cihaur",
+    "poscode": "45461",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3210",
+        "name": "Majalengka"
+    },
+    "kecamatan": {
+        "code": "321006",
+        "name": "Maja"
+    }
+}

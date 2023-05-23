@@ -1,0 +1,17 @@
+{
+    "code": "1306022005",
+    "name": "Manggopoh",
+    "poscode": "26451",
+    "provinsi": {
+        "code": "13",
+        "name": "Sumatera Barat"
+    },
+    "kabupaten": {
+        "code": "1306",
+        "name": "Agam"
+    },
+    "kecamatan": {
+        "code": "130602",
+        "name": "Lubuk Basung"
+    }
+}

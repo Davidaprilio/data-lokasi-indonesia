@@ -1,0 +1,17 @@
+{
+    "code": "8272041001",
+    "name": "Toloa",
+    "poscode": "97821",
+    "provinsi": {
+        "code": "82",
+        "name": "Maluku Utara"
+    },
+    "kabupaten": {
+        "code": "8272",
+        "name": "Tidore Kepulauan"
+    },
+    "kecamatan": {
+        "code": "827204",
+        "name": "Tidore Selatan"
+    }
+}

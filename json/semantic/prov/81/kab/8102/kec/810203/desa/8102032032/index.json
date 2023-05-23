@@ -1,0 +1,17 @@
+{
+    "code": "8102032032",
+    "name": "Ngurdu",
+    "poscode": "97631",
+    "provinsi": {
+        "code": "81",
+        "name": "Maluku"
+    },
+    "kabupaten": {
+        "code": "8102",
+        "name": "Maluku Tenggara"
+    },
+    "kecamatan": {
+        "code": "810203",
+        "name": "Kei Besar"
+    }
+}

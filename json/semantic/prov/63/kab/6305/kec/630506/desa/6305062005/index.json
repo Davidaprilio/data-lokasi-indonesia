@@ -1,0 +1,17 @@
+{
+    "code": "6305062005",
+    "name": "Batalas",
+    "poscode": "71171",
+    "provinsi": {
+        "code": "63",
+        "name": "Kalimantan Selatan"
+    },
+    "kabupaten": {
+        "code": "6305",
+        "name": "Tapin"
+    },
+    "kecamatan": {
+        "code": "630506",
+        "name": "Candi Laras Utara"
+    }
+}

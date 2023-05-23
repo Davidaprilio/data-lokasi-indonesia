@@ -1,0 +1,107 @@
+[
+    {
+        "code": "120203",
+        "name": "Adian Koting",
+        "count": {
+            "desa": 16
+        }
+    },
+    {
+        "code": "120214",
+        "name": "Garoga",
+        "count": {
+            "desa": 13
+        }
+    },
+    {
+        "code": "120215",
+        "name": "Muara",
+        "count": {
+            "desa": 15
+        }
+    },
+    {
+        "code": "120210",
+        "name": "Pagaran",
+        "count": {
+            "desa": 14
+        }
+    },
+    {
+        "code": "120206",
+        "name": "Pahae Jae",
+        "count": {
+            "desa": 13
+        }
+    },
+    {
+        "code": "120205",
+        "name": "Pahae Julu",
+        "count": {
+            "desa": 19
+        }
+    },
+    {
+        "code": "120213",
+        "name": "Pangaribuan",
+        "count": {
+            "desa": 26
+        }
+    },
+    {
+        "code": "120211",
+        "name": "Parmonangan",
+        "count": {
+            "desa": 14
+        }
+    },
+    {
+        "code": "120208",
+        "name": "Purba Tua (Purbatua)",
+        "count": {
+            "desa": 11
+        }
+    },
+    {
+        "code": "120202",
+        "name": "Siatas Barita",
+        "count": {
+            "desa": 12
+        }
+    },
+    {
+        "code": "120209",
+        "name": "Siborong-Borong",
+        "count": {
+            "desa": 21
+        }
+    },
+    {
+        "code": "120207",
+        "name": "Simangumban",
+        "count": {
+            "desa": 8
+        }
+    },
+    {
+        "code": "120212",
+        "name": "Sipahutar",
+        "count": {
+            "desa": 25
+        }
+    },
+    {
+        "code": "120204",
+        "name": "Sipoholon",
+        "count": {
+            "desa": 14
+        }
+    },
+    {
+        "code": "120201",
+        "name": "Tarutung",
+        "count": {
+            "desa": 31
+        }
+    }
+]

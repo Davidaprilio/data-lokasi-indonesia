@@ -1,0 +1,17 @@
+{
+    "code": "1507071006",
+    "name": "Parit Culum II",
+    "poscode": "36761",
+    "provinsi": {
+        "code": "15",
+        "name": "Jambi"
+    },
+    "kabupaten": {
+        "code": "1507",
+        "name": "Tanjung Jabung Timur"
+    },
+    "kecamatan": {
+        "code": "150707",
+        "name": "Muara Sabak Barat"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "3511182001",
+    "name": "Sukorejo",
+    "poscode": "68289",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3511",
+        "name": "Bondowoso"
+    },
+    "kecamatan": {
+        "code": "351118",
+        "name": "Sumberwringin (Sumber Wringin)"
+    }
+}

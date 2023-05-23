@@ -1,0 +1,93 @@
+[
+    {
+        "code": "150607",
+        "name": "Batang Asam",
+        "count": {
+            "desa": 11
+        }
+    },
+    {
+        "code": "150604",
+        "name": "Betara",
+        "count": {
+            "desa": 12
+        }
+    },
+    {
+        "code": "150611",
+        "name": "Bram Itam",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "150612",
+        "name": "Kuala Betara",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "150605",
+        "name": "Merlung",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "150609",
+        "name": "Muara Papalik",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "150603",
+        "name": "Pengabuan",
+        "count": {
+            "desa": 13
+        }
+    },
+    {
+        "code": "150608",
+        "name": "Renah Mendaluh",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "150610",
+        "name": "Seberang Kota",
+        "count": {
+            "desa": 8
+        }
+    },
+    {
+        "code": "150613",
+        "name": "Senyerang",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "150606",
+        "name": "Tebing Tinggi",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "150602",
+        "name": "Tungkal Ilir",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "150601",
+        "name": "Tungkal Ulu",
+        "count": {
+            "desa": 10
+        }
+    }
+]

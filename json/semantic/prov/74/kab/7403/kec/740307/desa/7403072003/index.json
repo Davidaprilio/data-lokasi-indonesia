@@ -1,0 +1,17 @@
+{
+    "code": "7403072003",
+    "name": "Raimuna",
+    "poscode": "93683",
+    "provinsi": {
+        "code": "74",
+        "name": "Sulawesi Tenggara"
+    },
+    "kabupaten": {
+        "code": "7403",
+        "name": "Muna"
+    },
+    "kecamatan": {
+        "code": "740307",
+        "name": "Maligano"
+    }
+}

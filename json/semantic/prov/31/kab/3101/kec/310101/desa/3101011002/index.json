@@ -1,0 +1,17 @@
+{
+    "code": "3101011002",
+    "name": "Pulau Kelapa",
+    "poscode": "14540",
+    "provinsi": {
+        "code": "31",
+        "name": "DKI Jakarta"
+    },
+    "kabupaten": {
+        "code": "3101",
+        "name": "Kepulauan Seribu"
+    },
+    "kecamatan": {
+        "code": "310101",
+        "name": "Kepulauan Seribu Utara"
+    }
+}

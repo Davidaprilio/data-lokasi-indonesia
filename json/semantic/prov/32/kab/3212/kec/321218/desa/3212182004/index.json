@@ -1,0 +1,17 @@
+{
+    "code": "3212182004",
+    "name": "Langut",
+    "poscode": "45252",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3212",
+        "name": "Indramayu"
+    },
+    "kecamatan": {
+        "code": "321218",
+        "name": "Lohbener"
+    }
+}

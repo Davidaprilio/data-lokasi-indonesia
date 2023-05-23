@@ -1,0 +1,17 @@
+{
+    "code": "1502172001",
+    "name": "Baru Pangkalan Jambu",
+    "poscode": "37361",
+    "provinsi": {
+        "code": "15",
+        "name": "Jambi"
+    },
+    "kabupaten": {
+        "code": "1502",
+        "name": "Merangin"
+    },
+    "kecamatan": {
+        "code": "150217",
+        "name": "Pangkalan Jambu"
+    }
+}

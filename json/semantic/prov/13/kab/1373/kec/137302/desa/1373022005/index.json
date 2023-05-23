@@ -1,0 +1,17 @@
+{
+    "code": "1373022005",
+    "name": "Santur/Santua",
+    "poscode": "27424",
+    "provinsi": {
+        "code": "13",
+        "name": "Sumatera Barat"
+    },
+    "kabupaten": {
+        "code": "1373",
+        "name": "Sawahlunto"
+    },
+    "kecamatan": {
+        "code": "137302",
+        "name": "Barangin"
+    }
+}

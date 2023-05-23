@@ -1,0 +1,17 @@
+{
+    "code": "7605022011",
+    "name": "Banua Adolang",
+    "poscode": "91451",
+    "provinsi": {
+        "code": "76",
+        "name": "Sulawesi Barat"
+    },
+    "kabupaten": {
+        "code": "7605",
+        "name": "Majene"
+    },
+    "kecamatan": {
+        "code": "760502",
+        "name": "Pamboang"
+    }
+}

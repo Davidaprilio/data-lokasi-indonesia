@@ -1,0 +1,17 @@
+{
+    "code": "1110022008",
+    "name": "Silatong",
+    "poscode": "24794",
+    "provinsi": {
+        "code": "11",
+        "name": "Aceh (NAD)"
+    },
+    "kabupaten": {
+        "code": "1110",
+        "name": "Aceh Singkil"
+    },
+    "kecamatan": {
+        "code": "111002",
+        "name": "Simpang Kanan"
+    }
+}

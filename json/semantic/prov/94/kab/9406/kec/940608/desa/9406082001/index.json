@@ -1,0 +1,17 @@
+{
+    "code": "9406082001",
+    "name": "Ugapuga",
+    "poscode": "98884",
+    "provinsi": {
+        "code": "94",
+        "name": "Papua Tengah"
+    },
+    "kabupaten": {
+        "code": "9406",
+        "name": "Dogiyai"
+    },
+    "kecamatan": {
+        "code": "940608",
+        "name": "Kamu Timur"
+    }
+}

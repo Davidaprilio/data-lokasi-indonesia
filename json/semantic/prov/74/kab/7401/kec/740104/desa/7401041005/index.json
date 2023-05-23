@@ -1,0 +1,17 @@
+{
+    "code": "7401041005",
+    "name": "Sabilambo",
+    "poscode": "93519",
+    "provinsi": {
+        "code": "74",
+        "name": "Sulawesi Tenggara"
+    },
+    "kabupaten": {
+        "code": "7401",
+        "name": "Kolaka"
+    },
+    "kecamatan": {
+        "code": "740104",
+        "name": "Kolaka"
+    }
+}

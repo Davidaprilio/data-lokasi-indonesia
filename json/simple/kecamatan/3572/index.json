@@ -1,0 +1,23 @@
+[
+    {
+        "code": "357201",
+        "name": "Kepanjenkidul (Kepanjen Kidul)",
+        "count": {
+            "desa": 7
+        }
+    },
+    {
+        "code": "357203",
+        "name": "Sananwetan (Sanan Wetan)",
+        "count": {
+            "desa": 7
+        }
+    },
+    {
+        "code": "357202",
+        "name": "Sukorejo",
+        "count": {
+            "desa": 7
+        }
+    }
+]

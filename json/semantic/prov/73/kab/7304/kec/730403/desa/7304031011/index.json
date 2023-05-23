@@ -1,0 +1,17 @@
+{
+    "code": "7304031011",
+    "name": "Panaikang",
+    "poscode": "92311",
+    "provinsi": {
+        "code": "73",
+        "name": "Sulawesi Selatan"
+    },
+    "kabupaten": {
+        "code": "7304",
+        "name": "Jeneponto"
+    },
+    "kecamatan": {
+        "code": "730403",
+        "name": "Binamu"
+    }
+}

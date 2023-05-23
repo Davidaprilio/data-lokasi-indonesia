@@ -1,0 +1,17 @@
+{
+    "code": "6402131005",
+    "name": "Margomulyo",
+    "poscode": "75273",
+    "provinsi": {
+        "code": "64",
+        "name": "Kalimantan Timur"
+    },
+    "kabupaten": {
+        "code": "6402",
+        "name": "Kutai Kartanegara"
+    },
+    "kecamatan": {
+        "code": "640213",
+        "name": "Samboja (Semboja)"
+    }
+}

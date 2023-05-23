@@ -1,0 +1,17 @@
+{
+    "code": "7203302001",
+    "name": "Ogoamas I",
+    "poscode": "94358",
+    "provinsi": {
+        "code": "72",
+        "name": "Sulawesi Tengah"
+    },
+    "kabupaten": {
+        "code": "7203",
+        "name": "Donggala"
+    },
+    "kecamatan": {
+        "code": "720330",
+        "name": "Sojol Utara"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "1809012011",
+    "name": "Kurungan Nyawa",
+    "poscode": "35366",
+    "provinsi": {
+        "code": "18",
+        "name": "Lampung"
+    },
+    "kabupaten": {
+        "code": "1809",
+        "name": "Pesawaran"
+    },
+    "kecamatan": {
+        "code": "180901",
+        "name": "Gedong Tataan"
+    }
+}

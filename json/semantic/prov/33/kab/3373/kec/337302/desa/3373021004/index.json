@@ -1,0 +1,17 @@
+{
+    "code": "3373021004",
+    "name": "Kalibening",
+    "poscode": "50744",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3373",
+        "name": "Salatiga"
+    },
+    "kecamatan": {
+        "code": "337302",
+        "name": "Tingkir"
+    }
+}

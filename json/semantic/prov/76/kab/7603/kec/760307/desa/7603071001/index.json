@@ -1,0 +1,17 @@
+{
+    "code": "7603071001",
+    "name": "Messawa",
+    "poscode": "91361",
+    "provinsi": {
+        "code": "76",
+        "name": "Sulawesi Barat"
+    },
+    "kabupaten": {
+        "code": "7603",
+        "name": "Mamasa"
+    },
+    "kecamatan": {
+        "code": "760307",
+        "name": "Messawa"
+    }
+}

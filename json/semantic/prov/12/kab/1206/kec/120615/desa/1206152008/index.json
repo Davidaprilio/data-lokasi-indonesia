@@ -1,0 +1,17 @@
+{
+    "code": "1206152008",
+    "name": "Merdeka",
+    "poscode": "22153",
+    "provinsi": {
+        "code": "12",
+        "name": "Sumatera Utara"
+    },
+    "kabupaten": {
+        "code": "1206",
+        "name": "Karo"
+    },
+    "kecamatan": {
+        "code": "120615",
+        "name": "Merdeka"
+    }
+}

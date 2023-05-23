@@ -1,0 +1,17 @@
+{
+    "code": "7314022008",
+    "name": "Polewali",
+    "poscode": "91662",
+    "provinsi": {
+        "code": "73",
+        "name": "Sulawesi Selatan"
+    },
+    "kabupaten": {
+        "code": "7314",
+        "name": "Sidenreng Rappang"
+    },
+    "kecamatan": {
+        "code": "731402",
+        "name": "Tellu Limpoe"
+    }
+}

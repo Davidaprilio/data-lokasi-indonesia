@@ -1,0 +1,17 @@
+{
+    "code": "1409021025",
+    "name": "Sungaijering",
+    "poscode": "29513",
+    "provinsi": {
+        "code": "14",
+        "name": "Riau"
+    },
+    "kabupaten": {
+        "code": "1409",
+        "name": "Kuantan Singingi"
+    },
+    "kecamatan": {
+        "code": "140902",
+        "name": "Kuantan Tengah"
+    }
+}

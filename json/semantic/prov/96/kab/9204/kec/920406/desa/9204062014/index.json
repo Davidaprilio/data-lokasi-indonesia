@@ -1,0 +1,17 @@
+{
+    "code": "9204062014",
+    "name": "Ween",
+    "poscode": "98232",
+    "provinsi": {
+        "code": "96",
+        "name": "Papua Barat Daya"
+    },
+    "kabupaten": {
+        "code": "9204",
+        "name": "Sorong Selatan"
+    },
+    "kecamatan": {
+        "code": "920406",
+        "name": "Sawiat"
+    }
+}

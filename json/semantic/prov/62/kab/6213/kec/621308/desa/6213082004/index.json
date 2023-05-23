@@ -1,0 +1,17 @@
+{
+    "code": "6213082004",
+    "name": "Unsum",
+    "poscode": "73655",
+    "provinsi": {
+        "code": "62",
+        "name": "Kalimantan Tengah"
+    },
+    "kabupaten": {
+        "code": "6213",
+        "name": "Barito Timur"
+    },
+    "kecamatan": {
+        "code": "621308",
+        "name": "Raren Batuah"
+    }
+}

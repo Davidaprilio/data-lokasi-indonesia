@@ -1,0 +1,17 @@
+{
+    "code": "3517202001",
+    "name": "Turipinggir (Turi Pinggir)",
+    "poscode": "61457",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3517",
+        "name": "Jombang"
+    },
+    "kecamatan": {
+        "code": "351720",
+        "name": "Megaluh"
+    }
+}

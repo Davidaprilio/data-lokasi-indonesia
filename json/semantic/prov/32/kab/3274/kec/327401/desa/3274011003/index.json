@@ -1,0 +1,17 @@
+{
+    "code": "3274011003",
+    "name": "Kesenden",
+    "poscode": "45121",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3274",
+        "name": "Cirebon"
+    },
+    "kecamatan": {
+        "code": "327401",
+        "name": "Kejaksan"
+    }
+}

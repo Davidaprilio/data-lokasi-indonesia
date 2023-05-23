@@ -1,0 +1,17 @@
+{
+    "code": "1103022024",
+    "name": "Bukit Seroja (Buket Seuraja / Seraja)",
+    "poscode": "24459",
+    "provinsi": {
+        "code": "11",
+        "name": "Aceh (NAD)"
+    },
+    "kabupaten": {
+        "code": "1103",
+        "name": "Aceh Timur"
+    },
+    "kecamatan": {
+        "code": "110302",
+        "name": "Julok"
+    }
+}

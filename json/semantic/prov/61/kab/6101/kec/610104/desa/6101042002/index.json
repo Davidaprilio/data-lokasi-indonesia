@@ -1,0 +1,17 @@
+{
+    "code": "6101042002",
+    "name": "Tebas Sungai",
+    "poscode": "79461",
+    "provinsi": {
+        "code": "61",
+        "name": "Kalimantan Barat"
+    },
+    "kabupaten": {
+        "code": "6101",
+        "name": "Sambas"
+    },
+    "kecamatan": {
+        "code": "610104",
+        "name": "Tebas"
+    }
+}

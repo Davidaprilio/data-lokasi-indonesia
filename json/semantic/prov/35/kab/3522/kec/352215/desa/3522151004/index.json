@@ -1,0 +1,17 @@
+{
+    "code": "3522151004",
+    "name": "Mojokampung",
+    "poscode": "62119",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3522",
+        "name": "Bojonegoro"
+    },
+    "kecamatan": {
+        "code": "352215",
+        "name": "Bojonegoro"
+    }
+}

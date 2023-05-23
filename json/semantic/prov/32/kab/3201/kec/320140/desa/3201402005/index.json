@@ -1,0 +1,17 @@
+{
+    "code": "3201402005",
+    "name": "Cinangneng",
+    "poscode": "16371",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3201",
+        "name": "Bogor"
+    },
+    "kecamatan": {
+        "code": "320140",
+        "name": "Tenjolaya"
+    }
+}

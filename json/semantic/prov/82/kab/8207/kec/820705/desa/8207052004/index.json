@@ -1,0 +1,17 @@
+{
+    "code": "8207052004",
+    "name": "Lifao",
+    "poscode": "97772",
+    "provinsi": {
+        "code": "82",
+        "name": "Maluku Utara"
+    },
+    "kabupaten": {
+        "code": "8207",
+        "name": "Pulau Morotai"
+    },
+    "kecamatan": {
+        "code": "820705",
+        "name": "Morotai Timur"
+    }
+}

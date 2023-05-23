@@ -1,0 +1,23 @@
+[
+    {
+        "code": "357603",
+        "name": "Kranggan",
+        "count": {
+            "desa": 6
+        }
+    },
+    {
+        "code": "357602",
+        "name": "Magersari",
+        "count": {
+            "desa": 6
+        }
+    },
+    {
+        "code": "357601",
+        "name": "Prajuritkulon (Prajurit Kulon)",
+        "count": {
+            "desa": 6
+        }
+    }
+]

@@ -1,0 +1,17 @@
+{
+    "code": "3205052003",
+    "name": "Jayaraga",
+    "poscode": "44150",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3205",
+        "name": "Garut"
+    },
+    "kecamatan": {
+        "code": "320505",
+        "name": "Tarogong Kidul"
+    }
+}

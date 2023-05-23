@@ -1,0 +1,17 @@
+{
+    "code": "7373051005",
+    "name": "Salekoe",
+    "poscode": "91921",
+    "provinsi": {
+        "code": "73",
+        "name": "Sulawesi Selatan"
+    },
+    "kabupaten": {
+        "code": "7373",
+        "name": "Palopo"
+    },
+    "kecamatan": {
+        "code": "737305",
+        "name": "Wara Timur"
+    }
+}

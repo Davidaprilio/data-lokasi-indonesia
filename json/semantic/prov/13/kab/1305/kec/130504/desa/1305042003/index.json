@@ -1,0 +1,17 @@
+{
+    "code": "1305042003",
+    "name": "Lubuk Pandan",
+    "poscode": "25584",
+    "provinsi": {
+        "code": "13",
+        "name": "Sumatera Barat"
+    },
+    "kabupaten": {
+        "code": "1305",
+        "name": "Padang Pariaman"
+    },
+    "kecamatan": {
+        "code": "130504",
+        "name": "2 X 11 Enam Lingkuang"
+    }
+}

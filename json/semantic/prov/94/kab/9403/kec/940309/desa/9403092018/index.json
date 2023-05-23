@@ -1,0 +1,17 @@
+{
+    "code": "9403092018",
+    "name": "Tuwaktu",
+    "poscode": "98741",
+    "provinsi": {
+        "code": "94",
+        "name": "Papua Tengah"
+    },
+    "kabupaten": {
+        "code": "9403",
+        "name": "Paniai"
+    },
+    "kecamatan": {
+        "code": "940309",
+        "name": "Bibida"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "3273231001",
+    "name": "Cipamokolan",
+    "poscode": "40292",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3273",
+        "name": "Bandung"
+    },
+    "kecamatan": {
+        "code": "327323",
+        "name": "Rancasari"
+    }
+}

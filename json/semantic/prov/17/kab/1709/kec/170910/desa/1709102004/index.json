@@ -1,0 +1,17 @@
+{
+    "code": "1709102004",
+    "name": "Talang Donok",
+    "poscode": "38372",
+    "provinsi": {
+        "code": "17",
+        "name": "Bengkulu"
+    },
+    "kabupaten": {
+        "code": "1709",
+        "name": "Bengkulu Tengah"
+    },
+    "kecamatan": {
+        "code": "170910",
+        "name": "Bang Haji"
+    }
+}

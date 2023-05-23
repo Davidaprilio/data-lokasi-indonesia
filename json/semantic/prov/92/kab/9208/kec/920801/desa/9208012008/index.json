@@ -1,0 +1,17 @@
+{
+    "code": "9208012008",
+    "name": "Foroma Jaya",
+    "poscode": "98113",
+    "provinsi": {
+        "code": "92",
+        "name": "Papua Barat"
+    },
+    "kabupaten": {
+        "code": "9208",
+        "name": "Kaimana"
+    },
+    "kecamatan": {
+        "code": "920801",
+        "name": "Kaimana"
+    }
+}

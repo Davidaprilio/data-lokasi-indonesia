@@ -1,0 +1,17 @@
+{
+    "code": "8106012010",
+    "name": "Kairatu",
+    "poscode": "97566",
+    "provinsi": {
+        "code": "81",
+        "name": "Maluku"
+    },
+    "kabupaten": {
+        "code": "8106",
+        "name": "Seram Bagian Barat"
+    },
+    "kecamatan": {
+        "code": "810601",
+        "name": "Kairatu"
+    }
+}

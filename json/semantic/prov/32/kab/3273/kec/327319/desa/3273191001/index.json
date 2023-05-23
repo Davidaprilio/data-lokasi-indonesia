@@ -1,0 +1,17 @@
+{
+    "code": "3273191001",
+    "name": "Braga",
+    "poscode": "40111",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3273",
+        "name": "Bandung"
+    },
+    "kecamatan": {
+        "code": "327319",
+        "name": "Sumur Bandung"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "3322162001",
+    "name": "Bancak",
+    "poscode": "50182",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3322",
+        "name": "Semarang"
+    },
+    "kecamatan": {
+        "code": "332216",
+        "name": "Bancak"
+    }
+}

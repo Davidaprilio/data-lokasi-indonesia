@@ -1,0 +1,17 @@
+{
+    "code": "9209272004",
+    "name": "Saurabon",
+    "poscode": "98382",
+    "provinsi": {
+        "code": "96",
+        "name": "Papua Barat Daya"
+    },
+    "kabupaten": {
+        "code": "9209",
+        "name": "Tambrauw"
+    },
+    "kecamatan": {
+        "code": "920927",
+        "name": "Amberbaken Barat"
+    }
+}

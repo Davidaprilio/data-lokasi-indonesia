@@ -1,0 +1,17 @@
+{
+    "code": "1402012009",
+    "name": "Sungai Beringin",
+    "poscode": "29317",
+    "provinsi": {
+        "code": "14",
+        "name": "Riau"
+    },
+    "kabupaten": {
+        "code": "1402",
+        "name": "Indragiri Hulu"
+    },
+    "kecamatan": {
+        "code": "140201",
+        "name": "Rengat"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "1604232011",
+    "name": "Tanjung Jambu",
+    "poscode": "31473",
+    "provinsi": {
+        "code": "16",
+        "name": "Sumatera Selatan"
+    },
+    "kabupaten": {
+        "code": "1604",
+        "name": "Lahat"
+    },
+    "kecamatan": {
+        "code": "160423",
+        "name": "Merapi Timur"
+    }
+}

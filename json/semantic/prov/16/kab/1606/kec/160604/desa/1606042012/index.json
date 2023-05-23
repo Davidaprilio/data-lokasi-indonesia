@@ -1,0 +1,17 @@
+{
+    "code": "1606042012",
+    "name": "Tanjung Bali",
+    "poscode": "30755",
+    "provinsi": {
+        "code": "16",
+        "name": "Sumatera Selatan"
+    },
+    "kabupaten": {
+        "code": "1606",
+        "name": "Musi Banyuasin"
+    },
+    "kecamatan": {
+        "code": "160604",
+        "name": "Batang Hari Leko"
+    }
+}

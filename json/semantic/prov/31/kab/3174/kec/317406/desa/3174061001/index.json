@@ -1,0 +1,17 @@
+{
+    "code": "3174061001",
+    "name": "Cilandak Barat",
+    "poscode": "12430",
+    "provinsi": {
+        "code": "31",
+        "name": "DKI Jakarta"
+    },
+    "kabupaten": {
+        "code": "3174",
+        "name": "Jakarta Selatan"
+    },
+    "kecamatan": {
+        "code": "317406",
+        "name": "Cilandak"
+    }
+}

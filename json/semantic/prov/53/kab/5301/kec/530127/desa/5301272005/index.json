@@ -1,0 +1,17 @@
+{
+    "code": "5301272005",
+    "name": "Naitae",
+    "poscode": "85223",
+    "provinsi": {
+        "code": "53",
+        "name": "Nusa Tenggara Timur (NTT)"
+    },
+    "kabupaten": {
+        "code": "5301",
+        "name": "Kupang"
+    },
+    "kecamatan": {
+        "code": "530127",
+        "name": "Fatuleu Barat"
+    }
+}

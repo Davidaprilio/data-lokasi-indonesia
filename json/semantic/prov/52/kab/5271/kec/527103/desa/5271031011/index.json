@@ -1,0 +1,17 @@
+{
+    "code": "5271031011",
+    "name": "Sapta Marga",
+    "poscode": "83238",
+    "provinsi": {
+        "code": "52",
+        "name": "Nusa Tenggara Barat (NTB)"
+    },
+    "kabupaten": {
+        "code": "5271",
+        "name": "Mataram"
+    },
+    "kecamatan": {
+        "code": "527103",
+        "name": "Cakranegara"
+    }
+}

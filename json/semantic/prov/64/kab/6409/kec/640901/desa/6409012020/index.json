@@ -1,0 +1,17 @@
+{
+    "code": "6409012020",
+    "name": "Giri Mukti",
+    "poscode": "76141",
+    "provinsi": {
+        "code": "64",
+        "name": "Kalimantan Timur"
+    },
+    "kabupaten": {
+        "code": "6409",
+        "name": "Penajam Paser Utara"
+    },
+    "kecamatan": {
+        "code": "640901",
+        "name": "Penajam"
+    }
+}

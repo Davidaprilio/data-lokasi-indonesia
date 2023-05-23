@@ -1,0 +1,107 @@
+[
+    {
+        "code": "650211",
+        "name": "Bahau Hulu",
+        "count": {
+            "desa": 6
+        }
+    },
+    {
+        "code": "650204",
+        "name": "Kayan Hilir",
+        "count": {
+            "desa": 5
+        }
+    },
+    {
+        "code": "650205",
+        "name": "Kayan Hulu",
+        "count": {
+            "desa": 5
+        }
+    },
+    {
+        "code": "650210",
+        "name": "Kayan Selatan",
+        "count": {
+            "desa": 5
+        }
+    },
+    {
+        "code": "650208",
+        "name": "Malinau Barat",
+        "count": {
+            "desa": 9
+        }
+    },
+    {
+        "code": "650202",
+        "name": "Malinau Kota",
+        "count": {
+            "desa": 6
+        }
+    },
+    {
+        "code": "650206",
+        "name": "Malinau Selatan",
+        "count": {
+            "desa": 9
+        }
+    },
+    {
+        "code": "650213",
+        "name": "Malinau Selatan Hilir",
+        "count": {
+            "desa": 8
+        }
+    },
+    {
+        "code": "650214",
+        "name": "Malinau Selatan Hulu",
+        "count": {
+            "desa": 8
+        }
+    },
+    {
+        "code": "650207",
+        "name": "Malinau Utara",
+        "count": {
+            "desa": 12
+        }
+    },
+    {
+        "code": "650201",
+        "name": "Mentarang",
+        "count": {
+            "desa": 9
+        }
+    },
+    {
+        "code": "650212",
+        "name": "Mentarang Hulu",
+        "count": {
+            "desa": 7
+        }
+    },
+    {
+        "code": "650203",
+        "name": "Pujungan",
+        "count": {
+            "desa": 9
+        }
+    },
+    {
+        "code": "650209",
+        "name": "Sungai Boh",
+        "count": {
+            "desa": 6
+        }
+    },
+    {
+        "code": "650215",
+        "name": "Sungai Tubu",
+        "count": {
+            "desa": 5
+        }
+    }
+]

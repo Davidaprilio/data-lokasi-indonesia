@@ -1,0 +1,149 @@
+[
+    {
+        "code": "140115",
+        "name": "Bangkinang",
+        "count": {
+            "desa": 9
+        }
+    },
+    {
+        "code": "140101",
+        "name": "Bangkinang Kota",
+        "count": {
+            "desa": 4
+        }
+    },
+    {
+        "code": "140120",
+        "name": "Gunung Sahilan",
+        "count": {
+            "desa": 9
+        }
+    },
+    {
+        "code": "140117",
+        "name": "Kampa (Kampar Timur)",
+        "count": {
+            "desa": 9
+        }
+    },
+    {
+        "code": "140102",
+        "name": "Kampar",
+        "count": {
+            "desa": 18
+        }
+    },
+    {
+        "code": "140107",
+        "name": "Kampar Kiri",
+        "count": {
+            "desa": 20
+        }
+    },
+    {
+        "code": "140108",
+        "name": "Kampar Kiri Hilir",
+        "count": {
+            "desa": 8
+        }
+    },
+    {
+        "code": "140109",
+        "name": "Kampar Kiri Hulu",
+        "count": {
+            "desa": 24
+        }
+    },
+    {
+        "code": "140119",
+        "name": "Kampar Kiri Tengah",
+        "count": {
+            "desa": 11
+        }
+    },
+    {
+        "code": "140118",
+        "name": "Kampar Utara",
+        "count": {
+            "desa": 8
+        }
+    },
+    {
+        "code": "140121",
+        "name": "Koto Kampar Hulu",
+        "count": {
+            "desa": 6
+        }
+    },
+    {
+        "code": "140105",
+        "name": "Kuok",
+        "count": {
+            "desa": 9
+        }
+    },
+    {
+        "code": "140116",
+        "name": "Perhentian Raja",
+        "count": {
+            "desa": 5
+        }
+    },
+    {
+        "code": "140114",
+        "name": "Rumbio Jaya",
+        "count": {
+            "desa": 7
+        }
+    },
+    {
+        "code": "140113",
+        "name": "Salo",
+        "count": {
+            "desa": 6
+        }
+    },
+    {
+        "code": "140106",
+        "name": "Siak Hulu",
+        "count": {
+            "desa": 12
+        }
+    },
+    {
+        "code": "140103",
+        "name": "Tambang",
+        "count": {
+            "desa": 17
+        }
+    },
+    {
+        "code": "140110",
+        "name": "Tapung",
+        "count": {
+            "desa": 25
+        }
+    },
+    {
+        "code": "140111",
+        "name": "Tapung Hilir",
+        "count": {
+            "desa": 16
+        }
+    },
+    {
+        "code": "140112",
+        "name": "Tapung Hulu",
+        "count": {
+            "desa": 14
+        }
+    },
+    {
+        "code": "140104",
+        "name": "XIII Koto Kampar",
+        "count": {
+            "desa": 13
+        }
+    }
+]

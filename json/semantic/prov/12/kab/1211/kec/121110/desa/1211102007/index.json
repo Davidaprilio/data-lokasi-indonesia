@@ -1,0 +1,17 @@
+{
+    "code": "1211102007",
+    "name": "Parbuluan V",
+    "poscode": "22282",
+    "provinsi": {
+        "code": "12",
+        "name": "Sumatera Utara"
+    },
+    "kabupaten": {
+        "code": "1211",
+        "name": "Dairi"
+    },
+    "kecamatan": {
+        "code": "121110",
+        "name": "Parbuluan"
+    }
+}

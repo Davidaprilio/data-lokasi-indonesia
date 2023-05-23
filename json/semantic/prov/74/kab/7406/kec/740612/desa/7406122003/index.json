@@ -1,0 +1,17 @@
+{
+    "code": "7406122003",
+    "name": "Terapung",
+    "poscode": "93775",
+    "provinsi": {
+        "code": "74",
+        "name": "Sulawesi Tenggara"
+    },
+    "kabupaten": {
+        "code": "7406",
+        "name": "Bombana"
+    },
+    "kecamatan": {
+        "code": "740612",
+        "name": "Poleang Tenggara"
+    }
+}

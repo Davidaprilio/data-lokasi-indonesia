@@ -1,0 +1,17 @@
+{
+    "code": "7402191009",
+    "name": "Puuduria",
+    "poscode": "93468",
+    "provinsi": {
+        "code": "74",
+        "name": "Sulawesi Tenggara"
+    },
+    "kabupaten": {
+        "code": "7402",
+        "name": "Konawe"
+    },
+    "kecamatan": {
+        "code": "740219",
+        "name": "Wonggeduku"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "3211171004",
+    "name": "Cipameungpeuk",
+    "poscode": "45315",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3211",
+        "name": "Sumedang"
+    },
+    "kecamatan": {
+        "code": "321117",
+        "name": "Sumedang Selatan"
+    }
+}

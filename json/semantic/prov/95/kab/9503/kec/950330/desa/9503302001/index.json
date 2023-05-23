@@ -1,0 +1,17 @@
+{
+    "code": "9503302001",
+    "name": "Wanan (Wanam)",
+    "poscode": "99764",
+    "provinsi": {
+        "code": "95",
+        "name": "Papua Pegunungan"
+    },
+    "kabupaten": {
+        "code": "9503",
+        "name": "Yahukimo"
+    },
+    "kecamatan": {
+        "code": "950330",
+        "name": "Ubalihi"
+    }
+}

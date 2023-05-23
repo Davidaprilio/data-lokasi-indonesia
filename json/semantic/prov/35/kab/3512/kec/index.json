@@ -1,0 +1,121 @@
+[
+    {
+        "code": "351211",
+        "name": "Arjasa",
+        "count": {
+            "desa": 8
+        }
+    },
+    {
+        "code": "351213",
+        "name": "Asembagus",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "351216",
+        "name": "Banyuglugur",
+        "count": {
+            "desa": 7
+        }
+    },
+    {
+        "code": "351214",
+        "name": "Banyuputih",
+        "count": {
+            "desa": 5
+        }
+    },
+    {
+        "code": "351202",
+        "name": "Besuki",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "351217",
+        "name": "Bungatan",
+        "count": {
+            "desa": 7
+        }
+    },
+    {
+        "code": "351212",
+        "name": "Jangkar",
+        "count": {
+            "desa": 8
+        }
+    },
+    {
+        "code": "351201",
+        "name": "Jatibanteng",
+        "count": {
+            "desa": 8
+        }
+    },
+    {
+        "code": "351210",
+        "name": "Kapongan",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "351205",
+        "name": "Kendit",
+        "count": {
+            "desa": 7
+        }
+    },
+    {
+        "code": "351209",
+        "name": "Mangaran",
+        "count": {
+            "desa": 6
+        }
+    },
+    {
+        "code": "351204",
+        "name": "Mlandingan",
+        "count": {
+            "desa": 7
+        }
+    },
+    {
+        "code": "351206",
+        "name": "Panarukan",
+        "count": {
+            "desa": 8
+        }
+    },
+    {
+        "code": "351208",
+        "name": "Panji",
+        "count": {
+            "desa": 12
+        }
+    },
+    {
+        "code": "351207",
+        "name": "Situbondo",
+        "count": {
+            "desa": 6
+        }
+    },
+    {
+        "code": "351203",
+        "name": "Suboh",
+        "count": {
+            "desa": 8
+        }
+    },
+    {
+        "code": "351215",
+        "name": "Sumbermalang",
+        "count": {
+            "desa": 9
+        }
+    }
+]

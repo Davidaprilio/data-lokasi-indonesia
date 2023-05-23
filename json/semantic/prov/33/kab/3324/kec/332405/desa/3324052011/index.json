@@ -1,0 +1,17 @@
+{
+    "code": "3324052011",
+    "name": "Merbuh",
+    "poscode": "51382",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3324",
+        "name": "Kendal"
+    },
+    "kecamatan": {
+        "code": "332405",
+        "name": "Singorojo"
+    }
+}

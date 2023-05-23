@@ -1,0 +1,17 @@
+{
+    "code": "3510252003",
+    "name": "Watukebo",
+    "poscode": "68460",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3510",
+        "name": "Banyuwangi"
+    },
+    "kecamatan": {
+        "code": "351025",
+        "name": "Blimbingsari"
+    }
+}

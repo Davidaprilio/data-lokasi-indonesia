@@ -1,0 +1,17 @@
+{
+    "code": "6212011012",
+    "name": "Puruk Cahu",
+    "poscode": "73911",
+    "provinsi": {
+        "code": "62",
+        "name": "Kalimantan Tengah"
+    },
+    "kabupaten": {
+        "code": "6212",
+        "name": "Murung Raya"
+    },
+    "kecamatan": {
+        "code": "621201",
+        "name": "Murung"
+    }
+}

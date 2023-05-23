@@ -1,0 +1,17 @@
+{
+    "code": "1501052013",
+    "name": "Pasar Semurup",
+    "poscode": "37168",
+    "provinsi": {
+        "code": "15",
+        "name": "Jambi"
+    },
+    "kabupaten": {
+        "code": "1501",
+        "name": "Kerinci"
+    },
+    "kecamatan": {
+        "code": "150105",
+        "name": "Air Hangat"
+    }
+}

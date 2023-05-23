@@ -1,0 +1,17 @@
+{
+    "code": "7304011004",
+    "name": "Bontorannu",
+    "poscode": "92352",
+    "provinsi": {
+        "code": "73",
+        "name": "Sulawesi Selatan"
+    },
+    "kabupaten": {
+        "code": "7304",
+        "name": "Jeneponto"
+    },
+    "kecamatan": {
+        "code": "730401",
+        "name": "Bangkala"
+    }
+}

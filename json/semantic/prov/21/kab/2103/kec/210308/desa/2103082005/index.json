@@ -1,0 +1,17 @@
+{
+    "code": "2103082005",
+    "name": "Teluk Buton",
+    "poscode": "29775",
+    "provinsi": {
+        "code": "21",
+        "name": "Kepulauan Riau"
+    },
+    "kabupaten": {
+        "code": "2103",
+        "name": "Natuna"
+    },
+    "kecamatan": {
+        "code": "210308",
+        "name": "Bunguran Utara"
+    }
+}

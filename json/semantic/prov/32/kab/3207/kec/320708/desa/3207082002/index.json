@@ -1,0 +1,17 @@
+{
+    "code": "3207082002",
+    "name": "Kertamandala",
+    "poscode": "46264",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3207",
+        "name": "Ciamis"
+    },
+    "kecamatan": {
+        "code": "320708",
+        "name": "Panjalu"
+    }
+}

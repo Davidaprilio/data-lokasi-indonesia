@@ -1,0 +1,17 @@
+{
+    "code": "3214102011",
+    "name": "Warungkadu (Warung Kadu)",
+    "poscode": "41172",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3214",
+        "name": "Purwakarta"
+    },
+    "kecamatan": {
+        "code": "321410",
+        "name": "Pasawahan"
+    }
+}

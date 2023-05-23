@@ -1,0 +1,17 @@
+{
+    "code": "3579031001",
+    "name": "Dadaprejo",
+    "poscode": "65323",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3579",
+        "name": "Batu"
+    },
+    "kecamatan": {
+        "code": "357903",
+        "name": "Junrejo"
+    }
+}

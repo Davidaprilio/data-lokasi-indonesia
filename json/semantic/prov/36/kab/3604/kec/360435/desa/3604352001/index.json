@@ -1,0 +1,17 @@
+{
+    "code": "3604352001",
+    "name": "Kamaruton",
+    "poscode": "42181",
+    "provinsi": {
+        "code": "36",
+        "name": "Banten"
+    },
+    "kabupaten": {
+        "code": "3604",
+        "name": "Serang"
+    },
+    "kecamatan": {
+        "code": "360435",
+        "name": "Lebak Wangi"
+    }
+}

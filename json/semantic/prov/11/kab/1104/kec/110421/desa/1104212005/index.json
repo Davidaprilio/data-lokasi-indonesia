@@ -1,0 +1,17 @@
+{
+    "code": "1104212005",
+    "name": "Pilar Jaya",
+    "poscode": "24567",
+    "provinsi": {
+        "code": "11",
+        "name": "Aceh (NAD)"
+    },
+    "kabupaten": {
+        "code": "1104",
+        "name": "Aceh Tengah"
+    },
+    "kecamatan": {
+        "code": "110421",
+        "name": "Rusip Antara"
+    }
+}

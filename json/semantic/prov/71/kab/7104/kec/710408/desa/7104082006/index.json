@@ -1,0 +1,17 @@
+{
+    "code": "7104082006",
+    "name": "Malat",
+    "poscode": "95888",
+    "provinsi": {
+        "code": "71",
+        "name": "Sulawesi Utara"
+    },
+    "kabupaten": {
+        "code": "7104",
+        "name": "Kepulauan Talaud"
+    },
+    "kecamatan": {
+        "code": "710408",
+        "name": "Gemeh"
+    }
+}

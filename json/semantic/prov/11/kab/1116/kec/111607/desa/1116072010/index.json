@@ -1,0 +1,17 @@
+{
+    "code": "1116072010",
+    "name": "Wono Sari",
+    "poscode": "24479",
+    "provinsi": {
+        "code": "11",
+        "name": "Aceh (NAD)"
+    },
+    "kabupaten": {
+        "code": "1116",
+        "name": "Aceh Tamiang"
+    },
+    "kecamatan": {
+        "code": "111607",
+        "name": "Tamiang Hulu"
+    }
+}

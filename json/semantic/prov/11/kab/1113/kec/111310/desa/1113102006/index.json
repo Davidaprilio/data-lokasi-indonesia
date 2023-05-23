@@ -1,0 +1,17 @@
+{
+    "code": "1113102006",
+    "name": "UPT. Pantan Kela (Pantan Kela)",
+    "poscode": "24657",
+    "provinsi": {
+        "code": "11",
+        "name": "Aceh (NAD)"
+    },
+    "kabupaten": {
+        "code": "1113",
+        "name": "Gayo Lues"
+    },
+    "kecamatan": {
+        "code": "111310",
+        "name": "Teripe/Tripe Jaya"
+    }
+}

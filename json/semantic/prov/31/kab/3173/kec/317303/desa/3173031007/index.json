@@ -1,0 +1,17 @@
+{
+    "code": "3173031007",
+    "name": "Glodok",
+    "poscode": "11120",
+    "provinsi": {
+        "code": "31",
+        "name": "DKI Jakarta"
+    },
+    "kabupaten": {
+        "code": "3173",
+        "name": "Jakarta Barat"
+    },
+    "kecamatan": {
+        "code": "317303",
+        "name": "Taman Sari"
+    }
+}

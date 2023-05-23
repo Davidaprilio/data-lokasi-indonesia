@@ -1,0 +1,17 @@
+{
+    "code": "7203062011",
+    "name": "Malonas",
+    "poscode": "94356",
+    "provinsi": {
+        "code": "72",
+        "name": "Sulawesi Tengah"
+    },
+    "kabupaten": {
+        "code": "7203",
+        "name": "Donggala"
+    },
+    "kecamatan": {
+        "code": "720306",
+        "name": "Dampelas"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "3510112002",
+    "name": "Kalibarumanis (Kalibaru Manis)",
+    "poscode": "68467",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3510",
+        "name": "Banyuwangi"
+    },
+    "kecamatan": {
+        "code": "351011",
+        "name": "Kalibaru"
+    }
+}

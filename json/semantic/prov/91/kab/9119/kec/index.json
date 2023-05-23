@@ -1,0 +1,37 @@
+[
+    {
+        "code": "911904",
+        "name": "Kepulauan Aruri",
+        "count": {
+            "desa": 9
+        }
+    },
+    {
+        "code": "911905",
+        "name": "Supiori Barat",
+        "count": {
+            "desa": 7
+        }
+    },
+    {
+        "code": "911901",
+        "name": "Supiori Selatan",
+        "count": {
+            "desa": 7
+        }
+    },
+    {
+        "code": "911903",
+        "name": "Supiori Timur",
+        "count": {
+            "desa": 10
+        }
+    },
+    {
+        "code": "911902",
+        "name": "Supiori Utara",
+        "count": {
+            "desa": 5
+        }
+    }
+]

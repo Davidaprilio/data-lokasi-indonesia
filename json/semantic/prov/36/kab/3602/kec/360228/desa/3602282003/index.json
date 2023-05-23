@@ -1,0 +1,17 @@
+{
+    "code": "3602282003",
+    "name": "Mugijaya",
+    "poscode": "42395",
+    "provinsi": {
+        "code": "36",
+        "name": "Banten"
+    },
+    "kabupaten": {
+        "code": "3602",
+        "name": "Lebak"
+    },
+    "kecamatan": {
+        "code": "360228",
+        "name": "Cigemlong (Cigemblong)"
+    }
+}

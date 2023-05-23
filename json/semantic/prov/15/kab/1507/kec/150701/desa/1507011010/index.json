@@ -1,0 +1,17 @@
+{
+    "code": "1507011010",
+    "name": "Muara Sabak Ilir",
+    "poscode": "36762",
+    "provinsi": {
+        "code": "15",
+        "name": "Jambi"
+    },
+    "kabupaten": {
+        "code": "1507",
+        "name": "Tanjung Jabung Timur"
+    },
+    "kecamatan": {
+        "code": "150701",
+        "name": "Muara Sabak Timur"
+    }
+}

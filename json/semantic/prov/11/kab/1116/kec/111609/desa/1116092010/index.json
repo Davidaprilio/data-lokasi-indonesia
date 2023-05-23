@@ -1,0 +1,17 @@
+{
+    "code": "1116092010",
+    "name": "Suka Damai",
+    "poscode": "24472",
+    "provinsi": {
+        "code": "11",
+        "name": "Aceh (NAD)"
+    },
+    "kabupaten": {
+        "code": "1116",
+        "name": "Aceh Tamiang"
+    },
+    "kecamatan": {
+        "code": "111609",
+        "name": "Banda Mulia"
+    }
+}

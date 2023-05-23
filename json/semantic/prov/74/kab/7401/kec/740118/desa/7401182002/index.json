@@ -1,0 +1,17 @@
+{
+    "code": "7401182002",
+    "name": "Tanggetada",
+    "poscode": "93564",
+    "provinsi": {
+        "code": "74",
+        "name": "Sulawesi Tenggara"
+    },
+    "kabupaten": {
+        "code": "7401",
+        "name": "Kolaka"
+    },
+    "kecamatan": {
+        "code": "740118",
+        "name": "Tanggetada"
+    }
+}

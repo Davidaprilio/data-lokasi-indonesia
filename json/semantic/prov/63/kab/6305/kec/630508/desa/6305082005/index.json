@@ -1,0 +1,17 @@
+{
+    "code": "6305082005",
+    "name": "Batung",
+    "poscode": "71191",
+    "provinsi": {
+        "code": "63",
+        "name": "Kalimantan Selatan"
+    },
+    "kabupaten": {
+        "code": "6305",
+        "name": "Tapin"
+    },
+    "kecamatan": {
+        "code": "630508",
+        "name": "Piani"
+    }
+}

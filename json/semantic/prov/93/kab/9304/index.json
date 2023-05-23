@@ -1,0 +1,10 @@
+{
+    "code": "9304",
+    "type": "Kabupaten",
+    "name": "Asmat",
+    "fullname": "Kabupaten Asmat",
+    "jumlah": {
+        "kecamatan": 25,
+        "desa": 224
+    }
+}

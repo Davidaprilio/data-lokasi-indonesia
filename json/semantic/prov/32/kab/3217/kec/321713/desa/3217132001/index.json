@@ -1,0 +1,17 @@
+{
+    "code": "3217132001",
+    "name": "Cibedug",
+    "poscode": "40566",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3217",
+        "name": "Bandung Barat"
+    },
+    "kecamatan": {
+        "code": "321713",
+        "name": "Rongga"
+    }
+}

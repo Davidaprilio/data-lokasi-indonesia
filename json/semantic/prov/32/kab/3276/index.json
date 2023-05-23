@@ -1,0 +1,10 @@
+{
+    "code": "3276",
+    "type": "Kota",
+    "name": "Depok",
+    "fullname": "Kota Depok",
+    "jumlah": {
+        "kecamatan": 11,
+        "desa": 63
+    }
+}

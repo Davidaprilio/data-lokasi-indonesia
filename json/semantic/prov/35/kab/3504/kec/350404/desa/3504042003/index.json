@@ -1,0 +1,17 @@
+{
+    "code": "3504042003",
+    "name": "Srikaton",
+    "poscode": "66252",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3504",
+        "name": "Tulungagung"
+    },
+    "kecamatan": {
+        "code": "350404",
+        "name": "Ngantru"
+    }
+}

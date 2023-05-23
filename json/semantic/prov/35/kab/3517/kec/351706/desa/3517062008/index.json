@@ -1,0 +1,17 @@
+{
+    "code": "3517062008",
+    "name": "Kauman",
+    "poscode": "61482",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3517",
+        "name": "Jombang"
+    },
+    "kecamatan": {
+        "code": "351706",
+        "name": "Mojoagung"
+    }
+}

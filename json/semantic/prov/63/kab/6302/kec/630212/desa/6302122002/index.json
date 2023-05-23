@@ -1,0 +1,17 @@
+{
+    "code": "6302122002",
+    "name": "Sei/Sungai Betung",
+    "poscode": "72166",
+    "provinsi": {
+        "code": "63",
+        "name": "Kalimantan Selatan"
+    },
+    "kabupaten": {
+        "code": "6302",
+        "name": "Kotabaru"
+    },
+    "kecamatan": {
+        "code": "630212",
+        "name": "Sampanahan"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "8107012011",
+    "name": "Durjela",
+    "poscode": "97662",
+    "provinsi": {
+        "code": "81",
+        "name": "Maluku"
+    },
+    "kabupaten": {
+        "code": "8107",
+        "name": "Kepulauan Aru"
+    },
+    "kecamatan": {
+        "code": "810701",
+        "name": "Pulau-Pulau Aru"
+    }
+}

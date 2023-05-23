@@ -1,0 +1,17 @@
+{
+    "code": "7402182013",
+    "name": "Humboto",
+    "poscode": "93466",
+    "provinsi": {
+        "code": "74",
+        "name": "Sulawesi Tenggara"
+    },
+    "kabupaten": {
+        "code": "7402",
+        "name": "Konawe"
+    },
+    "kecamatan": {
+        "code": "740218",
+        "name": "Uepai"
+    }
+}

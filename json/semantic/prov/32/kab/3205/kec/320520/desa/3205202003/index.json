@@ -1,0 +1,17 @@
+{
+    "code": "3205202003",
+    "name": "Sukawangi (Sukawargi)",
+    "poscode": "44163",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3205",
+        "name": "Garut"
+    },
+    "kecamatan": {
+        "code": "320520",
+        "name": "Cisurupan"
+    }
+}

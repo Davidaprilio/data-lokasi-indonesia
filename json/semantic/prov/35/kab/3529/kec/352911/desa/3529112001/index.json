@@ -1,0 +1,17 @@
+{
+    "code": "3529112001",
+    "name": "Kaduara Timur",
+    "poscode": "69465",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3529",
+        "name": "Sumenep"
+    },
+    "kecamatan": {
+        "code": "352911",
+        "name": "Pragaan"
+    }
+}

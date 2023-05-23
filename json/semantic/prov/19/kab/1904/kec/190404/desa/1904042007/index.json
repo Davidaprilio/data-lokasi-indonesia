@@ -1,0 +1,17 @@
+{
+    "code": "1904042007",
+    "name": "Terak",
+    "poscode": "33674",
+    "provinsi": {
+        "code": "19",
+        "name": "Kepulauan Bangka Belitung"
+    },
+    "kabupaten": {
+        "code": "1904",
+        "name": "Bangka Tengah"
+    },
+    "kecamatan": {
+        "code": "190404",
+        "name": "Simpang Katis"
+    }
+}

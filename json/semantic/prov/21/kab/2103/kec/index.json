@@ -1,0 +1,107 @@
+[
+    {
+        "code": "210305",
+        "name": "Bunguran Barat",
+        "count": {
+            "desa": 5
+        }
+    },
+    {
+        "code": "210320",
+        "name": "Bunguran Batubi",
+        "count": {
+            "desa": 5
+        }
+    },
+    {
+        "code": "210318",
+        "name": "Bunguran Selatan",
+        "count": {
+            "desa": 4
+        }
+    },
+    {
+        "code": "210316",
+        "name": "Bunguran Tengah",
+        "count": {
+            "desa": 3
+        }
+    },
+    {
+        "code": "210307",
+        "name": "Bunguran Timur",
+        "count": {
+            "desa": 7
+        }
+    },
+    {
+        "code": "210315",
+        "name": "Bunguran Timur Laut",
+        "count": {
+            "desa": 7
+        }
+    },
+    {
+        "code": "210308",
+        "name": "Bunguran Utara",
+        "count": {
+            "desa": 8
+        }
+    },
+    {
+        "code": "210304",
+        "name": "Midai",
+        "count": {
+            "desa": 3
+        }
+    },
+    {
+        "code": "210310",
+        "name": "Pulau Laut",
+        "count": {
+            "desa": 3
+        }
+    },
+    {
+        "code": "210311",
+        "name": "Pulau Tiga",
+        "count": {
+            "desa": 6
+        }
+    },
+    {
+        "code": "210321",
+        "name": "Pulau Tiga Barat",
+        "count": {
+            "desa": 4
+        }
+    },
+    {
+        "code": "210306",
+        "name": "Serasan",
+        "count": {
+            "desa": 7
+        }
+    },
+    {
+        "code": "210319",
+        "name": "Serasan Timur",
+        "count": {
+            "desa": 4
+        }
+    },
+    {
+        "code": "210322",
+        "name": "Suak Midai",
+        "count": {
+            "desa": 3
+        }
+    },
+    {
+        "code": "210309",
+        "name": "Subi",
+        "count": {
+            "desa": 8
+        }
+    }
+]

@@ -1,0 +1,17 @@
+{
+    "code": "3517102009",
+    "name": "Tanjunggunung (Tanjung Gunung)",
+    "poscode": "61481",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3517",
+        "name": "Jombang"
+    },
+    "kecamatan": {
+        "code": "351710",
+        "name": "Peterongan"
+    }
+}

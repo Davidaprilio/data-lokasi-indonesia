@@ -1,0 +1,17 @@
+{
+    "code": "1802122003",
+    "name": "Srikaton (Sri Katon)",
+    "poscode": "34158",
+    "provinsi": {
+        "code": "18",
+        "name": "Lampung"
+    },
+    "kabupaten": {
+        "code": "1802",
+        "name": "Lampung Tengah"
+    },
+    "kecamatan": {
+        "code": "180212",
+        "name": "Seputih Surabaya"
+    }
+}

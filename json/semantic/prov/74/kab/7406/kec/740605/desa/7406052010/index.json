@@ -1,0 +1,17 @@
+{
+    "code": "7406052010",
+    "name": "Rahadopi",
+    "poscode": "93781",
+    "provinsi": {
+        "code": "74",
+        "name": "Sulawesi Tenggara"
+    },
+    "kabupaten": {
+        "code": "7406",
+        "name": "Bombana"
+    },
+    "kecamatan": {
+        "code": "740605",
+        "name": "Kabaena"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "code": "3324",
+    "type": "Kabupaten",
+    "name": "Kendal",
+    "fullname": "Kabupaten Kendal",
+    "jumlah": {
+        "kecamatan": 20,
+        "desa": 286
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "3309192003",
+    "name": "Kalimati",
+    "poscode": "57391",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3309",
+        "name": "Boyolali"
+    },
+    "kecamatan": {
+        "code": "330919",
+        "name": "Juwangi"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "8103042009",
+    "name": "Marantutul",
+    "poscode": "97472",
+    "provinsi": {
+        "code": "81",
+        "name": "Maluku"
+    },
+    "kabupaten": {
+        "code": "8103",
+        "name": "Kepulauan Tanimbar (Maluku Tenggara Barat)"
+    },
+    "kecamatan": {
+        "code": "810304",
+        "name": "Wer Maktian"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "7501022014",
+    "name": "Mongolato",
+    "poscode": "96181",
+    "provinsi": {
+        "code": "75",
+        "name": "Gorontalo"
+    },
+    "kabupaten": {
+        "code": "7501",
+        "name": "Gorontalo"
+    },
+    "kecamatan": {
+        "code": "750102",
+        "name": "Telaga"
+    }
+}

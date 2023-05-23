@@ -1,0 +1,17 @@
+{
+    "code": "3515162005",
+    "name": "Gemurung",
+    "poscode": "61254",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3515",
+        "name": "Sidoarjo"
+    },
+    "kecamatan": {
+        "code": "351516",
+        "name": "Gedangan"
+    }
+}

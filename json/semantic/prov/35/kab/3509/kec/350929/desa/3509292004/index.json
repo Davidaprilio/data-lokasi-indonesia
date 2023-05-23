@@ -1,0 +1,17 @@
+{
+    "code": "3509292004",
+    "name": "Sukowono",
+    "poscode": "68194",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3509",
+        "name": "Jember"
+    },
+    "kecamatan": {
+        "code": "350929",
+        "name": "Sukowono"
+    }
+}

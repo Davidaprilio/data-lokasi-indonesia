@@ -1,0 +1,17 @@
+{
+    "code": "3522022004",
+    "name": "Turi",
+    "poscode": "62166",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3522",
+        "name": "Bojonegoro"
+    },
+    "kecamatan": {
+        "code": "352202",
+        "name": "Tambakrejo"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "3518062007",
+    "name": "Tegaron",
+    "poscode": "64484",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3518",
+        "name": "Nganjuk"
+    },
+    "kecamatan": {
+        "code": "351806",
+        "name": "Prambon"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "3211232002",
+    "name": "Ciuyah",
+    "poscode": "45355",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3211",
+        "name": "Sumedang"
+    },
+    "kecamatan": {
+        "code": "321123",
+        "name": "Cisarua"
+    }
+}

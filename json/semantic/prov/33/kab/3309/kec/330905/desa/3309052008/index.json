@@ -1,0 +1,17 @@
+{
+    "code": "3309052008",
+    "name": "Mudal",
+    "poscode": "57316",
+    "provinsi": {
+        "code": "33",
+        "name": "Jawa Tengah"
+    },
+    "kabupaten": {
+        "code": "3309",
+        "name": "Boyolali"
+    },
+    "kecamatan": {
+        "code": "330905",
+        "name": "Boyolali"
+    }
+}

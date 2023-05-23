@@ -1,0 +1,17 @@
+{
+    "code": "1508042003",
+    "name": "Pulau Jelmu",
+    "poscode": "37256",
+    "provinsi": {
+        "code": "15",
+        "name": "Jambi"
+    },
+    "kabupaten": {
+        "code": "1508",
+        "name": "Bungo"
+    },
+    "kecamatan": {
+        "code": "150804",
+        "name": "Jujuhan"
+    }
+}

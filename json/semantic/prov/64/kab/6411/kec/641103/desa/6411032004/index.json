@@ -1,0 +1,17 @@
+{
+    "code": "6411032004",
+    "name": "Danum Paroy",
+    "poscode": "75779",
+    "provinsi": {
+        "code": "64",
+        "name": "Kalimantan Timur"
+    },
+    "kabupaten": {
+        "code": "6411",
+        "name": "Mahakam Ulu"
+    },
+    "kecamatan": {
+        "code": "641103",
+        "name": "Laham"
+    }
+}

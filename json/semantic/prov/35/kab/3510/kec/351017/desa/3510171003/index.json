@@ -1,0 +1,17 @@
+{
+    "code": "3510171003",
+    "name": "Mojopanggung",
+    "poscode": "68425",
+    "provinsi": {
+        "code": "35",
+        "name": "Jawa Timur"
+    },
+    "kabupaten": {
+        "code": "3510",
+        "name": "Banyuwangi"
+    },
+    "kecamatan": {
+        "code": "351017",
+        "name": "Giri"
+    }
+}

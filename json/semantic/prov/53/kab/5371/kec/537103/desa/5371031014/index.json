@@ -1,0 +1,17 @@
+{
+    "code": "5371031014",
+    "name": "Oesapa Barat",
+    "poscode": "85228",
+    "provinsi": {
+        "code": "53",
+        "name": "Nusa Tenggara Timur (NTT)"
+    },
+    "kabupaten": {
+        "code": "5371",
+        "name": "Kupang"
+    },
+    "kecamatan": {
+        "code": "537103",
+        "name": "Kelapa Lima"
+    }
+}

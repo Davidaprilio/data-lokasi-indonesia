@@ -1,0 +1,17 @@
+{
+    "code": "3203042009",
+    "name": "Ciharashas",
+    "poscode": "43285",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3203",
+        "name": "Cianjur"
+    },
+    "kecamatan": {
+        "code": "320304",
+        "name": "Cilaku"
+    }
+}

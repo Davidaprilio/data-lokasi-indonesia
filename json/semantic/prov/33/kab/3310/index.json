@@ -1,0 +1,10 @@
+{
+    "code": "3310",
+    "type": "Kabupaten",
+    "name": "Klaten",
+    "fullname": "Kabupaten Klaten",
+    "jumlah": {
+        "kecamatan": 26,
+        "desa": 401
+    }
+}

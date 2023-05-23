@@ -1,0 +1,17 @@
+{
+    "code": "9502162006",
+    "name": "Okdo",
+    "poscode": "99413",
+    "provinsi": {
+        "code": "95",
+        "name": "Papua Pegunungan"
+    },
+    "kabupaten": {
+        "code": "9502",
+        "name": "Pegunungan Bintang"
+    },
+    "kecamatan": {
+        "code": "950216",
+        "name": "Ok Aom"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "code": "9508322001",
+    "name": "Mandala",
+    "poscode": "99927",
+    "provinsi": {
+        "code": "95",
+        "name": "Papua Pegunungan"
+    },
+    "kabupaten": {
+        "code": "9508",
+        "name": "Nduga"
+    },
+    "kecamatan": {
+        "code": "950832",
+        "name": "Pasir Putih"
+    }
+}

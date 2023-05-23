@@ -1,0 +1,17 @@
+{
+    "code": "1205222007",
+    "name": "Sulkam",
+    "poscode": "20773",
+    "provinsi": {
+        "code": "12",
+        "name": "Sumatera Utara"
+    },
+    "kabupaten": {
+        "code": "1205",
+        "name": "Langkat"
+    },
+    "kecamatan": {
+        "code": "120522",
+        "name": "Kutambaru"
+    }
+}

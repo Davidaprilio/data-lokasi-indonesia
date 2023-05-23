@@ -1,0 +1,17 @@
+{
+    "code": "3207342007",
+    "name": "Rawa",
+    "poscode": "46258",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3207",
+        "name": "Ciamis"
+    },
+    "kecamatan": {
+        "code": "320734",
+        "name": "Lumbung"
+    }
+}

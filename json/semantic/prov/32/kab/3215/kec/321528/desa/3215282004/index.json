@@ -1,0 +1,17 @@
+{
+    "code": "3215282004",
+    "name": "Cintalaksana",
+    "poscode": "41364",
+    "provinsi": {
+        "code": "32",
+        "name": "Jawa Barat"
+    },
+    "kabupaten": {
+        "code": "3215",
+        "name": "Karawang"
+    },
+    "kecamatan": {
+        "code": "321528",
+        "name": "Tegalwaru"
+    }
+}

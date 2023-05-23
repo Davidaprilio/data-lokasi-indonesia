@@ -1,0 +1,17 @@
+{
+    "code": "7409092010",
+    "name": "Banggarema",
+    "poscode": "93356",
+    "provinsi": {
+        "code": "74",
+        "name": "Sulawesi Tenggara"
+    },
+    "kabupaten": {
+        "code": "7409",
+        "name": "Konawe Utara"
+    },
+    "kecamatan": {
+        "code": "740909",
+        "name": "Andowia"
+    }
+}

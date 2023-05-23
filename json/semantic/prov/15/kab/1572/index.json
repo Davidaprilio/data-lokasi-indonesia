@@ -1,0 +1,10 @@
+{
+    "code": "1572",
+    "type": "Kota",
+    "name": "Sungai Penuh",
+    "fullname": "Kota Sungai Penuh",
+    "jumlah": {
+        "kecamatan": 8,
+        "desa": 69
+    }
+}
