@@ -3,10 +3,11 @@ const listProvinsi = require('../data/provinsi_detail.json');
 const listKabupatenType = require('../data/kabupatens/prov_11_aceh-nad-.json')
 const listKecamatanType = require('../data/kecamatans/kab_11.01.json')
 const listDesaType = require('../data/desa/kec_11.01.01.json')
-const { saveToFile, slugable } = require('./utils');
+const { saveToFile, slugable, loading } = require('./utils');
 
 // make directory if not exist
-const rootDir = '../json/semantic/prov';
+const rootDirSemantic = '../json/semantic/prov';
+const rootDirSimple = '../json/simple';
 
 /** @param {listProvinsi[value]} provinsi */
 const makeDataProvinsi = (provinsi) => ({
@@ -53,53 +54,68 @@ async function saveFile(path, object) {
 }
 
 async function run() {
-    await saveFile(`${rootDir}/index`, listProvinsi.map(provinsi => makeDataProvinsi(provinsi)));
+    const loader = loading('Building data')
+    loader.text = 'create provinsi data'
+    await saveFile(`${rootDirSemantic}/index`, listProvinsi.map(provinsi => makeDataProvinsi(provinsi)));
+    await saveFile(`${rootDirSimple}/provinsi/index`, listProvinsi.map(provinsi => makeDataProvinsi(provinsi)));
 
     // create kabupaten each provinsi kode
     for (const provinsi of listProvinsi) {
-        const pathProvinsi = `${rootDir}/${provinsi.provinsi.kode}`;
+        loader.text = `${provinsi.provinsi.name} - create kabupaten data`
+        const pathProvinsi = `${rootDirSemantic}/${provinsi.provinsi.kode}`;
         
         // detail file
-        await saveFile(`${pathProvinsi}/index`, makeDataProvinsi(provinsi))
+        const detailDataProvinsi = makeDataProvinsi(provinsi)
+        await saveFile(`${pathProvinsi}/index`, detailDataProvinsi)
         
         const filenameKabupaten = `prov_${provinsi.provinsi.kode}_${slugable(provinsi.provinsi.name)}.json`;
         /** @type {listKabupatenType} */
         const listKabupaten = require(`../data/kabupatens/${filenameKabupaten}`);
 
         // list file
-        await saveFile(`${pathProvinsi}/kab/index`, listKabupaten.map(kabupaten => makeDataKabupaten(kabupaten)));
+        const listDataKabupaten = listKabupaten.map(kabupaten => makeDataKabupaten(kabupaten))
+        await saveFile(`${pathProvinsi}/kab/index`, listDataKabupaten);
+        await saveFile(`${rootDirSimple}/kabupaten/${detailDataProvinsi.code}/index`, listDataKabupaten);
 
         // create kecamatan each kabupaten kode
         for (const kabupaten of listKabupaten) {
+            loader.text = `${provinsi.provinsi.name} - ${kabupaten.name} - create kecamatan data`
             const codeKab = kabupaten.kode.replaceAll('.', '');
             const pathKabupaten = `${pathProvinsi}/kab/${codeKab}`;
 
             // detail file
-            await saveFile(`${pathKabupaten}/index`, makeDataKabupaten(kabupaten));
+            const detailDataKab = makeDataKabupaten(kabupaten);
+            await saveFile(`${pathKabupaten}/index`, detailDataKab);
 
             /** @@type {listKecamatanType} */
             const listKecamatan = require(`../data/kecamatans/kab_${kabupaten.kode}.json`);
 
             // list file
-            await saveFile(`${pathKabupaten}/kec/index`, listKecamatan.map(kecamatan => makeDataKecamatan(kecamatan)));
+            const listDataKecamatan = listKecamatan.map(kecamatan => makeDataKecamatan(kecamatan))
+            await saveFile(`${pathKabupaten}/kec/index`, listDataKecamatan);
+            await saveFile(`${rootDirSimple}/kecamatan/${detailDataKab.code}/index`, listDataKecamatan);
 
             // create desa each kecamatan kode
             for (const kecamatan of listKecamatan) {
+                loader.text = `${provinsi.provinsi.name} - ${kabupaten.name} - ${kecamatan.name} - create desa data`
                 const codeKec = kecamatan.kode.replaceAll('.', '');
                 const pathKecamatan = `${pathKabupaten}/kec/${codeKec}`;
 
                 // detail file
-                await saveFile(`${pathKecamatan}/index`, makeDataKecamatan(kecamatan));
+                const detailDataKec = makeDataKecamatan(kecamatan)
+                await saveFile(`${pathKecamatan}/index`, detailDataKec);
 
                 /** @@type {listDesaType} */
                 const listDesa = require(`../data/desa/kec_${kecamatan.kode}.json`);
 
                 // list file
-                await saveFile(`${pathKecamatan}/desa/index`, listDesa.map(desa => ({
+                const listDataDesa = listDesa.map(desa => ({
                     code: desa.kode.replaceAll('.', ''),
                     name: desa.name,
                     poscode: desa.kodepos,
-                })))
+                }))
+                await saveFile(`${pathKecamatan}/desa/index`, listDataDesa)
+                await saveFile(`${rootDirSimple}/desa/${detailDataKec.code}/index`, listDataDesa);
 
                 // detail desa 
                 for (const desa of listDesa) {
@@ -129,5 +145,6 @@ async function run() {
 
         }
     }    
+    loader.succeed('Build Success')
 }
 run();
