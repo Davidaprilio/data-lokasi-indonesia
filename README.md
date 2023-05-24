@@ -1,6 +1,6 @@
 # Data Lokasi Indonesia 2023
 
-Repo ini menyediakan data lokasi (Provinsi, Kabupaten, Kecamatan dan Desa + kodepos) dalam bentuk static file json. Data ini bersumber/diambil dari nomor.net. Data lokasi dapat dipanggil sebagai API static. [Lihat Demo](https://davidaprilio.github.io/data-lokasi-indonesia)
+Repo ini menyediakan data lokasi (Provinsi, Kabupaten, Kecamatan dan Desa + kodepos) dalam bentuk static file json. Data ini bersumber/diambil dari nomor.net. Data lokasi dapat dipanggil sebagai API static. [Lihat Demo](https://davidaprilio.github.io/data-lokasi-indonesia/demo.html)
 
 ## Penggunaan API
 Berikut cara menggunakan static file ini
