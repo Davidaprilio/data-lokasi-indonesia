@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Demo - data-lokasi-indonesia</title>
+    <style>
+        select {
+            width: 24%;
+            padding: 10px;
+            margin: 5px 0;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+            box-sizing: border-box;
+        }
+    </style>
+</head>
+
+<body>
+    <select id="provinsi-select"></select>
+    <select id="kabupaten-select"></select>
+    <select id="kecamatan-select"></select>
+    <select id="desa-select"></select>
+
+    <script src="https://cdn.jsdelivr.net/gh/davidaprilio/laravel-api-daerah@1.0.5/resources/js/api-daerah.min.js"
+        integrity="sha256-d7k3KnZoM468syAgRRJKuFEv5EIUbl/1UbIkguVVv1o=" crossorigin="anonymous"></script>
+    <script>
+        const apiDaerah = new ApiDaerah({
+            baseUrl: 'https://davidaprilio.github.io/data-lokasi-indonesia/json/simple',
+            provinsi: {
+                value: 'code',
+                text: 'name',
+                endpoint: '/provinsi',
+            },
+            kabupaten: {
+                value: 'code',
+                text: 'fullname',
+                endpoint: '/kabupaten/:id', // :id wajib diisi jika mau custom
+            },
+            kecamatan: {
+                value: 'code',
+                text: 'name',
+                endpoint: '/kecamatan/:id',
+            },
+            desa: {
+                value: 'code',
+                text: 'name',
+                endpoint: '/desa/:id',
+            },
+            enabled: {
+                desa: true,
+            }
+        })
+    </script>
+</body>
+
+</html>
