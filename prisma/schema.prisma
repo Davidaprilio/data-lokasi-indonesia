@@ -11,21 +11,26 @@ datasource db {
 }
 
 model Location {
-  id             Int      @id @default(autoincrement())
-  nama           String
-  digit1KodePos  String   @map("digit1_kode_pos")
-  alokasiKodePos String
-  realitaKodePos String
-  jmlKotaKab     Int
-  jmlKota        Int
-  jmlKab         Int
-  jmlKec         Int
-  jmlDesa        Int
-  jmlPulau       Int
-  kodeWilayah    String
-  luasWilayah    Float
-  jumlahPenduduk Int  
-  type           String // provinsi|kota|kabupaten|kecamatan|desa
-  createdAt      DateTime @default(now())
-  updatedAt      DateTime @updatedAt
+  id                Int      @id @default(autoincrement())
+  parentId          Int?
+  kodeWilayah       String
+  parentKodeWilayah String?
+  nama              String
+  digit1KodePos     String?   @map("digit1_kode_pos")
+  alokasiKodePos    String?
+  realitaKodePos    String?
+  jmlKotaKab        Int?
+  jmlKota           Int?
+  jmlKab            Int?
+  jmlKec            Int?
+  jmlDesa           Int?
+  jmlPulau          Int?
+  luasWilayah       Float?
+  jumlahPenduduk    Int?
+  type              String // provinsi|kota|kabupaten|kecamatan|desa
+  createdAt         DateTime @default(now())
+  updatedAt         DateTime @updatedAt
+
+  @@unique([nama, kodeWilayah])
+  @@map("locations")
 }
