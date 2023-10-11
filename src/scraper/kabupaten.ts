@@ -6,6 +6,8 @@ import { PrismaClientKnownRequestError } from "@prisma/client/runtime/library";
 
 export default async function scrapeDataKabupaten(pages: Page[], info: any) {
     const page = pages[0]
+    await scrapeDataTambahanKabupaten(page)
+    return
     const load = scrapeLoading('Kabupaten', 514)
     await sleep(2_000)
     await page.waitForSelector('body')
@@ -64,6 +66,53 @@ export default async function scrapeDataKabupaten(pages: Page[], info: any) {
         }).catch((e: PrismaClientKnownRequestError) => {
             if (e.code == "P2002") {
                 console.log(`Kabupaten ${kk.nama} already exist`)                
+            }
+        })
+        load.add(1)
+    }
+
+    load.success()
+    await scrapeDataTambahanKabupaten(page)
+
+    return
+}
+
+
+async function scrapeDataTambahanKabupaten(page: Page) {
+    const load = scrapeLoading('Kabupaten Additional Info', 514)
+    await page.goto('https://www.nomor.net/_kodepos.php?_i=uuri-kota&daerah=&jobs=&perhal=700&urut=&asc=010000&sby=000000&no1=2', {
+        waitUntil: 'load'
+    })
+    await page.waitForSelector('body')
+
+    const data = await page.$eval('body table table:nth-child(2) table:nth-child(4) > tbody:not(.header_mentok)', 
+    function (tbody) {
+        const toNumber = (str?: string) => {
+            if (str === undefined) return null
+            return Number(str.trim().replaceAll('.', '').replace(',', '.'))
+        }
+
+
+        return Object.values(tbody.childNodes).map((tr: any): Prisma.LocationUpdateInput => {
+            const td = tr.childNodes
+            return {
+                type: td[2].innerText,
+                nama: td[4].innerText,
+                luasWilayah: toNumber(td[8].querySelector('td:nth-child(1) > b:nth-child(3)').innerText.replace(' km²', '')),
+                jumlahPenduduk: toNumber(td[8].querySelector('td:nth-child(1) > b:nth-child(1)').innerText),
+            }
+        })
+    })
+
+    for (const prov of data) {
+        await prismaClient.location.updateMany({
+            where: {
+                nama: prov.nama as string,
+                type: prov.type as string
+            },
+            data: {
+                luasWilayah: prov.luasWilayah,
+                jumlahPenduduk: prov.jumlahPenduduk
             }
         })
         load.add(1)

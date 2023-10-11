@@ -27,6 +27,7 @@ model Location {
   jmlPulau          Int?
   luasWilayah       Float?
   jumlahPenduduk    Int?
+  ibukotaId         Int?     @map("ibukota_id")
   type              String // provinsi|kota|kabupaten|kecamatan|desa
   createdAt         DateTime @default(now())
   updatedAt         DateTime @updatedAt

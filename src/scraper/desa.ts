@@ -19,7 +19,9 @@ export default async function scrapeDataDesa(pages: Page[], info: any) {
         });
 
         const tbodySelector = 'body table table:nth-child(2) table:nth-child(4) > tbody:not(.header_mentok)'
-        await page.waitForSelector(tbodySelector)
+        await page.waitForSelector(tbodySelector, {
+            timeout: 0
+        })
 
         await sleep(1_000)
     
@@ -98,7 +100,7 @@ export default async function scrapeDataDesa(pages: Page[], info: any) {
     }
 
     // await doScrape(page, "https://nomor.net/_kodepos.php?_i=desa-kodepos&daerah=&jobs=&perhal=5000&urut=&asc=000101&sby=000000&no1=2")
-    await doScrape(page, "https://www.nomor.net/_kodepos.php?_i=desa-kodepos&daerah=&jobs=&perhal=5000&urut=&asc=000101&sby=000000&no1=25001&no2=30000&kk=7")
+    await doScrape(page, "https://www.nomor.net/_kodepos.php?_i=desa-kodepos&daerah=&jobs=&perhal=2500&urut=&asc=000101&sby=000000&no1=2&no2=32500&kk=0")
 
     load.success()
 }
