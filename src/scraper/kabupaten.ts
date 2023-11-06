@@ -6,8 +6,6 @@ import { PrismaClientKnownRequestError } from "@prisma/client/runtime/library";
 
 export default async function scrapeDataKabupaten(pages: Page[], info: any) {
     const page = pages[0]
-    await scrapeDataTambahanKabupaten(page)
-    return
     const load = scrapeLoading('Kabupaten', 514)
     await sleep(2_000)
     await page.waitForSelector('body')
@@ -15,8 +13,9 @@ export default async function scrapeDataKabupaten(pages: Page[], info: any) {
     await page.goto('https://nomor.net/_kodepos.php?_i=kota-kodepos&sby=000000', {
         waitUntil: 'load'
     });
-    await page.waitForSelector('body table table:nth-child(2) table:nth-child(4) > tbody:not(.header_mentok)')
-    const allKotaKab = await page.$eval('body table table:nth-child(2) table:nth-child(4) > tbody:not(.header_mentok)', (tbody) => {
+    const tableSelector = "body table table:nth-child(4) > tbody:not(.header_mentok)"
+    await page.waitForSelector(tableSelector)
+    const allKotaKab = await page.$eval(tableSelector, (tbody) => {
         const toNumber = (str?: string) => {
             if (str === undefined) return null
             return Number(str.trim().replace('.', '').replace(',', '.'))
@@ -85,7 +84,7 @@ async function scrapeDataTambahanKabupaten(page: Page) {
     })
     await page.waitForSelector('body')
 
-    const data = await page.$eval('body table table:nth-child(2) table:nth-child(4) > tbody:not(.header_mentok)', 
+    const data = await page.$eval('body table table:nth-child(4) > tbody:not(.header_mentok)', 
     function (tbody) {
         const toNumber = (str?: string) => {
             if (str === undefined) return null

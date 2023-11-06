@@ -12,8 +12,17 @@ export default async function scrapeDataProvinsi(pages: Page[], info: any) {
         waitUntil: 'load'
     });
     await page.waitForSelector('body')
-
-    const data = await page.$eval('body table table:nth-child(2) table:nth-child(4) > tbody:not(.header_mentok)', 
+    
+    // checking if Cloudflare is blocking the request waiting resolving manualy
+    // 'Checking if the site connection is secure'
+    // await page.waitForSelector('body #challenge-running', {
+    //     timeout: 3_000
+    // })
+    const tableSelector = "body table table:nth-child(4) > tbody:not(.header_mentok)"
+    await page.waitForSelector(tableSelector, {
+        timeout: 0
+    })
+    const data = await page.$eval(tableSelector, 
     function (tbody) {
         const toNumber = (str?: string) => {
             if (str === undefined) return null
@@ -66,7 +75,7 @@ async function scrapeDataTambahanProvinsi(page: Page) {
     })
     await page.waitForSelector('body')
 
-    const data = await page.$eval('body table table:nth-child(2) table:nth-child(4) > tbody:not(.header_mentok)', 
+    const data = await page.$eval('body table table:nth-child(4) > tbody:not(.header_mentok)', 
     function (tbody) {
         const toNumber = (str?: string) => {
             if (str === undefined) return null
